@@ -1,0 +1,393 @@
+People of YouTube, it is I, everyone's favorite YouTuber Killer Keemstar and today we have some
+killer news, some breaking news to discuss that's definitely not two months old. Now what I'm going
+to talk about today is something that many of you might not even know about at all or even if you
+did you probably forgot about it by now but on January 29, 2019 the YouTube Creator Insider
+channel uploaded a video where they kind of sort of entertained the idea of possibly removing the
+dislike button on YouTube. Another option is just to remove dislikes entirely from YouTube. That's
+a very extreme option. That one seems like kind of not super democratic in my opinion. Now this
+is something that YouTube has foreshadowed for a while and it's something that I've been fearing
+happening for a long time. This is something, the prospect of YouTube removing the dislike button,
+this is something I've been theorizing for years. Even back when I made YouTube poops I thought of
+this idea back when they changed the colors of the dislikes. It used to be green and red and then
+all of a sudden they changed it to blue and gray. It's just blue and not a color. With the constant
+updates to the UI they've been minimizing the dislike bar. Now obviously in this video they
+don't say anything definitive. They really just kind of throw the idea out there and treat it as
+sort of a last resort for dealing with what they refer to as the dislike mob which we'll get into
+later. But I'd also like to mention that for every massively unpopular feature that nobody likes and
+YouTube rolls out anyway they all begin the same way with YouTube teasing it and treating it like
+a non-committal optional thing and then it becomes default for the whole site. And the fact of the
+matter is that YouTube has presented this idea on the table officially. I was always under the
+impression that YouTube was foreshadowing this because with seemingly every major update they
+make to the site's user interface the dislike bar appears less and less prominent. There have
+also been these bizarre cases of select videos where YouTube seems to be inexplicably removing
+dislikes or hiding the accurate dislike number from the public. It seems like something fishy
+is going on behind the scenes at YouTube and they are actively looking to either tweak or tamper
+with the dislike metric on the website as a whole. Now just like almost all of YouTube's major
+proposed changes for the site the idea of removing dislikes is very unpopular. A lot of people seem
+to intuitively understand that dislikes matter but I really don't think enough people realize
+just how important dislikes are on YouTube. But for as much as most people would like to keep
+dislikes around there's a certain camp that actually believes it's a good idea to remove
+dislikes from YouTube entirely. So in this video I'm going to do my best to explain why removing
+dislikes is not a great idea. But first what exactly is the argument for removing dislikes?
+First of all the camp who wants to remove dislikes rely heavily on this idea of a dislike mob which
+is terminology that's been used and validated by YouTube itself. Dislike mobs so this is where
+a group of people will go to a video not even watch the video and just purposely hit the thumbs
+down. And the fear is that by intentionally driving down the ratings of a video it will
+negatively affect the perceptions of the audience watching and predispose them to unfairly hate the
+video. Additionally they argue that dislikes negatively affect a video's performance in the
+algorithm and that enabling the dislike button makes it too easy for opponents to silence your
+videos. And finally the dislike function is binary and non-descriptive and user criticism can be
+easily supplemented by the comment section therefore making dislikes a redundant feature.
+So these are the main arguments for removing dislikes on YouTube. But before we can get into
+this discussion we have to first understand the role of dislikes on YouTube. You each have a knob
+in front of you when you like what you see turn the knob to the right when you don't like what you
+see turn it left. The origin of the dislike dates back to 2010 when YouTube retconned the original
+star rating system. It's the simplest and most accessible method that people use to determine
+the overall quality of a video. But how exactly do you measure whether a video is good or bad?
+I took a sample of 24 recommended videos on my home page. Yeah it's not a perfect sample or
+completely generalizable to all of YouTube but it should provide us with a decent enough estimate.
+So the 24 videos had a mean rating of 94% and a median rating of 96%. When you click on a YouTube
+video there's a good chance that at least 19 out of 20 people liked it. People tend to like YouTube
+videos a lot so we have to adjust our standards accordingly. So based on my personal observations
+from many years of watching videos on YouTube I've arranged video ratings into seven tiers.
+If your video has 99% likes or more you're probably looking at a pretty great video.
+98 to 97% is not good enough to be the best but still a good video. Most of the videos you watch
+on YouTube will probably fall between 96 and 94% which indicates that the video is pretty average.
+At 93 to 90% you're entering the territory where you start to notice that the video has an above
+average amount of dislikes. You'll usually see this on videos where the audience disagrees with
+the creator on one or two points in the video but otherwise the video is pretty average. At 89 to
+80% you're starting to enter controversial territory. You'll typically see this rating on
+videos that deal with highly opinionated hot button issues like politics or any review of
+The Last Jedi. If your ratings dip below 80% then there is probably something seriously wrong with
+your video. Either the video or audio quality is really bad or you made a big mistake in your
+research or if you just had a really controversial opinion. This is a stage where the quantity of
+dislikes is so abnormal that people actually really start paying attention to it. And finally
+if your video ratings drop below 50% then there isn't just something wrong with your video there's
+probably something wrong with you. If your ratings drop below this level then you probably said
+something so wrong or so out of touch that a huge part of your audience has lost respect for you.
+And you may have done irreparable damage to your online reputation. So that's generally how I
+categorize ratings on YouTube videos. It's not going to be perfect. You're going to be able to
+find non-examples but by and large this list is going to be fairly accurate. And you can generally
+use YouTube ratings to heuristically predict the nature of a video. But before we go any further
+I have a few more important things to explain about dislikes. First of all I see a lot of people
+under the impression that YouTube video ratings imply quality. That's not exactly true. You can
+have a very high quality video production wise but if people disagree with the core message then
+they're going to press dislike. More accurately ratings on YouTube represent a measure of
+controversiality. Second when videos are uploaded ratings tend to start high then gradually regress
+to the mean as the video becomes more widely circulated. Generally older videos with high
+view counts will have lower overall ratings because they've been exposed to a greater number
+of people. And finally older YouTubers with large dedicated followings tend to have better overall
+ratings than newer YouTubers. This is simply because the longer you watch a YouTuber the more
+you tend to trust them and the more likely you are to engage with their content. So naturally
+YouTubers that have been around for a while and have a huge core audience are going to get a lot
+more likes on each video as opposed to an unproven guy who nobody knows about. Therefore
+older YouTubers tend to get a lot more likes per video which skews their overall ratings in their
+favor. So if dislikes aren't an indicator of quality then what exactly is the function of
+dislikes on YouTube? Well at a fundamental level dislikes are a reflection of the extent to which
+people disagree with the core message of a video. Like I said earlier you could have the most
+expensive production with the slickest editing possible but if people don't like what you're
+saying and how you're saying it you're gonna wind up with a lot of dislikes on YouTube.
+I have to reiterate that dislikes are not a measure of objective quality rather it measures
+a difference in opinion. And with that being said it's the single most important line of
+communication between an audience and a creator. Your success as a creator on YouTube will almost
+inevitably depend on how you respond to dislikes. Now if you're someone like Dan Olson who believes
+that dislikes shouldn't exist on YouTube then you'd probably also be the same type of person
+to disable ratings on your own videos. Ah shit here we go again. Trust me when I say that this
+is one of the worst things you can do as a YouTuber. Seriously in all my days on this
+site I've never encountered a single successful and respected YouTuber who frequently disables
+their ratings. To understand why you have to realize why most people watch YouTube in the first
+place and that's to express their interests and opinions. Whether that be through their uploads,
+watch history, comments, and yes their ratings. When you choose to disable ratings on a video
+you are deliberately depriving your audience of one of their expressive outlets and you're
+consequently degrading their experience as a viewer. Even if they agree with you if your goal
+on YouTube is to not be hated by your audience then you probably shouldn't disable ratings.
+And yet here we see Dan Olson committing the cardinal sin. If you know anything about how
+YouTube works you'd have to realize that this is a boneheaded decision. I mean really anybody
+who expects people to support them after disabling ratings on their YouTube videos must be completely
+irrational. But let's assume that he is rational. Clearly something has led poor Danny boy here to
+intentionally degrade the experience of all his viewers. Well if you asked him he'd probably
+tell you that he disabled his ratings to protect himself from the nefarious dislike mobs. So let's
+talk about dislike mobs. You were 100% convinced that those negative reviews were part of a
+conspiracy. I feel like I'm in a rather privileged position to talk about this since I literally
+started one in 2017 when I encouraged people to go dislike the YouTube Rewind and make it the most
+disliked video of all time. It didn't work. Kind of. I guess it was a year too early. Now the vernacular
+of a dislike mob conjures up images of a torch-wielding horde of deranged maniacs who
+mindlessly spam dislike on whatever unfortunate video gets in their way. In reality what you may
+perceive as a dislike mob is almost certainly just a large group of people who simply disagreed with
+the fundamental message of your video. Why did the YouTube Rewind 2018 become the most disliked
+video of all time? Could it possibly be because a racist bigoted dislike mob conspired against the
+video's diversity message? No. I think we should read the comments. People dislike the Rewind
+because most people don't like the slick corporate brand friendly image that the site is trying to
+create for itself by excluding grassroots YouTubers like PewDiePie and MrBeast. People
+don't like being lectured about the importance of tolerating gay people by a company that has
+repeatedly demonstrated that they don't actually care about gay people. People don't like the idea
+of Hollywood celebrities, Twitch streamers, and Instagram models populating a video that is
+supposedly about celebrating YouTubers. Do you kind of see where I'm going with this?
+If your YouTube videos are getting a lot of dislikes and your initial reaction is that
+there's an evil mob of radicals conspiring against you, then there's probably a more
+reasonable explanation. Chef Ramsay had the absolute nerve to reach out to Yelpers.
+They are deliberately attacking my restaurant. Every Yelper lies. They hurt and damage
+restaurants by doing this. It is front page news across the country. As one would imagine,
+Mueller found collusion between President Trump, his campaign in Russia. The president obstructed
+justice. There will be new indictments to conservatives. If there's indictments, then
+clearly this has ended with Russian collusion. All indictments have been related to conspiring
+with Russians. It cost more than 25 million cocks and about 500 penises over 9,000 penises.
+There was obstruction. So, Mr. Drumpf, you admit you conspired with Russians.
+What do you have to say in your defense? Coincidence? I think not super democratic.
+Now, the Dan Olson type might counter this by saying that the dislike mob is a legitimate
+threat because the rating system potentially allows large and powerful groups to harass small,
+independent YouTubers whom they view as... Next, we're bullying me!
+I mean, look what happened when iDubbbz sent his army of fans to attack Leafy.
+Oh, wait. iDubbbz had a smaller channel at the time. But what about that time when I,
+the devilish butthole Emperor Lemon, sent all of my fans to go harass behind the meme?
+Ooh, yeah, um... Bullying!
+Yeah, it turns out that on YouTube, people tend to support the underdog.
+But I'm sure these are just two anecdotal examples that I cherry-picked, and they certainly don't
+reflect the true threat of dislike mobs like, oh say, the list of the most disliked YouTube
+videos ever. Welcome to WatchMojo.com and still be counting down number one.
+Coming in at number one is, once again, the 2018 YouTube Rewind, which saw an unprecedented volume
+of dislikes on a video. But it's clearly just a dislike mob who hates diversity.
+Can we also give a moment to Asian representation in entertainment this year?
+Number two...
+Number two is a music video called Baby by independent,
+small-time music artist Justin Bieber. Looks like the dislike mob here is just
+discriminating against Canadians. Number three...
+Number three is It's Everyday Bro by small underground YouTuber Jake Paul.
+Obviously, the lyrical and melodic content of this renaissance masterpiece deserves the highest
+of praise, and all these dislikes are just from a mob of haters whom we should dab on.
+Make sure you're dabbing on them haters, baby!
+Dab. Dab. Dab.
+Number four...
+Number four is a video from the small YouTuber PewDiePie in a video where he literally asks
+his fans to dislike it, but I'm sure some of those came from a mob.
+The racist, sexist, homophobic...
+Worldview.
+Worldview.
+Society.
+Number five...
+Enough is enough.
+Make sure you dabbing on them haters.
+Make sure you dabbing on them haters.
+Institutions.
+Dabbing on them haters.
+But what if we took the same list and ordered it by highest percentage of dislikes?
+Man, it's gonna take a real evil and dedicated mob to do that kind of damage.
+Well, organized in this order, the most disliked videos feature the targeted harassment of frail
+victims such as YouTube, Call of Duty, the NFL, PewDiePie, RiceGum, YouTube again, and
+the number one spot, coming in with over 98% dislikes, a video so hated that the creator
+had to issue a copyright claim against herself to take it down.
+It's some Brazilian celebrity who was encouraging her fans to vote against a political candidate.
+No matter how you slice it, the aggregate power of the dislike is used
+overwhelmingly against big corporate entities.
+Do we really want to give nuclear weapons to a man whose signature move is firing?
+Firing.
+Firing things?
+Yes!
+The true dislike mob is often just the common YouTuber pushing back against their corporate
+overlords.
+Since the very beginning of the feature, YouTubers have used the dislike as a spiritual veto
+against slimy manipulation by politicians and corporations, not the other way around.
+Now tell me, does Dan Olson look like the type of guy who wants to put more power in
+the hands of wealthy corporations?
+Well, that's exactly what would happen if he got his wish of YouTube removing dislikes.
+You don't need to be in the pew every Sunday to know that there's something wrong in this
+country when gays can serve openly in the military.
+But I mean, clearly just because the dislike is frequently used by the common people to
+hashtag resist the evil corporations, it can still happen the other way around.
+I mean, big powerful groups have the incentive to do so because dislikes negatively affect
+your videos in the algorithm.
+Except there's absolutely no evidence of this.
+At all.
+According to my YouTube analytics, my Jimmy Kimmel video received a huge spike in dislikes
+on April 20th, 2018.
+Uh oh, looks like the dislike mob got to me.
+Better disable my ratings before my views drop.
+Except I didn't.
+And the video still gets plenty of views, even though the proportion of dislikes has
+continued to increase over time.
+You may write this off as just circumstantial evidence, but if you ask any YouTuber out
+there who isn't terrified of the dislike mob boogeyman, they'll tell you the same thing
+that dislikes have no direct effect on viewership.
+The only YouTube feature that has been demonstrably proven to reduce viewership is demonetization.
+Well, whatever.
+I guess you could still somehow justify disabling ratings because at least the comments give
+better feedback.
+Because it's not like the YouTube comment system is notorious for being a cesspool of
+knuckleheads impulsively spewing their uninformed opinions.
+And it's also widely understood that comments are certainly not populated by a vocal minority
+of more radical viewers who will inevitably form a cult of personality around you if you
+cater to them.
+Are you saying my money's all gone?
+But I made all the right moves, didn't I?
+Oh, yes, sir.
+Every move a right one.
+Yep, comments are definitely a better feedback system than dislikes.
+I'm really glad I disabled them.
+So glad, in fact, that I believe YouTube should disable dislikes for the entire platform.
+I think it's a great idea.
+And for that reason, other people should, too.
+I'm so smart and correct about everything.
+Just look at all these comments agreeing with me.
+Man, I can picture it now.
+The dislike free utopian future of YouTube.
+Wait a minute.
+That's just Facebook, a site where people act like machines, corporations act like people
+and machines act like CEOs.
+A very utopian place indeed.
+But hey, at least there's no dislikes.
+And we all know that the lack of dislikes promotes great content and discussion on Facebook.
+Or how about Twitter?
+No dislikes to be found here without a dislike button to weaponize.
+There are certainly no angry mobs wreaking havoc in this place.
+Oh, man, I'm about to contradict myself here.
+But Reddit has a dislike feature and the discussion sucks here, too.
+You ignorant, self-serving, killjoy, nitpicking, burger cutting bitch.
+I guess that's bad news for dislikes on YouTube.
+Except dislikes on YouTube don't affect the visibility of your posts.
+But maybe there's a better and more fair comment system than Reddit, like this one.
+Oh, wait, this is the YouTube comment system
+where dislikes have been disabled for almost five years now and it's still a cesspool.
+Well, if we're talking about cesspools, let's throw in 4chan.
+No dislikes here or even likes for that matter.
+Surely this is the pinnacle of utopian mob free discourse.
+Now tell me, does Dan Olson look like the type of guy who would prefer 4chan over Reddit?
+I think not.
+Am I so out of touch?
+No, it's the children who are wrong.
+Here's the thing.
+People like classifying and ranking things in a hierarchy.
+We do this intuitively.
+It's based on how our brains organize and categorize information.
+There's a reason why WatchMojo, one of the most bland and boring channels ever,
+can forge a 20 million subscriber empire from making nothing but top 10 lists.
+People have a natural fascination with ranking things in some kind of order
+and they do the same thing with likes and dislikes.
+People want to know what's good and what's bad
+and sweeping your ratings under the rug won't change that.
+Every website that doesn't have a dislike function
+has users who try to supplement it through some other means.
+On Facebook, you have the angry react.
+On Twitter, people get ratioed.
+On 4chan, people try to get used.
+And that brings me to the main point of this video.
+Just because you can't see the dislikes doesn't mean they don't exist.
+It's childish and you're starting to see this mentality everywhere.
+Oh no, people didn't like this movie with a woman in it?
+I guess it's just a dislike mob who supports the patriarchy.
+Oh no, you disagree with my impeccable opinion?
+I guess I have no choice but to block you,
+since I can't see anyone who disagrees with me.
+That must mean everyone agrees with me.
+You could put half of Trump supporters into what I call the basket of deplorables.
+Now having said all this, why aren't I 50 points ahead, you might ask?
+I swear some people online are so averse to basic discourse
+that they unlearn object permanence.
+Except it's not object permanence, it's dislike permanence.
+Let's face it, you can say anything online
+and a small fraction of people will hate you for it.
+That much is inevitable.
+As any sort of content creator online,
+you will almost certainly encounter a moment
+when you're faced with an unprecedented amount of backlash.
+I always go back to the example of my Behind the Meme video.
+Do you know how easy it would have been for me to simply write off all the criticism
+as a bunch of pissed off Behind the Meme fanboys?
+But I didn't do that because it simply wasn't true.
+I had to swallow my pride and acknowledge that a lot of the criticism was fair
+and I used that criticism to gradually improve my approaches.
+And guess what?
+I don't get as many dislikes on my newer videos.
+I made the dislikes go away without having to shamelessly hide them.
+IT'S TIME FOR THE PILL!
+YouTubers tend to fear dislikes.
+Even though as a YouTuber, dislikes are one of your most valuable assets.
+It's easy to preach to your own choir.
+It's difficult to preach to strangers who have never seen you before in their lives.
+YouTube is all about appealing to niche audiences.
+But the more you grow, the harder it becomes to have all of your audience on the same page.
+If you're starting to see more dislikes,
+well it probably just means that your channel is starting to grow outside of its comfort zone.
+And that's okay.
+Dislikes are just a natural part of growing on YouTube.
+They're a sign that new people are watching your videos.
+You can either accommodate the new viewers or stick to your niche.
+The choice is yours.
+But if you so choose to treat dislikes as a germ that must be eradicated,
+don't be surprised when eventually the new people stop showing up.
+Dislikes are one of the only lines of communication between you,
+the creator, and the audience member who is discovering you for the very first time.
+Most people won't spend the effort to type up a comment or click on any link you have in the description.
+But at the very least, they will press dislike on your video.
+And yes, some of the critics are going to be unreasonable.
+And you can never please everybody and you shouldn't try to please everybody.
+But critics will give you something that your fans won't.
+And that's honest, unfiltered feedback.
+Truth is one of the most valuable resources no matter where you go.
+From the looks of last year's Rewind,
+it would seem that the YouTube community is really trying to tell YouTube the truth.
+Let's hope they listen.
+...unexpectedly broke a record with Rewind,
+creating the most disliked video on the internet.
+Even at home, my kids told me it was cringey.
+We hear you that it didn't accurately show...
+A dislike on a YouTube video has never harmed a person.
+They only harm egos.
+There's a reason why YouTube only suddenly decided to start talking about dislikes
+after their video became the most disliked in history.
+It's not a coincidence.
+Dislikes make people pay attention and yank them back down to earth.
+There's no bigger wake-up call as a YouTuber than seeing that ratings bar dip below 80%.
+Or in YouTube's case, below 20%.
+It gets to you.
+You remember that.
+It's a big fat slap on the wrist.
+It forces you to stop and re-evaluate what you're doing.
+It makes you wonder that maybe you're not as good as you think you are.
+Critics will tell you the truth and won't sugarcoat it.
+You can argue about how they're wrong all you want, but they don't think they're wrong.
+And there are many people who probably agree with them and not you.
+Are they all wrong?
+Or are you just out of touch?
+One of these is far more likely than the other.
+But once again, whichever one you want to believe is your choice.
+So choose wisely.
+You know, sometimes you get dislikes on YouTube videos because people meant to press like,
+but they accidentally pressed the wrong button.
+And obviously it's not that big of a deal because
+at least they didn't press the wrong button on something more important.
+Like, say, deciding the future of internet regulation for an entire continent.
+We interrupt this program to bring you downward spiral.
+That's right, Europe.
+You had elected officials literally press the wrong button while voting for some of
+the most influential internet regulation in your lifetime.
+Oh, you stupid son of a-
+I'm sorry I'm not good.
+Please forgive me.
+I'm just European.
+If your elected officials can't even be trusted to press the right button,
+maybe it's time to take matters into your own hands.
+NordVPN will not only protect your privacy,
+but it will also protect you from the stupidity of your world leaders.
+NordVPN lets you change your IP to over 50 countries around the world
+and over 30 countries outside of the EU's jurisdiction.
+Use NordVPN to anonymously launch a dislike mob against your enemies
+and use code EMPLEMON to get 75% off the three-year plan.
+Check out the link below or visit nordvpn.com slash EMPLEMON.
+Do it!
+Hey everyone, Post Video Emp here.
+I just wanted to thank NordVPN again for sponsoring this video.
+And my patrons.
+But most notably,
+Internet Historian,
+hmaxbstc811b34,
+Hank Love Smith,
+TheRealG,
+Sean Collins,
+Jack the Whacked Out Cuck.
+If you're still watching at this point after the video has ended and after the ad has ended,
+then I gotta give you props.
+You have some patience.
+My next video is going to come as a bit of surprise to a lot of you,
+and it's going to be very different from anything I've made over the past year and a half.
+So stay tuned.
+Hopefully this one won't take two months.

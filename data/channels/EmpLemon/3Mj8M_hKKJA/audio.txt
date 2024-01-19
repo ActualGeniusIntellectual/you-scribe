@@ -1,0 +1,156 @@
+So, last week I uploaded a video where I basically tear into all of the crap that YouTube has
+allowed to happen to its creators over the past year.
+My goal with this video was to spread awareness about YouTube's severe flaws, since I feel
+like not enough people out there truly realize just how bad the situation on YouTube has
+become.
+And in the few days after I uploaded this video, a lot of interesting things happened.
+First of all, the YouTube Rewind got hammered this year.
+In a few days, it was already in the top 25 most disliked videos of all time on YouTube.
+You had multiple big YouTubers coming out and criticizing the Rewind, and you even had
+people who were in the Rewind coming out and giving some fairly damning reports about how
+YouTube mistreated them.
+And I'm really glad to see all of this.
+It seems like tons of people are finally waking up and seeing through YouTube's tricks.
+I'm really glad so many people out there are coming out and disliking the Rewind on their
+own because I'm pretty sure that YouTube tried to prevent my message from getting out
+to the public.
+So let me explain my observations.
+Within the first two days of me uploading my video, the video received around 100,000
+views, which is admittedly better than most of my uploads.
+The engagement numbers for this video were really good, as in the most likes I had ever
+received on a video with only 100,000 views.
+This archived screenshot shows my video with around 107,000 views and almost 20,000 likes.
+Over 18% of the people who watched the video to this point pressed the like button.
+You'd be hard pressed to find a view-to-like ratio as high as that anywhere on YouTube.
+Now like I said, this video did really well for about two and a half days after I uploaded
+it.
+And then, all of a sudden, it was like the video hit a brick wall.
+Now normally this wouldn't be cause for concern since this is how my video analytics usually
+look.
+Every video I upload gets the most views on day one, and then the view count slowly trails
+off afterwards.
+So like I said, I would expect these numbers under normal circumstances.
+However, these are not normal circumstances because three days after I uploaded this video,
+I start to see all sorts of other YouTube Rewind-related videos blowing up in my recommended.
+I keep seeing these videos get tons of views, hundreds of thousands of more views than my
+video.
+So at this point, I just think that these videos are getting so many more views than
+mine because they're just simple compilations.
+And let's face it, if you're talking about YouTube after 2014, people love their compilations.
+So I figured that people weren't clicking on my video because it's over 20 minutes long
+and the average YouTube viewers are too impatient to watch videos that long.
+But then I thought about it some more and something just didn't add up.
+My most viewed video this year was 32 minutes long.
+So the idea that people don't like to click on long videos just didn't make any sense.
+And besides, among the YouTube Rewind responses getting tons of views was a 17-minute video
+and a 32-minute video.
+And in addition to that, hasn't YouTube drilled into our heads over the past few years that
+watch time is the single most important metric in determining a video's search and discovery?
+Well, in the first two days that my video was online, it got over 1 million minutes
+of watch time.
+So you'd think that a video with this much watch time and this much viewer engagement
+should appear in a ton of people's recommended sections.
+Because after all, the YouTube Rewind was a huge topic that tons of people were discussing
+all over YouTube.
+If you look at the public stats of other videos on the topic, they all showed huge jumps and
+views around three days after they were uploaded.
+And that makes perfect sense because the algorithm is recommending those videos to a trend that
+has a high demand for viewership.
+Yet when you compare these stats with my video, it's the complete opposite case.
+So what exactly is going on here?
+Well, the reason becomes clear when you dig into the specifics of my analytics.
+I discovered that less than 20% of the views on this video are coming from suggested videos
+on YouTube.
+In fact, this video has had fewer views from suggested videos than it's earned from unknown
+sources.
+To compare, I contacted fellow YouTuber, Pye, who made one of the YouTube Rewind videos
+that blew up in popularity.
+He sent me his advanced analytics and boom, there it is, 77% views from suggested videos.
+Even if you look at my channel average from last month, which was 45% views from suggested
+videos, it's still significantly higher than what my YouTube Rewind video received.
+Based on this evidence, I must reasonably suspect that YouTube interfered with my video's
+search and discovery metric.
+I can't think of any other explanation for why my video performed so poorly after that
+third day.
+It was a video about a trending topic that earned a ton of watch time over the first
+two days, and yet despite those clearly successful video traits, YouTube barely promoted my video
+in anyone's recommendations.
+And if any of you have different theories as to what happened, I'd love to hear them.
+But for now, I have no choice but to infer that YouTube covertly reduced the extent to
+which the algorithm promoted my video.
+In other words, they censored my video from appearing in most people's recommendations.
+So why did they censor it?
+First let me start by saying that I've recently become aware of the inner workings of YouTube
+thanks to these fantastic videos by Cielo.
+This guy basically conducted a comprehensive study of demonetized YouTube videos to identify
+some sort of trend affecting their search and discovery in the algorithm.
+And what he found embedded in the source codes of demonetized videos was this line labeled
+excluded ads followed by a string of several codes.
+Through his research, Cielo began to connect some of the numbers with the parameters outlined
+in Google's advertiser-friendly guidelines.
+He then correlated these codes with the amount by which each demonetized video appeared in
+YouTube's related videos, and he identified a clear trend demonstrating that these three-digit
+codes negatively affected how much the algorithm promotes videos.
+Basically, he found extensive evidence that if your video gets demonetized within any
+of these parameters, YouTube will promote it significantly less than they would for
+normal videos, effectively censoring content that the algorithm views as not friendly for
+advertisers.
+Even though Cielo's original videos on the subject have relatively few views, I believe
+that his findings are completely legitimate.
+YouTube openly rejected this claim on Twitter.
+However, I believe that Cielo was definitely onto something, because within a few days
+of him posting the findings of his research, YouTube hid excluded ads from the viewable
+source code of videos.
+This was incredibly suspicious, as it appears that YouTube was trying to hide something
+that they didn't want us to see.
+But with that being said, and based on the new information I've observed, I think that
+YouTube's tweet here is actually telling the truth.
+In this tweet, YouTube practically admits to censoring videos that don't fit into
+their advertiser-friendly guidelines.
+They claim that this censorship is not related to the monetization system.
+However, I believe that censorship and demonetization on YouTube are just two heads of the same
+beast.
+So here are the observations that led me to this conclusion.
+In my video about the YouTube Rewind, I played the PewDiePie N-Bomb clip raw and uncensored.
+In a separate study conducted by Cielo about the demonetization bot, he found substantial
+evidence that YouTube scans the automatically generated captions of your videos in order
+to determine if it is suitable for advertisers.
+Cielo found that keywords like these in the captions of the videos resulted in them being
+demonetized 100% of the time.
+But here's the thing though, my YouTube Rewind video was never monetized.
+I preemptively made this decision so that YouTube would not censor its search and discovery.
+But as I demonstrated, that's exactly what happened.
+If my video was never monetized, then how could the algorithm still know to censor it?
+The only explanation I have is that YouTube has a separate but similar bot that scans
+all videos, regardless of demonetization, for metadata that violates ad-friendly guidelines.
+That must be what they are referring to in this tweet.
+And what do you know?
+I dug deeper into my analytics and found this.
+One single lone view from a source labeled YouTube Advertising, which is odd since my
+video never had any ads running on it.
+And it just so happens that whatever this thing is viewed my video on December 8th,
+the same time that my video performance started to suffer.
+I don't exactly know what I've uncovered here, but one thing's for sure, there's
+a bunch of stuff going on behind the scenes that YouTube's not telling us.
+And this system that YouTube has implemented runs far deeper than just demonetization.
+I understand where YouTube is coming from here.
+They're ultimately a business, and they're technically allowed to patrol whatever content
+they want on their site.
+They already block videos that violate copyright or their terms of service, and they have done
+so for years.
+However, YouTube's new form of censorship extends far beyond legal safekeeping.
+This new censorship treads on what users can and cannot openly say on the platform.
+This is about YouTube's image.
+This is about limiting speech that they disagree with.
+And even though the majority of people would likely agree that the speech they chose to
+censor is reprehensible, it raises several important questions.
+Is it ethical to censor discussion in the name of reducing obscenity?
+Is it fair to limit the performance of controversial videos?
+And finally, is this setting a dangerous precedent for the future of content creation
+on YouTube?
+These are the issues we must seriously discuss moving forward.
+But for now, let's just sit back and enjoy the holidays, as all the giant ruthless corporations
+in our lives get the gift of having even more power over the pathetic masses.
+Well I'll be, I'll be so blue, I'll stake it all over the view.
+Decoration's over, all I'll dream Christmas dreams.
+I'll be the same thing if you're not here with me.

@@ -1,0 +1,576 @@
+1
+00:00:00,000 --> 00:00:03,780
+YouTube is a vast ocean of content.
+
+2
+00:00:03,780 --> 00:00:08,820
+Every 60 seconds, YouTubers produce over 400 hours of videos.
+
+3
+00:00:08,820 --> 00:00:12,320
+That's about 17 days of videos per minute.
+
+4
+00:00:12,320 --> 00:00:16,660
+You could spend the rest of your life watching nothing but new YouTube videos
+
+5
+00:00:16,660 --> 00:00:21,560
+and you'll only watch 1 24,000th of all there is to see.
+
+6
+00:00:21,560 --> 00:00:24,720
+Just imagine everything that you don't see.
+
+7
+00:00:24,720 --> 00:00:28,700
+Imagine everything out there just waiting to be found.
+
+8
+00:00:28,740 --> 00:00:32,900
+Behind every video is a person, a story, a legacy.
+
+9
+00:00:32,900 --> 00:00:35,640
+So let's go out and explore it.
+
+10
+00:00:35,640 --> 00:00:39,740
+Welcome everyone to YouTube Geographic.
+
+11
+00:00:58,700 --> 00:01:08,280
+And since this is the beginning of a new series, we're going to start it off from the beginning of YouTube.
+
+12
+00:01:08,280 --> 00:01:13,720
+That's right, today we're going to explore the first video uploaded to YouTube, me at the zoo.
+
+13
+00:01:13,720 --> 00:01:17,420
+Alright, so here we are in front of the elephants.
+
+14
+00:01:17,420 --> 00:01:26,360
+The cool thing about these guys is that they have really, really, really long trunks.
+
+15
+00:01:26,360 --> 00:01:28,360
+And that's cool.
+
+16
+00:01:30,560 --> 00:01:33,060
+And that's pretty much all there is to say.
+
+17
+00:01:33,060 --> 00:01:37,540
+The first video on YouTube was not very impressive.
+
+18
+00:01:37,540 --> 00:01:42,380
+It's a 240p, 18 second video of a guy talking about elephants.
+
+19
+00:01:42,380 --> 00:01:47,440
+If this video existed in any other context, it would be completely forgettable.
+
+20
+00:01:47,440 --> 00:01:48,440
+But it doesn't.
+
+21
+00:01:48,440 --> 00:01:52,420
+And believe it or not, this is actually a very important video.
+
+22
+00:01:52,420 --> 00:01:55,220
+Even more important than important videos.
+
+23
+00:01:55,220 --> 00:02:00,460
+And in order to understand why it's so important, we must first understand its background.
+
+24
+00:02:00,460 --> 00:02:01,820
+Let's start with the uploader.
+
+25
+00:02:01,820 --> 00:02:02,720
+This guy.
+
+26
+00:02:02,720 --> 00:02:04,420
+His name is Jawed Karim.
+
+27
+00:02:04,420 --> 00:02:07,160
+He's one of the co-founders of YouTube.com.
+
+28
+00:02:07,160 --> 00:02:11,600
+Karim has gone on the record and said that his original inspiration for creating YouTube
+
+29
+00:02:11,600 --> 00:02:15,460
+was to find clips of Janet Jackson's Super Bowl wardrobe malfunction,
+
+30
+00:02:15,460 --> 00:02:18,100
+which he couldn't find anywhere else on the web.
+
+31
+00:02:18,100 --> 00:02:24,540
+Twelve years later, and YouTube is still a great resource for people trying to find clips of boobies.
+
+32
+00:02:24,560 --> 00:02:28,800
+But more importantly, it speaks to one of YouTube's greatest utilities.
+
+33
+00:02:28,800 --> 00:02:33,380
+YouTube has truly become one of the biggest video archives on the internet.
+
+34
+00:02:33,380 --> 00:02:37,740
+Before YouTube, the only way to find an obscure video clip was to scour the web
+
+35
+00:02:37,740 --> 00:02:40,640
+or track down an elusive VHS tape.
+
+36
+00:02:40,640 --> 00:02:43,580
+It's hard to even imagine something like that nowadays,
+
+37
+00:02:43,580 --> 00:02:47,420
+where everyone has a smartphone and can document any event of interest
+
+38
+00:02:47,420 --> 00:02:50,260
+and post it to social media in a matter of seconds.
+
+39
+00:02:50,280 --> 00:02:55,320
+It's almost impossible for any important event today to go undocumented.
+
+40
+00:02:55,320 --> 00:03:01,260
+But back in 2004, 90 million people saw Janet Jackson's exposed nipple live
+
+41
+00:03:01,260 --> 00:03:04,200
+and Jawed couldn't find any footage of it online.
+
+42
+00:03:04,200 --> 00:03:07,260
+Now, thanks to YouTube, we can see it.
+
+43
+00:03:07,260 --> 00:03:12,740
+Everyone can see it, along with a ton of other weird, obscure stuff that you never knew existed.
+
+44
+00:03:12,740 --> 00:03:15,400
+And that's something I really like about YouTube,
+
+45
+00:03:15,420 --> 00:03:20,360
+But it's not the reason why it's the most popular video streaming site in the world.
+
+46
+00:03:20,360 --> 00:03:23,620
+Sure, the archive stuff is really nice for lurkers like me,
+
+47
+00:03:23,620 --> 00:03:27,560
+but you don't get to a billion users by just being an archive.
+
+48
+00:03:27,560 --> 00:03:33,240
+There's something about YouTube, an intrinsic quality about it that draws people in.
+
+49
+00:03:33,240 --> 00:03:37,740
+Back in 2005, YouTube started off as just another Silicon Valley startup.
+
+50
+00:03:37,740 --> 00:03:42,380
+It opened in a humble office above two restaurants in a California city.
+
+51
+00:03:42,400 --> 00:03:47,540
+And just 18 months later, YouTube was the fifth most popular site on the internet,
+
+52
+00:03:47,540 --> 00:03:50,580
+earning more than 100 million views per day.
+
+53
+00:03:50,580 --> 00:03:52,400
+So what made YouTube so special?
+
+54
+00:03:52,400 --> 00:03:56,080
+And what set it apart from all the other video streaming sites on the web?
+
+55
+00:03:56,080 --> 00:04:00,220
+The answer, I believe, lies here in the very first video.
+
+56
+00:04:00,220 --> 00:04:03,820
+Me at the zoo may just be a video of an average guy doing an average thing,
+
+57
+00:04:03,820 --> 00:04:06,820
+but that's exactly why it's so important.
+
+58
+00:04:06,840 --> 00:04:10,480
+By uploading this as the first video on YouTube,
+
+59
+00:04:10,480 --> 00:04:12,380
+Josh set a precedent.
+
+60
+00:04:12,380 --> 00:04:17,720
+He laid down the cornerstone that would define the spirit of YouTube for years to come.
+
+61
+00:04:17,720 --> 00:04:21,920
+He established YouTube as a medium through which the common man
+
+62
+00:04:21,920 --> 00:04:25,120
+could broadcast themselves to the entire world.
+
+63
+00:04:25,120 --> 00:04:28,260
+YouTube was born as a site of the people.
+
+64
+00:04:28,260 --> 00:04:31,960
+It completely reversed decades of steeped media tradition.
+
+65
+00:04:31,980 --> 00:04:37,080
+Before YouTube, an ordinary person had no way of broadcasting their ideas,
+
+66
+00:04:37,080 --> 00:04:40,520
+thoughts, and actions to more than a handful of people.
+
+67
+00:04:40,520 --> 00:04:43,820
+YouTube granted the common man with great power,
+
+68
+00:04:43,820 --> 00:04:47,820
+a power that had only previously been available to celebrities,
+
+69
+00:04:47,820 --> 00:04:50,000
+movie stars, and rock stars.
+
+70
+00:04:50,000 --> 00:04:54,100
+Now, thanks to YouTube, anyone can be like a rock star.
+
+71
+00:04:54,100 --> 00:04:56,960
+And that's why people like YouTube so much.
+
+72
+00:04:56,960 --> 00:05:00,200
+We enjoy seeing people like us succeed.
+
+73
+00:05:00,240 --> 00:05:04,580
+We witness these average Joes get millions of hits and it gives us hope.
+
+74
+00:05:04,580 --> 00:05:07,980
+It gives us hope that if they can make it big,
+
+75
+00:05:07,980 --> 00:05:12,220
+then maybe, just maybe, we can too one day.
+
+76
+00:05:12,220 --> 00:05:15,900
+And that, I believe, is the true spirit of YouTube.
+
+77
+00:05:15,900 --> 00:05:17,600
+It's what drives us to try.
+
+78
+00:05:17,600 --> 00:05:19,600
+It's what drives us to improve.
+
+79
+00:05:19,600 --> 00:05:22,500
+It's what drives us to persist through thick and thin
+
+80
+00:05:22,500 --> 00:05:25,300
+and all the stupid obstacles that are in our way.
+
+81
+00:05:25,300 --> 00:05:30,280
+It's what drives us to compete head-on with channels a million times our size.
+
+82
+00:05:30,280 --> 00:05:34,520
+And even though at times it may feel like you have a better chance of getting rich off the lottery
+
+83
+00:05:34,520 --> 00:05:36,580
+than having one of your videos go viral,
+
+84
+00:05:36,580 --> 00:05:40,920
+you just keep trying because you're saying there's a chance.
+
+85
+00:05:40,920 --> 00:05:45,560
+And all of that is communicated through this 18-second video of a guy at the zoo.
+
+86
+00:05:45,560 --> 00:05:47,300
+Of course, this is all implied.
+
+87
+00:05:47,300 --> 00:05:49,900
+The guy is really only talking about elephants here.
+
+88
+00:05:49,900 --> 00:05:51,400
+But he does have a point.
+
+89
+00:05:51,400 --> 00:05:53,500
+Elephants do have pretty long trunks.
+
+90
+00:05:54,500 --> 00:05:58,280
+By the end of 2006, Google had purchased YouTube
+
+91
+00:05:58,280 --> 00:06:02,280
+and Jod earned $64 million worth of Google shares.
+
+92
+00:06:02,280 --> 00:06:03,780
+Under Google's ownership,
+
+93
+00:06:03,780 --> 00:06:07,380
+YouTube has gone through 11 years of countless updates and changes.
+
+94
+00:06:07,380 --> 00:06:12,060
+Yet through all of that, this video and this channel have persisted,
+
+95
+00:06:12,060 --> 00:06:16,460
+silently watching over the website that it kicked off all those years ago.
+
+96
+00:06:16,460 --> 00:06:19,200
+YouTube has changed quite a bit since Google took over
+
+97
+00:06:19,200 --> 00:06:23,700
+and it hasn't exactly been the most compatible with Jod's original vision.
+
+98
+00:06:23,700 --> 00:06:26,500
+One of the most infamous changes that you may remember
+
+99
+00:06:26,500 --> 00:06:30,580
+was the forced integration with Google+, a failed social network.
+
+100
+00:06:30,580 --> 00:06:32,020
+At the time of its announcement,
+
+101
+00:06:32,020 --> 00:06:34,780
+Jod actually made a rare post on his YouTube channel
+
+102
+00:06:34,780 --> 00:06:36,880
+to interject his displeasure for the change.
+
+103
+00:06:36,880 --> 00:06:39,580
+There's no doubt that forcing Google Plus on YouTubers
+
+104
+00:06:39,580 --> 00:06:42,880
+was one of the most unpopular decisions in the history of the site.
+
+105
+00:06:42,880 --> 00:06:44,020
+And for good reason.
+
+106
+00:06:44,020 --> 00:06:46,920
+They threatened to take away people's ability to comment.
+
+107
+00:06:46,920 --> 00:06:48,920
+Ah, yes, YouTube comments.
+
+108
+00:06:48,940 --> 00:06:51,020
+I think everyone just pretends to hate them,
+
+109
+00:06:51,020 --> 00:06:53,280
+when secretly, we all kind of like them.
+
+110
+00:06:53,280 --> 00:06:56,020
+They're such an essential part of the YouTube experience.
+
+111
+00:06:56,020 --> 00:06:58,660
+Me at the Zoo has about 300,000 comments.
+
+112
+00:06:58,660 --> 00:07:03,200
+And there's not really any other comment section like it on YouTube.
+
+113
+00:07:03,200 --> 00:07:06,260
+There aren't any flame wars or arguments going on.
+
+114
+00:07:06,260 --> 00:07:08,000
+There are just a few memes.
+
+115
+00:07:08,000 --> 00:07:11,400
+And memes have even managed to infiltrate the video's description.
+
+116
+00:07:11,400 --> 00:07:14,880
+But that aside, most of the people commenting are just in awe.
+
+117
+00:07:14,880 --> 00:07:16,580
+They're paying their respects
+
+118
+00:07:16,580 --> 00:07:20,240
+and leaving their mark on YouTube's oldest video.
+
+119
+00:07:20,240 --> 00:07:22,880
+And what we have created over 12 years of comments
+
+120
+00:07:22,880 --> 00:07:26,120
+is a complete slice of YouTube history.
+
+121
+00:07:26,120 --> 00:07:29,220
+If you go back through all those 300,000 comments,
+
+122
+00:07:29,220 --> 00:07:31,760
+it'll be like traveling back in time.
+
+123
+00:07:31,760 --> 00:07:35,020
+You will see a complete chronology of ideas,
+
+124
+00:07:35,020 --> 00:07:38,520
+trends, and creators dating all the way back to the beginning.
+
+125
+00:07:38,520 --> 00:07:41,760
+And at the end of your journey, you would hope to find it.
+
+126
+00:07:41,760 --> 00:07:44,060
+The original YouTube comment.
+
+127
+00:07:44,080 --> 00:07:47,320
+Tragically, the original comment no longer exists.
+
+128
+00:07:47,320 --> 00:07:50,420
+It was deleted due to repeated flaggings for spam
+
+129
+00:07:50,420 --> 00:07:53,620
+as a result of the Google Plus comment integration.
+
+130
+00:07:53,620 --> 00:07:57,900
+Yet another needless casualty to the failure of Google Plus.
+
+131
+00:07:57,900 --> 00:08:00,160
+However, Me at the Zoo's first comment
+
+132
+00:08:00,160 --> 00:08:02,900
+still lives on in a few screen captures from years ago.
+
+133
+00:08:02,900 --> 00:08:04,440
+Now I know what you're thinking.
+
+134
+00:08:04,440 --> 00:08:08,580
+The first comment on the first YouTube video.
+
+135
+00:08:08,580 --> 00:08:10,780
+People commenting first on YouTube videos
+
+136
+00:08:10,840 --> 00:08:14,440
+has become so widespread that it's a flippin' meme.
+
+137
+00:08:14,440 --> 00:08:15,700
+But what do you know?
+
+138
+00:08:15,700 --> 00:08:18,800
+The first ever comment posted on the first YouTube video
+
+139
+00:08:18,800 --> 00:08:21,080
+was interesting.
+
+140
+00:08:21,080 --> 00:08:23,440
+And that's pretty interesting.
+
+141
+00:08:23,440 --> 00:08:27,560
+YouTube Geographic is brought to you by Patreon
+
+142
+00:08:27,560 --> 00:08:29,860
+and by viewers like you.
+
+143
+00:08:29,860 --> 00:08:34,360
+But most importantly, viewers like LOLGamers606.
+
+144
+00:08:34,360 --> 00:08:35,900
+Thank you.
+

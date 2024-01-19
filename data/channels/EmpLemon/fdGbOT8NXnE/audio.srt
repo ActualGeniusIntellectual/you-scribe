@@ -1,0 +1,1572 @@
+1
+00:00:00,000 --> 00:00:06,800
+People of YouTube, it is I, everyone's favorite YouTuber Killer Keemstar and today we have some
+
+2
+00:00:06,800 --> 00:00:13,360
+killer news, some breaking news to discuss that's definitely not two months old. Now what I'm going
+
+3
+00:00:13,360 --> 00:00:18,000
+to talk about today is something that many of you might not even know about at all or even if you
+
+4
+00:00:18,000 --> 00:00:24,560
+did you probably forgot about it by now but on January 29, 2019 the YouTube Creator Insider
+
+5
+00:00:24,560 --> 00:00:32,000
+channel uploaded a video where they kind of sort of entertained the idea of possibly removing the
+
+6
+00:00:32,000 --> 00:00:38,000
+dislike button on YouTube. Another option is just to remove dislikes entirely from YouTube. That's
+
+7
+00:00:38,000 --> 00:00:44,080
+a very extreme option. That one seems like kind of not super democratic in my opinion. Now this
+
+8
+00:00:44,080 --> 00:00:48,640
+is something that YouTube has foreshadowed for a while and it's something that I've been fearing
+
+9
+00:00:48,640 --> 00:00:54,560
+happening for a long time. This is something, the prospect of YouTube removing the dislike button,
+
+10
+00:00:54,560 --> 00:01:00,320
+this is something I've been theorizing for years. Even back when I made YouTube poops I thought of
+
+11
+00:01:00,320 --> 00:01:06,240
+this idea back when they changed the colors of the dislikes. It used to be green and red and then
+
+12
+00:01:06,240 --> 00:01:11,600
+all of a sudden they changed it to blue and gray. It's just blue and not a color. With the constant
+
+13
+00:01:11,600 --> 00:01:18,320
+updates to the UI they've been minimizing the dislike bar. Now obviously in this video they
+
+14
+00:01:18,320 --> 00:01:23,600
+don't say anything definitive. They really just kind of throw the idea out there and treat it as
+
+15
+00:01:23,600 --> 00:01:28,480
+sort of a last resort for dealing with what they refer to as the dislike mob which we'll get into
+
+16
+00:01:28,480 --> 00:01:34,320
+later. But I'd also like to mention that for every massively unpopular feature that nobody likes and
+
+17
+00:01:34,320 --> 00:01:40,000
+YouTube rolls out anyway they all begin the same way with YouTube teasing it and treating it like
+
+18
+00:01:40,000 --> 00:01:45,520
+a non-committal optional thing and then it becomes default for the whole site. And the fact of the
+
+19
+00:01:45,520 --> 00:01:51,600
+matter is that YouTube has presented this idea on the table officially. I was always under the
+
+20
+00:01:51,600 --> 00:01:56,640
+impression that YouTube was foreshadowing this because with seemingly every major update they
+
+21
+00:01:56,640 --> 00:02:02,320
+make to the site's user interface the dislike bar appears less and less prominent. There have
+
+22
+00:02:02,320 --> 00:02:08,080
+also been these bizarre cases of select videos where YouTube seems to be inexplicably removing
+
+23
+00:02:08,080 --> 00:02:13,920
+dislikes or hiding the accurate dislike number from the public. It seems like something fishy
+
+24
+00:02:13,920 --> 00:02:18,640
+is going on behind the scenes at YouTube and they are actively looking to either tweak or tamper
+
+25
+00:02:18,640 --> 00:02:23,680
+with the dislike metric on the website as a whole. Now just like almost all of YouTube's major
+
+26
+00:02:23,680 --> 00:02:29,360
+proposed changes for the site the idea of removing dislikes is very unpopular. A lot of people seem
+
+27
+00:02:29,360 --> 00:02:34,960
+to intuitively understand that dislikes matter but I really don't think enough people realize
+
+28
+00:02:34,960 --> 00:02:40,400
+just how important dislikes are on YouTube. But for as much as most people would like to keep
+
+29
+00:02:40,400 --> 00:02:45,680
+dislikes around there's a certain camp that actually believes it's a good idea to remove
+
+30
+00:02:45,680 --> 00:02:51,280
+dislikes from YouTube entirely. So in this video I'm going to do my best to explain why removing
+
+31
+00:02:51,280 --> 00:03:03,280
+dislikes is not a great idea. But first what exactly is the argument for removing dislikes?
+
+32
+00:03:03,280 --> 00:03:09,200
+First of all the camp who wants to remove dislikes rely heavily on this idea of a dislike mob which
+
+33
+00:03:09,200 --> 00:03:16,000
+is terminology that's been used and validated by YouTube itself. Dislike mobs so this is where
+
+34
+00:03:16,000 --> 00:03:22,400
+a group of people will go to a video not even watch the video and just purposely hit the thumbs
+
+35
+00:03:22,400 --> 00:03:27,280
+down. And the fear is that by intentionally driving down the ratings of a video it will
+
+36
+00:03:27,280 --> 00:03:32,880
+negatively affect the perceptions of the audience watching and predispose them to unfairly hate the
+
+37
+00:03:32,880 --> 00:03:37,760
+video. Additionally they argue that dislikes negatively affect a video's performance in the
+
+38
+00:03:37,760 --> 00:03:43,200
+algorithm and that enabling the dislike button makes it too easy for opponents to silence your
+
+39
+00:03:43,200 --> 00:03:50,000
+videos. And finally the dislike function is binary and non-descriptive and user criticism can be
+
+40
+00:03:50,000 --> 00:03:55,440
+easily supplemented by the comment section therefore making dislikes a redundant feature.
+
+41
+00:03:55,440 --> 00:04:00,320
+So these are the main arguments for removing dislikes on YouTube. But before we can get into
+
+42
+00:04:00,320 --> 00:04:06,720
+this discussion we have to first understand the role of dislikes on YouTube. You each have a knob
+
+43
+00:04:06,720 --> 00:04:12,000
+in front of you when you like what you see turn the knob to the right when you don't like what you
+
+44
+00:04:12,000 --> 00:04:19,840
+see turn it left. The origin of the dislike dates back to 2010 when YouTube retconned the original
+
+45
+00:04:19,840 --> 00:04:25,440
+star rating system. It's the simplest and most accessible method that people use to determine
+
+46
+00:04:25,440 --> 00:04:31,120
+the overall quality of a video. But how exactly do you measure whether a video is good or bad?
+
+47
+00:04:31,120 --> 00:04:36,720
+I took a sample of 24 recommended videos on my home page. Yeah it's not a perfect sample or
+
+48
+00:04:36,720 --> 00:04:41,600
+completely generalizable to all of YouTube but it should provide us with a decent enough estimate.
+
+49
+00:04:41,600 --> 00:04:48,480
+So the 24 videos had a mean rating of 94% and a median rating of 96%. When you click on a YouTube
+
+50
+00:04:48,480 --> 00:04:54,400
+video there's a good chance that at least 19 out of 20 people liked it. People tend to like YouTube
+
+51
+00:04:54,400 --> 00:04:59,920
+videos a lot so we have to adjust our standards accordingly. So based on my personal observations
+
+52
+00:04:59,920 --> 00:05:05,360
+from many years of watching videos on YouTube I've arranged video ratings into seven tiers.
+
+53
+00:05:05,360 --> 00:05:10,880
+If your video has 99% likes or more you're probably looking at a pretty great video.
+
+54
+00:05:10,880 --> 00:05:16,960
+98 to 97% is not good enough to be the best but still a good video. Most of the videos you watch
+
+55
+00:05:16,960 --> 00:05:23,280
+on YouTube will probably fall between 96 and 94% which indicates that the video is pretty average.
+
+56
+00:05:23,280 --> 00:05:28,160
+At 93 to 90% you're entering the territory where you start to notice that the video has an above
+
+57
+00:05:28,160 --> 00:05:32,800
+average amount of dislikes. You'll usually see this on videos where the audience disagrees with
+
+58
+00:05:32,800 --> 00:05:38,240
+the creator on one or two points in the video but otherwise the video is pretty average. At 89 to
+
+59
+00:05:38,240 --> 00:05:42,560
+80% you're starting to enter controversial territory. You'll typically see this rating on
+
+60
+00:05:42,560 --> 00:05:47,840
+videos that deal with highly opinionated hot button issues like politics or any review of
+
+61
+00:05:47,840 --> 00:05:53,280
+The Last Jedi. If your ratings dip below 80% then there is probably something seriously wrong with
+
+62
+00:05:53,280 --> 00:05:58,640
+your video. Either the video or audio quality is really bad or you made a big mistake in your
+
+63
+00:05:58,640 --> 00:06:04,240
+research or if you just had a really controversial opinion. This is a stage where the quantity of
+
+64
+00:06:04,240 --> 00:06:09,200
+dislikes is so abnormal that people actually really start paying attention to it. And finally
+
+65
+00:06:09,200 --> 00:06:14,320
+if your video ratings drop below 50% then there isn't just something wrong with your video there's
+
+66
+00:06:14,320 --> 00:06:20,000
+probably something wrong with you. If your ratings drop below this level then you probably said
+
+67
+00:06:20,000 --> 00:06:25,280
+something so wrong or so out of touch that a huge part of your audience has lost respect for you.
+
+68
+00:06:25,280 --> 00:06:31,360
+And you may have done irreparable damage to your online reputation. So that's generally how I
+
+69
+00:06:31,360 --> 00:06:35,680
+categorize ratings on YouTube videos. It's not going to be perfect. You're going to be able to
+
+70
+00:06:35,680 --> 00:06:41,760
+find non-examples but by and large this list is going to be fairly accurate. And you can generally
+
+71
+00:06:41,760 --> 00:06:47,600
+use YouTube ratings to heuristically predict the nature of a video. But before we go any further
+
+72
+00:06:47,600 --> 00:06:52,560
+I have a few more important things to explain about dislikes. First of all I see a lot of people
+
+73
+00:06:52,560 --> 00:06:58,080
+under the impression that YouTube video ratings imply quality. That's not exactly true. You can
+
+74
+00:06:58,080 --> 00:07:02,720
+have a very high quality video production wise but if people disagree with the core message then
+
+75
+00:07:02,720 --> 00:07:07,680
+they're going to press dislike. More accurately ratings on YouTube represent a measure of
+
+76
+00:07:07,680 --> 00:07:13,280
+controversiality. Second when videos are uploaded ratings tend to start high then gradually regress
+
+77
+00:07:13,280 --> 00:07:18,320
+to the mean as the video becomes more widely circulated. Generally older videos with high
+
+78
+00:07:18,320 --> 00:07:22,640
+view counts will have lower overall ratings because they've been exposed to a greater number
+
+79
+00:07:22,640 --> 00:07:28,880
+of people. And finally older YouTubers with large dedicated followings tend to have better overall
+
+80
+00:07:28,880 --> 00:07:33,600
+ratings than newer YouTubers. This is simply because the longer you watch a YouTuber the more
+
+81
+00:07:33,600 --> 00:07:38,560
+you tend to trust them and the more likely you are to engage with their content. So naturally
+
+82
+00:07:38,560 --> 00:07:42,880
+YouTubers that have been around for a while and have a huge core audience are going to get a lot
+
+83
+00:07:42,880 --> 00:07:47,840
+more likes on each video as opposed to an unproven guy who nobody knows about. Therefore
+
+84
+00:07:47,840 --> 00:07:52,560
+older YouTubers tend to get a lot more likes per video which skews their overall ratings in their
+
+85
+00:07:52,560 --> 00:07:58,800
+favor. So if dislikes aren't an indicator of quality then what exactly is the function of
+
+86
+00:07:58,800 --> 00:08:10,480
+dislikes on YouTube? Well at a fundamental level dislikes are a reflection of the extent to which
+
+87
+00:08:10,480 --> 00:08:15,680
+people disagree with the core message of a video. Like I said earlier you could have the most
+
+88
+00:08:15,680 --> 00:08:20,800
+expensive production with the slickest editing possible but if people don't like what you're
+
+89
+00:08:20,800 --> 00:08:25,040
+saying and how you're saying it you're gonna wind up with a lot of dislikes on YouTube.
+
+90
+00:08:25,040 --> 00:08:30,240
+I have to reiterate that dislikes are not a measure of objective quality rather it measures
+
+91
+00:08:30,240 --> 00:08:35,280
+a difference in opinion. And with that being said it's the single most important line of
+
+92
+00:08:35,280 --> 00:08:40,880
+communication between an audience and a creator. Your success as a creator on YouTube will almost
+
+93
+00:08:40,880 --> 00:08:47,760
+inevitably depend on how you respond to dislikes. Now if you're someone like Dan Olson who believes
+
+94
+00:08:47,760 --> 00:08:52,320
+that dislikes shouldn't exist on YouTube then you'd probably also be the same type of person
+
+95
+00:08:52,320 --> 00:08:58,720
+to disable ratings on your own videos. Ah shit here we go again. Trust me when I say that this
+
+96
+00:08:58,720 --> 00:09:03,760
+is one of the worst things you can do as a YouTuber. Seriously in all my days on this
+
+97
+00:09:03,760 --> 00:09:08,960
+site I've never encountered a single successful and respected YouTuber who frequently disables
+
+98
+00:09:08,960 --> 00:09:13,920
+their ratings. To understand why you have to realize why most people watch YouTube in the first
+
+99
+00:09:13,920 --> 00:09:19,760
+place and that's to express their interests and opinions. Whether that be through their uploads,
+
+100
+00:09:19,760 --> 00:09:26,480
+watch history, comments, and yes their ratings. When you choose to disable ratings on a video
+
+101
+00:09:26,480 --> 00:09:31,120
+you are deliberately depriving your audience of one of their expressive outlets and you're
+
+102
+00:09:31,120 --> 00:09:37,040
+consequently degrading their experience as a viewer. Even if they agree with you if your goal
+
+103
+00:09:37,040 --> 00:09:42,160
+on YouTube is to not be hated by your audience then you probably shouldn't disable ratings.
+
+104
+00:09:42,160 --> 00:09:48,640
+And yet here we see Dan Olson committing the cardinal sin. If you know anything about how
+
+105
+00:09:48,640 --> 00:09:54,320
+YouTube works you'd have to realize that this is a boneheaded decision. I mean really anybody
+
+106
+00:09:54,320 --> 00:09:59,360
+who expects people to support them after disabling ratings on their YouTube videos must be completely
+
+107
+00:09:59,360 --> 00:10:06,800
+irrational. But let's assume that he is rational. Clearly something has led poor Danny boy here to
+
+108
+00:10:06,800 --> 00:10:11,680
+intentionally degrade the experience of all his viewers. Well if you asked him he'd probably
+
+109
+00:10:11,680 --> 00:10:16,800
+tell you that he disabled his ratings to protect himself from the nefarious dislike mobs. So let's
+
+110
+00:10:16,800 --> 00:10:23,600
+talk about dislike mobs. You were 100% convinced that those negative reviews were part of a
+
+111
+00:10:23,600 --> 00:10:28,640
+conspiracy. I feel like I'm in a rather privileged position to talk about this since I literally
+
+112
+00:10:28,640 --> 00:10:34,160
+started one in 2017 when I encouraged people to go dislike the YouTube Rewind and make it the most
+
+113
+00:10:34,160 --> 00:10:41,360
+disliked video of all time. It didn't work. Kind of. I guess it was a year too early. Now the vernacular
+
+114
+00:10:41,360 --> 00:10:46,400
+of a dislike mob conjures up images of a torch-wielding horde of deranged maniacs who
+
+115
+00:10:46,400 --> 00:10:51,760
+mindlessly spam dislike on whatever unfortunate video gets in their way. In reality what you may
+
+116
+00:10:51,760 --> 00:10:56,640
+perceive as a dislike mob is almost certainly just a large group of people who simply disagreed with
+
+117
+00:10:56,640 --> 00:11:01,840
+the fundamental message of your video. Why did the YouTube Rewind 2018 become the most disliked
+
+118
+00:11:01,840 --> 00:11:07,440
+video of all time? Could it possibly be because a racist bigoted dislike mob conspired against the
+
+119
+00:11:07,440 --> 00:11:15,520
+video's diversity message? No. I think we should read the comments. People dislike the Rewind
+
+120
+00:11:15,520 --> 00:11:20,000
+because most people don't like the slick corporate brand friendly image that the site is trying to
+
+121
+00:11:20,000 --> 00:11:25,200
+create for itself by excluding grassroots YouTubers like PewDiePie and MrBeast. People
+
+122
+00:11:25,200 --> 00:11:30,000
+don't like being lectured about the importance of tolerating gay people by a company that has
+
+123
+00:11:30,000 --> 00:11:35,280
+repeatedly demonstrated that they don't actually care about gay people. People don't like the idea
+
+124
+00:11:35,280 --> 00:11:39,760
+of Hollywood celebrities, Twitch streamers, and Instagram models populating a video that is
+
+125
+00:11:39,760 --> 00:11:44,560
+supposedly about celebrating YouTubers. Do you kind of see where I'm going with this?
+
+126
+00:11:44,560 --> 00:11:48,800
+If your YouTube videos are getting a lot of dislikes and your initial reaction is that
+
+127
+00:11:48,800 --> 00:11:54,240
+there's an evil mob of radicals conspiring against you, then there's probably a more
+
+128
+00:11:54,240 --> 00:11:59,760
+reasonable explanation. Chef Ramsay had the absolute nerve to reach out to Yelpers.
+
+129
+00:11:59,760 --> 00:12:06,240
+They are deliberately attacking my restaurant. Every Yelper lies. They hurt and damage
+
+130
+00:12:06,240 --> 00:12:11,440
+restaurants by doing this. It is front page news across the country. As one would imagine,
+
+131
+00:12:11,440 --> 00:12:16,240
+Mueller found collusion between President Trump, his campaign in Russia. The president obstructed
+
+132
+00:12:16,240 --> 00:12:20,080
+justice. There will be new indictments to conservatives. If there's indictments, then
+
+133
+00:12:20,080 --> 00:12:24,560
+clearly this has ended with Russian collusion. All indictments have been related to conspiring
+
+134
+00:12:24,560 --> 00:12:31,200
+with Russians. It cost more than 25 million cocks and about 500 penises over 9,000 penises.
+
+135
+00:12:31,200 --> 00:12:36,160
+There was obstruction. So, Mr. Drumpf, you admit you conspired with Russians.
+
+136
+00:12:36,720 --> 00:12:43,520
+What do you have to say in your defense? Coincidence? I think not super democratic.
+
+137
+00:12:43,520 --> 00:12:48,880
+Now, the Dan Olson type might counter this by saying that the dislike mob is a legitimate
+
+138
+00:12:48,880 --> 00:12:54,080
+threat because the rating system potentially allows large and powerful groups to harass small,
+
+139
+00:12:54,080 --> 00:12:58,240
+independent YouTubers whom they view as... Next, we're bullying me!
+
+140
+00:12:59,200 --> 00:13:03,200
+I mean, look what happened when iDubbbz sent his army of fans to attack Leafy.
+
+141
+00:13:03,920 --> 00:13:09,280
+Oh, wait. iDubbbz had a smaller channel at the time. But what about that time when I,
+
+142
+00:13:09,280 --> 00:13:13,840
+the devilish butthole Emperor Lemon, sent all of my fans to go harass behind the meme?
+
+143
+00:13:14,800 --> 00:13:19,840
+Ooh, yeah, um... Bullying!
+
+144
+00:13:19,840 --> 00:13:23,360
+Yeah, it turns out that on YouTube, people tend to support the underdog.
+
+145
+00:13:23,360 --> 00:13:28,000
+But I'm sure these are just two anecdotal examples that I cherry-picked, and they certainly don't
+
+146
+00:13:28,000 --> 00:13:33,680
+reflect the true threat of dislike mobs like, oh say, the list of the most disliked YouTube
+
+147
+00:13:33,680 --> 00:13:38,240
+videos ever. Welcome to WatchMojo.com and still be counting down number one.
+
+148
+00:13:38,240 --> 00:13:44,400
+Coming in at number one is, once again, the 2018 YouTube Rewind, which saw an unprecedented volume
+
+149
+00:13:44,400 --> 00:13:48,880
+of dislikes on a video. But it's clearly just a dislike mob who hates diversity.
+
+150
+00:13:48,880 --> 00:13:53,440
+Can we also give a moment to Asian representation in entertainment this year?
+
+151
+00:13:53,440 --> 00:13:54,480
+Number two...
+
+152
+00:13:54,480 --> 00:13:57,760
+Number two is a music video called Baby by independent,
+
+153
+00:13:57,760 --> 00:14:02,080
+small-time music artist Justin Bieber. Looks like the dislike mob here is just
+
+154
+00:14:02,080 --> 00:14:05,520
+discriminating against Canadians. Number three...
+
+155
+00:14:05,520 --> 00:14:09,680
+Number three is It's Everyday Bro by small underground YouTuber Jake Paul.
+
+156
+00:14:10,240 --> 00:14:15,200
+Obviously, the lyrical and melodic content of this renaissance masterpiece deserves the highest
+
+157
+00:14:15,200 --> 00:14:19,840
+of praise, and all these dislikes are just from a mob of haters whom we should dab on.
+
+158
+00:14:19,840 --> 00:14:22,240
+Make sure you're dabbing on them haters, baby!
+
+159
+00:14:22,240 --> 00:14:24,400
+Dab. Dab. Dab.
+
+160
+00:14:24,400 --> 00:14:25,600
+Number four...
+
+161
+00:14:25,600 --> 00:14:30,400
+Number four is a video from the small YouTuber PewDiePie in a video where he literally asks
+
+162
+00:14:30,400 --> 00:14:34,800
+his fans to dislike it, but I'm sure some of those came from a mob.
+
+163
+00:14:34,880 --> 00:14:37,840
+The racist, sexist, homophobic...
+
+164
+00:14:37,840 --> 00:14:38,480
+Worldview.
+
+165
+00:14:38,480 --> 00:14:39,200
+Worldview.
+
+166
+00:14:39,200 --> 00:14:40,000
+Society.
+
+167
+00:14:40,000 --> 00:14:40,880
+Number five...
+
+168
+00:14:43,600 --> 00:14:44,800
+Enough is enough.
+
+169
+00:14:44,800 --> 00:14:46,640
+Make sure you dabbing on them haters.
+
+170
+00:14:46,640 --> 00:14:48,560
+Make sure you dabbing on them haters.
+
+171
+00:14:48,560 --> 00:14:49,280
+Institutions.
+
+172
+00:14:49,280 --> 00:14:50,880
+Dabbing on them haters.
+
+173
+00:14:50,880 --> 00:14:55,200
+But what if we took the same list and ordered it by highest percentage of dislikes?
+
+174
+00:14:55,200 --> 00:14:59,440
+Man, it's gonna take a real evil and dedicated mob to do that kind of damage.
+
+175
+00:14:59,440 --> 00:15:04,640
+Well, organized in this order, the most disliked videos feature the targeted harassment of frail
+
+176
+00:15:04,640 --> 00:15:12,400
+victims such as YouTube, Call of Duty, the NFL, PewDiePie, RiceGum, YouTube again, and
+
+177
+00:15:12,400 --> 00:15:18,960
+the number one spot, coming in with over 98% dislikes, a video so hated that the creator
+
+178
+00:15:18,960 --> 00:15:22,160
+had to issue a copyright claim against herself to take it down.
+
+179
+00:15:22,720 --> 00:15:28,720
+It's some Brazilian celebrity who was encouraging her fans to vote against a political candidate.
+
+180
+00:15:28,720 --> 00:15:33,440
+No matter how you slice it, the aggregate power of the dislike is used
+
+181
+00:15:33,440 --> 00:15:37,520
+overwhelmingly against big corporate entities.
+
+182
+00:15:37,520 --> 00:15:42,000
+Do we really want to give nuclear weapons to a man whose signature move is firing?
+
+183
+00:15:42,000 --> 00:15:42,480
+Firing.
+
+184
+00:15:42,480 --> 00:15:43,680
+Firing things?
+
+185
+00:15:43,680 --> 00:15:44,640
+Yes!
+
+186
+00:15:44,640 --> 00:15:49,360
+The true dislike mob is often just the common YouTuber pushing back against their corporate
+
+187
+00:15:49,360 --> 00:15:49,920
+overlords.
+
+188
+00:15:50,640 --> 00:15:56,800
+Since the very beginning of the feature, YouTubers have used the dislike as a spiritual veto
+
+189
+00:15:56,800 --> 00:16:02,400
+against slimy manipulation by politicians and corporations, not the other way around.
+
+190
+00:16:02,960 --> 00:16:08,480
+Now tell me, does Dan Olson look like the type of guy who wants to put more power in
+
+191
+00:16:08,480 --> 00:16:10,560
+the hands of wealthy corporations?
+
+192
+00:16:10,560 --> 00:16:14,800
+Well, that's exactly what would happen if he got his wish of YouTube removing dislikes.
+
+193
+00:16:14,800 --> 00:16:18,480
+You don't need to be in the pew every Sunday to know that there's something wrong in this
+
+194
+00:16:18,480 --> 00:16:21,840
+country when gays can serve openly in the military.
+
+195
+00:16:21,840 --> 00:16:27,040
+But I mean, clearly just because the dislike is frequently used by the common people to
+
+196
+00:16:27,040 --> 00:16:32,640
+hashtag resist the evil corporations, it can still happen the other way around.
+
+197
+00:16:32,640 --> 00:16:37,600
+I mean, big powerful groups have the incentive to do so because dislikes negatively affect
+
+198
+00:16:37,600 --> 00:16:39,280
+your videos in the algorithm.
+
+199
+00:16:39,280 --> 00:16:42,080
+Except there's absolutely no evidence of this.
+
+200
+00:16:42,080 --> 00:16:42,960
+At all.
+
+201
+00:16:42,960 --> 00:16:47,680
+According to my YouTube analytics, my Jimmy Kimmel video received a huge spike in dislikes
+
+202
+00:16:47,680 --> 00:16:49,840
+on April 20th, 2018.
+
+203
+00:16:49,840 --> 00:16:52,400
+Uh oh, looks like the dislike mob got to me.
+
+204
+00:16:52,400 --> 00:16:55,280
+Better disable my ratings before my views drop.
+
+205
+00:16:55,280 --> 00:16:56,880
+Except I didn't.
+
+206
+00:16:56,880 --> 00:17:00,640
+And the video still gets plenty of views, even though the proportion of dislikes has
+
+207
+00:17:00,640 --> 00:17:02,640
+continued to increase over time.
+
+208
+00:17:02,640 --> 00:17:06,960
+You may write this off as just circumstantial evidence, but if you ask any YouTuber out
+
+209
+00:17:06,960 --> 00:17:11,920
+there who isn't terrified of the dislike mob boogeyman, they'll tell you the same thing
+
+210
+00:17:11,920 --> 00:17:15,440
+that dislikes have no direct effect on viewership.
+
+211
+00:17:15,440 --> 00:17:21,200
+The only YouTube feature that has been demonstrably proven to reduce viewership is demonetization.
+
+212
+00:17:26,960 --> 00:17:27,840
+Well, whatever.
+
+213
+00:17:27,840 --> 00:17:32,800
+I guess you could still somehow justify disabling ratings because at least the comments give
+
+214
+00:17:32,800 --> 00:17:34,000
+better feedback.
+
+215
+00:17:34,000 --> 00:17:38,320
+Because it's not like the YouTube comment system is notorious for being a cesspool of
+
+216
+00:17:38,320 --> 00:17:41,840
+knuckleheads impulsively spewing their uninformed opinions.
+
+217
+00:17:41,840 --> 00:17:47,360
+And it's also widely understood that comments are certainly not populated by a vocal minority
+
+218
+00:17:47,360 --> 00:17:52,400
+of more radical viewers who will inevitably form a cult of personality around you if you
+
+219
+00:17:52,400 --> 00:17:53,520
+cater to them.
+
+220
+00:17:53,520 --> 00:17:55,520
+Are you saying my money's all gone?
+
+221
+00:17:56,400 --> 00:17:59,760
+But I made all the right moves, didn't I?
+
+222
+00:17:59,760 --> 00:18:00,800
+Oh, yes, sir.
+
+223
+00:18:00,800 --> 00:18:02,000
+Every move a right one.
+
+224
+00:18:02,000 --> 00:18:05,440
+Yep, comments are definitely a better feedback system than dislikes.
+
+225
+00:18:05,440 --> 00:18:07,360
+I'm really glad I disabled them.
+
+226
+00:18:07,360 --> 00:18:11,680
+So glad, in fact, that I believe YouTube should disable dislikes for the entire platform.
+
+227
+00:18:11,680 --> 00:18:13,120
+I think it's a great idea.
+
+228
+00:18:13,120 --> 00:18:15,520
+And for that reason, other people should, too.
+
+229
+00:18:15,520 --> 00:18:17,680
+I'm so smart and correct about everything.
+
+230
+00:18:17,680 --> 00:18:20,080
+Just look at all these comments agreeing with me.
+
+231
+00:18:20,080 --> 00:18:22,160
+Man, I can picture it now.
+
+232
+00:18:22,160 --> 00:18:25,680
+The dislike free utopian future of YouTube.
+
+233
+00:18:25,680 --> 00:18:26,240
+Wait a minute.
+
+234
+00:18:26,240 --> 00:18:31,280
+That's just Facebook, a site where people act like machines, corporations act like people
+
+235
+00:18:31,280 --> 00:18:33,520
+and machines act like CEOs.
+
+236
+00:18:33,520 --> 00:18:35,760
+A very utopian place indeed.
+
+237
+00:18:35,760 --> 00:18:37,600
+But hey, at least there's no dislikes.
+
+238
+00:18:37,600 --> 00:18:42,320
+And we all know that the lack of dislikes promotes great content and discussion on Facebook.
+
+239
+00:18:42,880 --> 00:18:44,320
+Or how about Twitter?
+
+240
+00:18:44,320 --> 00:18:48,160
+No dislikes to be found here without a dislike button to weaponize.
+
+241
+00:18:48,160 --> 00:18:51,280
+There are certainly no angry mobs wreaking havoc in this place.
+
+242
+00:18:51,920 --> 00:18:54,640
+Oh, man, I'm about to contradict myself here.
+
+243
+00:18:54,640 --> 00:18:58,720
+But Reddit has a dislike feature and the discussion sucks here, too.
+
+244
+00:18:58,720 --> 00:19:03,840
+You ignorant, self-serving, killjoy, nitpicking, burger cutting bitch.
+
+245
+00:19:04,400 --> 00:19:07,040
+I guess that's bad news for dislikes on YouTube.
+
+246
+00:19:07,680 --> 00:19:11,040
+Except dislikes on YouTube don't affect the visibility of your posts.
+
+247
+00:19:12,160 --> 00:19:16,960
+But maybe there's a better and more fair comment system than Reddit, like this one.
+
+248
+00:19:16,960 --> 00:19:19,920
+Oh, wait, this is the YouTube comment system
+
+249
+00:19:19,920 --> 00:19:24,560
+where dislikes have been disabled for almost five years now and it's still a cesspool.
+
+250
+00:19:26,080 --> 00:19:29,360
+Well, if we're talking about cesspools, let's throw in 4chan.
+
+251
+00:19:29,360 --> 00:19:32,160
+No dislikes here or even likes for that matter.
+
+252
+00:19:32,160 --> 00:19:36,160
+Surely this is the pinnacle of utopian mob free discourse.
+
+253
+00:19:36,720 --> 00:19:43,200
+Now tell me, does Dan Olson look like the type of guy who would prefer 4chan over Reddit?
+
+254
+00:19:43,200 --> 00:19:44,080
+I think not.
+
+255
+00:19:44,880 --> 00:19:46,160
+Am I so out of touch?
+
+256
+00:19:47,680 --> 00:19:49,680
+No, it's the children who are wrong.
+
+257
+00:19:49,680 --> 00:19:50,720
+Here's the thing.
+
+258
+00:19:50,720 --> 00:19:54,480
+People like classifying and ranking things in a hierarchy.
+
+259
+00:19:54,480 --> 00:19:56,400
+We do this intuitively.
+
+260
+00:19:56,400 --> 00:20:00,880
+It's based on how our brains organize and categorize information.
+
+261
+00:20:00,880 --> 00:20:06,240
+There's a reason why WatchMojo, one of the most bland and boring channels ever,
+
+262
+00:20:06,240 --> 00:20:11,840
+can forge a 20 million subscriber empire from making nothing but top 10 lists.
+
+263
+00:20:11,840 --> 00:20:16,160
+People have a natural fascination with ranking things in some kind of order
+
+264
+00:20:16,160 --> 00:20:19,120
+and they do the same thing with likes and dislikes.
+
+265
+00:20:19,120 --> 00:20:21,840
+People want to know what's good and what's bad
+
+266
+00:20:21,840 --> 00:20:25,040
+and sweeping your ratings under the rug won't change that.
+
+267
+00:20:25,040 --> 00:20:27,840
+Every website that doesn't have a dislike function
+
+268
+00:20:27,840 --> 00:20:31,280
+has users who try to supplement it through some other means.
+
+269
+00:20:31,280 --> 00:20:34,160
+On Facebook, you have the angry react.
+
+270
+00:20:34,160 --> 00:20:36,160
+On Twitter, people get ratioed.
+
+271
+00:20:36,160 --> 00:20:38,560
+On 4chan, people try to get used.
+
+272
+00:20:38,560 --> 00:20:41,280
+And that brings me to the main point of this video.
+
+273
+00:20:41,280 --> 00:20:45,200
+Just because you can't see the dislikes doesn't mean they don't exist.
+
+274
+00:20:45,760 --> 00:20:49,680
+It's childish and you're starting to see this mentality everywhere.
+
+275
+00:20:49,680 --> 00:20:52,800
+Oh no, people didn't like this movie with a woman in it?
+
+276
+00:20:52,800 --> 00:20:56,240
+I guess it's just a dislike mob who supports the patriarchy.
+
+277
+00:20:56,240 --> 00:20:59,440
+Oh no, you disagree with my impeccable opinion?
+
+278
+00:20:59,440 --> 00:21:01,920
+I guess I have no choice but to block you,
+
+279
+00:21:01,920 --> 00:21:04,720
+since I can't see anyone who disagrees with me.
+
+280
+00:21:04,720 --> 00:21:06,800
+That must mean everyone agrees with me.
+
+281
+00:21:07,360 --> 00:21:12,720
+You could put half of Trump supporters into what I call the basket of deplorables.
+
+282
+00:21:12,800 --> 00:21:17,200
+Now having said all this, why aren't I 50 points ahead, you might ask?
+
+283
+00:21:17,200 --> 00:21:20,960
+I swear some people online are so averse to basic discourse
+
+284
+00:21:20,960 --> 00:21:23,440
+that they unlearn object permanence.
+
+285
+00:21:23,440 --> 00:21:27,040
+Except it's not object permanence, it's dislike permanence.
+
+286
+00:21:27,040 --> 00:21:29,600
+Let's face it, you can say anything online
+
+287
+00:21:29,600 --> 00:21:32,400
+and a small fraction of people will hate you for it.
+
+288
+00:21:32,400 --> 00:21:34,080
+That much is inevitable.
+
+289
+00:21:34,080 --> 00:21:36,400
+As any sort of content creator online,
+
+290
+00:21:36,400 --> 00:21:38,320
+you will almost certainly encounter a moment
+
+291
+00:21:38,320 --> 00:21:41,440
+when you're faced with an unprecedented amount of backlash.
+
+292
+00:21:41,440 --> 00:21:44,480
+I always go back to the example of my Behind the Meme video.
+
+293
+00:21:44,480 --> 00:21:48,080
+Do you know how easy it would have been for me to simply write off all the criticism
+
+294
+00:21:48,080 --> 00:21:50,880
+as a bunch of pissed off Behind the Meme fanboys?
+
+295
+00:21:50,880 --> 00:21:54,080
+But I didn't do that because it simply wasn't true.
+
+296
+00:21:54,080 --> 00:21:58,480
+I had to swallow my pride and acknowledge that a lot of the criticism was fair
+
+297
+00:21:58,480 --> 00:22:02,240
+and I used that criticism to gradually improve my approaches.
+
+298
+00:22:02,240 --> 00:22:03,360
+And guess what?
+
+299
+00:22:03,360 --> 00:22:06,320
+I don't get as many dislikes on my newer videos.
+
+300
+00:22:06,320 --> 00:22:10,640
+I made the dislikes go away without having to shamelessly hide them.
+
+301
+00:22:10,720 --> 00:22:12,640
+IT'S TIME FOR THE PILL!
+
+302
+00:22:26,160 --> 00:22:28,560
+YouTubers tend to fear dislikes.
+
+303
+00:22:28,560 --> 00:22:32,880
+Even though as a YouTuber, dislikes are one of your most valuable assets.
+
+304
+00:22:33,520 --> 00:22:35,840
+It's easy to preach to your own choir.
+
+305
+00:22:35,840 --> 00:22:40,320
+It's difficult to preach to strangers who have never seen you before in their lives.
+
+306
+00:22:40,320 --> 00:22:43,200
+YouTube is all about appealing to niche audiences.
+
+307
+00:22:43,200 --> 00:22:48,160
+But the more you grow, the harder it becomes to have all of your audience on the same page.
+
+308
+00:22:48,160 --> 00:22:50,400
+If you're starting to see more dislikes,
+
+309
+00:22:50,400 --> 00:22:54,800
+well it probably just means that your channel is starting to grow outside of its comfort zone.
+
+310
+00:22:54,800 --> 00:22:55,760
+And that's okay.
+
+311
+00:22:56,320 --> 00:22:59,600
+Dislikes are just a natural part of growing on YouTube.
+
+312
+00:22:59,600 --> 00:23:02,720
+They're a sign that new people are watching your videos.
+
+313
+00:23:02,720 --> 00:23:06,240
+You can either accommodate the new viewers or stick to your niche.
+
+314
+00:23:06,240 --> 00:23:07,440
+The choice is yours.
+
+315
+00:23:07,440 --> 00:23:11,920
+But if you so choose to treat dislikes as a germ that must be eradicated,
+
+316
+00:23:11,920 --> 00:23:15,680
+don't be surprised when eventually the new people stop showing up.
+
+317
+00:23:15,680 --> 00:23:19,280
+Dislikes are one of the only lines of communication between you,
+
+318
+00:23:19,280 --> 00:23:23,920
+the creator, and the audience member who is discovering you for the very first time.
+
+319
+00:23:23,920 --> 00:23:29,200
+Most people won't spend the effort to type up a comment or click on any link you have in the description.
+
+320
+00:23:29,200 --> 00:23:33,120
+But at the very least, they will press dislike on your video.
+
+321
+00:23:33,120 --> 00:23:36,080
+And yes, some of the critics are going to be unreasonable.
+
+322
+00:23:36,080 --> 00:23:40,320
+And you can never please everybody and you shouldn't try to please everybody.
+
+323
+00:23:40,320 --> 00:23:43,440
+But critics will give you something that your fans won't.
+
+324
+00:23:43,440 --> 00:23:46,240
+And that's honest, unfiltered feedback.
+
+325
+00:23:46,880 --> 00:23:50,480
+Truth is one of the most valuable resources no matter where you go.
+
+326
+00:23:50,480 --> 00:23:52,240
+From the looks of last year's Rewind,
+
+327
+00:23:52,240 --> 00:23:56,800
+it would seem that the YouTube community is really trying to tell YouTube the truth.
+
+328
+00:23:56,800 --> 00:23:57,600
+Let's hope they listen.
+
+329
+00:23:57,600 --> 00:24:00,320
+...unexpectedly broke a record with Rewind,
+
+330
+00:24:00,320 --> 00:24:03,200
+creating the most disliked video on the internet.
+
+331
+00:24:03,760 --> 00:24:06,400
+Even at home, my kids told me it was cringey.
+
+332
+00:24:06,400 --> 00:24:08,320
+We hear you that it didn't accurately show...
+
+333
+00:24:08,320 --> 00:24:12,320
+A dislike on a YouTube video has never harmed a person.
+
+334
+00:24:12,320 --> 00:24:14,480
+They only harm egos.
+
+335
+00:24:14,480 --> 00:24:19,120
+There's a reason why YouTube only suddenly decided to start talking about dislikes
+
+336
+00:24:19,120 --> 00:24:21,840
+after their video became the most disliked in history.
+
+337
+00:24:21,840 --> 00:24:23,520
+It's not a coincidence.
+
+338
+00:24:23,520 --> 00:24:27,440
+Dislikes make people pay attention and yank them back down to earth.
+
+339
+00:24:27,440 --> 00:24:31,760
+There's no bigger wake-up call as a YouTuber than seeing that ratings bar dip below 80%.
+
+340
+00:24:32,640 --> 00:24:34,720
+Or in YouTube's case, below 20%.
+
+341
+00:24:35,600 --> 00:24:36,800
+It gets to you.
+
+342
+00:24:36,800 --> 00:24:37,760
+You remember that.
+
+343
+00:24:37,760 --> 00:24:39,840
+It's a big fat slap on the wrist.
+
+344
+00:24:39,840 --> 00:24:43,200
+It forces you to stop and re-evaluate what you're doing.
+
+345
+00:24:43,200 --> 00:24:47,280
+It makes you wonder that maybe you're not as good as you think you are.
+
+346
+00:24:47,280 --> 00:24:50,560
+Critics will tell you the truth and won't sugarcoat it.
+
+347
+00:24:50,560 --> 00:24:54,640
+You can argue about how they're wrong all you want, but they don't think they're wrong.
+
+348
+00:24:54,640 --> 00:24:58,400
+And there are many people who probably agree with them and not you.
+
+349
+00:24:58,400 --> 00:24:59,600
+Are they all wrong?
+
+350
+00:24:59,600 --> 00:25:01,360
+Or are you just out of touch?
+
+351
+00:25:01,360 --> 00:25:03,520
+One of these is far more likely than the other.
+
+352
+00:25:03,520 --> 00:25:07,440
+But once again, whichever one you want to believe is your choice.
+
+353
+00:25:07,440 --> 00:25:08,480
+So choose wisely.
+
+354
+00:25:11,200 --> 00:25:15,680
+You know, sometimes you get dislikes on YouTube videos because people meant to press like,
+
+355
+00:25:15,680 --> 00:25:18,000
+but they accidentally pressed the wrong button.
+
+356
+00:25:18,000 --> 00:25:20,960
+And obviously it's not that big of a deal because
+
+357
+00:25:20,960 --> 00:25:23,840
+at least they didn't press the wrong button on something more important.
+
+358
+00:25:23,840 --> 00:25:27,680
+Like, say, deciding the future of internet regulation for an entire continent.
+
+359
+00:25:28,560 --> 00:25:32,240
+We interrupt this program to bring you downward spiral.
+
+360
+00:25:32,240 --> 00:25:33,120
+That's right, Europe.
+
+361
+00:25:33,120 --> 00:25:37,600
+You had elected officials literally press the wrong button while voting for some of
+
+362
+00:25:37,600 --> 00:25:41,040
+the most influential internet regulation in your lifetime.
+
+363
+00:25:41,040 --> 00:25:43,040
+Oh, you stupid son of a-
+
+364
+00:25:43,040 --> 00:25:45,040
+I'm sorry I'm not good.
+
+365
+00:25:45,680 --> 00:25:47,760
+Please forgive me.
+
+366
+00:25:47,760 --> 00:25:50,000
+I'm just European.
+
+367
+00:25:50,000 --> 00:25:53,680
+If your elected officials can't even be trusted to press the right button,
+
+368
+00:25:53,680 --> 00:25:56,640
+maybe it's time to take matters into your own hands.
+
+369
+00:25:56,640 --> 00:25:59,840
+NordVPN will not only protect your privacy,
+
+370
+00:25:59,840 --> 00:26:03,760
+but it will also protect you from the stupidity of your world leaders.
+
+371
+00:26:03,760 --> 00:26:08,000
+NordVPN lets you change your IP to over 50 countries around the world
+
+372
+00:26:08,000 --> 00:26:11,600
+and over 30 countries outside of the EU's jurisdiction.
+
+373
+00:26:11,600 --> 00:26:15,760
+Use NordVPN to anonymously launch a dislike mob against your enemies
+
+374
+00:26:15,760 --> 00:26:20,080
+and use code EMPLEMON to get 75% off the three-year plan.
+
+375
+00:26:20,080 --> 00:26:25,040
+Check out the link below or visit nordvpn.com slash EMPLEMON.
+
+376
+00:26:25,040 --> 00:26:25,440
+Do it!
+
+377
+00:26:26,640 --> 00:26:29,280
+Hey everyone, Post Video Emp here.
+
+378
+00:26:29,280 --> 00:26:33,360
+I just wanted to thank NordVPN again for sponsoring this video.
+
+379
+00:26:33,360 --> 00:26:34,800
+And my patrons.
+
+380
+00:26:34,800 --> 00:26:35,840
+But most notably,
+
+381
+00:26:35,840 --> 00:26:37,200
+Internet Historian,
+
+382
+00:26:37,200 --> 00:26:40,720
+hmaxbstc811b34,
+
+383
+00:26:41,280 --> 00:26:42,800
+Hank Love Smith,
+
+384
+00:26:42,800 --> 00:26:43,520
+TheRealG,
+
+385
+00:26:44,160 --> 00:26:45,520
+Sean Collins,
+
+386
+00:26:45,520 --> 00:26:46,960
+Jack the Whacked Out Cuck.
+
+387
+00:26:47,600 --> 00:26:52,000
+If you're still watching at this point after the video has ended and after the ad has ended,
+
+388
+00:26:52,000 --> 00:26:53,920
+then I gotta give you props.
+
+389
+00:26:53,920 --> 00:26:54,880
+You have some patience.
+
+390
+00:26:55,360 --> 00:26:58,080
+My next video is going to come as a bit of surprise to a lot of you,
+
+391
+00:26:58,080 --> 00:27:02,240
+and it's going to be very different from anything I've made over the past year and a half.
+
+392
+00:27:02,880 --> 00:27:03,760
+So stay tuned.
+
+393
+00:27:04,480 --> 00:27:06,800
+Hopefully this one won't take two months.
+
