@@ -1,6 +1,6 @@
 for vid in (cat videos.txt)
 
-  if test -e -- "$vid/flags/2_whisper"
+  if test -e "$vid/flags/2_whisper"
     echo -- "$vid" 'done'
   else
     cd -- "$vid"
