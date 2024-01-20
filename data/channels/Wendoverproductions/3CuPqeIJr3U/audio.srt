@@ -1,0 +1,960 @@
+1
+00:00:00,000 --> 00:00:03,320
+This video was made possible by CuriosityStream.
+
+2
+00:00:03,320 --> 00:00:07,280
+If you've already signed up for the CuriosityStream-Nebula bundle deal, make sure to watch the extended
+
+3
+00:00:07,280 --> 00:00:09,240
+cut of this video on Nebula.
+
+4
+00:00:09,240 --> 00:00:13,700
+If you haven't signed up yet, you can get both CuriosityStream and Nebula bundled together
+
+5
+00:00:13,700 --> 00:00:21,200
+for just $15 a year with the current sale at CuriosityStream.com slash Wendover.
+
+6
+00:00:21,200 --> 00:00:24,880
+China has backed itself into a corner.
+
+7
+00:00:24,880 --> 00:00:29,520
+About a year ago, in spring 2020, it emerged triumphant.
+
+8
+00:00:30,040 --> 00:00:35,260
+After months of devastation, it became the first country to coax life back to near-normal
+
+9
+00:00:35,260 --> 00:00:38,320
+after a widespread COVID epidemic.
+
+10
+00:00:38,320 --> 00:00:42,760
+Just as it emerged from lockdown, the rest of the world was entering into it, so China
+
+11
+00:00:42,760 --> 00:00:47,920
+started to focus its attention on not only recovering from COVID, but also from the hit
+
+12
+00:00:47,920 --> 00:00:52,680
+it took to its global image as a result of perceived mismanagement in the virus' early
+
+13
+00:00:52,680 --> 00:00:53,680
+days.
+
+14
+00:00:53,680 --> 00:00:59,180
+As the US and Europe struggled from far larger, far more devastating outbreaks, China sat
+
+15
+00:00:59,180 --> 00:01:04,000
+on the sidelines, working on ways to be viewed not only as the country that crushed COVID
+
+16
+00:01:04,000 --> 00:01:08,140
+within its borders, but also led the fight against it around the world.
+
+17
+00:01:08,140 --> 00:01:12,280
+They wanted to be seen doing what the US and Europe couldn't while they were focused
+
+18
+00:01:12,280 --> 00:01:14,220
+on their problems at home.
+
+19
+00:01:14,220 --> 00:01:18,180
+As hospital ships docked and intensive care units ballooned in size throughout April and
+
+20
+00:01:18,180 --> 00:01:23,440
+New York, planes were landing at JFK carrying thousands of desperately needed ventilators
+
+21
+00:01:23,440 --> 00:01:24,600
+from China.
+
+22
+00:01:24,600 --> 00:01:29,680
+As hospitals around the world ran out of supplies and required healthcare workers to reuse masks
+
+23
+00:01:29,680 --> 00:01:35,000
+for days or weeks on end, national airlines were making special, dedicated trips to pick
+
+24
+00:01:35,000 --> 00:01:37,600
+up medical supplies donated by China.
+
+25
+00:01:37,600 --> 00:01:41,520
+As every corner of the world worked to ramp up testing to get a more accurate picture
+
+26
+00:01:41,520 --> 00:01:46,760
+of their problems, Chinese-made test kits were streaming through their borders.
+
+27
+00:01:46,760 --> 00:01:52,220
+China was at the center of the fight against the virus, but the center can be the riskiest
+
+28
+00:01:52,220 --> 00:01:53,960
+place to be.
+
+29
+00:01:53,960 --> 00:02:00,160
+As donations turned into purchases, it emerged that there was a major quality problem.
+
+30
+00:02:00,160 --> 00:02:05,400
+Some 90% of mask certifications from China, according to one measure, were fake, tests
+
+31
+00:02:05,400 --> 00:02:10,900
+that were supposed to have 80% sensitivity actually had 30%, and stories emerged globally
+
+32
+00:02:10,900 --> 00:02:15,860
+of Chinese officials demanding public displays of thanks in exchange for donations.
+
+33
+00:02:15,860 --> 00:02:22,740
+What was supposed to be a diplomacy coup rekindled an old narrative of Chinese-made as inferior.
+
+34
+00:02:22,740 --> 00:02:28,100
+At best, this effort did little to rewrite China's role in the pandemic, but at worst,
+
+35
+00:02:28,100 --> 00:02:32,880
+it seems very possible that it actually further damaged their global image.
+
+36
+00:02:32,880 --> 00:02:38,200
+However, while the start and the middle of the pandemic did not entirely go China's
+
+37
+00:02:38,200 --> 00:02:43,520
+way, in terms of global image, there was still the end.
+
+38
+00:02:43,520 --> 00:02:48,200
+China still had the chance to recover what they'd lost, and, more specifically, they
+
+39
+00:02:48,200 --> 00:02:54,180
+had the chance to display their homegrown scientific skill and manufacturing might.
+
+40
+00:02:54,180 --> 00:02:57,940
+China could be the country that supplies the shots that would end the world's misery
+
+41
+00:02:57,940 --> 00:03:00,520
+and put the pandemic in the history books.
+
+42
+00:03:00,520 --> 00:03:07,540
+They could make the world's vaccine, but of course, first, they needed a vaccine.
+
+43
+00:03:07,540 --> 00:03:10,080
+Luckily, they had a head start.
+
+44
+00:03:10,080 --> 00:03:15,040
+As soon as the outbreak began in China, a number of private companies, state-owned enterprises,
+
+45
+00:03:15,040 --> 00:03:18,960
+and government-run institutes started work on developing a vaccine.
+
+46
+00:03:18,960 --> 00:03:24,980
+By spring, there were some strong, viable candidates, so the next step was testing.
+
+47
+00:03:24,980 --> 00:03:30,160
+Just as most of the Western world entered their lockdowns, the first Chinese vaccine,
+
+48
+00:03:30,160 --> 00:03:37,480
+85-nCoV by CanSino Biologics, entered a phase 1 clinical trial on March 17th, 2020, with
+
+49
+00:03:37,480 --> 00:03:40,880
+108 adults in Wuhan receiving the shot.
+
+50
+00:03:40,880 --> 00:03:46,440
+Under positive data, this same vaccine became the first in the world to enter phase 2 trials
+
+51
+00:03:46,440 --> 00:03:49,920
+on April 11th, with 508 participants.
+
+52
+00:03:49,920 --> 00:03:54,160
+When the results from that trial were published on July 20th, they revealed that not only
+
+53
+00:03:54,160 --> 00:03:58,500
+was the vaccine acceptably safe, but that it was also generating the desired immune
+
+54
+00:03:58,500 --> 00:04:03,200
+response—in short, it was seemingly both safe and effective.
+
+55
+00:04:03,200 --> 00:04:09,200
+However, the next phase of clinical testing presented a problem for CanSino.
+
+56
+00:04:09,200 --> 00:04:14,420
+You see, phase 1 vaccine trials are about seeing if they're safe, and then phase 2
+
+57
+00:04:14,420 --> 00:04:18,860
+trials are about seeing if they generate the desired immune response in the body.
+
+58
+00:04:18,860 --> 00:04:24,640
+Phase 3 trials, however, that's about seeing if the vaccine works in the real world—to
+
+59
+00:04:24,640 --> 00:04:27,640
+see if it actually protects humans.
+
+60
+00:04:27,640 --> 00:04:33,720
+To do so, researchers divide the study participants into two equal-sized groups—one receives
+
+61
+00:04:33,720 --> 00:04:39,360
+the actual candidate vaccine, the other receives a placebo shot—typically just a saline
+
+62
+00:04:39,360 --> 00:04:40,360
+solution.
+
+63
+00:04:40,360 --> 00:04:45,080
+Then, the two groups are tracked to see if one is less likely to contract the virus than
+
+64
+00:04:45,080 --> 00:04:46,080
+the other.
+
+65
+00:04:46,080 --> 00:04:50,560
+The problem for CanSino, the other Chinese vaccine makers, and the country as a whole
+
+66
+00:04:50,560 --> 00:04:56,120
+was that, by late summer, when the first Chinese vaccines were moving into phase 3 trials,
+
+67
+00:04:56,120 --> 00:05:00,640
+daily COVID cases in the country had been reduced to double-digit levels in a country
+
+68
+00:05:00,640 --> 00:05:03,480
+of well over a billion.
+
+69
+00:05:03,480 --> 00:05:08,960
+Most phase 3 vaccine trials have below 50,000 participants, so it would take years, if not
+
+70
+00:05:08,960 --> 00:05:13,640
+decades, at those caseloads to get to the hundreds of infections needed in a trial to
+
+71
+00:05:13,640 --> 00:05:15,920
+prove a vaccine's efficacy.
+
+72
+00:05:15,920 --> 00:05:20,240
+Essentially, it was impossible for Chinese companies to complete their COVID vaccines
+
+73
+00:05:20,240 --> 00:05:25,640
+in China exactly because the country had done so well at suppressing the virus.
+
+74
+00:05:25,640 --> 00:05:29,640
+Therefore, they had to move abroad.
+
+75
+00:05:29,640 --> 00:05:36,480
+The CanSino AD5-NCoV vaccine started phase 3 trials in Russia, Pakistan, Saudi Arabia,
+
+76
+00:05:36,480 --> 00:05:40,960
+Mexico, Argentina, and Chile, while the other leading candidates moved to dozens of other
+
+77
+00:05:40,960 --> 00:05:44,160
+countries with more severe COVID epidemics.
+
+78
+00:05:44,160 --> 00:05:49,920
+However, with many of these, China and its pharmaceutical companies had to curry favor
+
+79
+00:05:49,920 --> 00:05:51,680
+with each government.
+
+80
+00:05:51,680 --> 00:05:56,000
+Typically, that took the form of offering priority access to the very vaccines that
+
+81
+00:05:56,000 --> 00:05:59,480
+they were testing, which was fine… for the moment.
+
+82
+00:05:59,480 --> 00:06:03,960
+As of now, five Chinese-made vaccines have been approved in the country.
+
+83
+00:06:03,960 --> 00:06:09,000
+In general, there has been widespread criticism of the country's vaccine development practices.
+
+84
+00:06:09,000 --> 00:06:12,400
+They've started vaccinating the general public before their phase 3 trials reached
+
+85
+00:06:12,400 --> 00:06:16,640
+their endpoints, they haven't been forthcoming with clinical trial data, they've misrepresented
+
+86
+00:06:16,640 --> 00:06:22,080
+efficacy ratings from trials, and more, however, despite that, there is evidence that these
+
+87
+00:06:22,080 --> 00:06:28,360
+vaccines are acceptably safe and effective—even if potentially less so than other approved
+
+88
+00:06:28,360 --> 00:06:29,360
+vaccines.
+
+89
+00:06:30,240 --> 00:06:36,280
+On December 30th, the BBIBP-CoV vaccine manufactured by Sinopharm, a Chinese state-owned enterprise,
+
+90
+00:06:36,280 --> 00:06:40,520
+was approved in the country, making it one of the first COVID vaccines in the world to
+
+91
+00:06:40,520 --> 00:06:43,280
+be deployed in the general population.
+
+92
+00:06:43,280 --> 00:06:46,920
+Despite the fact that this vaccine was developed and manufactured by a company owned by the
+
+93
+00:06:46,920 --> 00:06:51,280
+Chinese government, and despite the fact that the country had some 1.4 billion people to
+
+94
+00:06:51,280 --> 00:06:58,080
+inoculate, many of the first doses of the Sinopharm vaccine were sent beyond their borders.
+
+95
+00:06:58,120 --> 00:07:02,920
+Chinese state-owned media reports that the company has orders for its vaccine from over
+
+96
+00:07:02,920 --> 00:07:07,260
+100 countries, although the details of such orders are not publicly known, leading to
+
+97
+00:07:07,260 --> 00:07:10,080
+some skepticism over the numbers.
+
+98
+00:07:10,080 --> 00:07:14,720
+We do know details for certain orders, though, and in some cases, we might know more than
+
+99
+00:07:14,720 --> 00:07:16,640
+China wants us to.
+
+100
+00:07:16,640 --> 00:07:20,960
+In general, though, China's goal with its global vaccine distribution is essentially
+
+101
+00:07:20,960 --> 00:07:26,320
+to do what it failed to do with masks, ventilators, and tests in 2020.
+
+102
+00:07:26,360 --> 00:07:30,960
+China wants to be the country that ended other countries' epidemics.
+
+103
+00:07:30,960 --> 00:07:36,920
+Now, even though Western vaccines from Moderna and Pfizer have a 95% efficacy rating compared
+
+104
+00:07:36,920 --> 00:07:43,380
+to 50-83% in Chinese vaccines, those Western vaccines have order obligations taking up
+
+105
+00:07:43,380 --> 00:07:46,240
+their inventory well into 2022.
+
+106
+00:07:46,240 --> 00:07:51,560
+However, that's not the case with certain Chinese vaccines, so some countries are making
+
+107
+00:07:51,560 --> 00:07:57,580
+the calculation that it's better to have less effective vaccines sooner than the alternative.
+
+108
+00:07:57,580 --> 00:08:03,040
+Of course, for China, this is a major diplomacy coup.
+
+109
+00:08:03,040 --> 00:08:07,840
+Countries historically allied with the West, such as Hungary and Mexico, are turning to
+
+110
+00:08:07,840 --> 00:08:08,840
+China.
+
+111
+00:08:08,840 --> 00:08:13,920
+In their narrative, China is doing what the West cannot.
+
+112
+00:08:13,920 --> 00:08:17,280
+Of course, they want this to continue, and even ramp up.
+
+113
+00:08:17,320 --> 00:08:22,440
+That's why they've been sending their vaccines all around the world for free.
+
+114
+00:08:22,440 --> 00:08:27,920
+Mongolia and Sri Lanka received 300,000 doses of the Sinopharm vaccine, Algeria, Sierra
+
+115
+00:08:27,920 --> 00:08:33,880
+Leone, and Zimbabwe 200,000, and Belarus, Equatorial Guinea, Gabon, Mozambique, Namibia,
+
+116
+00:08:33,880 --> 00:08:35,360
+and Bolivia 100,000.
+
+117
+00:08:35,360 --> 00:08:40,480
+Now, a couple hundred thousand doses isn't going to end any of these countries' epidemics,
+
+118
+00:08:40,480 --> 00:08:44,620
+but it's enough for clips of healthcare workers receiving Chinese-made and donated
+
+119
+00:08:44,620 --> 00:08:47,180
+vaccinations to make the evening news.
+
+120
+00:08:47,180 --> 00:08:51,340
+It's also enough for each of these countries to see that these vaccines are acceptably
+
+121
+00:08:51,340 --> 00:08:56,340
+safe and effective, giving them little reason to not order more when China is offering them
+
+122
+00:08:56,340 --> 00:09:00,140
+months or years before the big Western manufacturers.
+
+123
+00:09:00,140 --> 00:09:06,900
+However, the fact that many of China's vaccines are made and distributed by state-owned enterprises
+
+124
+00:09:06,900 --> 00:09:12,140
+has led many to wonder whether the country is choosing who gets these life-saving inoculations
+
+125
+00:09:12,140 --> 00:09:14,500
+based on diplomatic intentions.
+
+126
+00:09:14,500 --> 00:09:20,300
+It's leading many to wonder whether who lives and who dies in this pandemic is starting
+
+127
+00:09:20,300 --> 00:09:25,720
+to be based on how friendly the country on a given person's passport is to the People's
+
+128
+00:09:25,720 --> 00:09:27,180
+Republic of China.
+
+129
+00:09:27,180 --> 00:09:30,880
+The answer to this question is not hard to find.
+
+130
+00:09:30,880 --> 00:09:34,900
+On the readout of the call between Chinese DIC Councilor and Foreign Minister Wang Yi
+
+131
+00:09:34,900 --> 00:09:39,620
+and Algerian Foreign Minister Sabri Boukadoum, the Chinese official brought up Algeria's
+
+132
+00:09:39,620 --> 00:09:44,700
+vote 50 years ago to switch Chinese representation at the UN from the Republic of China government,
+
+133
+00:09:44,700 --> 00:09:50,140
+now known as Taiwan, to the People's Republic of China, which most now refer to as China.
+
+134
+00:09:50,140 --> 00:09:55,180
+In addition, the Chinese official noted Algeria's participation in China's Belt and Road Infrastructure
+
+135
+00:09:55,180 --> 00:09:59,860
+Development Initiative, before announcing the country's intention to donate 200,000
+
+136
+00:09:59,860 --> 00:10:02,460
+Sinopharm vaccine doses to Algeria.
+
+137
+00:10:02,460 --> 00:10:07,880
+Elsewhere, in South America, 10 of its 12 countries have vaccinated their populations
+
+138
+00:10:07,880 --> 00:10:11,200
+with either purchased or donated Chinese vaccines.
+
+139
+00:10:11,200 --> 00:10:15,660
+The only two exceptions are Suriname, the lowest population country on the continent,
+
+140
+00:10:15,660 --> 00:10:16,660
+and Paraguay.
+
+141
+00:10:16,660 --> 00:10:22,160
+Now, Paraguay's absence on the list of countries to have received Chinese vaccines is not tough
+
+142
+00:10:22,160 --> 00:10:26,640
+to figure out—it's because of another list that they are on.
+
+143
+00:10:26,640 --> 00:10:33,460
+Paraguay is one of just 15 countries worldwide that recognizes Taiwan as an independent nation—something
+
+144
+00:10:33,460 --> 00:10:36,280
+that undermines China's claims of the island.
+
+145
+00:10:36,280 --> 00:10:41,320
+In fact, there is zero overlap between the list of countries that recognizes Taiwan and
+
+146
+00:10:41,320 --> 00:10:44,360
+those that have received Chinese COVID vaccines.
+
+147
+00:10:44,360 --> 00:10:50,080
+However, the cases of Algeria and Paraguay simply show China rewarding its allies and
+
+148
+00:10:50,080 --> 00:10:52,040
+ignoring its foes.
+
+149
+00:10:52,040 --> 00:10:56,880
+This is not at all different from how the US, for example, has operated so far regarding
+
+150
+00:10:56,880 --> 00:11:01,720
+COVID vaccine donations—it's sent them to strong allies like Mexico and Canada.
+
+151
+00:11:02,200 --> 00:11:07,420
+Although, it's quite possible that China is going beyond rewarding its key existing
+
+152
+00:11:07,420 --> 00:11:13,080
+allies and using vaccines to try and form new ones.
+
+153
+00:11:13,080 --> 00:11:17,400
+Brazil and the US have gotten along rather well in recent years, especially over most
+
+154
+00:11:17,400 --> 00:11:22,480
+of the past four, as Brazilian President Jair Bolsonaro is an open admirer of former US
+
+155
+00:11:22,480 --> 00:11:24,280
+President Donald Trump.
+
+156
+00:11:24,280 --> 00:11:27,940
+That meant that Brazil followed the US's lead in banning the Chinese telecom giant
+
+157
+00:11:27,940 --> 00:11:33,200
+Huawei from playing a part in building out their 5G cell network infrastructure, purportedly
+
+158
+00:11:33,200 --> 00:11:34,500
+out of security concerns.
+
+159
+00:11:34,500 --> 00:11:39,680
+Therefore, it was a bit of a surprise when Brazilian Communications Minister Fabio Faria
+
+160
+00:11:39,680 --> 00:11:44,320
+took a trip to Beijing in February and met with Huawei executives.
+
+161
+00:11:44,320 --> 00:11:48,700
+According to Faria, he quote, took advantage of the trip to ask for vaccines, which is
+
+162
+00:11:48,700 --> 00:11:51,260
+what everyone is clamoring for.
+
+163
+00:11:51,260 --> 00:11:55,720
+Soon after, he posted a letter on Twitter from the Chinese ambassador to Brazil which
+
+164
+00:11:55,720 --> 00:11:57,920
+noted the request, reading quote,
+
+165
+00:11:57,920 --> 00:12:02,000
+During your visit to China, you expressed the desire to continue to strengthen cooperation
+
+166
+00:12:02,000 --> 00:12:05,360
+between our two countries regarding COVID-19 vaccines.
+
+167
+00:12:05,360 --> 00:12:08,840
+I'd give this matter great importance."
+
+168
+00:12:08,840 --> 00:12:13,400
+A few weeks later, the Brazilian government announced the rules and structure for its
+
+169
+00:12:13,400 --> 00:12:19,220
+5G auction and, in a change of course, Huawei was now allowed to participate.
+
+170
+00:12:19,220 --> 00:12:24,560
+The company, in response to questions about this, didn't even directly deny that a tit-for-tat
+
+171
+00:12:24,560 --> 00:12:26,240
+deal took place.
+
+172
+00:12:26,240 --> 00:12:30,720
+In a statement, they said that while they could not directly provide vaccines, they
+
+173
+00:12:30,720 --> 00:12:32,480
+could facilitate, quote,
+
+174
+00:12:32,480 --> 00:12:36,880
+communication in an open and transparent manner in a topic involving the two governments.
+
+175
+00:12:36,880 --> 00:12:42,680
+While there's no direct evidence of China trading vaccines for its foreign policy goals,
+
+176
+00:12:42,680 --> 00:12:46,720
+people are starting to pay more attention to situations like this, where countries are
+
+177
+00:12:46,720 --> 00:12:52,400
+opening the door for such an action, and China's certainly not closing that door.
+
+178
+00:12:52,920 --> 00:12:58,360
+While its exact details might still be murky, it is clear that China is engaging in some
+
+179
+00:12:58,360 --> 00:13:00,840
+form of vaccine diplomacy.
+
+180
+00:13:00,840 --> 00:13:04,160
+This, however, presents a problem.
+
+181
+00:13:04,160 --> 00:13:10,080
+You see, one of the main advantages of mRNA vaccine technology—the kind used in Moderna
+
+182
+00:13:10,080 --> 00:13:15,300
+and Pfizer's COVID vaccines—is that it's relatively easy to manufacture.
+
+183
+00:13:15,300 --> 00:13:20,160
+Most other types of vaccines include an attenuated or dead version of the virus itself, or a
+
+184
+00:13:20,360 --> 00:13:25,440
+portion of it, but growing and then processing the virus itself is a time-consuming process
+
+185
+00:13:25,440 --> 00:13:27,400
+that is harder to scale.
+
+186
+00:13:27,400 --> 00:13:32,280
+Meanwhile, mRNA vaccines simply include the genetic instructions for the body to create
+
+187
+00:13:32,280 --> 00:13:36,600
+a harmless version of the coronavirus' spike protein, which can train the immune system
+
+188
+00:13:36,600 --> 00:13:37,960
+to respond to it.
+
+189
+00:13:37,960 --> 00:13:44,240
+Done right, that means that mRNA vaccine production can be faster than that of attenuated or inactivated
+
+190
+00:13:44,240 --> 00:13:49,360
+virus, protein-based, or viral vector vaccines—the technologies that China's vaccines are based
+
+191
+00:13:49,360 --> 00:13:50,360
+on.
+
+192
+00:13:50,360 --> 00:13:56,680
+That means that, after a slow-to-scale manufacturing process, priority order obligations to trial-hosting
+
+193
+00:13:56,680 --> 00:14:01,800
+countries, a robust program of vaccine diplomacy, and an insistence to only use Chinese-made
+
+194
+00:14:01,800 --> 00:14:07,440
+vaccines, that doesn't leave a whole lot of Chinese COVID vaccines for China to use
+
+195
+00:14:07,440 --> 00:14:09,120
+for itself.
+
+196
+00:14:09,120 --> 00:14:15,160
+As of March 2021, China has administered about five doses for every 100 citizens.
+
+197
+00:14:15,160 --> 00:14:21,400
+That's compared to between 10 and 15 for every 100 in most EU countries, 35 for 100
+
+198
+00:14:21,400 --> 00:14:24,880
+in the US, and 42 for 100 in the UK.
+
+199
+00:14:24,880 --> 00:14:29,720
+Of course, with very few COVID cases within its borders, there is less of a pressing need
+
+200
+00:14:29,720 --> 00:14:35,480
+for vaccination in China, but the country's entire foreign image goal during the pandemic
+
+201
+00:14:35,480 --> 00:14:39,120
+has been to be viewed as better than Europe or the US.
+
+202
+00:14:39,120 --> 00:14:44,040
+It's to be viewed as the country that, thanks to its remarkable economic transformation
+
+203
+00:14:44,040 --> 00:14:50,240
+over the past few decades, has caught up to Europe or the US's superpower status.
+
+204
+00:14:50,240 --> 00:14:54,540
+At present, estimates believe that China will attain widespread vaccination towards the
+
+205
+00:14:54,540 --> 00:15:03,120
+end of 2022—roughly the same time period as India, Iran, Egypt, Ethiopia, or Colombia.
+
+206
+00:15:03,120 --> 00:15:08,020
+By that time, assuming all goes to plan, most of the Western world will have been back to
+
+207
+00:15:08,020 --> 00:15:13,940
+normal for at least a year as the era of border restrictions, snap lockdowns, and economic
+
+208
+00:15:13,940 --> 00:15:17,460
+uncertainty drags on in the People's Republic.
+
+209
+00:15:17,460 --> 00:15:22,180
+That's not the look the country wants, both at home and abroad.
+
+210
+00:15:22,180 --> 00:15:27,240
+Now, none of this is to say that China's vaccination practices necessarily are or are
+
+211
+00:15:27,240 --> 00:15:32,460
+not immoral or harmful or any other value judgment, but it is to say that the practices
+
+212
+00:15:32,460 --> 00:15:35,420
+are problematic for China itself.
+
+213
+00:15:35,420 --> 00:15:40,200
+People, both within the country's borders and beyond, are going to wonder why doses
+
+214
+00:15:40,200 --> 00:15:44,680
+are going to foreign arms first, when Chinese citizens are still vulnerable.
+
+215
+00:15:44,680 --> 00:15:49,120
+They're going to wonder why China didn't use its newfound wealth to purchase more effective
+
+216
+00:15:49,120 --> 00:15:53,040
+and faster-delivering vaccines from foreign manufacturers—they're going to wonder
+
+217
+00:15:53,040 --> 00:15:58,160
+why, when life is back to normal in the West, the country that flouts itself as the conqueror
+
+218
+00:15:58,160 --> 00:16:02,340
+of the coronavirus is still far from herd immunity.
+
+219
+00:16:02,340 --> 00:16:06,660
+This wonder will lead to conclusions, and without the narrative control that they so
+
+220
+00:16:06,660 --> 00:16:13,680
+desperately work to maintain, China's foreign and domestic image might, once again, suffer
+
+221
+00:16:13,680 --> 00:16:19,340
+in what is hopefully COVID-19's third and final act.
+
+222
+00:16:19,340 --> 00:16:26,140
+So, $15 is about what it costs to get a fancy burger, a movie ticket, or a cocktail at a
+
+223
+00:16:26,140 --> 00:16:30,900
+nice bar, but it's also what it costs to get a year's worth of access to both Curiosity
+
+224
+00:16:30,900 --> 00:16:37,040
+Stream and Nebula with the current sale going on at CuriosityStream.com slash Wendover.
+
+225
+00:16:37,040 --> 00:16:41,920
+With that, you can watch any one of the thousands of top-quality documentaries or non-fiction
+
+226
+00:16:41,920 --> 00:16:46,480
+shows on Curiosity Stream, such as Hot Roads, which is about five of the world's most
+
+227
+00:16:46,480 --> 00:16:49,200
+dangerous roads and who uses them.
+
+228
+00:16:49,200 --> 00:16:54,120
+You could also watch all Wendover and HAI videos early and ad-free, and about once a
+
+229
+00:16:54,120 --> 00:16:58,700
+month, like with this video, we publish extended cuts to our normal videos with everything
+
+230
+00:16:58,700 --> 00:17:01,000
+we had to cut for time on YouTube.
+
+231
+00:17:01,000 --> 00:17:05,460
+In addition, Nebula gives us the funding to make bigger budget and more unique content
+
+232
+00:17:05,460 --> 00:17:10,000
+that just wouldn't work on YouTube, which we call Nebula Originals, and very soon, we're
+
+233
+00:17:10,000 --> 00:17:14,720
+going to release a brilliant new one—the first documentary filmed on location that
+
+234
+00:17:14,720 --> 00:17:17,500
+we'll have released in almost a year.
+
+235
+00:17:17,500 --> 00:17:22,600
+Rather unbelievably, all of this can be had for just $15 a year, with the current sale,
+
+236
+00:17:22,600 --> 00:17:26,720
+only if you go to CuriosityStream.com slash Wendover.
+
+237
+00:17:26,740 --> 00:17:31,620
+Even better, that $15 goes to help independent creators like us stay independent, and helps
+
+238
+00:17:31,620 --> 00:17:37,220
+fund the great Nebula Originals from us and others that many of you have come to enjoy.
+
+239
+00:17:37,220 --> 00:17:42,080
+So, head to CuriosityStream.com slash Wendover and get the bundle deal at its current sale
+
+240
+00:17:42,080 --> 00:17:44,700
+price of just $15 a year.
+

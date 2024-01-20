@@ -1,0 +1,800 @@
+1
+00:00:00,000 --> 00:00:02,960
+This video was made possible by Skillshare.
+
+2
+00:00:02,960 --> 00:00:08,960
+Learn new skills from more than 25,000 classes for free for two months at skl.sh slash wendover
+
+3
+00:00:08,960 --> 00:00:09,960
+seven.
+
+4
+00:00:09,960 --> 00:00:16,280
+To, from, or through China, more than half a billion passengers fly each year.
+
+5
+00:00:16,280 --> 00:00:20,620
+By 2035, that number is expected to be 1.3 billion.
+
+6
+00:00:20,620 --> 00:00:24,640
+It is one of the fastest growing aviation markets in the world, is home to what is believed
+
+7
+00:00:24,640 --> 00:00:29,200
+to be the future busiest airport in the world, and is expected to soon surpass the US to
+
+8
+00:00:29,200 --> 00:00:32,720
+become the single largest aviation market in the world.
+
+9
+00:00:32,720 --> 00:00:37,640
+Last year, a new aircraft was delivered to a Chinese airline every 21 hours.
+
+10
+00:00:37,640 --> 00:00:42,960
+That's $35 billion dollars worth of aircraft purchased in a single year.
+
+11
+00:00:42,960 --> 00:00:47,320
+All of this, however, represents a considerable problem for the world's largest aircraft
+
+12
+00:00:47,320 --> 00:00:48,320
+manufacturer—Boeing.
+
+13
+00:00:48,320 --> 00:00:53,200
+You see, the reason China is a problem for Boeing is also part of the reason why China
+
+14
+00:00:53,200 --> 00:00:55,560
+is already such an enormous market for them.
+
+15
+00:00:55,800 --> 00:00:59,840
+While the US is resoundingly Boeing's number one customer, at least partially propped up
+
+16
+00:00:59,840 --> 00:01:04,280
+by government defense contracts, China safely holds the number two spot.
+
+17
+00:01:04,280 --> 00:01:09,520
+Excluding North America, China, in fact, single-handedly earns Boeing more money than every continent
+
+18
+00:01:09,520 --> 00:01:10,520
+in the world.
+
+19
+00:01:10,520 --> 00:01:15,000
+Now, not only is China a fierce battleground between Boeing and Airbus, even if Boeing
+
+20
+00:01:15,000 --> 00:01:19,560
+has a slight overall edge in market share, but the company now also faces a trifecta
+
+21
+00:01:19,560 --> 00:01:24,160
+of issues potentially hindering its future dominance in this ultimately crucial aviation
+
+22
+00:01:24,160 --> 00:01:25,360
+market.
+
+23
+00:01:25,360 --> 00:01:29,960
+The first of these issues has to do with Boeing's brand new, yet beleaguered airplane—the
+
+24
+00:01:29,960 --> 00:01:31,800
+737 MAX.
+
+25
+00:01:31,800 --> 00:01:36,280
+Prior to the MAX's grounding, China was, by a wide margin, the largest operator of
+
+26
+00:01:36,280 --> 00:01:37,500
+this airplane.
+
+27
+00:01:37,500 --> 00:01:42,440
+Its airlines had a total of 97 MAXs while US airlines, representing the second largest
+
+28
+00:01:42,440 --> 00:01:45,840
+customer group, only had a total of 72.
+
+29
+00:01:45,840 --> 00:01:49,280
+This is an aircraft particularly well suited to China's geography.
+
+30
+00:01:49,280 --> 00:01:53,880
+With a number of smaller, secondary, or tertiary cities, China's airlines are increasingly
+
+31
+00:01:53,880 --> 00:01:59,300
+focused on developing non-stop flights bypassing the major hubs of Beijing, Shanghai, and Guangzhou,
+
+32
+00:01:59,300 --> 00:02:02,080
+or flights to lower demand cities outside of China.
+
+33
+00:02:02,080 --> 00:02:06,120
+This is especially true given the huge number of smaller airlines operating in China who
+
+34
+00:02:06,120 --> 00:02:09,640
+have established themselves by setting up hubs in some of the country's smaller cities
+
+35
+00:02:09,640 --> 00:02:13,040
+whose populations more recently started the transition into the country's middle and
+
+36
+00:02:13,040 --> 00:02:16,100
+upper classes than those of the country's tier one cities.
+
+37
+00:02:16,100 --> 00:02:20,840
+Of course, flying to or from these smaller cities means lower demand for seats, however,
+
+38
+00:02:20,840 --> 00:02:26,920
+the longer range, smaller capacity capability of the 737 MAX perfectly suits this mission.
+
+39
+00:02:26,920 --> 00:02:30,920
+That allowed Chinese airlines to set up, in an economical manner, flights like Jinan to
+
+40
+00:02:30,920 --> 00:02:36,080
+Singapore, Guangzhou to Lahore, Arunchi to Bangkok, or Hangzhou to Hotan—all five or
+
+41
+00:02:36,080 --> 00:02:38,520
+six hour flights with minimal demand.
+
+42
+00:02:38,520 --> 00:02:43,620
+The 737 MAX was an aircraft perfectly suited for China and Boeing knew it.
+
+43
+00:02:43,620 --> 00:02:47,500
+This suitability and focus was demonstrated by Boeing's decision to set up an aircraft
+
+44
+00:02:47,500 --> 00:02:49,920
+completion center in Zhoushan, China.
+
+45
+00:02:49,920 --> 00:02:53,720
+While aircraft would continue to be primarily assembled in rent in Washington, they would
+
+46
+00:02:53,720 --> 00:02:57,020
+be flown over to Zhoushan without the interiors completed.
+
+47
+00:02:57,020 --> 00:03:01,120
+In Zhoushan, their seats, overhead bins, and basically the entire rest of their interiors
+
+48
+00:03:01,120 --> 00:03:04,800
+would be installed by Chinese workers in this Chinese factory.
+
+49
+00:03:04,800 --> 00:03:09,040
+Having a ground presence in China would appease the government, and by extension airlines,
+
+50
+00:03:09,040 --> 00:03:12,240
+and the hope was that this would help convince them to buy Boeing jets considering that their
+
+51
+00:03:12,240 --> 00:03:14,560
+purchase provided Chinese jobs.
+
+52
+00:03:14,560 --> 00:03:18,540
+This was especially necessary considering that Airbus already had an even more extensive
+
+53
+00:03:18,540 --> 00:03:22,600
+final assembly line in the country for its competing A320 jets.
+
+54
+00:03:22,600 --> 00:03:26,900
+Given the MAX's suitability, though, Chinese airlines bought an enormous number of these
+
+55
+00:03:26,900 --> 00:03:27,900
+planes.
+
+56
+00:03:27,900 --> 00:03:33,100
+In addition to the 97 already delivered, Chinese airlines had almost 500 of them on order but
+
+57
+00:03:33,100 --> 00:03:37,340
+then, of course, the MAX crashed, and then it crashed again.
+
+58
+00:03:37,340 --> 00:03:41,580
+China's Civil Aviation Administration, eager to maintain the country's recent streak
+
+59
+00:03:41,580 --> 00:03:46,360
+of aviation safety, quickly grounded the MAX after its second crash making China the first
+
+60
+00:03:46,360 --> 00:03:47,840
+country to do so.
+
+61
+00:03:47,840 --> 00:03:52,560
+This was a rather shocking move as historically, every country's aviation regulator more
+
+62
+00:03:52,560 --> 00:03:56,360
+or less just followed the lead of the American FAA in these decisions.
+
+63
+00:03:56,360 --> 00:04:00,960
+It was thought that, if the FAA said it was safe, it was safe and in this case, the FAA
+
+64
+00:04:00,960 --> 00:04:05,920
+initially asserted their confidence in Boeing's 737 MAX and chose not to ground it immediately.
+
+65
+00:04:05,920 --> 00:04:10,520
+Now, in the aftermath of this, the grounding of the MAX has presented Beijing with three
+
+66
+00:04:10,520 --> 00:04:11,520
+gifts.
+
+67
+00:04:11,520 --> 00:04:15,860
+First, especially in the case of the state-owned airlines and leasing companies, the Chinese
+
+68
+00:04:15,860 --> 00:04:20,160
+have a much stronger negotiating position than before with Boeing as the company works
+
+69
+00:04:20,160 --> 00:04:22,420
+to regain the momentum it had before.
+
+70
+00:04:22,420 --> 00:04:26,940
+Prices, which typically vary widely from airline to airline and deal to deal, could end up
+
+71
+00:04:26,940 --> 00:04:27,940
+lower.
+
+72
+00:04:27,940 --> 00:04:31,840
+Secondly, China's three largest airlines, which are all state-owned, are asking Boeing
+
+73
+00:04:31,840 --> 00:04:34,680
+for compensation for the grounding of their jets.
+
+74
+00:04:34,680 --> 00:04:38,920
+By extension, this is essentially the Chinese government, the very one that holds the keys
+
+75
+00:04:38,920 --> 00:04:44,200
+to the Chinese aviation market, asking Boeing for compensation and, if Boeing doesn't
+
+76
+00:04:44,200 --> 00:04:48,280
+try in what is possibly largely a symbolic move, the Chinese government could decide
+
+77
+00:04:48,280 --> 00:04:52,400
+to reduce future Boeing orders, potentially in favor of Airbus.
+
+78
+00:04:52,400 --> 00:04:56,100
+While Boeing is seemingly setting itself up to offer compensation to airlines affected
+
+79
+00:04:56,100 --> 00:05:00,560
+by the MAX's grounding, whatever it gives to the Chinese airlines, however favorable
+
+80
+00:05:00,560 --> 00:05:04,240
+the company is with them, they will have to match this precedent for their compensation
+
+81
+00:05:04,240 --> 00:05:07,280
+with every other of the world's affected airlines.
+
+82
+00:05:07,280 --> 00:05:11,520
+What could end up the most formidable MAX challenge, though, is that the Chinese aviation
+
+83
+00:05:11,520 --> 00:05:15,080
+regulator has now established itself as a leader.
+
+84
+00:05:15,080 --> 00:05:19,320
+It was them who made the first decision to ground the jet that started the domino effect
+
+85
+00:05:19,320 --> 00:05:22,200
+of other national regulators grounding the MAX.
+
+86
+00:05:22,200 --> 00:05:26,720
+Considering China's regulator has now successfully flexed their muscle in this space, the American
+
+87
+00:05:26,720 --> 00:05:30,700
+FAA, which has deep links to Boeing and has allowed Boeing to essentially self-certify
+
+88
+00:05:30,700 --> 00:05:35,660
+certain aspects of their new aircraft, has lost some prowess in its role as, in a sense,
+
+89
+00:05:35,660 --> 00:05:37,560
+the world's aviation regulator.
+
+90
+00:05:37,600 --> 00:05:42,380
+Therefore, not only will China's regulator likely take a more independent route in recertifying
+
+91
+00:05:42,380 --> 00:05:47,080
+the MAX once its issues are resolved, it will also possibly feel free to make its own independent
+
+92
+00:05:47,080 --> 00:05:50,260
+decisions on the airworthiness of future aircraft.
+
+93
+00:05:50,260 --> 00:05:53,200
+This is a precedent that should have Boeing concerned.
+
+94
+00:05:53,200 --> 00:05:57,960
+Now, a smaller but significant second issue for Boeing is the ongoing trade war between
+
+95
+00:05:57,960 --> 00:05:59,480
+the US and China.
+
+96
+00:05:59,480 --> 00:06:03,860
+While Boeing has not yet encountered clear implications from this trade war, some speculate
+
+97
+00:06:03,860 --> 00:06:06,080
+that the company could be used as a pawn.
+
+98
+00:06:06,080 --> 00:06:10,780
+You see, China's three largest airlines—China Southern, China Eastern, and Air China—are
+
+99
+00:06:10,780 --> 00:06:14,920
+all majority-government owned and therefore their orders can be used as a sort of political
+
+100
+00:06:14,920 --> 00:06:15,920
+tool.
+
+101
+00:06:15,920 --> 00:06:19,700
+To date, these three airlines' fleets are slightly weighted towards Airbus planes, despite
+
+102
+00:06:19,700 --> 00:06:23,360
+the country's airlines as a whole on average having a slight preference towards Boeing,
+
+103
+00:06:23,360 --> 00:06:27,340
+but they still do operate a significant number of Boeing planes.
+
+104
+00:06:27,340 --> 00:06:31,680
+While Boeing is not, of course, a state-owned company, they are the US's largest exporter
+
+105
+00:06:31,680 --> 00:06:35,760
+and a major American employer and therefore the US government and Department of Commerce
+
+106
+00:06:35,760 --> 00:06:37,700
+works hard to prop them up.
+
+107
+00:06:37,700 --> 00:06:42,080
+As the largest international market for Boeing, China has the keys to either help or hurt
+
+108
+00:06:42,080 --> 00:06:45,640
+America's economy through how many planes it decides to order.
+
+109
+00:06:45,640 --> 00:06:50,880
+In the height of the US-China trade war, in March 2019, Chinese President Xi Jinping announced
+
+110
+00:06:50,880 --> 00:06:56,600
+a massive $35 billion order of 300 Airbus aircraft by China's state-owned aircraft
+
+111
+00:06:56,600 --> 00:06:57,600
+leasing company.
+
+112
+00:06:57,600 --> 00:07:01,840
+While you can never know for sure, this certainly was viewed as a move at least partially intended
+
+113
+00:07:01,840 --> 00:07:04,200
+to send a message to the US.
+
+114
+00:07:04,200 --> 00:07:09,160
+Meanwhile, since the beginning of the trade war, there has been a noticeable lack of significant
+
+115
+00:07:09,160 --> 00:07:12,520
+Boeing aircraft orders by Chinese airlines.
+
+116
+00:07:12,520 --> 00:07:15,640
+These however, are most all fairly short-term threats.
+
+117
+00:07:15,640 --> 00:07:19,880
+The trade war will pass, the 737 MAX will take the skies again, and what is perhaps
+
+118
+00:07:19,880 --> 00:07:22,720
+Boeing's largest problem is still to come.
+
+119
+00:07:22,720 --> 00:07:26,360
+Their largest threat is that China is building their very own plane.
+
+120
+00:07:26,360 --> 00:07:30,560
+It's being built by the Commercial Aircraft Corporation of China, or COMEC.
+
+121
+00:07:30,960 --> 00:07:35,320
+Now, to recap, in the commercial jet aircraft manufacturing space, there's of course Boeing
+
+122
+00:07:35,320 --> 00:07:39,720
+and Airbus, then there's Embraer, which is a joint venture with Boeing, and Bombardier,
+
+123
+00:07:39,720 --> 00:07:42,000
+whose flagship program was bought by Airbus.
+
+124
+00:07:42,000 --> 00:07:46,560
+Therefore, Boeing and Airbus control an enormous majority of the industry.
+
+125
+00:07:46,560 --> 00:07:51,100
+Aside from that, the only major unaligned aircraft series is the Bombardier CRJ regional
+
+126
+00:07:51,100 --> 00:07:54,680
+jet whose manufacturing rights are in the process of being bought by Mitsubishi.
+
+127
+00:07:54,680 --> 00:07:59,360
+There's then the Russian United Aircraft Corporation producing a small number of Aleutian,
+
+128
+00:07:59,360 --> 00:08:03,280
+Tupolev, and Sukhoi jets, and an even smaller number of commercial jets being produced by
+
+129
+00:08:03,280 --> 00:08:05,200
+the Ukrainian Antonov company.
+
+130
+00:08:05,200 --> 00:08:08,700
+These Russian and Ukrainian aircraft tend to be mostly bought and operated by Russian
+
+131
+00:08:08,700 --> 00:08:13,840
+and Ukrainian airlines, so in terms of global aircraft competition against Boeing and Airbus,
+
+132
+00:08:13,840 --> 00:08:15,500
+there really is none.
+
+133
+00:08:15,500 --> 00:08:17,280
+It is the textbook duopoly.
+
+134
+00:08:17,280 --> 00:08:20,240
+COMEC, however, could break that.
+
+135
+00:08:20,240 --> 00:08:24,400
+It may surprise some to hear that there are already COMEC aircraft flying in China's
+
+136
+00:08:24,400 --> 00:08:26,720
+skies—the ARJ-21.
+
+137
+00:08:26,720 --> 00:08:31,520
+This small, 78-passenger jet was COMEC's first significant foray into commercial aircraft
+
+138
+00:08:31,520 --> 00:08:35,780
+manufacturing and it has been, to put it bluntly, a disaster.
+
+139
+00:08:35,780 --> 00:08:41,200
+When it was first announced in 2002, the aircraft was supposed to take the skies in 2005.
+
+140
+00:08:41,200 --> 00:08:46,060
+In reality, though, the first prototype wasn't completed until 2007, the first test flight
+
+141
+00:08:46,060 --> 00:08:51,640
+didn't happen until 2008, and then after delay upon delay upon delay, the first commercial
+
+142
+00:08:51,640 --> 00:08:54,520
+flight didn't happen until 2016.
+
+143
+00:08:54,520 --> 00:08:58,680
+Since then, the issues have not let up—the aircraft was plagued with reliability and
+
+144
+00:08:58,680 --> 00:09:03,240
+capability issues and, to date, only 14 are in commercial service.
+
+145
+00:09:03,240 --> 00:09:08,480
+Now, it would be quite reasonable to question why this aircraft could threaten Boeing, especially
+
+146
+00:09:08,480 --> 00:09:13,640
+considering that Boeing doesn't even develop an aircraft in a similar size to the ARJ-21.
+
+147
+00:09:13,640 --> 00:09:15,560
+The answer is that it doesn't.
+
+148
+00:09:15,560 --> 00:09:21,580
+The aircraft that should make Boeing nervous is this—the COMEC C919.
+
+149
+00:09:21,580 --> 00:09:25,720
+Worth noting is that Boeing is actually in a joint venture with COMEC for its final delivery
+
+150
+00:09:25,720 --> 00:09:30,000
+plant in Xoshan, but that certainly doesn't stop the companies from competing.
+
+151
+00:09:30,000 --> 00:09:34,060
+Just by looking at this plane, you can tell it's built to compete directly with Airbus'
+
+152
+00:09:34,060 --> 00:09:36,140
+A320 and Boeing's 737.
+
+153
+00:09:36,140 --> 00:09:40,500
+It's designed to carry pretty much the exact same number of passengers, and it even uses
+
+154
+00:09:40,500 --> 00:09:47,100
+the same engines as the A320neo and 737 MAX, but let's be clear, the C919 is not the
+
+155
+00:09:47,100 --> 00:09:48,820
+A320 or 737.
+
+156
+00:09:49,460 --> 00:09:54,260
+It's a brand new aircraft by a brand new aircraft manufacturer, and it's abnormal
+
+157
+00:09:54,260 --> 00:09:58,800
+for even Airbus or Boeing's new aircraft introductions to go smoothly.
+
+158
+00:09:58,800 --> 00:10:01,180
+Designing aircraft is difficult.
+
+159
+00:10:01,180 --> 00:10:05,800
+The C919 is still in its testing phase so its true performance and reliability statistics
+
+160
+00:10:05,800 --> 00:10:11,140
+are not yet verifiably known, however, in all honesty, the success of this plane has
+
+161
+00:10:11,140 --> 00:10:16,780
+less to do with its actual capability than probably any other plane in the world.
+
+162
+00:10:16,780 --> 00:10:20,740
+The success of this plane has to do with whether the Chinese government decides it
+
+163
+00:10:20,740 --> 00:10:22,540
+will be successful.
+
+164
+00:10:22,540 --> 00:10:28,180
+Of China's eight largest airlines, just one, Hainan Airlines, is not government owned.
+
+165
+00:10:28,180 --> 00:10:32,900
+China's government holds the keys to hundreds or thousands of aircraft orders.
+
+166
+00:10:32,900 --> 00:10:35,940
+Why would it order from anyone but itself?
+
+167
+00:10:35,940 --> 00:10:40,580
+Unsurprisingly, quite a few of the C919's orders to date have come from Chinese state
+
+168
+00:10:40,580 --> 00:10:43,100
+owned airlines and aircraft leasing companies.
+
+169
+00:10:43,100 --> 00:10:47,020
+Its only non-Chinese order came from GE's aircraft leasing division—possibly as a
+
+170
+00:10:47,020 --> 00:10:51,260
+vote of confidence considering the C919 uses GE engines.
+
+171
+00:10:51,260 --> 00:10:56,260
+The real test on whether the C919 is actually a good plane will come once it enters commercial
+
+172
+00:10:56,260 --> 00:11:00,900
+service, its reliability and capability is exhibited to the world, and foreign airlines
+
+173
+00:11:00,900 --> 00:11:03,280
+consider whether they want to order it.
+
+174
+00:11:03,280 --> 00:11:08,420
+With China's expertise in low-cost, high-tech manufacturing, it could possibly prove a low-cost
+
+175
+00:11:08,420 --> 00:11:13,800
+alternative to the A320 or 737 which has had some airlines intrigued—most visibly
+
+176
+00:11:13,800 --> 00:11:18,860
+Ryanair who's CEO said he would be seriously interested in the aircraft if a 200 seat variant
+
+177
+00:11:18,860 --> 00:11:19,980
+was developed.
+
+178
+00:11:19,980 --> 00:11:24,240
+China also has increasing geopolitical power, especially in pockets of Africa which also
+
+179
+00:11:24,240 --> 00:11:28,520
+have fast-developing aviation markets, and this could translate to a number of politically
+
+180
+00:11:28,520 --> 00:11:32,220
+aligned countries choosing to buy and operate Comac planes.
+
+181
+00:11:32,220 --> 00:11:35,780
+Overall, the real challenge to Boeing is the opportunity.
+
+182
+00:11:35,780 --> 00:11:39,260
+If they missed the opportunity to become a dominant player in the world's future
+
+183
+00:11:39,260 --> 00:11:43,940
+largest aviation market, they could have trouble maintaining their position as the world's
+
+184
+00:11:43,940 --> 00:11:45,900
+largest aircraft manufacturer.
+
+185
+00:11:45,900 --> 00:11:50,340
+Being number one means that staying number one is the expectation, not the goal, and
+
+186
+00:11:50,340 --> 00:11:55,700
+so the Chinese market, while it is an opportunity, is also a requirement.
+
+187
+00:11:55,700 --> 00:12:00,500
+Now, in a similar vein, anyone who's been number one in anything knows that staying
+
+188
+00:12:00,500 --> 00:12:03,140
+there requires continuous improvement.
+
+189
+00:12:03,140 --> 00:12:06,220
+It means that no matter if you're at the beginning of your career or if you're already
+
+190
+00:12:06,220 --> 00:12:09,220
+at the top, you know that you should be constantly improving yourself.
+
+191
+00:12:09,220 --> 00:12:13,660
+Part of the way that I make sure I'm always doing this is by using Skillshare.
+
+192
+00:12:13,660 --> 00:12:17,960
+Their courses are a great way to quickly and simply learn new skills.
+
+193
+00:12:17,960 --> 00:12:22,740
+For example, for anyone that has to do presentations, whether it be at school or work, I'd highly
+
+194
+00:12:22,740 --> 00:12:27,180
+recommend the Skillshare original called, Presentation Essentials—How to Share Ideas
+
+195
+00:12:27,180 --> 00:12:29,460
+that Inspire Action.
+
+196
+00:12:29,460 --> 00:12:33,020
+Presentation seems like a simple thing, but there are actually so many nuances to it that
+
+197
+00:12:33,020 --> 00:12:37,180
+can really make the difference between an ineffective and effective presentation.
+
+198
+00:12:37,180 --> 00:12:41,700
+This is just one of the more than 25,000 classes you can take with Skillshare, all of which
+
+199
+00:12:41,700 --> 00:12:47,020
+you can access for free for two months by signing up at skl.sh slash wendover7, and
+
+200
+00:12:47,020 --> 00:12:51,180
+then, after that, their annual pricing works out to less than $10 a month.
+

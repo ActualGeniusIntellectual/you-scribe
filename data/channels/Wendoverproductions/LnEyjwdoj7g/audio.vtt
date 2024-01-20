@@ -1,0 +1,221 @@
+WEBVTT
+
+00:00.000 --> 00:05.800
+So, there's this fantastic Wikipedia list descriptively titled Wikipedia colon unusual
+
+00:05.800 --> 00:06.800
+articles.
+
+00:06.800 --> 00:08.640
+I just remember it as that Wikipedia list.
+
+00:08.640 --> 00:13.380
+It's a collection of hundreds of articles about unusual, unexpected, and unbelievable
+
+00:13.380 --> 00:14.500
+subjects.
+
+00:14.500 --> 00:17.900
+No matter what link you click, it's bound to be interesting.
+
+00:17.900 --> 00:21.060
+For that reason, every week I'm going to click on a new link and teach you a little
+
+00:21.060 --> 00:25.060
+bit more about our amazing world.
+
+00:25.060 --> 00:26.780
+This number is illegal.
+
+00:26.780 --> 00:28.280
+Well, kinda.
+
+00:28.280 --> 00:32.420
+I switch it a few digits to protect myself since, you know, it's illegal, but just
+
+00:32.420 --> 00:36.440
+the possession of this number is enough to get you arrested in the US.
+
+00:36.440 --> 00:39.720
+To understand why, we need to learn some cryptology.
+
+00:39.720 --> 00:44.000
+Prime numbers are numbers that can only be divided by themselves and one.
+
+00:44.000 --> 00:49.040
+For example, nothing multiplies together to get 7 other than 7 and 1.
+
+00:49.040 --> 00:52.560
+Nothing multiplies together to get 29 other than 29 and 1.
+
+00:52.560 --> 00:54.560
+This will be the same for all primes.
+
+00:54.560 --> 00:58.120
+It's not that hard to check if a smaller number is prime.
+
+00:58.120 --> 01:03.800
+For 7, you just check if 7 divided by 1 is a whole number, 7 divided by 2, by 3, by 4,
+
+01:03.800 --> 01:08.880
+by 5, by 6, nothing other than 7 can divide 7 into a whole number.
+
+01:08.880 --> 01:12.600
+As you get to bigger and bigger numbers, you have to check more and more times to determine
+
+01:12.600 --> 01:14.300
+if a number is prime.
+
+01:14.300 --> 01:17.720
+That means that it's exceedingly difficult to find new primes.
+
+01:17.720 --> 01:24.720
+The largest prime number that we know of right now is 2 to the power of 74,207,281 minus
+
+01:24.720 --> 01:25.720
+1.
+
+01:25.720 --> 01:28.960
+That's an infinite number of primes since there's an infinite number of numbers, but
+
+01:28.960 --> 01:32.980
+it just takes an enormous amount of computing power to find these primes.
+
+01:32.980 --> 01:34.520
+So what's the point of finding primes?
+
+01:34.520 --> 01:37.720
+Well, they're actually quite useful for encryption.
+
+01:37.720 --> 01:42.700
+For the sake of simplicity, let's take two small primes—11 and 13.
+
+01:42.700 --> 01:46.960
+If we were actually encrypting data, we would be using primes with thousands of digits but
+
+01:46.960 --> 01:49.920
+that would probably make this explanation a little complicated.
+
+01:50.120 --> 01:53.320
+Now, multiply 11 and 13 together in your head.
+
+01:58.720 --> 02:02.840
+You can probably figure out pretty easily that together they make 143.
+
+02:02.840 --> 02:06.720
+Now how long would it take you to work backwards and figure out what multiplies together to
+
+02:06.720 --> 02:08.620
+get 143?
+
+02:08.620 --> 02:09.680
+Probably a pretty long time.
+
+02:09.680 --> 02:11.400
+It's the same with computers.
+
+02:11.400 --> 02:15.680
+It's very easy for them to multiply two numbers together and find out what the product
+
+02:15.680 --> 02:19.360
+is, but it's very hard for them to take the product and find out what the factors
+
+02:19.360 --> 02:20.860
+are.
+
+02:20.860 --> 02:24.560
+When you're logging on to, say, your bank account online, the computer will send the
+
+02:24.560 --> 02:29.200
+number 143, which is known as the public key, to the bank server.
+
+02:29.200 --> 02:35.640
+The bank will then check if 11 and 13, the private keys, multiply to 143 and if so, it
+
+02:35.640 --> 02:36.920
+will let you in.
+
+02:36.920 --> 02:41.400
+Everyone has the public key, but only the bank has the private keys.
+
+02:41.400 --> 02:45.280
+If you wanted to find the private keys, you would need a computer to factor the public
+
+02:45.280 --> 02:50.120
+key, which would take thousands of years because, once again, in the real world, the
+
+02:50.120 --> 02:55.560
+keys aren't 11 and 13, they're prime numbers with thousands upon thousands of digits.
+
+02:55.560 --> 02:58.660
+With the amount of money that it would take to set up a computer system that could actually
+
+02:58.660 --> 03:01.460
+factor the primes, it's just not worth it.
+
+03:01.460 --> 03:05.960
+The bigger the prime number, the longer it takes to factor and the more secure it is.
+
+03:05.960 --> 03:10.680
+That's why organizations like the Electronic Frontier Foundation are willing to pay up
+
+03:10.680 --> 03:15.080
+to $250,000 for new prime numbers.
+
+03:15.120 --> 03:18.240
+Alright, that's all the math we're going to do today, I promise.
+
+03:18.240 --> 03:19.680
+Back to our legal number.
+
+03:19.680 --> 03:24.880
+In 1998, the Digital Millennium Copyright Act was passed in the US, making it illegal
+
+03:24.880 --> 03:29.680
+to circumvent copyright measures and to produce or distribute tools that could be used to
+
+03:29.680 --> 03:31.920
+get around copyright systems.
+
+03:31.920 --> 03:37.780
+Our legal number, 8565078 and so on and so forth, is a prime number that is the source
+
+03:37.780 --> 03:41.740
+code used to decrypt the copyright protection of DVDs.
+
+03:41.740 --> 03:46.120
+The copyright protection was used to stop people from downloading or duplicating movies
+
+03:46.120 --> 03:50.580
+on their computers and, with this number, the protection was rendered useless.
+
+03:50.580 --> 03:54.920
+Programs were created that allowed individuals to make bootleg copies of movies all because
+
+03:54.920 --> 03:56.520
+of this number.
+
+03:56.520 --> 04:01.400
+All the while, individuals were breaking the law not only by copying DVDs, but also just
+
+04:01.400 --> 04:06.160
+by being in possession of this number—an easily findable prime.
+
+04:06.160 --> 04:08.340
+I hope you enjoyed this week's episode.
+
+04:08.340 --> 04:11.760
+Next week I covered Big Mac economics which you can find here.
+
+04:11.760 --> 04:15.160
+If you enjoy these videos, make sure to click subscribe here.
+
+04:15.160 --> 04:18.840
+Also, please follow me on my Twitter at winoverpro.
+
+04:18.840 --> 04:23.680
+Thanks for watching, and I'll be back next week with a special video not from that Wikipedia
+
+04:23.680 --> 04:24.040
+list.
+

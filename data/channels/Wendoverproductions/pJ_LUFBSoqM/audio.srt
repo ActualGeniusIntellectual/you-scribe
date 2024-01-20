@@ -1,0 +1,832 @@
+1
+00:00:00,000 --> 00:00:03,040
+This video was made possible by Skillshare.
+
+2
+00:00:03,040 --> 00:00:10,260
+Learn from over 25,000 classes for free for two months at skl.sh slash wendover six.
+
+3
+00:00:10,260 --> 00:00:15,640
+No sports league in the world makes more money than the American National Football League.
+
+4
+00:00:15,640 --> 00:00:20,020
+The NFL earns more yearly revenue than the English Premier League, the Champions League,
+
+5
+00:00:20,020 --> 00:00:24,000
+Formula One, the Japanese Nippon Professional Baseball League, and the Continental Hockey
+
+6
+00:00:24,000 --> 00:00:25,640
+League combined.
+
+7
+00:00:25,640 --> 00:00:30,160
+It is by far the largest sports league in the world by revenue.
+
+8
+00:00:30,160 --> 00:00:35,040
+Making up the NFL are 32 football teams each themselves essentially acting as their own
+
+9
+00:00:35,040 --> 00:00:36,720
+distinct businesses.
+
+10
+00:00:36,720 --> 00:00:41,320
+These teams are spread out all across the contiguous United States, some only 30 miles
+
+11
+00:00:41,320 --> 00:00:47,520
+or 45 kilometers apart from each other, some nearly 3,000 miles or 4,500 kilometers apart.
+
+12
+00:00:47,520 --> 00:00:52,600
+Now, American football teams are some of the largest in sports, both physically and in
+
+13
+00:00:52,600 --> 00:00:53,600
+numbers.
+
+14
+00:00:53,600 --> 00:00:58,240
+They have a roster of 56 players, the majority of which play in any given game.
+
+15
+00:00:58,240 --> 00:01:03,000
+These players weigh on average about 250 pounds or 110 kilograms.
+
+16
+00:01:03,000 --> 00:01:06,600
+This team size leads to some particular travel needs.
+
+17
+00:01:06,600 --> 00:01:10,440
+Players each require a first class seat or, at the very least, the seat next to them free
+
+18
+00:01:10,440 --> 00:01:15,760
+in economy meaning those 56 players take up far more than 56 seats.
+
+19
+00:01:15,760 --> 00:01:20,360
+On top of that, a team typically brings more than 100 support staff and an immense amount
+
+20
+00:01:20,360 --> 00:01:22,960
+of cargo to each away game.
+
+21
+00:01:22,960 --> 00:01:27,400
+With the exception of the largest, most valuable ones, most other professional sports teams
+
+22
+00:01:27,400 --> 00:01:34,640
+in the US will just fly on chartered narrow-body aircraft like A320s, 737s, or 757s, but most
+
+23
+00:01:34,640 --> 00:01:39,200
+NFL teams, given their size, require something larger.
+
+24
+00:01:39,200 --> 00:01:44,200
+NFL teams tend to charter their aircraft from commercial airlines—American, Delta, United,
+
+25
+00:01:44,200 --> 00:01:48,200
+or Hawaiian airlines—and they'll typically fly something a bit larger than other teams
+
+26
+00:01:48,200 --> 00:01:53,480
+like a 767 or sometimes even a 777, but the nature of this charter job makes finding a
+
+27
+00:01:53,480 --> 00:01:56,320
+plane to take them particularly difficult.
+
+28
+00:01:56,320 --> 00:02:00,640
+You see, let's take the example of the New York Jets' last game of the 2018 season
+
+29
+00:02:00,640 --> 00:02:03,920
+versus the New England Patriots on December 30th.
+
+30
+00:02:03,920 --> 00:02:10,280
+For this game, they left the day before on a United Airlines 767-400 at 3.37 pm, landing
+
+31
+00:02:10,280 --> 00:02:14,560
+30 minutes later at 4.07 pm in Providence, Rhode Island.
+
+32
+00:02:14,560 --> 00:02:19,640
+The plane then sat on the ground at Providence Airport for the next 26 hours until the game
+
+33
+00:02:19,640 --> 00:02:20,640
+was over.
+
+34
+00:02:20,640 --> 00:02:24,700
+The following day, the plane took off at 6.30 pm bound for New York.
+
+35
+00:02:24,700 --> 00:02:28,000
+The aircraft's previous flight had been to Buenos Aires and its next flight was to
+
+36
+00:02:28,000 --> 00:02:33,240
+London and yet for these 26 hours, United only made money from the half-hour charter
+
+37
+00:02:33,240 --> 00:02:35,320
+flight to and from Providence.
+
+38
+00:02:35,320 --> 00:02:39,720
+It's easy to understand why this wouldn't really be worth it to the airline, but at
+
+39
+00:02:39,720 --> 00:02:44,140
+least the jets are located next to a United Airlines hub at Newark Airport.
+
+40
+00:02:44,140 --> 00:02:48,680
+Many teams, like the New Orleans Saints, for example, are not located in a city with any
+
+41
+00:02:48,680 --> 00:02:49,820
+airline hub.
+
+42
+00:02:49,820 --> 00:02:53,820
+That makes finding an airline to take their charter contract even more difficult.
+
+43
+00:02:53,820 --> 00:02:58,340
+That's because, for example, when the team had to travel to Charlotte last season, the
+
+44
+00:02:58,340 --> 00:03:03,060
+767 that took them had to fly in empty from Houston, the nearest United hub, then fly
+
+45
+00:03:03,060 --> 00:03:08,100
+to Charlotte, sit on the ground for 33 hours, fly back to New Orleans, then once again fly
+
+46
+00:03:08,100 --> 00:03:10,980
+empty—this time all the way to New York.
+
+47
+00:03:10,980 --> 00:03:15,520
+All told, for those 2 hours and 51 minutes of flight time United was paid for, they used
+
+48
+00:03:15,520 --> 00:03:18,960
+this airplane for almost 44 hours.
+
+49
+00:03:18,960 --> 00:03:23,180
+Being located away from an airline hub, where planes are based, means charter flights will
+
+50
+00:03:23,180 --> 00:03:27,000
+almost always require a plane flying in empty.
+
+51
+00:03:27,000 --> 00:03:31,340
+It is for this reason that airlines are raising rates or just flat out stopping flying NFL
+
+52
+00:03:31,340 --> 00:03:36,200
+teams as they find normal commercial flying a more lucrative use of their aircraft.
+
+53
+00:03:36,200 --> 00:03:40,520
+American Airlines, in recent years, for example, dropped all the many teams they previously
+
+54
+00:03:40,560 --> 00:03:45,480
+flew except for the Carolina Panthers, the Dallas Cowboys, and the Philadelphia Eagles—three
+
+55
+00:03:45,480 --> 00:03:47,960
+teams located at their hub airports.
+
+56
+00:03:47,960 --> 00:03:52,260
+More teams have moved their contract to dedicated charter companies such as Atlas Air or Miami
+
+57
+00:03:52,260 --> 00:03:57,160
+Air International while the New England Patriots even bought their own set of planes to solve
+
+58
+00:03:57,160 --> 00:03:58,500
+this issue.
+
+59
+00:03:58,500 --> 00:04:01,840
+Some other teams still have contracts with commercial airlines but have switched to flying
+
+60
+00:04:01,840 --> 00:04:05,360
+multiple smaller planes as these can be in less demand.
+
+61
+00:04:05,360 --> 00:04:10,320
+The Indianapolis Colts, for example, now typically travel in two Delta 757s leaving
+
+62
+00:04:10,320 --> 00:04:12,560
+within a half hour of each other.
+
+63
+00:04:12,560 --> 00:04:16,780
+Other American sports, such as hockey, baseball, and basketball, don't have nearly as much
+
+64
+00:04:16,780 --> 00:04:21,320
+of a problem because they play far more games a season which makes their contract a more
+
+65
+00:04:21,320 --> 00:04:26,120
+attractive one to airlines and they also typically use smaller aircraft of which there are more
+
+66
+00:04:26,120 --> 00:04:27,280
+available.
+
+67
+00:04:27,280 --> 00:04:31,200
+The NFL briefly considered investing in its own fleet of aircraft or at least negotiating
+
+68
+00:04:31,200 --> 00:04:36,140
+a deal with an airline in bulk like the NBA does with Delta, but for now, NFL teams are
+
+69
+00:04:36,140 --> 00:04:41,140
+seeing their travel costs skyrocket as the laws of supply and demand take hold.
+
+70
+00:04:41,140 --> 00:04:44,880
+After losing their contract with American Airlines, for example, the Jacksonville Jaguars
+
+71
+00:04:44,880 --> 00:04:50,680
+saw their travel costs double to $4 million a year as they chartered an Atlas Air 747
+
+72
+00:04:50,680 --> 00:04:56,440
+and remember, those $4 million pay for the travel costs to a mere eight away games.
+
+73
+00:04:56,440 --> 00:05:00,840
+But the NFL's most daunting logistics problem is not this.
+
+74
+00:05:00,840 --> 00:05:06,440
+Their most daunting logistics problem relates to the NFL's other big problem—expansion.
+
+75
+00:05:06,440 --> 00:05:11,040
+You see, part of the reason the NFL is the most valuable sports league in the world is
+
+76
+00:05:11,040 --> 00:05:17,840
+because of how saturated the football market is in the US—57% of Americans identify as
+
+77
+00:05:17,840 --> 00:05:18,840
+NFL fans.
+
+78
+00:05:18,840 --> 00:05:24,080
+That's an amazing level of market saturation for what is, at its core, a business, but
+
+79
+00:05:24,080 --> 00:05:28,800
+that also presents a problem because, with such a high proportion of the population already
+
+80
+00:05:28,800 --> 00:05:33,800
+stands, it's quite difficult for the NFL to expand their audience—at least within
+
+81
+00:05:33,800 --> 00:05:34,800
+the US.
+
+82
+00:05:34,800 --> 00:05:39,380
+In the past decade or so, the league has turned its attention internationally.
+
+83
+00:05:39,380 --> 00:05:44,280
+The NFL now plays regular season games in Mexico City and London.
+
+84
+00:05:44,280 --> 00:05:48,720
+These cities don't have home teams, but rather, two teams from the US will come out
+
+85
+00:05:48,720 --> 00:05:49,720
+and play.
+
+86
+00:05:49,720 --> 00:05:53,540
+For the most part, these international games are about promoting the sport in these two
+
+87
+00:05:53,540 --> 00:05:57,480
+countries which already have significant fan bases watching the sport on TV.
+
+88
+00:05:57,480 --> 00:06:01,720
+There's never been more than one game a season in Mexico City, but in London, in the
+
+89
+00:06:01,720 --> 00:06:06,320
+2019 season, they're playing four regular season games.
+
+90
+00:06:06,320 --> 00:06:10,980
+With the 16 regular season games per team per year, any other city that has a resident
+
+91
+00:06:10,980 --> 00:06:16,480
+NFL team typically only has eight home games, meaning London's quantity is really not
+
+92
+00:06:16,480 --> 00:06:17,680
+that far off.
+
+93
+00:06:17,680 --> 00:06:22,720
+What's more, the Jacksonville Jaguars are designated as a sort of home team for London
+
+94
+00:06:22,720 --> 00:06:26,600
+and therefore play at least one of their games there each year in an attempt to give the
+
+95
+00:06:26,600 --> 00:06:29,200
+city and country a clear team to root for.
+
+96
+00:06:29,200 --> 00:06:33,320
+The league has even said that it plans to eventually have a full eight games per season
+
+97
+00:06:33,320 --> 00:06:37,000
+in London—the same as any home city in the US.
+
+98
+00:06:37,000 --> 00:06:41,440
+The reason there are now so many NFL games in London is because the sport of American
+
+99
+00:06:41,440 --> 00:06:45,600
+football has gained significant inroads in the UK audience.
+
+100
+00:06:45,600 --> 00:06:51,240
+The NFL estimates that it has 13 million fans in the UK, 4 million of which watch regularly,
+
+101
+00:06:51,240 --> 00:06:56,040
+and 47,000 of which buy games to every single NFL game in the UK.
+
+102
+00:06:56,040 --> 00:07:02,000
+Its dedication to the UK has become so significant that it contributed $12.5 million to the construction
+
+103
+00:07:02,000 --> 00:07:05,040
+of the new Tottenham Hotspur Stadium in North London.
+
+104
+00:07:05,040 --> 00:07:09,800
+This recently opened stadium was built to become the home of the NFL in the UK.
+
+105
+00:07:09,800 --> 00:07:14,480
+It has a permanent synthetic American football pitch under its grass soccer field, purpose-built
+
+106
+00:07:14,480 --> 00:07:19,480
+NFL-sized locker rooms, and a media suite built to the preferences of NFL press.
+
+107
+00:07:19,480 --> 00:07:24,640
+In the coming years, at least two NFL games will occur each year at this stadium.
+
+108
+00:07:24,640 --> 00:07:29,620
+Now, the logistics of these international games in London are formidable.
+
+109
+00:07:29,620 --> 00:07:35,280
+When the Seahawks played in London in 2018, they had to ship 1,150 rolls of athletic tape,
+
+110
+00:07:35,280 --> 00:07:42,440
+about 4,000 pounds or 1,800 kilograms of medical supplies, 350 power adapters, 500 shoes, 240
+
+111
+00:07:42,440 --> 00:07:47,000
+pairs of socks, and tens of thousands of other pounds of equipment to the city weeks ahead
+
+112
+00:07:47,000 --> 00:07:48,240
+of their arrival.
+
+113
+00:07:48,240 --> 00:07:52,280
+Months before, they had to arrange for many of their players, who had never left the US,
+
+114
+00:07:52,280 --> 00:07:53,680
+to get passports.
+
+115
+00:07:53,720 --> 00:07:56,800
+The team's trainers had to carefully schedule their players' sleep in the week leading
+
+116
+00:07:56,800 --> 00:07:58,320
+up to reduce jet lag.
+
+117
+00:07:58,320 --> 00:08:03,000
+There's even a hotel in Watford with a purpose-built American football practice pitch that teams
+
+118
+00:08:03,000 --> 00:08:04,000
+typically stay in.
+
+119
+00:08:04,000 --> 00:08:09,080
+While these London matches come at great difficulty and force teams to sacrifice a coveted home
+
+120
+00:08:09,080 --> 00:08:13,840
+game, the teams and their owners seem to tolerate them given their infrequency and the promise
+
+121
+00:08:13,840 --> 00:08:15,000
+of the UK market.
+
+122
+00:08:15,000 --> 00:08:19,840
+But the promise of the UK market could push the NFL to stretch beyond eight international
+
+123
+00:08:19,840 --> 00:08:21,480
+series games a year there.
+
+124
+00:08:21,480 --> 00:08:26,600
+You see, there is some very real, very serious discussion of putting a National Football
+
+125
+00:08:26,600 --> 00:08:28,640
+League team in London.
+
+126
+00:08:28,640 --> 00:08:33,280
+There is little doubt that the city and country could support a team in terms of fan base.
+
+127
+00:08:33,280 --> 00:08:38,040
+The issue, according to the league's commissioner, would be having one solitary team stationed
+
+128
+00:08:38,040 --> 00:08:42,500
+more than 3,000 miles or 5,000 kilometers away from the next.
+
+129
+00:08:42,500 --> 00:08:47,260
+It would be an immense logistics problem considering that, for the weekly games, teams would have
+
+130
+00:08:47,260 --> 00:08:52,020
+to take flights as long as 11 hours crossing up to eight time zones.
+
+131
+00:08:52,020 --> 00:08:56,260
+On the flip side, this London NFL team would have to travel continuously throughout the
+
+132
+00:08:56,260 --> 00:09:00,580
+US for weeks at a time since, practically, it wouldn't make sense for them to return
+
+133
+00:09:00,580 --> 00:09:02,880
+to London between the weekly games.
+
+134
+00:09:02,880 --> 00:09:06,700
+This would come at enormous expense, would likely impact their performance, and prove
+
+135
+00:09:06,700 --> 00:09:08,940
+unpopular with their players.
+
+136
+00:09:08,940 --> 00:09:14,060
+In addition, as the UK does not yet have significant American football talent, the majority of
+
+137
+00:09:14,060 --> 00:09:17,880
+this team's players would come from the US and would need to be persuaded, either
+
+138
+00:09:17,880 --> 00:09:21,940
+monetarily or otherwise, to live outside their home country.
+
+139
+00:09:21,940 --> 00:09:24,500
+Those are just some of the cost problems.
+
+140
+00:09:24,500 --> 00:09:30,060
+Beyond that, it is not cheap to fly a whole NFL team over the Atlantic every week.
+
+141
+00:09:30,060 --> 00:09:34,960
+For the international series games, teams were flown on chartered Virgin Atlantic 747
+
+142
+00:09:34,960 --> 00:09:40,000
+or E330s arranged by the league, but if London had a fully fledged NFL team, it would likely
+
+143
+00:09:40,000 --> 00:09:44,540
+be treated just like any other team meaning both them and their American competitors would
+
+144
+00:09:44,540 --> 00:09:46,800
+have to arrange their own flights.
+
+145
+00:09:46,800 --> 00:09:50,640
+The wide-body planes teams would have to charter to cross the Atlantic come at a cost of up
+
+146
+00:09:50,640 --> 00:09:53,240
+to $50,000 per flight hour.
+
+147
+00:09:53,240 --> 00:09:57,100
+That means that transatlantic travel costs, just in terms of the flight, would be anywhere
+
+148
+00:09:57,100 --> 00:10:03,640
+between $650,000 for an East Coast team or up to a full $1 million for West Coast teams.
+
+149
+00:10:03,640 --> 00:10:07,640
+Teams also tend to carry tens of thousands of pounds of cargo to each away game which
+
+150
+00:10:07,640 --> 00:10:09,800
+would further escalate the cost.
+
+151
+00:10:09,800 --> 00:10:13,960
+While such an expense would be little issue for large, wealthy teams like the Dallas Cowboys
+
+152
+00:10:13,960 --> 00:10:18,160
+or New England Patriots, teams with smaller budgets like the Detroit Lions or Cleveland
+
+153
+00:10:18,160 --> 00:10:22,440
+Browns would certainly have more of an issue with potentially adding an extra million in
+
+154
+00:10:22,440 --> 00:10:23,440
+travel costs.
+
+155
+00:10:23,440 --> 00:10:28,000
+But this level of team isolation is not unprecedented.
+
+156
+00:10:28,000 --> 00:10:32,800
+Further west, in the middle of the Pacific, the University of Hawaii has a Division I
+
+157
+00:10:32,800 --> 00:10:36,020
+college football team—the Hawaiian Rainbow Warriors.
+
+158
+00:10:36,020 --> 00:10:42,020
+The closest team in their conference is 2,600 miles or 4,200 kilometers away in San Diego.
+
+159
+00:10:42,020 --> 00:10:44,660
+To get there, they take a five-hour flight.
+
+160
+00:10:44,660 --> 00:10:49,120
+That's only an hour or two faster than it would take a London NFL team to get to its
+
+161
+00:10:49,120 --> 00:10:51,900
+closest competitor—the New England Patriots.
+
+162
+00:10:51,900 --> 00:10:55,680
+While the furthest team in the Rainbow Warriors conference is only a seven- or eight-hour
+
+163
+00:10:55,680 --> 00:11:00,540
+flight away in Colorado Springs, Colorado, they do play a number of non-conference games
+
+164
+00:11:00,540 --> 00:11:05,220
+each year which take them all the way to the US East Coast—an up to ten-hour flight away
+
+165
+00:11:05,220 --> 00:11:09,740
+from Honolulu which is almost exactly the same as the longest required travel time for
+
+166
+00:11:09,740 --> 00:11:11,340
+an NFL team to London.
+
+167
+00:11:11,340 --> 00:11:15,860
+Not only that, but the Hawaii Rainbow Warriors also have to balance their time with class
+
+168
+00:11:15,860 --> 00:11:19,780
+schedules which means that they travel to their away games far closer to kickoff than
+
+169
+00:11:19,780 --> 00:11:22,240
+NFL teams typically do to London.
+
+170
+00:11:22,240 --> 00:11:26,460
+The Rainbow Warriors regularly rack up more travel miles than any professional football
+
+171
+00:11:26,460 --> 00:11:27,460
+team.
+
+172
+00:11:27,460 --> 00:11:31,860
+For example, in one particularly grueling month in 2016, the team started its season
+
+173
+00:11:31,860 --> 00:11:36,260
+with an international match in Sydney, Australia, then the next weekend played in Ann Arbor,
+
+174
+00:11:36,260 --> 00:11:41,620
+Michigan, then the weekend after that played in Tucson, Arizona, meaning they flew 25,000
+
+175
+00:11:41,620 --> 00:11:45,420
+miles or 40,000 kilometers in just one month.
+
+176
+00:11:45,420 --> 00:11:50,060
+The Rainbow Warriors also make most of their trips on commercial flights making their travel
+
+177
+00:11:50,060 --> 00:11:52,780
+even more difficult than that of NFL teams.
+
+178
+00:11:52,780 --> 00:11:57,060
+Now, this does potentially give the team a more significant home field advantage since
+
+179
+00:11:57,060 --> 00:12:00,420
+they're used to playing with jet lag while their opponents, when they fly to Hawaii,
+
+180
+00:12:00,420 --> 00:12:04,940
+would not be, but it also supports the view that, logistically, it would be possible to
+
+181
+00:12:04,940 --> 00:12:07,440
+add an NFL team in London.
+
+182
+00:12:07,440 --> 00:12:11,380
+There are even professional sports leagues that already regularly require travel over
+
+183
+00:12:11,380 --> 00:12:13,620
+similar or greater distances.
+
+184
+00:12:13,620 --> 00:12:18,100
+The Continental Hockey League, for example, has teams spread out all across Asia and Eastern
+
+185
+00:12:18,100 --> 00:12:22,620
+Europe meaning the teams from Vladivostok, Khabarovsk, and Beijing regularly have to
+
+186
+00:12:22,620 --> 00:12:29,580
+travel more than 4,000 miles or 6,500 kilometers to play the teams from Minsk, Riga, and Helsinki.
+
+187
+00:12:29,580 --> 00:12:34,540
+An even more extreme example would be Super Rugby which has teams spread out across Japan,
+
+188
+00:12:34,540 --> 00:12:37,940
+Argentina, South Africa, Australia, and New Zealand.
+
+189
+00:12:37,940 --> 00:12:42,140
+With this, when the Tokyo Sun Moles play the Buenos Aires Jaguars, for example, they have
+
+190
+00:12:42,140 --> 00:12:49,320
+to travel more than 11,000 miles or 18,000 kilometers each way to their match.
+
+191
+00:12:49,320 --> 00:12:54,100
+Part of the NFL's problem is just the pure scale of their competitions, with many tens
+
+192
+00:12:54,100 --> 00:12:58,860
+of thousands of pounds of equipment and many hundreds of staff traveling to each game.
+
+193
+00:12:58,860 --> 00:13:03,340
+The problems are surmountable, though, at a cost, but this cost would be partially burdened
+
+194
+00:13:03,340 --> 00:13:05,740
+by every other team in the league.
+
+195
+00:13:05,740 --> 00:13:10,260
+The question is then, given the promise of adding a whole new country to the league,
+
+196
+00:13:10,260 --> 00:13:12,340
+is the cost worth it?
+
+197
+00:13:12,340 --> 00:13:16,900
+Now, if the NFL expands to London, one of the first things the new team will need is
+
+198
+00:13:16,900 --> 00:13:17,900
+a logo.
+
+199
+00:13:17,900 --> 00:13:21,300
+Luckily, there's a class on Skillshare for that.
+
+200
+00:13:21,300 --> 00:13:25,460
+Professional animator Fraser Davidson, who actually has done design work for the NFL,
+
+201
+00:13:25,460 --> 00:13:28,780
+teaches this fantastic course which walks you through the process of creating your own
+
+202
+00:13:28,780 --> 00:13:29,780
+mascot.
+
+203
+00:13:29,780 --> 00:13:34,440
+This is just one of over 25,000 classes on Skillshare which each teach you something
+
+204
+00:13:34,440 --> 00:13:37,980
+that you can use for your job, for school, or just for fun.
+
+205
+00:13:37,980 --> 00:13:43,300
+A few more that I would recommend are Storytelling 101, the Productivity Masterclass, and Cinematography
+
+206
+00:13:43,300 --> 00:13:48,120
+Basics—all of which you can download offline on the iOS and Android apps.
+
+207
+00:13:48,120 --> 00:13:52,700
+You can learn from any of these more than 25,000 classes for free for two months by
+
+208
+00:13:52,700 --> 00:13:58,100
+signing up at skl.sh slash windover6 and you'll be supporting the show while you're at it.
+

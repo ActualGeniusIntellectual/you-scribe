@@ -1,0 +1,208 @@
+start	end	text
+0	2940	This video was made possible by Brilliant.
+2940	10140	Start learning complex STEM subjects simply by going to brilliant.org slash wendover.
+10140	12100	The idea is simple.
+12100	16720	You take what Southwest, Ryanair, Wizz Air, and countless other low-cost airlines have
+16720	20860	done with short-haul flying, and apply it to the long-haul market.
+20860	22940	You make long-haul flying cheap.
+22940	27640	That's the concept behind low-cost, long-haul airlines.
+27640	32640	To make that actually work, however, has proved a little more difficult.
+32640	37640	Now, the underlying recipe behind low-cost short-haul airlines by the like of Ryanair
+37640	42980	and low-cost long-haul airlines such as Norwegian Airlines looks the same on the surface—one
+42980	47920	just flies longer routes than the other—but the result has been markedly different.
+47920	53080	Ryanair is one of the most profitable airlines in the world—Norwegian has been operating
+53080	56080	deeply in the red for years.
+56080	61080	Low-cost short-haul airlines have upended the global aviation industry.
+61080	65840	Low-cost long-haul airlines have failed, and failed, and failed again.
+65840	72040	In 2019 alone, Wow Air, June, Églazur, Thomas Cook, and XL Airlines all went under, all
+72040	74920	after operating under this business model.
+74920	78940	In fact, globally, there are only about a dozen airlines currently operating using this
+78940	83880	business model after scores more have tried over the decades.
+83880	88560	These few survivors, though, are not all failures hanging on to their last fragments
+88560	89840	of life.
+89840	95840	Over the past five years, before the COVID-induced travel downturn, Condor, Cebu Pacific, Azul
+95840	101320	Airlines, Jetstar, TUI, Scoot, and WestJet have each operated long-haul, low-cost flights
+101320	104240	at varying levels, but earned a profit.
+104240	110480	Meanwhile, though, AirAsia X, Norwegian Airlines, Eurowings, and countless now-bankrupt low-cost
+110480	113400	long-haul airlines operated at a loss.
+113400	117000	So, considering some can do it, why can't they all?
+117000	122560	What's the secret sauce to a profitable, long-haul, low-cost airline?
+122560	128720	Well, these are the 14 measurable characteristics that might impact the profitability of a given
+128720	130960	long-haul, low-cost airline.
+130960	135400	These are ten currently or recently operating long-haul, low-cost airlines that report independent
+135400	140320	financial results, and these are each of those 14 characteristics quantified for each of
+140320	144720	those ten airlines, based on data before the coronavirus pandemic started.
+144720	150160	Now, for most of these characteristics, there's quite a lot of variability from airline to
+150160	155200	airline—each company clearly has its own hypothesis for the correct formula that might
+155200	158120	make low-cost long-haul travel possible.
+158120	162600	For example, in terms of number of hubs, defined as the number of distinct origins their flights
+162600	169360	operate from, TUI has 18 spread out across Europe, while AirAsia X has just one, Kuala
+169360	170360	Lumpur.
+170360	174560	Meanwhile, in the category of the average number of route competitors, defined as how
+174560	179200	many other airlines operate the same long-haul routes as the subject airline, TUI had the
+179200	183640	least, meaning that for almost all of their routes, they were the only airline to operate
+183640	188240	it, while Cebu Pacific had the most, meaning that they typically had multiple competitors
+188240	190160	on each of their routes.
+190160	194920	Now, by performing regression analysis, the data suggests that most of these characteristics
+194920	197720	have very little correlation to profitability.
+197720	202080	For example, you might think, like many in the industry, that long-haul low-cost carriers
+202080	206160	would benefit from having younger, more fuel-efficient aircraft.
+206160	211920	Norwegian Airlines, though, has an average aircraft age of just 2.3 years, but it's
+211920	216680	deeply unprofitable, while Condor, on the other hand, has an average aircraft age of
+216680	220840	24 years, and yet it's the most profitable airline of these ten.
+220840	225360	Of course, then there's Eurowings, with the second oldest fleet, and yet it's also
+225360	226680	deeply unprofitable.
+226680	231440	Essentially, the data suggest that aircraft age doesn't have a whole lot to do with
+231440	234280	long-haul low-cost airline profitability.
+234280	237720	There are reasons why a young fleet could help, like through lower fuel burn, but there
+237720	242000	are also reasons why an older fleet could help, like through lower capital cost, so
+242000	244520	it seems like it all evens out in the end.
+244520	249400	It's a similar case with the average long-haul aircraft capacity, average origin country
+249400	253920	GDP per capita, and average origin traffic coefficient of variation—essentially the
+253920	256560	degree of seasonality for passenger demand.
+256560	261320	Each of these factors showed very little correlation to profitability, and a few others demonstrated
+261320	266960	results with higher, but still fairly statistically insignificant correlation, but then the three
+266960	271160	characteristics with the highest degree of correlation to airline profitability start
+271160	274760	to paint a pretty clear picture.
+274760	279920	The third most correlated characteristic is the average number of route competitors.
+279920	285200	Essentially, the data show that low-cost long-haul airlines with a smaller number of competitors
+285200	288480	on their average long-haul route do better financially.
+288480	293420	Then, the second strongest correlated characteristic is the average total weekly frequency of the
+293420	297700	given airlines' long-haul routes—meaning how many total weekly flights are flown by
+297700	300660	all airlines on each of their long-haul routes.
+300660	305020	The less frequent their average route, the better they seem to do financially.
+305020	311180	Then, the most strongly correlated characteristic by far is an airline's number of hubs—the
+311180	314380	more hubs they have, the better they perform financially.
+314380	321320	Now, each of these three factors have to do with one thing—network design.
+321320	327000	They have to do with where and when the airlines fly, but not at all with how—these factors
+327000	332540	have nothing to do with the cabins, the aircraft, the ground handling, or anything operational.
+332540	335800	So, how do you interpret these data?
+335800	336800	What do they mean?
+336800	342120	Well, essentially, they suggest that only a very particular type of route network works
+342120	346940	for long-haul low-cost flying, and that network is essentially the exact opposite of what
+346940	350500	AirAsia X, for example, flies.
+350500	355140	This is what their long-haul route map looks like, or rather looked like pre-COVID.
+355140	359180	They're flying routes like Kuala Lumpur to Tokyo, competing against 44 flights per
+359180	364120	week by Malaysia Airlines, Japan Airlines, and ANA, or Kuala Lumpur to Jeddah, competing
+364120	368020	against 33 weekly frequencies by Malaysia Airlines and Saudi Arabia.
+368020	372580	In fact, only five of their 19 long-haul routes are competition-free.
+372580	377060	They also only have one hub, Kuala Lumpur, from which every single one of their flights,
+377060	381040	with the sole exception of a route that continues on from Osaka to Honolulu, originates.
+382040	386740	Essentially, they're doing everything the data say not to do and, as predicted, they're
+386740	389980	losing tons of money while doing it.
+389980	395580	From a data perspective, the exact antithesis of AirAsia X is TUI.
+395580	398920	This is what their pre-COVID route network looked like.
+398920	404780	Now, while AirAsia X flies high-competition, high-frequency routes from a single hub, TUI
+404780	408380	flies low-competition, low-frequency routes from many hubs.
+408720	413220	Out of more than 60 long-haul routes, only eight of theirs have direct competition, and
+413220	418940	only one of those, Amsterdam to Paramaribo, is flown by two competing airlines.
+418940	423820	Each of their routes is also extremely low-frequency, with an average of only three non-stop flights
+423820	430260	per week, and, most uniquely, they fly these flights from 18 different hubs across Europe.
+430260	436480	Now, these statistical differences are manifestations of the true, more fundamental difference between
+436480	442480	AirAsia X and TUI, or Norwegian Airlines and Condor, or Wow Air and Azul Airlines.
+442480	447800	What's actually different between these airlines and these airlines is how they deal
+447800	449320	with demand.
+449320	454280	AirAsia X, Norwegian Airlines, and Wow Air try to capture demand.
+454280	458400	They're entering some of the busiest airline markets in the world, home to some of the
+458400	463120	largest and most powerful airlines out there, and are trying to lure a large enough portion
+463120	466200	of the passengers to fill their planes.
+466200	471860	The difference is subtle, but TUI, Condor, and Azul Airlines don't as much try to capture
+471860	475760	a market, but rather try to create it.
+475760	481540	In fact, quite literally, the second line of the Azul Airlines Wikipedia page says exactly
+481540	486000	this—the company's business model is to stimulate demand by providing frequent and
+486000	489580	affordable air service to underserved markets throughout Brazil.
+489580	494320	The reason why LATAM, Brazil's largest airline, doesn't have a flight from Recife to Orlando
+494320	498480	is because they have the data and they know that the number of people who connect from
+498480	503760	Recife to São Paulo to Orlando on their own flights is not enough to fill a plane non-stop
+503760	508680	from Recife to Orlando—at least at their full service prices.
+508680	513320	When Azul comes in and drops fares to a couple hundred dollars, some people might choose
+513320	518660	to fly on Azul because the price is cheap and they were going there already, but crucially,
+518660	523200	others will choose to fly this route because the price is so low.
+523200	525480	They're creating demand.
+525480	531680	Now, evidence of this phenomena can be found by looking at short-haul, low-cost carriers—the
+531680	536720	ones who have been operating for decades profitably and undoubtedly know what they're doing.
+536720	541920	You see, the busiest route in Europe, by scheduled seat capacity, is Barcelona to Madrid, and
+541920	545000	Europe's largest low-cost airline is Ryanair.
+545000	548800	Conspicuously, though, Ryanair does not operate this route.
+549160	554240	They also don't operate from Paris to London, or Stockholm to Oslo, or Berlin to Frankfurt,
+554240	558300	or countless other of the busiest passenger flows in Europe because they can make more
+558300	565160	money by stimulating demand on low-competition, historically low-demand routes.
+565160	570240	Across the board, the routes that work for short-haul, low-cost carriers are different
+570240	573440	than those that work for full-service airlines.
+573440	578680	When long-haul, low-cost airlines emerged en masse, many—including AirAsiaX, Norwegian
+578680	583160	Airlines, and Wow Air—seemingly sought to emulate the route maps of their full-service
+583160	584160	competitors.
+584160	588800	Wow Air, for example, focused on connecting major US cities to major European cities via
+588800	592920	Reykjavik, Norwegian did the same but with non-stop flights, while AirAsiaX worked to
+592920	596680	complement their short-haul network by connecting Malaysia to the rest of Asia.
+596680	602700	The problem is, short-haul budget airlines already proved that this was hardly viable,
+602700	607060	and it's even less viable with low-cost long-haul airlines because they have even
+607060	609420	less basis for cost differentiation.
+609420	614660	That's because, the longer a flight is, the greater proportion of the overall cost
+614660	619880	fuel takes up, and that's because, no matter the length of a flight, airlines always only
+619880	625060	have to pay for one set of check-in agents, one gate, one cleaning crew, and one of everything
+625060	629760	else a flight needs at the airport, but for every minute a flight is airborne, they have
+629760	631900	to pay more for fuel.
+631900	636440	What TUI, Condor, and Azul airlines have in common is that they look for routes where
+636440	641780	people want to travel but choose not to because of the cost or time it takes to get there,
+641780	644220	or because they haven't even considered it.
+644220	648820	They pretty much ignore business travelers entirely and focus on the two other major
+648820	653620	travel segments—people going on vacation, and people visiting friends and families.
+653620	658100	It's certainly counterintuitive to think that TUI can turn a profit flying from Brussels
+658100	662740	to Banjul in the Gambia, while Norwegian Airlines cannot while flying London to New
+662740	668540	York, but this goes to show that what matters in this industry even more than demand is
+668540	669680	competition.
+669680	674620	There can be all the demand in the world, but if it all goes to a competitor, an airline
+674620	676580	will not be viable.
+676580	681700	Now, as always, there will certainly be exceptions to this rule, and it isn't to say that there
+681700	685940	aren't other factors that influence the profitability of a given long-haul low-cost
+685940	690760	airline, but it is to say that the easiest route to profitability seemingly starts with
+690760	692720	stimulating demand.
+692720	698180	If airlines like Norwegian, AirAsia X, Eurowings, and other unprofitable long-haul low-cost
+698180	702980	carriers do make it out to the other end of the COVID-induced air travel downturn, they
+702980	707760	will have an opportunity to rebuild their long-haul route networks from nothing, starting
+707760	710840	with the ones that have historically worked best.
+710840	714700	The data would suggest that the long-haul routes that should work best are ones like
+714700	719580	Oslo to Fort Lauderdale or Bangkok—both of which are low-frequency routes with little
+719580	723280	competition that also happened to be some of the first long-haul routes they launched
+723280	725320	early in the 2010s.
+725320	729220	While prior to the pandemic, these airlines were tremendously focused on capturing as
+729220	733540	much of the market as possible as fast as possible, which likely led them to launching
+733540	739860	unviable routes, the slow yet seemingly imminent restart to international long-haul travel
+739860	745080	might act as a natural experiment regarding the viability of the business model.
+745080	750660	Without any momentum to work off of, if these airlines—both the profitable and unprofitable
+750660	755380	ones—are successfully able to stimulate demand once long-haul travel is once again
+755380	763320	safe and possible, that will more or less prove that this is truly their secret sauce.
+763320	768220	Following lockdowns in the US, Europe, and Asia, short-haul low-cost carriers outpaced
+768220	771340	their full-service competitors in their recoveries.
+771340	775900	This was largely because they were able to stimulate demand on leisure routes with cheap
+775900	779260	fares and non-stop, point-to-point routes.
+779260	784400	The long-haul recovery has barely started yet, but if we see the same happen—if we
+784400	789740	see long-haul low-cost carriers lead with niche, low-frequency leisure routes, and if
+789740	794260	this works and the recovery outpaces that of full-service airlines, then we'll have
+794260	799660	further evidence that what makes low-cost carriers work is not so much their low operating
+799660	802540	costs, but rather their route networks.
+802540	808760	Then, if this is true, we know that the difference between Lufthansa and Condor Airlines, or
+808760	814940	British Airways and TUI, or LATAM and Azul, is that one set of airlines captures demand,
+814940	818020	and the other one creates it.
+818020	822140	Earlier in this video, I mentioned that I ran regression models on the datasets I created
+822140	826180	to research for this video, which might sound like some crazy scary math words to some of
+826180	830340	you, and it certainly would if for me a few years ago, but regression analysis is actually
+830340	833780	one of the simplest and most powerful tools in statistics.
+833780	838540	I'm one of those people who hated math in high school and was terrible at it, but since
+838540	842820	then, I've come to love statistics and found my knowledge of the subject quite useful for
+842820	846300	both this, my job, and everyday applications.
+846300	850380	What really helped me master the subject were brilliant statistics courses.
+850420	854540	Specifically, their statistics fundamentals course helped me with regression analysis,
+854540	858020	while the rest of the ones on the subject taught me things that I didn't even learn
+858020	859820	when I took the course in college.
+859820	864120	Now, an online course teaching more than a college course probably sounds scary, but
+864120	868900	why Brilliant is so great is that they take these huge, complex subjects and break them
+868900	873460	down into little chunks which they teach by explaining the intuitive fundamentals.
+873460	877640	In the end, even if you're the opposite of a math expert, like me, you can finally
+877640	881400	understand these subjects that you previously looked at in trepidation.
+881400	885680	All in all, if you want to learn the subjects you hated in school, but actually enjoy the
+885680	888920	process, Brilliant is the place for you.
+888920	893200	By heading to brilliant.org slash wendover, you can sign up for free, and then, if you
+893200	897520	decide to upgrade to premium, the first 200 people to go to that same link will get 20%
+897520	900840	off, and you'll be supporting the channel while you're at it.

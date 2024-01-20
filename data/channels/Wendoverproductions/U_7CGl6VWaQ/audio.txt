@@ -1,0 +1,295 @@
+The world's new era of warfare started here, on the eighth floor of an innocuous office
+building in Minsk, Belarus.
+A small anti-virus developer based within these walls, Virus Blockada, received an inbound
+help request.
+Their client in Iran was experiencing random, repeated reboots of their industrial-control
+computers.
+It was probably a bug, they thought—a misconfiguration of Windows, or an issue of two programs not
+playing nice with each other.
+So, they reinstalled Windows, but the issue remained.
+This upped the stakes.
+This wasn't some mistake in Windows programming—this was something purposefully malicious.
+Soon, Sergei Ulasin, the company's researcher, found some suspicious files on the errant
+machine.
+As he combed through their code, he made a discovery—a discovery that shook the world
+of information security to its core.
+This code, when placed on a USB drive and plugged into a computer, could silently launch
+and execute a program simply by being viewed.
+This was a brand new exploit—a catastrophically capable exploit.
+All it took was one drive, simply plugged in, to infect one computer.
+This method of spread was mortifyingly efficient—it was something out of a movie.
+Recognizing that, the intuitive question was how far it had spread.
+The answer was chilling.
+58%.
+58% of devices in Iran were infected with this malicious code.
+58% of the country's computers were within the grips of some mystery developer so capable
+that they had identified an exploit of existential proportions.
+And what made this ominous development all that much more intimidating was that nobody
+knew what this code was intended to do.
+Nobody knew why a high-skilled hacker had spread a groundbreaking worm to 58% of Iran's
+computers.
+What became clear far quicker is that Virus Blocka does discovery did not gain prominence
+for the virus itself—it gained prominence because this small Belarusian antivirus company
+had discovered that the world had entered a new era.
+The world had entered the era of highly advanced, highly targeted, and highly capable cyber-warfare.
+This new era was made possible, and perhaps more importantly, made profitable by one single
+concept—the Zero Day.
+You see, in decades past, national intelligence agencies and nefarious independent operatives
+focused on gathering information in transit.
+Rather than sneaking into the embassy, you intercepted the courier.
+Rather than placing a bug in the phone, you tapped the transmission line.
+It was simply easier to capture information on the move than at its origin or destination.
+As the digital age awoke, this MO continued, but then the manufacturers caught up.
+Apple, Microsoft, Google, and others all started encrypting data as soon as it left devices.
+Shielding information behind complex mathematical systems, encryption, by this time, was, for
+all practical purposes, perfect.
+Therefore, the strategies behind digital espionage had to change.
+The snoops needed a new way to get in.
+While the math behind encryption may be infallible, people are not.
+The devices on which data is created and stored—phones, computers, servers, and more—are created
+by people.
+Therefore, the devices have holes.
+These holes are referred to as Zero Days.
+Any software has vulnerabilities.
+Most will be caught before release, some will be caught shortly after and quickly addressed
+with a patch, but a tiny minority will go unnoticed for weeks, months, or years.
+In the early 2000s, hobbyist hackers spent their evenings scrolling through code, looking
+for these bugs.
+Faced with hostility and legal threats when reporting vulnerabilities straight to its
+software's developers, many would post about their findings on online forums—earning
+little else than bragging rights.
+Early information security companies would repackage this information and include it
+in a digital threat alert system for companies and agencies—notifying them when their software
+might have holes not yet fixed by the developer.
+One such company, iDefense, found itself faltering in 2002 as they were selling the same information
+at the same time to the same customer base—they simply had zero competitive advantage.
+So, they created one.
+They decided to start paying for exploits.
+Hackers would come to them with a bug, and, in exchange for their silence, iDefense would
+pay anywhere between a couple hundred and a couple thousand dollars.
+iDefense would then alert their software's developer and its own customers before the
+competing information security companies could.
+With the information staying among more trusted hands, this also lowered the likelihood of
+a vulnerability being used for nefarious reasons.
+iDefense had created an ethical, profitable system that gave hackers a first opportunity
+to monetize their hobby, and so it was no surprise that it grew into a massive success.
+In mere months, the company went from weeks behind on payroll to a pioneer in the industry.
+But then the calls started coming, and the area codes were local.
+The Chantilly, Virginia-based company was fielding inquiries from around the DC Beltway.
+Government contractors wanted to buy their exploits.
+For the zero days that iDefense had paid three or four figures for, the callers were willing
+to pay six—as long as the company stayed quiet, as long as the buyer stayed the only
+one with knowledge of the zero day.
+iDefense said no, but they soon found themselves priced out of the very market they had created.
+Whereas their payouts might fund a vacation, the black market bounties paid for sports
+cars—they simply couldn't compete.
+On the other side of the equation, the American military machine had recognized the astonishing
+potential rising out of a single software susceptibility.
+Unperturbed by borders, rules of engagement, or mortality, cyberwarfare had the potential
+to silently achieve America's strategic goals so long as they, and only they, knew
+about these zero days.
+In the years since, the market has propagated into a staggering degree of scale and legitimacy.
+While a thriving black and gray market still exists, especially for sales to countries
+with concerning human rights records, Western players like the US source the zero day exploits
+upon which they build their cyberweapons from companies that hardly hide what they're
+doing.
+For this extreme example, zero day broker Zerodium publishes their price list.
+For an exploit capable of running a piece of code on a device or network without user
+interaction, remote code execution as it's known, the company is willing to pay up to
+$10,000 on router software.
+For the same capability, they'll pay up to $100,000 on WordPress, and up to a million
+dollars for Windows.
+Zerodium is even offering a temporarily higher $400,000 bounty for a remote code execution
+zero day on Microsoft Outlook—possibly indicating that someone, somewhere desperately
+needs that very exploit for a cyberweapon under development.
+Remote code execution exploits are the holy grail of zero days.
+Properly used, they can allow virtually unfettered access to another's machine.
+Of course, zero days become worthless essentially the instant they are discovered—nowadays,
+software developers will quickly patch the exploits upon notification.
+Therefore, the fact that this malicious code, quickly dubbed Stuxnet, included a remote
+code execution exploit that could have sold for hundreds of thousands of dollars, indicated
+that it was designed to do something equally valuable.
+However, it soon became clear that the .lnk exploit did not stand alone.
+Layered on top of it was another remote code execution exploit.
+Stuxnet was designed to embed itself into the file that communicates metadata to printers
+on a local network, however, with this zero day, that file would end up on all the other
+computers on that local network—silently and quickly spreading from a single machine
+to an entire office, university, factory, or other facility.
+Then, to complete the spread, the code used two Escalation of Privilege zero days, each
+for different versions of the operating system, allowing it, when installed on a single user
+account, to gain access to an entire machine.
+Four zero days, four exploits each worth life-changing amounts of money.
+This was, in the most literal sense, an unprecedented scale of hacking device.
+Never before had a piece of code so expertly intertwined four unknown exploits.
+Whoever was behind this had exhausted enormous resources onto this single, one megabyte piece
+of code, but even as it was being combed through by Virus Blockita—even as it set
+the information security industry ablaze, even as it propagated from machine to machine
+in Iran and beyond—the single most important question remained unanswered.
+What was Stuxnet designed to do?
+This is the Natanz nuclear facility, and while neither Iranian officials nor anyone in global
+information security knew it, by the middle of 2010, the complex had become ground zero
+for the implementation of the most advanced cyberweapon the world had ever seen.
+Hours away from Tehran by car, sitting on the border of the nation's central desert
+in the shadow of the carcass mountains, this uranium enrichment facility is purposefully
+geographically isolated.
+Its geographic isolation, however, pales in comparison to its digital isolation.
+Natanz, in response to an earlier, more rudimentary cyberattack, wasn't even connected to the
+internet as Iran had air-gapped the facility to protect important and notoriously fickle
+centrifuges from outside meddling.
+For the outside to meddle, then, a worm had to be planted manually.
+At some point in 2009, an unknowing employee at the plant, a spy, or a mole plugged a contaminated
+USB stick into a PC running Microsoft Windows.
+Having the malware past the air-gap, however, only marked the beginning.
+First, using the .lnk zero-day, the worm jumped from USB to computer without detection.
+Then, using the printer zero-day vulnerability, the worm gained access to the facility's
+local network and spread across the entire enrichment plant.
+Undetected, and inside the Natanz network, the malicious code still held on to its payload—continuing
+its search for a very particular target, as it went.
+Conceptually, cyberweapons are rather straightforward.
+Like most of their physical counterparts, these weapons consist of two primary components—the
+carrier and the payload.
+In other words, no matter the level of complexity, every cyberweapon is comprised of code that
+gains it access into a computer or network, and code that informs what the weapon does
+once it's inside.
+At this stage, the carrier had so far succeeded.
+Stuxnet had access to any and all things going on here, throughout the administrative and
+monitoring areas of the facility—effectively, the enrichment processes surrounding infrastructure.
+The code's payload and, by extension, the malware's authors, however, weren't interested
+in crashing the plant's communications network or delivering a one-off denial of service.
+Instead, they worked towards something more tangible and long-lasting.
+What the code wanted access to was buried underground here, where actual, physical centrifuges
+were using centrifugal force to tear away unwanted isotopes and create Uranium-235.
+Running these centrifuges, though, weren't PCs, but programmable logic controllers—industrial
+control equipment that provided yet another hurdle for the malware.
+Finally, using stolen security certificates than zero-day vulnerabilities identified in
+Siemens Software, a German manufacturer whose PLCs controlled 164 of the Iranian centrifuges
+each, the carrier had reached its target, completed its mission, and released its payload.
+Among the many genius and frightening potentials highlighted by this nefarious code, one troubling
+aspect lies not in what it did, but what it intended not to do.
+For days after gaining access to the PLCs controlling the Iranian centrifuges, the very
+core of the nation's nuclear program, the payload did nothing but monitor the machine's
+RPMs.
+Then, after nearly two weeks, the code would briefly speed the centrifuges up to 1400 Hz—well
+beyond their normal operating range of between 800 and 1100.
+Weeks after that, the code would momentarily slow them down to 2 Hz, leading to increased
+wear and tear, and thus failure.
+All the while, as the machines self-destructed at a slightly above average rate, the worm
+reported to monitors that the centrifuges were running at average RPMs—that there
+was nothing here to see.
+Essentially, had it not managed to unintentionally escape from the facility, Stuxnet could have
+potentially continued to cripple Iran's nuclear ambitions from within for years, perhaps
+even decades, before detection.
+Therefore, prior to June of 2010, the piece of code was simultaneously invisible and physically
+destructive—a cyberweapon experts couldn't identify, but one that was destroying hundreds
+upon hundreds of strategically invaluable Iranian centrifuges.
+It's been more than a decade since Stuxnet was first identified.
+Still, no one has officially claimed responsibility for this first-of-a-kind weapon.
+The code's scale, though—its sheer size and complexity—has created a consensus that
+this couldn't be the work of one person.
+While the world's most powerful hackers are likely to get their hands on a single
+zero day, Stuxnet employed a staggering four.
+Nor could this be the work of a group of activists, or even a minor nation-state, either.
+At a megabyte, Stuxnet was orders of magnitude larger than any malware discovered before
+it.
+And it wasn't just massive, either—it was incredibly precise, laying dormant in
+computers across the globe and only weaponizing its devious payload when connecting to Siemens
+Step 7 software linked to a PLC running exactly 164 centrifuges.
+Such size signaled that this was a weapon designed across years, while such clinical
+precision signaled the code was crafted with potential future lawsuits in mind.
+In short, just in the worm's design, experts the world over concluded it had to be crafted
+by a major world power, or multiple, with the time and resources to approach such an
+unprecedented undertaking, and it had to be a world power, or multiple, that wasn't
+so friendly with Iran.
+Information in the actual code and geopolitical context aren't our only clues as to who
+is behind this, though.
+The experts have conducted countless interviews on background and pored over troves of leaked
+documents since the worm appeared.
+What they found was that the development of Stuxnet was described as a third option, that
+existed somewhere between doing nothing to slow Iran's nuclear advance and launching
+airstrikes to destroy the enrichment facilities.
+As an alternative was how the weapon was first presented to President Bush, then to Israeli
+officials, then eventually to President Obama—all of whom supported its implementation.
+What the journalists revealed was that the US and Israel had ushered the world into a
+new era of state-led cyberoffensive that wreaked physical destruction.
+Before this point, nation-states—the US through the NSA and Israel through its unit
+8200—used cyberdivisions to defend and surveil.
+Now they were going on the offensive.
+By crossing the Rubicon, though, and getting caught, the actions of the US and Israel have
+opened Pandora's box.
+Though Iran denied involvement, in 2013, major American banks were hit with a concerted attack.
+American intelligence identified it as retaliation by Iranian, and a worrying lesson as to how
+quickly the rival's cyber capabilities were expanding.
+Holding up American banks in 2013, however, only marked the beginning.
+Once the US unleashed Duxnet, other nation-states have worked to close the cyberweapon gap—many
+of which the US has, at best, a tenuous relationship with.
+North Korea, largely through its state-backed hack organization the Lazarus Group, was able
+to infiltrate Sony Pictures in 2014, then in 2017, the country's WannaCry ransomware
+forced the UK's National Health Service to work off pen and paper.
+Every year, China's cyberwarfare division grows stronger from the talent-scouted and
+zero-days identified at the Tianfu Cup, where competitive hackers tear into Google, Microsoft,
+and Apple software.
+In 2017, Russian cyberattacks brought Ukrainian banks, utilities, and government agencies
+to their knees.
+In 2021, ransomware software locked up the US's colonial pipeline.
+Increasing the speed at which the rest of the world catches up to the US is the fact
+that American weapons are spreading.
+The United States has long been considered a leader, if not the leader, in cyberwarfare,
+but a 2017 leak by a hacker group known as the Shadow Brokers unleashed the American
+NSA's hacking tools for the entire world to use.
+Today, experts have reached a concerning consensus.
+The capability for catastrophic cyberwarfare exists more acutely now than at any point
+before—changing the very landscape for current and future conflicts.
+Traditional weapons have consequences for the aggressors.
+If Russia were to deploy a nuclear weapon, mutually assured destruction would dictate
+a swift response by the target nation.
+Cyberweapons are different.
+It took years for major media organizations to start pointing towards the US and Israel
+as the forces behind Stuxnet, and much of the proof came from tacit acknowledgement
+by the American and Israeli government officials themselves.
+When the stakes get raised, so will the secrecy.
+Cyberwarfare has the potential for destruction without consequences.
+In this new battlefield, there are no rules of engagement, there are no Geneva Conventions,
+there are simply cutting edge aggressors and vulnerable targets who have not yet realized
+the doors they've left open.
+Experts believe that today represents a waiting period.
+The weapons exist, they've been developed, and they could even be out there already,
+embedded in the world's machines, laying dormant until the time comes for them to unleash
+their destructive potential.
+But by and large, that time has not yet come.
+Faced with the reality that each individual weapon can only be used once until vulnerabilities
+are patched, the nation-states and organizations behind these have yet to find the will to
+unleash a truly devastating attack on a major nation—an attack that will wake the world
+up to the truly existential nature of this new battlefield.
+But that time is coming.
+The big ones coming.
+Doctors will no longer be fought in far-off lands that can be ignored simply by turning
+off the TV—they will be fought in the technology that has come to envelop every moment of modern
+life.
+The US and Iran have had an incredibly tense relationship for the better part of the last
+century in the context of what led to Iran's nuclear program, and therefore what led to
+the US's development and deployment of Stuxnet stretches back into the 1950s.
+If you want to learn about that other side of this topic, I'd highly recommend you
+watch RealLifeLore's Modern Conflicts episode about US-Iranian relations on Nebula—that's
+exclusive to Nebula since YouTube content guidelines make it tricky to cover conflicts.
+This is just one of a huge number of exclusive videos on Nebula.
+If you're the type of person that endlessly scrolls through streaming platforms struggling
+to find something you want to watch, then Nebula is for you, because it's more stuff
+by the creators you already watch and love.
+After the Modern Conflicts episode, you can watch our feature-length doc on the crisis
+and conflict brewing in the American West with the drying up of the Colorado River,
+then watch Half as Interesting's travel-based game show where I'm chased across the country
+trying to break weird laws along the way, then watch Real Engineering's spectacularly
+produced series on the Battle of Britain, then watch Tom Scott's ingeniously designed
+game show Money featuring a much younger me, and I could keep going, but that's probably
+already a week's worth of content so you get the point.
+Amazingly, the cheapest way to get access to Nebula gets you access to a whole other
+streaming site, too—CuriosityStream.
+Here you can watch a huge catalog of non-fiction shows and documentaries, including The King
+of the Cruise—a captivating, quirky documentary about a Scottish baron who essentially lives
+on cruise ships, seeking attention while telling fantastical stories to other cruisers.
+CuriosityStream and Nebula have a bundle deal, so when you sign up for any subscription at
+CuriosityStream.com slash Wendover, you'll get access to both.
+And the price is unbelievably low—just $14.79 for the year for both.
+That's less than the monthly price of other sites that you probably use less, and you'll
+be supporting loads of independent creators while you're at it, so click the button
+on screen or head to CuriosityStream.com slash Wendover to sign up today.

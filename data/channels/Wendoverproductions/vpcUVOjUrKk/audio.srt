@@ -1,0 +1,828 @@
+1
+00:00:00,000 --> 00:00:03,160
+This video was made possible by CuriosityStream.
+
+2
+00:00:03,160 --> 00:00:06,920
+When you sign up at the link in the description, you'll also get access to Nebula—the streaming
+
+3
+00:00:06,920 --> 00:00:10,440
+video platform that Wendover is a part of.
+
+4
+00:00:10,440 --> 00:00:13,440
+There are few sports as expensive as skiing.
+
+5
+00:00:13,440 --> 00:00:19,060
+A daily lift ticket alone typically costs more than $100 with top resorts such as Vail
+
+6
+00:00:19,060 --> 00:00:22,640
+charging up to $209 for a day's skiing.
+
+7
+00:00:22,640 --> 00:00:25,560
+It'd be easy to call this a rip-off.
+
+8
+00:00:25,560 --> 00:00:31,100
+After all, all those $209 are getting you is access, along with thousands of other people,
+
+9
+00:00:31,100 --> 00:00:36,180
+to one of 32 lifts between the hours of 8.30am and 3.30pm.
+
+10
+00:00:36,180 --> 00:00:39,600
+Does it really cost that much for a resort to run a few lifts?
+
+11
+00:00:39,600 --> 00:00:42,900
+Well, the short answer is sort of.
+
+12
+00:00:42,900 --> 00:00:45,520
+Ski lifts are a simple enough concept.
+
+13
+00:00:45,520 --> 00:00:49,820
+With the most common design, chairs, each with a capacity between 1 and 8, are connected
+
+14
+00:00:49,820 --> 00:00:54,880
+to a continuously rotating cable pulled by motors at the top or bottom of the lift.
+
+15
+00:00:54,880 --> 00:01:00,240
+Given all the redundancies and safety systems, though, they end up being fairly complex machines,
+
+16
+00:01:00,240 --> 00:01:02,240
+and complex means expensive.
+
+17
+00:01:02,240 --> 00:01:07,520
+While it varies widely depending on length, capacity, specifications, and location, costs
+
+18
+00:01:07,520 --> 00:01:13,540
+for the construction of a new lift alone regularly reach $10 million and most large ski resorts
+
+19
+00:01:13,540 --> 00:01:15,620
+have dozens of lifts.
+
+20
+00:01:15,620 --> 00:01:18,800
+In Vail's case, once again, they have 32.
+
+21
+00:01:18,800 --> 00:01:22,760
+That means that, even if they were all the kinds of lifts that cost $10 million, which
+
+22
+00:01:22,760 --> 00:01:27,520
+are not, that would total to $320 million.
+
+23
+00:01:27,520 --> 00:01:32,740
+Those $320 million are divided by a lift lifespan of a few dozen years, then divided further
+
+24
+00:01:32,740 --> 00:01:36,760
+by the hundreds of thousands of yearly visitors who are each paying up to hundreds of dollars
+
+25
+00:01:36,760 --> 00:01:41,660
+per day, and you can start to see, pretty quickly, that it is not because of building
+
+26
+00:01:41,660 --> 00:01:44,220
+lifts that skiing is expensive.
+
+27
+00:01:44,220 --> 00:01:48,380
+The paradox of ski resorts is that buying and installing ski lifts, which are their
+
+28
+00:01:48,380 --> 00:01:54,340
+primary physical assets, only represents a small proportion of their costs.
+
+29
+00:01:54,340 --> 00:01:59,180
+Actually running ski lifts is trickier, but for a slightly unexpected reason.
+
+30
+00:01:59,180 --> 00:02:02,840
+Between working the line, scanning tickets, helping riders load, and manning the terminal
+
+31
+00:02:02,840 --> 00:02:08,300
+to stop the lift in case of accident, a good number of workers are needed to operate each
+
+32
+00:02:08,300 --> 00:02:09,300
+lift.
+
+33
+00:02:09,300 --> 00:02:13,060
+Then, when you add in all the restaurants, ticket sales, rental shops, stores, hotels,
+
+34
+00:02:13,060 --> 00:02:18,100
+activities, and everything else a large resort has, it needs thousands of employees, but
+
+35
+00:02:18,100 --> 00:02:21,880
+getting such huge numbers of workers is quite tough.
+
+36
+00:02:21,880 --> 00:02:26,380
+The nature of the majority of these jobs is that they're low-wage and seasonal.
+
+37
+00:02:26,380 --> 00:02:30,540
+That means that a resort needs to find a subset of people who are willing to move to the mountain
+
+38
+00:02:30,540 --> 00:02:33,940
+for five or six months and work for not much.
+
+39
+00:02:33,940 --> 00:02:37,900
+There are not many people who want to do that, and among those who are, they're typically
+
+40
+00:02:37,900 --> 00:02:42,820
+young people who will only work a season or two before entering a longer-term career.
+
+41
+00:02:42,820 --> 00:02:47,780
+Running a ski resort is an enormous and never-ending recruiting mission, and many are unable to
+
+42
+00:02:47,780 --> 00:02:51,900
+fill all their positions, even when touting significantly better benefits than most other
+
+43
+00:02:51,900 --> 00:02:57,100
+entry-level jobs, at least in the US, like healthcare, transit passes, 401ks, and free
+
+44
+00:02:57,100 --> 00:02:58,580
+ski passes.
+
+45
+00:02:58,580 --> 00:03:03,740
+This labor scarcity has pushed wages up for ski jobs, but even with higher wages, they
+
+46
+00:03:03,740 --> 00:03:06,340
+run into another issue—housing.
+
+47
+00:03:06,340 --> 00:03:10,360
+The nature of the ski resort's economy is that the towns that ski resorts are in need
+
+48
+00:03:10,360 --> 00:03:15,900
+to be able to accommodate a seasonal doubling or tripling or quadrupling of their population.
+
+49
+00:03:16,020 --> 00:03:19,380
+Couple that with the fact that resorts tend to be nestled in the mountains, where there
+
+50
+00:03:19,380 --> 00:03:24,160
+is little flat or semi-flat land where one can build cheap housing, and the urban geography
+
+51
+00:03:24,160 --> 00:03:26,700
+of these areas is wacky.
+
+52
+00:03:26,700 --> 00:03:28,660
+Take the example of Aspen.
+
+53
+00:03:28,660 --> 00:03:33,600
+Aspen is home to four ski areas, all operated by the Aspen Skiing Company, and therefore,
+
+54
+00:03:33,600 --> 00:03:39,200
+in the winter, the greater Aspen area is also home to thousands of seasonal workers.
+
+55
+00:03:39,200 --> 00:03:44,460
+Many of these workers are paid the company's base wage of $1,350 an hour, however, Aspen
+
+56
+00:03:44,460 --> 00:03:49,420
+also happens to be one of the world's most expensive real estate markets.
+
+57
+00:03:49,420 --> 00:03:53,980
+The reason for that is, as usual, a byproduct of supply and demand.
+
+58
+00:03:53,980 --> 00:03:57,780
+Housing supply is quite low as the town is nestled at the end of a mountain valley with,
+
+59
+00:03:57,780 --> 00:04:00,300
+in the winter, only one road in or out.
+
+60
+00:04:00,300 --> 00:04:03,040
+Housing supply for small apartments is even lower.
+
+61
+00:04:03,040 --> 00:04:08,660
+The average price per square foot of a home in Aspen is nearly $1,700.
+
+62
+00:04:08,660 --> 00:04:13,040
+In comparison, in Manhattan, New York, it's under $1,400.
+
+63
+00:04:13,040 --> 00:04:17,640
+Of course, no matter how much they pay, Aspen Skiing Company isn't going to get workers
+
+64
+00:04:17,640 --> 00:04:19,900
+unless they have somewhere to live.
+
+65
+00:04:19,900 --> 00:04:23,740
+While prices decrease as one descends down valley, for the most part, there would be
+
+66
+00:04:23,740 --> 00:04:29,120
+no chance of housing thousands of low-wage workers using the free market, so Aspen Skiing
+
+67
+00:04:29,120 --> 00:04:33,540
+Company's solution is to provide subsidized employee housing at prices that all their
+
+68
+00:04:33,540 --> 00:04:35,200
+workers can afford.
+
+69
+00:04:35,200 --> 00:04:40,740
+So, while a ski resort may be able to pay their employees $1,350 an hour, their employees
+
+70
+00:04:40,740 --> 00:04:43,780
+cost them quite a bit more than that.
+
+71
+00:04:43,780 --> 00:04:48,220
+There is, however, another unique byproduct of the ski town labor market.
+
+72
+00:04:48,220 --> 00:04:52,500
+The masses of seasonal workers often don't bring cars with them, so they need ways to
+
+73
+00:04:52,500 --> 00:04:53,500
+get around.
+
+74
+00:04:53,500 --> 00:04:59,620
+Now, the US is not known for its public transportation systems, and is known even less for its rural
+
+75
+00:04:59,620 --> 00:05:05,140
+public transportation systems, but American ski towns are often an exception to this.
+
+76
+00:05:05,140 --> 00:05:09,500
+Many have public transportation systems that rival those of big cities.
+
+77
+00:05:09,500 --> 00:05:14,260
+Colorado, home to many of the US's most popular ski resorts, leads the nation in terms
+
+78
+00:05:14,260 --> 00:05:17,480
+of ridership on its rural transportation systems.
+
+79
+00:05:17,480 --> 00:05:22,540
+Of these, the system with the highest ridership is Aspen's, with more than 5 million passengers
+
+80
+00:05:22,540 --> 00:05:23,540
+per year.
+
+81
+00:05:23,540 --> 00:05:28,580
+That's remarkable for a town of 7,000, even though the system extends far beyond, and
+
+82
+00:05:28,580 --> 00:05:34,380
+its core routes have buses every 12 minutes or more—again, rivaling many routes in big
+
+83
+00:05:34,380 --> 00:05:35,380
+cities.
+
+84
+00:05:35,380 --> 00:05:40,820
+This system, much like those of all of Colorado's ski towns, is crucial to get workers in and
+
+85
+00:05:40,820 --> 00:05:45,660
+out of the area, and it represents the symbiotic relationship ski resorts and the towns they're
+
+86
+00:05:45,660 --> 00:05:47,800
+located in often have.
+
+87
+00:05:47,800 --> 00:05:51,740
+Ski resorts need their ski towns to set themselves up in a way that's accommodating for their
+
+88
+00:05:51,740 --> 00:05:57,340
+workers and guests, while ski towns need ski resorts in order to stay ski towns.
+
+89
+00:05:57,340 --> 00:06:00,000
+But here's something strange.
+
+90
+00:06:00,000 --> 00:06:04,960
+Most big ski resorts, at least in the US, don't actually own the land they operate
+
+91
+00:06:04,960 --> 00:06:05,960
+on.
+
+92
+00:06:05,960 --> 00:06:10,440
+It's government land, and the resorts only hold permits to use the land.
+
+93
+00:06:10,440 --> 00:06:16,680
+This means that the land upon which one skis is public land and so, with some restrictions,
+
+94
+00:06:16,680 --> 00:06:21,160
+anyone can use the land regardless of whether or not they have a lift ticket.
+
+95
+00:06:21,160 --> 00:06:26,360
+At American resorts sitting on US Forest Service land, of which there are 122, people legally
+
+96
+00:06:26,360 --> 00:06:30,680
+can and do hike uphill and then ski down without a pass.
+
+97
+00:06:30,680 --> 00:06:36,040
+Therefore, technically, what the resorts are selling is access to the lifts themselves,
+
+98
+00:06:36,040 --> 00:06:37,960
+not the mountains.
+
+99
+00:06:37,960 --> 00:06:42,440
+Despite this, though, people obviously wouldn't pay to ride those lifts up unless the skiing
+
+100
+00:06:42,440 --> 00:06:47,120
+down was good, so resorts spend huge amounts of money building and maintaining the downhill
+
+101
+00:06:47,120 --> 00:06:48,120
+runs.
+
+102
+00:06:48,120 --> 00:06:51,760
+Some of this only needs to happen once a year, like trimming any trees trying to grow in
+
+103
+00:06:51,760 --> 00:06:56,460
+the middle of runs in summer, while some needs to happen every night.
+
+104
+00:06:56,460 --> 00:07:02,280
+Snow quality can vary a lot and, without attention, can get bad quickly, so therefore, every night
+
+105
+00:07:02,280 --> 00:07:06,360
+snowcats go out to groom the easier and more frequented runs.
+
+106
+00:07:06,360 --> 00:07:10,840
+But sometimes, grooming isn't enough to keep snow quality good.
+
+107
+00:07:10,840 --> 00:07:14,600
+Sometimes, there just isn't enough snow.
+
+108
+00:07:14,600 --> 00:07:18,600
+The one solution to that, aside from wading, is snowmaking.
+
+109
+00:07:18,600 --> 00:07:23,760
+There are many different designs of snowguns but they all essentially work the same way—they
+
+110
+00:07:23,760 --> 00:07:27,140
+spray out tiny droplets of water that quickly freeze.
+
+111
+00:07:27,140 --> 00:07:31,600
+Of course, that still requires temperatures to be below freezing, but this is common in
+
+112
+00:07:31,600 --> 00:07:34,360
+nighttime in even more temperate areas.
+
+113
+00:07:34,360 --> 00:07:39,240
+Some resorts, especially smaller ones in warmer locations, rely almost fully on artificial
+
+114
+00:07:39,240 --> 00:07:44,200
+snow while larger resorts use it to extend their season or build up snowpack on high-use
+
+115
+00:07:44,200 --> 00:07:45,200
+areas.
+
+116
+00:07:45,200 --> 00:07:47,660
+There are, though, disadvantages to this.
+
+117
+00:07:47,720 --> 00:07:52,100
+From the ski resorts perspective, the main one is that it's hugely expensive.
+
+118
+00:07:52,100 --> 00:07:56,620
+Constructing a system over a vast mountain area is expensive, sourcing the large quantities
+
+119
+00:07:56,620 --> 00:08:02,540
+of water needed is difficult, and then the process itself is extremely energy-intensive.
+
+120
+00:08:02,540 --> 00:08:07,400
+Exact costs vary, given the number of variables involved, but in general, snowmaking enough
+
+121
+00:08:07,400 --> 00:08:12,220
+to cover an acre of terrain costs an average of $5,000.
+
+122
+00:08:12,220 --> 00:08:16,240
+That means that, to fully cover one of the largest resorts, like Whistler Blackcomb,
+
+123
+00:08:16,240 --> 00:08:22,700
+in snow, it would cost more than $40 million, and of course, all of that can melt in a few
+
+124
+00:08:22,700 --> 00:08:24,360
+warm days.
+
+125
+00:08:24,360 --> 00:08:29,280
+In practice, though, none of the larger resorts rely so heavily on artificial snow, at least
+
+126
+00:08:29,280 --> 00:08:35,680
+right now, but snowmaking still represents a huge cost for resorts large and small.
+
+127
+00:08:35,680 --> 00:08:40,640
+The snow sports business is, understandably, one of the most threatened industries by climate
+
+128
+00:08:40,640 --> 00:08:43,280
+change and the rising temperatures it can bring.
+
+129
+00:08:43,320 --> 00:08:47,800
+Now, the projected effects of climate change on mountainous areas are complicated.
+
+130
+00:08:47,800 --> 00:08:52,200
+It's not as simple as saying that temperatures are going to be higher and therefore it will
+
+131
+00:08:52,200 --> 00:08:53,360
+snow less.
+
+132
+00:08:53,360 --> 00:08:58,240
+In some places, the change in global climate will actually bring more precipitation and
+
+133
+00:08:58,240 --> 00:08:59,840
+therefore more snow.
+
+134
+00:08:59,840 --> 00:09:02,400
+In most, though, it's the opposite.
+
+135
+00:09:02,400 --> 00:09:07,360
+Lower altitude and more southern resorts especially will see their season lengths shrink and shrink
+
+136
+00:09:07,360 --> 00:09:08,360
+and shrink.
+
+137
+00:09:08,360 --> 00:09:12,880
+Eventually, and many of these, the number of days they stay open will not be enough
+
+138
+00:09:12,880 --> 00:09:17,780
+to pay the bills, especially as the use of expensive snowmaking increases.
+
+139
+00:09:17,780 --> 00:09:21,680
+Higher altitude and more northern resorts will actually likely benefit from this, at
+
+140
+00:09:21,680 --> 00:09:26,940
+least in the short term, as more people travel to them faced with fewer alternatives.
+
+141
+00:09:26,940 --> 00:09:30,820
+Looking at what's to come, the industry has become cognizant of this storm ahead and
+
+142
+00:09:30,820 --> 00:09:34,580
+started to make changes to address its primary threat.
+
+143
+00:09:34,580 --> 00:09:39,560
+While some are physical changes, like building more snowmaking capacity, most are changes
+
+144
+00:09:39,560 --> 00:09:41,840
+to the way they do business.
+
+145
+00:09:41,840 --> 00:09:46,200
+Money can overcome nature, at least for a while, so what they're doing is making sure
+
+146
+00:09:46,200 --> 00:09:47,520
+the money's still coming in.
+
+147
+00:09:47,520 --> 00:09:54,460
+Consequently, the North American ski industry has seen massive consolidation in recent years.
+
+148
+00:09:54,460 --> 00:09:59,120
+This trend only started in earnest five years ago when Vail Resorts, the company that owns
+
+149
+00:09:59,120 --> 00:10:01,560
+Vail, went on a spending spree.
+
+150
+00:10:01,560 --> 00:10:04,920
+In 2015, the company owned 11 resorts.
+
+151
+00:10:04,920 --> 00:10:09,280
+Now, five years later, they own 37.
+
+152
+00:10:09,280 --> 00:10:14,520
+The link this has to climate change is that now, Vail Resorts, which is a public company,
+
+153
+00:10:14,520 --> 00:10:18,800
+has properties spread out across different climates so, for example, if there's a bad
+
+154
+00:10:18,800 --> 00:10:23,120
+snow year in the Rockies, they always have properties in British Columbia where the snow
+
+155
+00:10:23,120 --> 00:10:24,120
+might be better.
+
+156
+00:10:24,120 --> 00:10:29,880
+They even own resorts in Australia, so Vail spins lifts somewhere on earth nearly year
+
+157
+00:10:29,880 --> 00:10:30,880
+round.
+
+158
+00:10:30,880 --> 00:10:36,080
+Not to be outdone, Aspen Skiing Company, which runs the four famous Aspen area resorts, teamed
+
+159
+00:10:36,080 --> 00:10:41,180
+up with KSL Capital Partners, a private equity firm, in 2018 and formed a joint venture to
+
+160
+00:10:41,180 --> 00:10:44,200
+compete against Vail, Altera Mountain Company.
+
+161
+00:10:44,200 --> 00:10:49,080
+Altera now owns a more modest 15 resorts across the US and Canada.
+
+162
+00:10:49,080 --> 00:10:53,340
+With the resorts they own and partner with, both of these companies released offerings
+
+163
+00:10:53,340 --> 00:10:57,080
+that are changing the financial formula of the ski industry.
+
+164
+00:10:57,080 --> 00:11:02,280
+For Vail, it's the Epic Pass, for Altera, it's the Icon Pass, but for both of them,
+
+165
+00:11:02,280 --> 00:11:06,800
+these are essentially season passes that, instead of working at just one place, work
+
+166
+00:11:06,800 --> 00:11:10,120
+at dozens of resorts worldwide.
+
+167
+00:11:10,120 --> 00:11:15,280
+This is a killer competitive move against independent resorts since, in many ways, these
+
+168
+00:11:15,280 --> 00:11:18,800
+are better for the consumer and better for the company.
+
+169
+00:11:18,800 --> 00:11:23,680
+The consumer gets variety and flexibility at prices not much different than single-resort
+
+170
+00:11:23,680 --> 00:11:29,080
+season passes, while the companies are selling more season passes, which is exactly what
+
+171
+00:11:29,080 --> 00:11:30,080
+they want.
+
+172
+00:11:30,080 --> 00:11:34,060
+That's because season passes hedge risk.
+
+173
+00:11:34,060 --> 00:11:38,440
+Even though they'll make more money in a day from someone buying a single-day pass,
+
+174
+00:11:38,440 --> 00:11:42,300
+those buying those day passes are highly weather-dependent.
+
+175
+00:11:42,300 --> 00:11:45,080
+If there's tons of snow, they'll send tons of day passes.
+
+176
+00:11:45,080 --> 00:11:48,540
+If there's little snow, they'll sell barely any.
+
+177
+00:11:48,540 --> 00:11:52,920
+Nobody wants their quarterly-earning reports to depend too much on the weather, especially
+
+178
+00:11:52,920 --> 00:11:57,840
+as it's getting worse, and so, by getting more of their customers onto season passes,
+
+179
+00:11:57,840 --> 00:12:01,500
+which are typically sold before the start of the season when there are few indications
+
+180
+00:12:01,500 --> 00:12:06,000
+of the season's snowfall, the consumer is sharing the risk with the company, and revenue
+
+181
+00:12:06,000 --> 00:12:08,960
+variability year-to-year will lower.
+
+182
+00:12:08,960 --> 00:12:14,020
+This is a crucial shift for the ski companies as year-to-year snow variation is expected
+
+183
+00:12:14,020 --> 00:12:15,800
+to only pick up.
+
+184
+00:12:15,800 --> 00:12:21,680
+So, in all, the real shift the ski industry is having to make is not how they run their
+
+185
+00:12:21,680 --> 00:12:24,880
+slopes, but rather how they make money.
+
+186
+00:12:24,880 --> 00:12:30,300
+For them, while they still might lobby, fundraise, and rally against it, they're now at a point
+
+187
+00:12:30,300 --> 00:12:35,400
+where reality is imminent, and climate change is all but another component of their financial
+
+188
+00:12:35,400 --> 00:12:38,060
+plans.
+
+189
+00:12:38,060 --> 00:12:42,100
+If you want a little bit more of the action side of snow sports and a little bit less
+
+190
+00:12:42,100 --> 00:12:47,680
+of the business side, believe it or not, CuriosityStream has something for you to watch next.
+
+191
+00:12:47,680 --> 00:12:52,660
+The series Jeremy Jones Hire follows professional snowboarder Jeremy Jones as he attempts to
+
+192
+00:12:52,660 --> 00:12:57,120
+be the first person to snowboard down sections of the Himalayas and shows everything that
+
+193
+00:12:57,120 --> 00:13:01,240
+goes on behind the scenes of an expedition as huge as that.
+
+194
+00:13:01,240 --> 00:13:06,160
+This goes to demonstrate just how diverse the selection of non-fiction shows and documentaries
+
+195
+00:13:06,160 --> 00:13:11,580
+CuriosityStream has, and they have even more through their bundle deal with Nebula.
+
+196
+00:13:11,580 --> 00:13:17,300
+Now, your CuriosityStream subscription, if you sign up at CuriosityStream.com slash Wendover,
+
+197
+00:13:17,300 --> 00:13:20,060
+comes with a Nebula subscription, too.
+
+198
+00:13:20,060 --> 00:13:24,300
+On Nebula, you'll find all the regular videos from loads of your favorite creators,
+
+199
+00:13:24,300 --> 00:13:28,040
+plus a bunch of their big, special, exclusive projects.
+
+200
+00:13:28,040 --> 00:13:33,260
+The first of mine was the documentary we made on St Helena, and then, in a few weeks, myself
+
+201
+00:13:33,260 --> 00:13:38,100
+and a crew are flying off to another far-flung part of the world to film our next documentary,
+
+202
+00:13:38,100 --> 00:13:40,160
+which will be out on Nebula soon.
+
+203
+00:13:40,160 --> 00:13:44,560
+You can watch this, plus all the other great originals on Nebula, plus the thousands of
+
+204
+00:13:44,560 --> 00:13:49,700
+documentaries and shows on CuriosityStream, for as little as $20 a year by signing up
+
+205
+00:13:49,700 --> 00:13:52,700
+at CuriosityStream.com slash Wendover.
+
+206
+00:13:52,700 --> 00:13:57,980
+This is truly the best deal in streaming, and even better, it goes to help support independent
+
+207
+00:13:57,980 --> 00:13:58,760
+creators.
+

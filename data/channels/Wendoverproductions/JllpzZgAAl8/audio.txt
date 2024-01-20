@@ -1,0 +1,68 @@
+So, there's this fantastic Wikipedia list descriptively titled Wikipedia colon unusual
+articles.
+I just remember it as that Wikipedia list.
+It's a collection of hundreds of articles about unusual, unexpected, and unbelievable
+subjects.
+No matter what link you click, it's bound to be interesting.
+For that reason, every week I'm going to click on a new link and teach you a little
+bit more about our amazing world.
+Maps are very hard to make.
+To create a map from scratch, one has to do years of field work or analyzation of satellite
+photos so plagiarism has always been rampant among map makers.
+It's pretty easy just to redraw the same geographical features from one map onto a
+new map and it's hard to get caught.
+You are, after all, drawing the exact same world.
+So map makers came up with a way to catch individuals stealing their data.
+This is Argleton in West Lancashire, England.
+According to a 2009 screenshot of Google Maps, Argleton is a town.
+It's supposedly located between Aten to the south and Ormskirk to the north.
+The problem is, if you go to this site, this is what you find.
+Argleton was placed on the map as a paper town.
+Paper towns are fake places that are put on maps as copyright traps.
+A map maker can make up a place and if they see that a competing map maker also has that
+town on their maps, they know that at one point the competitor plagiarized their info.
+So in Argleton's case, the town probably wasn't placed there by Google.
+Google gets their data from TeleAtlas who sources their data from other mapping companies,
+who in turn gets some of their data from other mapping companies.
+Somewhere down the line, someone must have placed Argleton on the map as a trap and its
+presence on Google Maps was just a remnant of that.
+After the fake town gained widespread media attention, Google removed it from their map
+and it has since been replaced with a marker designating the spot as a ghost town.
+There are hundreds of other examples of paper towns.
+In New York, a spot north of Roscoe, New York was marked as the town of Aglo by the General
+Drafting Company in 1930.
+The name came from an anagram of the cartographer's initials and appeared on numerous maps since
+its conception.
+In the 1960s, Aglo showed up on a Rand McNally map of the region and, thinking that they
+had fallen into their trap, Esso, who had bought the map from the General Drafting Company,
+threatened to sue McNally.
+The suit was dropped, though, when Rand McNally pointed that Aglo had actually become a real
+place.
+Sometime in the 1950s, locals opened up a general store north of Roscoe, New York and,
+after looking at an Esso map of the region, decided to call their store the Aglo General
+Store—therefore making Aglo an official place.
+The store eventually went out of business and the town is since disappeared from most
+maps, but this is one instance where a fake town became real.
+A similar idea to paper towns has been used in other domains.
+In 2001, the word asquivalence appeared in the New Oxford American Dictionary defined
+as the willful avoidance of one's official responsibilities.
+That word was made up as a copyright trap and it actually worked.
+Dictionary.com and Google's dictionary both added a listing for the word asquivalence,
+possibly proving a level of plagiarism among the online dictionaries.
+Occasionally, unintentional traps are created that prove effective.
+Before they created Apple Maps, Apple was making maps on a much smaller scale for iPhoto.
+These maps had no attributions and therefore no one could be sure where their data was
+from, but there were some obvious clues.
+This screenshot of Apple's map of Norweg shows an area of disorganized roads in the
+northeast.
+If you look at the OpenStreetMap map of the area, you can see that these roads are actually
+trails in a park.
+Overlaying the Apple map over the OSM map of the area, you can see how perfectly the
+supposed roads and trails line up.
+You can assume from this that Apple took their map data from OpenStreetMap and mistook the
+trails for roads.
+A few months after the release, Apple officially credited OpenStreetMap for their contributions
+to the maps, confirming that they used OSM's data.
+So those are paper towns.
+I hope you enjoyed this week's episode.
+I'll be back next week to bring you more from that Wikipedia list.

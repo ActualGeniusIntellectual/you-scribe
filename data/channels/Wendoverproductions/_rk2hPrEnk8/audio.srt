@@ -1,0 +1,604 @@
+1
+00:00:00,000 --> 00:00:05,300
+About a year ago, Andy George from the channel How to Make Everything released a video called
+
+2
+00:00:05,300 --> 00:00:08,940
+How to Make a $1500 Sandwich in Only 6 Months.
+
+3
+00:00:08,940 --> 00:00:13,100
+I made a chicken sandwich completely from scratch, which cost $1500 in six months of
+
+4
+00:00:13,100 --> 00:00:14,380
+my life.
+
+5
+00:00:14,380 --> 00:00:15,780
+The video was hugely successful.
+
+6
+00:00:15,780 --> 00:00:17,660
+It got millions of views.
+
+7
+00:00:17,660 --> 00:00:21,220
+Then, a few weeks ago, Andy came to me with a question.
+
+8
+00:00:21,220 --> 00:00:24,900
+Obviously I didn't use the most efficient method of making my sandwich, but why is there
+
+9
+00:00:24,900 --> 00:00:29,160
+such a huge gap in price between the sandwich I made for $1500 and one you can just buy
+
+10
+00:00:29,160 --> 00:00:31,540
+at a store for much less?
+
+11
+00:00:31,540 --> 00:00:36,320
+My nearest grocery store sells pre-made chicken sandwiches for two pounds—about two and
+
+12
+00:00:36,320 --> 00:00:37,820
+a half US dollars.
+
+13
+00:00:37,820 --> 00:00:41,300
+That's 600 times cheaper than Andy's sandwich.
+
+14
+00:00:41,300 --> 00:00:46,540
+The economic principle that really makes the modern commercial world go round is economies
+
+15
+00:00:46,540 --> 00:00:47,700
+of scale.
+
+16
+00:00:47,700 --> 00:00:52,160
+You might remember from history class that an important step in the development of humanity
+
+17
+00:00:52,160 --> 00:00:55,460
+was the beginning of specialization of labor.
+
+18
+00:00:55,460 --> 00:01:00,000
+That was the point when advancements in technology were far enough along that the amount of food
+
+19
+00:01:00,000 --> 00:01:04,840
+one person could produce was higher than the amount one person needed to survive.
+
+20
+00:01:04,840 --> 00:01:10,160
+Since there was a surplus, some people could go and do other things, like science, research,
+
+21
+00:01:10,160 --> 00:01:12,440
+writing, and even production.
+
+22
+00:01:12,440 --> 00:01:16,640
+This also helped spur the development of the first real cities since everyone didn't
+
+23
+00:01:16,640 --> 00:01:18,840
+have to live on farms.
+
+24
+00:01:18,840 --> 00:01:22,900
+Specialization of labor was in a way the very beginning of the use of economies of scale
+
+25
+00:01:22,900 --> 00:01:27,360
+because instead of everyone growing and making everything they needed, different people did
+
+26
+00:01:27,360 --> 00:01:31,240
+what they did best and exchanged goods to get what they needed.
+
+27
+00:01:31,240 --> 00:01:36,940
+Fast forward almost 10,000 years and the world is almost entirely specialized.
+
+28
+00:01:36,940 --> 00:01:41,280
+Individuals almost never make things for themselves, except for Andy George.
+
+29
+00:01:41,280 --> 00:01:45,500
+I challenged myself to see if I could as an individual make something as basic as a sandwich
+
+30
+00:01:45,500 --> 00:01:46,500
+entirely by myself.
+
+31
+00:01:46,500 --> 00:01:50,640
+I grew all my own vegetables, harvested and ground my own wheat to make bread, killed
+
+32
+00:01:50,640 --> 00:01:54,860
+and butchered my own chicken, and even flew all the way from Minneapolis to LA to collect
+
+33
+00:01:54,860 --> 00:01:57,060
+ocean water to boil down for salt.
+
+34
+00:01:57,060 --> 00:01:59,500
+The salt is what we're going to focus on.
+
+35
+00:01:59,500 --> 00:02:04,220
+The reason is because Andy's salt production process was almost identical to that of a
+
+36
+00:02:04,220 --> 00:02:05,460
+larger firm.
+
+37
+00:02:05,460 --> 00:02:10,700
+He had to gather raw materials, process it into a product, then transport it to a final
+
+38
+00:02:10,700 --> 00:02:11,700
+market.
+
+39
+00:02:11,700 --> 00:02:16,580
+Those three steps have been optimized in our modern world to yield insane cost reductions.
+
+40
+00:02:16,580 --> 00:02:23,880
+In order to make my salt, I spent $298.88 on a plane ticket, $57 to rent a boat, and
+
+41
+00:02:23,880 --> 00:02:27,160
+$6.41 for a five gallon jug.
+
+42
+00:02:27,160 --> 00:02:29,680
+All just to gather the few ounces of salt I needed.
+
+43
+00:02:29,680 --> 00:02:34,000
+He only needed a small amount, but for the same price, he could have gathered more than
+
+44
+00:02:34,000 --> 00:02:35,520
+a pound's worth.
+
+45
+00:02:35,520 --> 00:02:39,480
+For his six ounces of salt, Andy paid $362.40.
+
+46
+00:02:39,480 --> 00:02:45,680
+That's $52 per ounce, more than triple the cost of silver.
+
+47
+00:02:45,680 --> 00:02:50,780
+Each gallon of seawater yields about 4.5 ounces of salt when evaporated, so his five
+
+48
+00:02:50,780 --> 00:02:57,140
+gallon jug could have carried enough water to make 22.5 ounces of salt or 1.4 pounds.
+
+49
+00:02:57,140 --> 00:03:03,180
+At that production rate, the cost per ounce is $16, but we can make it even cheaper—we
+
+50
+00:03:03,180 --> 00:03:05,980
+just need more five gallon jugs.
+
+51
+00:03:05,980 --> 00:03:13,700
+If we buy, say, nine more five gallon jugs at $6.41 each, our total cost would be $419.98,
+
+52
+00:03:13,700 --> 00:03:17,600
+but we could make 14 pounds of salt.
+
+53
+00:03:17,600 --> 00:03:25,800
+That brings the cost down to $1.87 per ounce, but we can keep scaling this up to an extent.
+
+54
+00:03:25,800 --> 00:03:30,920
+Andy's method of transport was flying and at that base rate his total cargo capacity
+
+55
+00:03:30,920 --> 00:03:33,880
+was only the capacity of his carry-on bag.
+
+56
+00:03:33,880 --> 00:03:39,880
+The largest carry-on bags have a capacity of 45 liters or 11.8 gallons.
+
+57
+00:03:39,880 --> 00:03:45,060
+One gallon of salt weighs 18.1 pounds, so assuming nobody ever checks the bag, Andy
+
+58
+00:03:45,060 --> 00:03:48,980
+could have carried 213.6 pounds of salt.
+
+59
+00:03:48,980 --> 00:03:55,060
+To produce that much, Andy would have needed 153 five gallon jugs and the boat he was on
+
+60
+00:03:55,060 --> 00:03:59,700
+could have only carried about 10, so he would have needed to rent 15 more.
+
+61
+00:03:59,700 --> 00:04:05,640
+So if we add together the plane ticket, the 153 gallon jugs, and the 16 boat rentals,
+
+62
+00:04:05,640 --> 00:04:10,740
+we get a total price of $2,191.58.
+
+63
+00:04:10,740 --> 00:04:15,660
+A lot more, but it's worth it because at this production rate, the salt only costs
+
+64
+00:04:15,660 --> 00:04:19,840
+64 cents per ounce, but we can keep scaling.
+
+65
+00:04:19,840 --> 00:04:25,460
+The average rate to hire a Los Angeles based 40 foot semi-truck is $2 per mile.
+
+66
+00:04:25,460 --> 00:04:31,380
+To drive the 1,912 miles from Los Angeles, California to Minneapolis, Minnesota, it would
+
+67
+00:04:31,380 --> 00:04:35,720
+therefore cost $3,824.
+
+68
+00:04:35,720 --> 00:04:46,480
+The usable capacity for these trucks is 2,395 cubic feet or 17,916 liquid gallons or 325,000
+
+69
+00:04:46,480 --> 00:04:47,480
+pounds worth of salt.
+
+70
+00:04:47,480 --> 00:04:53,240
+Sounds great, but the US only allows a total gross weight of 80,000 pounds on the road
+
+71
+00:04:53,240 --> 00:04:57,680
+and that has to include the weight of the truck itself so the actual transport capacity
+
+72
+00:04:57,680 --> 00:05:00,680
+is only about 40,000 pounds.
+
+73
+00:05:00,680 --> 00:05:05,960
+Salt is just so dense that we can't load a truck to its full volume capacity.
+
+74
+00:05:05,960 --> 00:05:12,640
+So we'll just produce 40,000 pounds of salt and for that we'd need 2,857 boat rentals
+
+75
+00:05:12,640 --> 00:05:17,120
+and 28,571 five gallon jugs.
+
+76
+00:05:17,120 --> 00:05:21,640
+For the sake of explanation, we'll pretend that we can't reuse the five gallon jugs.
+
+77
+00:05:21,640 --> 00:05:32,040
+Those boat rentals would total up to $162,849 and the jugs would add up to $183,141.
+
+78
+00:05:32,040 --> 00:05:37,280
+So, including the transport cost by truck, producing 40,000 pounds of salt would cost
+
+79
+00:05:37,280 --> 00:05:39,280
+$349,814.
+
+80
+00:05:39,280 --> 00:05:44,620
+That's now a cost of $0.54 per ounce.
+
+81
+00:05:44,620 --> 00:05:49,120
+As you can see, as you get into higher and higher levels of production, the advantage
+
+82
+00:05:49,120 --> 00:05:51,640
+of producing more grows smaller.
+
+83
+00:05:51,640 --> 00:05:57,720
+It was 25 times cheaper to produce 214 pounds of salt than to produce 1.4 pounds of salt
+
+84
+00:05:57,720 --> 00:06:03,660
+on a 152 times increase in production, but increasing the production from 214 pounds
+
+85
+00:06:03,660 --> 00:06:11,200
+to 40,000 pounds—a 314 times increase—only decreases the price by 1.19 times.
+
+86
+00:06:11,200 --> 00:06:14,040
+Let's shake up the production process.
+
+87
+00:06:14,040 --> 00:06:18,600
+Instead of boiling the seawater down to salt in Los Angeles and transporting it to Minneapolis,
+
+88
+00:06:18,600 --> 00:06:23,520
+let's say that Andy transported the seawater to Minneapolis then boiled it down.
+
+89
+00:06:23,520 --> 00:06:25,000
+What would it cost then?
+
+90
+00:06:25,000 --> 00:06:30,760
+Well, seawater weighs about 8.6 pounds per gallon and once again, we can only carry about
+
+91
+00:06:30,760 --> 00:06:35,260
+40,000 pounds or 4,651 gallons.
+
+92
+00:06:35,260 --> 00:06:47,720
+This will cost $3,824 for the truck, $5,968 for 931 five gallon jugs, $5,358 for 94 boat
+
+93
+00:06:47,720 --> 00:06:53,700
+rentals, and in the end will only yield 1,308 pounds of salt.
+
+94
+00:06:53,700 --> 00:06:58,640
+To make these 1,308 pounds, we spent 60 cents per ounce.
+
+95
+00:06:58,640 --> 00:07:02,600
+A difference of 6 cents per gallon may not seem like a big deal, but once you get to
+
+96
+00:07:02,600 --> 00:07:10,760
+the scale of producing, say, 100,000 pounds of salt, those 6 cents add up to $96,000—more
+
+97
+00:07:10,760 --> 00:07:14,360
+than the price of a Tesla Model S.
+
+98
+00:07:14,360 --> 00:07:18,040
+This demonstrates a very important principle in manufacturing.
+
+99
+00:07:18,040 --> 00:07:23,080
+There are essentially two types of products—weight losing and weight gaining.
+
+100
+00:07:23,080 --> 00:07:26,720
+Salt is one of the greatest examples of a weight losing product.
+
+101
+00:07:26,720 --> 00:07:32,400
+You put in a lot of raw materials, in this case seawater, to make a little product.
+
+102
+00:07:32,400 --> 00:07:36,440
+Obviously it doesn't make sense to ship the raw seawater cross country when you can
+
+103
+00:07:36,440 --> 00:07:39,000
+just boil it down in Los Angeles.
+
+104
+00:07:39,000 --> 00:07:43,480
+This is why processing plants for almost all weight losing products will be located near
+
+105
+00:07:43,480 --> 00:07:45,040
+the source.
+
+106
+00:07:45,040 --> 00:07:47,640
+The other type of product is weight gaining.
+
+107
+00:07:47,640 --> 00:07:53,280
+You take a small amount of raw material and make it into something much heavier or larger.
+
+108
+00:07:53,280 --> 00:07:55,980
+A great example of this is Coca-Cola.
+
+109
+00:07:55,980 --> 00:08:01,240
+They have more than 900 bottling plants worldwide just so they can lower costs.
+
+110
+00:08:01,240 --> 00:08:06,360
+If transport was not a factor at all, they could achieve lower costs by having one single
+
+111
+00:08:06,360 --> 00:08:07,360
+mega-factoring.
+
+112
+00:08:07,360 --> 00:08:12,140
+But once their soda is made, they still have to get it to the end consumer.
+
+113
+00:08:12,140 --> 00:08:16,340
+The cost of transport is closely linked to weight so since they just take a small amount
+
+114
+00:08:16,340 --> 00:08:21,540
+of flavors and ingredients and add it to water—something available almost anywhere—it makes sense
+
+115
+00:08:21,540 --> 00:08:24,540
+to produce their product near the end consumer.
+
+116
+00:08:24,540 --> 00:08:30,180
+Overall, we achieved a 92-fold reduction in cost of salt by using the principles of mass
+
+117
+00:08:30,180 --> 00:08:31,340
+production.
+
+118
+00:08:31,340 --> 00:08:36,140
+Every single ingredient Andy George used to make his $1,500 sandwich could have benefited
+
+119
+00:08:36,140 --> 00:08:38,520
+from the principles of mass production.
+
+120
+00:08:38,520 --> 00:08:40,320
+We also could have gone even further.
+
+121
+00:08:40,320 --> 00:08:43,520
+We could have rented a bigger boat, used bigger containers.
+
+122
+00:08:43,520 --> 00:08:46,880
+There were plenty of ways we could have driven down prices even more.
+
+123
+00:08:46,880 --> 00:08:52,240
+But these type of cost reductions make the difference in our modern world between a $1,500
+
+124
+00:08:52,240 --> 00:08:54,860
+and a $5 chicken sandwich.
+
+125
+00:08:54,860 --> 00:08:57,400
+I hope you enjoyed this Wendover Productions video.
+
+126
+00:08:57,400 --> 00:09:01,220
+I first need to give a huge thanks to my sponsor, Lumerit.
+
+127
+00:09:01,220 --> 00:09:06,640
+As I'm sure you know from my old why college is so expensive video, college is expensive.
+
+128
+00:09:06,640 --> 00:09:09,720
+And Lumerit helps you do college for less.
+
+129
+00:09:09,720 --> 00:09:13,760
+Whether you're already in college or want to be, Lumerit Scholar helps you get the same
+
+130
+00:09:13,760 --> 00:09:17,960
+degree from the same college for thousands of dollars less.
+
+131
+00:09:17,960 --> 00:09:23,060
+Lumerit allows you to take up to three years of college from anywhere in the world on your
+
+132
+00:09:23,060 --> 00:09:27,080
+own schedule for $4,000 a year or less.
+
+133
+00:09:27,080 --> 00:09:31,280
+Once you're ready to enroll in a traditional college, their in-house degree specialists
+
+134
+00:09:31,280 --> 00:09:34,280
+will make sure that all your earned credits transfer.
+
+135
+00:09:34,280 --> 00:09:39,600
+If this sounds interesting to you, head over to go.lumerit.com slash wendover to see how
+
+136
+00:09:39,600 --> 00:09:41,760
+much you could save with Lumerit Scholar.
+
+137
+00:09:41,760 --> 00:09:46,060
+They'll send you an email and then you'll receive a one-on-one consultation to see if
+
+138
+00:09:46,060 --> 00:09:47,820
+Lumerit is right for you.
+
+139
+00:09:47,820 --> 00:09:52,540
+Please be sure to also check out Andy George's channel, How to Make Everything, for all sorts
+
+140
+00:09:52,540 --> 00:09:55,420
+of great videos on making things from scratch.
+
+141
+00:09:55,420 --> 00:10:01,260
+He just released a great video exploring where the money you pay for coffee actually goes,
+
+142
+00:10:01,260 --> 00:10:05,500
+somewhat similar to my why flying is so expensive video, so you'll see an appearance from
+
+143
+00:10:05,500 --> 00:10:06,500
+yours truly.
+
+144
+00:10:06,500 --> 00:10:11,020
+I also recently started a Patreon, which you can go to by clicking here.
+
+145
+00:10:11,020 --> 00:10:15,700
+There are a bunch of great rewards like early access to videos, stickers, t-shirts, and
+
+146
+00:10:15,740 --> 00:10:20,300
+best of all, every dollar contributed over there goes right back into the channel.
+
+147
+00:10:20,300 --> 00:10:26,140
+Aside from that, please follow me on Twitter at wendoverpro, watch my last video on urban
+
+148
+00:10:26,140 --> 00:10:34,140
+geography, check out my fan-moderated subreddit at www.reddit.com slash r slash wendoverproductions,
+
+149
+00:10:34,140 --> 00:10:36,100
+and most of all, subscribe to this channel.
+
+150
+00:10:36,100 --> 00:10:40,540
+Thanks again for watching, and I'll see you in two weeks for another Wendover Productions
+
+151
+00:10:40,540 --> 00:10:41,040
+video.
+

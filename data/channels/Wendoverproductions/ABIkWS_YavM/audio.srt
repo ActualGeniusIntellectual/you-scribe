@@ -1,0 +1,680 @@
+1
+00:00:00,000 --> 00:00:02,800
+This video was made possible by Audible.
+
+2
+00:00:02,800 --> 00:00:07,740
+Get any audiobook for free by going to audible.com slash wendover.
+
+3
+00:00:07,740 --> 00:00:13,160
+The global petroleum industry lives and dies by the price of oil.
+
+4
+00:00:13,160 --> 00:00:19,480
+This number, a gauge of the average amount paid for a barrel, 42 gallons, or 159 liters,
+
+5
+00:00:19,480 --> 00:00:25,060
+is responsible for enormous shifts in the field—shifts that lead to the rise of some
+
+6
+00:00:25,060 --> 00:00:31,300
+nations and the fall of others—shifts that change where and how people get their energy.
+
+7
+00:00:31,300 --> 00:00:37,180
+That's because, just because there's more or less one global price, there are innumerable
+
+8
+00:00:37,180 --> 00:00:42,460
+different production costs depending on where and how the oil is extracted.
+
+9
+00:00:42,460 --> 00:00:46,860
+One country's barrel of oil can cost dozens of times more than another's, but then even
+
+10
+00:00:46,860 --> 00:00:50,140
+within the same country, the costs are not the same.
+
+11
+00:00:50,140 --> 00:00:52,460
+It's more of a curve.
+
+12
+00:00:52,460 --> 00:00:56,220
+A given country's cost looks more or less like this.
+
+13
+00:00:56,220 --> 00:01:01,100
+At a lower level of production, the average overall cost to produce a barrel of oil would
+
+14
+00:01:01,100 --> 00:01:06,500
+be a certain amount but then, as the total production increases, that average per barrel
+
+15
+00:01:06,500 --> 00:01:11,740
+cost also increases up until a point where the curve turns into a nearly vertical line
+
+16
+00:01:11,740 --> 00:01:15,180
+because a country's production capacity has been reached.
+
+17
+00:01:15,180 --> 00:01:19,420
+This is because oil is found in plenty of different places.
+
+18
+00:01:19,420 --> 00:01:23,900
+Sometimes it's found under a big empty field near a major road, but sometimes it's found
+
+19
+00:01:23,900 --> 00:01:27,880
+under thousands of feet of ocean nowhere near the coast.
+
+20
+00:01:27,880 --> 00:01:33,640
+Between these two, it's pretty easy to understand where it would be more expensive to extract.
+
+21
+00:01:33,640 --> 00:01:38,500
+On that national cost curve, though, one must also put a horizontal line.
+
+22
+00:01:38,500 --> 00:01:40,620
+That's the oil price.
+
+23
+00:01:40,620 --> 00:01:46,260
+If the price is here, then it makes sense to produce up to that amount of oil—anymore,
+
+24
+00:01:46,260 --> 00:01:49,980
+and a barrel of oil would cost more to produce than what it sells for.
+
+25
+00:01:49,980 --> 00:01:54,600
+If the oil price moves up, though, then it makes sense to increase production even when
+
+26
+00:01:54,600 --> 00:02:00,460
+it raises the cost per barrel, and that's what happened for most of the last 50 years.
+
+27
+00:02:00,460 --> 00:02:07,460
+The oil price rose, with some up and down, from $20 in 1973 to a peak of over $140 in
+
+28
+00:02:07,460 --> 00:02:08,460
+2008.
+
+29
+00:02:08,460 --> 00:02:13,740
+Throughout that time, as long as an oil company could find a way to produce a barrel of oil
+
+30
+00:02:13,740 --> 00:02:17,980
+for less than the current price, they were guaranteed a profit.
+
+31
+00:02:17,980 --> 00:02:22,260
+That's what brought them from the field to the ocean.
+
+32
+00:02:22,260 --> 00:02:27,660
+Offshore oil rigs are inherently a higher-cost, higher-risk method of oil extraction, but
+
+33
+00:02:27,660 --> 00:02:32,480
+the oceans are, of course, home to a huge proportion of the world's oil reserves,
+
+34
+00:02:32,480 --> 00:02:38,220
+so if there are no more low-cost oil fields on land, that's where the companies go.
+
+35
+00:02:38,220 --> 00:02:42,620
+Before starting operations, though, these companies need to decide exactly where to
+
+36
+00:02:42,620 --> 00:02:43,620
+go.
+
+37
+00:02:43,620 --> 00:02:48,220
+Now, usually, oil platforms are installed where there are already plenty of other platforms
+
+38
+00:02:48,220 --> 00:02:53,620
+such as in the Persian Gulf, the Gulf of Mexico, or the North Sea—they cluster together.
+
+39
+00:02:53,620 --> 00:02:58,440
+Within these areas, though, they need to determine which exact spot has the greatest potential
+
+40
+00:02:58,440 --> 00:03:03,880
+for oil extraction, so geologists conduct surveys using ships and satellite imagery.
+
+41
+00:03:03,880 --> 00:03:08,980
+Once that spot is selected, a rig will be towed to its location and installed.
+
+42
+00:03:08,980 --> 00:03:14,220
+Once they're put in location, offshore oil platforms often don't move for years—they're
+
+43
+00:03:14,220 --> 00:03:17,860
+intended for long-term operation in a single spot.
+
+44
+00:03:17,860 --> 00:03:21,620
+Despite this, though, they operate quite differently from ships.
+
+45
+00:03:21,620 --> 00:03:26,620
+Usually, those working onboard have a shift of 12 hours a day, every day, for a period
+
+46
+00:03:26,620 --> 00:03:31,180
+of two or three weeks, followed by two or three weeks off onshore.
+
+47
+00:03:31,180 --> 00:03:34,980
+Keeping those work hours dense means that fewer people onboard are not working at a
+
+48
+00:03:34,980 --> 00:03:38,220
+given time, which means that less space is needed for accommodations.
+
+49
+00:03:38,220 --> 00:03:43,940
+But, of course, this pattern means that there's quite a lot of back and forth between shore
+
+50
+00:03:43,940 --> 00:03:45,100
+and rig.
+
+51
+00:03:45,100 --> 00:03:47,760
+For that, they use helicopters.
+
+52
+00:03:47,760 --> 00:03:52,440
+This is actually one of the largest commercial applications of helicopters and huge companies
+
+53
+00:03:52,440 --> 00:03:57,460
+have emerged, especially in the past few decades, to serve offshore oil rigs.
+
+54
+00:03:57,460 --> 00:04:02,760
+Bristow Aviation, one of the largest, has a fleet of almost 500, mostly used to make
+
+55
+00:04:02,760 --> 00:04:04,540
+these offshore flights.
+
+56
+00:04:04,540 --> 00:04:09,620
+The North Sea oilfield is primarily linked with Aberdeen, Scotland onshore, at least
+
+57
+00:04:09,620 --> 00:04:12,300
+for its UK-owned or operated platforms.
+
+58
+00:04:12,300 --> 00:04:17,020
+Aberdeen Airport, a primarily regional airport that only has commercial passenger flights
+
+59
+00:04:17,020 --> 00:04:23,000
+to a couple dozen European destinations, happens to be the world's busiest heliport.
+
+60
+00:04:23,000 --> 00:04:28,000
+About 100 large helicopters take off from here each day, mostly flying out to the North
+
+61
+00:04:28,000 --> 00:04:29,140
+Sea.
+
+62
+00:04:29,140 --> 00:04:32,720
+But Aberdeen is also linked to the oilfields another way.
+
+63
+00:04:32,720 --> 00:04:36,320
+It serves as a hub for the ships that service the rigs.
+
+64
+00:04:36,320 --> 00:04:41,400
+Now, especially in the North Sea, oil makes its way from the rigs to shore by undersea
+
+65
+00:04:41,400 --> 00:04:46,080
+pipeline, so there isn't need to bring much back, but they do need to be frequently replenished
+
+66
+00:04:46,080 --> 00:04:49,800
+with supplies—both for the humans and the rigs' operations.
+
+67
+00:04:49,800 --> 00:04:54,800
+That's the job of platform supply vessels, which are essentially mini short-range flexible
+
+68
+00:04:54,800 --> 00:04:56,120
+cargo ships.
+
+69
+00:04:56,120 --> 00:05:01,080
+Aberdeen Harbor is always abuzz with activity, filling up these vessels, to keep the hundreds
+
+70
+00:05:01,080 --> 00:05:04,240
+of offshore platforms themselves supplied.
+
+71
+00:05:04,240 --> 00:05:09,080
+Onboard, there are essentially three types of jobs—production, those directly involved
+
+72
+00:05:09,080 --> 00:05:13,360
+with the extraction and processing of oil, maintenance, those who keep the facilities
+
+73
+00:05:13,360 --> 00:05:18,280
+and equipment in working order, and service, those who cook or clean or care for the rest
+
+74
+00:05:18,280 --> 00:05:19,280
+of the crew.
+
+75
+00:05:19,280 --> 00:05:23,320
+There's always a focus, within the companies operating these platforms, to minimize the
+
+76
+00:05:23,320 --> 00:05:27,040
+numbers of people working actually on board as much as possible.
+
+77
+00:05:27,400 --> 00:05:31,740
+It's expensive first to transport and supply these workers, and then their salaries are
+
+78
+00:05:31,740 --> 00:05:36,560
+also considerably higher than typical onshore salaries in the petroleum industry.
+
+79
+00:05:36,560 --> 00:05:42,960
+An average offshore salary in the UK is around $60,000 or $70,000—nearly double the national
+
+80
+00:05:42,960 --> 00:05:44,240
+average wage.
+
+81
+00:05:44,240 --> 00:05:48,840
+Therefore, most management and high-level decisions are made by workers back onshore
+
+82
+00:05:48,840 --> 00:05:52,340
+who videoconference in to the platforms to coordinate.
+
+83
+00:05:52,340 --> 00:05:56,320
+Workers on board are, for the most part, strictly operational.
+
+84
+00:05:56,320 --> 00:06:01,480
+On the inside, these platforms look a lot like ships—the rooms are small and the recreation
+
+85
+00:06:01,480 --> 00:06:03,280
+areas are sparse.
+
+86
+00:06:03,280 --> 00:06:07,540
+There isn't, after all, much downtime given the long hours while on board.
+
+87
+00:06:07,540 --> 00:06:12,440
+The platforms are more or less self-sufficient—even though they're usually within a couple hundred
+
+88
+00:06:12,440 --> 00:06:17,680
+miles of shore, ships only resupply sporadically, and helicopter flights are expensive, so water
+
+89
+00:06:17,680 --> 00:06:20,380
+and electricity are produced on board.
+
+90
+00:06:20,380 --> 00:06:24,920
+As you would imagine, the rigs themselves are also hugely expensive to build.
+
+91
+00:06:24,920 --> 00:06:31,540
+That's because, what you see, the platform, is only a small component of the overall structure.
+
+92
+00:06:31,540 --> 00:06:36,480
+With all designs, there's hundreds or thousands of feet of undersea drilling equipment, but
+
+93
+00:06:36,480 --> 00:06:39,120
+with some, there's far more.
+
+94
+00:06:39,120 --> 00:06:43,960
+Certain platforms are floating, anchored to the ocean floor, but others are rather massive
+
+95
+00:06:43,960 --> 00:06:45,800
+undersea towers.
+
+96
+00:06:45,800 --> 00:06:51,120
+The tallest in existence is the Petronius platform, which has almost 2,000 feet or 600
+
+97
+00:06:51,120 --> 00:06:54,800
+meters of undersea towering to support the platform itself.
+
+98
+00:06:54,800 --> 00:06:59,440
+This made it, until the opening of the Burj Khalifa in 2010, the tallest free-standing
+
+99
+00:06:59,440 --> 00:07:01,380
+structure in the world.
+
+100
+00:07:01,380 --> 00:07:05,880
+The development, construction, and installation costs of this platform were therefore about
+
+101
+00:07:05,880 --> 00:07:08,720
+$500 million.
+
+102
+00:07:08,720 --> 00:07:13,280
+And in fact, those costs are completely typical, if not low.
+
+103
+00:07:13,280 --> 00:07:16,600
+Plenty of platforms cost far closer to a billion dollars.
+
+104
+00:07:16,600 --> 00:07:23,000
+So, the question that oil companies are now beginning to pose would be, is it worth it?
+
+105
+00:07:23,000 --> 00:07:28,280
+Well, there's the short-term answer to that question and there's the long-term answer.
+
+106
+00:07:28,280 --> 00:07:31,360
+In the short-term, the answer is definitively no.
+
+107
+00:07:31,360 --> 00:07:36,480
+At the time of writing, in April 2020, oil prices are hovering in the $20s of dollars
+
+108
+00:07:36,480 --> 00:07:41,440
+per barrel—artificially lowered by a price war between Russia and Saudi Arabia, and naturally
+
+109
+00:07:41,440 --> 00:07:45,080
+lowered by a drop in demand due to the COVID-19 pandemic.
+
+110
+00:07:45,080 --> 00:07:50,000
+There likely is not a single offshore oil platform in the world turning a profit at
+
+111
+00:07:50,000 --> 00:07:51,500
+those prices.
+
+112
+00:07:51,500 --> 00:07:55,460
+Platforms like the North Sea, which have particularly high costs due to their workforce coming from
+
+113
+00:07:55,460 --> 00:08:00,180
+relatively high-wage countries like Scotland, England, and Norway, have seen their output
+
+114
+00:08:00,180 --> 00:08:05,740
+reduced since oil reached a peak price up until 2014—it's just far cheaper to buy
+
+115
+00:08:05,740 --> 00:08:08,660
+oil from onshore production facilities.
+
+116
+00:08:08,660 --> 00:08:14,700
+So, in the year of 2020, oil platforms just don't make sense.
+
+117
+00:08:14,700 --> 00:08:19,940
+In the longer term, though, oil platforms could turn a profit, and that's why they're
+
+118
+00:08:19,940 --> 00:08:20,940
+kept around.
+
+119
+00:08:21,380 --> 00:08:26,340
+In a high-price oil environment, there likely isn't enough onshore capacity to fulfill
+
+120
+00:08:26,340 --> 00:08:31,260
+demand, and so these offshore platforms are how oil companies fulfill demand to increase
+
+121
+00:08:31,260 --> 00:08:32,260
+profits.
+
+122
+00:08:32,260 --> 00:08:37,340
+There's much less short-term flexibility with offshore platforms than onshore installations,
+
+123
+00:08:37,340 --> 00:08:42,120
+so typically the oil platforms are kept running in the medium-term, and then in the short-term
+
+124
+00:08:42,120 --> 00:08:44,620
+onshore production is scaled more to demand.
+
+125
+00:08:44,620 --> 00:08:49,420
+But there are long-term costs that oil companies might not have fully previously considered
+
+126
+00:08:49,780 --> 00:08:53,760
+when offshore production first began at a large scale decades ago.
+
+127
+00:08:53,760 --> 00:08:59,180
+This was all realized with the BP Deepwater Horizon Platforms explosion and subsequent
+
+128
+00:08:59,180 --> 00:09:06,180
+oil spill in 2010—almost 5 million barrels spilled out into the Gulf of Mexico.
+
+129
+00:09:06,180 --> 00:09:10,860
+The full economic and environmental costs are still not fully realized a decade later,
+
+130
+00:09:10,860 --> 00:09:15,940
+but they certainly far eclipse the costs borne by BP itself, but the company spent about
+
+131
+00:09:15,940 --> 00:09:20,340
+$65 billion cleaning up and settling claims related to the incident, and their market
+
+132
+00:09:20,340 --> 00:09:25,200
+value dropped by about $60 billion—that's equivalent to about two to three years of
+
+133
+00:09:25,200 --> 00:09:26,200
+their profit.
+
+134
+00:09:26,200 --> 00:09:30,540
+And it's not like the Deepwater Horizon will be the last oil spill.
+
+135
+00:09:30,540 --> 00:09:35,320
+There might have been reforms, and there might be more attention, but oil spills are just
+
+136
+00:09:35,320 --> 00:09:37,520
+a byproduct of the business.
+
+137
+00:09:37,520 --> 00:09:42,560
+The immense cost they impose on both the companies responsible and the areas they alter will
+
+138
+00:09:42,560 --> 00:09:44,920
+not go away.
+
+139
+00:09:44,920 --> 00:09:50,740
+Even without considering their immense environmental cost, to the company, oil platforms have emerged
+
+140
+00:09:50,740 --> 00:09:55,760
+as high-risk, low-reward alternatives to onshore extraction methods.
+
+141
+00:09:55,760 --> 00:10:01,140
+That's not a desirable combination by itself, and it's coupled with widespread public
+
+142
+00:10:01,140 --> 00:10:03,560
+sentiment against offshore drilling.
+
+143
+00:10:03,560 --> 00:10:08,780
+That's a losing combination for everyone, and for that reason, there really hasn't
+
+144
+00:10:08,780 --> 00:10:13,080
+been any expansion in the industry in the past decade and a half.
+
+145
+00:10:13,080 --> 00:10:17,660
+The world has been producing about 20 million barrels of oil from offshore sources per day
+
+146
+00:10:17,660 --> 00:10:22,800
+since about 2005, despite oil demand increasing, and yet there's little evidence that this
+
+147
+00:10:22,800 --> 00:10:26,420
+will ramp up in the future in a free-market environment.
+
+148
+00:10:26,420 --> 00:10:30,860
+The only reason it might is if governments artificially prop up this production method
+
+149
+00:10:30,860 --> 00:10:34,140
+in order to ensure their oil needs are fulfilled domestically.
+
+150
+00:10:34,140 --> 00:10:39,260
+That's possible in a place like the UK, with vast offshore production but very limited
+
+151
+00:10:39,260 --> 00:10:44,760
+onshore, but with the recent decline in North Sea oil, it's not a future that oil companies
+
+152
+00:10:44,760 --> 00:10:48,100
+themselves are likely interested in pursuing.
+
+153
+00:10:48,100 --> 00:10:51,260
+This isn't some great win for the environment, though.
+
+154
+00:10:51,260 --> 00:10:55,780
+Onshore extraction is hardly better than offshore, but it does mean that, in the current oil
+
+155
+00:10:55,780 --> 00:11:01,720
+environment, the makeup of who, how, and where the world gets its energy is changing ever
+
+156
+00:11:01,720 --> 00:11:04,320
+faster.
+
+157
+00:11:04,320 --> 00:11:08,780
+The story of the Deepwater Horizon explosion and spill is a fascinating one, and there's
+
+158
+00:11:09,300 --> 00:11:13,100
+a great book that goes into immense detail of the saga the workers on the platform went
+
+159
+00:11:13,100 --> 00:11:16,500
+through to save lives and escape in its first hours.
+
+160
+00:11:16,500 --> 00:11:21,700
+It's called Fire on the Horizon, and it gives a fantastic glimpse into the perils
+
+161
+00:11:21,700 --> 00:11:23,060
+of such a job.
+
+162
+00:11:23,060 --> 00:11:28,120
+Like many great stories, it is available as an audiobook on Audible, so that means that,
+
+163
+00:11:28,120 --> 00:11:33,680
+by signing up for a trial at audible.com slash wendover or by texting wendover to 500-500,
+
+164
+00:11:33,680 --> 00:11:35,780
+you can get it for free.
+
+165
+00:11:35,780 --> 00:11:39,220
+If that doesn't sound like your thing, though, and you're a sci-fi fan like me,
+
+166
+00:11:39,220 --> 00:11:42,500
+I would wholeheartedly recommend Recursion by Blake Crouch.
+
+167
+00:11:42,500 --> 00:11:47,900
+It's a terrifically unique story, and its performance on Audible is fantastic.
+
+168
+00:11:47,900 --> 00:11:53,720
+So, once again, by signing up at audible.com slash wendover, you can get Recursion, Fire
+
+169
+00:11:53,720 --> 00:11:59,020
+on the Horizon, or any audiobook for free plus Audible Originals, and you'll be supporting
+
+170
+00:11:59,020 --> 00:12:01,220
+Wendover Productions while you're at it.
+

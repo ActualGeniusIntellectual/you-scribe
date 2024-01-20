@@ -1,0 +1,300 @@
+For three June days, the epicenter of the creator economy coalesced here, in the heart
+of sprawling Southern California.
+Gone for three years, the return of VidCon to the Anaheim Convention Center was a big
+deal.
+Since its inaugural year, piloted by John and Hank Green on a tight budget and attended
+by a thousand and change in a Hyatt basement in 2010, each VidCon, effectively mirroring
+the growing industry itself, has one-upped the last.
+Former attendees, bigger creators, and glitzier booths each year became the norm from 2010
+to 2019.
+Considering such an upward trajectory, along with the growth of the creator industry in
+its absence, this VidCon was much anticipated, and broadly, it didn't disappoint.
+It was, however, different.
+Like VidCons before, companies competed for attention with photo booths, free snacks,
+and interactive attractions, fans showed up in droves, and creators pulled healthy audiences
+to schedule talks, but it felt different, and major media outlets took note.
+Many identified the change in presenting sponsor from YouTube to TikTok as a potential changing
+of the guard, while others noted a relative dearth of big-name YouTubers in attendance.
+What everyone covering the event missed was perhaps the biggest change of all.
+Away from the conference floor itself, and tucked away upstairs and off-site, platforms,
+companies, and agencies quietly competed for creators' attention in exclusive, backstage
+lounges and parties set up by the likes of Meta, Jellysmack, YouTube, Carrot, and Snapchat.
+In the three-year absence, the creator economy had grown into a matured, diversified, $100
+billion business.
+But behind all the pomp and circumstance of the big events, the stiff competition between
+the different platforms, and the wining and dining by agencies, companies, and brands
+is of course the creator, their content, and their income.
+As an example, let's say there's a YouTube creator with 2 million subscribers who averages
+1 million views per video.
+How do they make money, and how much?
+The well-known core of any YouTuber's income is AdSense—the system that serves the ads
+before, during, and after videos.
+This hypothetical channel could expect to earn about $4,000 in AdSense revenue for their
+million views, based on a typical revenue per meal rate, or RPM, of $4—meaning they
+earn $4 per thousand views.
+However, there is wild inconsistency on AdSense RPMs from creator to creator.
+The AdSense system's selling point for advertisers is its ability to target ads to
+be served to audiences with particular geographies, demographics, or interests.
+So, creator income all has to do with how valuable their audience is to advertisers.
+Advertisers only pay one-fifth the average to reach customers in Brazil, likely as Brazilian
+spending power is lower, so if our hypothetical channel was produced in Portuguese, and therefore
+had a big chunk of its audience in Brazil, it likely would earn a lower than average
+RPM.
+On those million views, the creator might only earn $1,200.
+Meanwhile, advertisers value audiences with particular interests quite highly.
+Creators making videos about business or finance tend to have quite high RPMs, because there
+are loads of investment platforms, banks, crypto companies, and others competing to
+get those valuable advertising spots seen by an older, wealthier, financially savvy
+audience.
+If our creator made a US-based, English-language personal finance channel, they might earn
+$8,000 in AdSense on those million views.
+But for the sake of realism, let's assume the average—let's assume a $4 RPM, translating
+to $4,000 in AdSense income.
+But there's plenty of opportunity to dramatically grow the value of those million views.
+Perhaps the most common is sponsorship—early into the development of the creator economy,
+advertising agencies notice something.
+The most effective means of selling something off of the attention a creator's work attracts
+is through the creator.
+Using a 45-second externally produced AdSense ad before the video versus a 45-second sponsorship
+voiced by the creator at the end, the latter overwhelmingly leads to more sign-ups.
+With this recognition, the influencer marketing business was born.
+Influencer marketing is a little more complex than AdSense.
+Typically, YouTube sponsorship is used by brands looking for sign-ups—it's conversion
+marketing, not awareness marketing.
+You wouldn't expect Coke, for example, to sponsor a YouTube video, because their marketing
+focuses on assuring people think about Coke so they buy it when the opportunity arises,
+rather than getting people to buy a Coke at that exact moment.
+More often than not, the companies that do find YouTuber influencer marketing worthwhile
+are either Online Subscription Services, Audible, CuriosityStream, Squarespace, BetterHelp,
+or direct-to-consumer subscription brands—HelloFresh, Dollar Shave Club, Shaker, and Spoon.
+With the subscription model boosting the lifetime value of an individual customer, Dollar Shave
+Club can afford to spend more to get a given customer than Gillette, for example.
+Why this works for them is because of that link in the description.
+Most sponsorships include a certain percent discount when users sign up through the creator's
+dedicated link.
+Not only does this drive increased performance, but it also assures that the hugely valuable
+data tracking an individual spot's effectiveness stays accurate as it incentivizes users to
+follow the dedicated link rather than the primary sign-up flow.
+Almost every brand.com slash creator link operates as a tracking URL, capturing data
+about how many people click through, how many people sign up, and even how long these
+sign-ups stick around as customers.
+These individualized data allow for a level of optimization far above what's possible
+with TV, radio, or billboards, and provide a simple mechanism to monitor whether the
+campaign is actually providing a return on investment.
+But what these data have also illuminated is the huge degree of spread in the worth
+of a view from creator to creator.
+What influences this more than anything is the strength of the parasocial relationship.
+Parasocial relationships are a well-documented psychological phenomena where individuals
+start to feel as if they have a genuine relationship with a personality that they have repeated
+exposure to through media, even when they have never met or interacted with said personality.
+People trust their friends, and so they also trust those that they have a parasocial relationship
+with.
+Therefore, the stronger the parasocial relationship, the more effective a given call to action
+is.
+YouTube creators can and do make certain content decisions to improve the parasocial relationship—being
+on camera boosts it, so does injecting more personality into videos—speaking in a less-scripted
+manner does too.
+Even keeping visual quality relatively simple has proved successful in boosting the parasocial
+relationship as it can help make videos feel like they're made by a person rather than
+a company.
+For creators, the process of figuring out what a given sponsorship is worth is complicated.
+It all starts, of course, with the sponsor, but most companies' marketing divisions
+are set up to write big checks to outside ad agencies that design and execute a given
+campaign.
+Even with individual YouTube sponsorships running well into the tens or even hundreds
+of thousands of dollars, these companies are used to working in the millions, so they generally
+contract a specialized influencer marketing agency like Semaphore, the OutLoud Group,
+or Veritone One to divide up the check and run the campaign.
+If a personal finance app is running a $2 million campaign with a $35 target cost per
+acquisition, the agency's job is to properly price, book, and manage the individual spots
+to drive 57,143 or more conversions into paying customers.
+The performance variability for sponsorships is even greater than that of AdSense, but
+with this sort of target CPA and this sort of product, creators often range between 500
+and 5,000 views per conversion.
+An agency might see that our hypothetical channel averages a million views and would
+therefore likely drive about 400 conversions, so based on the $35 CPA, the creator probably
+deserves about $14,000 for a sponsorship.
+However, in practice, the creator only sees some of that.
+Agencies can typically charge whatever commission they want—while taking 10 or 20% is common,
+they could take 30 or 40% too as long as they can find creators willing to accept that offer.
+In fact, they don't even need to disclose what commission they take—they could just
+offer the number post-commission.
+In practice, well-established major agencies have been found taking 50% commissions without
+disclosure, meaning on that $14,000 spot, they'd keep $7,000.
+There's also not a strong market mechanism to assure that prices stay correlated to performance.
+Most agencies and sponsors keep the data to themselves, so if a creator's sponsorship
+performance improves, as it often does through time as the parasocial relationship deepens,
+prices only adjust if the agency agrees to it, and only the agency typically knows if
+the performance has truly improved enough to justify it.
+Agencies will boost rates if they're worried the creator will turn down the offer, but
+the power dynamic is undoubtedly weighted towards the agency's side and contractually,
+they typically work for the brand, not the creator.
+While larger creators have managers or agents who know how much their clients' sponsorship
+slots are truly worth, younger or newer creators often have zero idea and have not yet established
+a network of colleagues with whom they can gut-check rates.
+They're therefore in a prime position to be taken advantage of at the exact moment
+when they feel like their dreams are being fulfilled—$7,000 sounds amazing, until you
+find out it started as $14,000.
+Of course, YouTube isn't the only platform where creators are now making a living.
+Twitch, Meta, TikTok, and Snap have each recognized that their platforms only go as far as the
+creators they attract, and this recognition has effectively started a race for talent.
+And again, this year's VidCon offers hints as to how this race is playing out.
+The fact that a panel dedicated to demystifying the algorithm with Jimmy Donaldson, aka MrBeast,
+and Todd Bupri, YouTube's Director of Product Management, reached maximum venue capacity
+speaks to the platform's continued pull.
+As one attendee explained, while they had developed a TikTok profile with more than
+half a million followers, they were at the panel because they wanted the stable income
+that YouTube could provide.
+TikTok might be taking off, but at this point, YouTube still holds an important advantage,
+and it's one that's grounded in the platform's past.
+By 2011, the year Snapchat was founded and Twitch was launched as the gaming offshoot
+of Justin.tv, YouTube had surpassed three billion views a day and had begun experimenting
+with monetizing channels beyond exclusive partners.
+A year later, it opened the YouTube Partner Program to everyone, allowing all creators
+an opportunity to make money off their products—a remarkably prescient recognition that the
+platform only went as far as the creators populating it.
+Then, in 2013, an ascended platform threatened to undercut YouTube the way Twitter had undercut
+blogs—by promoting short form.
+Vine's simple interface and its adherence to a strict six seconds cap on videos took
+off, making it the fastest growing app in 2013 and home to 200 million monthly users
+in 2015.
+The only problem was that neither the platform nor its popular creators could make money.
+Vine fostered talent and developed fame, but nobody could figure out how to build any sort
+of monetizable rapport with an audience in only six seconds.
+Instead, advertisers and creators pivoted to more expensive platforms like YouTube and
+Within this early wave of potential YouTube competitors, it was only Twitch that figured
+out how to successfully monetize the platform in a manner that attracted and retained talent.
+With video game streaming personalities as Twitch's main draw, keeping talent on the
+platform was of life-or-death importance to the site.
+Along with the option to run ads on their streams, Twitch kept its creators by developing
+a host of revenue-generating routes that included memberships, donations, affiliate links, and
+direct paid subscriptions to their favorite channels.
+This approach has turned the platform into one of the industry's most powerful as roughly
+300,000 of the 2 million self-identified professional creators exist primarily on Twitch.
+While YouTube and Twitch proved the commercial viability of long-form video and streaming,
+recognizing the unmet potential of short-form has proved both alluring and elusive.
+The very same year that Vine officially shut down, TikTok appeared in American app stores.
+The rise of the Vine-like, easy-to-use, hyper-creative, hyper-consumable platform hasn't been anything
+short of meteoric.
+In Q1 of 2021, TikTok was downloaded 315 million times worldwide—the most of any app in a
+quarter ever.
+And yet, for the vast majority of TikTok creators without powerful brand partnerships, making
+consistent money through their success on the app is difficult.
+Paid music promotions from record labels, sponsored posts, and cash gifts direct from
+audiences during livestreams offer little stability and limited growth potential.
+To alleviate some of the monetization pains, TikTok introduced a $200 million dollar creator
+fund in 2020, but because TikTok uses in-feed ads, it's difficult to attribute the success
+of an advertisement to a given creator and thus, difficult to dole out payment in relation
+to performance.
+Additionally, with the fund having a hard cap, the more successful creators inhabit
+the ecosystem, the fewer dollars there are to spread around.
+As Hank Green pointed out, because of this static pool and the app's continued growth,
+his TikToks, as of January of 2022, made about two and a half cents per thousand views—a
+worryingly low number by itself, but one made increasingly troubling by the fact that he
+used to make five cents per thousand views.
+TikTokers are making money, but it's a dollar hard-earned, leaving the door ajar in the
+race for their users' creative output.
+In 2020, Meta launched Reels, Snap launched Spotlight, and YouTube launched YouTube Shorts—all
+were new features that closely resembled TikTok.
+In the year following its launch, Spotlight paid out over $250 million from its creator
+fund.
+In 2021, Meta announced plans to invest $1 billion in its Facebook and Instagram creators,
+including a bonus program for Reels based on performance.
+As of 2022, though, the future of short-form video is still very much up in the air.
+What is certain is that creators today have more options than ever before, and thus, more
+leverage than ever before.
+With various platforms that cover various mediums at their disposal, financially successful
+creators have gone from being thought of as multimedia aberrations in the 2010s to ever-critical
+cogs in a growing industry where entertainment and advertisement so seamlessly overlap.
+Creators of all sizes are spreading from one platform to multiple, and some are beginning
+to move beyond platforms entirely.
+Combining $4,000 in AdSense with $11,200 in sponsorship, our hypothetical creator currently
+makes about 1.5 cents per view, but simultaneously, both the agency and Google are making about
+0.3 cents on the same view, and then on top of that, the sponsors and advertisers are
+making more on the profit the marketing generates.
+While it's impossible to know the exact number, it's very possible that each of
+these creators' views is generating three cents in economic value, and they're only
+getting half of it.
+While shared profits are a normal part of doing business, creators have recognized that
+the more of those three cents they capture, the more they earn.
+In practice, what this looks like is creators becoming their own sponsors.
+It started with merch—channels would slap their logo on a shirt or hat or sticker and
+sell it.
+Some people bought these, but often just the most devoted fans.
+Our creator that could get $11,200 in sponsorship would likely only earn one or two thousand
+dollars from replacing that sponsor segment with a merch shoutout.
+In response, creators adapted their merchandise more into clothing lines.
+Logan Paul, for example, runs Maverick Clothing.
+With clothing brands competing against other clothing brands, this operates more like a
+business than merchandise, so creators often find this strategy far more effective and
+sometimes competitive in performance versus an outside sponsor.
+Logan Paul claimed his brand made between $30 and $40 million in its first year, while
+our channel might expect to profit around the same $11,200 from promoting its clothing
+brand as with an outside sponsor.
+Taking this to the next level, the predominant trend of the past few years has been creators
+launching fully-fledged businesses.
+Mr. Beast started selling burgers cooked by Ghost Kitchens on food delivery apps under
+the Mr. Beast Burger brand, which has since expanded to over 1,000 locations in the US,
+Canada, UK, and UAE.
+Mark Rober and Vsauce started subscription box companies called Crunchlabs and the Curiosity
+Box, respectively.
+Johnny Harris co-founded a travel course platform called Bright Trip.
+The Nilk Boys launched their Happy Dad brand of hard seltzer.
+Simone Geertz created the Everyday Goal Calendar.
+Even Wendover Productions co-founded the Nebula Streaming Service, which operates as
+an equity joint venture with the creators contributing to the platform—a fact that
+is made clear in its ads for good reason—it works.
+Across the board, what creators have found is that not only do they get to keep more
+of those three cents per view, but also that a given viewer is more likely to convert into
+a paying customer when the sponsorship is presented as promoting their own business
+rather than the highest bidder.
+That's to say, not only are creators getting more of the pie, they're also expanding
+it.
+The three cents per view might become four, and therefore it was an $11.2,000 sponsorship
+on a million views might become $28,000.
+With $32,000 in total income on that one hypothetical million view video, this hypothetical creator
+has effectively earned 3.2 cents per view.
+This is orders of magnitude more than they would have earned on the same view a decade
+ago, and yet more orders of magnitude more than they would have earned from a view on
+Facebook, TikTok, Instagram, or elsewhere.
+This is how YouTube creators are now able to go full-time, making channels that previously
+would have been but a hobby.
+Newer creators tend to have less optimized channels, but even assuming 1.5 cents per
+view, bi-weekly releases of videos achieving 150,000 average views would provide about
+$4,000 in monthly income.
+Simultaneously, it's these same figures that allow the absolute largest creators—Mr.
+Beast, the Paul brothers, Markiplier, and others—to generate wealth rivaling that
+made in the mainstream entertainment industry.
+This is YouTube's competitive advantage.
+YouTuber is now regularly ranked as one of kids' top dream jobs—up there with professional
+athlete, firefighter, and veterinarian.
+With a massive pinnacle to the dream and a relatively achievable entry point, creative
+people will keep choosing YouTube as their platform of choice over TikTok, Instagram,
+Twitter, or any other social site because as the other platforms are attempting to get
+creators to work for less, YouTube, through the years, has successfully developed a platform
+that earns creators more and more and more.
+Of course, you know what's coming next.
+This video, along with the payroll expenses, contractor bills, insurance payments, footage
+licensing fees, office lease costs, administrative expenses, and every other unsexy cost that
+goes into delivering you viewers what you've just seen, was truly, genuinely made possible
+by our sponsor, Hover.
+One of the reasons I love Hover is because they focus on one thing and just do it really
+well.
+Hover is the best place to buy domains for your website or email, and I know that they're
+the best because I've bought dozens of domains for them over the years.
+Recently, as I was sitting with my writers brainstorming a name for a new channel, I
+had my laptop sitting in front of me with Hover open, searching which domain names were
+available.
+As soon as we settled on the name Jetlag The Game, I used Hover to buy jetlagthegame.com,
+which took less than 30 seconds and cost a very reasonable $15.99 a year.
+Through the years, any time I had a technical question or issue, their support picked up
+immediately and figured out the solution right away.
+Again, Hover is simple—they sell domains quickly, for a fair price, and help you with
+managing it through the years, so if you have a name for a YouTube channel, business, organization,
+or anything else and want to lock it down for a future website or custom email address,
+you should buy the domain with Hover.
+They also have over 400 domain extensions so you can get unique domains like our wendover.productions
+one.
+If that's not enough, by clicking the button on screen or heading to our link, hover.com
+slash wendover, you'll get 10% off and as you now know so well, you'll be supporting
+Wendover while you're at it.

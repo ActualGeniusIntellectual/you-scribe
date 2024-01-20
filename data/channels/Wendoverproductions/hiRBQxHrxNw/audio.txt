@@ -1,0 +1,407 @@
+This video was made possible by Away.
+Get $20 off your Away suitcase by going to awaytravel.com slash wendover and using the
+code wendover at checkout.
+And quickly, once you've finished this video there are two others to watch—a behind-the-scenes
+video on my brand new personal channel and my appearance on StarTalk where I appear on
+camera for the first time.
+Both are linked in the description.
+Suppose we're in a cave right now, this is a cave, and there's maybe ten of us.
+We have a mini family tribe.
+And I say, you know, I want to go out and see what's on the other side of that mountain.
+We can see it from here.
+And then you say, no, no, we have cave problems you have to fix first.
+Fix all the cave problems first, then you can go out on the mountain.
+And that's what it sounds like to me when I hear people say, we have problems on Earth,
+let's fix those before we go into space.
+And here's Earth, this speck of dirt orbiting an ordinary star and there's this vastness
+of the universe that is waiting for us.
+It beckons.
+The commercial space industry is heating up.
+Fifty years ago, outer space was reserved for the most powerful of nations—the most
+dominant governments.
+But today, there's a democratization of space.
+Commercial industry is inching us closer to the cosmos, and in the process, there's
+a growing interdependence between what's happening hundreds of miles up in space and
+down below on Earth.
+The commercial space industry—using multi-million dollar satellites and rockets—is increasingly
+playing a part in our everyday lives.
+You may think of this industry as a new phenomenon.
+You may have only started hearing about profit-seeking space enterprise in the past few years, but
+in reality, this has been going on for decades.
+Our founder, Walter Scott, founded the company in his garage in Palo Alto twenty-five years
+ago.
+This is Dan Jablonski.
+He's president of one of the commercial space companies that you might not have heard
+of—Digital Globe.
+They might not be as flashy as SpaceX or as exciting as Virgin Galactic, but they've
+been flying satellites since before Elon Musk even graduated college.
+In fact, they were the very first American company to be granted a license to take high
+resolution pictures from space and that is essentially what they do—they take pictures
+from space, but it's a lot more complicated than it sounds.
+To take those images from space, you need satellites and Digital Globe has five of them.
+So the five satellites we have on orbit are GOI-1, Worldview-1, Worldview-2, Worldview-3,
+and you're noticing a trend here, Worldview-4.
+The first of those was launched in 2007.
+The most recent was launched in 2016 and they have an expected life of over ten years
+each.
+And these are really good satellites.
+Worldview-4, for example, Digital Globe's newest satellite, has a pixel size of 12 inches.
+That means that this satellite, orbiting 383 miles above earth, can clearly see a single
+sheet of paper placed in a parking lot.
+Horizontally, that's like if a camera in Toronto took a picture that could clearly
+identify the individual eyes of the Statue of Liberty in New York.
+It is insanely high resolution.
+With a 30 centimeter pixel you can actually pick up road markings.
+You can see the lines on the road whether they're straight or dashed lines.
+You can see whether there are turn arrows there, whether there's a stop word on the
+road markings.
+You can even pick up some of the traffic signs and traffic light sizes.
+The potential uses of such high quality imagery are endless, but how do the satellites even
+work?
+It's good to know that our satellites are in a low earth orbit which means that they
+actually don't—they're not like a geo-satellite that sits up in a fixed orbit and stays over
+one place on the planet.
+Some satellites are specifically designed to stay directly over one position for their
+whole service lives.
+Their orbits are significantly higher above earth so the time it takes for them to complete
+an orbit is exactly the same as the time it takes the earth to make a full rotation so,
+relative to earth, the satellite doesn't move at all.
+This is incredibly useful for certain uses like communications.
+When a communications company launches a satellite to broadcast TV or radio or internet, they
+want that satellite to stay over their particular service area.
+DirecTV, for example, the American satellite TV company, want their satellites to stay
+over the US because that's their service area.
+If they weren't able to put their satellites into geo-synchronous orbit, they would have
+to launch enough satellites to cover the entire world even if they were only broadcasting
+to the US.
+So, DirecTV want their satellites to stay over one area because they're broadcasting
+to one area, but Digital Globe, on the other hand, want their satellites to move because
+they're imaging the entire world.
+Each of our satellites right now are in sun synchronous orbits.
+So what that means is that the orbital plane that the satellite is flying around in stays
+in the same orientation relative to the sun all the time.
+Simplified, that means that any given satellite passes over any given location on earth at
+the exact same time every day.
+Worldview 3, for example, always orbits above the points on earth where it's 1030 AM.
+When it passes over Denver it's 1030 in Denver, when it passes over Paris it's 1030
+in Paris, and when it passes over Tokyo it's 1030 in Tokyo.
+How this works is that essentially, with each pass over the light side of earth, the orbit
+advances relative to the earth at the same rate as the sunlight advances.
+This orbit type is crucial because a lot of what satellite imaging is about is detecting
+change from day to day, month to month, or year to year, and an image taken at 1030 AM
+is going to look very different than one taken at 6 PM.
+This orbit type allows the satellite to pass over the entirety of earth once per day at
+the same time so the light conditions look the same.
+The satellites do, of course, need to be told what to do and that all comes down to four
+people in one room.
+So this is our mission operations control center.
+This is where we fly the five satellites on orbit and really inside this room is what
+we consider our time-dominant, real-time activities from choosing, making the final choices of
+what images we're going to collect in the next several minutes to the next several hours.
+These four individuals are controlling billions of dollars worth of satellites.
+This whole company—the thousands of employees and hundreds of millions of dollars in revenue—all
+exist to organize and fund what these four individuals are doing—sitting and piloting
+the satellites above in space.
+The mission operations center is, of course, staffed 24-7 since, while it's nighttime
+in the US, it's daytime in Asia and Australia.
+The satellite vehicle operator's main task is to load plans onto the satellites of which
+images to take when, to monitor that the satellites are operating correctly, and to assure that
+the satellites won't collide with other satellites or space junk.
+The central screens at the front show the current locations of each of the five satellites
+while the one to the left displays other information such as the total number of times each satellite
+has orbited around the earth and how much time they have until the satellite loses signal.
+You see, in order for satellites to function, they need to be able to communicate with the
+ground and that's done with ground stations.
+These antennas communicate to satellites using what are essentially super high-powered wifi
+signals.
+The ground station's digital globe users are able to receive about a gigabyte of information
+every second from the satellites.
+Each of those antennas around the world see each satellite several times a day and so
+is that, as we go through the day, we accumulate about 7 terabytes of raw imagery off the satellites
+through that gigabit connection.
+Satellites can only communicate with the ground stations while they have a line of sight with
+the antenna so, due to the curvature of the earth, in the view of any given ground station,
+the satellite will eventually dip below the horizon.
+Therefore, each ground station only has a limited operating range.
+The exact locations of ground stations are, understandably, kept secret, but if there
+was one in Germany, for example, it would communicate with the digital globe satellites
+exclusively while they passed over Europe.
+The fact that these satellites have to, by nature, pass over the entire world is actually,
+however, quite useful.
+Not only does this let digital globe map the entire world, but they also use the extra
+capacity for humanitarian efforts.
+It's actually easier for us on the humanitarian global development side because we have much
+more capacity over a lot of these areas.
+There's a lot more demand for our satellites over developed countries, for instance, right?
+So people are typically, for commercial applications, much more interested in the U.S. or Europe
+or some of these more developed areas versus sub-Saharan Africa where we, just generally
+speaking, have much more ability to task the constellation and to collect those imagery.
+So it's actually an opportunity for us to support those use cases much more than others.
+For instance, Digital Globe partners with the Gates Foundation to map every single building
+structure in rural Zambia so aid workers now know things like how many bed nets, vaccines,
+or food to bring to communities that were previously unmapped.
+There are few companies the size of commercial space companies that rely on so few assets.
+What makes Digital Globe, for example, run are those five satellites and to get those
+to space, to the place where they make money, they had to put them on rockets which tend
+to, from time to time, blow up.
+It's always a little bit of a nail biter as you come up to a launch.
+We put an enormous capital investment into the satellites and the launch vehicle and
+it all comes down to a one hour event—lifting off from the ground and going into orbit and
+that's a, that can be a little bit of a nerve-wracking period but certainly very exciting
+at the same time.
+An average of one in twenty rocket launches fail and then, on top of that, some satellites
+fail once they reach orbit which makes the space business risky.
+Companies like Digital Globe will therefore purchase enormously expensive insurance policies
+on their satellites in case the launch or the satellite itself fails.
+If they didn't, one bad launch could spell the end for the company.
+Of course, some launch providers are much more reliable than others.
+United Launch Alliance, the launch provider that Digital Globe used for their current
+five satellites, has not had a launch failure in its eleven year history.
+Insurance rates for ULA would be relatively low while insurance rates for a newer launch
+provider, such as Orbital ATK or Blue Origin, would be comparatively high.
+Nonetheless, the cost of newer launch providers with insurance included is now often less
+than the older, more reliable launch companies.
+But how does Digital Globe fund their exploits?
+What keeps those satellites flying?
+How do they make their money?
+Our largest customer is the US government and we've been very proud to be their mission
+partner for over a decade and a half coming up on two decades now.
+It used to be that the commercial satellite industry was essentially focused on one major
+customer—governments.
+In the past, the US government has been the single largest customer of the few commercial
+space companies that there were thanks to its enormous defense spending, but today as
+commercial customers contract commercial space companies, the business is spreading globally.
+Over the past decade, the customer base has become more international and more diversified.
+Our other customers are international customers who may be US allies or maybe technology companies
+across the world.
+We go deep in the telecommunications infrastructure, online mapping, energy industries, mining
+industries, forestry applications.
+There's really a huge variety of customers, but the most obvious ones are those mapping
+companies.
+If you've ever used Google maps, you're using our imagery.
+If you've ever used Apple maps, you're using our imagery.
+If you ever look and do a crowdsourcing project in OpenStreetMap, you're using our imagery
+as well.
+But perhaps the single most promising use of earth imagery is with autonomous vehicles.
+Having good, solid, current satellite imagery is an integral part of how autonomous vehicles
+work.
+These vehicles can't just rely on their internal sensors to understand their surroundings—they
+get a view from above.
+As we think about autonomous vehicles, it's not okay to update the image once a quarter,
+once a year, even once a week.
+They really need imagery that's coming in much, much faster than that to deal with changes
+in traffic conditions, changes in roads, crashes, etc.
+Uber, which is developing autonomous cars, is already a customer of Digital Globe for
+navigation purposes and as more and more companies move into the autonomous vehicle
+race, the competition between earth observation companies for their business is likely to
+heat up.
+There are plenty of other emerging uses as well which, as an ensemble, are growing the
+demand for earth imagery day by day.
+It is a tremendously fast growing industry.
+But satellite imagery by itself really isn't worth much.
+You need something more.
+I would say that our customers are demanding more actionable information faster than ever.
+Translation—customers want data.
+They want the information embedded in the images.
+For that, there's another company—Radiant Solutions.
+So today customers, the big challenge is around where it used to be more of a, hey we just
+need to get an answer, now it's more of how do we deal with all of this data and how
+do we answer the more complex questions because they are getting more complex and they're
+getting even harder to answer now by virtue of being inundated with data.
+Radiant Solutions would describe themselves as a geospatial analytics company.
+They take satellite imagery and translate it into information.
+We're able to take in vast amounts of data and make sense of it to produce insight.
+They answer big questions.
+A logging company might ask a question like, what's the density of trees in this particular
+region of Canada before purchasing new land and Radiant would be able to look at hundreds
+or thousands or millions of square miles of imagery to tell them how many trees there
+are.
+Now, with so much imagery and such a big world, you can't just do this all by hand—at
+least economically.
+For that reason, there's been a huge shift in the geospatial analytics business toward
+using artificial intelligence.
+We hear more and more now that data is kind of like the new oil.
+Well that's sort of true but the data has to be reliable, there has to be high confidence
+in the data.
+So the AI has to be good.
+To train a machine to find a red car, for example, you need to show it thousands or
+millions of examples of what a red car looks like, but…
+It's very different for a machine to look for a red car in an urban environment as it
+is to find a red car in snow.
+So not only are you training the models to look for that object, but you also have to
+train it on where to find it regionally.
+It is hugely complicated, but that's why these guys are in business—to answer complicated
+questions.
+Some data, however, isn't in the visual spectrum.
+Some data is hidden, but luckily there's a special satellite just for that.
+In the old days, it was just please get me good, solid image pixels to use and I'll
+go figure out how to use them.
+Today, particularly in the commercial space, it's all about information.
+That's Paul Kennedy—Vice President of Ground Systems at MDA.
+They've been in business since 1969.
+Their most visible project was on developing the Canadarm for the space shuttles and International
+Space Station.
+As a long-time player in the industry, they serve a variety of functions from developing
+space robotics to building satellite ground stations, but one of their most valuable assets
+is that special satellite—Radarsat-2.
+While most earth observation satellites image using the visual spectrum, what we can see
+with our own eyes, Radarsat-2 uses radar.
+Radar is an active pulse.
+So the satellite actually sends a beam of energy to the ground and reads back what it
+gets back from the earth and that gives us a couple of interesting advantages in SAR.
+For one, radar can see through clouds and darkness.
+It doesn't matter what the light and weather conditions are, it's all the same for Radarsat-2.
+Now, MDA is a Canadian company and it's no coincidence that a Canadian company operates
+this satellite.
+Just like the US government is a major customer of Digital Globe, the Canadian government
+is a major customer of MDA and here's the thing about Canada—the weather is terrible
+and it's always dark.
+Quite literally in northern Canada where the sun stays down for the entire winter.
+It's no coincidence that the company that works so closely with the Canadian government
+operates the satellite that can see through clouds and night.
+Without Radarsat-2, the Canadian government would be blind—they would have no way of
+monitoring huge swaths of their territory in the high arctic for months out of the year.
+With new launch providers emerging such as Blue Origin and Rocket Lab and SpaceX, the
+cost of launching material into space is plummeting.
+Now, this is useful to these companies, at least in some ways.
+With lower launch costs, Digital Globe and MDA can launch more satellites which means
+more data for radiant solutions, but that also makes it easier for competitors to launch
+satellites.
+The earth imagery business is growing but so is the competition.
+The best known earth imagery startup, Planet, is launching a constellation of small satellites.
+While Digital Globe's satellites are the size of a bus, Planet's smallest are the
+size of a toaster.
+With the smaller size, development and launch costs are lower.
+While in the past starting a space imagery company required hundreds of millions or billions
+of dollars in funding, the emergence of smallsats means that it's enormously easier to break
+into the satellite imagery business nowadays.
+But there is a key difference between these two companies.
+Digital Globe's satellites capture imagery with a pixel size of 12 inches while Planet's
+primary satellite constellation captures imagery with a pixel size of 10-15 feet at a much
+lower cost.
+There are certain uses for high-resolution imagery and there are certain other uses for
+low-cost imagery so in some ways, these two companies aren't even direct competitors.
+Nonetheless, the space industry is changing, growing, and becoming more competitive so
+the established companies need to adapt.
+United Launch Alliance knows that, Airbus knows that, Arianespace knows that, and Digital
+Globe, MDA, and Radiant know that too, so they made a change.
+These three companies are now one.
+Along with a fourth company, a spacecraft manufacturing company called SSL that will
+be covered in a future video, these are the entities that make up the newest powerhouse
+in the space technology business.
+This merger wasn't necessarily in response to heavy competition but rather, at least
+from an outsider's perspective, a preemptive strike to establish themselves as a major
+international player before the commercial space industry truly lifts off.
+Increasingly, the more traditional aerospace and defense companies that have been supplying
+technology in space have been able to provide the performance but the cost has been extremely
+high.
+Maxar is now a fully vertically integrated company.
+In the earth imagery space, for example, they'll do everything from building satellites to
+operating them to extracting data from imagery.
+By performing all the steps in this process internally, Maxar lowers its costs and this
+also puts them in the same league as Airbus as one of the very few end-to-end integrated
+space companies.
+The commercial space industry as a whole is doing a phenomenal job of making access to
+orbital space commonplace.
+The routine steps of space activities are slowly being ceded to private enterprise that
+could do it faster, better, cheaper.
+We're now at a place where launching a satellite to low earth orbit is unexceptional.
+That's exactly what we want—easy access to space—and for near space, that exists
+right now.
+Getting beyond earth's orbit, though, outside our cosmic neighborhood, into deep space,
+that's still tough.
+The problem is that private enterprise, by its very nature, needs to make money.
+Companies and their leaders are beholden to their investors to make money.
+If they're not, then they're not a company.
+Companies can and do make money with deep space but only through developing and building
+technologies for NASA and other government agencies.
+There is zero commercial demand for deep space technology today.
+Going to new planets, to new solar systems, exploring space, that really doesn't make
+money.
+Many people who think about commercial space, I think they're over-predicting what their
+role will be.
+They're imagining commercial space leading a space frontier.
+But to lead a space frontier is expensive and it's not an obvious return on the investment.
+You might do it as a vanity project.
+If there are enough billionaires in the world, they could all pool their money.
+Jeff Bezos, Bill Gates, Elon Musk.
+They could do a vanity project and send humans to Mars, let's say.
+But that's not a business model and it would get a lot of attention but is that something
+you can sustain?
+No.
+It would be a one-off.
+When people imagine a future of space and industry, they're imagining a sustained
+business case.
+Of course, you could have said the same thing about the space race 60 years ago.
+That was exploration, however, in the long term, it was an investment that paid off because
+space now makes money.
+Space today is an integral part of what we know and what we can do on the surface of
+the planet.
+Communications, imagery, climate science, defense and intelligence and security applications,
+all of those are seamlessly enabled by space technologies without most of us who go through
+our daily lives not even thinking about it.
+The difference between commercial enterprise and governments is time.
+Commercial enterprises need to think about investments that pay off within the lifetime
+of their shareholders.
+So you're always thinking about what is the return on the investment you're making?
+How long will it take you to achieve the returns on the investment?
+And what's the probability that the R&D you're putting in will be successful?
+While companies look at investments in terms of years, governments can look at investments
+in terms of decades or centuries because governments transcend generations.
+The innovation that will occur by bringing humans to Mars and beyond will absolutely
+make money in the very long term.
+But right now, it would take an enormous amount of money that few people want to risk.
+You could point to Elon Musk as an exception to this rule—he more than anyone understands
+the value of super long-term investments like going to Mars—but he also understands that
+he's alone in that.
+Individuals don't want to invest in something that won't make money until after they're
+dead.
+Musk has stated that he has no plans to take SpaceX public until after a successful mission
+to Mars which means that, for the moment, the company is almost acting more as an organization.
+He's funneling the money from launches, which make money, into exploration, which
+doesn't.
+Governments need to lead the way because they have the longer time horizons that they can
+think about and monetize.
+When they do that, once they lead the way they have now quantified the risks and you
+know the costs and where the friendlies are and the hostels and whatever are the things
+that would compromise your mission, they've already figured this out.
+Then if they do it right, you then hand that to private industry that then makes a buck
+off of it, then the government can tax that if they so choose.
+Maxar Technologies and its four businesses meanwhile absolutely innovate including in
+deep space technologies, but they're not going to put the pieces together to go to
+Mars by themselves because that's not a good investment.
+One should be careful to realize that this coming era of commercialized space does not
+necessarily translate into a renaissance of space exploration.
+Commercial industry is not a substitute for NASA or the ESA or any other government institution.
+They are collaborators.
+They can make the government's job easier and cheaper, but they cannot replace those
+whose jobs are to go where no human has gone before.
+The next few decades and centuries can be the era of space exploration but for that,
+you need a public, you need an electorate that understands that anything good, anything
+truly worthwhile, takes time.
+There are so many thanks I have to give for help with this video but one is to Away, not
+only for making this video possible through sponsorship, but also for literally carrying
+my possessions over the 15,000 miles I traveled while making this video, and unfortunately
+that number is not a mistake.
+I've now owned my Away suitcase for almost a year, have traveled all over the world with
+it, and I love it.
+The suitcase is just solidly built, you can feel it, and it has a built-in yet removable
+battery, a laundry bag, a laptop sleeve, and a compression system so you can pack more
+into a smaller space.
+Best of all, for how good it is, the Away suitcase is sold for an amazing price and
+it's at an even more amazing price if you go to awaytravel.com slash wendover and use
+the code wendover at checkout to get $20 off your Away suitcase.
+They're so confident that you'll love the product that all Away suitcases have a
+lifetime warranty and a 100-day unconditional return policy.
+It's quite literally no risk and they made this enormous video possible so if you need
+a suitcase for life, check out awaytravel.com slash wendover and use the code wendover at
+checkout.
+I also have to give a huge thanks to Maxar Technologies, especially Kristen Karringer
+and Turner Brinton, for letting me film this video as it takes an enormous amount of work
+to allow cameras into such a high-security environment.
+Lastly, as I mentioned at the beginning, I appeared on Neil deGrasse Tyson's show Star
+Talk and also launched a new personal channel where I made a behind-the-scenes video for
+that appearance.
+Both are linked in the description and on screen now.
+Thanks again for watching and I'll see you again in three weeks for another Wendover
+Productions video.

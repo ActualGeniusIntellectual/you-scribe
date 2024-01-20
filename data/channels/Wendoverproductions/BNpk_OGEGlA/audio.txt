@@ -1,0 +1,239 @@
+This video was made possible by CuriosityStream—sign up for the CuriosityStream-Nebula bundle deal
+to watch the extended cut of this video with everything we cut for time at CuriosityStream.com
+slash Wendover.
+Supermarkets are a marvel obscured by banality.
+Nearly everyone in the developed world uses them regularly, so we have no basis of comparison—we
+just don't know a world without supermarkets.
+We don't know how it was a century ago, when grocery stores took the form of small
+storefronts found every few blocks throughout towns and cities.
+You'd hand the clerk a list, indicating you wanted, among other things, apples.
+They'd then gather you apples—assuming they were in season and in stock.
+Nowadays, however, you are confronted by an aisle rivaling the size of those historic
+grocery stores, displaying a tantalizing, sprawling selection of honeycrisps, fujis,
+Granny Smiths, Galas, Braeburns, and more—all the varieties always in stock all year long.
+They sit next to pineapples from Costa Rica, avocados from Mexico, and mangoes from Brazil.
+Further on, there's beef from an entirely different hemisphere, and fish that was alive
+in the ocean thousands of miles away just days ago.
+A century ago, you could certainly buy a jar of peanut butter, but now, you can buy regular
+peanut butter, or chunky peanut butter, or smooth peanut butter, or organic peanut butter,
+and it doesn't stop there.
+You can get the chunky Jif brand, or the chunky Smokers brand, or the Skippy brand, the store
+brand, or one of so many more.
+You have dozens upon dozens of choices of peanut butter, dozens of choices of other
+nut butter, dozens of choices of other sandwich spreads, and all of that is just one part
+of one aisle.
+Put together, the stability and variety of choice in modern supermarkets is incredible.
+In big cities and small towns alike, American supermarkets offer an average of some 30,000
+different product choices, which stay in stock about 92% of the time.
+While the concept of the modern supermarket first appeared in the US, it's since proliferated
+across the entire developed world.
+The fact that this has become not only normal, but expected globally is the greatest indicator
+of the robustness of the modern global supply chain, but that's not to say that it's
+easy.
+For consumers, it's simple—we can get everything we want, any time, from a single
+store, but the complexity behind that is truly stunning.
+This is a typical American supermarket—a city market brand store in Glenwood Springs,
+Colorado.
+The brand is small, it's part of the larger King Soopers brand, which itself is part of
+Kroger's—the largest American supermarket company.
+The entire American supermarket landscape is incredibly consolidated, with the top four
+companies holding 45% of the market, which certainly has massively negative consequences,
+but this market concentration has led to the huge scale and complexity of our current food
+supply chain.
+Even independent grocers now tend to rely on gigantic cooperatives to amass buying
+power and supply their shelves, so industry-wide, scale, and complexity is the norm.
+Now, supermarkets like this are involved with a perpetual balancing act—keeping items
+in stock is of paramount financial concern.
+Research into the matter has found that on the third instance of a desired item being
+out of stock, consumers will go to an alternate store 70% of the time.
+Being located just five minutes from a Walmart, this store can't afford to go out of stock
+of a single item, push a customer to a competitor, and lose out on thousands of dollars in annual
+sales because they decide they like Walmart more.
+Therefore, the task is to keep everything in stock, as much as possible, while having
+as little extra product as possible.
+So, the way this Glenwood Springs city market, along with essentially any grocery store,
+keeps those 30,000 products continuously on its shelves is simple, at least on the
+surface.
+You see, every item in a supermarket is labeled with a barcode.
+Usually that code is standardized industry-wide, except with some white-label products.
+When products arrive at the store, they are checked in to its inventory management software.
+From there, it's simple math.
+As products are checked out and paid for, they're subtracted from the inventory count,
+and as that count gets low, the store knows it's time to reorder.
+It's a straightforward concept—except when you actually implement it in the real
+world.
+There's more than one way a product can leave a store—it can get stolen, go bad,
+get damaged, or more.
+That means there's always a slight disparity between how many items there are on paper
+and in reality.
+Inventory management software can account for some of that, assuming employees feed
+it accurate data, but stores also conduct a manual count every month or two to determine
+the actual disparity.
+This is most important for financial reporting reasons—the retailer can't know how profitable
+it actually is until it knows how much product it lost, but it can also be used to tell the
+inventory management software how much it's typically off, and correct for that in the
+future to make sure reorders happen on time.
+Then, there are other factors.
+For example, if a supermarket runs a sale on a given item, that product will likely
+sell more, so inventory management software needs to account for that in its ordering
+process to make sure that it correspondingly ramps inventory up.
+Then, incoming unseasonably warm weather could mean that barbecue charcoal sales, for example,
+are about to increase, while hot chocolate sales will decrease, so more complex inventory
+management software can account for external factors like these and make ordering decisions
+based upon them.
+Now, some products are simple to keep in stock.
+Oreos, for example, have a long shelf life and come from a massive manufacturer with
+multiple production facilities spread out across the world.
+There's plenty of slack and flexibility in that system.
+That's not the case with all foods.
+Take, for example, grapes.
+Table grapes are quite difficult to keep in stock—if there's a sudden surge in demand
+for grapes, you can't just order more from the factory.
+Their global inventory levels are essentially decided years before, as growers decide whether
+to add or subtract vines from their vineyards.
+What's more, grapes are highly seasonal—they don't ripen off the vine, so they have to
+be picked exactly when they're best for eating—effectively meaning growers have
+a one- or two-week window to get a given vineyard harvested.
+Of course, grapes are found in grocery stores for far more than two weeks a year.
+In fact, they're almost always available.
+What makes that possible is a massive production cycle spanning across the entire western hemisphere.
+Now, the easy part of the year for the Glenwood Springs city markets to get its grapes is
+late summer.
+That's because California's Central Valley, where the vast majority of the country's
+grapes are grown, has its natural harvest season between mid-August and late September.
+That's extended earlier into July by ultra-early season varieties of grapes, such as Chardra
+UA, and then later into November by late season varieties such as the Autumn King.
+Therefore, there's about a four-month window when the entire country's grape supply is
+largely fueled by California.
+Once that ends, though, things get trickier, but the industry has learned to take advantage
+of global climate patterns.
+Peru, thanks to its fairly equatorial climate, begins its harvest just when California's
+ends, early December, and saturates the market until mid-February when Chile, with its more
+seasonal climate, takes over.
+They essentially act as the southern hemisphere equivalent of California, also using early
+and late season varieties to stretch their massive harvest all the way until May.
+Next, California's Imperial and Coachella Valleys, as well as various locations in Mexico,
+fire up their harvests.
+These areas have year-round warm weather that allows for a year-round growing season, but
+time their vineyards specifically to line up with this gap in the market until mid-July
+when California's more seasonal Central Valley begins its harvest, starting the cycle
+once again.
+While the overall path a given food product takes varies dramatically, the one constant
+is that every item that ends up on the Glenwood Springs City Market's shelves comes via
+here—the distribution center.
+Now, how distribution centers work on the surface level is fairly standard—they bring
+in pallets of a single product, break them down to the box level, and create pallets
+with smaller quantities of everything a store needs.
+How each distribution center accomplishes that, however, differs.
+Kroger's Aurora facility, operated by a company called Windigo Logistics, uses a fairly
+high degree of automation.
+Trucks arrive from all across North America, delivering pallets worth of product from Kroger's
+different vendors.
+For example, a truck might arrive from Nabisco's plant in Chicago carrying pallets worth of
+Oreos.
+These pallets are immediately placed on an induction conveyor belt, where a scanner determines
+what they actually are.
+Without information, the warehousing software determines whether it thinks it will need
+more Oreos in its system in the next three days or later.
+If the answer's later, the pallets will just make a quick stop at a pallet exchanger
+machine, which swaps each onto a fresh storage pallet before the conveyor belt takes them
+to an automated longer-term storage system in a separate part of the warehouse.
+If one pallet's worth of Oreos is needed sooner, though, it will go to a depalletizing
+machine, which breaks them down to the box level, each of which carries dozens of units
+of the actual product.
+Those boxes are injected into a network of conveyor belts, which takes them to a machine
+that places each onto an individual tray.
+That tray is then automatically stored somewhere in a cavernous hall of shelving—essentially
+a massive vending machine.
+Sometime in the next three days, some King Soopers or city market store will place a
+reorder indicating that they need Oreos, and so the warehousing software will automatically
+remove some trays of Oreos from the shelving and place them on another conveyor belt, which
+will take them to a smaller automated shelving system closer to the palletizing area, which
+acts as interim storage, keeping items no more than a few hours.
+Then, when it comes time to build an actual pallet worth of product for a given store,
+the trays are removed from the shelving in a specific order.
+You see, the system knows the composition of the shelves of each of their stores, so
+it knows what order to build a pallet in.
+They'll put items for one side of a store aisle at the bottom of a pallet, items for
+the middle of that aisle in the middle, and items for the other end, at the top.
+That way, the stockers in the store can break down a pallet and put things immediately on
+the shelves in the most efficient manner.
+At the distribution center, this palletizing process is still completely automated, and
+in the end, the system will deliver completed pallets to humans responsible for loading
+outbound trucks.
+Finally, once that's all completed, a truck will take the three-hour journey west to Glenwood
+Springs' city market, where an overnight crew restocks the shelves with fresh product.
+Now, even as automation is making significant inroads, plenty of grocery distribution centers
+still use a far more manual approach.
+That process is essentially the same—pallets are taken in, stored, and outbound pallets
+are built with smaller quantities of each product, but each step is just completed by
+humans instead of machines.
+However, both the automated and manual processes are not perfect.
+Specifically, they present an issue for what's referred to as slow-moving inventory.
+You see, grocery distribution centers are traditionally configured to work by the pallet
+load—it just isn't efficient to take in a smaller amount—but sometimes, products
+just aren't that popular.
+However, unpopular products are actually crucial to the business strategies of modern supermarkets.
+The reason why they might have dozens upon dozens of types of salsas is that some niche
+brand on the bottom shelf is probably at least one person's favorite.
+The city market in Glenwood Springs might carry that salsa, but the Walmart or Target
+might not.
+Even if one consumer can get everything else they need at one of the competitors, they're
+going to keep coming back to the city market because they know they can get that one niche
+product that they love.
+Supermarkets view niche, slow-moving products as key differentiators, and key to customer
+retention, so they're certainly willing to sell these products even at a loss.
+In fact, Walmart experimented with reducing its product variety by 11%, but quickly reversed
+course as it became clear that this ultimately had a negative impact on their bottom line—even
+if it simplified their distribution logistics.
+On the warehouse side, though, if each store that sells that niche salsa only sells a dozen
+of them per week, it's going to take quite a while for even the entire company to work
+their way through a single pallet.
+In the distribution center, though, a single pallet in the picking area takes the space
+of a single pallet, regardless of whether it's used up in a day or a month.
+Therefore, every additional niche product stocked increases the amount of storage space
+needed, and increases the overall distance that pickers have to travel to assemble an
+average pallet, even in the case of manual warehouses.
+To mitigate these effects, while still maintaining their offerings of niche products, some supermarket
+chains, including Kroger's and H-E-B, have set up entire, dedicated distribution centers
+for slow-moving inventory.
+By setting up these facilities, they can ship out less than box-load shipments of certain
+products and stock them without slowing down the process for fast-moving inventory.
+Of course, this process does still require a certain amount of scale to work better than
+the alternative.
+While Kroger's has set it up in densely populated areas of the US East Coast, it is
+yet to do so in the more sparsely populated Rockies region, home to their King Soopers
+and City Market brands.
+There just isn't enough demand in the region to justify a dedicated setup.
+The pure scale at which the supermarket industry operates is what has led to this level of
+supply chain complexity.
+When a single facility is responsible for distributing a sizable portion of a state's
+food supply, tiny, incremental efficiency improvements can lead to huge savings for
+companies.
+While such commoditization and consolidation of food supply is viewed as problematic by
+many people, ultimately, the average consumer just wants a wide variety of food at a low
+cost.
+That's what this system provides—any modern supply chain is molded into what leads to
+commercial success, and as long as people continue to view the convenience of having
+30,000 options of what to eat at a moment's notice as paramount, this is how the developed
+world will continue to get their food.
+So anyone who's stayed to this point in the video probably enjoys watching Wendover
+videos and would enjoy watching as much of them as possible, but unfortunately, the YouTube
+algorithm doesn't feel the same.
+For any channel, there's a sweet spot of video length—for us it's about 15 minutes—and
+whenever we do anything longer than that, the algorithm actually punishes us.
+We always have to cut for time, but in order to not feel like that work was for nothing,
+we've started to upload extended cuts of our videos, including this one, to Nebula—the
+streaming site home to all your favorite educational creators, founded by those same creators.
+In addition, their unique business model allows for big-budget projects, of which we've
+made plenty across HAI and Wendover.
+Of course, the best way to get access to Nebula makes it even better—signing up through
+CuriosityStream's bundle deal means you also get access to CuriosityStream, which
+is a fantastic streaming site that I regularly use—home to a huge selection of non-fiction
+TV shows and documentaries, such as this one about the barcode and how it shaped our modern
+economy.
+If this video, about the supermarket industry, was interesting to you, this short documentary
+is a fantastic addendum diving deep into how modern retail works.
+Best of all, signing up for this bundle deal helps independent creators like us stay independent.
+It can all be had, both streaming sites, for the rather crazy price of less than $15
+a year with the current sale at CuriosityStream.com slash Wendover.

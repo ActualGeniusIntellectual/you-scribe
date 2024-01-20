@@ -1,0 +1,253 @@
+start	end	text
+0	5160	A fraction of a second ago, the electricity powering your lights, your air conditioning,
+5160	10400	your television, your refrigerator—nearly everything electric around you right now was
+10400	16400	water, gas, wind, or some other form of energy, potentially hundreds or thousands of miles
+16400	17680	away.
+17680	22260	If you flip a light switch in Los Angeles, that could cause a turbine in Washington to
+22260	24040	start spinning.
+24040	28400	Electric grids are considered some of the single largest machines in existence—they
+28400	34240	stretch across entire continents, but they're machines with absolutely zero slack.
+34240	38380	With water systems, for example, there's some extra supply in a storage reservoir at
+38380	42120	the treatment plant, and some extra supply in the pipes connecting the treatment plant
+42120	46840	to your home—supply only has to roughly match demand, but that's not the case with
+46840	47840	electricity.
+47840	53720	Your lights, your TV, your microwave—everything plugged into the grid uses electricity produced
+53720	55120	just moments ago.
+55640	59120	For the sake of example, let's look at what it takes to turn on the lights at the public
+59120	63120	library in the small town of Glenwood Springs, Colorado.
+63120	68240	Now, what makes the relatively straightforward task of converting natural fuels or phenomena
+68240	73520	into electric power difficult is the huge variability in demand from minute to minute
+73520	75160	and month to month.
+75160	77720	There are, however, some trends.
+77720	82620	On an annual basis, the peaks correlate to climate—January represents the winter high
+82620	87120	water mark as many homes and businesses turn on their electric heating, while July typically
+87120	91580	ranks highest outright as the country battles summer heat with air conditioners.
+91580	95400	The month-to-month variations are not that significant, though.
+95400	100140	The difference between the highest and lowest demand months is less than a third.
+100140	103220	Most of the variability happens across a given day.
+103220	108340	In January, all regions of the US observe a two-peak daily demand trend, where electricity
+108340	113140	use spikes around 7 AM as people turn up their thermostats and fire up lights and appliances
+113140	115540	as they wake up and get ready for the day.
+115540	120140	Then, demand peaks again when people return from work in the evening and do the same.
+120140	124860	Meanwhile, in July, energy use is highest in the late afternoon or early evening, but
+124860	127060	this does depend on the region.
+127060	132020	For example, in the sweltering southwest, usage peaks around 4 PM—around the hottest
+132020	135820	hour of the afternoon, when air conditioners have to work the hardest.
+135820	139400	In the more temperate northwest, though, which includes Colorado and that Glenwood
+139400	143900	Springs Public Library, fewer buildings have air conditioning, so demand peaks around 6
+143900	149060	PM—pulled back by post-work use of appliances, lights, televisions, and more.
+149060	153680	These trends then get further complicated by holidays and special events—for example,
+153680	158660	on Super Bowl Sunday in the US, demand plummets for a few hours as people turn off the lights,
+158660	162700	stop cooking, and gather together at others' homes to watch the big game.
+162700	167980	This is all to say, when forecasting demand, utilities need to factor in the hour, day,
+167980	170900	season, location, and plenty more.
+170900	177540	Now, with whatever demand materializes, utilities then need to essentially instantly match supply.
+177540	181740	To do this, they layer different energy sources on top of each other.
+181740	185220	Often, the lowest layer is nuclear power.
+185220	189820	Nuclear power stations aren't designed to be able to turn off and on easily—it would
+189820	194140	take the better part of a day to shut down and start up again—so it's rather impractical
+194140	196940	to operate these in response to demand.
+196940	201800	In addition, considering how massively expensive their construction is, it would be economically
+201800	204340	inefficient to let these stations run idle.
+204340	209600	Therefore, they'll run nearly continuously for the entirety of their service lives, except
+209600	211480	for during planned maintenance.
+211480	215940	This means they provide the most stable supply of electricity 24-7.
+215940	222260	Colorado no longer operates any nuclear power plants, but it does have six of the next layer—coal
+222260	223500	power stations.
+223500	227820	Like nuclear, most of these coal plants cannot be fired up quickly, as they take some time
+227820	232420	to get up to temperature, so utilities will also run them essentially continuously.
+232420	236740	Coal and nuclear combined typically fulfill what's called the baseload.
+236740	241580	Their continuous production essentially equals the valley of demand—they'll make the
+241580	244920	minimum amount of power needed at a point in the day.
+244920	250580	So then, on top of that, utilities need production methods that can fire up and shut down far
+250580	255340	faster—they need to be able to produce the power to operate all those AC units in hot
+255340	257060	summer afternoons.
+257060	261300	The bulk of this job is completed by natural gas-fired plants.
+261300	267980	Of the 25 in Colorado, 13 of these stations generate using a simple cycle combustion turbine.
+267980	273260	This is the simplest means of turning natural gas into electricity—much like a jet engine,
+273260	278000	the fuel is used to turn a turbine, which turns a generator, which produces electricity.
+278000	282660	More advanced natural gas power plants recover the hot exhaust to convert it into electricity
+282660	287120	too, but the startup process for these takes longer, so simple cycle stations are used
+287120	290120	for applications where speed is key.
+290120	294260	Most can reach full power within 15 minutes, making them an effective tool to respond to
+294260	296340	those short peaks in demand.
+296340	302220	Nuclear, coal, and natural gas are some of the more traditional means of generating electricity.
+302220	307220	The recent proliferation of renewable energy sources, though, has kickstarted a reinvention
+307220	310220	of this system of baseload and peaker plants.
+310220	315700	That's because, when wind and solar generating stations can make power, that power is essentially
+315700	321420	free—meaning, there's essentially no additional, variable cost to generate power once the panels
+321420	322980	or turbines are installed.
+322980	328160	That's not the case with natural gas-fired plants, for example, as the gas itself represents
+328160	330020	one of their primary costs.
+330020	334800	So, this essentially creates a new bottom layer to the energy mix, but it's a bottom
+334800	338120	layer that's uncontrollably variable.
+338120	342420	One sunny, windy day could mean that a state has an excess of electricity when added to
+342420	346900	its baseload sources, while one cloudy, windless day could mean that the peaker plants have
+346900	349140	to operate at full force.
+349140	353620	Nuclear and onshore wind power are now some of the cheapest sources of electricity, but
+353620	358180	because they rely on natural phenomena, they can't match supply to demand the way that
+358180	361860	the traditional nuclear, coal, natural gas trifecta can.
+361860	366940	Therefore, grids are being reinvented so that supply doesn't have to match demand—at
+366940	368960	least minute to minute.
+368960	374580	Of course, the way to do that is with storage, but storing electricity is not easy.
+374580	379760	The average American household uses about 30 kilowatt-hours of electricity per day.
+379760	384960	Lithium-ion batteries currently cost around $130 per kilowatt-hour, meaning one day storage
+384960	389980	for one household would cost around $3,900 in batteries—and that's excluding all
+389980	394060	the additional infrastructure needed to make such an installation possible.
+394060	398420	Considering the average American household pays less than half of that per year in electricity
+398420	402780	bills, installing such a system grid-wide would be economically impractical.
+402780	408420	Nonetheless, Colorado has four battery electric storage systems—albeit at a relatively
+408420	409620	minor scale.
+409620	415040	The largest of which is used to power Fort Carson, a US Army base near Colorado Springs.
+415040	419660	They charge up the 8.5 megawatt battery at night, when electricity demand and therefore
+419660	424220	rates are low, then use the power during the day when the majority of the base's electricity
+424220	425620	use occurs.
+425620	429540	The system's savings should make up for its installation costs in about 13 years,
+429540	433480	then by the end of its practical lifespan, it's expected to have saved the Army about
+433480	436960	half a million dollars in electricity costs.
+436960	441180	While such a system can make economic sense for large complexes that can invest in infrastructure
+441180	445680	that won't pay off for more than a decade, it's just not practical grid-wide, at least
+445680	446780	right now.
+446780	450980	Even if there was the battery production capacity to make a meaningful dent in the world's
+450980	455300	electricity use, the savings just happen too far in the future for most to consider such
+455300	457140	storage to be worth it.
+457140	461840	However, for entirely different reasons, in the coming decades, more and more people will
+461840	466960	be purchasing massive battery packs—the ones inside their EVs.
+466960	471180	With most forecasts suggesting that some third of new car sales in the US will be electric
+471180	476460	by 2030, a potential solution to the grid storage need could arise naturally.
+476460	483580	A Rivian R1T, for example, holds a 135 kilowatt-hour battery pack, meaning it could, theoretically,
+483580	487340	power the average American household for four and a half days.
+487340	492420	While EVs typically take in electricity, little stands in the way technologically from them
+492420	494820	giving that electricity back to the grid.
+494820	499500	So, the idea is that EVs could charge at night or when renewables are performing well, then
+499500	503220	supply some of that electricity back to the grid during the day while parked and plugged
+503220	504220	in.
+504220	508620	In exchange, vehicle owners would be compensated a small amount by the utility company.
+508620	512900	While the real-world, wide-scale economics have yet to be proven, especially in the face
+512900	517620	of battery degradation, this vehicle-to-grid concept could potentially play a cooperative
+517620	520420	role in the transition towards a greener grid.
+520420	524980	Now, the largest current battery electric storage system in Colorado, the Fort Carson
+524980	528740	installation, has 8.5 megawatts of capacity.
+528740	533280	Elsewhere in the state, however, there is a massive, different form of battery that
+533280	537340	can power over 10,000 homes at once.
+537340	540080	And it looks like this.
+540080	544400	Power is one of the earliest forms of energy that humans harnessed, and it still represents
+544400	548180	one of the best sources of electricity.
+548180	550200	Hydroelectric power is the best of both worlds.
+550200	554580	While there's certainly the potential for environmental damage from damming up rivers,
+554580	559400	the carbon impact is near zero, meaning hydro is green like wind and solar.
+559400	561880	However, it's also reliable.
+561880	567440	In theory, hydroelectric dams can start and stop making power in minutes, even if in practice
+567440	572260	a minimum flow is typically maintained, so they can operate like those natural gas single-cycle
+572260	575080	peaker plants responding to demand.
+575080	579280	Of course, there's only so much water upstream, especially in a place like Colorado, which
+579280	584280	is in the midst of a 20-year long drought, but hydroelectric dams simply convert potential
+584280	589320	energy into electric energy—there's no reason why that process can't happen in
+589320	590320	reverse.
+590320	594880	That's what happens here, at the Cabin Creek Generating Station.
+594880	598380	When electricity's cheap, typically at night, or when wind and solar are performing
+598380	603600	at their peak, the facility uses it to pump water to its upper, higher elevation reservoir.
+603600	608240	Then, when electricity's expensive and in demand, like in the late afternoon, it will
+608240	612280	start flowing that water through its turbines, out into its lower reservoir.
+612280	616520	It's essentially a form of price arbitrage, but it's one that's already helping smooth
+616520	620240	out the peaks and valleys of wind and solar power production.
+620240	625600	Now, no matter how well supply is matched to demand, electricity is of no use to that
+625600	630640	Glenwood Springs, Colorado library until, of course, it gets there.
+630640	635200	Many have an image of power plants as something sitting just outside every town and city—while
+635200	639600	that's how the earliest grids operated, it's hardly the case anymore.
+639600	644940	Despite dramatic declines in the past decade, some 42% of Colorado's power supply still
+644940	646640	comes from coal.
+646640	650960	That means that nearly half of the state's electricity originates from, essentially,
+650960	654680	just six sites—the state's coal power stations.
+654680	660280	Therefore, the ability to effectively transport electricity over a long distance is essential.
+660280	666340	Now, what makes long-distance transmission tricky is simple—the further you send electricity,
+666340	670920	the more you lose along the way, typically through unavoidable conversion to heat.
+670920	675700	Meanwhile, the more centralized your electricity production, the less it costs—it's simple
+675740	677460	economies of scale.
+677460	682220	Therefore, the task of transmission is all about balancing these competing effects to
+682220	684020	find an equilibrium.
+684020	689500	Now, houses, businesses, and other buildings connected to the grid all use alternating
+689500	691020	current power.
+691020	695540	A big reason why this standard beat out its direct current competitor in the days of Tesla,
+695540	700100	Westinghouse, and Edison is because it's relatively easy to convert AC power between
+700100	703220	higher and lower voltages using transformers.
+703260	708620	What makes this crucial is that the higher the voltage, the less electricity lost during
+708620	709620	transmission.
+709620	714600	Specifically, a doubling in voltage quarters the power loss in transmission.
+714600	720180	That relatively simple voltage transformation allows for a more efficient electricity distribution
+720180	721180	system.
+721180	726900	Colorado's second largest power plant is this—the Craig Generating Station.
+726900	731080	It connects to some of the state's highest voltage transmission lines, two of which head
+731080	733760	due south until the town of Rifle.
+733760	740640	Now, these lines operate at 345 kilovolts, which means that, in theory, over the 75-mile
+740640	747240	or 120-kilometer stretch from Craig to Rifle, about 3.2% of the electricity is lost—a
+747240	751960	relatively minor amount thanks to the efficiency of high-voltage transmission.
+751960	756400	Other more densely populated regions, which need more electric transmission capacity,
+756400	761000	have even higher voltage lines, all the way up to 765 kilovolts.
+761000	764380	The current highest voltage transmission standard in the US.
+764380	769240	Quite few of these lines exist in the US—there's one connecting Quebec to New York State, and
+769240	772560	then a larger system spanning between Illinois and Virginia.
+772560	778240	These can carry about six times as much electricity as the 345 kilovolt line between Craig and
+778240	786560	Rifle and, thanks to their high voltage, see as little as 0.6% loss per 100 miles or 160
+786560	787560	kilometers.
+787560	792800	This means that, in theory, assuming the infrastructure existed, a 765 kilovolt line
+792800	798060	could transmit electricity from New York to LA, and about 87% of it would still be there
+798060	799060	at the other end.
+799060	804300	That's why these high-voltage lines are becoming more and more common.
+804300	808680	But what's even more efficient than transmitting an alternating current at a super-high voltage
+808680	810960	is transmitting a direct current.
+810960	814740	Of course, the difficulty with direct current is that transforming it between voltages is
+814740	818980	more expensive than with AC, and for use in today's grid, it has to be converted
+818980	821500	to AC power, which is also expensive.
+821500	827060	However, compared to the absolute lowest 0.6% loss per 100 miles with the highest voltage
+827060	833420	AC lines, DC lines see as little as 0.45% loss per 100 miles.
+833420	838520	Therefore, when there's a need to transmit a huge amount of electricity over a long distance,
+838520	843180	the economics can work in favor of converting power to DC at its origin, and converting
+843180	846060	it back to AC at its destination.
+846060	850620	Perhaps the most prominent application of such a system in the US is the Pacific-DC
+850620	854920	Intertie, stretching between Northern Oregon and Los Angeles, California.
+854920	859260	In the summer, the temperate Northwest has relatively little power demand, but generates
+859260	863540	a huge amount of cheap electricity thanks to a tighter electric dance.
+863540	869420	So, the Pacific-DC Intertie sends this electricity south to power Los Angeles' air conditioners
+869420	871420	during its hot summer.
+871460	875620	Meanwhile, in the winter, Los Angeles sees temperate weather and little need for climate
+875620	880500	control, so it sends its excess electricity north to the Pacific Northwest to power its
+880500	881900	electric heating.
+881900	886460	Phenomena like this demonstrate why creating a greener, more efficient grid involves a
+886460	891180	proliferation of long-distance power transmission infrastructure—it's needed to balance
+891180	895420	out seasonal trends, and to bring power from where it can be produced easily to where it
+895420	897020	cannot.
+897020	902540	Back in Colorado, though, its relatively minor 345 kilovolt line from the Craig Power Station
+902540	906940	eventually enters this more populated area flinking Interstate 70.
+906940	912780	Here, there are a number of nearby towns that need electricity, but sending 345 kilovolts
+912780	915500	to each of these would not be efficient.
+915500	920300	That's simply because the higher the voltage, the higher the construction cost.
+920300	928420	A 345 kilovolt substation might cost $10.7 million, while a 235 kilovolt one just $7.6.
+928420	935580	Meanwhile, a 345 kilovolt line costs around $4.5 million per mile to build, while a 230
+935580	938100	kilovolt line just $2.8 million.
+938100	942460	Therefore, even though the transmission losses will be greater, a number of substations around
+942460	947680	rifle transform the electricity to 230 kilovolts, and then smaller, cheaper lines carry the
+947680	952080	flow west, south, and east, closer to its final customers.
+952080	957120	About 30 miles or 50 kilometers to the east, this line encounters another substation, which
+957120	962040	steps it down to just 69 kilovolts, and then another yet smaller line circles back towards
+962040	963440	Glenwood Springs.
+963440	968460	The power is then stepped down again to 12.47 kilovolts, before a final transformer converts
+968460	975360	it to 120, 240, or 480 volts—the voltage is used by almost all buildings in the US,
+975360	980220	including the public library of Glenwood Springs, Colorado.
+980220	984360	Unlike with electricity, the supply of domain names is stable—there's only one went
+984360	989160	over productions.com, for example—even as demand grows and grows.
+989160	993480	There are now more websites on the internet than ever before—around 2 billion—so if
+993480	997760	there's even a chance you will want to make one in the future, now is the time to buy
+997760	1000100	your domain before it's gone.
+1000100	1003680	Our sponsor, Hover, makes that incredibly easy.
+1003680	1006880	Whether you want the domain corresponding to your name, your business, your YouTube
+1006880	1011560	channel, or anything else, Hover makes finding it super simple, and you can even get extra
+1011560	1017240	creative and stand out with our over 400 domain extensions—like I did with our Wendover.Productions
+1017240	1018240	domain.
+1018240	1022920	Plus, with your new custom domain, Hover can set up a custom email address in seconds,
+1022920	1027800	meaning you can stand out with a firstname at lastname.com email address, for example.
+1027800	1033040	Hover also has super fair, transparent pricing, and truly awesome customer support, making
+1033040	1036280	them definitively the best place to go to get your domain.
+1036280	1039680	There's a reason why I've bought every domain of mine through Hover, and you can
+1039680	1044240	too for 10% off, by clicking the button on screen or heading to hover.com slash Wendover,
+1044240	1047320	and you'll be helping support the channel while you're at it.

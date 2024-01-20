@@ -1,0 +1,319 @@
+start	end	text
+0	5920	It's 4.55am on a March day at the National Weather Service's Twin Cities Forecast Facility
+5920	10640	when the morning stillness is broken by the rattle of a garage door opening.
+10640	15300	As they do every single morning of every single day, a meteorologist working the station's
+15300	19540	public service desk is launching a helium and hydrogen-filled latex balloon connected
+19540	23240	to an expendable radio scone by 80 feet of string.
+23240	28480	At the very same time, meteorologists from the other 91 NWS radio scone stations across
+28480	33800	the US, along with hundreds from around the globe, are launching their own upper-air atmospheric
+33800	34800	soundings.
+34800	39260	In the next two hours, these balloons will climb up to 100,000 feet, or 300,000 meters
+39260	43840	into the atmosphere, drifting as far as 200 miles or 320 kilometers from their launch
+43840	48560	point while their payload, about the weight of a grapefruit, relays temperature, air pressure,
+48560	50880	and humidity data back to the station.
+50880	55480	The technology might be simple, but the readings from various altitudes captured every 12 hours
+55480	57720	are simply irreplaceable.
+57720	61600	These data, transmitted by radio frequency then scrubbed for errors by the meteorologists
+61600	65800	that launched the balloon in the first place, will get compiled and plugged into impossibly
+65800	69840	complex models in the National Centers for Environmental Prediction and then archived
+69840	73360	at the National Climate and Data Center, but that's later.
+73360	78160	Right now, as the Minneapolis meteorologists follow their highly standardized routine,
+78160	80000	one reading catches their eye.
+80000	85840	The barometer reads 1,017 millibars—a high-pressure front developing.
+85840	90560	For our meteorologists, an Arctic cold front means a few more freezing commutes and balloon
+90560	91560	launches.
+91560	95480	For the rest of the US, it might not mean much, or it might present a problem.
+95480	99860	That's not a conclusion the data from a single balloon can possibly offer.
+99860	103780	To fulfill their task of telling the public what's to come, the US's National Weather
+103780	108000	Service is going to need far, far more data.
+108000	114160	To start, the NWS operates 160 high-resolution Doppler weather radars, each dedicating seven
+114160	118360	seconds an hour to emitting quick bursts of energy, then the rest listening for its return
+118360	121720	to interpret what's present in the sky—water or air.
+121720	125880	The multi-million dollar installations are spread out across the 50 states, Puerto Rico,
+125880	130960	Guam, and uniquely, at one US military base in Okinawa, Japan, and two others in South
+130960	135040	Korea, putting the American National Weather Service in the exceptional position of maintaining
+135040	138600	near-complete weather radar coverage over a foreign country.
+138600	142920	In the US itself, most metro areas are covered, and the deployment of the system was credited
+142920	148220	with increasing average tornado warning times from four to eleven minutes, but still, meaningful
+148220	149960	gaps exist.
+149960	154480	While gaps over sparsely populated western states are inconvenient obstacles to accurate
+154480	160920	forecasts, the NWS lacks visibility into some slivers of the area known as Tornado Alley—an
+160920	164780	area that relies on these radars to give them the notice needed to get into shelters when
+164780	166660	a tornado does form.
+166660	170980	With these NEXRAD radars now out of production and every existing one in use, there is little
+171020	175700	opportunity for improvement short of a costly system-wide upgrade, but for the most part,
+175700	180940	these 160 radars get the job done and form the foundation of the agency's data collection
+180940	181940	mission.
+181940	187160	But as groundbreakingly effective radar technology is, it's a proxy for measurements actually
+187160	188860	taken in the sky.
+188860	192660	This is why the NWS goes through the effort to launch those hundreds of weather balloons
+192660	197460	daily, but of course, planes are already up there anyways.
+197460	201340	Not only that, but the typical commercial aircraft already has the instruments necessary
+201340	205560	to observe atmospheric conditions, so that's why the World Meteorological Organization
+205560	209020	set up the Aircraft Meteorological Data Relay System.
+209020	213580	Forty-three airlines around the world, including Alaska, American, Delta, FedEx, Hawaiian,
+213580	218100	Southwest, United, and UPS, have agreed to collect meteorological data in flight and
+218100	222500	transmit it to the WMO via satellite or VHF radio.
+222500	226900	Meteorologists describe these data as crucial to the accuracy of forecasts, since such frequency
+227340	231500	of atmospheric data cannot be inexpensively obtained through any other means.
+231500	236780	In fact, forecasts globally became meaningfully less accurate at the start of the COVID pandemic
+236780	240900	due to the loss of much of these data as air travel took a downturn.
+240900	245220	But as important high-altitude data is to predicting what's to come on the ground,
+245220	249160	the NWS still needs to know what's happening on the ground right now.
+249160	254100	For that, there are 900 automated surface observation systems, again spread out across
+254100	257100	the entire country, primarily at airports.
+257100	261460	These include a suite of sensors—temperature, air pressure, humidity, cloud coverage, and
+261460	266500	more—that automatically report data back to the NWS, and also automatically broadcast
+266500	271060	a radio frequency that pilots can use to gain valuable intel into conditions at their destination
+271060	272340	airport.
+272340	277140	Some observations, however, cannot be efficiently achieved through automated means.
+277140	279260	Some require the human touch.
+279260	284100	Precipitation, whether in rain, snow, or something in between, is largely measured by a horde
+284100	289620	of unpaid civilian volunteers donating their time to run 9,000 cooperative observer system
+289620	291460	sites across the country.
+291460	295640	Each follows strict protocol to provide the NWS with a daily precipitation measurement
+295640	299460	for their local area, which is the primary manner through which forecasters validate
+299460	303300	their forecasts—if they see that precipitation is constantly under their prediction in a
+303300	306520	given area, they'll adjust, and vice versa.
+306520	309800	These data are also crucial for establishing long-term trends.
+309800	314080	It was this program, for example, that observed that average precipitation in the US has grown
+314080	319980	7.8% since 1901 due to warming temperatures allowing the atmosphere to hold more water.
+319980	326420	A similar, even larger program exists called SkyWarn, where 350,000 trained volunteer weather
+326420	330380	spotters work with the NWS to act as their eyes on the ground.
+330380	334020	These volunteers, many of which are amateur radio enthusiasts that use their skills to
+334020	338660	communicate observations regardless of external conditions, track severe weather to both allow
+338660	342800	the NWS to alert others of what's to come, and help them validate their weather models
+342800	344300	and forecasts.
+344300	348660	But weather is global, and therefore in order to give Americans their forecast, the National
+348660	352900	Weather Service requires data from beyond the American states, territories, and few
+352900	354420	foreign radar sites.
+354420	358300	That's why the World Meteorological Organization exists.
+358300	362760	This specialized United Nations agency has myriad responsibilities, but perhaps the most
+362760	368100	pivotal centers around ensuring different national forecasters can and do cooperate.
+368120	373720	As of a few years ago, data sharing is mandatory among all WMO members, meaning the US's
+373720	378280	NWS gets meteorological data from its foreign counterparts, and vice versa, regardless of
+378280	382320	their geopolitical status, thus improving the quality of forecasts for all.
+382320	386780	As one of the world's preeminent meteorological organizations, the National Weather Service
+386780	392680	does, however, have some extra help in gathering data from the rest of the world—satellites.
+392680	397360	For decades now, a rotating cast of satellites have held two geostationary positions called
+397360	402380	GOES East and GOES West, streaming down a deluge of imagery and meteorological data
+402380	406100	to the agency's ground station on Wallops Island, Virginia.
+406100	411100	GOES East and West are currently operated by the GOES 16 and 17 satellites, respectively.
+411100	416420	In addition, the older GOES 15 satellite sits next to GOES 17 to provide redundant coverage,
+416420	421260	due to a reliability issue with 17, while GOES 14 sits powered down in a storage orbit
+421260	424360	in case an issue with another requires a quick replacement.
+424360	428560	Any gap in coverage from GOES East or West would impact forecast accuracy for hundreds
+428560	430380	of millions of Americans.
+430380	435940	Meanwhile, GOES 18 was launched in March 2022 and will soon replace GOES 17 to operate as
+435940	436940	GOES West.
+436940	441420	While these are focused on high-frequency, ongoing coverage of the US and its immediate
+441420	447040	surroundings, the agency also operates a non-geostationary satellite in a polar orbit to provide less
+447040	450860	frequent yet still important data and imagery of the rest of the world.
+450860	454920	A secondary function of these GOES satellites is to act as a means of communication for
+454920	460000	the most remote NWS observation stations on earth—BUIs.
+460000	464320	Stationed hundreds or thousands of miles offshore, weather BUIs provide a glimpse into areas
+464320	468800	of the earth entirely devoid of humans or civilization, but full of weather that could
+468800	470400	soon impact them.
+470400	474680	The network is run by NOAA's National Data Buoy Center, and each transmits near real-time
+474680	479600	conditions from the Great Lakes, Gulf of Mexico, Atlantic, and Pacific, including giving life-saving
+479600	483060	warning of potential impending tsunamis, for example.
+483060	487020	More typically, however, they provide the same data land-based stations offer, but in
+487020	491240	an area useful for giving coastal regions a heads-up of what's to come.
+491240	495300	On the hour, BUIs record temperature and pressure, which is subsequently relayed by the GOES
+495300	499760	satellites to the mainland and the supercomputers vacuuming up all possible data to help project
+499760	501420	an accurate weather model.
+501420	505580	The inclusion of these data may prove a good thing, too, as the same time that this weather
+505580	510120	balloon floating over Minnesota is picking up an inbound high-pressure front, this buoy,
+510120	515800	number 42019 off the coast of Texas, is reading an above-average air temperature and a below-average
+515800	516900	air pressure.
+516900	522300	For local forecasters, buoy station 42019, along with other readings, hint at a developing
+522300	526360	low-pressure front—some rain might be arriving along the gulf here soon.
+526360	530600	But as weather models render, taking into account both an arctic front descending across
+530600	535240	the Midwest and a warm, moisture-laden front developing across the gulf, a little rain
+535240	539340	might soon be the least of the NWS's worries.
+539340	544100	Weather develops at very different scales into very different consequences.
+544100	548880	To protect the individual, the thousands, and the millions, the NWS has to predict weather
+548880	551640	developments at varying scales.
+551640	556300	These predictions of all size and shape all largely emanate from here—the National Centers
+556300	561140	for Environmental Predictions Weather Prediction Center, where data from balloons, buoys, planes,
+561140	564800	and satellites the world over pours into various weather models.
+564800	570640	While the NWS produces a bevy of different models, they broadly all work the same.
+570640	576220	In each, numbers representing observed environmental conditions are plugged into a myriad of equations,
+576220	580520	the results of which, once overlaid on a map, offer both an approximate snapshot of the
+580520	585040	current atmospheric conditions and a simulated future that predicts how weather patterns
+585040	586400	will develop and move.
+586740	591180	While the same data, the same math, and the same laws of physics undergird all-weather
+591180	596420	modeling, it's a model's resolution and range that differentiates one from the next.
+596420	601820	The high-resolution rapid refresh model, for example, with its 2-mile, 3-kilometer resolution,
+601820	607040	its real-time visualizations, and its every-hour updating, offers unmatched detail and accuracy
+607040	611420	on the development of rapid-moving thunderstorms over the next hour, providing meteorologists
+611420	614020	more confidence in offering severe weather warnings.
+614560	618960	What it can't do is zoom out temporally or spatially to forecast nationwide developments
+618960	622480	even hours into the future—its scope is too focused.
+622480	627720	It can tell you to evacuate now, but can't help you decide to bring a rain jacket tomorrow.
+627720	632240	To help inform such important decisions between rain jackets or sunscreen, meteorologists
+632240	637680	use the North American Mesoscale model, which offers lower resolution than the HRRR, but
+637680	641800	identifies patterns that forecast their paths out to 61 hours.
+641800	646860	For an even broader picture, the NWS relies on the Global Forecast System, which again
+646860	650940	takes a broader view than the NAM, but is able to interpret atmospheric patterns and
+650940	655940	weather developments of global scale and to predict out to 10 days in the future—critical
+655940	659380	in tracking the long developments of hurricanes, for instance.
+659380	663260	Together, these models are incredibly powerful predictive tools.
+663260	667940	Running all these models, in turn, requires incredibly powerful computers.
+667960	672760	What makes all these models possible are two of the largest supercomputers in the US.
+672760	677280	In the wake of the NWS's Global Forecast System failing to identify the dangerous potential
+677280	681440	of Hurricane Sandy, Congress greenlit increased funding for NOAA.
+681440	686280	The result was the 2016 announcement that NOAA had increased its computing power tenfold
+686280	690980	with the introduction of two supercomputers in Reston, Virginia and Orlando, Florida.
+690980	695960	The $45 million dollar addition put the 18th fastest computer in the US in the hands of
+695960	701540	NOAA, which effectively evened the playing field between the NWS and its European counterpart.
+701540	705620	Doubling down on the modernization effort, NOAA again invested in its supercomputers
+705620	711100	in 2018, adding 60% more storage and more than doubling their computing capacity—moves
+711100	716220	which made room for updates and improvements to its models, from the HRRR to the GFS.
+716220	721080	Importantly, and further justifying such investment, these supercomputers are not only tasked to
+721080	726660	run and re-run and re-run atmospheric models all day, every day, they're also tasked
+726660	731440	with creating ensemble models—effectively running these same models time and time again
+731440	736020	with the parameters slightly changed to reflect the random chance of real-world weather and
+736020	740260	therefore give forecasters an idea of the degree of uncertainty for a given prediction.
+740260	744820	If the forecast holds up despite the random chance thrown in by the ensemble model, it's
+744820	746780	more certain, and vice versa.
+746800	752040	Together, these various models and the supercomputers that run them non-stop are immensely complex
+752040	753440	and extremely expensive.
+753440	759080	In the past they have proven incredibly valuable when extreme weather arises, and in the future,
+759080	764520	as far-flowing disparate signs of storms quietly develop, they'll prove critical to meteorologists
+764520	766160	again.
+766160	769800	Hours after the launch of a weather balloon in Minnesota, and a Buies upload off the coast
+769800	774800	of Texas on an early March day, they're proving their worth again as GFS forecasts
+774820	779460	and then ensemble GFS forecasts are beginning to project with higher confidence that a storm
+779460	782900	of significant destructive potential may be brewing.
+782900	787720	In the days prior, as millibars dropped over Texas, GFS models had identified the early
+787720	791420	stages of what meteorologists call a Gulf Low.
+791420	795260	Now with Buies proving such predictions correct, and with the concurrent development of a drop
+795260	799820	in cold front, they can now predict its direction and potential severity.
+799820	803800	While this Gulf Low seems to be mirroring historical patterns in that it too is primed
+803820	808020	to move a mountain of moisture out of the Gulf of Mexico, this particular storm, thanks
+808020	812140	to the deepening cold front and a U-shaped gulf stream, doesn't look like it will track
+812140	816320	along the western edge of the Appalachians, but rather through some of the most densely
+816320	819420	populated regions of the American East Coast.
+819420	825780	According to GFS forecasting, snow, and a lot of it, is headed northeast.
+825780	829620	Of course, forecasts are meaningless by themselves.
+829620	833960	To avoid the disaster of an unprepared populace in the firing line of an impending winter
+833960	839080	storm, plows still in the parking lot, stores without extra stock, kids still in school,
+839080	843880	commuters on the road at the wrong time, the National Weather Service has to actually communicate
+843880	845440	what's to come.
+845440	851520	To achieve this, the agency has 122 weather forecast offices distributed across the 50
+851520	856620	states, Puerto Rico, and Guam, each responsible for a dedicated zone of the country.
+856620	861380	A couple dozen staff in each work 24-7 to interpret models and issue forecasts for their
+861380	863120	surrounding region.
+863120	866880	Perhaps most importantly, though, they monitor and issue alerts for the most localized and
+866880	872020	often most dangerous threats—severe thunderstorm, flash flood, tornado warnings, and more all
+872020	874200	come from local WFOs.
+874200	878460	The on-the-ground presence also allows WFOs to tailor their activities to what's necessary
+878460	880140	for the people they serve.
+880140	885620	The Fairbanks, Alaska WFO issues a daily climbing weather forecast for nearby Denali, America's
+885620	886700	tallest mountain.
+886700	891280	The Dodge City, Kansas WFO, surrounded by hundreds of miles of wheat fields, reports
+891280	894680	daily soil temperatures so farmers can optimize their yields.
+894680	899360	The Grand Junction, Colorado WFO monitors and reports fire weather conditions, alerting
+899360	903260	the wildfire-prone area it's responsible for to the daily risk of one starting and
+903260	908260	spreading and therefore informing campfire bans, electric grid shutdowns, and more.
+908260	913700	Like most WFOs in fire-prone areas, the Grand Junction office also staffs an incident meteorologist
+913700	917500	who is prepared to quickly deploy to the field and embed in a wildfire camp to issue
+917500	922220	highly specific forecasts used by aerial firefighting pilots, hotshot crews, and other firefighters
+922220	924620	to safely approach and attack the burn.
+924620	930220	Finally, the local WFOs are responsible for many of the NWS's on-the-ground operations,
+930220	934140	from maintaining Doppler radars and automated surface observation stations, to running the
+934140	937900	local NWS twitter account, and far, far more.
+937900	943560	Ultimately, though, certain weather is just too big or otherworldly to be handled by small,
+943560	944900	local WFOs.
+944900	947800	For that, there are the national offices.
+947800	948800	Some are straightforward.
+948800	954560	Rivers, for example, run for hundreds or thousands of miles through countless WFO zones, so there's
+954560	959100	an additional system of 13 river forecast centers that split up the lower 48 and Alaska
+959100	964460	more or less based on watershed, issuing forecasts for their rivers' flows and, most importantly,
+964460	965920	their flood risk.
+965920	970400	Perhaps the best known of these national offices is the National Hurricane Center, based in
+970400	974560	a bunker-like building in Miami, Florida that's designed and certified to survive
+974560	978740	and operate through a category 5 hurricane—the most severe level.
+978740	983560	They have the stressful task of predicting the paths and intensities of hurricanes.
+983560	986660	If they get it right and people prepare, lives will be saved.
+986660	991280	If they miss the forecast, lives will be lost, and they potentially do this all while a hurricane
+991280	993000	passes directly over them.
+993000	996780	For this reason, the system is structured so the National Weather Prediction Center
+996780	1000660	in College Park, Maryland is prepared to take over responsibilities in an instant if
+1000660	1004660	the Miami Center goes offline during a storm, while there's also an additional office
+1004660	1010420	in Honolulu, Hawaii that staffs up if a comparatively rare Central Pacific hurricane forms.
+1010420	1014500	Most uniquely, the National Weather Service is also responsible for forecasting the weather
+1014500	1018860	not only beyond the borders of the US, but beyond the borders of this world.
+1018860	1022940	The NWUS's Space Weather Prediction Center in Boulder, Colorado takes in data from the
+1022940	1027780	GOES satellites and terrestrial sensors to report current and forecast future solar radiation
+1027780	1029640	and other space weather.
+1029640	1033900	This isn't just for the novelty, as high solar radiation activity, for example, can
+1033900	1035740	impact the human world.
+1035740	1040120	High frequency radio gets disrupted during solar flares, so commercial aircraft can't
+1040120	1043500	fly routes over the poles where they rely on it to talk to air traffic control if the
+1043500	1048480	center is forecasted high levels of radiation—and that's just the very start of issues solar
+1048480	1049780	flares can cause.
+1050300	1054800	Ultimately, though, the totality of the National Weather Service's work, the thousands of
+1054800	1059060	hourly observations from across the world and beyond, the full processing might of two
+1059060	1064460	incredible supercomputers, the collective efforts of thousands of highly trained individuals,
+1064460	1071220	all distills down to this—a couple-megabyte XML data feed updated every few minutes.
+1071220	1075780	Generally, people don't get the weather directly from the National Weather Service—they
+1075780	1079620	get it from the weather app on their phone, the TV meteorologist, or whatever's most
+1079620	1081340	convenient for them.
+1081340	1084780	Nearly every source of weather information in the US relies on the work of the National
+1084780	1089520	Weather Service, even if it's repackaged and rebranded, so the NWUS works to make these
+1089520	1093700	data abundantly accessible to those that get it to the end user.
+1093700	1098160	These XML data feeds are a major source, providing a structured set of current conditions and
+1098160	1102380	forecasts that can be quickly adapted and interpreted by software, and everyone, from
+1102380	1107320	individuals to commercial companies, is legally allowed to use these data since, as a production
+1107320	1112220	of the US government, it is not copyrighted and does not require a license.
+1112220	1116860	Of course, the times when weather information is most important are often also the times
+1116860	1121660	when communications are most difficult—the internet and TV might not be accessible when
+1121660	1122860	it really matters.
+1122860	1128460	Therefore, some 95% of the US population is within range of a NOAA weather radio station,
+1128460	1133260	which automatically broadcasts a 24-7 feed of conditions and forecasts.
+1133260	1137900	As a last resort, the National Weather Service also runs the Emergency Managers Weather Information
+1137900	1142220	Network, which uses their GOES satellites to broadcast a data feed down to earth that
+1142220	1146540	uniquely is accessible to anyone with a compatible satellite receiver.
+1146540	1152320	This data feed, available at 1694.1 MHz, includes all the information of conditions and forecasts
+1152320	1157060	for sites across the US, and even includes these visual forecasts, satellite imagery,
+1157060	1161580	and other images for onward use—allowing TV stations, emergency managers, and others
+1161580	1166900	to access this crucial information regardless of the condition of the world around them.
+1166900	1172440	In sum, this is how the National Weather Service tells the East Coast a snowstorm is coming.
+1172440	1177140	All it requires is a couple of satellites and supercomputers, hundreds of radars, observation
+1177140	1181640	stations, buoys, weather balloons, aircraft, and weather forecast offices, and thousands
+1181640	1187240	upon thousands of dedicated staff and volunteers.
+1187240	1190280	Rather than do the normal style of ad, since given the fact that you're watching this
+1190280	1194760	it hasn't convinced you yet, this time I'm going to count down the top ten of the many
+1194760	1198360	reasons why you should sign up for the Nebula CuriosityStream bundle deal.
+1198360	1202720	Ten, you can watch this and all of our regular videos without ads or sponsorships.
+1202720	1207680	Nine, you can watch other channels like RealLifeLore, Notchish Bikes, Mustard, and far more also
+1207680	1209360	ad and sponsorship free.
+1209360	1213000	Eight, you can watch all of these different big-budget originals that we've made—we've
+1213000	1215520	put a ton of work into each and I think they're all great.
+1215520	1219760	Seven, you can watch every episode from our new channel, Jetlagged the Game, a full week
+1219760	1220760	early.
+1220760	1224480	Six, you can watch all sorts of originals by other independent creators—I'd recommend
+1224480	1228000	Patrick Williams' Night of the Coconut, which is a feature-length multiverse film
+1228000	1232720	about a genocidal coconut—it's tough to explain but it's so much fun and so well-made
+1232720	1234800	and even includes a cameo by me.
+1234800	1239900	Five, you can discover other fantastic channels, as Nebula only includes a curated group of
+1239900	1242480	high-quality, thoughtful creators.
+1242480	1246200	One that I love in a very different genre is Berm Peak, where Seth brings his audience
+1246200	1250940	along to his unbelievable mountain bike trail-building projects in a way that even people with absolutely
+1250940	1253040	no affinity for bikes enjoy.
+1253040	1257160	Four, you can watch the smart, thoughtful content you clearly enjoy without an algorithm
+1257160	1260760	surfacing other clickbaity videos to pull your attention away—it's just you and
+1260760	1264440	the videos, without a platform designed to suck you in for as long as possible.
+1264440	1268360	Three, by watching through Nebula, you'll support all these independent creators and
+1268360	1272440	assure they make a stable income that helps them keep creating everything you love watching.
+1272440	1277280	Two, by signing up through our link, CuriosityStream.com slash Wendover, you'll get the bundle deal
+1277280	1281520	with CuriosityStream included, meaning you also get access to their fantastic catalog
+1281520	1286840	of top-notch non-fiction shows and documentaries, like Containership XXL, about how the largest
+1286840	1289840	container ship in existence was designed and built.
+1289840	1296600	And number one, all of this costs just $14.79 for a year—that's less than you probably
+1296600	1301160	pay for a month of the other streaming services you use, and this is two of them that you'll
+1301160	1302160	actually use.
+1302160	1305720	So, click the button on screen or head to CuriosityStream.com slash Wendover to sign
+1305720	1308880	up for the bundle deal, and thanks in advance for your support.

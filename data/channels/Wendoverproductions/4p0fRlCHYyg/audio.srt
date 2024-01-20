@@ -1,0 +1,1092 @@
+1
+00:00:00,000 --> 00:00:03,360
+This video was made possible by CuriosityStream.
+
+2
+00:00:03,360 --> 00:00:07,360
+Watch the companion video to this one, and loads more exclusive content, by signing up
+
+3
+00:00:07,360 --> 00:00:13,240
+for the CuriosityStream-Nebula bundle deal at CuriosityStream.com slash Wendover.
+
+4
+00:00:13,240 --> 00:00:19,180
+The story of supersonic passenger travel is long and tumultuous.
+
+5
+00:00:19,180 --> 00:00:23,620
+Nearly everyone has heard some version of why Concorde failed.
+
+6
+00:00:23,620 --> 00:00:29,040
+It was certainly the epitome of a technology ahead of its time, but the true story of why
+
+7
+00:00:29,080 --> 00:00:34,640
+it failed, or rather, more accurately, why it retired, is more nuanced than the popular
+
+8
+00:00:34,640 --> 00:00:40,060
+narrative of an overzealous, overly extravagant, inflexible aircraft.
+
+9
+00:00:40,060 --> 00:00:44,600
+There are degrees to which that narrative is true, but what you don't often hear is
+
+10
+00:00:44,600 --> 00:00:48,160
+this—Concorde was profitable.
+
+11
+00:00:48,160 --> 00:00:54,240
+A 747, the flagship of any subsonic fleet during the reign of Concorde, required a gallon
+
+12
+00:00:54,240 --> 00:01:00,120
+of fuel to carry one passenger 80 miles or one liter for 34 kilometers, assuming a full
+
+13
+00:01:00,120 --> 00:01:01,120
+load.
+
+14
+00:01:01,120 --> 00:01:07,400
+Meanwhile, Concorde required roughly one gallon to carry one passenger 17 miles or one liter
+
+15
+00:01:07,400 --> 00:01:12,440
+per 7 kilometers—clearly a quite decisive difference.
+
+16
+00:01:12,440 --> 00:01:17,280
+Concorde was vastly less efficient than the aircraft that is today fading away due to
+
+17
+00:01:17,280 --> 00:01:22,820
+its inefficiency, but the story doesn't end there.
+
+18
+00:01:22,820 --> 00:01:27,260
+That fuel currently costs about $1.68 per gallon.
+
+19
+00:01:27,260 --> 00:01:33,160
+Therefore, the fuel bill on a New York to London 747 flight, per passenger, is about
+
+20
+00:01:33,160 --> 00:01:38,980
+$73.50—not a dramatic amount relative to ticket prices.
+
+21
+00:01:38,980 --> 00:01:45,620
+Similarly, Concorde, burning about 206 gallons or 780 liters of jet fuel to carry a passenger
+
+22
+00:01:45,620 --> 00:01:50,700
+across the Atlantic, would burn $346 in fuel.
+
+23
+00:01:50,700 --> 00:01:55,540
+That's a staggeringly small number compared to its inflation-adjusted ticket price of
+
+24
+00:01:55,540 --> 00:01:59,680
+roughly $16,000 round trip.
+
+25
+00:01:59,680 --> 00:02:05,020
+Both Air France and British Airways, the two operators of the aircraft, paid a small sum
+
+26
+00:02:05,020 --> 00:02:09,580
+for the aircraft relative to its multi-billion dollar development cost, bankrolled by the
+
+27
+00:02:09,580 --> 00:02:12,100
+French and British governments.
+
+28
+00:02:12,100 --> 00:02:16,560
+Maintenance and operational costs were certainly high, but certainly not at the level that
+
+29
+00:02:16,560 --> 00:02:20,460
+some autopsies of the aircraft's demise make them out to be.
+
+30
+00:02:20,460 --> 00:02:25,900
+So altogether, both airlines were able to turn a tidy profit across the aircraft's
+
+31
+00:02:25,900 --> 00:02:31,580
+three decades of supersonic service, but there were other issues.
+
+32
+00:02:31,580 --> 00:02:33,580
+Part of it was versatility.
+
+33
+00:02:33,580 --> 00:02:39,100
+With a meager 4,500 mile, 7,200 kilometer range, and a brutally loud sonic boom that
+
+34
+00:02:39,100 --> 00:02:43,780
+forced nearly every government to ban it from flying over the speed of sound over land,
+
+35
+00:02:43,780 --> 00:02:48,980
+there were very, very few routes on which the aircraft could be used effectively.
+
+36
+00:02:49,020 --> 00:02:54,140
+Compounding those issues, its seats were sold slightly above first-class prices, around
+
+37
+00:02:54,140 --> 00:03:00,220
+$16,000 round-trip inflation-adjusted, and there are very, very few routes that can sustain
+
+38
+00:03:00,220 --> 00:03:03,460
+that level of first-class capacity.
+
+39
+00:03:03,460 --> 00:03:08,540
+Between EOS, Lavion, MaxJet, SilverJet, British Airways, and others, there's a long history
+
+40
+00:03:08,540 --> 00:03:13,940
+of airlines attempting to operate all business-class flights between London or Paris and New York,
+
+41
+00:03:13,940 --> 00:03:17,900
+and yet every single one of these eventually failed.
+
+42
+00:03:17,900 --> 00:03:23,280
+Concorde essentially involves trying to operate all first-class flights.
+
+43
+00:03:23,280 --> 00:03:29,180
+For context, in a non-COVID-impacted schedule, British Airways flies a mere 98 first-class
+
+44
+00:03:29,180 --> 00:03:32,220
+seats between London and New York each day.
+
+45
+00:03:32,220 --> 00:03:38,340
+With Concorde's double daily New York schedule, British Airways was operating some 200 first-class
+
+46
+00:03:38,340 --> 00:03:43,140
+seats in addition to dozens more on their regular subsonic services.
+
+47
+00:03:43,140 --> 00:03:48,320
+That's an enormous amount of first-class capacity that this route, the most valuable
+
+48
+00:03:48,320 --> 00:03:53,980
+in the world, can't even support today, so it's no surprise that it couldn't decades
+
+49
+00:03:53,980 --> 00:03:54,980
+ago.
+
+50
+00:03:54,980 --> 00:04:01,120
+Therefore, many Concorde services operated with more seats empty than full, and yet British
+
+51
+00:04:01,120 --> 00:04:04,200
+Airways still turned a profit.
+
+52
+00:04:04,200 --> 00:04:09,620
+Their typical 50-60% load factor worked great from a financial perspective, and some back
+
+53
+00:04:09,620 --> 00:04:14,820
+of the napkin math estimates that they could have broken even with as little as a 35% load
+
+54
+00:04:14,820 --> 00:04:15,820
+factor.
+
+55
+00:04:15,820 --> 00:04:20,000
+In fact, it's possible that they stumbled into the right sales strategy—the one they
+
+56
+00:04:20,000 --> 00:04:25,000
+had been missing all along—in the aircraft's final days.
+
+57
+00:04:25,000 --> 00:04:29,380
+After it was announced that Concorde would be retired, but while it was still flying,
+
+58
+00:04:29,380 --> 00:04:34,500
+British Airways heavily discounted fares, closer to business-class pricing, which increased
+
+59
+00:04:34,500 --> 00:04:42,700
+load factors dramatically, and yet they turned a $70 million profit—more than they ever
+
+60
+00:04:42,700 --> 00:04:44,660
+had before.
+
+61
+00:04:44,660 --> 00:04:49,640
+But many believe that British Airways and Air France weren't seriously trying to make
+
+62
+00:04:49,640 --> 00:04:51,800
+money with the aircraft.
+
+63
+00:04:51,800 --> 00:04:57,980
+In the end, its end came as the result of decades of lesser issues colliding with pure,
+
+64
+00:04:57,980 --> 00:04:59,620
+bad luck.
+
+65
+00:04:59,620 --> 00:05:06,420
+While taking off from Charles de Gaulle Airport on July 25th, 2000, Air France Concorde FBTSC
+
+66
+00:05:06,420 --> 00:05:11,420
+ran over a piece of engine cowling that a previous departure had lost, blew a tire,
+
+67
+00:05:11,420 --> 00:05:17,900
+and the ensuing debris ruptured a fuel tank, spilling fuel that ignited within seconds.
+
+68
+00:05:17,900 --> 00:05:22,220
+One hundred and thirteen lives perished.
+
+69
+00:05:22,220 --> 00:05:27,140
+This greatly sullied the image of the aircraft that both airlines had been using primarily
+
+70
+00:05:27,140 --> 00:05:31,340
+as a marketing tool, rather than a true profit center.
+
+71
+00:05:31,340 --> 00:05:35,000
+Maintenance bills were mounting as Concorde aged, and there were some indications that
+
+72
+00:05:35,000 --> 00:05:40,540
+first-class services on subsonic British Airways and Air France planes were turning a higher
+
+73
+00:05:40,540 --> 00:05:41,540
+profit.
+
+74
+00:05:41,540 --> 00:05:45,540
+Assuming that was true, these airlines would rather have had their passengers fly their
+
+75
+00:05:45,540 --> 00:05:50,100
+subsonic services—an assertion backed up by the fact that both airlines refused to
+
+76
+00:05:50,100 --> 00:05:54,940
+sell rather than retire Concorde, worrying that that would lead to losing loyal Concorde
+
+77
+00:05:54,940 --> 00:05:59,540
+flyers entirely, rather than converting them to subsonic services.
+
+78
+00:05:59,540 --> 00:06:07,580
+Altogether, the time was right to sunset the world's first supersonic passenger plane.
+
+79
+00:06:07,580 --> 00:06:10,260
+Two decades have now passed.
+
+80
+00:06:10,260 --> 00:06:14,500
+With all the progress the world has made in its march through time, some could not accept
+
+81
+00:06:14,500 --> 00:06:18,260
+a new era bound by mere subsonic travel.
+
+82
+00:06:18,780 --> 00:06:24,980
+We're now approaching a possible renaissance of supersonic passenger planes, and this time,
+
+83
+00:06:24,980 --> 00:06:28,080
+it might actually work.
+
+84
+00:06:28,080 --> 00:06:32,900
+There are three key players in the race to bring back supersonic travel—none of which
+
+85
+00:06:32,900 --> 00:06:38,620
+are Airbus, Boeing, Embraer, or any other current aircraft manufacturer.
+
+86
+00:06:38,620 --> 00:06:43,660
+Aerion was founded in 2003, the same year as Concorde's retirement, and has spent
+
+87
+00:06:43,660 --> 00:06:48,820
+the decade since developing a supersonic private jet, the AS-2.
+
+88
+00:06:48,820 --> 00:06:53,760
+In the timescale of aircraft development, they're not too far from launch, with production
+
+89
+00:06:53,760 --> 00:06:58,540
+expected to start in 2023, and a possible launch by 2026.
+
+90
+00:06:58,540 --> 00:07:03,100
+Boasting financial backing from Boeing, and a partnership with GE for engine development,
+
+91
+00:07:03,100 --> 00:07:07,860
+Aerion is certainly not in the business of selling pipe dreams.
+
+92
+00:07:07,860 --> 00:07:12,620
+Operating with a similar business strategy, Spike Aerospace also aims to develop a smaller
+
+93
+00:07:12,620 --> 00:07:14,580
+supersonic private jet.
+
+94
+00:07:14,580 --> 00:07:20,060
+Uniquely, they're planning to reduce complexity and increase efficiency by eliminating windows
+
+95
+00:07:20,060 --> 00:07:24,820
+entirely in the passenger cabin—replacing them with screens displaying high-definition
+
+96
+00:07:24,820 --> 00:07:26,860
+camera feeds from outside.
+
+97
+00:07:26,860 --> 00:07:31,600
+Despite its lack of big-name partners and a less slick public appearance, Spike is viewed
+
+98
+00:07:31,600 --> 00:07:36,020
+as a real contender and is working on a similar timescale to Aerion.
+
+99
+00:07:36,020 --> 00:07:39,320
+Then, there's Boom Technologies.
+
+100
+00:07:39,320 --> 00:07:44,740
+If you've heard of any supersonic aircraft developer, this is the one.
+
+101
+00:07:44,740 --> 00:07:50,240
+Their business model is entirely different—they're not taking the conservative, safer route with
+
+102
+00:07:50,240 --> 00:07:52,120
+smaller private jets.
+
+103
+00:07:52,120 --> 00:07:54,780
+They want the whole pie.
+
+104
+00:07:54,780 --> 00:07:59,000
+They want to be Concorde 2.0.
+
+105
+00:07:59,000 --> 00:08:03,040
+After emerging from the same powerhouse Silicon Valley accelerator program responsible for
+
+106
+00:08:03,040 --> 00:08:08,840
+Airbnb, DoorDash, Reddit, and more, they've initially focused their time and funding on
+
+107
+00:08:08,840 --> 00:08:14,720
+developing a one-person, proof-of-concept supersonic jet, the XB-1, to serve their ultimate
+
+108
+00:08:14,720 --> 00:08:21,360
+goal of launching a 65-to-88 passenger commercial supersonic jet—the Overture.
+
+109
+00:08:21,360 --> 00:08:28,160
+Like Aerion, they have some serious partners—Japan Airlines, the US Air Force, Rolls-Royce, and
+
+110
+00:08:28,160 --> 00:08:33,180
+more—and are viewed as the most ambitious of the three companies, yet potentially the
+
+111
+00:08:33,180 --> 00:08:36,440
+one with the most attainable goal.
+
+112
+00:08:36,440 --> 00:08:43,560
+Now, supersonic passenger travel has already existed, even if it doesn't now.
+
+113
+00:08:43,560 --> 00:08:48,940
+It will not be a technological breakthrough to simply make that happen again.
+
+114
+00:08:48,940 --> 00:08:55,000
+What will be a breakthrough, if achieved, though, is doing what Concorde could not.
+
+115
+00:08:55,000 --> 00:09:01,620
+Concorde could not facilitate widespread supersonic travel in a sustainable manner, both economically
+
+116
+00:09:01,620 --> 00:09:03,620
+and environmentally.
+
+117
+00:09:03,620 --> 00:09:06,300
+These companies just might.
+
+118
+00:09:06,300 --> 00:09:11,060
+A good portion of Concorde's issues originated from noise.
+
+119
+00:09:11,060 --> 00:09:17,020
+You see, a sonic boom is not, as some incorrectly believe, an isolated burst of noise at the
+
+120
+00:09:17,020 --> 00:09:20,060
+moment a plane reaches the speed of sound.
+
+121
+00:09:20,060 --> 00:09:24,880
+From the ground it is perceived as an isolated burst of sound, since a plane, and therefore
+
+122
+00:09:24,880 --> 00:09:30,320
+its shockwaves, are moving, but a sonic boom originates continuously as any object travels
+
+123
+00:09:30,320 --> 00:09:32,400
+above the speed of sound.
+
+124
+00:09:32,400 --> 00:09:38,300
+Therefore, if Concorde were to fly from New York to Los Angeles at supersonic speeds,
+
+125
+00:09:38,300 --> 00:09:42,640
+everyone between the cities would hear the 110 decibel noise.
+
+126
+00:09:42,640 --> 00:09:47,720
+That's roughly equivalent to the loudness of a chainsaw in your own hands, so it's
+
+127
+00:09:47,720 --> 00:09:54,360
+no wonder why nearly every country in the world banned supersonic planes over land.
+
+128
+00:09:54,360 --> 00:10:01,560
+Many believe that, to make supersonic passenger aviation viable, these bans need to end.
+
+129
+00:10:01,560 --> 00:10:06,460
+Meaning the political will to allow a small number of incredibly wealthy people in supersonic
+
+130
+00:10:06,460 --> 00:10:13,120
+jets to create such noise pollution is unrealistic, so rather, quite a lot of work is being put
+
+131
+00:10:13,120 --> 00:10:18,000
+into turning the sonic boom into more of a sonic thump.
+
+132
+00:10:18,000 --> 00:10:22,480
+While there are a few different techniques being tested, NASA is leading one of the most
+
+133
+00:10:22,480 --> 00:10:27,000
+concerted efforts to create a low-boom supersonic plane.
+
+134
+00:10:27,000 --> 00:10:32,020
+They contracted Lockheed Martin to develop the X-59 as part of their Low-Boom Flight
+
+135
+00:10:32,020 --> 00:10:37,320
+Demonstrator program and, if successful, it will turn the perceived loudness of a sonic
+
+136
+00:10:37,320 --> 00:10:42,500
+boom from that of a chainsaw to a car door closing.
+
+137
+00:10:42,500 --> 00:10:47,160
+You see, with Concorde, or essentially any existing supersonic plane, someone on the
+
+138
+00:10:47,160 --> 00:10:52,960
+ground, or more accurately the ocean, would actually hear two booms in very rapid succession.
+
+139
+00:10:52,960 --> 00:10:57,520
+That's because the shockwaves that are perceived as sonic booms originate almost
+
+140
+00:10:57,520 --> 00:11:01,080
+entirely from the nose and tail of the aircraft.
+
+141
+00:11:01,080 --> 00:11:06,900
+They coalesce together and travel to the ground, leading to those two rapid booms.
+
+142
+00:11:06,900 --> 00:11:12,000
+The theory behind NASA's X-59 aircraft is to spread those shockwaves out to create a
+
+143
+00:11:12,000 --> 00:11:15,560
+longer but quieter sonic boom.
+
+144
+00:11:15,560 --> 00:11:20,640
+With an elongated skinny shape and strategically placed canards, smaller shockwaves originate
+
+145
+00:11:20,640 --> 00:11:25,060
+across the length of the aircraft, thereby spreading the impact out.
+
+146
+00:11:25,060 --> 00:11:31,640
+After taking its first flight in 2022, this aircraft will be deployed from 2023 to 2025
+
+147
+00:11:31,640 --> 00:11:34,480
+to conduct tests over certain towns and cities.
+
+148
+00:11:34,480 --> 00:11:38,500
+They'll then gather feedback from those on the ground, essentially asking if the sound
+
+149
+00:11:38,500 --> 00:11:43,160
+is tolerable, before bringing their findings to national regulators around the world with
+
+150
+00:11:43,160 --> 00:11:49,000
+the goal of creating a new standard for an acceptable sonic boom in 2025.
+
+151
+00:11:49,000 --> 00:11:54,320
+Leon and Spike have quite a lot riding on that 2025 decision.
+
+152
+00:11:54,320 --> 00:11:59,080
+They're both basing their business around the prospect of enabling supersonic travel
+
+153
+00:11:59,080 --> 00:12:03,160
+not only over oceans, but over continents too.
+
+154
+00:12:03,160 --> 00:12:07,520
+Therefore, while their methods differ from NASA's, both companies are selling their
+
+155
+00:12:07,520 --> 00:12:12,680
+aircraft off of the promise of quiet sonic booms.
+
+156
+00:12:12,680 --> 00:12:19,380
+Boom Technologies, though, with their overture commercial jet, is taking a different tack.
+
+157
+00:12:19,380 --> 00:12:24,900
+When looking at boom's marketing materials, all the potential routes mentioned are transoceanic,
+
+158
+00:12:24,900 --> 00:12:26,080
+and that's no mistake.
+
+159
+00:12:26,080 --> 00:12:31,960
+They're not risking anything on the potential of governments changing a decades-old rule.
+
+160
+00:12:31,960 --> 00:12:37,440
+They're building a jet that's going to have a sonic boom, that's going to be loud,
+
+161
+00:12:37,440 --> 00:12:42,280
+and that's going to have little immediate prospect of flying over land—and they're
+
+162
+00:12:42,280 --> 00:12:43,280
+starting with that.
+
+163
+00:12:43,280 --> 00:12:47,520
+They're essentially building a jet that will be almost exclusively used on transatlantic
+
+164
+00:12:47,520 --> 00:12:52,640
+and transpacific routes, which do represent a big chunk of the world's long-haul flights,
+
+165
+00:12:52,640 --> 00:12:58,280
+and unless there's a massive change in legislation, it just won't be useful for, say, Europe
+
+166
+00:12:58,280 --> 00:13:00,160
+to Asia flights.
+
+167
+00:13:00,160 --> 00:13:04,960
+Boom certainly does have legislative hurdles—their aircraft will be louder at takeoff than current
+
+168
+00:13:04,960 --> 00:13:09,660
+noise restrictions allow—but this is part of the reason why the company, with the most
+
+169
+00:13:09,660 --> 00:13:15,860
+ambitious goal, might actually have one of the better chances at success.
+
+170
+00:13:15,860 --> 00:13:21,340
+But success for any of these companies, and passenger supersonic travel as a whole, all
+
+171
+00:13:21,340 --> 00:13:24,540
+hinges on the business case.
+
+172
+00:13:24,540 --> 00:13:31,100
+What brought Concorde down was, at a fundamental level, economics—even if it did attain profitability
+
+173
+00:13:31,100 --> 00:13:32,620
+for the airlines.
+
+174
+00:13:32,620 --> 00:13:38,420
+If anything, the attractiveness of supersonic passenger travel has declined since the days
+
+175
+00:13:38,420 --> 00:13:39,420
+of Concorde.
+
+176
+00:13:39,420 --> 00:13:44,340
+When it first entered service, the highest class of service on most airlines offered
+
+177
+00:13:44,340 --> 00:13:48,660
+seats similar to that of international premium economy today.
+
+178
+00:13:48,660 --> 00:13:54,180
+Nowadays, every major transatlantic airline has business class seats that lie flat as
+
+179
+00:13:54,180 --> 00:13:58,220
+beds, offering travelers the opportunity to get a decent night's rest while essentially
+
+180
+00:13:58,220 --> 00:14:01,380
+losing no productive time by flying overnight.
+
+181
+00:14:01,380 --> 00:14:07,180
+In addition, the vast majority of Concorde's passengers were traveling on business—a
+
+182
+00:14:07,180 --> 00:14:10,900
+segment of Traveler for which time efficiency is paramount.
+
+183
+00:14:10,900 --> 00:14:19,180
+In 1970, or 80, or 90, any time spent on a plane simply could not be productive for business.
+
+184
+00:14:19,180 --> 00:14:23,860
+Nowadays, though, most major airlines offer wifi, and people can conduct much of their
+
+185
+00:14:23,860 --> 00:14:29,260
+work remotely, meaning someone on a seven-hour transatlantic flight can, if they want, get
+
+186
+00:14:29,260 --> 00:14:32,500
+close to seven hours of work done.
+
+187
+00:14:32,500 --> 00:14:37,300
+Even if travel is now less time-efficient, it can be more productive.
+
+188
+00:14:37,300 --> 00:14:43,940
+Therefore, with supersonic travel theoretically less attractive, Aerion, Spike, and Boom need
+
+189
+00:14:43,940 --> 00:14:50,500
+to take the flawed business model of Concorde and improve upon it enough to not only fix
+
+190
+00:14:50,500 --> 00:14:56,260
+Concorde's issues, but address the new, more challenging business environment.
+
+191
+00:14:56,260 --> 00:15:01,180
+Of course, they know that, so that's exactly what they're doing.
+
+192
+00:15:01,180 --> 00:15:07,540
+Aerion and Spike, focusing first and foremost on private jets, sees this market as a more
+
+193
+00:15:07,540 --> 00:15:08,980
+attainable target.
+
+194
+00:15:08,980 --> 00:15:15,820
+Aerion, for example, is planning on a $120 million list price for its jet.
+
+195
+00:15:15,820 --> 00:15:22,020
+While this is quite the tidy sum, there are people buying $120 million private jets today.
+
+196
+00:15:22,020 --> 00:15:27,860
+For example, Airbus has sold more than 100 A320 family aircraft as private jets, and
+
+197
+00:15:27,860 --> 00:15:32,180
+those also list for upwards of $100 million.
+
+198
+00:15:32,180 --> 00:15:39,820
+There are also plenty of private 737s, A330s, 757s, A340s, 747s, and more.
+
+199
+00:15:39,820 --> 00:15:44,620
+With thousands of billionaires globally, there are certainly plenty of people who can and
+
+200
+00:15:44,620 --> 00:15:50,100
+will pay for the prestige and convenience of a supersonic private jet.
+
+201
+00:15:50,100 --> 00:15:55,940
+In addition to the lowered price sensitivity, the private jet market has another advantage.
+
+202
+00:15:55,940 --> 00:16:00,620
+Its consumers inherently value time incredibly highly.
+
+203
+00:16:00,620 --> 00:16:05,520
+On long-haul trips, most private jets are objectively less comfortable than certain
+
+204
+00:16:05,520 --> 00:16:08,920
+first-class options on commercial airlines.
+
+205
+00:16:08,920 --> 00:16:14,060
+Most mid-range private jets have 8-to-12 seats roughly equivalent in shape and size to those
+
+206
+00:16:14,060 --> 00:16:19,500
+used as first class on US domestic flights—a large recliner seat—in addition to a couch
+
+207
+00:16:19,500 --> 00:16:23,400
+which sometimes converts into a single bed for the primary traveler.
+
+208
+00:16:23,400 --> 00:16:27,620
+If you were to fly from Hong Kong to Sydney, for example, a group of wealthy people could
+
+209
+00:16:27,620 --> 00:16:32,360
+take Singapore Airlines' fully enclosed suites, with dedicated beds for each person,
+
+210
+00:16:32,360 --> 00:16:38,720
+for a fraction of the cost of a jet, but what they lose is time, convenience, and prestige.
+
+211
+00:16:38,720 --> 00:16:43,400
+Considering that plenty of people still choose to fly private long-haul, the type of person
+
+212
+00:16:43,400 --> 00:16:49,540
+accustomed to flying private values time, convenience, and prestige first and foremost
+
+213
+00:16:49,540 --> 00:16:55,340
+above comfort, and that's exactly the market that supersonic private jets appeal to.
+
+214
+00:16:55,340 --> 00:17:01,300
+Aerion sees enough demand for 500 to 600 of their aircraft in the next 20 years and, if
+
+215
+00:17:01,300 --> 00:17:05,700
+they're right, they're well on their way to profitability.
+
+216
+00:17:05,700 --> 00:17:11,340
+Boom Technologies, meanwhile, has to confront the task of making supersonic work for commercial
+
+217
+00:17:11,340 --> 00:17:13,100
+airlines.
+
+218
+00:17:13,100 --> 00:17:18,260
+This time, it's not going to be all about prestige, airlines are not going to get aircraft
+
+219
+00:17:18,260 --> 00:17:22,680
+for a fraction of development costs, and they're going to have to fly on more than
+
+220
+00:17:22,680 --> 00:17:25,900
+the few highest-yield routes in the world.
+
+221
+00:17:25,900 --> 00:17:33,060
+Their strategy has been, essentially, to trade a marketing problem for a development problem.
+
+222
+00:17:33,060 --> 00:17:37,940
+They claim that their aircraft will enable airlines to charge fares similar to that of
+
+223
+00:17:37,940 --> 00:17:43,380
+business class, as opposed to the first-class fares that were charged for Concorde.
+
+224
+00:17:43,380 --> 00:17:48,880
+Of course, remember, in Concorde's final six months of operation for British Airways,
+
+225
+00:17:48,880 --> 00:17:54,520
+they charged lower fares, closer to business-class prices, and that correlated with the most
+
+226
+00:17:54,520 --> 00:17:57,940
+profitable six months in the aircraft's history.
+
+227
+00:17:57,940 --> 00:18:03,060
+Now, if Boom creates an aircraft with low enough purchase, fueling, and maintenance
+
+228
+00:18:03,060 --> 00:18:08,760
+costs to enable such business-class fares, it's hard to believe that airlines won't
+
+229
+00:18:08,760 --> 00:18:11,420
+find routes on which it'll work.
+
+230
+00:18:11,420 --> 00:18:15,260
+For now, we'll just have to take their word for it, and wait and see.
+
+231
+00:18:15,260 --> 00:18:20,180
+There's hardly any way now, a decade from Overture's earliest possible service entry,
+
+232
+00:18:20,180 --> 00:18:22,900
+to know if this is realistic.
+
+233
+00:18:22,900 --> 00:18:29,740
+The fundamental advantage that this new generation of supersonic passenger jets has is that it's
+
+234
+00:18:29,740 --> 00:18:33,300
+a new generation—a second generation.
+
+235
+00:18:33,300 --> 00:18:38,100
+Concorde's development program, financed by the French and British governments, was
+
+236
+00:18:38,100 --> 00:18:42,440
+a massively expensive, deeply unprofitable venture.
+
+237
+00:18:42,440 --> 00:18:49,260
+The true beneficiaries of that spending, though, are Aerion, Spike, Boom, and every other company
+
+238
+00:18:49,260 --> 00:18:52,480
+that will develop supersonic jets.
+
+239
+00:18:52,480 --> 00:18:56,980
+With the benefit of hindsight, they get to develop a jet that addresses Concorde's
+
+240
+00:18:56,980 --> 00:19:01,620
+shortcomings, which objectively means that they have more opportunity for success.
+
+241
+00:19:01,620 --> 00:19:06,900
+That's certainly not to say they will succeed—they each have to stay afloat throughout a long,
+
+242
+00:19:06,900 --> 00:19:12,100
+challenging, and risky development process—but they are closer to the finish line than anyone
+
+243
+00:19:12,100 --> 00:19:14,340
+has ever been before.
+
+244
+00:19:14,340 --> 00:19:19,140
+Whether the world needs or wants supersonic planes is an entirely different question,
+
+245
+00:19:19,140 --> 00:19:25,300
+but regardless, it seems more certain than ever that within a generation, the world will,
+
+246
+00:19:25,300 --> 00:19:30,120
+once again, become a far smaller place.
+
+247
+00:19:30,120 --> 00:19:34,460
+I myself, of course, never flew Concorde, so I was curious what it was like.
+
+248
+00:19:34,660 --> 00:19:38,860
+I know the broad strokes, but I wanted the nitty-gritty details.
+
+249
+00:19:38,860 --> 00:19:41,220
+What was the Concorde experience like in the airport?
+
+250
+00:19:41,220 --> 00:19:42,220
+Which lounge did they use?
+
+251
+00:19:42,220 --> 00:19:43,980
+What was the meal like on board?
+
+252
+00:19:43,980 --> 00:19:44,980
+What did people do on board?
+
+253
+00:19:44,980 --> 00:19:49,140
+What was it like to land in New York before taking off from London, at least on the clock?
+
+254
+00:19:49,140 --> 00:19:53,940
+So, I did a bunch of research, compiled it into a companion video to this one, and uploaded
+
+255
+00:19:53,940 --> 00:19:55,580
+that to Nebula.
+
+256
+00:19:55,580 --> 00:19:59,660
+Of course, the reason why it's there is because the YouTube algorithm actually punishes
+
+257
+00:19:59,660 --> 00:20:05,520
+us creators for trying something new, but Nebula is a different platform with no algorithm,
+
+258
+00:20:05,520 --> 00:20:11,380
+no ads, no data mining—it's a video platform that is just about great, unique content made
+
+259
+00:20:11,380 --> 00:20:14,460
+by great, independent, educational creators.
+
+260
+00:20:14,460 --> 00:20:19,460
+The ecosystem and its financial model allows us to take risks and make big-budget projects
+
+261
+00:20:19,460 --> 00:20:24,500
+like Alaska's Silent Summer—my brand new hour-long documentary shot on location in
+
+262
+00:20:24,500 --> 00:20:30,660
+Ketchikan, a tourist town in Alaska that suddenly had to confront a reality without tourists.
+
+263
+00:20:30,660 --> 00:20:35,800
+The best way to get Nebula is undoubtedly through the rather amazing CuriosityStream
+
+264
+00:20:35,800 --> 00:20:36,860
+bundle deal.
+
+265
+00:20:36,860 --> 00:20:42,460
+At current sale prices, it's less than $15 a year to get access to both sites.
+
+266
+00:20:42,460 --> 00:20:45,680
+CuriosityStream has some phenomenal stuff, too.
+
+267
+00:20:45,680 --> 00:20:49,980
+One of my favorites is Gander International, the airport in the middle of nowhere, about
+
+268
+00:20:49,980 --> 00:20:54,420
+the airport that used to be one of the most important in the world as a refueling point
+
+269
+00:20:54,420 --> 00:20:57,940
+between the US and Europe until planes got longer range.
+
+270
+00:20:57,940 --> 00:21:03,320
+I truly don't know of a better deal in streaming—two streaming sites with stuff you'll actually
+
+271
+00:21:03,320 --> 00:21:07,740
+watch for less than $15 a year at current sale pricing.
+
+272
+00:21:07,740 --> 00:21:12,960
+What's more, signing up actually helps support countless independent creators, so make sure
+
+273
+00:21:12,960 --> 00:21:17,060
+to do so at CuriosityStream.com slash Wendover.
+

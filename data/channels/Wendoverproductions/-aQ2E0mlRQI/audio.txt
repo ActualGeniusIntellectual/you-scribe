@@ -1,0 +1,113 @@
+If you've ever looked at a flight tracker sometime around 10 or 11 pm eastern, you might
+have noticed something—perfect lines of planes stretching all the way to Europe.
+These are just some of the over 2,000 daily flights that cross the northern Atlantic.
+With so many flights, there just has to be organization.
+This is the most direct route from New York to London.
+You may think it's this—a straight line—but that straight line isn't actually a straight
+line.
+This line is a straight line because, despite what some may think, the earth is curved.
+From New York to London the curve you see on a flat map isn't too extreme, but in
+the case of a longer flight, such as from New York to Bangkok, the most direct route
+is not this, but this—straight over the north pole.
+It makes a lot more sense if you look at a north pole oriented map.
+If you draw the most direct route between Atlanta and London, you'll see that it passes
+over every major east coast international airport.
+That means that planes from Atlanta to Europe travel on the exact same route as planes from
+Charlotte, Washington, Baltimore, Philadelphia, New York, and Boston.
+All these transatlantic planes typically leave between 6 and 8 pm eastern to time their arrival
+for early morning in Europe.
+That means that there are potentially hundreds of planes all going the exact same route at
+the exact same time.
+The north Atlantic also has something known as the jet stream.
+These easterly winds average around 110 miles per hour and if planes fly in them, they can
+cut hours off their travel time.
+However, the winds are only strongest in a line 3 miles high and 100 miles wide.
+That further concentrates the flights.
+On average, an eastbound transatlantic flight from New York to London takes about 6 hours
+and 15 minutes.
+Coming back against the jet stream, the same flight takes over 7 hours.
+Sometimes the winds can be even more active, such as on January 8th, 2015, when British
+Airways flight 114 flew from New York to London in only 5 hours and 16 minutes—a new record
+for a commercial subsonic plane.
+On that day, the jet stream was blowing over 200 miles per hour and the Boeing 777 reached
+a speed of 745 miles per hour—only 16 miles per hour below the sound barrier.
+So when winds can cut an hour off a flight and a 777 burns 2,700 gallons of fuel per
+hour and jet fuel costs $1.89 per gallon, that's a $5,103 difference between being
+in the right and the wrong winds.
+Hopefully you now see why this is important.
+So there are all these planes that are flying the exact same route, but usually that's
+no problem.
+The busiest route in North America—New York to Chicago—sees over 100 flights per day,
+leaving as frequently as every 5 minutes during the morning and evening rush, and these planes
+just fly the most efficient route.
+Before the flight, route planners file a plan with air traffic control and during the flight,
+they're just directed by air traffic control in a way that keeps them 5 nautical miles
+from other planes.
+The difference between New York to Chicago and New York to London is that, over the North
+Atlantic, there is no radar.
+You see, radar only extends about 250 miles offshore.
+Transatlantic planes can be more than 1,000 miles from shore.
+That's why every morning, the route planners at Gander Air Traffic Control Center in Gander,
+Newfoundland publish the day's North Atlantic tracks.
+The night before, every airline that will fly across the Atlantic the following day
+sends Gander a preferred route message indicating what they think the best route will be.
+For the most part, Gander Center follows these requests and creates a set of 10 or so routes.
+These tracks attempt to get the most amount of planes on the most efficient route to Europe.
+The tracks are labeled—Zulu being the southernmost route, Yankee being the second southernmost,
+then X-Ray, then Whiskey, and so on and so forth.
+Here's how a flight on the tracks works, and I'll warn you, this is when the video
+gets technical.
+Let's say we're going from New York to Paris.
+Around half an hour before scheduled departure, the captain talks to normal air traffic control
+to request clearance for the route up to around Newfoundland, Canada.
+In most cases, clearance is given, and soon after will take off.
+About when the plane crosses the Gulf of St. Lawrence, the pilot will request the North
+Atlantic track that he or she desires.
+Here's today's message describing the day's routes over the Atlantic.
+After looking over this, the pilot decides to request track Whiskey.
+That means that, at least for now, we'll head towards the Rafin Waypoint—our oceanic
+entry point.
+Waypoints are fixed spots that are used for flight navigation.
+These are much easier for air traffic control to communicate to pilots than map coordinates
+when speaking over radio.
+Occasionally, you'll see some creatively named waypoints.
+Just north of Lebanon, New Hampshire, there's Ham, Burger, and Fries.
+On approach to Kansas City Airport, there's Spicy, Barbecue, Turkey, Smoke, Ribs.
+Boston has two waypoints in support of their sports teams—the Cubs and Bears.
+Some waypoint names are more somber.
+On the northern approach route to Washington-Reagan National Airport, just miles away from where
+a plane hit the Pentagon on 9-11, the waypoints read, We Will Never Forget, September 11th.
+Since the North Atlantic tracks change every day, the modem just gives the entry and exit
+waypoints and then coordinates for the route in between.
+Since the track coordinates are pre-programmed into the autopilot before takeoff, there's
+no reason to name them as waypoints since they won't be given over radio.
+In the case of this flight, we're requesting track Whiskey and, more than likely, Gander
+Control Center will give us permission, although sometimes they'll tell us to take a different
+route, usually because we're closer to another plane than the minimum separation
+distance.
+Since it's much more difficult to know where planes are over the North Atlantic, they're
+required to be 15 minutes separated—about 140 miles, rather than the normal 5 miles
+in areas with radar coverage.
+Assuming we're granted clearance, we'll head towards the RAF and waypoint and make
+sure that our satellite communication systems are working.
+Then we'll check to see if our high frequency radio is working—a backup in case other
+communications go down.
+Minutes later, just after passing RAF and waypoint, the controller will say, Radar service
+is terminated.
+Have a good night.
+And, we're on our own.
+All the North Atlantic tracks are preloaded onto autopilot, so there's really nothing
+to do except wait.
+When we hit 30 degrees west, we'll enter the Shandwick airspace approaching Western
+Europe.
+We switch our radios to Shandwick's frequency and fly a few more hours to our oceanic exit
+point—Gunzo Waypoint—meaning we've successfully traversed the Northern Atlantic.
+I hope you enjoyed this Wendover Productions video.
+Make sure to check out my last video on Guam here.
+Please also subscribe to this channel by clicking here.
+If you're already subscribed and not following me on Twitter, congratulations, you're in
+the 98.7%, but help me make that percentage smaller by going and following me on Twitter
+at WendoverPro.
+There's also a fan-moderated subreddit for this channel which you can find at www.reddit.com
+slash r slash Wendover Productions.
+Thanks again for watching and I'll see you soon for another Wendover Productions video.

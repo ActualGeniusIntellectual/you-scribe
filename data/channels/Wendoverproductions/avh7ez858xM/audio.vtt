@@ -1,0 +1,278 @@
+WEBVTT
+
+00:00.000 --> 00:08.020
+Let's say there's a trolley and some tracks.
+
+00:08.020 --> 00:09.780
+On those tracks are five men.
+
+00:09.780 --> 00:13.340
+The trolley is barreling down these tracks and you know with absolute certainty that
+
+00:13.340 --> 00:15.320
+it will hit those five men.
+
+00:15.320 --> 00:18.740
+Although there is a sidetrack with one man on it.
+
+00:18.740 --> 00:20.340
+In front of you is a switch.
+
+00:20.340 --> 00:25.000
+If you push it, the trolley will change directions and strike and kill the single man.
+
+00:25.000 --> 00:29.380
+If you do nothing, the trolley will strike and kill all five men.
+
+00:29.380 --> 00:30.820
+What do you do?
+
+00:30.820 --> 00:35.020
+Do you play an active role but condemn the man on the left track to death or do you do
+
+00:35.020 --> 00:38.960
+nothing but allow five individuals to die?
+
+00:38.960 --> 00:41.640
+This is a classic ethics thought experiment.
+
+00:41.640 --> 00:45.480
+Most people agree that they should divert the trolley and kill the one man.
+
+00:45.480 --> 00:48.240
+It works for the greater good and mitigates risk.
+
+00:48.240 --> 00:52.640
+Now, in a different scenario, let's say you're standing on a bridge over the trolley
+
+00:52.640 --> 00:56.480
+tracks and once again there's a trolley barreling down towards five individuals on
+
+00:56.480 --> 00:58.000
+the track.
+
+00:58.000 --> 01:01.500
+Standing next to you is a man so fat that you know that, if you were to push him on
+
+01:01.500 --> 01:07.140
+the tracks, he would stop the trolley in its tracks and save the five individuals.
+
+01:07.140 --> 01:11.700
+Far fewer people say that they would push the man in this circumstance than say that
+
+01:11.700 --> 01:15.140
+they would divert the trolley in the first circumstance.
+
+01:15.140 --> 01:19.980
+They are just not comfortable taking such an active role in the fat man's death.
+
+01:19.980 --> 01:23.900
+These thought experiments are just hypotheticals and it's unlikely that anyone would ever
+
+01:23.900 --> 01:25.420
+have to make those decisions.
+
+01:25.420 --> 01:29.720
+However, ethicists and developers are now having to create algorithms to dictate what
+
+01:29.720 --> 01:34.180
+our autonomous cars of the future should do in similar ethical conundrums.
+
+01:34.180 --> 01:38.420
+Unlike humans, self-driving cars will have the ability to carefully choose their response
+
+01:38.420 --> 01:42.560
+to an oncoming collision and will need a set of pre-designated rules to dictate what they
+
+01:42.560 --> 01:46.100
+should do in the event of an unavoidable collision.
+
+01:46.100 --> 01:49.400
+One thought would just be to tell the cars to follow the laws.
+
+01:49.400 --> 01:53.760
+The problem with this is that there aren't really laws for these situations.
+
+01:53.760 --> 01:58.480
+Many laws are written concerning that ethics is a messy and fluid concept.
+
+01:58.480 --> 02:02.680
+When judging a situation, one can never really know what motivated an individual to choose
+
+02:02.680 --> 02:07.180
+a certain action, but with self-driving cars, we will be able to understand the decision
+
+02:07.180 --> 02:08.880
+making process.
+
+02:08.880 --> 02:13.600
+Additionally, following the laws could be harmful in some situations.
+
+02:13.600 --> 02:17.900
+For example, let's say a vehicle stopped at a traffic light and there's a pedestrian
+
+02:17.900 --> 02:20.920
+in the crosswalk directly in front of a car.
+
+02:20.920 --> 02:26.500
+The car detects that a truck is coming in too fast from behind and will hit the car.
+
+02:26.500 --> 02:29.840
+The car cannot move forward without hitting the pedestrian.
+
+02:29.840 --> 02:31.480
+There are two options.
+
+02:31.480 --> 02:36.500
+The car can do nothing, stay put, get hit by the truck, and therefore hit the pedestrian
+
+02:36.500 --> 02:42.420
+in front, or alternatively, the car can move forward, hit the pedestrian, but avoid being
+
+02:42.420 --> 02:44.360
+hit by the truck.
+
+02:44.360 --> 02:48.520
+From our perspective, it probably seemed right for the car to move and hit the pedestrian.
+
+02:48.520 --> 02:52.580
+However, this would mean that it was the car injuring the pedestrian now rather than
+
+02:52.580 --> 02:54.180
+the truck.
+
+02:54.180 --> 02:58.800
+This presents tricky legal and ethical questions on whether the car is now at fault for the
+
+02:58.800 --> 03:02.340
+injuries of the pedestrian or if the truck is.
+
+03:02.340 --> 03:07.180
+Given the laws we have now, it's possible that the fault would be laid upon the car.
+
+03:07.180 --> 03:11.560
+Another question is who is at fault for an accident with a self-driving car.
+
+03:11.560 --> 03:16.080
+Concerning that there isn't a human driving, is it the owner of the vehicle's fault?
+
+03:16.080 --> 03:19.920
+Now let's say that the pedestrian was moving fast enough that he would no longer be in
+
+03:19.920 --> 03:24.680
+front of the car at the time of impact between the truck and the car, but that, in order
+
+03:24.680 --> 03:28.640
+for the car to move out of the path before the time of impact between the truck and the
+
+03:28.640 --> 03:31.960
+car, it would need to hit the pedestrian.
+
+03:31.960 --> 03:36.260
+Is it now ethical for the car to injure the pedestrian even though the pedestrian would
+
+03:36.260 --> 03:39.520
+likely escape injury if the car didn't move?
+
+03:39.520 --> 03:42.360
+Does it depend on the number of people in the car?
+
+03:42.360 --> 03:46.060
+What if the car had a mother of three and the pedestrian was a felon?
+
+03:46.060 --> 03:51.300
+Would it be different if the car had a felon in it and the pedestrian was a mother of three?
+
+03:51.300 --> 03:55.480
+That's where these ethical questions become even messier.
+
+03:55.480 --> 03:59.000
+Another school of thought is that the self-driving car should be programmed to save the most
+
+03:59.000 --> 04:03.540
+human lives or cause the least possible injury, however there are issues with this solution
+
+04:03.540 --> 04:05.260
+as well.
+
+04:05.260 --> 04:07.660
+Let's think about another situation.
+
+04:07.660 --> 04:11.720
+Say there are two motorcycles coming down towards a self-driving car on a road that
+
+04:11.720 --> 04:15.300
+is too narrow for the different vehicles to pass each other.
+
+04:15.300 --> 04:19.540
+The car does not have enough time to slow down and there is nowhere to veer.
+
+04:19.540 --> 04:23.100
+One motorcyclist has a helmet on and one does not.
+
+04:23.100 --> 04:26.940
+Should the car hit the motorcyclist with the helmet on because his injuries might be less
+
+04:26.940 --> 04:31.120
+severe or should the car hit the motorcyclist who does not have a helmet on because he did
+
+04:31.120 --> 04:33.160
+not properly protect himself?
+
+04:33.160 --> 04:36.900
+If cars were programmed to hit the motorcyclist with the helmet, that would mean that in a
+
+04:36.900 --> 04:40.280
+way it would become safer to ride without a helmet.
+
+04:40.280 --> 04:45.020
+It's a tricky situation altogether and a real ethical conundrum.
+
+04:45.020 --> 04:49.940
+It's very difficult for humans to explain or justify the rules behind our own ethics,
+
+04:49.940 --> 04:53.960
+so that's why these questions are so difficult to answer.
+
+04:53.960 --> 04:59.880
+For this reason, a proposed solution to program self-driving cars is moral modeling, essentially
+
+04:59.880 --> 05:02.280
+programming by example.
+
+05:02.280 --> 05:07.720
+The computer would be presented with a situation and a human, or ideally an ethics board, would
+
+05:07.720 --> 05:11.380
+tell the computer what the ethical solution would be.
+
+05:11.380 --> 05:15.980
+Over time, the computer would learn how to emulate the ethics of a human and essentially
+
+05:15.980 --> 05:19.560
+make the same decisions that a human would make.
+
+05:19.560 --> 05:24.020
+These are all situations that are very unlikely to happen, but with how prevalent autonomous
+
+05:24.020 --> 05:28.280
+cars are likely to become, the algorithms that will determine how to crash could choose
+
+05:28.280 --> 05:31.200
+the fate of dozens of lives each year.
+
+05:31.200 --> 05:36.820
+However, autonomous cars are predicted to save upwards of 30,000 lives per year once
+
+05:36.820 --> 05:38.740
+they are widespread.
+
+05:38.740 --> 05:44.080
+These ethics may become a hotly contested issue in a few years, however if these negotiations
+
+05:44.080 --> 05:49.600
+prevent or slow down the spread of driverless cars, many more lives could be lost than would
+
+05:49.600 --> 06:09.500
+ever be determined by the so-called death algorithms.
+

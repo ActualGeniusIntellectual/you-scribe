@@ -1,0 +1,2399 @@
+WEBVTT
+
+00:00.000 --> 00:03.540
+I remember exactly where I was.
+
+00:03.540 --> 00:05.380
+Sydney International Airport waded into board
+
+00:05.380 --> 00:06.680
+a 10-hour flight to Tokyo,
+
+00:06.680 --> 00:08.340
+followed by a 12-hour flight to Boston,
+
+00:08.340 --> 00:10.580
+then a one-hour one to D.C. to arrive home
+
+00:10.580 --> 00:12.780
+the day before Thanksgiving, 2018.
+
+00:12.780 --> 00:15.380
+My agent Dave said he had an idea he wanted to run past me,
+
+00:15.380 --> 00:16.980
+so he popped on a call.
+
+00:16.980 --> 00:19.620
+He had just talked to Vimeo, the video streaming platform.
+
+00:19.620 --> 00:21.100
+They were trying to persuade him to persuade
+
+00:21.100 --> 00:23.420
+one of his other clients to build a paywall streaming site
+
+00:23.420 --> 00:25.300
+for their videos using their tech.
+
+00:25.300 --> 00:27.640
+This, and infinite minor variations of this,
+
+00:27.640 --> 00:29.900
+was something we'd get pitched constantly as creators,
+
+00:29.900 --> 00:33.100
+but everyone recognized that it couldn't really work.
+
+00:33.100 --> 00:36.300
+In fact, it had a long history of not working.
+
+00:36.300 --> 00:38.540
+Perhaps the most flashy failure was Vessel.
+
+00:38.540 --> 00:39.780
+It launched in early 2015
+
+00:39.780 --> 00:41.480
+with the big-name creators of the time.
+
+00:41.480 --> 00:43.180
+Good Mythical Morning, Epic Meal Time,
+
+00:43.180 --> 00:45.080
+Shane Dawson, Linus Tech Tips.
+
+00:45.080 --> 00:46.660
+It was basically a YouTube replacement.
+
+00:46.660 --> 00:48.680
+Same content, same creators, same features,
+
+00:48.680 --> 00:51.060
+with the addition that users could pay $2.99 a month
+
+00:51.060 --> 00:53.000
+to watch videos 72 hours early.
+
+00:53.000 --> 00:54.900
+Combine that with their supposedly unique
+
+00:54.900 --> 00:57.220
+advertising ecosystem, and the pitch to creators
+
+00:57.220 --> 00:59.300
+was that they could earn dramatically more per view.
+
+00:59.300 --> 01:01.400
+This is always the core proposition
+
+01:01.400 --> 01:03.040
+with these alternate streaming services.
+
+01:03.040 --> 01:04.200
+More revenue per view,
+
+01:04.200 --> 01:07.240
+but they almost always have the same problem.
+
+01:07.240 --> 01:10.880
+The number of views is orders of magnitude lower.
+
+01:10.880 --> 01:13.580
+Platforms have to extract value from the audience somehow,
+
+01:13.580 --> 01:14.840
+whether through a paywall or through
+
+01:14.840 --> 01:16.280
+more intrusive advertising.
+
+01:16.280 --> 01:18.120
+So why would a viewer watch on your platform
+
+01:18.120 --> 01:20.560
+when they could watch the exact same content on YouTube
+
+01:20.560 --> 01:23.420
+for free and with less intrusive advertising?
+
+01:23.420 --> 01:25.420
+So creators signed on to platforms like Vessel,
+
+01:25.420 --> 01:26.960
+get menial views compared to YouTube,
+
+01:26.960 --> 01:28.600
+and before these platforms can grow enough
+
+01:28.600 --> 01:29.760
+to get to a point where it's worth it
+
+01:29.760 --> 01:31.540
+for creators beyond an initial test group,
+
+01:31.540 --> 01:33.500
+they run out of money and shut down.
+
+01:33.500 --> 01:36.060
+But we had some ideas on how we could fix that.
+
+01:36.060 --> 01:39.040
+We thought there was a chance that we had identified
+
+01:39.040 --> 01:42.300
+a magic formula that we were in a uniquely good position
+
+01:42.300 --> 01:45.220
+to undertake that could make this simple concept work
+
+01:45.220 --> 01:47.680
+where all others had failed.
+
+01:47.680 --> 01:51.520
+Four years later, well, not to brag, but we were right.
+
+01:51.520 --> 01:53.820
+Nebula has grown massively.
+
+01:53.820 --> 01:58.020
+Over 650,000 paying users, 100 staff members,
+
+01:58.680 --> 02:02.320
+a conservative overall valuation of over $150 million,
+
+02:02.320 --> 02:05.580
+and it did all of that with absolutely zero dollars
+
+02:05.580 --> 02:07.320
+of venture capital funding.
+
+02:07.320 --> 02:08.760
+So what did we do different?
+
+02:08.760 --> 02:11.460
+Why were we able to make this simple concept work
+
+02:11.460 --> 02:13.520
+when all others had failed?
+
+02:13.520 --> 02:16.160
+Clearly this video is going to be different.
+
+02:16.160 --> 02:18.700
+I'm not gonna be talking about logistics or geopolitics
+
+02:18.700 --> 02:20.700
+or infrastructure or another business.
+
+02:20.700 --> 02:22.240
+I'm talking about my business.
+
+02:22.240 --> 02:25.140
+So that's why, for the first time, I'm here.
+
+02:25.140 --> 02:26.880
+This was a tricky video to write.
+
+02:26.900 --> 02:29.440
+I'm trying to use my unique combination of positions
+
+02:29.440 --> 02:32.280
+as an owner of a now sizable business and as a creator
+
+02:32.280 --> 02:34.200
+to tell an intimate inside story
+
+02:34.200 --> 02:37.680
+of how you can grow an idea into an enterprise.
+
+02:37.680 --> 02:39.180
+There are a lot of things that can't be said
+
+02:39.180 --> 02:40.640
+for legal or practical reasons,
+
+02:40.640 --> 02:42.920
+and there are countless different stakeholders involved.
+
+02:42.920 --> 02:45.560
+So what follows is what I believe is the fullest story
+
+02:45.560 --> 02:48.060
+anyone can tell about the inside operations
+
+02:48.060 --> 02:49.760
+of a business of this size and nature,
+
+02:49.760 --> 02:51.260
+but there are, unfortunately,
+
+02:51.260 --> 02:53.020
+some things I just can't talk about.
+
+02:53.020 --> 02:56.160
+It's a long story, but it begins in a very small way.
+
+02:56.180 --> 02:57.920
+On July 27th, 2016,
+
+02:57.920 --> 03:01.220
+I got this DM from Philip Detmer of Curse Protect.
+
+03:01.220 --> 03:02.820
+Hey man, let's get right to it.
+
+03:02.820 --> 03:04.980
+So me and another big YouTuber might be starting something,
+
+03:04.980 --> 03:06.860
+but I can't really talk about it yet.
+
+03:06.860 --> 03:08.960
+We went back and forth for a month trying to schedule a call,
+
+03:08.960 --> 03:10.100
+then finally we talked.
+
+03:10.100 --> 03:12.060
+Basically, Philip was going to introduce me
+
+03:12.060 --> 03:13.700
+to the freelance sponsorship agent
+
+03:13.700 --> 03:16.360
+he and CGP Grey had been working with for years,
+
+03:16.360 --> 03:18.960
+and later that might turn into something bigger.
+
+03:18.960 --> 03:22.200
+That freelance sponsorship agent was Dave Whiskas.
+
+03:22.200 --> 03:23.300
+That's a name you'll want to remember.
+
+03:23.300 --> 03:24.840
+It's pretty relevant throughout.
+
+03:24.860 --> 03:26.660
+We talked, he promised better rates
+
+03:26.660 --> 03:28.860
+through a data-driven approach with an upfront commission.
+
+03:28.860 --> 03:30.140
+I somehow believed him,
+
+03:30.140 --> 03:33.060
+but eventually it turned out he was actually right.
+
+03:33.060 --> 03:34.500
+Some important context.
+
+03:34.500 --> 03:37.800
+The industry that had arisen around YouTube creators in 2016
+
+03:37.800 --> 03:40.640
+was chock full of liars, cheats, and thieves.
+
+03:40.640 --> 03:41.860
+It was only over the prior couple of years
+
+03:41.860 --> 03:43.700
+that people could start to make a living off of YouTube,
+
+03:43.700 --> 03:44.820
+and seemingly the first people
+
+03:44.820 --> 03:46.420
+that thought to insert themselves as middlemen
+
+03:46.420 --> 03:48.480
+were all glorified grifters.
+
+03:48.480 --> 03:51.140
+Getting sponsored is crucial to going full-time on YouTube.
+
+03:51.140 --> 03:52.720
+AdSense alone rarely cuts it,
+
+03:52.720 --> 03:54.580
+so at the time, the only deals I could land
+
+03:54.580 --> 03:56.040
+for my fledgling channel were ones
+
+03:56.040 --> 03:58.980
+that automatically locked me into six months of exclusivity
+
+03:58.980 --> 04:00.460
+with the agency I booked through
+
+04:00.460 --> 04:03.680
+without any guarantee they would actually fill video inventory
+
+04:03.680 --> 04:05.460
+and with undisclosed commissions.
+
+04:05.460 --> 04:07.720
+Undisclosed commissions in this context
+
+04:07.720 --> 04:10.580
+means they just told you exactly what you'd get paid,
+
+04:10.580 --> 04:12.680
+which sounds great in theory, but in practice,
+
+04:12.680 --> 04:14.340
+what it means is that they're selling the slot
+
+04:14.340 --> 04:15.980
+to the sponsor for one price,
+
+04:15.980 --> 04:19.320
+then paying you a completely different, lower price,
+
+04:19.320 --> 04:21.020
+and never telling you what the difference was.
+
+04:21.020 --> 04:22.960
+So just decide what they think you'll accept,
+
+04:22.960 --> 04:24.320
+but you have little leverage to say no,
+
+04:24.320 --> 04:27.120
+because once again, you're locked into exclusivity.
+
+04:27.120 --> 04:29.480
+You're only legally allowed to work with them.
+
+04:29.480 --> 04:30.920
+Oh, and also, contractually,
+
+04:30.920 --> 04:32.840
+they represented the sponsor, not the creator,
+
+04:32.840 --> 04:34.320
+so their incentives were to push the price
+
+04:34.320 --> 04:35.440
+as low as it could go.
+
+04:35.440 --> 04:37.040
+If you didn't like it and wanted to jump ship,
+
+04:37.040 --> 04:39.000
+you had to go without sponsorship for six months,
+
+04:39.000 --> 04:40.760
+which would kill your finances.
+
+04:40.760 --> 04:42.840
+I've seen hard evidence that this particular agency
+
+04:42.840 --> 04:45.400
+was taking a 50% undisclosed commission
+
+04:45.400 --> 04:46.760
+on certain creator sponsorships,
+
+04:46.760 --> 04:48.560
+so it's no wonder why Dave was able
+
+04:48.560 --> 04:49.960
+to immediately beat their rates
+
+04:49.980 --> 04:51.660
+and get sponsors to come back.
+
+04:51.660 --> 04:53.280
+They might have actually been paying less,
+
+04:53.280 --> 04:55.900
+but I, the creator, was getting more hit.
+
+04:55.900 --> 04:58.140
+By chance, Gray and Philip had also introduced Dave
+
+04:58.140 --> 04:59.540
+to Brian from Real Engineering.
+
+04:59.540 --> 05:01.140
+We had collaborated on a set of videos
+
+05:01.140 --> 05:02.660
+that turned out to be big viral hits
+
+05:02.660 --> 05:04.700
+that launched both of our channels into relevancy,
+
+05:04.700 --> 05:06.740
+so he was one of my first creator friends.
+
+05:06.740 --> 05:09.060
+The next one was Joseph from RealLifeLore.
+
+05:09.060 --> 05:11.740
+I had never met him in person, but we had talked plenty,
+
+05:11.740 --> 05:12.960
+so I convinced him to fly out
+
+05:12.960 --> 05:16.380
+to the inaugural VidCon Europe in Amsterdam in April 2017.
+
+05:16.380 --> 05:18.140
+Part of the reason was because I had been nagging Dave
+
+05:18.140 --> 05:19.580
+for months to work with Joseph,
+
+05:20.120 --> 05:22.400
+whose channel was exploding, and Dave would be there too,
+
+05:22.400 --> 05:24.120
+the perfect opportunity for them to meet.
+
+05:24.120 --> 05:25.920
+Joseph ended up having a nightmare weekend
+
+05:25.920 --> 05:28.360
+of travel delays, some snowstorm or something,
+
+05:28.360 --> 05:29.340
+so he didn't end up getting there
+
+05:29.340 --> 05:31.240
+until the afternoon of the last day,
+
+05:31.240 --> 05:33.520
+but I introduced everyone and we headed to a bar.
+
+05:33.520 --> 05:34.720
+We stayed there for hours.
+
+05:34.720 --> 05:35.720
+Everyone hit it off,
+
+05:35.720 --> 05:38.040
+and it capped off an exhilarating week out,
+
+05:38.040 --> 05:40.740
+the first time any of us had seen a physical manifestation
+
+05:40.740 --> 05:42.920
+of the industry we had inserted ourselves into.
+
+05:42.920 --> 05:45.160
+After working in isolation, it was eye-opening
+
+05:45.160 --> 05:46.880
+to see and talk to so many others
+
+05:46.880 --> 05:49.520
+doing the same thing as us, and according to Dave,
+
+05:50.340 --> 05:53.060
+in retrospect, this was the moment when he fully realized
+
+05:53.060 --> 05:56.140
+that this informal system of freelance sponsorship booking
+
+05:56.140 --> 05:58.700
+could grow into something more.
+
+05:58.700 --> 06:01.080
+It'd be called Standard, a purposely forgettable name
+
+06:01.080 --> 06:03.380
+for a company designed to exist in the background,
+
+06:03.380 --> 06:06.220
+making life easier for the creators on center stage,
+
+06:06.220 --> 06:07.060
+and it worked.
+
+06:07.060 --> 06:09.280
+Creators were simply just having a better experience
+
+06:09.280 --> 06:10.460
+working with Standard.
+
+06:10.460 --> 06:12.740
+The rates were strong, the experience was personal,
+
+06:12.740 --> 06:15.460
+the ethos ethical, in a landscape filled with grifters
+
+06:15.460 --> 06:17.980
+and cheats, the concept of a sponsorship agency
+
+06:17.980 --> 06:19.680
+simply doing its job fairly
+
+06:19.680 --> 06:22.280
+was enough to drive natural word-of-mouth growth.
+
+06:22.280 --> 06:24.060
+We added dozens of creators to the roster
+
+06:24.060 --> 06:26.560
+and started to be viewed as the go-to agency
+
+06:26.560 --> 06:27.800
+for educational YouTube.
+
+06:27.800 --> 06:29.480
+We hired staff, got an office,
+
+06:29.480 --> 06:31.960
+started throwing VidCon parties, it was all happening.
+
+06:31.960 --> 06:34.480
+Unbelievably, this part, the part that at the time
+
+06:34.480 --> 06:37.080
+felt like hard-earned yet incredible success,
+
+06:37.080 --> 06:39.760
+needs to get glossed over to get to the good part,
+
+06:39.760 --> 06:41.920
+November 27th, 2018.
+
+06:41.920 --> 06:43.400
+After a couple of days of back and forth
+
+06:43.400 --> 06:45.000
+with myself and a few other creators,
+
+06:45.000 --> 06:47.440
+that's when Dave emailed his full roster of creators
+
+06:47.440 --> 06:49.580
+the white paper, the initial concept
+
+06:49.580 --> 06:51.540
+laying out our vision for Nebula.
+
+06:51.540 --> 06:54.380
+This is that exact email.
+
+06:54.380 --> 06:55.860
+In some ways, it was close.
+
+06:55.860 --> 06:56.880
+How would this work?
+
+06:56.880 --> 06:59.140
+Standard creators post ad and sponsor-free versions
+
+06:59.140 --> 07:00.620
+of their videos, and occasionally
+
+07:00.620 --> 07:02.420
+the service premieres exclusive content.
+
+07:02.420 --> 07:05.660
+Let's say we charge users $5 per month for their service.
+
+07:05.660 --> 07:08.300
+All of this is still true to this day, even the price.
+
+07:08.300 --> 07:10.420
+In other ways, we were way off.
+
+07:10.420 --> 07:11.780
+How do we attract viewers?
+
+07:11.780 --> 07:14.940
+First, we can simply buy AdSense ads on Standard channels.
+
+07:14.960 --> 07:18.200
+Sponsoring our own creators feels wrong, at least for now.
+
+07:18.200 --> 07:20.240
+We can revisit it later if we think we can do it
+
+07:20.240 --> 07:21.120
+without looking dumb.
+
+07:21.120 --> 07:22.960
+This is about as wrong as it could be.
+
+07:22.960 --> 07:25.360
+We have never figured out how to make AdSense marketing
+
+07:25.360 --> 07:27.640
+for Nebula profitable, while sponsoring YouTube creators
+
+07:27.640 --> 07:29.800
+has been the driving growth force.
+
+07:29.800 --> 07:31.200
+We'll get to how we made that work.
+
+07:31.200 --> 07:33.800
+But the real key that we understood from day one
+
+07:33.800 --> 07:35.520
+was that opportunity cost.
+
+07:35.520 --> 07:37.800
+To Standard, but especially to creators,
+
+07:37.800 --> 07:41.240
+had to be as small as it could possibly be.
+
+07:41.240 --> 07:43.720
+Equivalents before us always raised a huge amount
+
+07:43.740 --> 07:46.420
+of venture capital funding, made a big splash at launch,
+
+07:46.420 --> 07:48.180
+and ran out of money before profitability,
+
+07:48.180 --> 07:50.500
+leaving creators embarrassed when they folded.
+
+07:50.500 --> 07:52.540
+We knew that creators were wary of aligning themselves
+
+07:52.540 --> 07:56.380
+to something so risky, so we needed to make a small splash.
+
+07:56.380 --> 07:59.340
+We needed to design Nebula to fail gracefully.
+
+07:59.340 --> 08:01.540
+We needed to make it so that if it did fail,
+
+08:01.540 --> 08:03.940
+it would have the smallest possible impact
+
+08:03.940 --> 08:06.180
+on reputation and finances.
+
+08:06.180 --> 08:08.100
+Essentially, we followed the most dramatic form
+
+08:08.100 --> 08:10.580
+of the minimum viable product model of innovation.
+
+08:10.580 --> 08:13.140
+We needed to get a super scrappy version of the product
+
+08:13.680 --> 08:15.800
+out into the public so that rather than us having to guess,
+
+08:15.800 --> 08:18.360
+they, the customers, would tell us what they wanted
+
+08:18.360 --> 08:19.800
+through how they acted.
+
+08:19.800 --> 08:22.480
+You watch consumer behavior in order to fulfill their wants.
+
+08:22.480 --> 08:24.800
+Luckily, a lot of the bones were already in place.
+
+08:24.800 --> 08:27.240
+Dave's prior life was in the iOS app development world,
+
+08:27.240 --> 08:29.520
+so he had a lot of experience in software.
+
+08:29.520 --> 08:31.280
+We actually had a few engineers on staff
+
+08:31.280 --> 08:33.640
+to work on the backend tool we use for sponsor billing
+
+08:33.640 --> 08:35.160
+and inventory management.
+
+08:35.160 --> 08:38.080
+The trickiest bit would be the actual streaming.
+
+08:38.080 --> 08:39.720
+The big platforms like YouTube and Netflix
+
+08:39.720 --> 08:42.800
+make it look easy, but it's quite a technical challenge
+
+08:43.340 --> 08:45.740
+to distribute high-quality video on low-quality internet
+
+08:45.740 --> 08:47.700
+all across the globe, and we didn't possibly
+
+08:47.700 --> 08:49.320
+have the money to build our own streaming tech.
+
+08:49.320 --> 08:51.220
+Of course, Vimeo originally approached us,
+
+08:51.220 --> 08:52.580
+but the problem with partnering with them
+
+08:52.580 --> 08:55.100
+was that they'd have owned the billing relationship.
+
+08:55.100 --> 08:56.700
+Basically, when someone signed up,
+
+08:56.700 --> 08:58.700
+Vimeo would keep their credit card details and info,
+
+08:58.700 --> 09:00.220
+and while we'd get the money,
+
+09:00.220 --> 09:01.820
+if we ever decided to split with them,
+
+09:01.820 --> 09:04.300
+there was no guarantee we'd keep the subscribers.
+
+09:04.300 --> 09:05.500
+So we'd rather decided to partner
+
+09:05.500 --> 09:07.620
+with another streaming provider called Zype.
+
+09:07.620 --> 09:09.940
+Therefore, all we had to build was a front end,
+
+09:09.940 --> 09:11.700
+a slick, flashy user interface
+
+09:11.720 --> 09:14.200
+to make it all look professional, and an iOS app.
+
+09:14.200 --> 09:15.800
+We barely even had a backend.
+
+09:15.800 --> 09:18.140
+We had Eric, who doubled as our podcast editor,
+
+09:18.140 --> 09:19.580
+who would take the videos creators added
+
+09:19.580 --> 09:21.800
+to a shared Dropbox folder, run them through the encoder,
+
+09:21.800 --> 09:24.560
+and post them in the right spot with the right metadata.
+
+09:24.560 --> 09:26.640
+All in all, it cost around $100,000
+
+09:26.640 --> 09:28.080
+to get Nebula ready for launch,
+
+09:28.080 --> 09:31.200
+an incredibly low sum for both the website and app,
+
+09:31.200 --> 09:34.000
+but there was still one key thing we were missing.
+
+09:34.000 --> 09:37.400
+You see, creators don't talk unless they're paid to.
+
+09:37.400 --> 09:40.440
+This is because creators are paid to talk.
+
+09:40.460 --> 09:41.660
+It's just pragmatic.
+
+09:41.660 --> 09:43.660
+You basically get one call to action per video.
+
+09:43.660 --> 09:45.020
+You're lucky to successfully get someone
+
+09:45.020 --> 09:46.500
+to listen to one call to action,
+
+09:46.500 --> 09:48.980
+so what the data shows is that if a creator, for example,
+
+09:48.980 --> 09:51.220
+runs a sponsor read, then promotes their Patreon,
+
+09:51.220 --> 09:52.700
+what they'll see on average
+
+09:52.700 --> 09:54.200
+is that they'll earn less overall
+
+09:54.200 --> 09:55.940
+than if they had just promoted the sponsor
+
+09:55.940 --> 09:58.820
+as the Patreon push cuts into performance more
+
+09:58.820 --> 10:00.380
+than it drives additional revenue.
+
+10:00.380 --> 10:01.460
+It's not always intuitive,
+
+10:01.460 --> 10:03.060
+but it's a quirk of audience behavior
+
+10:03.060 --> 10:04.360
+that we'd understood for years
+
+10:04.360 --> 10:05.760
+running sponsorships in standard.
+
+10:05.760 --> 10:08.260
+Therefore, we knew we couldn't just simply ask creators
+
+10:08.260 --> 10:10.380
+to promote Nebula out of the goodness of their arms.
+
+10:10.380 --> 10:11.960
+Not only would this hurt their revenue,
+
+10:11.960 --> 10:13.280
+which would mean they would stop working
+
+10:13.280 --> 10:14.520
+with Nebula in the long run,
+
+10:14.520 --> 10:16.080
+this would hurt standards revenue, too,
+
+10:16.080 --> 10:18.360
+since it came from commission on sponsorships.
+
+10:18.360 --> 10:19.800
+At the time, Standard and Nebula
+
+10:19.800 --> 10:21.320
+were literally the same company
+
+10:21.320 --> 10:23.040
+with zero legal separation,
+
+10:23.040 --> 10:25.680
+so weirdly, free promotion for Nebula
+
+10:25.680 --> 10:27.040
+would cut off the revenue source
+
+10:27.040 --> 10:29.640
+that we were using to build Nebula.
+
+10:29.640 --> 10:31.980
+We didn't immediately have a solution to this.
+
+10:31.980 --> 10:34.560
+In all honesty, this was the biggest flaw
+
+10:34.560 --> 10:36.320
+with the business model at launch.
+
+10:36.320 --> 10:38.480
+But again, the launch was designed to be an experiment,
+
+10:38.480 --> 10:40.320
+designed to be that minimum viable product.
+
+10:40.320 --> 10:42.360
+We didn't necessarily need a big marketing method
+
+10:42.360 --> 10:43.900
+at launch because the launch was designed
+
+10:43.900 --> 10:45.140
+to help us find that,
+
+10:45.140 --> 10:46.660
+so the last piece that we needed
+
+10:46.660 --> 10:49.780
+was for the creators to be emotionally invested.
+
+10:49.780 --> 10:51.500
+Everyone was excited by the concept,
+
+10:51.500 --> 10:53.360
+but to assure people would stay excited
+
+10:53.360 --> 10:55.600
+through the inevitably difficult early days,
+
+10:55.600 --> 10:58.640
+well, we figured they might as well be financially invested.
+
+10:58.640 --> 11:01.620
+So, through complex financial and legal wizardry,
+
+11:01.620 --> 11:04.260
+we developed a system where 50% of Nebula profits
+
+11:04.260 --> 11:07.620
+were distributed to creators, including, crucially,
+
+11:07.620 --> 11:09.820
+if the platform were ever to be sold.
+
+11:09.840 --> 11:11.920
+It means if one day the platform were to sell for,
+
+11:11.920 --> 11:13.520
+let's say, a billion dollars,
+
+11:13.520 --> 11:15.160
+the creators would get half of that.
+
+11:15.160 --> 11:16.720
+We split that pool based on watch time,
+
+11:16.720 --> 11:19.200
+meaning the more creators bring in and engage an audience,
+
+11:19.200 --> 11:20.700
+the bigger a share they're entitled to.
+
+11:20.700 --> 11:22.280
+In the short term, this would be a concept
+
+11:22.280 --> 11:24.160
+that would keep creators building for the future.
+
+11:24.160 --> 11:26.320
+In the medium term, this would allocate profit to creators
+
+11:26.320 --> 11:28.680
+based on how much they contributed to growing that profit.
+
+11:28.680 --> 11:31.000
+And in the long term, if Nebula were ever to sell,
+
+11:31.000 --> 11:33.200
+this would make that a scenario where everyone wins,
+
+11:33.200 --> 11:34.760
+rather than one where the platform wins
+
+11:34.760 --> 11:36.200
+off the hard work of creators.
+
+11:36.200 --> 11:38.500
+Not only would this directly tie platform success
+
+11:38.520 --> 11:40.440
+to creator success and vice versa,
+
+11:40.440 --> 11:42.880
+it would also keep everyone in that collaborative mindset,
+
+11:42.880 --> 11:45.360
+one where Nebula and its creators were business partners,
+
+11:45.360 --> 11:47.360
+rather than clients and servicers.
+
+11:47.360 --> 11:49.520
+We win together, and we lose together.
+
+11:49.520 --> 11:51.360
+Next, launch.
+
+11:51.360 --> 11:53.040
+We didn't have some massive plan.
+
+11:53.040 --> 11:54.760
+The website had been up and running for a bit
+
+11:54.760 --> 11:56.760
+as we squashed bugs, so what really marked
+
+11:56.760 --> 11:59.120
+the formal launch, if anything did,
+
+11:59.120 --> 12:01.280
+was the first public promotion of the platform.
+
+12:01.280 --> 12:02.520
+That came from Isaac Arthur.
+
+12:02.520 --> 12:05.040
+On the morning of Thursday, May 23rd, 2019,
+
+12:05.040 --> 12:07.720
+he released a video called Colonizing Black Holes,
+
+12:07.740 --> 12:10.060
+which ended with a push to his Nebula original,
+
+12:10.060 --> 12:12.500
+one of the first three called the Paperclip Maximizer.
+
+12:12.500 --> 12:14.660
+We also had originals that launched from real life lore,
+
+12:14.660 --> 12:16.060
+Second Thought, and Polyphonic,
+
+12:16.060 --> 12:17.820
+so we each released videos mentioning Nebula
+
+12:17.820 --> 12:19.860
+funded by a small and finite pool of money
+
+12:19.860 --> 12:21.460
+dedicated to launch promotion.
+
+12:21.460 --> 12:22.620
+This first weekend went better
+
+12:22.620 --> 12:24.380
+than we possibly could have hoped for.
+
+12:24.380 --> 12:26.860
+By Monday, we had over 4,500 signups.
+
+12:26.860 --> 12:28.900
+They were trial signups, plenty would cancel,
+
+12:28.900 --> 12:31.220
+but that gave us plenty enough data to work with
+
+12:31.220 --> 12:33.140
+to figure out how to make this all work.
+
+12:33.140 --> 12:35.340
+Better yet, we were getting buzz.
+
+12:35.360 --> 12:37.200
+A lot of it was negative.
+
+12:37.200 --> 12:38.880
+Almost everyone thought we'd get added
+
+12:38.880 --> 12:41.400
+to the long list of failed alternate streaming sites,
+
+12:41.400 --> 12:43.600
+but at the least, this told us that the idea
+
+12:43.600 --> 12:46.460
+was exciting enough that people cared to care about us.
+
+12:46.460 --> 12:47.560
+Over the following weeks and months,
+
+12:47.560 --> 12:48.920
+we used some of our cash on hand
+
+12:48.920 --> 12:51.880
+to run some very small additional marketing tests,
+
+12:51.880 --> 12:53.880
+basically seeing if we could pay creators
+
+12:53.880 --> 12:55.720
+a similar rate to their other sponsors
+
+12:55.720 --> 12:57.380
+and bring in enough subscribers
+
+12:57.380 --> 12:59.080
+to justify paying that much.
+
+12:59.080 --> 13:01.480
+The answers we got were promising.
+
+13:01.480 --> 13:03.800
+On one test we did on my podcast, Extremities,
+
+13:03.820 --> 13:07.020
+Nebula paid us $800 and got 200 signups,
+
+13:07.020 --> 13:09.140
+each of whom would pay $5 a month.
+
+13:09.140 --> 13:11.820
+The only problem, we didn't have cash.
+
+13:11.820 --> 13:13.380
+While we'd eventually generate cash
+
+13:13.380 --> 13:15.540
+with the monthly revenue these subscribers brought in,
+
+13:15.540 --> 13:17.260
+that'd be a very slow process,
+
+13:17.260 --> 13:18.660
+meaning it'd be quite a while
+
+13:18.660 --> 13:20.900
+until we could start sponsoring the larger YouTube channels
+
+13:20.900 --> 13:22.900
+and developing bigger Nebula originals.
+
+13:22.900 --> 13:24.100
+But we found a solution.
+
+13:24.100 --> 13:27.460
+Standard had long-run sponsorships for CuriosityStream.
+
+13:27.460 --> 13:29.580
+Another streaming service focused on documentary
+
+13:29.580 --> 13:32.300
+and non-fiction content founded by Jon Hendricks,
+
+13:32.300 --> 13:33.200
+the Discovery Channel.
+
+13:33.260 --> 13:35.100
+To their credit, they didn't get scared
+
+13:35.100 --> 13:37.100
+thinking creators were trying to replace them,
+
+13:37.100 --> 13:38.900
+but rather understood that we were appealing
+
+13:38.900 --> 13:41.420
+to a different, complementary market.
+
+13:41.420 --> 13:43.780
+So Dave went down to the offices just outside of DC
+
+13:43.780 --> 13:46.300
+and came out the other end with a win-win.
+
+13:46.300 --> 13:47.380
+We'd bundle.
+
+13:47.380 --> 13:49.780
+While I can't discuss the exact behind-the-scenes mechanics,
+
+13:49.780 --> 13:52.140
+we found a way to make it worthwhile for both companies
+
+13:52.140 --> 13:54.620
+so that when customers signed up for CuriosityStream
+
+13:54.620 --> 13:56.540
+through each creator's sponsorship links,
+
+13:56.540 --> 13:58.980
+they'd get access to Nebula for free.
+
+13:58.980 --> 14:00.340
+Nobody could really see a downside,
+
+14:00.340 --> 14:02.740
+so we negotiated details, signed a term sheet,
+
+14:03.320 --> 14:05.320
+and as of September 2019, every Nebula creator
+
+14:05.320 --> 14:06.800
+just started promoting the bundle
+
+14:06.800 --> 14:09.120
+in their already-booked CuriosityStream spots.
+
+14:09.120 --> 14:10.800
+In retrospect, it seems like a minor,
+
+14:10.800 --> 14:15.040
+ultimately easy change, but it yielded massive results.
+
+14:15.040 --> 14:17.160
+Personally, the bundle deal supercharged
+
+14:17.160 --> 14:18.600
+my sponsorship performance.
+
+14:18.600 --> 14:20.600
+It was clear that the offering of CuriosityStream
+
+14:20.600 --> 14:22.480
+and Nebula together was a more convincing sell
+
+14:22.480 --> 14:24.400
+to our audiences than any other sponsor
+
+14:24.400 --> 14:25.300
+we ran on the channel.
+
+14:25.300 --> 14:27.140
+Even better, we started to understand
+
+14:27.140 --> 14:28.720
+the marketing message that worked.
+
+14:28.720 --> 14:31.040
+Pushing to behind-the-scenes videos or extended cuts
+
+14:31.060 --> 14:32.340
+didn't really work.
+
+14:32.340 --> 14:34.460
+Pushing the idea of no ads or sponsorship
+
+14:34.460 --> 14:37.460
+on Nebula worked okay, but the thing that clearly created
+
+14:37.460 --> 14:40.100
+these performance multiples was full-length,
+
+14:40.100 --> 14:42.860
+high-budget, exclusive originals.
+
+14:42.860 --> 14:44.500
+Seeing that, CuriosityStream started
+
+14:44.500 --> 14:46.460
+to co-produce Nebula originals with us.
+
+14:46.460 --> 14:49.060
+In October 2019, to film our highest-budget,
+
+14:49.060 --> 14:51.500
+most ambitious one to date, I flew all the way
+
+14:51.500 --> 14:53.580
+to the remote Atlantic island of St. Helena
+
+14:53.580 --> 14:55.860
+to make the world's most useful airport.
+
+14:55.860 --> 14:58.340
+While I was there, we crossed 10,000 paying subscribers,
+
+14:58.360 --> 15:01.240
+then it took less than a month more to hit 20,000.
+
+15:01.240 --> 15:04.040
+By the end of the year, we had crossed 35,000,
+
+15:04.040 --> 15:07.080
+and in six short months, Nebula had transformed
+
+15:07.080 --> 15:10.240
+from an idea into a fast-growth startup.
+
+15:10.240 --> 15:11.480
+Now, through all this history,
+
+15:11.480 --> 15:14.140
+I was not actually an owner of Standard,
+
+15:14.140 --> 15:16.400
+just a highly involved long-term client,
+
+15:16.400 --> 15:18.640
+but it was clearly something I was interested in.
+
+15:18.640 --> 15:20.960
+I was there from the start, I had helped it grow,
+
+15:20.960 --> 15:23.840
+and I believed in it, and specifically Nebula's future.
+
+15:23.840 --> 15:26.520
+In 2020, an opportunity arose.
+
+15:26.540 --> 15:28.860
+Gray and Philip were less keen on Nebula.
+
+15:28.860 --> 15:30.420
+It seemed to make less sense to them,
+
+15:30.420 --> 15:32.100
+while the rest of the creator roster was,
+
+15:32.100 --> 15:33.360
+so they were looking for a way
+
+15:33.360 --> 15:34.960
+to end their involvement with the company.
+
+15:34.960 --> 15:36.620
+Therefore, Brian from Real Engineering,
+
+15:36.620 --> 15:38.900
+Alex from LowSpecGamer, Devin from Legal Eagle,
+
+15:38.900 --> 15:40.380
+Thomas Frank, and myself agreed
+
+15:40.380 --> 15:41.940
+to purchase their ownership stakes
+
+15:41.940 --> 15:43.420
+and divide it up amongst ourselves,
+
+15:43.420 --> 15:46.140
+and we were all extremely bullish on Nebula.
+
+15:46.140 --> 15:48.900
+By chance, that sale occurred in March 2020,
+
+15:48.900 --> 15:51.520
+the same month as the world's descent into lockdown.
+
+15:51.520 --> 15:54.940
+With everyone stuck at home, the streaming industry exploded.
+
+15:54.960 --> 15:57.600
+It's awkward to talk about in the context of a tragedy,
+
+15:57.600 --> 15:59.840
+but the honest truth is that our bundle promotion
+
+15:59.840 --> 16:01.200
+was selling faster than ever,
+
+16:01.200 --> 16:03.120
+and creators were earning a lot.
+
+16:03.120 --> 16:05.120
+CuriosityStream capitalized on industry momentum
+
+16:05.120 --> 16:07.980
+by listing on NASDAQ through a SPAC merger in October,
+
+16:07.980 --> 16:09.480
+which was initially a big success.
+
+16:09.480 --> 16:11.320
+Day one ended with an 11% gain,
+
+16:11.320 --> 16:13.160
+and they peaked in February 2021
+
+16:13.160 --> 16:15.320
+at nearly double their first day price.
+
+16:15.320 --> 16:18.200
+Through and through, the Nebula bundle was a win-win.
+
+16:18.200 --> 16:20.400
+It grew Nebula, it grew CuriosityStream,
+
+16:20.400 --> 16:22.080
+it grew creator sponsor payouts,
+
+16:22.080 --> 16:24.120
+and it was a worthwhile proposition for all.
+
+16:24.140 --> 16:25.540
+So we decided to double down
+
+16:25.540 --> 16:27.380
+on aligning the success of the two companies
+
+16:27.380 --> 16:31.380
+by, for the first time ever, accepting investment.
+
+16:31.380 --> 16:34.280
+Now, investment had long been something we were wary of.
+
+16:34.280 --> 16:36.740
+In our view, a big reason why similar business models
+
+16:36.740 --> 16:38.820
+had failed in the past was because investors
+
+16:38.820 --> 16:40.100
+pressured the streaming platforms
+
+16:40.100 --> 16:42.880
+to squeeze more and more value out of creators.
+
+16:42.880 --> 16:45.180
+Basically, they did the thing that seemed right
+
+16:45.180 --> 16:46.780
+when you looked at it on a slide deck,
+
+16:46.780 --> 16:49.300
+take a bigger share of the revenue, make more money.
+
+16:49.300 --> 16:51.420
+But that fails to understand that the creators drive
+
+16:51.440 --> 16:54.480
+almost all of the value of a platform like Nebula.
+
+16:54.480 --> 16:55.800
+If they're making good money,
+
+16:55.800 --> 16:58.160
+they'll make more exclusive content for audiences,
+
+16:58.160 --> 16:59.560
+they'll bring their creator friends in,
+
+16:59.560 --> 17:01.120
+they'll keep promoting the platform.
+
+17:01.120 --> 17:03.880
+So it's really that if you take a smaller slice of the pie
+
+17:03.880 --> 17:05.560
+and give more to creators,
+
+17:05.560 --> 17:07.720
+the pie will grow so much in the long term
+
+17:07.720 --> 17:09.860
+that the platform will make more overall.
+
+17:09.860 --> 17:12.160
+Every dollar a streaming platform like Nebula makes
+
+17:12.160 --> 17:13.520
+is through the creators,
+
+17:13.520 --> 17:15.920
+so it's about creating that win-win scenario
+
+17:15.920 --> 17:17.840
+rather than trying to extract value
+
+17:17.840 --> 17:19.400
+from your business partners.
+
+17:19.400 --> 17:21.400
+We weren't confident that most investors,
+
+17:22.220 --> 17:23.220
+especially institutional investors,
+
+17:23.220 --> 17:25.840
+would understand that and the other nuanced dynamics
+
+17:25.840 --> 17:27.880
+of the creator industry in the long run,
+
+17:27.880 --> 17:30.420
+with one exception, CuriosityStream.
+
+17:30.420 --> 17:32.660
+Their people seemed to get it.
+
+17:32.660 --> 17:35.340
+They were also, by far, our biggest marketing partner,
+
+17:35.340 --> 17:36.740
+biggest production partner.
+
+17:36.740 --> 17:38.900
+We'd already aligned ourselves with them so deeply
+
+17:38.900 --> 17:41.220
+that investment seemed like a minor additional level
+
+17:41.220 --> 17:42.860
+that would yield a lot of cash
+
+17:42.860 --> 17:44.580
+to reinvest in growing Nebula.
+
+17:44.580 --> 17:47.540
+So after a unanimous vote by myself and the other owners,
+
+17:47.540 --> 17:51.340
+Nebula no longer was entirely ours.
+
+17:52.160 --> 17:53.000
+While the exact numbers are not public,
+
+17:53.000 --> 17:55.720
+what is is that they bought a significant minority stake
+
+17:55.720 --> 17:56.840
+that valued Nebula,
+
+17:56.840 --> 18:00.080
+the company that did not exist just three years prior,
+
+18:00.080 --> 18:02.880
+at over $50 million.
+
+18:04.080 --> 18:05.660
+Incredible.
+
+18:05.660 --> 18:06.760
+Driven by this funding,
+
+18:06.760 --> 18:09.760
+2022 was comprised of some of our fastest growth to date,
+
+18:09.760 --> 18:12.220
+especially as shows like Real Life Lore's Modern Conflicts
+
+18:12.220 --> 18:15.040
+and Our Jetlag the Game proved massively successful
+
+18:15.040 --> 18:17.440
+at driving huge numbers of subscriptions.
+
+18:17.440 --> 18:18.600
+Staff had count ballooned,
+
+18:18.600 --> 18:20.160
+especially in the engineering department,
+
+18:20.160 --> 18:22.480
+as they staffed up to build apps for new platforms
+
+18:22.480 --> 18:24.300
+like Roku and Samsung TV.
+
+18:24.300 --> 18:25.780
+We also finally had the money
+
+18:25.780 --> 18:27.380
+to build our own streaming tech,
+
+18:27.380 --> 18:29.580
+which freed us from some of the technical limitations
+
+18:29.580 --> 18:31.020
+of Zype's white label offering.
+
+18:31.020 --> 18:31.940
+And we geared up to produce
+
+18:31.940 --> 18:34.100
+our most ambitious slate of originals to date
+
+18:34.100 --> 18:37.100
+with the co-production funding CuriosityStream would provide.
+
+18:37.100 --> 18:40.040
+But this is a good chance to acknowledge failure.
+
+18:40.040 --> 18:42.820
+Now, failure is inevitable in business.
+
+18:42.820 --> 18:44.540
+It's truly part of the process.
+
+18:44.540 --> 18:46.460
+You try new things carefully,
+
+18:46.460 --> 18:48.980
+and success is defined by your batting average.
+
+18:49.000 --> 18:51.440
+If you win more than you lose, you're winning.
+
+18:51.440 --> 18:52.840
+Nebula classes, however,
+
+18:52.840 --> 18:55.600
+probably pulled down that batting average.
+
+18:55.600 --> 18:57.920
+It sounded like a great idea at the time.
+
+18:57.920 --> 19:00.120
+Through COVID, creators were earning massively
+
+19:00.120 --> 19:01.600
+by making online classes.
+
+19:01.600 --> 19:04.220
+We were constantly approached by various class platforms
+
+19:04.220 --> 19:05.880
+who wanted to sponsor our creators,
+
+19:05.880 --> 19:08.280
+and so rather than promoting their services,
+
+19:08.280 --> 19:09.760
+we thought it better to build it into Nebula
+
+19:09.760 --> 19:11.400
+so we could promote our own service
+
+19:11.400 --> 19:14.040
+and keep all the customer revenue in the ecosystem.
+
+19:14.040 --> 19:15.960
+In all honesty, we were trying to capitalize
+
+19:15.960 --> 19:18.640
+on a wave of popularity that was relatively aligned
+
+19:18.700 --> 19:19.980
+to what we were already doing.
+
+19:19.980 --> 19:21.460
+Unlike when we launched Nebula as a whole,
+
+19:21.460 --> 19:23.740
+we had a good amount of cash on hand to invest in this
+
+19:23.740 --> 19:25.380
+thanks to CuriosityStream's investment,
+
+19:25.380 --> 19:26.860
+so we wanted to launch strong.
+
+19:26.860 --> 19:28.980
+We built out a section of the website and apps for it,
+
+19:28.980 --> 19:31.180
+we built the backend tech to allow for multiple tiers
+
+19:31.180 --> 19:34.700
+of membership, and we invested a lot in content.
+
+19:34.700 --> 19:37.580
+We launched with six classes, and each was high quality,
+
+19:37.580 --> 19:38.940
+shot in a studio in New York,
+
+19:38.940 --> 19:41.100
+well-edited with motion graphics and everything.
+
+19:41.100 --> 19:43.220
+That's to say, they weren't cheap.
+
+19:43.220 --> 19:45.400
+We then planned to release a new one each week,
+
+19:45.400 --> 19:47.980
+which meant organizing a dense production schedule.
+
+19:48.000 --> 19:50.520
+It was a massively complex, large-scale undertaking,
+
+19:50.520 --> 19:52.160
+but the engineering and production staff
+
+19:52.160 --> 19:53.960
+made it all happen without a hitch.
+
+19:53.960 --> 19:55.880
+The problem was that the concept
+
+19:55.880 --> 19:58.680
+just wasn't resonating with customers.
+
+19:58.680 --> 20:00.120
+We initially sold Nebula classes
+
+20:00.120 --> 20:02.680
+as an additional tier above normal Nebula.
+
+20:02.680 --> 20:04.520
+It was $100 a year by itself,
+
+20:04.520 --> 20:07.560
+or a $5 a month upcharge for existing subscribers,
+
+20:07.560 --> 20:08.920
+which might seem like a lot,
+
+20:08.920 --> 20:10.600
+but was actually lower than competitors
+
+20:10.600 --> 20:11.860
+with similar production quality.
+
+20:11.860 --> 20:14.440
+We ran sponsorships on this and had some minor wins,
+
+20:14.440 --> 20:17.080
+but on average, there was clearly audience confusion
+
+20:17.100 --> 20:18.820
+as we also ran bundle sponsorships
+
+20:18.820 --> 20:21.140
+on the same channels at different times.
+
+20:21.140 --> 20:23.100
+We couldn't promote classes and bundle sponsorships
+
+20:23.100 --> 20:24.620
+as classes weren't part of the bundle,
+
+20:24.620 --> 20:29.100
+so in a way, we were competing against ourselves and losing.
+
+20:29.100 --> 20:30.300
+Some people were upgrading.
+
+20:30.300 --> 20:31.940
+It wasn't some massive failure,
+
+20:31.940 --> 20:34.380
+but hardly enough to justify our rate of production.
+
+20:34.380 --> 20:36.540
+Ultimately, creators could improve sponsorship performance
+
+20:36.540 --> 20:38.140
+more by making Nebula originals,
+
+20:38.140 --> 20:40.260
+so that's what they would do.
+
+20:40.260 --> 20:42.420
+It was also clear that by the time we launched,
+
+20:42.420 --> 20:45.900
+we were on the downslope of the online classes wave.
+
+20:45.920 --> 20:47.800
+We were far from the only class platform
+
+20:47.800 --> 20:50.120
+struggling to find product market fit,
+
+20:50.120 --> 20:53.260
+so ultimately, we decided it best to just have one Nebula.
+
+20:53.260 --> 20:54.600
+No upcharge for classes.
+
+20:54.600 --> 20:56.400
+We'd make it available to all subscribers
+
+20:56.400 --> 20:58.640
+and simply slow down our production calendar.
+
+20:58.640 --> 21:00.200
+It was an important experiment,
+
+21:00.200 --> 21:03.160
+and while not a direct, overwhelming success,
+
+21:03.160 --> 21:05.600
+in a way, the marketing test we did for it
+
+21:05.600 --> 21:07.840
+proved crucial for what was to come,
+
+21:07.840 --> 21:11.560
+our biggest, most existential experiment to date.
+
+21:11.560 --> 21:14.680
+Come late 2022, as indicated in their quarterly reports,
+
+21:14.700 --> 21:16.940
+CuriosityStream was looking to pull back their growth rate
+
+21:16.940 --> 21:18.940
+and orient more towards profitability.
+
+21:18.940 --> 21:21.320
+COVID was dying down, screen time was lowering,
+
+21:21.320 --> 21:23.420
+the streaming industry overall was weakening,
+
+21:23.420 --> 21:24.900
+and so it made every sense in the world
+
+21:24.900 --> 21:26.780
+for them to switch from a growth orientation
+
+21:26.780 --> 21:28.300
+to a profit orientation,
+
+21:28.300 --> 21:31.780
+as all growth-oriented companies that survive eventually do.
+
+21:31.780 --> 21:33.100
+I assume for these reasons we got
+
+21:33.100 --> 21:34.940
+were that they wanted to significantly pull back
+
+21:34.940 --> 21:37.900
+on marketing spend through Nebula bundle sponsorships.
+
+21:37.900 --> 21:40.540
+Clearly, this wasn't something we wanted.
+
+21:40.540 --> 21:42.700
+Not only would it slow Nebula's growth rate,
+
+21:42.720 --> 21:45.260
+but more crucially, it would reduce how much
+
+21:45.260 --> 21:47.840
+we could pay creators to talk about Nebula on YouTube.
+
+21:47.840 --> 21:49.920
+This was still the primary way
+
+21:49.920 --> 21:51.520
+creators were earning through Nebula.
+
+21:51.520 --> 21:54.240
+While watch time payouts and originals were significant,
+
+21:54.240 --> 21:56.520
+payouts for YouTube sponsorships about Nebula
+
+21:56.520 --> 21:57.960
+were far more so.
+
+21:57.960 --> 22:00.240
+So the natural next question to ask was,
+
+22:00.240 --> 22:02.760
+could we just do sponsorships ourselves?
+
+22:02.760 --> 22:04.720
+You'll notice that nearly everything advertised
+
+22:04.720 --> 22:06.600
+in a sponsorship at the end of a YouTube video
+
+22:06.600 --> 22:09.520
+is an online subscription-based service.
+
+22:09.520 --> 22:12.640
+For some reason or another, these are just what works best,
+
+22:13.460 --> 22:14.340
+and here's how those advertising campaigns
+
+22:14.340 --> 22:15.900
+work in the background.
+
+22:15.900 --> 22:18.420
+Let's say a service costs $10 a month.
+
+22:18.420 --> 22:20.240
+Every service has data on how long
+
+22:20.240 --> 22:22.040
+the average subscriber sticks around.
+
+22:22.040 --> 22:23.780
+Let's say it's 27 months.
+
+22:23.780 --> 22:27.780
+That means the average lifetime value of a signup is $270.
+
+22:27.780 --> 22:30.800
+It might actually cost, say, $5 a month to run that service,
+
+22:30.800 --> 22:33.220
+meaning per month there's $5 left.
+
+22:33.220 --> 22:35.260
+A good bit of that has to go to actually getting
+
+22:35.260 --> 22:37.820
+the customers in the first place, to marketing.
+
+22:37.820 --> 22:41.180
+Knowing there's $135 left in the average lifetime value,
+
+22:41.200 --> 22:42.840
+the company will decide on a target
+
+22:42.840 --> 22:44.280
+average cost per acquisition.
+
+22:44.280 --> 22:47.660
+Let's say it's $75, leaving $60 in lifetime value
+
+22:47.660 --> 22:50.240
+for profit that can be reinvested in platform growth
+
+22:50.240 --> 22:51.800
+or just taken as profit.
+
+22:51.800 --> 22:54.280
+Now that $75 target cost per acquisition
+
+22:54.280 --> 22:56.680
+acts as the central success metric for marketing,
+
+22:56.680 --> 22:58.400
+and when an agency designs a campaign
+
+22:58.400 --> 22:59.740
+with creators pushing the service,
+
+22:59.740 --> 23:01.320
+their payment will be designed in the background
+
+23:01.320 --> 23:02.440
+by this number.
+
+23:02.440 --> 23:05.360
+If, on average, they drive 100 signups per video,
+
+23:05.360 --> 23:08.120
+their pay will be roughly $7,500 per video,
+
+23:08.120 --> 23:10.380
+and either the agency or the service itself
+
+23:10.400 --> 23:12.160
+will evaluate spots as they run
+
+23:12.160 --> 23:13.960
+to make sure the long-term average cost
+
+23:13.960 --> 23:16.400
+ends up at or below $75.
+
+23:16.400 --> 23:18.600
+This works quite well.
+
+23:18.600 --> 23:23.120
+The only issue is when that $75 needs to get paid.
+
+23:23.120 --> 23:26.240
+Here, right when the customer signs up.
+
+23:26.240 --> 23:27.560
+But on the company's side,
+
+23:27.560 --> 23:29.960
+after the $5 in monthly operating expenses,
+
+23:29.960 --> 23:32.040
+it's going to take 15 months for them
+
+23:32.040 --> 23:34.360
+to capture that $75 back in revenue.
+
+23:34.360 --> 23:36.420
+You essentially need to spend $75
+
+23:36.420 --> 23:39.400
+to eventually earn that $60 in profits.
+
+23:39.420 --> 23:42.220
+Put another way, you need to invest it.
+
+23:42.220 --> 23:44.740
+This is the role of investors in these startups.
+
+23:44.740 --> 23:47.220
+Companies can have an entirely viable business model,
+
+23:47.220 --> 23:48.780
+but just need more cash in the bank
+
+23:48.780 --> 23:50.900
+to pay for the marketing that leads to growth.
+
+23:50.900 --> 23:52.580
+We didn't want to take more investments.
+
+23:52.580 --> 23:54.500
+We didn't want to give up more ownership of the company.
+
+23:54.500 --> 23:56.060
+So the question was,
+
+23:56.060 --> 23:58.380
+could we use the couple million we had in the bank
+
+23:58.380 --> 24:01.060
+to kickstart growth at a fast enough rate?
+
+24:01.060 --> 24:02.780
+We were sure we had a viable business model.
+
+24:02.780 --> 24:04.800
+We had years of proof that we could get a customer
+
+24:04.800 --> 24:05.940
+through YouTube sponsorship
+
+24:05.940 --> 24:08.540
+for less than their average lifetime value.
+
+24:08.560 --> 24:11.680
+The question was when that cost per acquisition
+
+24:11.680 --> 24:12.680
+was recaptured.
+
+24:12.680 --> 24:14.760
+If it was quick, in the first year or so,
+
+24:14.760 --> 24:16.000
+we were in business.
+
+24:16.000 --> 24:17.540
+The math worked out that we could maintain
+
+24:17.540 --> 24:19.800
+or even grow our monthly marketing spend
+
+24:19.800 --> 24:21.680
+if we would recapture revenue fast enough
+
+24:21.680 --> 24:23.400
+to reinvest it in new marketing.
+
+24:23.400 --> 24:24.720
+If it was slower,
+
+24:24.720 --> 24:26.860
+if we didn't recapture target cost per acquisition
+
+24:26.860 --> 24:28.360
+until far in the future,
+
+24:28.360 --> 24:30.840
+the careful balance that had made Nebula work
+
+24:30.840 --> 24:33.120
+or so many close equivalents failed,
+
+24:33.120 --> 24:36.360
+could all come crumbling down.
+
+24:36.360 --> 24:37.520
+Today, we're five months on
+
+24:37.540 --> 24:39.300
+from the switch to direct marketing ends.
+
+24:39.300 --> 24:40.580
+I won't breathe the lead.
+
+24:40.580 --> 24:43.940
+It went off better than our wildest expectations.
+
+24:43.940 --> 24:46.820
+Crucially, over 80% of signups are opting to pay
+
+24:46.820 --> 24:49.500
+for the annual subscription rather than the monthly one.
+
+24:49.500 --> 24:51.620
+Considering we pay creators for Nebula sponsorships
+
+24:51.620 --> 24:53.220
+the day after they go out,
+
+24:53.220 --> 24:55.980
+that means we actually get a year's worth of revenue
+
+24:55.980 --> 24:58.100
+before we even pay for the promotion.
+
+24:58.100 --> 25:00.500
+In this case, that entirely eliminated
+
+25:00.500 --> 25:01.580
+the cashflow constraint
+
+25:01.580 --> 25:04.460
+because we make more day one on an average signup
+
+25:04.460 --> 25:07.180
+than our average cost to acquire a new customer.
+
+25:07.720 --> 25:09.320
+Of course, that doesn't mean we turn a day one profit,
+
+25:09.320 --> 25:11.400
+we have operating costs beyond marketing,
+
+25:11.400 --> 25:13.200
+but it means we have a marketing strategy
+
+25:13.200 --> 25:16.880
+that could theoretically expand basically infinitely
+
+25:16.880 --> 25:18.880
+zero cashflow limitations.
+
+25:18.880 --> 25:20.120
+In just a few short months,
+
+25:20.120 --> 25:24.560
+we went from spending $0 to more than half a million dollars
+
+25:24.560 --> 25:25.600
+on marketing per month,
+
+25:25.600 --> 25:30.120
+and we are earning back more than that in the same month.
+
+25:30.120 --> 25:33.440
+I can't stress enough how incredible this is.
+
+25:33.440 --> 25:36.840
+We, the creators, are now entirely in control
+
+25:37.380 --> 25:38.380
+of our own future.
+
+25:38.380 --> 25:40.380
+With this, we're charting our most ambitious slate
+
+25:40.380 --> 25:43.060
+of originals to date, we're bringing in new creators,
+
+25:43.060 --> 25:44.660
+we're investing in our tech.
+
+25:44.660 --> 25:48.620
+There is so, so much that this big risk has unlocked.
+
+25:48.620 --> 25:50.300
+Right now, it feels like the last couple of years
+
+25:50.300 --> 25:51.980
+have been an overwhelming success,
+
+25:51.980 --> 25:54.180
+but I truly believe that, looking back,
+
+25:54.180 --> 25:57.460
+we'll consider 2023 much like we see 2019,
+
+25:57.460 --> 25:59.260
+the turning point that makes previous success
+
+25:59.260 --> 26:01.180
+the backstory you just have to get through
+
+26:01.180 --> 26:02.300
+to get to the good part.
+
+26:02.300 --> 26:04.540
+We have learned so much,
+
+26:04.560 --> 26:07.040
+so now we understand what people want
+
+26:07.040 --> 26:09.880
+and we have a company configured to offer that.
+
+26:09.880 --> 26:13.440
+I truly cannot wait to show you what we can do.
+
+26:13.440 --> 26:14.920
+Now I need to do thank yous.
+
+26:14.920 --> 26:16.640
+When describing Nebula's history like this,
+
+26:16.640 --> 26:19.520
+it feels like its success was defined by decisions.
+
+26:19.520 --> 26:20.800
+And while partially true,
+
+26:20.800 --> 26:23.200
+those decisions could only lead to anything
+
+26:23.200 --> 26:25.880
+thanks to the sum of small collective actions
+
+26:25.880 --> 26:28.980
+made by dozens, hundreds, thousands of people.
+
+26:28.980 --> 26:32.240
+First and foremost, the staff of Nebula and Standard.
+
+26:32.260 --> 26:35.020
+Unlike us creators, they do not get the public recognition
+
+26:35.020 --> 26:36.100
+for what they do.
+
+26:36.100 --> 26:39.100
+They pour their passion into servicing our passion,
+
+26:39.100 --> 26:41.700
+working day in and day out to build a system
+
+26:41.700 --> 26:44.580
+that allows us to do more of what we love to do.
+
+26:44.580 --> 26:46.700
+Nebula truly could not exist without them.
+
+26:46.700 --> 26:48.820
+Us creators could not exist without them.
+
+26:48.820 --> 26:51.620
+So I'm endlessly grateful for the work they do.
+
+26:51.620 --> 26:52.980
+Second, the creators.
+
+26:52.980 --> 26:55.180
+The community that has risen out of Nebula and Standard
+
+26:55.180 --> 26:56.860
+is just incredible.
+
+26:56.860 --> 26:58.940
+Every day we talk, celebrating our wins,
+
+26:58.940 --> 27:00.260
+commiserating our failures,
+
+27:00.260 --> 27:02.320
+searching for solutions to problems.
+
+27:02.320 --> 27:03.600
+We go to conferences together.
+
+27:03.600 --> 27:04.840
+We go on vacation together.
+
+27:04.840 --> 27:06.120
+We go to each other's weddings
+
+27:06.120 --> 27:07.960
+and we'll be at each other's funerals.
+
+27:07.960 --> 27:10.000
+I truly don't know if I could have navigated
+
+27:10.000 --> 27:12.240
+the stresses of life as a creator without them.
+
+27:12.240 --> 27:13.880
+And I know Nebula would have failed
+
+27:13.880 --> 27:16.320
+without our collective vision for a brighter future
+
+27:16.320 --> 27:17.680
+for the creator economy.
+
+27:17.680 --> 27:20.160
+Lastly, the subscribers.
+
+27:20.160 --> 27:22.680
+I could never have imagined that people would look at Nebula
+
+27:22.680 --> 27:24.880
+as anything more than a company,
+
+27:24.880 --> 27:28.040
+something trying to separate them from their dollars.
+
+27:28.040 --> 27:29.160
+But I was wrong.
+
+27:29.180 --> 27:31.060
+There is an unbelievable community of people
+
+27:31.060 --> 27:32.740
+who not only use Nebula,
+
+27:32.740 --> 27:35.300
+but have latched onto the same vision we have.
+
+27:35.300 --> 27:37.260
+They celebrate our wins and help show us
+
+27:37.260 --> 27:38.820
+where we can go stronger.
+
+27:38.820 --> 27:41.900
+I'm constantly in awe of how much forgiveness they gave us
+
+27:41.900 --> 27:44.380
+for scrappiness on our bootstrapped early days.
+
+27:44.380 --> 27:47.300
+And we could not have come to today without that.
+
+27:47.300 --> 27:49.580
+Thank you for taking a risk on us.
+
+27:49.580 --> 27:51.040
+I hope we proved it worthwhile.
+
+27:51.040 --> 27:52.860
+And I promise that we'll only work harder
+
+27:52.860 --> 27:55.180
+to make that even more so in the future.
+
+27:55.180 --> 27:56.300
+To close out,
+
+27:56.300 --> 27:58.660
+I had to pay for the production costs on this video somehow.
+
+27:59.160 --> 28:01.000
+And it kind of felt weird to make it feel even more
+
+28:01.000 --> 28:02.240
+like a big, long Nebula ad
+
+28:02.240 --> 28:04.240
+by putting a Nebula sponsorship at the end.
+
+28:04.240 --> 28:05.360
+And it felt even more weird
+
+28:05.360 --> 28:06.960
+to put another sponsor at the end.
+
+28:06.960 --> 28:08.960
+So I'm going to go with the less weird weird option,
+
+28:08.960 --> 28:10.560
+but keep it simple.
+
+28:10.560 --> 28:11.840
+If you aren't subscribed to Nebula,
+
+28:11.840 --> 28:14.040
+but want to check it out, use our link.
+
+28:14.040 --> 28:15.720
+Nebula.tv slash Wendover.
+
+28:15.720 --> 28:18.080
+You'll get $20 off an annual subscription,
+
+28:18.080 --> 28:21.440
+bringing the cost down to just $2 and 50 cents a month.
+
+28:21.440 --> 28:24.400
+Thank you for caring enough to listen to this story.
+
+28:24.400 --> 28:25.320
+It's a wild one.
+
+28:25.320 --> 28:26.320
+And I hope in a few years
+
+28:26.340 --> 28:28.780
+we have an even better one to tell you.
+
+28:28.780 --> 28:29.620
+Thanks to you.
+

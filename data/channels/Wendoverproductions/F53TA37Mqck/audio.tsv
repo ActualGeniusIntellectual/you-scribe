@@ -1,0 +1,105 @@
+start	end	text
+0	5800	So, there's this fantastic Wikipedia list descriptively titled Wikipedia colon unusual
+5800	6800	articles.
+6800	8640	I just remember it as that Wikipedia list.
+8640	13360	It's a collection of hundreds of articles about unusual, unexpected, and unbelievable
+13360	14500	subjects.
+14500	17900	No matter what link you click, it's bound to be interesting.
+17900	21040	For that reason, every week I'm going to click on a new link and teach you a little
+21040	24280	bit more about our amazing world.
+24280	26280	Today we're going to take a trip.
+26280	29920	We're going to slip the surly bonds of earth up into the heavens.
+29920	35840	We're traveling through the galaxy to learn about timekeeping on the red planet—Mars.
+35840	40240	But before we can understand timekeeping on Mars, we first have to understand timekeeping
+40240	41240	on earth.
+41240	42240	Dammit.
+42240	47880	Can we turn this thing around?
+47880	51320	Alright so this is the Greenwich Observatory in England.
+51320	54320	Greenwich is known for being the site of the prime meridian.
+54320	58680	For all intents and purposes, this is the longitudinal center of earth.
+58680	62840	For simplicity's sake, we'll say that time is determined based on the sun.
+62840	66280	This isn't exactly true though, so I have a whole other video that explains time in
+66280	67620	more detail.
+67620	71720	When the sun is highest in the sky at any given location, we call that noon and the
+71720	74700	rest of the day's time is relative to this.
+74700	78820	So now let's go south to the intersection between the equator and the prime meridian.
+78820	81800	We find ourselves in the middle of the Gulf of Guinea.
+81800	85680	Similar to how the prime meridian is the longitudinal center of the earth, the equator
+85680	88180	is the latitudinal center of the earth.
+88180	92560	At this point of 0 degrees longitude and 0 degrees latitude, it's noon because the
+92560	94920	sun is at its highest point in the sky.
+94920	101120	Great, now if we go 1,035 miles east we find ourselves in the lovely village of Atumbi
+101120	102860	in the Republic of the Congo.
+102860	108280	In Atumbi, the time is 1 pm because the sun reached its highest point an hour ago.
+108280	109920	This is why we have time zones.
+109920	113840	Since the earth rotates once every 24 hours, there are 24 time zones.
+113840	115720	But wait, I lied.
+115720	120180	It doesn't take 24 hours for the earth to rotate once, it takes 23 hours 56 minutes
+120180	121960	and 4.0916 seconds.
+121960	125700	That's because there are really two definitions of a day.
+125700	130520	The conventional definition is a solar day—the time between two noons when the sun is highest
+130520	131920	in the sky.
+131920	134800	The more scientific definition is a sidereal day.
+134840	139360	That's the time it takes for the earth to rotate 360 degrees around its axis and therefore
+139360	143440	the time it takes for the same star to appear in the same spot in the sky from one day to
+143440	144440	the next.
+144440	148520	There's a difference between sidereal days and solar days because the earth rotates both
+148520	151120	on its axis and around the sun.
+151120	152120	So watch this.
+152120	156520	Let's put a marker on a spot on the earth and fast forward one sidereal day.
+156520	160600	You'll notice that the same spot is not yet the closest point on earth to the sun
+160600	163800	because the earth also rotated around the sun.
+163800	167960	To bring the marker closest to the sun, we'll need to advance four minutes forward and now
+167960	170140	we're at one solar day.
+170140	174240	Those four minutes add up conveniently to just about 24 hours over one year so that
+174240	178080	means that there's one more sidereal day per year than solar day.
+178080	181000	Alright, now we can go to Mars.
+181000	182140	That was quick.
+182140	186800	So Mars is a pretty similar planet to earth and time works in a pretty similar way.
+186800	189120	It has a prime meridian right here.
+189120	194320	Strangely, astronomers chose this prime meridian before earth was chosen.
+194320	198560	Using the mean solar time at the prime meridian, there's a coordinated martian time known
+198560	204300	as MTC but, for the most part, any rovers on Mars just set their clocks using the solar
+204300	206460	time of their landing site.
+206460	210600	This is actually pretty similar to how towns on earth set their time before coordinated
+210600	212600	time zones were created.
+212600	217240	Each town on earth set their time based on their own solar noon but this created difficulties
+217240	222140	when rapid transit between places was invented since no one really knew what time it was.
+222140	225960	If you want to learn more about this, you can, once again, go check out my other video
+225960	227640	on time.
+227640	231920	Since there have only ever been 11 operational spacecrafts on Mars, having different time
+231920	236160	standards based on solar time hasn't yet caused any problems.
+236160	240840	It does mean, however, that even the seconds aren't coordinated between different rovers.
+240840	244780	What does cause a bit of a problem though is that a martian day is slightly longer than
+244780	246080	an earth day.
+246080	250780	Anyone who's watched the martian knows that a solar day on Mars is called a sol.
+250780	257140	One sol is equal to 24 hours, 39 minutes, and 35.244 seconds.
+257140	261080	Rovers on Mars generally only work during the day, partially because some are solar
+261080	265080	powered and partially because much of the work is based on observation from cameras
+265080	266280	which need light.
+266280	270840	Therefore, the teams on earth controlling rovers have to live their lives based on martian
+270840	271840	time.
+271840	275560	Their work shift essentially moves forward 40 minutes every day to coordinate with the
+275560	278000	time that it's light on Mars.
+278000	282460	Deborah Bass, a scientist from the Jet Propulsion Laboratory who worked in the Spirit and Opportunity
+282460	284000	programs said that,
+284000	285000	You're always jet-lagged.
+285000	289480	It's only a little bit, because an hour, who cares, that's off so bad.
+289480	291760	But it starts to take a toll.
+291760	295880	Scientists who work on rovers sometimes wear two watches—one for martian time and one
+295880	297580	for earth time.
+297580	302020	So if we do go colonize Mars, we'll want to create time zones and actually use the
+302020	303920	standardized time.
+303920	308080	Using different time standards at different places always creates problems especially
+308080	310040	for computers and communications.
+310040	314860	This, of course, is just one of many details that we'll have to figure out before we
+314860	319000	go live on the red planet.
+319000	321040	I hope you enjoyed this week's episode.
+321040	325240	It was far more educational than last week's episode about toilet paper orientation which
+325240	326960	you can find right here.
+326960	329840	You can also subscribe to this channel by clicking here.
+329840	334680	Also, before you go, this is my formal plea for you guys to go follow me on Twitter.
+334680	339840	I have 13 followers and while those 13 seem like really cool guys, I would love to have
+339840	341720	more people to talk to.
+341720	344440	My username is at WendoverPro.
+344440	348640	Thanks for watching and come back next week for more of That Wikipedia List.

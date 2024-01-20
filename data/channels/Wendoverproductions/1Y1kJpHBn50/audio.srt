@@ -1,0 +1,856 @@
+1
+00:00:00,000 --> 00:00:03,000
+This video was made possible by Blue Apron.
+
+2
+00:00:03,000 --> 00:00:06,940
+The first 100 people to sign up at the link in the description will get $50 off their
+
+3
+00:00:06,940 --> 00:00:09,640
+first two weeks of Blue Apron.
+
+4
+00:00:09,640 --> 00:00:15,440
+In 2015, a bombshell report came out detailing how the TSA, the agency responsible for airport
+
+5
+00:00:15,440 --> 00:00:22,160
+security in the US, missed 95% of drugs, explosives, weapons, and other prohibited items sent through
+
+6
+00:00:22,160 --> 00:00:23,960
+their scanners in a test.
+
+7
+00:00:23,960 --> 00:00:28,360
+In 2016, the same test was repeated with the same result.
+
+8
+00:00:28,360 --> 00:00:34,040
+The following year, 2017, the test was repeated again with an improved success rate but still
+
+9
+00:00:34,040 --> 00:00:37,320
+it let 70% of prohibited items through.
+
+10
+00:00:37,320 --> 00:00:42,520
+In fact, within the US, there's no evidence that the TSA has ever prevented a terrorist
+
+11
+00:00:42,520 --> 00:00:47,360
+attack and outside the US there are very few examples of physical airport security thwarting
+
+12
+00:00:47,360 --> 00:00:48,640
+an attack.
+
+13
+00:00:48,640 --> 00:00:53,560
+Airport security slows people down, increases cost, and yet does little to actually improve
+
+14
+00:00:53,560 --> 00:00:57,480
+safety, so it's safe to say that airport security is broken.
+
+15
+00:00:57,480 --> 00:00:58,480
+But why?
+
+16
+00:00:58,480 --> 00:01:02,600
+Since the purpose of aviation is to get from one place to another, it's tough for a single
+
+17
+00:01:02,600 --> 00:01:04,560
+country to regulate the industry.
+
+18
+00:01:04,560 --> 00:01:09,720
+Instead, the International Civil Aviation Organization, a United Nations agency, does.
+
+19
+00:01:09,720 --> 00:01:15,040
+All but two UN member countries, Liechtenstein and Dominica, are part of the ICIO so its
+
+20
+00:01:15,040 --> 00:01:17,600
+regulations are more or less universal.
+
+21
+00:01:17,600 --> 00:01:22,200
+They're the ones responsible for making sure that air transport works the same way
+
+22
+00:01:22,200 --> 00:01:27,400
+all around the world, but what they require for airport security is rather incongcrete.
+
+23
+00:01:27,400 --> 00:01:31,800
+They simply say, measures need to be established to prevent weapons, explosives, and any other
+
+24
+00:01:31,800 --> 00:01:36,360
+dangerous devices, articles, or substances which may be used to commit an act of unlawful
+
+25
+00:01:36,360 --> 00:01:40,160
+interference, the carriage and bearing of which is not authorized from being introduced
+
+26
+00:01:40,160 --> 00:01:44,320
+by any means whatsoever onboard an aircraft engaged in civil aviation.
+
+27
+00:01:44,320 --> 00:01:48,840
+Essentially, all they require is that before a passenger gets onboard a plane, the airport
+
+28
+00:01:48,840 --> 00:01:50,960
+assures they don't have weapons.
+
+29
+00:01:50,960 --> 00:01:55,000
+While the ICAO does determine whether this requirement has been fulfilled, it's up
+
+30
+00:01:55,000 --> 00:01:58,120
+to each country to decide how they achieve that.
+
+31
+00:01:58,120 --> 00:02:01,320
+In the US, airport security works like this.
+
+32
+00:02:01,320 --> 00:02:05,060
+After check-in, a passenger goes to have their documents checked, puts their bags through
+
+33
+00:02:05,060 --> 00:02:09,980
+an x-ray scanner, and walks through either a metal detector or millimeter wave scanner.
+
+34
+00:02:09,980 --> 00:02:14,360
+There are potentially additional steps such as a pat-down or explosives residue test for
+
+35
+00:02:14,360 --> 00:02:17,680
+some, but these three steps are how the process works for most.
+
+36
+00:02:17,680 --> 00:02:22,340
+It is, though, important to note that, if you so choose, you can skip the metal detector
+
+37
+00:02:22,340 --> 00:02:27,180
+or millimeter wave scanner step of the process and receive a pat-down instead.
+
+38
+00:02:27,180 --> 00:02:32,460
+This is fully compliant with ICAO regulations since it does effectively screen an individual
+
+39
+00:02:32,460 --> 00:02:33,460
+for weapons.
+
+40
+00:02:33,460 --> 00:02:39,180
+In fact, an airport could hypothetically be compliant with ICAO regulations only by conducting
+
+41
+00:02:39,180 --> 00:02:43,540
+physical bag searches and pat-downs since this does screen for weapons even if this
+
+42
+00:02:43,540 --> 00:02:46,360
+would be slow, invasive, and unpopular.
+
+43
+00:02:46,360 --> 00:02:50,620
+Some small airports actually do this for bags—they physically search them instead of passing
+
+44
+00:02:50,620 --> 00:02:52,300
+them through an x-ray.
+
+45
+00:02:52,300 --> 00:02:57,660
+The words security theater are thrown around a lot in regards to US airport security.
+
+46
+00:02:57,660 --> 00:03:02,000
+This term is used pejoratively—it means that the TSA's function is to make airports
+
+47
+00:03:02,000 --> 00:03:03,200
+look secure.
+
+48
+00:03:03,200 --> 00:03:07,540
+But here's the thing—on paper, the TSA has done its job.
+
+49
+00:03:07,540 --> 00:03:12,240
+There has not been a single death on a flight leaving from a US airport since 9-11 as a
+
+50
+00:03:12,240 --> 00:03:13,820
+result of terrorism.
+
+51
+00:03:13,820 --> 00:03:18,380
+In fact, in the same time period, there has not even been a single attempted terrorist
+
+52
+00:03:18,380 --> 00:03:23,900
+attack on a flight leaving from a US airport—all have been on flights originating from abroad.
+
+53
+00:03:23,900 --> 00:03:26,940
+So maybe the TSA is doing its function.
+
+54
+00:03:26,940 --> 00:03:31,020
+Maybe the mere threat of being caught has been enough to thwart terrorists, or maybe
+
+55
+00:03:31,020 --> 00:03:33,740
+terrorists have moved on from attacking airplanes.
+
+56
+00:03:33,740 --> 00:03:39,780
+The US is certainly a prime target for terrorism, but there are more controversial nations.
+
+57
+00:03:39,780 --> 00:03:43,700
+Israeli airport security is considered to be the best in the world.
+
+58
+00:03:43,700 --> 00:03:48,280
+Despite being situated in one of the most politically contentious countries in the world
+
+59
+00:03:48,280 --> 00:03:53,160
+no airplane leaving from Tel Aviv's Ben Gurion airport has ever been hijacked or
+
+60
+00:03:53,160 --> 00:03:54,160
+bombed.
+
+61
+00:03:54,160 --> 00:03:59,000
+It's been attempted, but this airport's security is simply nearly impenetrable.
+
+62
+00:03:59,000 --> 00:04:05,040
+What's most fascinating is that this airport is hardly using any super-advanced technology—they
+
+63
+00:04:05,040 --> 00:04:09,440
+use the exact same metal detectors as the US and Europe, but they've focused on the
+
+64
+00:04:09,440 --> 00:04:10,720
+human factor.
+
+65
+00:04:10,720 --> 00:04:15,760
+Israel has come to realize that it's unfortunately easy to get weapons through airport security.
+
+66
+00:04:15,760 --> 00:04:20,280
+Plastic explosives, non-metallic knives, and blunt weapons are just tough to detect
+
+67
+00:04:20,280 --> 00:04:24,760
+so rather than focusing on the weapons that could be used for an attack, they focus on
+
+68
+00:04:24,760 --> 00:04:26,680
+the people who could use them.
+
+69
+00:04:26,680 --> 00:04:31,840
+At Ben Gurion airport, security starts before passengers even get to the airport.
+
+70
+00:04:31,840 --> 00:04:35,640
+Cars pass through a security checkpoint a mile away from the airport entrance where
+
+71
+00:04:35,640 --> 00:04:39,520
+guards inspect cars and look for any suspicious looking individuals.
+
+72
+00:04:39,520 --> 00:04:43,520
+The minute passengers arrive at the airport, they're being watched already.
+
+73
+00:04:43,520 --> 00:04:47,720
+Highly trained plainclothes officers roam around in the check-in area again searching
+
+74
+00:04:47,720 --> 00:04:50,680
+for individuals acting abnormally or nervous.
+
+75
+00:04:50,680 --> 00:04:55,200
+Then, before passengers are even allowed to check in, there's the interview.
+
+76
+00:04:55,200 --> 00:05:00,280
+Anyone who's passed through Ben Gurion airport knows how intense this interview is, but it's
+
+77
+00:05:00,280 --> 00:05:05,240
+likely the single greatest factor leading to the safety of Israeli airports.
+
+78
+00:05:05,240 --> 00:05:09,200
+Passengers are first asked standard questions like what their jobs are, why they came to
+
+79
+00:05:09,200 --> 00:05:13,780
+Israel, how long they stayed for, and if they pack their own bags and all the while,
+
+80
+00:05:13,780 --> 00:05:17,320
+the security agent watches the passenger's face for reactions.
+
+81
+00:05:17,320 --> 00:05:22,520
+They'll also probe deeper, asking why the passenger has been to various countries stamped
+
+82
+00:05:22,520 --> 00:05:23,520
+in their passport.
+
+83
+00:05:23,520 --> 00:05:28,800
+They'll then ask oddly specific questions—what school they went to, when they last moved,
+
+84
+00:05:28,800 --> 00:05:30,360
+what kind of car they have.
+
+85
+00:05:30,360 --> 00:05:33,800
+These are all to see if the passenger is being honest about who they are.
+
+86
+00:05:33,800 --> 00:05:38,680
+If a security officer senses hesitation or finds a hole in their story, they could deem
+
+87
+00:05:38,680 --> 00:05:40,800
+the passenger a higher risk.
+
+88
+00:05:40,800 --> 00:05:45,260
+Once passengers have completed their interview, a barcode is placed on the back of their passport
+
+89
+00:05:45,260 --> 00:05:48,020
+that starts with a number from one to six.
+
+90
+00:05:48,020 --> 00:05:52,580
+If it starts with one, the passenger is deemed a very low risk—this is almost only given
+
+91
+00:05:52,580 --> 00:05:57,600
+to Israeli citizens—while if it starts with six, the passenger is deemed a very high risk
+
+92
+00:05:57,600 --> 00:06:00,820
+and will be subjected to extremely thorough screening.
+
+93
+00:06:00,820 --> 00:06:05,340
+While a lot of the risk determination has to do with the interview, profiling also plays
+
+94
+00:06:05,340 --> 00:06:06,340
+into it.
+
+95
+00:06:06,500 --> 00:06:10,100
+According to the Israeli security system, passengers are deemed higher risk if they
+
+96
+00:06:10,100 --> 00:06:15,460
+are male, if they are traveling alone, if they are young, and most of all, if they are
+
+97
+00:06:15,460 --> 00:06:16,460
+Arab.
+
+98
+00:06:16,460 --> 00:06:21,120
+Israel unapologetically uses racial profiling in their risk assessment which has led to
+
+99
+00:06:21,120 --> 00:06:22,860
+international condemnation.
+
+100
+00:06:22,860 --> 00:06:26,580
+Israel, meanwhile, argues that this technique is effective.
+
+101
+00:06:26,580 --> 00:06:31,140
+After all, the country has recently been at war with many of its Arabian neighbors.
+
+102
+00:06:31,140 --> 00:06:35,820
+At the same time, though, it's almost impossible for an Arab traveler to pass through Ben-Gurion
+
+103
+00:06:35,820 --> 00:06:39,660
+airport without getting deemed a number six security risk.
+
+104
+00:06:39,660 --> 00:06:44,640
+Western non-Israeli individuals are also generally considered to be a higher security risk, typically
+
+105
+00:06:44,640 --> 00:06:47,100
+receiving a four or five.
+
+106
+00:06:47,100 --> 00:06:50,340
+After the interview, passengers are finally allowed to check in.
+
+107
+00:06:50,340 --> 00:06:55,120
+Their checked bags are put through a standard x-ray and then are placed in a pressure chamber.
+
+108
+00:06:55,120 --> 00:06:58,640
+The chamber's pressure is lowered to the level of pressurized aircraft—about the
+
+109
+00:06:58,640 --> 00:07:03,480
+equivalent of 6,000 to 8,000 feet of altitude—to set off any explosives designed to trigger
+
+110
+00:07:03,480 --> 00:07:06,840
+when a plane's cabin pressure is lower at cruising altitude.
+
+111
+00:07:06,840 --> 00:07:11,320
+Meanwhile, the passenger passes through a standard x-ray or body scanner.
+
+112
+00:07:11,320 --> 00:07:15,800
+This physical screening process is exactly the same as it would be in North America,
+
+113
+00:07:15,800 --> 00:07:20,080
+Europe, or Asia—they just walk through the scanners and grab their bags.
+
+114
+00:07:20,080 --> 00:07:24,420
+Those deemed a higher security risk—above three or four—likely would have their bags
+
+115
+00:07:24,420 --> 00:07:29,540
+manually searched and then the highest risk individuals—five or sixes—are often taken
+
+116
+00:07:29,540 --> 00:07:33,040
+aside for another round of questioning and a pat down.
+
+117
+00:07:33,040 --> 00:07:36,620
+The security doesn't even stop when passengers board the plane.
+
+118
+00:07:36,620 --> 00:07:42,160
+Like the US, Israel has a system of air marshals—armed security guards on planes—but unlike the
+
+119
+00:07:42,160 --> 00:07:46,980
+US, at least in the case of El Al, Israel's national airline, there are air marshals on
+
+120
+00:07:46,980 --> 00:07:48,500
+every single flight.
+
+121
+00:07:48,500 --> 00:07:52,240
+They sit among the passengers, often near any that were identified at the airport as
+
+122
+00:07:52,240 --> 00:07:56,300
+high risk, and they have alert buttons that communicate with the pilots in case of an
+
+123
+00:07:56,300 --> 00:07:57,720
+attempted hijacking.
+
+124
+00:07:57,720 --> 00:08:01,800
+If the marshals press this button, an alarm will go off in the cockpit and the pilots
+
+125
+00:08:01,800 --> 00:08:06,140
+will often send the plane into a dive to knock the hijacker off their feet.
+
+126
+00:08:06,140 --> 00:08:10,520
+This technique has successfully prevented terror attacks in the past.
+
+127
+00:08:10,520 --> 00:08:15,240
+These air marshals secure the plane from the inside, but another system protects the outside.
+
+128
+00:08:15,240 --> 00:08:19,780
+El Al's planes are installed with thermal flares that deploy when a radar detects an
+
+129
+00:08:19,780 --> 00:08:21,480
+incoming missile.
+
+130
+00:08:21,480 --> 00:08:24,920
+Thermal guided missiles will then target the flares instead of the plane.
+
+131
+00:08:24,920 --> 00:08:29,240
+El Al and the other Israeli airlines also stay secure by having security officers at
+
+132
+00:08:29,240 --> 00:08:31,140
+their destination airports.
+
+133
+00:08:31,140 --> 00:08:35,780
+For departing passengers to Israel, they repeat much of the same security process as
+
+134
+00:08:35,780 --> 00:08:40,940
+at Ben Gurion airport—conducting interviews, profiling, and assessing the risk of each
+
+135
+00:08:40,940 --> 00:08:41,940
+passenger.
+
+136
+00:08:41,940 --> 00:08:45,780
+At many foreign airports, these agents also physically screen luggage before handing it
+
+137
+00:08:45,780 --> 00:08:47,980
+off to regular airport security.
+
+138
+00:08:47,980 --> 00:08:53,540
+El Al, despite being the flag carrier of one of the most controversial nations in the world,
+
+139
+00:08:53,540 --> 00:09:00,700
+had its last and only hijacking in 1968 and even this incident resulted in zero deaths.
+
+140
+00:09:00,700 --> 00:09:05,980
+It and Ben Gurion airport are testaments to the fact that truly secure security is
+
+141
+00:09:05,980 --> 00:09:09,860
+theoretically possible, but is it possible worldwide?
+
+142
+00:09:09,860 --> 00:09:14,100
+Here's the thing about Tel Aviv's airport—it's not that big.
+
+143
+00:09:14,100 --> 00:09:19,100
+20 million passengers pass through it each year making it only as busy as San Diego or
+
+144
+00:09:19,100 --> 00:09:20,660
+Berlin Airport.
+
+145
+00:09:20,660 --> 00:09:25,020
+These are not small airports, but they're not on the same scale as the world's largest
+
+146
+00:09:25,020 --> 00:09:27,340
+like JFK, Heathrow, or Dubai.
+
+147
+00:09:27,500 --> 00:09:31,900
+It's tough to determine if a system like what Israel has implemented could scale up
+
+148
+00:09:31,900 --> 00:09:33,840
+to be used universally.
+
+149
+00:09:33,840 --> 00:09:37,960
+What sure is that certain elements of the Israeli system would not work—most countries
+
+150
+00:09:37,960 --> 00:09:42,040
+could not justify a system that relies so heavily on racial profiling.
+
+151
+00:09:42,040 --> 00:09:47,660
+In many countries and US states, practices such as this are simply illegal, but still,
+
+152
+00:09:47,660 --> 00:09:52,140
+airports and countries around the world are watching Israeli security methods closely.
+
+153
+00:09:52,140 --> 00:09:56,440
+The US has already implemented a system of security interviews for many international
+
+154
+00:09:56,440 --> 00:10:01,640
+flights to the US, however these are generally conducted by less trained contract workers.
+
+155
+00:10:01,640 --> 00:10:07,160
+Brussels airport, after its terrorist bombing in 2016, now positions officers trained in
+
+156
+00:10:07,160 --> 00:10:09,680
+behavioral detection at its entrances.
+
+157
+00:10:09,680 --> 00:10:14,140
+Plenty of other airports have sent delegates to Ben Gurion airport to evaluate their security
+
+158
+00:10:14,140 --> 00:10:18,560
+techniques as well and have quietly made changes to closer emulate Israel.
+
+159
+00:10:18,560 --> 00:10:23,560
+But few ever stop to question if we even want an increase in airport security.
+
+160
+00:10:23,560 --> 00:10:27,120
+If it comes at the expense of time, maybe we don't.
+
+161
+00:10:27,120 --> 00:10:32,800
+As mentioned, the US has not had a successful terror attack on an airplane since 9-11.
+
+162
+00:10:32,800 --> 00:10:39,800
+Worldwide, airplane hijackings are now almost non-existent, but security has a consequence.
+
+163
+00:10:39,800 --> 00:10:44,540
+In the most direct way, tickets for every single flight leaving from a US airport include
+
+164
+00:10:44,540 --> 00:10:48,800
+a $5.60 fee that goes towards paying for security.
+
+165
+00:10:48,800 --> 00:10:53,440
+This may not be much in the scope of a multi-hundred dollar flight to Europe or Asia, but if the
+
+166
+00:10:53,440 --> 00:10:58,720
+US ever wants to get to the point where Europe is of having $10 or $20 budget airline tickets
+
+167
+00:10:58,720 --> 00:11:02,340
+between domestic destinations, this fee has to go.
+
+168
+00:11:02,340 --> 00:11:07,160
+A study found that the TSA's average cost per life saved—how much money it spent to
+
+169
+00:11:07,160 --> 00:11:12,800
+stop one human death—is $667 million.
+
+170
+00:11:12,800 --> 00:11:16,680
+You can certainly say that you can't put a price on a human life, but the security
+
+171
+00:11:16,680 --> 00:11:20,140
+that saves these lives costs lives.
+
+172
+00:11:20,140 --> 00:11:25,600
+The plane is empirically the safest way to travel—it's hundreds or thousands of times
+
+173
+00:11:25,600 --> 00:11:31,360
+safer than driving—so stopping people from flying is, in and of itself, deadly.
+
+174
+00:11:31,360 --> 00:11:36,940
+Economists found that the increase in airport security in the US post-9-11 can account for
+
+175
+00:11:36,940 --> 00:11:39,660
+6% of the decline in air travel.
+
+176
+00:11:39,660 --> 00:11:45,260
+Given that, in 2002, more than 500 people died because, as a result of longer security
+
+177
+00:11:45,260 --> 00:11:50,620
+times and more extensive searches, they chose to drive over fly and were involved in a fatal
+
+178
+00:11:50,620 --> 00:11:52,040
+accident.
+
+179
+00:11:52,040 --> 00:11:57,480
+Flying being easy helps everyone—it lets people travel faster and it helps airlines
+
+180
+00:11:57,480 --> 00:12:02,380
+as businesses, just as long as it doesn't result in a decrease in safety.
+
+181
+00:12:02,380 --> 00:12:07,580
+In Israel, passengers arrive three hours before their flights just to clear security which
+
+182
+00:12:07,580 --> 00:12:12,020
+means plane travel is inefficient while in some places in Europe, airports encourage
+
+183
+00:12:12,020 --> 00:12:15,360
+travelers to arrive a mere hour before their flight.
+
+184
+00:12:15,360 --> 00:12:19,740
+The goal is to keep security fast, efficient, but also secure.
+
+185
+00:12:19,740 --> 00:12:25,060
+No country or airport has the perfect system, but to achieve this, one likely needs to combine
+
+186
+00:12:25,060 --> 00:12:29,340
+elements of the strictest security systems with those of the fastest.
+
+187
+00:12:29,340 --> 00:12:34,460
+Israel can get away with invasive, unethical, yet effective security measures because they
+
+188
+00:12:34,460 --> 00:12:35,460
+need to.
+
+189
+00:12:35,460 --> 00:12:38,740
+They are a country seemingly constantly at war.
+
+190
+00:12:38,740 --> 00:12:42,340
+Many other areas of the world just aren't big targets for terrorists.
+
+191
+00:12:42,340 --> 00:12:46,020
+It's hard to know whether or not security measures are effective.
+
+192
+00:12:46,020 --> 00:12:50,640
+There's no control group of developed countries that don't have airport security to compare
+
+193
+00:12:50,640 --> 00:12:51,640
+to.
+
+194
+00:12:51,640 --> 00:12:56,160
+The most effective security systems stop attacks by the mere threat of consequences rather
+
+195
+00:12:56,160 --> 00:13:00,660
+than through physical screening so maybe airport security works.
+
+196
+00:13:00,660 --> 00:13:06,580
+In the US, and Europe, and Asia, and all the other developed, safe areas of the world,
+
+197
+00:13:06,580 --> 00:13:12,940
+one must therefore ask whether airport security is actually saving lives or ending them.
+
+198
+00:13:12,940 --> 00:13:16,500
+If you've been watching this channel for a while you know about Blue Apron.
+
+199
+00:13:16,500 --> 00:13:21,340
+I'm someone who hates to waste time which is part of the reason I love Blue Apron.
+
+200
+00:13:21,340 --> 00:13:25,580
+With Blue Apron you receive a box full of pre-apportioned ingredients and recipes which
+
+201
+00:13:25,580 --> 00:13:29,680
+you use to make fresh, delicious meals in 40 minutes or less.
+
+202
+00:13:29,680 --> 00:13:33,860
+You skip all the boring parts like grocery shopping and measuring and get right to the
+
+203
+00:13:33,860 --> 00:13:37,060
+great parts of cooking—actually cooking and eating.
+
+204
+00:13:37,060 --> 00:13:40,980
+I've found with all the Blue Apron meals I've had that they're all unique recipes
+
+205
+00:13:40,980 --> 00:13:45,300
+that I would never have thought of making myself although I've also never had a Blue
+
+206
+00:13:45,300 --> 00:13:49,460
+Apron meal I didn't like since before you receive your meal each week you can select
+
+207
+00:13:49,460 --> 00:13:50,980
+which ones you want online.
+
+208
+00:13:50,980 --> 00:13:55,260
+I'm confident really anyone will like Blue Apron and they are too so they're offering
+
+209
+00:13:55,260 --> 00:14:00,300
+the first 100 people who sign up at the link in the description $50 off their first two
+
+210
+00:14:00,300 --> 00:14:01,300
+weeks.
+
+211
+00:14:01,300 --> 00:14:06,020
+They make this show possible and also make a genuinely good product so once again, make
+
+212
+00:14:06,020 --> 00:14:09,260
+sure to at least check them out at the link in the description.
+
+213
+00:14:09,260 --> 00:14:13,380
+Thanks for watching and I'll see you again in three weeks for another Wendover Productions
+
+214
+00:14:13,380 --> 00:14:13,820
+video.
+

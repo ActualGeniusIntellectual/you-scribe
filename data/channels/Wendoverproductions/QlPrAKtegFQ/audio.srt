@@ -1,0 +1,728 @@
+1
+00:00:00,000 --> 00:00:03,760
+This video was made possible by ExpressVPN.
+
+2
+00:00:03,760 --> 00:00:10,840
+Start browsing the web securely with three months free by going to expressvpn.com-slash-wendover.
+
+3
+00:00:10,840 --> 00:00:14,840
+When you think of freight transport, the image in your head might include massive container
+
+4
+00:00:14,840 --> 00:00:21,540
+ships or mile-long trains or enormous cargo planes, but more than each of those, the transportation
+
+5
+00:00:21,540 --> 00:00:26,940
+method that carries the vast majority of the world's freight is trucks.
+
+6
+00:00:26,940 --> 00:00:29,540
+In most places, it's not even close.
+
+7
+00:00:29,540 --> 00:00:34,500
+By value, they carry 73% of the US's domestic freight.
+
+8
+00:00:34,500 --> 00:00:39,060
+It is truly trucks that connect to the world more than anything else.
+
+9
+00:00:39,060 --> 00:00:43,380
+Trucking fills a lot of roles from just daily deliveries to urban households all the way
+
+10
+00:00:43,380 --> 00:00:47,720
+to cross-country treks bringing goods from manufacturer to consumer.
+
+11
+00:00:47,720 --> 00:00:53,100
+It is that form, though—long-haul, over-the-road trucking—that is most elusive.
+
+12
+00:00:53,100 --> 00:00:57,420
+These trucks are visible on the highways of any country, but the infrastructure supporting
+
+13
+00:00:57,420 --> 00:01:01,620
+this transportation system hides in plain sight.
+
+14
+00:01:01,620 --> 00:01:06,300
+When on the road, long-haul truckers live and work in their trucks.
+
+15
+00:01:06,300 --> 00:01:10,940
+Of course their job is centered around sitting behind the wheel, but the section behind that
+
+16
+00:01:10,940 --> 00:01:12,780
+is where they live.
+
+17
+00:01:12,780 --> 00:01:16,500
+Drivers are only allowed to drive a certain number of hours at a time.
+
+18
+00:01:16,500 --> 00:01:20,780
+In the US, it's 11, in Europe, it's 9, and in the rest of the world it's something
+
+19
+00:01:20,780 --> 00:01:22,460
+similar to those two.
+
+20
+00:01:22,500 --> 00:01:27,520
+Therefore, they need the facilities to live, rest, and recreate when off the road in those
+
+21
+00:01:27,520 --> 00:01:29,820
+remaining hours of the day.
+
+22
+00:01:29,820 --> 00:01:34,940
+Most trucks have a cab just large enough for a bed, TV, microwave, and a few other small
+
+23
+00:01:34,940 --> 00:01:35,940
+appliances.
+
+24
+00:01:35,940 --> 00:01:40,580
+They are typically intentionally minimalistic because there is a trade-off between the size
+
+25
+00:01:40,580 --> 00:01:44,160
+and weight of the cab and how much freight can be hauled.
+
+26
+00:01:44,160 --> 00:01:48,420
+This truly is a trade-off for the drivers mostly, as a big proportion of them in places
+
+27
+00:01:48,420 --> 00:01:54,180
+like the US usually own their truck themselves and work for companies on a freelance basis.
+
+28
+00:01:54,180 --> 00:01:58,460
+That means they could decide to buy a rig with a larger, more comfortable cab, but that
+
+29
+00:01:58,460 --> 00:02:03,340
+could make them less capable of hauling heavier loads, which means less money.
+
+30
+00:02:03,340 --> 00:02:07,320
+Trucks are weight restricted, mostly to keep the roads in decent condition.
+
+31
+00:02:07,320 --> 00:02:10,060
+The greater the weight, the greater the impact.
+
+32
+00:02:10,060 --> 00:02:13,600
+In the US, this maximum weight varies widely.
+
+33
+00:02:13,600 --> 00:02:18,540
+On most highways, it's 80,000 pounds or 36,000 kilograms, but this varies from state
+
+34
+00:02:18,540 --> 00:02:24,840
+to state all the way up to 164,000 pounds or 75,000 kilograms in Michigan.
+
+35
+00:02:24,840 --> 00:02:29,160
+Considering this variance, states will typically have weigh stations near their borders on
+
+36
+00:02:29,160 --> 00:02:33,000
+major highways, as well as some spread out throughout the state.
+
+37
+00:02:33,000 --> 00:02:37,600
+All trucks, except for some that have electronic systems allowing them to bypass, are required
+
+38
+00:02:37,600 --> 00:02:42,200
+to pull off onto massive scales to assure they're complying with the rules.
+
+39
+00:02:42,200 --> 00:02:46,080
+Using this opportunity, though, many weigh stations have become far more technologically
+
+40
+00:02:46,080 --> 00:02:49,380
+advanced to assure safety and compliance.
+
+41
+00:02:49,380 --> 00:02:53,120
+For example, thermal cameras will take an image of the wheels to assure the brakes are
+
+42
+00:02:53,120 --> 00:02:54,120
+working properly.
+
+43
+00:02:54,120 --> 00:02:57,160
+If they're too cold, that could mean the brakes are not engaging.
+
+44
+00:02:57,160 --> 00:03:00,740
+If they're too hot, that could mean they're engaging too much, in comparison to the other
+
+45
+00:03:00,740 --> 00:03:01,740
+brakes.
+
+46
+00:03:01,740 --> 00:03:08,320
+So, the weight issue, though, is why the average rig looks just like this—a compact cab with
+
+47
+00:03:08,320 --> 00:03:10,920
+just the bare minimum of comforts.
+
+48
+00:03:10,920 --> 00:03:15,960
+The tradeoff means that larger, extended sleepers are only common with, for example, long-haul
+
+49
+00:03:15,960 --> 00:03:20,540
+moving trucks, which, due to the low weight and density of the carried goods, rarely have
+
+50
+00:03:20,540 --> 00:03:22,440
+an issue with weight limits.
+
+51
+00:03:22,440 --> 00:03:27,940
+So, given that most trucks look like this, with just the bare bones of comforts, most
+
+52
+00:03:27,940 --> 00:03:33,540
+of the facilities truckers need are located in the places where they sleep—truck stops.
+
+53
+00:03:33,540 --> 00:03:38,180
+These dot large countries like the US with remarkable frequency, centered primarily along
+
+54
+00:03:38,180 --> 00:03:41,020
+highways and other common trucking routes.
+
+55
+00:03:41,020 --> 00:03:45,740
+They might look like large gas stations, but they offer far more.
+
+56
+00:03:45,740 --> 00:03:51,040
+Truck cabs typically don't have bathrooms or showers, so they almost always have those.
+
+57
+00:03:51,040 --> 00:03:54,940
+They also don't have laundry facilities, so truck stops often have those.
+
+58
+00:03:54,940 --> 00:04:00,720
+Some will also have banks, barbers, chiropractors, dentists, dog groomers, and more.
+
+59
+00:04:00,720 --> 00:04:05,140
+This is all because, once truckers are on the road, they're in the system and they
+
+60
+00:04:05,140 --> 00:04:08,180
+can't really leave it until they're back at their origin.
+
+61
+00:04:08,180 --> 00:04:12,340
+One can't just drive into a city and park to do some shopping in a semi-truck, both
+
+62
+00:04:12,340 --> 00:04:15,180
+practically and, in some cases, legally.
+
+63
+00:04:15,180 --> 00:04:19,940
+While truckers might travel more miles in a year than anyone else, the world for them,
+
+64
+00:04:19,940 --> 00:04:24,780
+while on the job, is limited to the roads, truck stops, and few other facilities catering
+
+65
+00:04:24,780 --> 00:04:25,780
+to them.
+
+66
+00:04:25,780 --> 00:04:31,180
+That's why services like dentists at truck stops are far from novelties—they're crucial
+
+67
+00:04:31,180 --> 00:04:34,020
+fixtures of a life on the road.
+
+68
+00:04:34,020 --> 00:04:37,380
+Truck drivers only make money when they're moving.
+
+69
+00:04:37,380 --> 00:04:42,380
+Overwhelmingly, they are paid per mile, meaning the time during which they are legally mandated
+
+70
+00:04:42,380 --> 00:04:45,020
+to rest is unpaid.
+
+71
+00:04:45,020 --> 00:04:48,580
+Not only that, but time off actually loses money.
+
+72
+00:04:48,580 --> 00:04:51,420
+The whole game is an economic puzzle.
+
+73
+00:04:51,420 --> 00:04:56,580
+Trucks need power to run AC, heat, or electronics while stationary—all of which drivers typically
+
+74
+00:04:56,580 --> 00:04:58,460
+need when they're stopped.
+
+75
+00:04:58,460 --> 00:05:03,860
+Therefore, often, drivers leave their trucks idling overnight, which burns about 0.8 gallons
+
+76
+00:05:03,860 --> 00:05:06,440
+or 3 liters of diesel per hour.
+
+77
+00:05:06,440 --> 00:05:12,220
+At current prices, a 10-hour overnight stop would burn about $20 of diesel which, multiplied
+
+78
+00:05:12,220 --> 00:05:17,620
+by hundreds of nights per year per driver, is a significant cost and even greater environmental
+
+79
+00:05:17,620 --> 00:05:18,620
+burden.
+
+80
+00:05:18,620 --> 00:05:23,460
+In addition, this idling adds wear and tear to the engine and counts against a truck's
+
+81
+00:05:23,460 --> 00:05:24,460
+warranty.
+
+82
+00:05:24,460 --> 00:05:28,780
+Until recently, there really wasn't an alternative, except for sleeping without AC or heat, but
+
+83
+00:05:28,780 --> 00:05:33,800
+under increased pressure to improve its environmental footprint, the trucking industry has implemented
+
+84
+00:05:33,800 --> 00:05:38,340
+innovations such as auxiliary power units, smaller, more efficient generators, electric
+
+85
+00:05:38,340 --> 00:05:42,820
+plugins at truck stops, or even ducts installed to windows when stopped to provide climate
+
+86
+00:05:42,820 --> 00:05:43,960
+control.
+
+87
+00:05:43,960 --> 00:05:47,300
+This economic calculation extends beyond stops.
+
+88
+00:05:47,300 --> 00:05:51,600
+It also deals with optimizing the miles covered while following the laws.
+
+89
+00:05:51,600 --> 00:05:56,400
+In the US, the rule is that one can drive up to 11 hours, over an overall period of
+
+90
+00:05:56,400 --> 00:06:00,000
+14 hours, and then must rest for 10 hours.
+
+91
+00:06:00,000 --> 00:06:04,720
+Assuming an average speed of 60 miles per hour, that means a truck can essentially travel
+
+92
+00:06:04,720 --> 00:06:07,080
+660 miles per day.
+
+93
+00:06:07,080 --> 00:06:12,360
+Therefore, a cross-country trip from Los Angeles to New York would take about four and a half
+
+94
+00:06:12,360 --> 00:06:13,540
+days.
+
+95
+00:06:13,540 --> 00:06:18,160
+The drivers themselves are paid per mile, so all they want to do is maximize their speed
+
+96
+00:06:18,160 --> 00:06:21,000
+during the 11 hours of daily driving time.
+
+97
+00:06:21,000 --> 00:06:25,160
+The consumer, though, whoever's paying for the transport of the product in the back,
+
+98
+00:06:25,160 --> 00:06:28,120
+cares about how fast it gets to them overall.
+
+99
+00:06:28,120 --> 00:06:33,320
+Therefore, truckers have devised a system to move freight faster.
+
+100
+00:06:33,320 --> 00:06:37,460
+The rules just say that drivers have to rest for 10 hours in their cab.
+
+101
+00:06:37,460 --> 00:06:40,700
+It doesn't say that the trucks have to be stationary.
+
+102
+00:06:40,700 --> 00:06:45,580
+Drivers will therefore team up so that while one drives, the other sleeps, and vice versa.
+
+103
+00:06:45,580 --> 00:06:50,620
+A team of drivers, which is often made up of a married couple, can therefore drive 22
+
+104
+00:06:50,620 --> 00:06:54,000
+hours per day, covering 1,320 miles.
+
+105
+00:06:54,000 --> 00:06:59,600
+That means that they could make the Los Angeles to New York trip in just two days.
+
+106
+00:06:59,600 --> 00:07:03,260
+Consumers will pay a premium for the speed, and therefore trucking companies will pay
+
+107
+00:07:03,260 --> 00:07:04,760
+more per mile.
+
+108
+00:07:04,760 --> 00:07:09,360
+In addition, having less stopped time means that the truck, which costs quite a lot, is
+
+109
+00:07:09,360 --> 00:07:11,740
+being used more efficiently.
+
+110
+00:07:11,740 --> 00:07:17,000
+This team system is all around a win for everyone, assuming one can find a pair of people that
+
+111
+00:07:17,000 --> 00:07:21,680
+will tolerate spending their lives cooped up in a truck cab together.
+
+112
+00:07:21,680 --> 00:07:25,540
+Truckers almost certainly are a dying breed, though.
+
+113
+00:07:25,540 --> 00:07:30,960
+The future of freight transport will undoubtedly center around self-driving trucks and the
+
+114
+00:07:30,960 --> 00:07:35,360
+technology for these is very close to ready for prime time.
+
+115
+00:07:35,360 --> 00:07:40,340
+Right now, multiple companies are at the point where their trucks are traveling autonomously,
+
+116
+00:07:40,340 --> 00:07:43,760
+with drivers behind the wheel to intervene if needed.
+
+117
+00:07:43,760 --> 00:07:48,880
+These are essentially autopilot systems, similar to Tesla's, that aid the driver and reduce
+
+118
+00:07:48,880 --> 00:07:49,880
+fatigue.
+
+119
+00:07:49,920 --> 00:07:55,000
+Soon, though, with more proven technology and legal authority to do so, this will likely
+
+120
+00:07:55,000 --> 00:07:57,700
+advance to autonomous convoys.
+
+121
+00:07:57,700 --> 00:08:02,320
+In this system, one driver would sit behind the wheel of a lead truck, which might also
+
+122
+00:08:02,320 --> 00:08:07,960
+drive autonomously, and then a series of autonomous humanless trucks would follow behind.
+
+123
+00:08:07,960 --> 00:08:12,500
+This way, there is still a human that can assist with mechanical issues or unforeseen
+
+124
+00:08:12,500 --> 00:08:17,720
+road conditions, but the freight-to-driver ratio increases dramatically.
+
+125
+00:08:17,720 --> 00:08:22,920
+This will, of course, reduce the number of truckers needed, but then, after this phase,
+
+126
+00:08:22,920 --> 00:08:27,060
+the industry will undoubtedly advance to fully autonomous trucks.
+
+127
+00:08:27,060 --> 00:08:32,080
+At first, this will likely just be on dedicated routes—for example, a company might deploy
+
+128
+00:08:32,080 --> 00:08:38,000
+these on uncomplicated routes from one warehouse to another, both being close to a highway.
+
+129
+00:08:38,000 --> 00:08:42,500
+Autonomous driving on highways is relatively easy since road conditions are standardized
+
+130
+00:08:42,500 --> 00:08:44,160
+and predictable.
+
+131
+00:08:44,160 --> 00:08:48,820
+Autonomous city driving is much more complicated, so human drivers might still be needed for
+
+132
+00:08:48,820 --> 00:08:51,500
+the start and end of journeys.
+
+133
+00:08:51,500 --> 00:08:55,800
+What fully autonomous driving could do, though, is allow a truck to continue moving on the
+
+134
+00:08:55,800 --> 00:09:00,740
+highway while a driver rests in the back, allowing essentially continuous driving without
+
+135
+00:09:00,740 --> 00:09:03,160
+having to deal with working hour limits.
+
+136
+00:09:03,160 --> 00:09:08,840
+This, along with a convoy system, could increase the cost-efficiency of trucking dramatically
+
+137
+00:09:08,840 --> 00:09:12,320
+as the human drivers represent a significant cost.
+
+138
+00:09:12,320 --> 00:09:17,200
+An average trucker's pay is about 35 cents per mile, meaning that cutting out that cost
+
+139
+00:09:17,200 --> 00:09:23,280
+entirely would reduce the cost of a Los Angeles to New York trip, for example, by almost $1,000.
+
+140
+00:09:23,280 --> 00:09:29,140
+It is for this reason why so many companies are pursuing autonomous trucks.
+
+141
+00:09:29,140 --> 00:09:34,600
+Of course, the other major cost in trucking is fuel, so companies are also trying to innovate
+
+142
+00:09:34,600 --> 00:09:36,080
+in that space.
+
+143
+00:09:36,080 --> 00:09:41,400
+Concurrent to the deployment of autonomous trucks is a likely shift into the use of electric
+
+144
+00:09:41,400 --> 00:09:42,400
+trucks.
+
+145
+00:09:42,400 --> 00:09:46,200
+Tesla, for example, is developing its own semi-truck.
+
+146
+00:09:46,200 --> 00:09:51,060
+They claim its energy consumption will be about 2 kilowatt hours per mile.
+
+147
+00:09:51,060 --> 00:09:55,760
+The US's average energy cost is about 10 cents per kilowatt hour which translates to
+
+148
+00:09:55,760 --> 00:09:59,120
+an energy cost of about 20 cents per mile.
+
+149
+00:09:59,120 --> 00:10:03,620
+Typical internal combustion semi-trucks have an efficiency of about 6 miles per gallon
+
+150
+00:10:03,620 --> 00:10:10,260
+so, at current diesel prices, that would translate to a cost of about 40 cents per mile.
+
+151
+00:10:10,260 --> 00:10:14,920
+Providing a trucking company's energy prices is certainly an intriguing proposition, which
+
+152
+00:10:14,920 --> 00:10:18,920
+is why many consider the Tesla semi so promising.
+
+153
+00:10:18,920 --> 00:10:24,340
+At those prices, if a truck goes driverless, meaning no salary costs, the variable cost
+
+154
+00:10:24,340 --> 00:10:30,660
+of a cross-country Los Angeles to New York run would be just $550.
+
+155
+00:10:30,660 --> 00:10:35,740
+To be able to haul tens of thousands of pounds of goods from door to door across the country
+
+156
+00:10:35,740 --> 00:10:41,320
+for just hundreds of dollars would result in a paradigm shift in the freight world.
+
+157
+00:10:41,320 --> 00:10:45,220
+There are certainly disadvantages, such as the high battery pack weight that reduces
+
+158
+00:10:45,220 --> 00:10:50,240
+cargo capacity, but it is clear that electric trucks will play some role in the industry
+
+159
+00:10:50,240 --> 00:10:52,680
+regardless in the near future.
+
+160
+00:10:52,680 --> 00:10:56,960
+This role will likely be concentrated in shorter routes rather than long haul ones, but this
+
+161
+00:10:56,960 --> 00:11:01,820
+is still a significant enough subset of the industry that electric trucks have the potential
+
+162
+00:11:01,820 --> 00:11:04,380
+for significant disruption.
+
+163
+00:11:04,380 --> 00:11:09,440
+Right now, there is a strange duality where truckers are so crucial to the running of
+
+164
+00:11:09,440 --> 00:11:13,540
+a modern economy that the world is working to replace them.
+
+165
+00:11:13,540 --> 00:11:18,160
+We can't live without them right now, so we're finding a way to.
+
+166
+00:11:18,160 --> 00:11:23,940
+In the future, though, the job of a trucker will undoubtedly be another victim of an increasingly
+
+167
+00:11:23,940 --> 00:11:27,300
+modernized world.
+
+168
+00:11:27,300 --> 00:11:31,260
+Another aspect of an increasingly modernized world is clearly more people working from
+
+169
+00:11:31,260 --> 00:11:35,580
+home and with that, it's more important than ever to be sure that you're using the
+
+170
+00:11:35,580 --> 00:11:37,740
+internet securely.
+
+171
+00:11:37,740 --> 00:11:41,560
+ExpressVPN can play a crucial component in that for you.
+
+172
+00:11:41,560 --> 00:11:46,540
+They assure that 100% of the data transferred between your device and the internet is encrypted,
+
+173
+00:11:46,540 --> 00:11:50,740
+therefore providing a layer of protection for everything you do online.
+
+174
+00:11:50,740 --> 00:11:55,100
+This is important because, for example, in the US, internet service providers can legally
+
+175
+00:11:55,100 --> 00:11:59,940
+sell your data to ad companies, and in the UK and Australia, they keep logs of your internet
+
+176
+00:11:59,940 --> 00:12:01,420
+activity for years.
+
+177
+00:12:01,420 --> 00:12:06,380
+In addition, you can route your traffic through any country to be extra sure it's safe against
+
+178
+00:12:06,380 --> 00:12:11,060
+government surveillance, or even just to get access to a bigger selection of online entertainment.
+
+179
+00:12:11,060 --> 00:12:16,140
+I've personally used ExpressVPN for years, far before they offered to sponsor the channel,
+
+180
+00:12:16,140 --> 00:12:21,740
+and have found that their simplicity and reliability makes them, definitively, the best VPN.
+
+181
+00:12:21,740 --> 00:12:28,140
+The best bit is, you can try ExpressVPN with three months free by going to expressvpn.com-slash-wendover
+
+182
+00:12:28,140 --> 00:12:30,420
+and you'll be supporting the channel while you're at it.
+

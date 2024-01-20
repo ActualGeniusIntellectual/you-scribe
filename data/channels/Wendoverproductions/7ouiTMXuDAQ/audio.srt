@@ -1,0 +1,612 @@
+1
+00:00:00,000 --> 00:00:04,400
+Moon colonization is something that humans have dreamt about for centuries and it's
+
+2
+00:00:04,400 --> 00:00:07,400
+entirely possible it's just a matter of cost.
+
+3
+00:00:07,400 --> 00:00:12,840
+Bringing both humans and supplies the 234,000 miles to the lunar surface costs an enormous
+
+4
+00:00:12,840 --> 00:00:16,800
+amount of money and it's difficult to justify the cost to taxpayers.
+
+5
+00:00:16,800 --> 00:00:18,400
+So how much would it cost?
+
+6
+00:00:18,400 --> 00:00:19,860
+Well that's a complicated question.
+
+7
+00:00:19,860 --> 00:00:23,440
+For the sake of simplicity, let's say we're doing a one year return mission with four
+
+8
+00:00:23,440 --> 00:00:25,720
+astronauts using NASA technology.
+
+9
+00:00:25,720 --> 00:00:29,560
+The first thing we'll calculate is the cost of getting there and we'll need a rocket.
+
+10
+00:00:29,560 --> 00:00:33,960
+The Saturn V is the only rocket to have ever existed that is powerful enough to take humans
+
+11
+00:00:33,960 --> 00:00:35,460
+beyond low earth orbit.
+
+12
+00:00:35,460 --> 00:00:38,240
+The problem is, all 15 of them are long retired.
+
+13
+00:00:38,240 --> 00:00:43,240
+The Saturn V had a lunar payload capacity of 90,000 pounds and a per launch cost of
+
+14
+00:00:43,240 --> 00:00:51,540
+$189,000,000 1971 dollars or $1,123,000,000 2016 dollars which works out to $12,500 per
+
+15
+00:00:51,540 --> 00:00:53,420
+pound transported to the moon.
+
+16
+00:00:53,420 --> 00:00:57,900
+That may seem like a lot, but that would mean that the average American, weighing 159 pounds,
+
+17
+00:00:57,900 --> 00:01:01,980
+could travel to the moon on technology that existed when computers looked like this for
+
+18
+00:01:01,980 --> 00:01:04,020
+a mere $2,000,000.
+
+19
+00:01:04,020 --> 00:01:05,860
+I know you know that that's not right.
+
+20
+00:01:05,860 --> 00:01:08,300
+There are two problems in that calculation.
+
+21
+00:01:08,300 --> 00:01:11,040
+First off, that doesn't include research and development costs.
+
+22
+00:01:11,040 --> 00:01:17,780
+A staggering $6.4 billion was spent to develop the Saturn V which is $38,000,000,000 in 2016
+
+23
+00:01:17,780 --> 00:01:18,780
+dollars.
+
+24
+00:01:18,780 --> 00:01:23,860
+So, considering that the Saturn V was launched 13 times, that works out to just over $4,000,000
+
+25
+00:01:23,860 --> 00:01:26,920
+per launch or $44,000 per pound.
+
+26
+00:01:27,160 --> 00:01:31,040
+To colonize the moon, you don't just need to get things to the moon, you need to get
+
+27
+00:01:31,040 --> 00:01:32,540
+them on the moon.
+
+28
+00:01:32,540 --> 00:01:36,660
+The budget allocated to develop and build 12 lunar landers back in the Apollo days was
+
+29
+00:01:36,660 --> 00:01:41,280
+$18,000,000,000 2016 dollars or $1,500,000,000 per lander.
+
+30
+00:01:41,280 --> 00:01:45,440
+Once again, the lunar landers are no longer in service so we're including the R&D costs
+
+31
+00:01:45,440 --> 00:01:46,800
+in our calculations.
+
+32
+00:01:46,800 --> 00:01:50,760
+We need two landers to bring our four astronauts to the moon and these have to be able to return
+
+33
+00:01:50,760 --> 00:01:53,800
+so they need to land with both launch systems and fuel.
+
+34
+00:01:53,800 --> 00:01:58,380
+So that's $1.5 billion per lander plus $4 billion per Saturn V launch so $11 billion
+
+35
+00:01:58,380 --> 00:02:01,220
+total to carry our astronauts to the moon and back.
+
+36
+00:02:01,220 --> 00:02:05,440
+During the Apollo days, NASA also developed a module called the LM truck which was designed
+
+37
+00:02:05,440 --> 00:02:08,600
+to deliver payloads to the surface of the moon without a crew.
+
+38
+00:02:08,600 --> 00:02:13,520
+Not only could these land with 11,000 pounds of cargo, but a Saturn V rocket could launch
+
+39
+00:02:13,520 --> 00:02:14,880
+with two of them.
+
+40
+00:02:14,880 --> 00:02:19,160
+Using the truck, we can bring our per pound cost of bringing cargo to the lunar surface
+
+41
+00:02:19,160 --> 00:02:22,040
+down to a reasonable $318,000.
+
+42
+00:02:22,080 --> 00:02:24,080
+Believe it or not, that's a bargain.
+
+43
+00:02:24,080 --> 00:02:27,920
+So, once our four astronauts get to the moon, they need somewhere to live.
+
+44
+00:02:27,920 --> 00:02:32,320
+The Center for Strategic and International Studies in Washington DC did a super detailed
+
+45
+00:02:32,320 --> 00:02:36,520
+study on how much the development and construction of a lunar base would cost.
+
+46
+00:02:36,520 --> 00:02:41,600
+For our four person base, it would cost $20 billion to develop plus one of our $4 billion
+
+47
+00:02:41,600 --> 00:02:43,360
+launches equaling $24 billion.
+
+48
+00:02:43,360 --> 00:02:44,800
+That's a little steep.
+
+49
+00:02:44,800 --> 00:02:49,360
+For a budget option, we could go with something like Bigelow Airspace's B330 spacecraft.
+
+50
+00:02:49,360 --> 00:02:53,720
+These are essentially inflatable buildings that work in space and with a bit of modification,
+
+51
+00:02:53,720 --> 00:02:56,560
+they could conceivably be altered to work on the surface of the moon.
+
+52
+00:02:56,560 --> 00:02:58,720
+Bigelow Airspace is a commercial company.
+
+53
+00:02:58,720 --> 00:03:04,360
+They've said that the B330 would rent out for $1.25 million per day or $465 million
+
+54
+00:03:04,360 --> 00:03:05,840
+for a one year mission.
+
+55
+00:03:05,840 --> 00:03:08,520
+Considering that's the first time I've said million when talking about a current
+
+56
+00:03:08,520 --> 00:03:11,200
+day cost, that's practically nothing.
+
+57
+00:03:11,200 --> 00:03:16,320
+Until you consider the problem of getting the B330 to the moon, it weighs 43,000 pounds
+
+58
+00:03:16,320 --> 00:03:21,600
+so it'd take four LM truck landings and two Saturn V launches for a total of $14 billion.
+
+59
+00:03:21,600 --> 00:03:24,440
+Well, that's a little better than $24 billion.
+
+60
+00:03:24,440 --> 00:03:26,220
+Let's move on to food.
+
+61
+00:03:26,220 --> 00:03:29,840
+For food, the best, but not simplest solution is to just grow it.
+
+62
+00:03:29,840 --> 00:03:34,440
+One lunar greenhouse developed by the University of Arizona could produce about 5.5 pounds
+
+63
+00:03:34,440 --> 00:03:35,660
+of food per day.
+
+64
+00:03:35,660 --> 00:03:39,300
+In order to have variety, NASA would probably choose a few different crops that would do
+
+65
+00:03:39,300 --> 00:03:40,720
+well on the moon.
+
+66
+00:03:40,720 --> 00:03:44,040
+For our calculations, we'll say that the greenhouse would be filled with 76% sweet
+
+67
+00:03:44,040 --> 00:03:47,400
+potato, 16% tomato, and 10% strawberry.
+
+68
+00:03:47,400 --> 00:03:51,800
+That'll come out to 4.3 pounds of sweet potato, .8 pounds of tomato, and .4 pounds
+
+69
+00:03:51,800 --> 00:03:53,380
+of strawberries per day.
+
+70
+00:03:53,380 --> 00:03:59,660
+Sweet potatoes have 389 calories per pound or 1,675 calories per day per greenhouse.
+
+71
+00:03:59,660 --> 00:04:04,400
+The tomatoes and strawberries will make 65 and 60 calories per day per greenhouse respectively,
+
+72
+00:04:04,400 --> 00:04:07,520
+so that's 1,800 calories per day per greenhouse total.
+
+73
+00:04:07,520 --> 00:04:11,720
+Each of our four astronauts would need about 3,000 calories per day equaling 12,000 total
+
+74
+00:04:11,720 --> 00:04:15,640
+per day, so we'll need 6.67 greenhouses total and since you can't really bring two
+
+75
+00:04:15,640 --> 00:04:19,600
+thirds of a greenhouse, we'll bring 7 and have surplus food, which is great for backup.
+
+76
+00:04:19,600 --> 00:04:24,280
+Each lunar greenhouse will require .2 pounds of fertilizer per day, which adds up to 1.4
+
+77
+00:04:24,280 --> 00:04:28,480
+pounds of fertilizer per day for our 7 greenhouses and 510 pounds for the year.
+
+78
+00:04:28,480 --> 00:04:32,200
+So, for the greenhouse's growing scheme, we'll need to physically bring the greenhouses
+
+79
+00:04:32,200 --> 00:04:38,480
+which each weigh a full metric ton or 2,200 pounds which, for the 7 of them, is 15,400
+
+80
+00:04:38,480 --> 00:04:44,160
+pounds or 4.9 billion dollars plus another 162 million dollars for fertilizer.
+
+81
+00:04:44,160 --> 00:04:47,880
+The International Space Station is a really good example of how water resources could
+
+82
+00:04:47,880 --> 00:04:49,240
+be managed on the moon.
+
+83
+00:04:49,240 --> 00:04:51,680
+Every bit used on the ISS is recycled.
+
+84
+00:04:51,680 --> 00:04:56,360
+That includes water from condensation, showers, sweat, and yes, urine.
+
+85
+00:04:56,360 --> 00:04:59,960
+It of course gets filtered heavily, but the water in astronauts food is the same that
+
+86
+00:04:59,960 --> 00:05:03,080
+came from, you know, other stuff.
+
+87
+00:05:03,080 --> 00:05:08,320
+NASA says that, without water recycling, 40,000 pounds of water would be needed to sustain
+
+88
+00:05:08,320 --> 00:05:09,680
+4 astronauts on the moon.
+
+89
+00:05:09,680 --> 00:05:13,040
+That would cost $12.7 billion dollars to transport.
+
+90
+00:05:13,040 --> 00:05:18,040
+With water recycling, we can bring that down to 5,110 pounds of water for the year.
+
+91
+00:05:18,040 --> 00:05:23,600
+Except we have our greenhouse, quite a bit of water is needed to grow the plants—6,920
+
+92
+00:05:23,600 --> 00:05:24,600
+pounds worth to be specific.
+
+93
+00:05:24,600 --> 00:05:30,440
+So that's 12,030 pounds of water for the year, which would cost $3.825 billion dollars
+
+94
+00:05:30,440 --> 00:05:31,440
+to bring.
+
+95
+00:05:31,440 --> 00:05:34,920
+So, next we need air, as in oxygen to breathe.
+
+96
+00:05:34,920 --> 00:05:39,320
+A human at moderate activity levels needs 1.85 pounds of oxygen per day.
+
+97
+00:05:39,320 --> 00:05:44,740
+So that means we'd need 7.4 pounds of oxygen per day for our four astronauts, 2,701 pounds
+
+98
+00:05:44,740 --> 00:05:47,640
+for the year, which would cost $860 million dollars.
+
+99
+00:05:47,640 --> 00:05:52,700
+But wait, because of our greenhouses and the amazing process of photosynthesis, we don't.
+
+100
+00:05:52,700 --> 00:05:56,220
+One lunar greenhouse produces .75 pounds of oxygen per day.
+
+101
+00:05:56,220 --> 00:06:01,920
+So our seven create 5.25 pounds of oxygen each day, so we only need to bring 2.15 pounds
+
+102
+00:06:01,920 --> 00:06:08,120
+of oxygen per day or 785 pounds for the year, which will cost a mere $250 million dollars.
+
+103
+00:06:08,120 --> 00:06:11,760
+You may ask why we don't use an oxygen scrubber and the simple answer is that it would cost
+
+104
+00:06:11,760 --> 00:06:16,080
+quite a bit more to develop, build, and deliver a scrubber capable of creating enough clean
+
+105
+00:06:16,080 --> 00:06:17,360
+air for a crew of four.
+
+106
+00:06:17,360 --> 00:06:21,580
+It's just cheaper and less risky to bring all the necessary oxygen there.
+
+107
+00:06:21,580 --> 00:06:25,040
+In terms of power, it's been proposed that the best way to bring electricity to the moon
+
+108
+00:06:25,040 --> 00:06:27,080
+is to literally bring a nuclear reactor.
+
+109
+00:06:27,080 --> 00:06:31,160
+It'd be a little one, but it would carry out fission reactions on the surface of the
+
+110
+00:06:31,160 --> 00:06:32,160
+moon.
+
+111
+00:06:32,160 --> 00:06:36,000
+NASA has only proposed, not developed, this system, but they said it could be developed,
+
+112
+00:06:36,000 --> 00:06:40,080
+flight tested, and delivered to the moon for only $1.4 billion dollars.
+
+113
+00:06:40,080 --> 00:06:41,800
+Now we have everything we need.
+
+114
+00:06:41,800 --> 00:06:46,120
+So, to answer the question you came here for, how much would it cost to live a year on the
+
+115
+00:06:46,120 --> 00:06:47,120
+moon?
+
+116
+00:06:47,120 --> 00:06:51,460
+I'll just say before giving my answer that these were all estimates and far from perfect.
+
+117
+00:06:51,460 --> 00:06:55,960
+For example, it's likely that if NASA ever actually colonized the moon, it would be decades
+
+118
+00:06:55,960 --> 00:07:00,320
+in the future when commercial space companies are far more developed and the cost of transport
+
+119
+00:07:00,320 --> 00:07:01,640
+would be much less.
+
+120
+00:07:01,640 --> 00:07:05,840
+Space Flight Industries already sells cargo space to lunar orbit for a mere $10 million
+
+121
+00:07:05,840 --> 00:07:07,720
+dollars per 220 pounds.
+
+122
+00:07:07,720 --> 00:07:11,800
+With prices that low, it may not be long until living on the moon and other celestial bodies
+
+123
+00:07:11,800 --> 00:07:15,160
+becomes commercially advantageous through mining and tourism.
+
+124
+00:07:15,160 --> 00:07:19,420
+The very day this video goes up, Elon Musk is anticipated to announce SpaceX's plans
+
+125
+00:07:19,420 --> 00:07:25,040
+to get to Mars, including a massive rocket that'll be able to carry as many as 220,000
+
+126
+00:07:25,040 --> 00:07:30,440
+pounds to Mars for less than any previous rocket, which could make Martian colonization
+
+127
+00:07:30,440 --> 00:07:31,800
+economically feasible.
+
+128
+00:07:31,800 --> 00:07:37,160
+So, after adding everything up, my conservative estimate for one year with four astronauts
+
+129
+00:07:37,160 --> 00:07:40,680
+on the moon comes out to $36 billion dollars.
+
+130
+00:07:40,680 --> 00:07:50,720
+That's $98 million per day, $4.1 million per hour, $68,300 per minute, or $1,138 per
+
+131
+00:07:50,720 --> 00:07:55,400
+second—more than an average family makes in a year in Madagascar.
+
+132
+00:07:55,400 --> 00:07:56,760
+Is it worth it?
+
+133
+00:07:56,760 --> 00:07:57,760
+Maybe.
+
+134
+00:07:57,760 --> 00:08:01,360
+If we ever have to leave earth because of the environmental change that we've started,
+
+135
+00:08:01,360 --> 00:08:05,400
+that $36 billion dollars might be the best investment we've ever made.
+
+136
+00:08:05,400 --> 00:08:10,880
+After all, living on the moon or Mars or some other celestial body is a crucial first step
+
+137
+00:08:10,880 --> 00:08:14,960
+in learning how to survive when the earth is no longer.
+
+138
+00:08:14,960 --> 00:08:17,500
+I hope you enjoyed this Wendover Productions video.
+
+139
+00:08:17,500 --> 00:08:20,980
+Make sure to click subscribe to get all my future videos right when they come out.
+
+140
+00:08:20,980 --> 00:08:24,520
+I've noticed that whenever I say something unique or clever about my twitter, like I
+
+141
+00:08:24,520 --> 00:08:27,260
+did two weeks ago, loads more people follow me.
+
+142
+00:08:27,260 --> 00:08:30,320
+And now that I've said this, my guess is that more people will follow me over at my
+
+143
+00:08:30,320 --> 00:08:31,980
+account at WendoverPro.
+
+144
+00:08:31,980 --> 00:08:37,860
+There's also a fan-moderated subreddit for my channel which you can find at www.reddit.com
+
+145
+00:08:37,860 --> 00:08:39,940
+slash r slash Wendover Productions.
+
+146
+00:08:39,940 --> 00:08:44,020
+I'd also like to give a quick thanks to Shutterstock.com for giving me a bunch of
+
+147
+00:08:44,020 --> 00:08:46,300
+free footage to make this video better.
+
+148
+00:08:46,300 --> 00:08:51,060
+Lastly, this video topic was suggested to me by twitter user at the boomer so big thanks
+
+149
+00:08:51,060 --> 00:08:52,060
+to them.
+
+150
+00:08:52,060 --> 00:08:55,720
+If you have an idea for a video, tweet it at me and if I use it I'll credit you and
+
+151
+00:08:55,720 --> 00:08:57,240
+be eternally grateful.
+
+152
+00:08:57,240 --> 00:09:00,820
+Thank you for watching and I'll see you in two weeks for another Wendover Productions
+
+153
+00:09:00,820 --> 00:09:01,220
+video.
+

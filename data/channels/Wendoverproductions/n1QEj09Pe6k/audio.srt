@@ -1,0 +1,660 @@
+1
+00:00:00,000 --> 00:00:05,360
+This is a Wendover Productions video made possible by Audible.
+
+2
+00:00:05,360 --> 00:00:09,800
+So I recently went down the rabbit hole of looking at old flight schedules.
+
+3
+00:00:09,800 --> 00:00:14,300
+Airlines used to publish these physical brochures with their fares and flight times and when
+
+4
+00:00:14,300 --> 00:00:19,460
+looking at this American Airlines one from 1967 I noticed something interesting.
+
+5
+00:00:19,460 --> 00:00:25,360
+The flight between New York and LA was scheduled as 5 hours and 43 minutes long.
+
+6
+00:00:25,360 --> 00:00:27,040
+That didn't seem right.
+
+7
+00:00:27,040 --> 00:00:31,200
+American flight 3 was scheduled to leave JFK airport every day at 12 noon and arrive
+
+8
+00:00:31,200 --> 00:00:33,480
+at LAX at 2.43 pm.
+
+9
+00:00:33,480 --> 00:00:35,880
+There's 3 hours time difference.
+
+10
+00:00:35,880 --> 00:00:41,200
+It turns out that nowadays American Airlines flight 3 still leaves JFK daily at noon, but
+
+11
+00:00:41,200 --> 00:00:48,000
+the difference is that today, flight 3 is scheduled to arrive at LAX at 3.27 pm—44
+
+12
+00:00:48,000 --> 00:00:50,680
+minutes later than in 1967.
+
+13
+00:00:50,680 --> 00:00:53,020
+This has happened across the board.
+
+14
+00:00:53,020 --> 00:00:57,400
+Almost every flight today takes longer than it did back in the 60's.
+
+15
+00:00:57,400 --> 00:01:01,720
+In general the actual flight times—the time in the air—is the same, but with all the
+
+16
+00:01:01,720 --> 00:01:07,420
+congestion and delays at airports the scheduled times now account for things going wrong.
+
+17
+00:01:07,420 --> 00:01:11,900
+What this means though is that, overall, flying has slowed down.
+
+18
+00:01:11,900 --> 00:01:17,740
+In 1967 we hadn't been to the moon and computers looked like this, but we were flying everywhere
+
+19
+00:01:17,740 --> 00:01:21,340
+just as fast or even faster than we do today.
+
+20
+00:01:21,340 --> 00:01:26,700
+What happened that caused this immense lack of progress in the last 50 years?
+
+21
+00:01:26,700 --> 00:01:33,540
+There are three main types of aircraft engine—the turboprop, turbofan, and turbojet—and each
+
+22
+00:01:33,540 --> 00:01:37,100
+of them has a range of speeds when they're most efficient.
+
+23
+00:01:37,100 --> 00:01:41,660
+The turboprop is the kind of engine that you see on most propeller aircraft.
+
+24
+00:01:41,660 --> 00:01:45,420
+Almost all of the thrust with turboprop engines comes from the propeller.
+
+25
+00:01:45,420 --> 00:01:50,060
+The turbine, which spins the propeller, does intake and speed up some air, but the exhaust
+
+26
+00:01:50,060 --> 00:01:55,260
+air is not at a very high speed so it only accounts for less than 10% of the overall
+
+27
+00:01:55,260 --> 00:01:56,260
+thrust.
+
+28
+00:01:56,260 --> 00:02:00,940
+These engines are generally inexpensive both to buy and operate so a lot of smaller commuter
+
+29
+00:02:00,940 --> 00:02:03,380
+planes use turboprop engines.
+
+30
+00:02:03,380 --> 00:02:05,940
+Of course there's a trade-off—they're not as fast.
+
+31
+00:02:05,940 --> 00:02:12,280
+They're most efficient between about 325 and 375 miles per hour.
+
+32
+00:02:12,280 --> 00:02:15,700
+Any faster than that and it's better to use a turbofan.
+
+33
+00:02:15,700 --> 00:02:18,860
+Now these are the engines that you see everywhere.
+
+34
+00:02:18,860 --> 00:02:22,220
+First every commercial aircraft is turbofan driven.
+
+35
+00:02:22,220 --> 00:02:26,300
+With turbofans, the air is initially sped up by a fan—that's what you see when you
+
+36
+00:02:26,300 --> 00:02:28,340
+look at the engine from the front.
+
+37
+00:02:28,340 --> 00:02:32,520
+Then some of the air goes into the internal combustion chamber where the actual turbine
+
+38
+00:02:32,520 --> 00:02:36,220
+that drives the fan is and the rest of it goes around the turbine.
+
+39
+00:02:36,220 --> 00:02:40,580
+While air that bypasses the turbine is also sped up, the majority of the thrust comes
+
+40
+00:02:40,580 --> 00:02:43,580
+from the air that passes through the turbine.
+
+41
+00:02:43,580 --> 00:02:48,100
+Turbofans are most efficient at the speeds that you see most aircraft fly today—400
+
+42
+00:02:48,100 --> 00:02:50,180
+to 620 miles per hour.
+
+43
+00:02:50,180 --> 00:02:57,040
+If you want to go supersonic—above 767 miles per hour—you need a turbojet.
+
+44
+00:02:57,040 --> 00:03:01,740
+Turbojets are very similar to turbofans except all the air goes through the turbine—no
+
+45
+00:03:01,740 --> 00:03:03,140
+air is bypassed.
+
+46
+00:03:03,140 --> 00:03:08,420
+This lets them achieve extremely high speeds, but they also require an immense amount of
+
+47
+00:03:08,420 --> 00:03:09,420
+fuel.
+
+48
+00:03:09,700 --> 00:03:14,540
+Engines are only really efficient between about 1,300 and 1,400 miles per hour.
+
+49
+00:03:14,540 --> 00:03:19,260
+What really determines the efficiency of engines is something called the bypass ratio.
+
+50
+00:03:19,260 --> 00:03:24,260
+That's the ratio of the amount of air that passes through the bypass duct to the amount
+
+51
+00:03:24,260 --> 00:03:26,300
+that passes through the engine core.
+
+52
+00:03:26,300 --> 00:03:31,220
+The thing is, it really doesn't take that much more energy to spin a larger fan.
+
+53
+00:03:31,220 --> 00:03:35,540
+What requires a lot more fuel is to put more air through the engine core.
+
+54
+00:03:35,540 --> 00:03:40,340
+That means that engines that accelerate more air through the bypass duct can get more thrust
+
+55
+00:03:40,340 --> 00:03:42,180
+for the same amount of energy.
+
+56
+00:03:42,180 --> 00:03:47,740
+So, as a rule, the higher the bypass ratio, the more efficient the engine.
+
+57
+00:03:47,740 --> 00:03:50,580
+Take a look at this General Electric GenX engine.
+
+58
+00:03:50,580 --> 00:03:55,700
+This is a relatively new, super-efficient engine used on both the 787 Dreamliner and
+
+59
+00:03:55,700 --> 00:03:57,540
+the 747-8i.
+
+60
+00:03:57,540 --> 00:04:01,500
+You can see that the fan is much larger than the turbine itself.
+
+61
+00:04:01,500 --> 00:04:05,620
+That's because this engine has a bypass ratio of 10 to 1.
+
+62
+00:04:05,620 --> 00:04:09,060
+Ten times more air goes around the turbine than through it.
+
+63
+00:04:09,060 --> 00:04:14,700
+Compare that to the CFM International CFM56—an older and less efficient engine.
+
+64
+00:04:14,700 --> 00:04:20,000
+You can see there's much less fan relative to the turbine so this engine only has a bypass
+
+65
+00:04:20,000 --> 00:04:24,460
+ratio of 5.9 to 1, but that's still considered to be high.
+
+66
+00:04:24,460 --> 00:04:28,900
+The difference is most striking when comparing either of those engines to the Pratt & Whitney
+
+67
+00:04:28,900 --> 00:04:30,260
+JT8D.
+
+68
+00:04:30,260 --> 00:04:36,220
+This engine has a bypass ratio of only .96 to 1 so it's astoundingly inefficient but
+
+69
+00:04:36,220 --> 00:04:42,220
+it's still significantly more efficient than the Rolls-Royce Snecma Olympus 593.
+
+70
+00:04:42,220 --> 00:04:44,320
+This engine is a turbojet.
+
+71
+00:04:44,320 --> 00:04:48,780
+As I mentioned, these drive all the air the fan picks up through the turbine and that
+
+72
+00:04:48,780 --> 00:04:51,380
+means that no air is bypassed.
+
+73
+00:04:51,380 --> 00:04:58,500
+Therefore, it has a bypass ratio of 0 to 1 and is what's known as a zero-bypass engine.
+
+74
+00:04:58,500 --> 00:05:02,800
+Since 100% of the air passing through the engine goes through the turbine, the fuel
+
+75
+00:05:02,800 --> 00:05:10,080
+consumption is significantly higher than that of the Gen X, CFM56, or even the JT8D.
+
+76
+00:05:10,080 --> 00:05:17,300
+The Concorde, using the zero-bypass Rolls-Royce Snecma Olympus 593, burned 46.85 pounds of
+
+77
+00:05:17,300 --> 00:05:24,020
+fuel per mile flown while the 787 Dreamliner, using the 10 to 1 bypass ratio General Electric
+
+78
+00:05:24,020 --> 00:05:27,480
+Gen X, uses 18.7 pounds per mile.
+
+79
+00:05:27,480 --> 00:05:33,000
+But the Concorde was a tiny airplane even compared to the modestly sized 787.
+
+80
+00:05:33,000 --> 00:05:39,200
+It seated only 100 passengers compared to 291 on the Dreamliner.
+
+81
+00:05:39,200 --> 00:05:44,100
+That means that the per person fuel economy on the Concorde was just about 14 miles per
+
+82
+00:05:44,100 --> 00:05:48,400
+gallon compared to 104 miles per gallon on the Dreamliner.
+
+83
+00:05:48,400 --> 00:05:53,080
+In the end, Air France and British Airways, the only two Concorde operators, could not
+
+84
+00:05:53,080 --> 00:05:55,320
+afford to keep flying the plane.
+
+85
+00:05:55,320 --> 00:06:00,040
+Less than one third of the seats were actually occupied by paying customers.
+
+86
+00:06:00,040 --> 00:06:04,460
+Others were filled by those using miles or those upgraded from first class on normal
+
+87
+00:06:04,460 --> 00:06:05,460
+flights.
+
+88
+00:06:05,460 --> 00:06:12,200
+After all, it cost at a minimum $7,500 of today's dollars to fly one way from London
+
+89
+00:06:12,200 --> 00:06:18,120
+to New York in those three hours and that was to fly in seats that looked like this—not
+
+90
+00:06:18,120 --> 00:06:21,200
+all that different than the economy seats of today.
+
+91
+00:06:21,200 --> 00:06:25,840
+When the Concorde started flying, first class on other planes looked like this.
+
+92
+00:06:25,840 --> 00:06:30,560
+While nice, these seats were just larger economy class seats and it wasn't incredibly easy
+
+93
+00:06:30,560 --> 00:06:31,800
+to sleep in them.
+
+94
+00:06:31,800 --> 00:06:37,200
+By the time the Concorde stopped flying in 2003, first class looked like this and the
+
+95
+00:06:37,200 --> 00:06:39,640
+seats went fully flat into a bed.
+
+96
+00:06:39,640 --> 00:06:44,640
+Many chose to spend a little less to pass seven hours in this rather than spending three
+
+97
+00:06:44,640 --> 00:06:47,120
+hours in these cramped seats.
+
+98
+00:06:47,120 --> 00:06:51,920
+British Airways even introduced the first fully flat business class seat in 2000 so
+
+99
+00:06:51,920 --> 00:06:57,020
+for significantly less money than the Concorde, travelers could cross the Atlantic sleeping
+
+100
+00:06:57,020 --> 00:06:58,200
+horizontally.
+
+101
+00:06:58,200 --> 00:07:00,640
+This just wasn't luxury anymore.
+
+102
+00:07:00,640 --> 00:07:05,480
+The whole idea of the Concorde was to create the most efficient way to cross the Atlantic
+
+103
+00:07:05,480 --> 00:07:10,040
+for the business traveler, but with fully flat beds, those traveling towards Europe
+
+104
+00:07:10,040 --> 00:07:14,460
+could leave the US in the evening, get their night's sleep on the plane, and wake up
+
+105
+00:07:14,460 --> 00:07:17,500
+in Europe—essentially wasting no time.
+
+106
+00:07:17,500 --> 00:07:22,900
+No longer luxurious or efficient, the Concorde flew its final commercial flight on October
+
+107
+00:07:22,900 --> 00:07:28,420
+24th, 2003 thereby ending the era of commercial supersonic flight.
+
+108
+00:07:28,420 --> 00:07:32,960
+Here's the thing about flying—speed really doesn't matter to airlines.
+
+109
+00:07:32,960 --> 00:07:36,020
+It really only exists as a selling point for the consumer.
+
+110
+00:07:36,020 --> 00:07:40,840
+The cost of the airplane is a relatively small part of the overall cost to fly so you'll
+
+111
+00:07:40,840 --> 00:07:44,780
+never see an airline fly faster so they can use their planes more.
+
+112
+00:07:44,780 --> 00:07:50,080
+Planes lifespans are generally rated in cycles—the number of times the plane takes off and lands.
+
+113
+00:07:50,080 --> 00:07:55,000
+The Dreamliner is rated for 44,000 cycles and has a list price, which is often much
+
+114
+00:07:55,000 --> 00:08:00,040
+higher than the actual sale price, of $224.6 million.
+
+115
+00:08:00,040 --> 00:08:05,260
+That means that the cost of the airplane per flight is barely over $5,000 while the fuel
+
+116
+00:08:05,260 --> 00:08:09,760
+cost for a flight from New York to London is well over $15,000.
+
+117
+00:08:09,760 --> 00:08:15,280
+Therefore, airlines always just fly their airplanes at the most fuel-efficient speed.
+
+118
+00:08:15,280 --> 00:08:21,240
+It turns out that that speed is just about always between 500 and 550 miles per hour.
+
+119
+00:08:21,240 --> 00:08:27,440
+What's weird about this is that it's well below the speed of sound—767 miles per hour.
+
+120
+00:08:27,440 --> 00:08:30,400
+Why don't planes fly just below the speed of sound?
+
+121
+00:08:30,400 --> 00:08:34,520
+Well, this graph shows the drag on airplanes at different speeds.
+
+122
+00:08:34,520 --> 00:08:39,420
+Between Mach 0.8 and Mach 1.2 is what's known as the transonic range.
+
+123
+00:08:39,420 --> 00:08:44,820
+At these speeds, the airflow around an airplane is not fully subsonic or supersonic.
+
+124
+00:08:44,820 --> 00:08:48,660
+Essentially, some air is subsonic and some is supersonic.
+
+125
+00:08:48,660 --> 00:08:54,740
+So beginning at Mach 0.8, some airflow becomes supersonic which increases drag exponentially
+
+126
+00:08:54,740 --> 00:08:59,460
+and destabilizes the aircraft so it's actually quite dangerous to fly right around the speed
+
+127
+00:08:59,460 --> 00:09:00,480
+of sound.
+
+128
+00:09:00,480 --> 00:09:03,140
+You either have to fly well above or below.
+
+129
+00:09:03,140 --> 00:09:06,420
+You can actually see when an airplane is flying transonic.
+
+130
+00:09:06,420 --> 00:09:11,020
+It's hard to see, but there are these lines that look like scratches on the camera lens
+
+131
+00:09:11,020 --> 00:09:14,500
+but are actually mini supersonic shockwaves.
+
+132
+00:09:14,500 --> 00:09:20,060
+Because of the disturbances in the airflow, flying between Mach 0.8 and Mach 1.2 actually
+
+133
+00:09:20,060 --> 00:09:27,500
+requires more fuel than flying above Mach 1.2 so that's why we have this number—613.8
+
+134
+00:09:27,500 --> 00:09:28,500
+miles per hour.
+
+135
+00:09:28,500 --> 00:09:32,580
+That's the speed limit for commercially viable subsonic jets.
+
+136
+00:09:32,580 --> 00:09:37,260
+While supersonic flight and crossing the Atlantic in three hours is flashy and exciting,
+
+137
+00:09:37,260 --> 00:09:43,320
+what's truly impressive is hopping the pond for $100 or $200 on an airline that's actually
+
+138
+00:09:43,320 --> 00:09:47,320
+making a profit and that's becoming more of a reality today.
+
+139
+00:09:47,320 --> 00:09:53,540
+With current speeds, airplanes are able to fly anywhere on earth in 24 hours and that's
+
+140
+00:09:53,540 --> 00:09:55,720
+fast enough for almost everyone.
+
+141
+00:09:55,720 --> 00:10:01,700
+The barrier to travel for most people is cost, not speed, so manufacturers and airlines will
+
+142
+00:10:01,700 --> 00:10:07,020
+continue to focus their efforts on driving down the cost of travel, not the time.
+
+143
+00:10:07,020 --> 00:10:10,520
+In the end, time is the enemy of the privileged few.
+
+144
+00:10:10,520 --> 00:10:13,780
+Cost is the enemy of the masses.
+
+145
+00:10:13,780 --> 00:10:16,340
+This video was made possible by Audible.
+
+146
+00:10:16,340 --> 00:10:20,480
+Audible is the leading online audiobook provider, but I'm sure you already know that.
+
+147
+00:10:20,480 --> 00:10:22,260
+What I'll tell you is how I use Audible.
+
+148
+00:10:22,260 --> 00:10:26,140
+I love reading, but there are a lot of times when I just can't read a paper book—when
+
+149
+00:10:26,140 --> 00:10:28,920
+working out, doing dishes, even when editing a video.
+
+150
+00:10:28,920 --> 00:10:33,600
+So I download tons of audiobooks through Audible so I can learn no matter what I'm doing.
+
+151
+00:10:33,600 --> 00:10:37,960
+If you listen when doing tasks, like me, you're turning what is normally something boring
+
+152
+00:10:37,960 --> 00:10:39,320
+into something fun.
+
+153
+00:10:39,320 --> 00:10:44,860
+I recently started listening to Skyfaring, a book by 747 pilot Mark van Hunacker.
+
+154
+00:10:44,860 --> 00:10:48,200
+It gives a glimpse into the pilot side of flying, but it's written much more like
+
+155
+00:10:48,200 --> 00:10:51,460
+a novel or memoir than a heavy duty non-fiction book.
+
+156
+00:10:51,460 --> 00:10:55,300
+The great thing is that you can listen to this book for free thanks to Audible with
+
+157
+00:10:55,300 --> 00:11:00,620
+a 30 day free trial you get by signing up using the link audible.com slash wendover.
+
+158
+00:11:00,620 --> 00:11:05,700
+It's a fantastic book and Audible is a fantastic site so please do at least give them a look
+
+159
+00:11:05,700 --> 00:11:08,660
+over at audible.com slash wendover.
+
+160
+00:11:08,660 --> 00:11:13,680
+Other than that you can support Wendover Productions at patreon.com slash wendoverproductions, follow
+
+161
+00:11:13,680 --> 00:11:19,260
+me on twitter at wendoverpro, watch my last video about how the president travels here,
+
+162
+00:11:19,260 --> 00:11:23,300
+check out my fan moderated subreddit here, and most of all subscribe to this channel
+
+163
+00:11:23,300 --> 00:11:26,420
+to receive all my future videos right when they come out.
+
+164
+00:11:26,420 --> 00:11:30,340
+Thanks again for watching and I'll see you in two weeks for another Wendover Productions
+
+165
+00:11:30,340 --> 00:11:30,900
+video.
+

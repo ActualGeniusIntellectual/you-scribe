@@ -1,0 +1,600 @@
+1
+00:00:00,000 --> 00:00:02,440
+This video was made possible by Dashlane.
+
+2
+00:00:02,440 --> 00:00:08,440
+Browse the internet faster and easier by signing up for free at dashlane.com slash wendover.
+
+3
+00:00:08,440 --> 00:00:13,460
+On November 3rd, 2020, hundreds of millions of Americans will all make their way to their
+
+4
+00:00:13,460 --> 00:00:18,400
+local polling stations to cast their votes—deciding who will be the next President of the United
+
+5
+00:00:18,400 --> 00:00:20,160
+States of America.
+
+6
+00:00:20,160 --> 00:00:25,160
+That day will be the accumulation of a multi-year, multi-billion dollar election process, but
+
+7
+00:00:25,160 --> 00:00:30,640
+before that all truly ends, the votes need to be counted and the winner has to be declared.
+
+8
+00:00:30,640 --> 00:00:35,920
+As soon as the first polls close at 6 PM Eastern Time, there begins a massive overnight exercise
+
+9
+00:00:35,920 --> 00:00:40,400
+to count hundreds of millions of votes and, typically, declare who will next lead the
+
+10
+00:00:40,400 --> 00:00:43,080
+country by the early hours of the following morning.
+
+11
+00:00:43,080 --> 00:00:47,220
+While the true effort doesn't start until the early evening of voting day, the first
+
+12
+00:00:47,220 --> 00:00:52,040
+results come in the early morning of election day, before most polls have even opened.
+
+13
+00:00:52,040 --> 00:00:56,280
+A few small towns on the East Coast, most famously Dixville Notch, New Hampshire, all
+
+14
+00:00:56,280 --> 00:01:00,240
+compete to be the first precinct in the US to report results.
+
+15
+00:01:00,240 --> 00:01:04,800
+New Hampshire state law allows polling places in the state to close early as long as all
+
+16
+00:01:04,800 --> 00:01:07,520
+registered voters have cast their ballots.
+
+17
+00:01:07,520 --> 00:01:11,380
+Given that the town only has a dozen or so registered voters, this process is typically
+
+18
+00:01:11,380 --> 00:01:13,820
+finished in minutes or seconds.
+
+19
+00:01:13,820 --> 00:01:18,120
+In front of a cluster of cameras from nearly every major news organization, the votes are
+
+20
+00:01:18,120 --> 00:01:19,760
+read out and tallied.
+
+21
+00:01:19,760 --> 00:01:23,840
+The process of counting a dozen or so paper ballots in a small town is not tough, but
+
+22
+00:01:23,840 --> 00:01:28,320
+a few hours later, the rest of the country's polling places will open, each of which eventually
+
+23
+00:01:28,320 --> 00:01:32,040
+has to accurately count up to thousands of votes.
+
+24
+00:01:32,040 --> 00:01:37,680
+What makes the US election so difficult to conduct right is that there are over 178,000
+
+25
+00:01:37,680 --> 00:01:42,400
+individual voting precincts, each of which can and does do things in a slightly different
+
+26
+00:01:42,400 --> 00:01:43,400
+way.
+
+27
+00:01:43,400 --> 00:01:47,000
+Some use paper ballots that have to be read and interpreted manually, some use paper ballots
+
+28
+00:01:47,000 --> 00:01:51,840
+that are scanned by a machine, some use electronic voting machines, and some even allow for absentee
+
+29
+00:01:51,840 --> 00:01:53,560
+voting over the internet.
+
+30
+00:01:53,560 --> 00:01:56,800
+The selection of a voting method is a difficult balancing act.
+
+31
+00:01:56,800 --> 00:02:00,480
+Handwritten paper ballots are simple and cheap, which means that a polling station can process
+
+32
+00:02:00,480 --> 00:02:04,960
+loads of voters at once, but they're much more difficult to count.
+
+33
+00:02:04,960 --> 00:02:08,040
+Electronic voting machines are expensive and complicated, meaning they're often in short
+
+34
+00:02:08,040 --> 00:02:13,880
+supply, leading to longer lines, but counting and reporting the votes happen almost instantaneously.
+
+35
+00:02:13,880 --> 00:02:17,340
+Also a major concern in the selection of voting method is security.
+
+36
+00:02:17,340 --> 00:02:22,400
+The most secure ballot is no doubt a handwritten paper one, as submitting a fraudulent vote
+
+37
+00:02:22,400 --> 00:02:26,040
+involves physically acquiring and submitting a ballot—something that can't be easily
+
+38
+00:02:26,040 --> 00:02:27,720
+done at a large scale.
+
+39
+00:02:27,720 --> 00:02:32,740
+Arguably the least secure method is electronic voting machines, as anything electronic can
+
+40
+00:02:32,740 --> 00:02:34,200
+be hacked.
+
+41
+00:02:34,200 --> 00:02:38,120
+Almost every voting machine out there has been hacked in some way or another in controlled
+
+42
+00:02:38,120 --> 00:02:41,020
+experiments at hacker conventions such as Defcon.
+
+43
+00:02:41,020 --> 00:02:44,940
+In the real world, it's impossible to know for sure how often voting security has been
+
+44
+00:02:44,940 --> 00:02:49,900
+compromised, but we do know that these machines can be hacked which is why still today much
+
+45
+00:02:49,900 --> 00:02:55,020
+of the US votes the same way it did hundreds of years ago—on paper ballots.
+
+46
+00:02:55,020 --> 00:02:59,520
+First to close their polling places will be parts of Indiana and Kentucky at 6 PM Eastern.
+
+47
+00:02:59,520 --> 00:03:03,400
+The second that happens, everything shifts into counting mode.
+
+48
+00:03:03,400 --> 00:03:08,040
+Both states use a mix of optical scan and direct record electronic voting machines.
+
+49
+00:03:08,040 --> 00:03:12,900
+For example, the majority of Kentucky's machines are Hart Intracivic e-scans.
+
+50
+00:03:12,900 --> 00:03:16,880
+These are those optical scan electronic machines where a voter physically fills out a paper
+
+51
+00:03:16,880 --> 00:03:21,160
+ballot, shading in bubbles for their preferred candidates, then feeds the sheet into a machine
+
+52
+00:03:21,160 --> 00:03:25,160
+which scans their responses, and then records and tallies the votes.
+
+53
+00:03:25,160 --> 00:03:29,120
+In Indiana, however, the majority of their machines are micro-vote infinities which are
+
+54
+00:03:29,120 --> 00:03:32,060
+examples of direct record electronic machines.
+
+55
+00:03:32,060 --> 00:03:35,860
+These are fully electronic machines where the voter selects their candidates of choice
+
+56
+00:03:35,860 --> 00:03:39,260
+on the screen before pressing a button to cast their votes.
+
+57
+00:03:39,260 --> 00:03:42,700
+Once 6 PM rolls around, though, the machines' voting modes will be turned off, they will
+
+58
+00:03:42,700 --> 00:03:46,700
+print out a physical paper backup displaying the tally of votes for each candidate, and
+
+59
+00:03:46,700 --> 00:03:50,740
+the poll workers will remove a sort of memory device that stores the totals.
+
+60
+00:03:50,740 --> 00:03:55,780
+Every step of this process has to be witnessed by multiple people, usually of different political
+
+61
+00:03:55,780 --> 00:03:56,780
+parties.
+
+62
+00:03:56,780 --> 00:04:00,780
+These papers and memory devices are all then packed up in sealed envelopes and gathered
+
+63
+00:04:00,780 --> 00:04:01,860
+together.
+
+64
+00:04:01,860 --> 00:04:05,460
+From there, the votes need to make it to a central vote-counting location.
+
+65
+00:04:05,460 --> 00:04:10,420
+Usually, they're driven there by the county's police to assure there is no interference.
+
+66
+00:04:10,420 --> 00:04:12,980
+That works in most places, but not all.
+
+67
+00:04:12,980 --> 00:04:17,540
+For example, anyone who's been in Los Angeles in the early evening, when their polls close,
+
+68
+00:04:17,540 --> 00:04:21,540
+knows that it would take hours to get a vehicle from Gorman, on the northern end of Los Angeles
+
+69
+00:04:21,540 --> 00:04:24,020
+County, to Norwalk, where votes are tallied.
+
+70
+00:04:24,020 --> 00:04:28,520
+Therefore, the county uses helicopters to fly voting records to Norwalk from across
+
+71
+00:04:28,520 --> 00:04:32,720
+the county, and therefore ends up spending many millions of dollars on each election
+
+72
+00:04:32,720 --> 00:04:33,720
+day.
+
+73
+00:04:33,720 --> 00:04:38,520
+Traffic is less of a concern in Indiana and Kentucky, though, and so, not long after 6
+
+74
+00:04:38,520 --> 00:04:42,780
+PM eastern, votes will start arriving at their central counting locations where all the memory
+
+75
+00:04:42,780 --> 00:04:46,800
+devices will be plugged in to a tabulating computer that will record the results.
+
+76
+00:04:46,800 --> 00:04:50,760
+They'll also add in the results from early and absentee voting as well.
+
+77
+00:04:50,760 --> 00:04:54,080
+Given the electronic nature of this count, when votes have physically arrived at the
+
+78
+00:04:54,080 --> 00:04:58,060
+site, the process doesn't take long, but throughout it all, it will be observed by
+
+79
+00:04:58,060 --> 00:05:01,360
+a bipartisan grouping of poll workers and officials.
+
+80
+00:05:01,360 --> 00:05:05,760
+Of course, the way the world hears about the results of the election is not via the government
+
+81
+00:05:05,760 --> 00:05:08,880
+itself, but rather through the media.
+
+82
+00:05:08,880 --> 00:05:12,760
+Almost always, the media tells the public who will win the election before all the votes
+
+83
+00:05:12,760 --> 00:05:17,360
+have come in, and they make this call based off two key pieces of information.
+
+84
+00:05:17,360 --> 00:05:19,720
+The first is election day polling.
+
+85
+00:05:19,720 --> 00:05:22,000
+There are two competing systems of polling.
+
+86
+00:05:22,000 --> 00:05:26,080
+The first is the Associated Press' vote cast system—a relatively new method where
+
+87
+00:05:26,080 --> 00:05:29,960
+voters are polled at home via the internet and phone in the days leading up to election
+
+88
+00:05:29,960 --> 00:05:36,680
+day—and the second is the National Election Pool system used by ABC, CBS, CNN, and NBC.
+
+89
+00:05:36,680 --> 00:05:40,780
+This system uses the more traditional exit poll method where individuals leaving polling
+
+90
+00:05:40,780 --> 00:05:45,660
+stations are asked who they voted for in an attempt to gather a representative sample.
+
+91
+00:05:45,660 --> 00:05:49,960
+Both of these systems give media organizations an idea of how voters are leaning on election
+
+92
+00:05:49,960 --> 00:05:53,620
+day and help them know where the results are likely to swing.
+
+93
+00:05:53,620 --> 00:05:58,640
+The second major data point used to project election results are the results themselves.
+
+94
+00:05:58,640 --> 00:06:03,700
+A small sampling of results from a county should be roughly representative of the county's
+
+95
+00:06:03,700 --> 00:06:04,820
+results overall.
+
+96
+00:06:04,820 --> 00:06:09,040
+The Associated Press stations about 4,000 of its reporters in vote counting centers
+
+97
+00:06:09,040 --> 00:06:13,200
+all across the country, and as soon as these counties report results, the reporters call
+
+98
+00:06:13,200 --> 00:06:16,440
+them in to the AP's office in Spokane, Washington.
+
+99
+00:06:16,440 --> 00:06:20,620
+There, one of hundreds of data entry personnel will answer the phone and put the information
+
+100
+00:06:20,620 --> 00:06:22,340
+into the AP's system.
+
+101
+00:06:22,340 --> 00:06:26,680
+These data, which may at the time of entry be unofficial, are used by news organizations
+
+102
+00:06:26,680 --> 00:06:28,460
+all around the world.
+
+103
+00:06:28,460 --> 00:06:32,680
+Throughout the night, results will come in precinct by precinct and the AP will call
+
+104
+00:06:32,680 --> 00:06:34,980
+the results precinct by precinct.
+
+105
+00:06:34,980 --> 00:06:39,860
+The last polls close at 1 am eastern time in Alaska, however, more than likely, the
+
+106
+00:06:39,860 --> 00:06:43,660
+country will already know who has won the election by that time.
+
+107
+00:06:43,660 --> 00:06:47,200
+The AP's DC Bureau is in charge of calling the race.
+
+108
+00:06:47,200 --> 00:06:51,440
+They'll one by one declare each state one for one candidate or the other.
+
+109
+00:06:51,440 --> 00:06:55,240
+Some states they'll know from the second polls close which way they'll go.
+
+110
+00:06:55,240 --> 00:07:00,720
+For example, in 2016, the highly Democratic states of Massachusetts, New Jersey, Delaware,
+
+111
+00:07:00,720 --> 00:07:04,920
+and Maryland, along with the District of Columbia, were all called for Clinton by the AP the
+
+112
+00:07:04,920 --> 00:07:08,560
+very minute polls closed in those places at 8 pm eastern.
+
+113
+00:07:08,560 --> 00:07:12,660
+The AP just knew, off of historical voting trends and exit polling, that they would certainly
+
+114
+00:07:12,660 --> 00:07:13,960
+go blue.
+
+115
+00:07:13,960 --> 00:07:18,840
+Meanwhile, battleground states, with a fairly even mix of Democrats and Republicans, tend
+
+116
+00:07:18,840 --> 00:07:23,440
+to be trickier to call and require a good proportion of actual results to come in.
+
+117
+00:07:23,440 --> 00:07:29,040
+For example, Minnesota's results in 2016 weren't called until 11.09 am eastern and
+
+118
+00:07:29,040 --> 00:07:33,840
+Alaska's not until 11.58 am eastern on the day after the election.
+
+119
+00:07:33,840 --> 00:07:38,000
+Far before the last state is called, though, the combination of electoral votes designated
+
+120
+00:07:38,000 --> 00:07:43,500
+to the called states will exceed the required majority, 270, and at that time, the AP will
+
+121
+00:07:43,500 --> 00:07:45,700
+send out what they call a flash.
+
+122
+00:07:45,700 --> 00:07:50,620
+These are the very highest tier of AP alerts reserved for, as they describe it, events
+
+123
+00:07:50,620 --> 00:07:53,940
+they expect to be one of the very top stories of the year.
+
+124
+00:07:53,940 --> 00:07:58,780
+The AP averages less than two flashes a year, and such an alert has been used for events
+
+125
+00:07:58,780 --> 00:08:03,220
+like the killing of Osama bin Laden, the resignation of Pope Benedict, and the death of Nelson
+
+126
+00:08:03,220 --> 00:08:04,220
+Mandela.
+
+127
+00:08:04,220 --> 00:08:08,840
+It is not always the AP who is first to call the race, but more often than not, they are
+
+128
+00:08:08,840 --> 00:08:12,280
+the first major news organization to declare a winner.
+
+129
+00:08:12,280 --> 00:08:17,160
+Historically, this tends to happen between 9 and 11 pm eastern, but sometimes much later
+
+130
+00:08:17,160 --> 00:08:18,880
+and sometimes much earlier.
+
+131
+00:08:18,880 --> 00:08:22,920
+From there, tradition kicks in and the loser calls the winner, the winner throws a party,
+
+132
+00:08:22,920 --> 00:08:26,240
+and the next day the sitting president calls the president-elect.
+
+133
+00:08:26,240 --> 00:08:30,680
+The true, official results might not come in for days or weeks as states work to tally
+
+134
+00:08:30,680 --> 00:08:33,320
+every vote, not reliant on probability.
+
+135
+00:08:33,320 --> 00:08:38,100
+The moment that happens, though, the clocks reset, and the US and world again begins the
+
+136
+00:08:38,100 --> 00:08:43,500
+four-year process leading up to the election of the next American president.
+
+137
+00:08:43,500 --> 00:08:47,420
+When evaluating products I might use, like everyone, I'm always looking for a vote
+
+138
+00:08:47,420 --> 00:08:52,540
+of confidence and for Dashlane, their 11 million users, their top rating on the App Store,
+
+139
+00:08:52,540 --> 00:08:56,100
+and their endorsement by the New York Times, Wall Street Journal, Forbes, and more, tells
+
+140
+00:08:56,100 --> 00:08:58,820
+me that it's a product worth using.
+
+141
+00:08:58,820 --> 00:09:03,300
+What everyone sees in Dashlane, myself included, is that it's a simple way to make browsing
+
+142
+00:09:03,300 --> 00:09:06,800
+the internet faster, safer, and more efficient.
+
+143
+00:09:06,800 --> 00:09:11,320
+Dashlane securely stores things like passwords, addresses, frequent flyer numbers, passport
+
+144
+00:09:11,320 --> 00:09:15,280
+numbers, and plenty more, and then autofills them when they're needed so that everything
+
+145
+00:09:15,280 --> 00:09:16,800
+happens faster.
+
+146
+00:09:16,800 --> 00:09:22,100
+It syncs all this information across devices, no matter if it's Mac, PC, iOS, or Android,
+
+147
+00:09:22,100 --> 00:09:24,120
+so it's always there when you need it.
+
+148
+00:09:24,120 --> 00:09:29,080
+You can make your internet experience faster for free for 31 days by going to dashlane.com
+
+149
+00:09:29,080 --> 00:09:30,500
+slash wendover.
+
+150
+00:09:30,500 --> 00:09:34,880
+After that, by using the code wendover, you'll get 10% off upgrading to Dashlane Premium.
+

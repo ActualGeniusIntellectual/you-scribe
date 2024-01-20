@@ -1,0 +1,416 @@
+1
+00:00:00,000 --> 00:00:05,800
+So, there's this fantastic Wikipedia list descriptively titled Wikipedia colon unusual
+
+2
+00:00:05,800 --> 00:00:06,800
+articles.
+
+3
+00:00:06,800 --> 00:00:08,640
+I just remember it as that Wikipedia list.
+
+4
+00:00:08,640 --> 00:00:13,360
+It's a collection of hundreds of articles about unusual, unexpected, and unbelievable
+
+5
+00:00:13,360 --> 00:00:14,500
+subjects.
+
+6
+00:00:14,500 --> 00:00:17,900
+No matter what link you click, it's bound to be interesting.
+
+7
+00:00:17,900 --> 00:00:21,040
+For that reason, every week I'm going to click on a new link and teach you a little
+
+8
+00:00:21,040 --> 00:00:24,280
+bit more about our amazing world.
+
+9
+00:00:24,280 --> 00:00:26,280
+Today we're going to take a trip.
+
+10
+00:00:26,280 --> 00:00:29,920
+We're going to slip the surly bonds of earth up into the heavens.
+
+11
+00:00:29,920 --> 00:00:35,840
+We're traveling through the galaxy to learn about timekeeping on the red planet—Mars.
+
+12
+00:00:35,840 --> 00:00:40,240
+But before we can understand timekeeping on Mars, we first have to understand timekeeping
+
+13
+00:00:40,240 --> 00:00:41,240
+on earth.
+
+14
+00:00:41,240 --> 00:00:42,240
+Dammit.
+
+15
+00:00:42,240 --> 00:00:47,880
+Can we turn this thing around?
+
+16
+00:00:47,880 --> 00:00:51,320
+Alright so this is the Greenwich Observatory in England.
+
+17
+00:00:51,320 --> 00:00:54,320
+Greenwich is known for being the site of the prime meridian.
+
+18
+00:00:54,320 --> 00:00:58,680
+For all intents and purposes, this is the longitudinal center of earth.
+
+19
+00:00:58,680 --> 00:01:02,840
+For simplicity's sake, we'll say that time is determined based on the sun.
+
+20
+00:01:02,840 --> 00:01:06,280
+This isn't exactly true though, so I have a whole other video that explains time in
+
+21
+00:01:06,280 --> 00:01:07,620
+more detail.
+
+22
+00:01:07,620 --> 00:01:11,720
+When the sun is highest in the sky at any given location, we call that noon and the
+
+23
+00:01:11,720 --> 00:01:14,700
+rest of the day's time is relative to this.
+
+24
+00:01:14,700 --> 00:01:18,820
+So now let's go south to the intersection between the equator and the prime meridian.
+
+25
+00:01:18,820 --> 00:01:21,800
+We find ourselves in the middle of the Gulf of Guinea.
+
+26
+00:01:21,800 --> 00:01:25,680
+Similar to how the prime meridian is the longitudinal center of the earth, the equator
+
+27
+00:01:25,680 --> 00:01:28,180
+is the latitudinal center of the earth.
+
+28
+00:01:28,180 --> 00:01:32,560
+At this point of 0 degrees longitude and 0 degrees latitude, it's noon because the
+
+29
+00:01:32,560 --> 00:01:34,920
+sun is at its highest point in the sky.
+
+30
+00:01:34,920 --> 00:01:41,120
+Great, now if we go 1,035 miles east we find ourselves in the lovely village of Atumbi
+
+31
+00:01:41,120 --> 00:01:42,860
+in the Republic of the Congo.
+
+32
+00:01:42,860 --> 00:01:48,280
+In Atumbi, the time is 1 pm because the sun reached its highest point an hour ago.
+
+33
+00:01:48,280 --> 00:01:49,920
+This is why we have time zones.
+
+34
+00:01:49,920 --> 00:01:53,840
+Since the earth rotates once every 24 hours, there are 24 time zones.
+
+35
+00:01:53,840 --> 00:01:55,720
+But wait, I lied.
+
+36
+00:01:55,720 --> 00:02:00,180
+It doesn't take 24 hours for the earth to rotate once, it takes 23 hours 56 minutes
+
+37
+00:02:00,180 --> 00:02:01,960
+and 4.0916 seconds.
+
+38
+00:02:01,960 --> 00:02:05,700
+That's because there are really two definitions of a day.
+
+39
+00:02:05,700 --> 00:02:10,520
+The conventional definition is a solar day—the time between two noons when the sun is highest
+
+40
+00:02:10,520 --> 00:02:11,920
+in the sky.
+
+41
+00:02:11,920 --> 00:02:14,800
+The more scientific definition is a sidereal day.
+
+42
+00:02:14,840 --> 00:02:19,360
+That's the time it takes for the earth to rotate 360 degrees around its axis and therefore
+
+43
+00:02:19,360 --> 00:02:23,440
+the time it takes for the same star to appear in the same spot in the sky from one day to
+
+44
+00:02:23,440 --> 00:02:24,440
+the next.
+
+45
+00:02:24,440 --> 00:02:28,520
+There's a difference between sidereal days and solar days because the earth rotates both
+
+46
+00:02:28,520 --> 00:02:31,120
+on its axis and around the sun.
+
+47
+00:02:31,120 --> 00:02:32,120
+So watch this.
+
+48
+00:02:32,120 --> 00:02:36,520
+Let's put a marker on a spot on the earth and fast forward one sidereal day.
+
+49
+00:02:36,520 --> 00:02:40,600
+You'll notice that the same spot is not yet the closest point on earth to the sun
+
+50
+00:02:40,600 --> 00:02:43,800
+because the earth also rotated around the sun.
+
+51
+00:02:43,800 --> 00:02:47,960
+To bring the marker closest to the sun, we'll need to advance four minutes forward and now
+
+52
+00:02:47,960 --> 00:02:50,140
+we're at one solar day.
+
+53
+00:02:50,140 --> 00:02:54,240
+Those four minutes add up conveniently to just about 24 hours over one year so that
+
+54
+00:02:54,240 --> 00:02:58,080
+means that there's one more sidereal day per year than solar day.
+
+55
+00:02:58,080 --> 00:03:01,000
+Alright, now we can go to Mars.
+
+56
+00:03:01,000 --> 00:03:02,140
+That was quick.
+
+57
+00:03:02,140 --> 00:03:06,800
+So Mars is a pretty similar planet to earth and time works in a pretty similar way.
+
+58
+00:03:06,800 --> 00:03:09,120
+It has a prime meridian right here.
+
+59
+00:03:09,120 --> 00:03:14,320
+Strangely, astronomers chose this prime meridian before earth was chosen.
+
+60
+00:03:14,320 --> 00:03:18,560
+Using the mean solar time at the prime meridian, there's a coordinated martian time known
+
+61
+00:03:18,560 --> 00:03:24,300
+as MTC but, for the most part, any rovers on Mars just set their clocks using the solar
+
+62
+00:03:24,300 --> 00:03:26,460
+time of their landing site.
+
+63
+00:03:26,460 --> 00:03:30,600
+This is actually pretty similar to how towns on earth set their time before coordinated
+
+64
+00:03:30,600 --> 00:03:32,600
+time zones were created.
+
+65
+00:03:32,600 --> 00:03:37,240
+Each town on earth set their time based on their own solar noon but this created difficulties
+
+66
+00:03:37,240 --> 00:03:42,140
+when rapid transit between places was invented since no one really knew what time it was.
+
+67
+00:03:42,140 --> 00:03:45,960
+If you want to learn more about this, you can, once again, go check out my other video
+
+68
+00:03:45,960 --> 00:03:47,640
+on time.
+
+69
+00:03:47,640 --> 00:03:51,920
+Since there have only ever been 11 operational spacecrafts on Mars, having different time
+
+70
+00:03:51,920 --> 00:03:56,160
+standards based on solar time hasn't yet caused any problems.
+
+71
+00:03:56,160 --> 00:04:00,840
+It does mean, however, that even the seconds aren't coordinated between different rovers.
+
+72
+00:04:00,840 --> 00:04:04,780
+What does cause a bit of a problem though is that a martian day is slightly longer than
+
+73
+00:04:04,780 --> 00:04:06,080
+an earth day.
+
+74
+00:04:06,080 --> 00:04:10,780
+Anyone who's watched the martian knows that a solar day on Mars is called a sol.
+
+75
+00:04:10,780 --> 00:04:17,140
+One sol is equal to 24 hours, 39 minutes, and 35.244 seconds.
+
+76
+00:04:17,140 --> 00:04:21,080
+Rovers on Mars generally only work during the day, partially because some are solar
+
+77
+00:04:21,080 --> 00:04:25,080
+powered and partially because much of the work is based on observation from cameras
+
+78
+00:04:25,080 --> 00:04:26,280
+which need light.
+
+79
+00:04:26,280 --> 00:04:30,840
+Therefore, the teams on earth controlling rovers have to live their lives based on martian
+
+80
+00:04:30,840 --> 00:04:31,840
+time.
+
+81
+00:04:31,840 --> 00:04:35,560
+Their work shift essentially moves forward 40 minutes every day to coordinate with the
+
+82
+00:04:35,560 --> 00:04:38,000
+time that it's light on Mars.
+
+83
+00:04:38,000 --> 00:04:42,460
+Deborah Bass, a scientist from the Jet Propulsion Laboratory who worked in the Spirit and Opportunity
+
+84
+00:04:42,460 --> 00:04:44,000
+programs said that,
+
+85
+00:04:44,000 --> 00:04:45,000
+You're always jet-lagged.
+
+86
+00:04:45,000 --> 00:04:49,480
+It's only a little bit, because an hour, who cares, that's off so bad.
+
+87
+00:04:49,480 --> 00:04:51,760
+But it starts to take a toll.
+
+88
+00:04:51,760 --> 00:04:55,880
+Scientists who work on rovers sometimes wear two watches—one for martian time and one
+
+89
+00:04:55,880 --> 00:04:57,580
+for earth time.
+
+90
+00:04:57,580 --> 00:05:02,020
+So if we do go colonize Mars, we'll want to create time zones and actually use the
+
+91
+00:05:02,020 --> 00:05:03,920
+standardized time.
+
+92
+00:05:03,920 --> 00:05:08,080
+Using different time standards at different places always creates problems especially
+
+93
+00:05:08,080 --> 00:05:10,040
+for computers and communications.
+
+94
+00:05:10,040 --> 00:05:14,860
+This, of course, is just one of many details that we'll have to figure out before we
+
+95
+00:05:14,860 --> 00:05:19,000
+go live on the red planet.
+
+96
+00:05:19,000 --> 00:05:21,040
+I hope you enjoyed this week's episode.
+
+97
+00:05:21,040 --> 00:05:25,240
+It was far more educational than last week's episode about toilet paper orientation which
+
+98
+00:05:25,240 --> 00:05:26,960
+you can find right here.
+
+99
+00:05:26,960 --> 00:05:29,840
+You can also subscribe to this channel by clicking here.
+
+100
+00:05:29,840 --> 00:05:34,680
+Also, before you go, this is my formal plea for you guys to go follow me on Twitter.
+
+101
+00:05:34,680 --> 00:05:39,840
+I have 13 followers and while those 13 seem like really cool guys, I would love to have
+
+102
+00:05:39,840 --> 00:05:41,720
+more people to talk to.
+
+103
+00:05:41,720 --> 00:05:44,440
+My username is at WendoverPro.
+
+104
+00:05:44,440 --> 00:05:48,640
+Thanks for watching and come back next week for more of That Wikipedia List.
+

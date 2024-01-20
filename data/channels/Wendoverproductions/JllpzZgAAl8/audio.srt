@@ -1,0 +1,272 @@
+1
+00:00:00,000 --> 00:00:05,800
+So, there's this fantastic Wikipedia list descriptively titled Wikipedia colon unusual
+
+2
+00:00:05,800 --> 00:00:06,800
+articles.
+
+3
+00:00:06,800 --> 00:00:08,640
+I just remember it as that Wikipedia list.
+
+4
+00:00:08,640 --> 00:00:13,380
+It's a collection of hundreds of articles about unusual, unexpected, and unbelievable
+
+5
+00:00:13,380 --> 00:00:14,500
+subjects.
+
+6
+00:00:14,500 --> 00:00:17,900
+No matter what link you click, it's bound to be interesting.
+
+7
+00:00:17,900 --> 00:00:21,060
+For that reason, every week I'm going to click on a new link and teach you a little
+
+8
+00:00:21,060 --> 00:00:25,580
+bit more about our amazing world.
+
+9
+00:00:25,580 --> 00:00:27,460
+Maps are very hard to make.
+
+10
+00:00:27,460 --> 00:00:32,280
+To create a map from scratch, one has to do years of field work or analyzation of satellite
+
+11
+00:00:32,280 --> 00:00:36,620
+photos so plagiarism has always been rampant among map makers.
+
+12
+00:00:36,620 --> 00:00:42,040
+It's pretty easy just to redraw the same geographical features from one map onto a
+
+13
+00:00:42,040 --> 00:00:44,520
+new map and it's hard to get caught.
+
+14
+00:00:44,520 --> 00:00:47,580
+You are, after all, drawing the exact same world.
+
+15
+00:00:47,580 --> 00:00:53,080
+So map makers came up with a way to catch individuals stealing their data.
+
+16
+00:00:53,080 --> 00:00:56,240
+This is Argleton in West Lancashire, England.
+
+17
+00:00:56,240 --> 00:01:00,560
+According to a 2009 screenshot of Google Maps, Argleton is a town.
+
+18
+00:01:00,560 --> 00:01:05,900
+It's supposedly located between Aten to the south and Ormskirk to the north.
+
+19
+00:01:05,900 --> 00:01:10,160
+The problem is, if you go to this site, this is what you find.
+
+20
+00:01:10,160 --> 00:01:14,020
+Argleton was placed on the map as a paper town.
+
+21
+00:01:14,020 --> 00:01:18,800
+Paper towns are fake places that are put on maps as copyright traps.
+
+22
+00:01:18,800 --> 00:01:23,780
+A map maker can make up a place and if they see that a competing map maker also has that
+
+23
+00:01:23,780 --> 00:01:29,020
+town on their maps, they know that at one point the competitor plagiarized their info.
+
+24
+00:01:29,020 --> 00:01:33,060
+So in Argleton's case, the town probably wasn't placed there by Google.
+
+25
+00:01:33,060 --> 00:01:37,980
+Google gets their data from TeleAtlas who sources their data from other mapping companies,
+
+26
+00:01:37,980 --> 00:01:42,100
+who in turn gets some of their data from other mapping companies.
+
+27
+00:01:42,100 --> 00:01:46,780
+Somewhere down the line, someone must have placed Argleton on the map as a trap and its
+
+28
+00:01:46,780 --> 00:01:50,580
+presence on Google Maps was just a remnant of that.
+
+29
+00:01:50,580 --> 00:01:55,300
+After the fake town gained widespread media attention, Google removed it from their map
+
+30
+00:01:55,300 --> 00:02:00,900
+and it has since been replaced with a marker designating the spot as a ghost town.
+
+31
+00:02:00,900 --> 00:02:03,860
+There are hundreds of other examples of paper towns.
+
+32
+00:02:03,860 --> 00:02:09,180
+In New York, a spot north of Roscoe, New York was marked as the town of Aglo by the General
+
+33
+00:02:09,180 --> 00:02:11,540
+Drafting Company in 1930.
+
+34
+00:02:11,540 --> 00:02:16,380
+The name came from an anagram of the cartographer's initials and appeared on numerous maps since
+
+35
+00:02:16,380 --> 00:02:17,800
+its conception.
+
+36
+00:02:17,800 --> 00:02:22,800
+In the 1960s, Aglo showed up on a Rand McNally map of the region and, thinking that they
+
+37
+00:02:22,800 --> 00:02:27,760
+had fallen into their trap, Esso, who had bought the map from the General Drafting Company,
+
+38
+00:02:27,760 --> 00:02:29,880
+threatened to sue McNally.
+
+39
+00:02:29,880 --> 00:02:34,720
+The suit was dropped, though, when Rand McNally pointed that Aglo had actually become a real
+
+40
+00:02:34,720 --> 00:02:35,800
+place.
+
+41
+00:02:35,800 --> 00:02:41,160
+Sometime in the 1950s, locals opened up a general store north of Roscoe, New York and,
+
+42
+00:02:41,160 --> 00:02:45,680
+after looking at an Esso map of the region, decided to call their store the Aglo General
+
+43
+00:02:45,680 --> 00:02:50,000
+Store—therefore making Aglo an official place.
+
+44
+00:02:50,000 --> 00:02:53,400
+The store eventually went out of business and the town is since disappeared from most
+
+45
+00:02:53,400 --> 00:02:57,700
+maps, but this is one instance where a fake town became real.
+
+46
+00:02:57,700 --> 00:03:01,940
+A similar idea to paper towns has been used in other domains.
+
+47
+00:03:01,940 --> 00:03:07,560
+In 2001, the word asquivalence appeared in the New Oxford American Dictionary defined
+
+48
+00:03:07,560 --> 00:03:12,320
+as the willful avoidance of one's official responsibilities.
+
+49
+00:03:12,320 --> 00:03:16,920
+That word was made up as a copyright trap and it actually worked.
+
+50
+00:03:16,920 --> 00:03:21,640
+Dictionary.com and Google's dictionary both added a listing for the word asquivalence,
+
+51
+00:03:21,640 --> 00:03:26,600
+possibly proving a level of plagiarism among the online dictionaries.
+
+52
+00:03:26,600 --> 00:03:32,160
+Occasionally, unintentional traps are created that prove effective.
+
+53
+00:03:32,160 --> 00:03:37,760
+Before they created Apple Maps, Apple was making maps on a much smaller scale for iPhoto.
+
+54
+00:03:37,760 --> 00:03:41,680
+These maps had no attributions and therefore no one could be sure where their data was
+
+55
+00:03:41,680 --> 00:03:45,080
+from, but there were some obvious clues.
+
+56
+00:03:45,080 --> 00:03:49,660
+This screenshot of Apple's map of Norweg shows an area of disorganized roads in the
+
+57
+00:03:49,660 --> 00:03:51,100
+northeast.
+
+58
+00:03:51,100 --> 00:03:55,320
+If you look at the OpenStreetMap map of the area, you can see that these roads are actually
+
+59
+00:03:55,320 --> 00:03:57,280
+trails in a park.
+
+60
+00:03:57,280 --> 00:04:01,680
+Overlaying the Apple map over the OSM map of the area, you can see how perfectly the
+
+61
+00:04:01,680 --> 00:04:04,520
+supposed roads and trails line up.
+
+62
+00:04:04,520 --> 00:04:08,960
+You can assume from this that Apple took their map data from OpenStreetMap and mistook the
+
+63
+00:04:08,960 --> 00:04:10,860
+trails for roads.
+
+64
+00:04:10,860 --> 00:04:15,980
+A few months after the release, Apple officially credited OpenStreetMap for their contributions
+
+65
+00:04:15,980 --> 00:04:21,160
+to the maps, confirming that they used OSM's data.
+
+66
+00:04:21,160 --> 00:04:22,300
+So those are paper towns.
+
+67
+00:04:22,300 --> 00:04:24,140
+I hope you enjoyed this week's episode.
+
+68
+00:04:24,140 --> 00:04:27,660
+I'll be back next week to bring you more from that Wikipedia list.
+

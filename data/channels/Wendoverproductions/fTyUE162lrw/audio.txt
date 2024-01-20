@@ -1,0 +1,207 @@
+This video was made possible by Brilliant.
+Start learning complex STEM subjects simply by going to brilliant.org slash wendover.
+The idea is simple.
+You take what Southwest, Ryanair, Wizz Air, and countless other low-cost airlines have
+done with short-haul flying, and apply it to the long-haul market.
+You make long-haul flying cheap.
+That's the concept behind low-cost, long-haul airlines.
+To make that actually work, however, has proved a little more difficult.
+Now, the underlying recipe behind low-cost short-haul airlines by the like of Ryanair
+and low-cost long-haul airlines such as Norwegian Airlines looks the same on the surface—one
+just flies longer routes than the other—but the result has been markedly different.
+Ryanair is one of the most profitable airlines in the world—Norwegian has been operating
+deeply in the red for years.
+Low-cost short-haul airlines have upended the global aviation industry.
+Low-cost long-haul airlines have failed, and failed, and failed again.
+In 2019 alone, Wow Air, June, Églazur, Thomas Cook, and XL Airlines all went under, all
+after operating under this business model.
+In fact, globally, there are only about a dozen airlines currently operating using this
+business model after scores more have tried over the decades.
+These few survivors, though, are not all failures hanging on to their last fragments
+of life.
+Over the past five years, before the COVID-induced travel downturn, Condor, Cebu Pacific, Azul
+Airlines, Jetstar, TUI, Scoot, and WestJet have each operated long-haul, low-cost flights
+at varying levels, but earned a profit.
+Meanwhile, though, AirAsia X, Norwegian Airlines, Eurowings, and countless now-bankrupt low-cost
+long-haul airlines operated at a loss.
+So, considering some can do it, why can't they all?
+What's the secret sauce to a profitable, long-haul, low-cost airline?
+Well, these are the 14 measurable characteristics that might impact the profitability of a given
+long-haul, low-cost airline.
+These are ten currently or recently operating long-haul, low-cost airlines that report independent
+financial results, and these are each of those 14 characteristics quantified for each of
+those ten airlines, based on data before the coronavirus pandemic started.
+Now, for most of these characteristics, there's quite a lot of variability from airline to
+airline—each company clearly has its own hypothesis for the correct formula that might
+make low-cost long-haul travel possible.
+For example, in terms of number of hubs, defined as the number of distinct origins their flights
+operate from, TUI has 18 spread out across Europe, while AirAsia X has just one, Kuala
+Lumpur.
+Meanwhile, in the category of the average number of route competitors, defined as how
+many other airlines operate the same long-haul routes as the subject airline, TUI had the
+least, meaning that for almost all of their routes, they were the only airline to operate
+it, while Cebu Pacific had the most, meaning that they typically had multiple competitors
+on each of their routes.
+Now, by performing regression analysis, the data suggests that most of these characteristics
+have very little correlation to profitability.
+For example, you might think, like many in the industry, that long-haul low-cost carriers
+would benefit from having younger, more fuel-efficient aircraft.
+Norwegian Airlines, though, has an average aircraft age of just 2.3 years, but it's
+deeply unprofitable, while Condor, on the other hand, has an average aircraft age of
+24 years, and yet it's the most profitable airline of these ten.
+Of course, then there's Eurowings, with the second oldest fleet, and yet it's also
+deeply unprofitable.
+Essentially, the data suggest that aircraft age doesn't have a whole lot to do with
+long-haul low-cost airline profitability.
+There are reasons why a young fleet could help, like through lower fuel burn, but there
+are also reasons why an older fleet could help, like through lower capital cost, so
+it seems like it all evens out in the end.
+It's a similar case with the average long-haul aircraft capacity, average origin country
+GDP per capita, and average origin traffic coefficient of variation—essentially the
+degree of seasonality for passenger demand.
+Each of these factors showed very little correlation to profitability, and a few others demonstrated
+results with higher, but still fairly statistically insignificant correlation, but then the three
+characteristics with the highest degree of correlation to airline profitability start
+to paint a pretty clear picture.
+The third most correlated characteristic is the average number of route competitors.
+Essentially, the data show that low-cost long-haul airlines with a smaller number of competitors
+on their average long-haul route do better financially.
+Then, the second strongest correlated characteristic is the average total weekly frequency of the
+given airlines' long-haul routes—meaning how many total weekly flights are flown by
+all airlines on each of their long-haul routes.
+The less frequent their average route, the better they seem to do financially.
+Then, the most strongly correlated characteristic by far is an airline's number of hubs—the
+more hubs they have, the better they perform financially.
+Now, each of these three factors have to do with one thing—network design.
+They have to do with where and when the airlines fly, but not at all with how—these factors
+have nothing to do with the cabins, the aircraft, the ground handling, or anything operational.
+So, how do you interpret these data?
+What do they mean?
+Well, essentially, they suggest that only a very particular type of route network works
+for long-haul low-cost flying, and that network is essentially the exact opposite of what
+AirAsia X, for example, flies.
+This is what their long-haul route map looks like, or rather looked like pre-COVID.
+They're flying routes like Kuala Lumpur to Tokyo, competing against 44 flights per
+week by Malaysia Airlines, Japan Airlines, and ANA, or Kuala Lumpur to Jeddah, competing
+against 33 weekly frequencies by Malaysia Airlines and Saudi Arabia.
+In fact, only five of their 19 long-haul routes are competition-free.
+They also only have one hub, Kuala Lumpur, from which every single one of their flights,
+with the sole exception of a route that continues on from Osaka to Honolulu, originates.
+Essentially, they're doing everything the data say not to do and, as predicted, they're
+losing tons of money while doing it.
+From a data perspective, the exact antithesis of AirAsia X is TUI.
+This is what their pre-COVID route network looked like.
+Now, while AirAsia X flies high-competition, high-frequency routes from a single hub, TUI
+flies low-competition, low-frequency routes from many hubs.
+Out of more than 60 long-haul routes, only eight of theirs have direct competition, and
+only one of those, Amsterdam to Paramaribo, is flown by two competing airlines.
+Each of their routes is also extremely low-frequency, with an average of only three non-stop flights
+per week, and, most uniquely, they fly these flights from 18 different hubs across Europe.
+Now, these statistical differences are manifestations of the true, more fundamental difference between
+AirAsia X and TUI, or Norwegian Airlines and Condor, or Wow Air and Azul Airlines.
+What's actually different between these airlines and these airlines is how they deal
+with demand.
+AirAsia X, Norwegian Airlines, and Wow Air try to capture demand.
+They're entering some of the busiest airline markets in the world, home to some of the
+largest and most powerful airlines out there, and are trying to lure a large enough portion
+of the passengers to fill their planes.
+The difference is subtle, but TUI, Condor, and Azul Airlines don't as much try to capture
+a market, but rather try to create it.
+In fact, quite literally, the second line of the Azul Airlines Wikipedia page says exactly
+this—the company's business model is to stimulate demand by providing frequent and
+affordable air service to underserved markets throughout Brazil.
+The reason why LATAM, Brazil's largest airline, doesn't have a flight from Recife to Orlando
+is because they have the data and they know that the number of people who connect from
+Recife to São Paulo to Orlando on their own flights is not enough to fill a plane non-stop
+from Recife to Orlando—at least at their full service prices.
+When Azul comes in and drops fares to a couple hundred dollars, some people might choose
+to fly on Azul because the price is cheap and they were going there already, but crucially,
+others will choose to fly this route because the price is so low.
+They're creating demand.
+Now, evidence of this phenomena can be found by looking at short-haul, low-cost carriers—the
+ones who have been operating for decades profitably and undoubtedly know what they're doing.
+You see, the busiest route in Europe, by scheduled seat capacity, is Barcelona to Madrid, and
+Europe's largest low-cost airline is Ryanair.
+Conspicuously, though, Ryanair does not operate this route.
+They also don't operate from Paris to London, or Stockholm to Oslo, or Berlin to Frankfurt,
+or countless other of the busiest passenger flows in Europe because they can make more
+money by stimulating demand on low-competition, historically low-demand routes.
+Across the board, the routes that work for short-haul, low-cost carriers are different
+than those that work for full-service airlines.
+When long-haul, low-cost airlines emerged en masse, many—including AirAsiaX, Norwegian
+Airlines, and Wow Air—seemingly sought to emulate the route maps of their full-service
+competitors.
+Wow Air, for example, focused on connecting major US cities to major European cities via
+Reykjavik, Norwegian did the same but with non-stop flights, while AirAsiaX worked to
+complement their short-haul network by connecting Malaysia to the rest of Asia.
+The problem is, short-haul budget airlines already proved that this was hardly viable,
+and it's even less viable with low-cost long-haul airlines because they have even
+less basis for cost differentiation.
+That's because, the longer a flight is, the greater proportion of the overall cost
+fuel takes up, and that's because, no matter the length of a flight, airlines always only
+have to pay for one set of check-in agents, one gate, one cleaning crew, and one of everything
+else a flight needs at the airport, but for every minute a flight is airborne, they have
+to pay more for fuel.
+What TUI, Condor, and Azul airlines have in common is that they look for routes where
+people want to travel but choose not to because of the cost or time it takes to get there,
+or because they haven't even considered it.
+They pretty much ignore business travelers entirely and focus on the two other major
+travel segments—people going on vacation, and people visiting friends and families.
+It's certainly counterintuitive to think that TUI can turn a profit flying from Brussels
+to Banjul in the Gambia, while Norwegian Airlines cannot while flying London to New
+York, but this goes to show that what matters in this industry even more than demand is
+competition.
+There can be all the demand in the world, but if it all goes to a competitor, an airline
+will not be viable.
+Now, as always, there will certainly be exceptions to this rule, and it isn't to say that there
+aren't other factors that influence the profitability of a given long-haul low-cost
+airline, but it is to say that the easiest route to profitability seemingly starts with
+stimulating demand.
+If airlines like Norwegian, AirAsia X, Eurowings, and other unprofitable long-haul low-cost
+carriers do make it out to the other end of the COVID-induced air travel downturn, they
+will have an opportunity to rebuild their long-haul route networks from nothing, starting
+with the ones that have historically worked best.
+The data would suggest that the long-haul routes that should work best are ones like
+Oslo to Fort Lauderdale or Bangkok—both of which are low-frequency routes with little
+competition that also happened to be some of the first long-haul routes they launched
+early in the 2010s.
+While prior to the pandemic, these airlines were tremendously focused on capturing as
+much of the market as possible as fast as possible, which likely led them to launching
+unviable routes, the slow yet seemingly imminent restart to international long-haul travel
+might act as a natural experiment regarding the viability of the business model.
+Without any momentum to work off of, if these airlines—both the profitable and unprofitable
+ones—are successfully able to stimulate demand once long-haul travel is once again
+safe and possible, that will more or less prove that this is truly their secret sauce.
+Following lockdowns in the US, Europe, and Asia, short-haul low-cost carriers outpaced
+their full-service competitors in their recoveries.
+This was largely because they were able to stimulate demand on leisure routes with cheap
+fares and non-stop, point-to-point routes.
+The long-haul recovery has barely started yet, but if we see the same happen—if we
+see long-haul low-cost carriers lead with niche, low-frequency leisure routes, and if
+this works and the recovery outpaces that of full-service airlines, then we'll have
+further evidence that what makes low-cost carriers work is not so much their low operating
+costs, but rather their route networks.
+Then, if this is true, we know that the difference between Lufthansa and Condor Airlines, or
+British Airways and TUI, or LATAM and Azul, is that one set of airlines captures demand,
+and the other one creates it.
+Earlier in this video, I mentioned that I ran regression models on the datasets I created
+to research for this video, which might sound like some crazy scary math words to some of
+you, and it certainly would if for me a few years ago, but regression analysis is actually
+one of the simplest and most powerful tools in statistics.
+I'm one of those people who hated math in high school and was terrible at it, but since
+then, I've come to love statistics and found my knowledge of the subject quite useful for
+both this, my job, and everyday applications.
+What really helped me master the subject were brilliant statistics courses.
+Specifically, their statistics fundamentals course helped me with regression analysis,
+while the rest of the ones on the subject taught me things that I didn't even learn
+when I took the course in college.
+Now, an online course teaching more than a college course probably sounds scary, but
+why Brilliant is so great is that they take these huge, complex subjects and break them
+down into little chunks which they teach by explaining the intuitive fundamentals.
+In the end, even if you're the opposite of a math expert, like me, you can finally
+understand these subjects that you previously looked at in trepidation.
+All in all, if you want to learn the subjects you hated in school, but actually enjoy the
+process, Brilliant is the place for you.
+By heading to brilliant.org slash wendover, you can sign up for free, and then, if you
+decide to upgrade to premium, the first 200 people to go to that same link will get 20%
+off, and you'll be supporting the channel while you're at it.

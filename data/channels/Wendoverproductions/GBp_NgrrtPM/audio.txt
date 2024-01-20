@@ -1,0 +1,305 @@
+China… has a problem.
+The country's getting hotter, and it's getting wealthier.
+While in isolation one is a global challenge and the other a domestic triumph, in concert
+they present an issue because of this—the air conditioner.
+Fix China on its latitudes and move it along the longitudes, and one can see that its size,
+shape, and southerness is not all that different from the US's, and that reflects in its
+climate.
+Beijing's temperatures closely track with those of DC year-round, while Shanghai's
+reflect those of Atlanta.
+That's to say, China, like the US, is hot.
+Much of the US developed in an era of air conditioning—Florida, Texas, and Arizona
+had their biggest population influxes at a time when inside and out no longer correlated,
+and this is a direct contributor to the fact that the US today has the highest electricity
+consumption per capita of any major economy.
+China's marching down the same path—two out of every five air conditioning units made
+today are being sold to a Chinese person.
+Simply put, as personal income grows, air conditioning use grows, and so on the hottest
+of hottest days, some 50% of electricity consumption in China is now directly devoted to cooling
+down buildings—and this is only a single instance of a broader phenomena.
+Across the board, the exponential increase in electricity consumption as nations grow
+wealthier is a well-accepted and well-documented phenomena.
+Other prosperous regions have found a tenuous equilibrium between wealth gains and efficiency
+gains.
+Europe and the US's year-over-year electricity consumptions have more or less plateaued,
+but China's looks like this—it's just growing, and growing, and growing.
+And most crucially, no country the size of China has ever, in history, developed at the
+speed of China.
+Its people are marching up the wealth pyramid at an unprecedented pace, and so too, of course,
+is its electricity consumption.
+This has led to difficulties.
+China's no stranger to the occasional power crunch.
+In a rapidly growing economy, these effectively represent growing pains.
+But the power crunch across China in September and October of 2021 was different.
+As in other periods of unseasonably high temperatures, power-strapped grid operators accounted for
+an uptick in air conditioning and fans by cutting streetlights and other municipal power
+uses they could live without.
+Then they placed cuts on industrial users, notifying manufacturers and suppliers for
+the likes of Tesla and Apple that factory operations would have to slow for the coming
+week or two.
+While the move put a damper on the Chinese economy rallying for the first time since
+pandemic shutdowns, a temporary slowdown wouldn't be a major issue in the grand scheme of things.
+Then it got worse.
+Scorching droughts persisted across central China, winds unexpectedly died in the north,
+and across the entire country, coal reserves dwindled to a day or two's worth.
+Suddenly, the power crunch became rolling blackouts.
+For hours, Chinese cities went dark.
+In Laoyang, cars stacked up when traffic lights shut off, and metal workers ended up in the
+hospital when factory exhaust systems shut down.
+Shops ran by candlelight, city advised residents to stock up on clean water, building managers
+asked tenants to take the stairs, while at least one family got stuck in an elevator
+when power suddenly cut out.
+The international media called it unprecedented, and some Chinese citizens compared the outages
+to living in North Korea.
+To understand the true source of the crisis, beyond the short-term, simple supply and demand
+imbalance, one must understand China's electric grid, and to understand its grid, one must
+understand this—coal is everything.
+The two other areas with similar GDPs, Europe and the US, produce about 18 and 21% of their
+electricity with coal, respectively.
+In China, it's 62%.
+In fact, about half of the entire world's coal power generation capacity is within the
+People's Republic.
+In context, this isn't surprising—two or three decades ago, coal was far more significant
+in Europe and the US's energy mix, but in the years since, there's been a notable
+shift towards cleaner, more flexible, natural gas-fired power plants.
+China couldn't do that, at least not easily.
+One of the country's critical weaknesses in today's world is that it lacks significant
+domestic oil and gas production.
+It imports about half of the natural gas it uses, which means it's expensive, which
+means it doesn't use the fossil fuel for generating electricity, at least in any significant
+way.
+Meanwhile, China is swimming in coal.
+Enormous deposits sit in Inner Mongolia and the Shanxi and Shaanxi provinces—the country
+has more natural coal deposits than anyone but Russia, Australia, and the US.
+Many forms of renewable electricity generation are now cost-competitive with coal and gas
+generation, but remember, China has been growing unbelievably, unprecedentedly fast.
+While the overall cost per kilowatt-hour of solar, for example, might be the same or lower
+than that of coal power, there's the question of when the money is spent.
+With solar, nearly all of the cost is upfront in the production and installation of panels.
+With coal, however, the cost is more distributed through the lifetime of use—there's a
+lower initial installation cost per unit of capacity—but it raises through time,
+with use, as coal has to be purchased to keep the generation ongoing.
+So when a country is growing at such a pace, it's much easier to spend less upfront to
+add capacity, knowing that more money is coming, rather than spend a larger amount upfront
+knowing the savings will come later.
+It's that simple reality that has undergirded the centrality of coal in China's energy
+mix.
+Now, the companies actually producing power in China are, almost universally, state-owned
+enterprises, but despite reporting up to the central government, on a day-to-day basis,
+these businesses do act with a certain degree of autonomy, responding to market conditions
+similar to how a privately-owned enterprise would—but this is a unique market.
+Beijing regulates how much power producers get paid for the electricity they make—typically
+it hovers around 8 cents per kilowatt-hour, far below the world average.
+The country considers this crucial because, still today, it's a largely industrial economy.
+Industry requires power, and just as China is competitive with the rest of the world
+thanks to its low labor costs, it's also competitive thanks to its low electricity
+costs—but low costs mean nothing if there's no electricity to be consumed.
+Notably, and crucially, Beijing does not regulate the cost of coal—it fluctuates wildly up
+and down, just as it does in the rest of the world.
+So companies get paid a fixed amount for what they make, but their input cost—the coal—changes.
+It doesn't take an expert to spot the potential issue with this.
+So why not renewables?
+Ignoring for the moment the difficulties in upfront financing, if solar and wind are competitive
+in cost with coal-fired power and aren't vulnerable to the short-term up-and-down fluctuations
+in coal prices, wouldn't they be the clear winner?
+Wouldn't a solar installation producing for less than 8 cents per kilowatt-hour be
+a guaranteed profit machine?
+Yes, but…
+Most Chinese people live where favorable conditions for renewable energy simply aren't.
+The country's greatest solar energy potential lies largely in the arid west and along the
+northern border.
+The same goes for wind—these regions in the far west and borderland north are also
+where the nation's most consistent wind potentials lie.
+The difficulty is, more than 90% of China's population resides on the southeast side of
+this divide—far from the most productive areas for renewables.
+Even when it comes to the nation's most heavily developed renewable, hydropower, many
+of the nation's largest dams are located in southern and southwestern China—near
+moderately populated areas, but still far from the most densely populated provinces.
+Making the most of renewable resources, and the already impressive amount of renewable
+infrastructure the central government has built out then, requires efficient means of
+transferring electricity over vast distances and a flexible, interconnected grid.
+Alongside the massive dams, solar installations, and wind farms China's taken on in the past
+decade is an equally impressive assortment of transmission lines, increasingly connecting
+the sunny, windswept hinterlands to population and industrial centers.
+This is an ultra-high voltage power line, and of the 36 that exist globally, China's
+home to 34 of them, with plans to build more.
+While standard overhead transmission lines run from 110 to 500 kilovolts, these run from
+800 to 1100, resulting in massive efficiency gains, and in turn, allowing these long-distance
+lines to move up to five times the power of a standard line.
+In China, they've been identified as the key to linking areas of high energy consumption
+with areas of high renewable production.
+And yet, while these infrastructure investments have built out wind and solar plants in remote
+areas as far east as the deserts of Xinjiang, then connected them directly to industrial
+centers like the Yanhui province, 2,000 miles or 3,200 kilometers away, China has yet to
+make the most out of their green investments.
+At the end of 2020, a report surfaced that China's future forward ultra-high voltage
+lines were only running at a paltry 60% of capacity.
+For a country with a still-climbing coal habit, this dramatic underutilization was disappointing,
+but not necessarily an indictment of the physical grid—rather, an indictment of how China's
+grid works on a policy and pricing level.
+China has yet to properly incentivize their renewables.
+They've addressed the supply side, but largely ignored demand.
+Critical to the full implementation of China's solar and wind farms and the power lines connecting
+them to population centers is the willingness of Chinese provinces to buy energy from one
+another.
+Because energy rates are set by the government rather than a market, provinces, which are
+largely in charge of their own grids, have prioritized purchasing electricity within
+their own borders, regardless of its origin, to keep the money local.
+Why give another province the work that could exist within?
+And because the provinces that need more power are more densely populated or more industrialized,
+they're probably eastern or coastal, and likely buying power from nearby coal plants
+rather than out-of-province renewables.
+Available renewables then take a back seat—they get used, mostly, as provinces buy this electricity
+as capacity insurance during peak surges.
+While flexible, interconnected, and national in theory, China's grid's still just more
+regional, rudimentary, and coal-oriented in practice.
+Up until today, China's grid has largely done enough to facilitate the nation's monumental
+rise, but as Chinese coal consumption, consumer standards, average temperatures, and weather
+variability rise too, the challenge will be keeping up—and in 2021, it didn't.
+Given the continued centrality of coal in China's energy mix, the move they took in
+the middle of 2020 was bold—they banned Australian coal.
+This move occurred in response to the Western nation's calls for an investigation into
+the origins of COVID-19, but up until that point, Australia supplied around half of China's
+imported coal.
+Still, as the world's largest coal producer by orders of magnitude, the ban on Australian
+coal, even when entering winter, could be managed—as long as it was the only challenge
+to manage.
+Next came 2021, and with it, the recovery.
+As China's strict quarantine and control measures virtually eliminated the COVID virus
+from its territory, construction and heavy industry roared back.
+While the sector signaled signs of life from the previously dormant Chinese economy, they
+also put pressure on the grid, as the first half of 2021 saw an 11% increase in coal demand
+from the year prior, and an 8% increase from 2019.
+But as business boomed, under the surface, cracks were beginning to show.
+While China was burning more coal than years prior, it was hardly producing any.
+Here, in the Inner Mongolia Autonomous Region, China closed over 30 mines over land use violations,
+halting production for months.
+Here, in Shengxi, coal mines closed for over a month for safety inspections after a worker
+died in an accident.
+And at the same time domestic supply hit snags, so too did international.
+Indonesia, China's newest number one coal supplier, was hit by a heavy storm season
+that derailed its export coals.
+Heavy storms led to record flooding in Shengzhou, China too, requiring emergency reroutes of
+coal into Henan province.
+But the rain didn't last, and as 2021 progressed, much of China entered an intense drought which
+severely hampered hydroelectric production.
+All the while, global coal prices skyrocketed to over $200 per metric ton—four times its
+average from a year prior.
+Chinese mines struggled to produce, while Chinese power providers drained reserves to
+at least minimize their losses while producing for a higher cost than they could sell, then
+claimed they were going offline for maintenance to further mitigate their financial damage.
+While 20 separate provinces experienced some of the most significant rolling blackouts
+in decades, the global supply chain was thrown into further turmoil as producers were forced
+to cut back or shut down production.
+While the crisis passed, the bedrock of the nation's economy had been exposed as a brittle
+embarrassment of a system.
+China stuck between a rock and a hard place.
+The rock is the expectation, both domestic and international, of continued, tremendous
+economic growth, and the hard place is the unmitigated, escalating global climate crisis.
+China knows it needs to cut back.
+It knows this both because of the ironclad science of climate change, and because of
+its own practical experience.
+Less than a decade ago, China, and specifically Beijing, had some of the worst air quality
+in the world, and this wasn't merely unpleasant.
+While it's tough to accurately measure, researchers have attributed 1, 2, or 3,000
+excess deaths, not per year, but per day, to air pollution in China.
+The issue escalated to such a degree that international employers started awarding hazard
+pay to staff sent to the country to compensate for the very real health effects of simply
+existing in China.
+The largest single factor behind this tremendous air pollution was coal, both for power generation
+and household heating purposes.
+While in the decades since the country has made tremendous, unprecedentedly fast progress
+in improving its air quality, it's still far above World Health Organization targets,
+and is still the source of myriad excess deaths per year, but in this instance, China's
+air quality crisis served a demonstration to Beijing that its coal habit comes with
+a very real, very tangible cost.
+Simultaneously, the world recognizes it needs to tackle the climate crisis to avoid the
+worst future of unlivable temperatures, destructive sea level rise, and deadly superstorms.
+The world, and China itself, also recognize that China is, by an enormous margin, the
+single largest source of carbon emissions, responsible for more than double the CO2 than
+the US, even if per capita emissions are lower.
+And remember, its trendline looks like this—all eyes are on China to play its part.
+So, as the world descended on Glasgow for the 26th United Nations Climate Change Conference,
+China made a commitment.
+The nation would reach peak carbon emissions by 2030, and carbon neutrality by 2060.
+This is aggressive.
+Japan said it will reach carbon neutrality 37 years after its carbon peak, the US is
+giving itself 43 years, and the EU a full 71.
+China is saying they'll do it in 30, despite the fact that their peak will be far higher
+than any others.
+But this is China.
+This is the country that committed to 50 years of Hong Kong autonomy.
+This is the country that said a mere 300 died in Tiananmen Square.
+This is the country that says all that's going on in Xinjiang is the lawful detention
+of Uyghur terrorists.
+Can any Chinese commitment be considered truthful?
+Well, when it comes to climate, it's possible.
+At the 2009 iteration of the UN Conference on Climate Change, China committed to reducing
+its carbon emissions per unit of GDP, a metric known as carbon intensity, by 45% relative
+to 2005 levels by 2020.
+Coming to the United Nations itself, China hit this three years early in 2017.
+At COP21 in Paris in 2015, the country committed to go even further and reduce carbon intensity
+by 65% relative to 2005 levels by 2030, and China still has every chance in the world
+to hit that.
+So that's to say, based on the past promises, maybe China actually will peak its emissions
+by 2030.
+But, back when originally setting its carbon intensity targets, the primary criticism among
+experts was that China was supposedly already on the path to hit 45% reduction by 2020.
+In fact, according to International Energy Agency data, the pace of decline actually
+slowed in the five years after the 2009 commitment, relative to the five years before.
+Again, carbon intensity is a measure of emissions per unit of GDP, not overall emissions, so
+a reduction in carbon intensity was to be expected as the country's economy started
+to shift from industrial to service-based.
+The new 2030 carbon peaking goal, however, is different.
+China is not currently on that path, and with just seven years left on the clock, it's
+getting hard to believe that it can get on that path.
+China's climate commitments came before its power crisis, and 2021 and 2022 have demonstrated
+where the nation's priorities lie.
+A majority of the world's planned future coal power plant construction is within China,
+and just last year, Beijing authorized another 370 million tons worth of coal production
+to go online, reversing their prior commitments to reduce the fossil fuel's production.
+Analysts and observers have also noted a marked tone shift among Chinese officials, more often
+bringing up the need for energy security in their transition towards renewables, and in
+December 2021, at China's annual Central Economic Work Conference, policymakers finally
+suggested what everyone else already knew—that there could be a delay in hitting their emissions
+targets as they focus on their economy.
+The economic story of China over the past decade has been this—a slow slide out of
+the era of record-setting GDP growth, placing pressure on the leaders whose power is undergirded
+by the continued march towards superpower status.
+But it's clearer than ever that China's GDP growth is tremendously linked to carbon
+output, and that carbon output has to stop—for the health of its own citizens, for the pressure
+placed by the international community, and for the pragmatic global realities of climate
+change.
+What's happening now is a tenuous dance.
+They can take one step forward on decarbonizing, but that relies on taking one step back on
+growth.
+They can take one step forward on growth, but that requires taking one step back on
+diplomatic stature.
+China can manage and mitigate, but at the end of the day, the past decade has borne
+out that renewables can't come soon enough, because soon enough, in China's eyes, is
+the pace of growth enabled only by low-cost, high-carbon energy.
+It's economy versus climate, social order versus public health, tomorrow versus the
+day after.
+Having met plenty of Wendover viewers, I know that there tends to be a bit of a type.
+Most of you are highly motivated people, continuously working towards a defined set of goals, whether
+they be personal, career, or a mix of both.
+So that means you're probably the type of person that values your time highly, and fills
+it up with work, passion, social activities, critical downtime, and more.
+So my question to you is, why waste your time at the grocery store?
+Planning meals, driving or walking to the store, searching through the aisles, waiting
+in line to check out—all that's unnecessary thanks to services like our sponsor, HelloFresh.
+Basically, HelloFresh is a meal kit that gives you all the upsides of home cooking without
+any of the downsides.
+You select what you want to eat from more than 30 weekly recipes, then a box arrives
+on your doorstep with all the ingredients and recipes you need to cook those meals.
+This cuts out all the boring bits—shopping and a lot of the prep—so you skip straight
+to cooking, and in about 30 minutes you have a delicious, fresh, home-cooked meal.
+This is all surprisingly affordable and fairly eco-friendly—getting the exact right amount
+of ingredients cuts food waste down by 25%, and a University of Michigan study found that
+their streamlined supply chain means the carbon emissions of a HelloFresh meal are actually
+lower than that of an equivalent bought through a grocery store.
+I've used HelloFresh since 2020, before they even became a channel sponsor, and have
+made hundreds of delicious meals through them like these bulgogi meatballs.
+I'd really recommend giving them a try, as they could completely transform the way
+you eat, especially since you can click the button on screen or go to HelloFresh.com and
+use code WEND OVER 60 for 60% off plus free shipping.

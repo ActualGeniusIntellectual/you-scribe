@@ -1,0 +1,188 @@
+This video was made possible by CuriosityStream. Watch the companion video to this, plus tons of
+other exclusive videos, by signing up for the CuriosityStream Nebula bundle deal,
+currently on sale for an unbelievable dollar a month at CuriosityStream.com slash Wendover.
+Airlines are pragmatic. Each, inherently, is a sizable organization, as a degree of scale is
+necessary due to the massive capital costs needed to, quite literally, get a plane off the ground.
+There are no mom and pop airlines. Therefore, airlines have the resources to analyze choices
+to a far greater level of detail than most businesses. Any decision that we, the public,
+see has passed through such a level of review, such a level of scrutiny, that it must mean
+something. Airlines typically don't make emotional, informal, or off-the-cuff decisions.
+Therefore, it's odd how much airlines care about climate change because, from a theoretical
+perspective, they shouldn't. It doesn't currently make sense for airlines to care about climate
+change. Of course, from a moral perspective it does, but businesses, traditionally and theoretically,
+don't value morality higher than profit. That's the role of non-profits—the organizational
+structure designed to value social impact first and foremost. For-profit businesses,
+in the traditional sense, are designed for profit. Therefore, properly managed, they do what
+generates the most profit, and for airlines, right now, what enables that is to not care about
+climate change. Carbon doesn't have a cost for airlines. With a few exceptions, emitting more
+carbon does not cost the airlines anything, but it enables them to make more profit,
+so the theoretically correct thing for airlines to do is to emit the amount of carbon that enables
+them to generate the most profit regardless of environmental consequences. Some say airlines
+care about climate change for public relations, and they're right, but only to an extent.
+Airlines clearly posture as caring about their carbon footprint because consumers
+increasingly care about their carbon footprint, so being viewed as a greener airline translates
+to being a more desirable choice for consumers, who, unlike for-profit businesses, do care about
+what's morally right to an extent. However, net carbon zero is expensive, biofuel development is
+expensive, sustainable aircraft development is expensive—all more expensive than would make
+sense if airlines and aircraft developers exclusively cared about PR. So, the reason
+why airlines are starting to care about climate change is because they're terrified of the R-word.
+Regulation. It started already. In France, the National Assembly has passed a bill that would
+ban short-haul flights on routes that could be traveled in two and a half hours or less by train.
+Here's the worst thing for airlines. Measures like this make absolute perfect sense. With airports
+located away from city centers, security lines, less reliable departure times, and more, no journey
+that would take two and a half hours by train could reasonably and reliably be accomplished
+faster by plane. The bill would still allow the shorter flights to operate for the purposes of
+connections to longer-haul flights, but passengers just couldn't book the short flights by themselves.
+So, there's no real downside, but there's the massive upside of shifting travelers onto trains,
+which in the case of France emit 77 times less carbon per passenger on journeys of this length.
+While this bill faces an uphill battle as it needs to pass through the more conservative French
+Senate before enactment, it's no wonder why similar measures have been seriously considered
+or implemented in the Belgian region of Wallonia, Austria, the Netherlands, and by countless
+employers globally. The problem for airlines is that they just don't have any good arguments
+against regulations like these. A move away from the shortest-haul, most replaceable flights will
+be the start, but it won't end there. As one of the more carbon-intensive industries, airlines
+will face increasing regulatory barriers to their operations—unless, of course, flying becomes less
+carbon-intensive. Flying must happen, in many cases. Governments will not ban flying full stop.
+Governments will not heavily restrict flying, but governments will make it so that the externality—the
+carbon footprint—is priced in to the cost of flying. That is, governments will create
+structures in which greener flying is cheaper flying with, for example, hefty carbon taxes.
+So, why airlines care about climate change is because airlines are pragmatic, and it's quickly
+and increasingly becoming the case that competitiveness as companies is linked to how
+green they are. Biofuels, engine efficiency improvements, carbon offsetting—these things
+all help, but they're incremental changes that can only take flying from being incredibly
+carbon-intense to very carbon-intense. However, there is one solution that can actually,
+realistically turn flying into a somewhat sustainable method of transport—electric
+aircraft. Now, here's the thing. Electric aircraft are no massive innovation. They
+existed in 1973 when the MBE-1 became the first to fly with a human crew, they existed in 2015
+when the Solar Impulse 2 circumnavigated the world exclusively on solar power, and they existed in
+2020 when the Papistrel Velis Electro became the first commercially available type-rated electric
+powered aircraft. There's not a whole lot technologically that has or is preventing
+electric aircraft from existing. What is, is the business case. Batteries are just more expensive,
+and less energy-dense than fuel, so with carbon emissions always having been free for airlines,
+it just always made sense to use petroleum-based fuel. Aircraft development is an unbelievably
+expensive endeavor, and getting an aircraft certified for commercial use using a new type
+of motor is just all that much more, so it never made sense for a manufacturer to go through all
+that for an aircraft that didn't have a strong business case. Now, however, for the first time
+ever, a strong hypothesis of a business case has developed, and, if it works,
+we will see the most dramatic shift in how commercial aircraft work in generations.
+Electric aircraft inherently have constraints. While much progress has been made in the past
+decade to bring down the price of batteries, and they now cost one tenth as much per kilowatt hour
+compared to a decade ago, less has been done to increase battery energy density—that is,
+the amount of electricity stored per pound or kilogram. That's because, with electric vehicles,
+the primary novel application, weight doesn't matter that much. It's easier to increase range
+by bringing down cost and putting more batteries in than improving their energy density. It's
+different with aircraft. The lighter they are, the further they can fly, so there are diminishing
+returns in adding additional batteries since doing so means one needs to add even more batteries to
+provide the energy to carry the weight of those batteries, and so on and so forth. Also, for now,
+all viable electric aircraft are propeller-driven, specifically because it would be far more costly
+to develop an electric jet engine, and the time savings it would offer on the short-range flights
+that electric aircraft would be capable of completing would be negligible. So, airlines
+need to find a use case for short-range, slow, electric aircraft. Conveniently, it already exists.
+From their Denver, Colorado hub, United Airlines flies to 16 destinations less than 250 miles or
+400 kilometers away. In particular in this case, many of these destinations, such as Montrose,
+Aspen, Eagle County, and Hayden, are high-yield and high-frequency despite their close distance
+since they connect tourists to popular ski towns. In the case of Wiederau, a Norwegian
+regional airline, 19 of their 47 overall destinations are within 250 miles of their
+Tromsø hub, and a strong majority of their routes are over distances less than this.
+Then, there are airlines like Cape Air, who do not fly a single route over 250 miles in length.
+The use case for electric aircraft already exists because airlines like Cape Air already found it—just
+not yet using electric aircraft. They fly from large hubs to small destinations on 9-seat
+propeller aircraft, and partner with mainline airlines to offer connecting itineraries.
+For them, the electric aircraft range constraints don't matter since all their routes are so short,
+and therefore the speed constraints don't either. When Cape Air flies from Martha's Vineyard to New
+York JFK on their propeller-driven Cessna 402, the flight takes an average of 70 minutes,
+whereas Delta, flying the same route using a jet CRJ200, takes 45. When Cape Air flies from
+Nantucket to Boston Logan Airport, they take 39 minutes, whereas JetBlue, on their E190 aircraft,
+takes 28. Those extra 11 or 25 minutes are negligible in the overall travel experience,
+especially considering that Cape Air's boarding times, with 9 passengers, are certainly quicker
+than with Delta's 50 passengers or JetBlue's 100. So, not only could electric aircraft
+seamlessly replace all of Cape Air's flights, but they could also take over some of Delta,
+JetBlue, United, or other larger airlines' routes without a negative impact to overall trip time.
+So, the use case exists, passengers would accept the switch, but what do electric
+aircraft do for airlines, aside from enabling a continuation of operations in the face of
+increasing regulation? A very specific answer for this exists, thanks to one short document.
+This is the US Department of Transportation's Order Reselecting Airline document for their
+essential air service subsidized flights from Boston Logan Airport to Augusta and Rockland,
+Maine. You see, the US government subsidizes routes to these small, remote communities
+across the country in order to improve connectivity and economic opportunity for
+these areas. As it's the US taxpayer funding these programs, the bids from airlines to operate these
+routes are a matter of public record, providing a truly unique glimpse into accurate operating
+costs for a single airline route. While they competed against Boutique Air, Cape Air ended
+up winning the bid so they now operate the route to Rockland, Maine. In exchange, they received a
+subsidy of $2,218,126 for their first year, 2018-2019, ramping up to $2,495,090 by their
+fourth. Rockland is a tourist hotspot in the summer, but it returns to a quieter state for
+the rest of the year, so the airline's obligations for flight frequency varies by the season—
+anywhere between three daily round-trip flights in winter to six in the summer. All in all, though,
+they're obligated to operate some 1,365 flights annually, representing 12,285 total available
+passenger seats in each direction. According to Cape Air's estimates, this route should cost some
+$3,350,746 a year to operate. They estimated some 15,122 total passengers would fly,
+but publicly available data shows that only 6,733 boarded their planes in Rockland in 2019.
+Assuming it's roughly the same in the other direction, as one would expect,
+that means they saw only 13,466 total passengers, representing a 54.8% load factor.
+Selling tickets for an average of $83, the airline likely therefore brought in $1,117,678
+in passenger revenue which, combined with their $2,247,721 year-two subsidy,
+means they earned some $3,365,399 in revenue. Subtracting their annual cost estimates,
+that means they only turned $14,653 in profit, or $1.09 worth per passenger.
+This is how tight airline profit margins can be. But what would they be if this route was operated
+by an electric airplane? Well, to start, fuel costs would be almost entirely eliminated.
+Electricity isn't free, but its costs are so low compared to fuel that it essentially becomes a
+non-factor. Electricity can also be converted into a capital cost, instead of ongoing cost,
+through investing in solar or wind energy generation, which Cape Air has hinted at doing.
+So, this $844,002 in annual fuel costs, we can consider it, for all intents and purposes,
+eliminated. Other costs would go up. Cape Air budgets $269,903 per year on ownership costs,
+meaning the amortized, prorated cost of owning their aircraft. While details are not known,
+and so an accurate estimate would be impossible, there's no world in which a new, electric aircraft
+is cheaper than the mass-produced, long-proven Cessna 402. It wouldn't be unreasonable to expect
+that ownership costs would, say, double. Then, there are the maintenance costs. These would be
+significantly lower than with traditional internal combustion-driven aircraft. The thing is,
+electric motors are just so simple. They have exactly one moving part—the shaft.
+Electric vehicles typically never require motor maintenance, as there's really just
+nothing that can break or wear down within their lifetimes. The same principle will apply to
+electric airplanes, and so much of the maintenance work aircraft require currently is on their
+engines. While it's very tough to know with any confidence how this will play out in reality with
+planes that don't yet exist, there's a world in which aircraft maintenance would cost a fraction
+as much. Overall, these three factors combined—a near total elimination of fuel costs,
+a dramatic increase in ownership costs, and a dramatic decrease in maintenance costs—track
+with Cape Air's estimates for a 40% reduction in operating costs. That is enormous. On their
+Rockland route, assuming no change in revenue, that would take $1.09 in per passenger profit,
+and turn it into $100.62—a number so dramatically different that it doesn't even sound correct.
+This would immediately turn Cape Air into the highest operating margin airline in the world,
+full stop. This is why the future of short-haul flying is inevitably electric.
+This is why, in 2019, Cape Air became the first commercial customer to order the Alice,
+a nine-passenger electric aircraft developed by startup aircraft manufacturer,
+Eviation. It will be able to fly each and every one of the airline's routes round-trip without
+charging. There are certainly no guarantees that the Alice will see the light of day—aircraft
+development is an incredibly costly, risky, and long process that can spell failure for
+even the strongest concepts—but everything so far suggests that Eviation has just as much
+a shot at success as all the other players that have entered this race. While Cape Air may be
+pioneering the use of these aircraft in the commercial context, as they have the advantage
+of a pre-existing route network and business strategy that are conducive to their use,
+the release of such aircraft will fundamentally break a long-held truth about aviation.
+Short-haul flying is currently more expensive per mile than long-haul flying, due to the high
+fixed costs involved with the ground operations at each airport. However, with electric aircraft
+available exclusively on shorter routes, at least in the near future, there's a reality in which
+it's cheaper per mile to fly 200 miles than 2,000 miles. That will shift airlines' focus to more
+regional route networks and connect communities that previously were too small to make economic
+sense for airlines. In short, not only will electric aircraft allow airlines to continue
+to operate short-haul as regulations ramp up, but it will allow them to increase it in a sustainable,
+profitable way. The future of flying is inevitably electric, because the business case
+is just too strong to ignore. Plenty of progress has already been made to make electric flying a
+reality, and as much as I'd like to tell you in detail about the specific electric aircraft that
+you might fly in a matter of years, and how they work, there just isn't the time in this video.
+The YouTube algorithm has just decided that 15 to 20 minutes is our sweet spot for video length,
+and if we stray from that, the videos don't perform well. Conveniently, though,
+Nebula doesn't have an algorithm. So, I created a companion video to this about that topic,
+and put it there. Nebula subscribers can watch that, our regular videos early and ad-free,
+other exclusive companion videos and extended cuts, and our big-budget Nebula originals,
+of which we have plenty, and we have our biggest one yet in post-production right now.
+Making that even better, you can get access to Nebula through the bundle deal with Curiosity
+Stream, which is on sale for Father's Day at its lowest ever pricing of under $1 per month.
+Of course, by signing up through them, you also get access to their massive,
+super-interesting library of non-fiction documentaries and shows. For example,
+and I've recommended this before because it's so good, you could watch China's Last Little Train,
+about the narrow gauge railway that connects one of China's most isolated regions. Altogether,
+this bundle provides a massive amount of stuff that you'll actually watch, and it comes at an
+absurdly low price. Again, the current Father's Day sale is the lowest their prices have ever been—just
+under $1 a month—so there has never been a better time to sign up at CuriosityStream.com
+slash Wendover, and, best of all, you'll be helping all these independent creators
+stay independent while you're at it.

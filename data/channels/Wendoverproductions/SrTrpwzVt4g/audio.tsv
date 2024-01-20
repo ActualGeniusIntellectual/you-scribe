@@ -1,0 +1,317 @@
+start	end	text
+0	6740	In a matter of three weeks, the Russian aviation industry slid back three decades.
+6740	11700	With one rambling justification, and a subsequent brazen invasion, came a cascading series of
+11700	17000	implications that brought the golden era of global aviation cooperation to a screeching
+17000	18420	halt.
+18420	23280	As a 21st century Iron Curtain fell across Eastern Europe, Russian commercial aviation
+23280	29820	began reverting to a bygone era—an era marked by tension, by distrust bordering on paranoia,
+29820	34540	and by extreme and utter isolation.
+34540	40060	Throughout the Soviet era, the nation's aviation industry was defined by stark insularity.
+40060	45420	While air traffic controllers and pilots around the world spoke English, those in the USSR
+45420	46700	spoke Russian.
+46700	51140	While Western countries benefited from innovation born out of competition between private aerospace
+51140	56220	companies, technological advances in the USSR fell entirely on the state.
+56220	61060	Soviet planes, like the Tupolev 104, equivalent to the de Havilland Comet, and the Tupolev
+61060	66060	154, equivalent to the Boeing 707, were the intellectual output of a centrally planned
+66060	71580	OKB, or an Experimental Design Bureau, while their construction, maintenance, regulation,
+71580	76820	and certification all fell under the purview of the centralized Ministry of Aviation Industry.
+76820	80340	While much of the rest of the world's aviation industry coalesced around a sprawling set
+80340	84680	of standards, a host of trusted aerospace companies and carriers, and a spattering of
+84680	90320	supranational organizations like the International Civil Aviation Organization, the Soviet Union,
+90320	91960	turned inward.
+91960	97120	Domestic flights dominated Soviet commercial aviation—flights from Soviet capitals, regional
+97120	102400	hubs, and vacation spots composed much of state-run Aeroflot's routes.
+102400	107560	Across the post-Stalin era, Russians travelled increasingly by air for business and pleasure,
+107560	111080	but rarely did they leave the confines of the USSR.
+111080	116520	Though Aeroflot at its height serviced over 100 countries, only select Soviets—diplomats,
+116520	121760	athletes, scientists, and artists—saw the outside world with any regularity.
+121760	126200	For the business traveler, international trips hinged on their ability to prove the travel
+126200	130320	was absolutely necessary, and the ability to pass extensive background checks.
+130320	136120	For the average Moscow resident with a hint of wanderlust, well, there was Sochi, or Odessa,
+136120	137520	or Dombe.
+137520	142280	Of course, strict rules over what went out also informed what went in.
+142280	147060	Inbound international flights, when allowed, were bound to specific, sometimes suspiciously
+147060	152020	circuitous routings, incoming visitors were given strict travel itineraries, and closed
+152020	158920	airspace was closely monitored—in the case of Korean Airlines Flight 7, to tragic consequences.
+158920	165360	Closed airspace built walls in the sky—walls which created a world of separated worlds.
+165360	170080	One where cities like Anchorage became international hubs—one where the Soviet aviation industry
+170080	173840	and Soviet travelers existed separate from the rest.
+173840	178720	One that current events have us poised to return to.
+178720	183640	Just hours after Russian missiles began tearing across Ukrainian skies, it became apparent
+183640	189220	that it wouldn't only be Ukrainian airspace taking on a new atmosphere of hostility.
+189220	194200	The same day the invasion began, the UK Department for Transport banned all civilian Russian
+194200	196520	aircraft from its airspace.
+196520	200020	Direct aeroflot flights from Moscow to Heathrow would be no more.
+200020	204360	If Western powers weren't going to directly intervene, they'd lay sanctions.
+204360	209080	And as during the Cold War, Western powers again identified commercial aviation as a
+209080	212700	means of inflicting economic pain on the aggressor.
+212700	217440	In the following days, the European Union, Canada, then the United States, among others,
+217440	219600	banned Russian flights from their airspace.
+220000	225520	Russia, for its part, responded in kind, closing its airspace to the 30-plus unfriendly countries
+225520	228040	in a tit-for-tat move.
+228040	233640	Walls went up, in an era of unprecedented peacetime mobility, slammed shut.
+233640	238760	Aeroflot, which just days before had operated international flights as far east as Tokyo
+238760	243880	and as far west as Los Angeles, announced on March 5th that its only international service
+243880	248120	would be into the capital city of Minsk in allied Belarus.
+248160	252720	Russian and American carriers began diverting routes so as to avoid Russian airspace—Russian
+252720	257960	airspace that US airlines typically crossed an average of 1,400 times a week.
+257960	263540	Flights like Lufthansa's LH716 from Frankfurt to Tokyo once arched over Siberia, but now
+263540	266000	cut south through Central Asia.
+266000	271100	In the most indicative example of the rapid backslide into Soviet-era aviation norms,
+271100	275160	Thin Air announced it was dusting the cobwebs off the circuitous route from Helsinki to
+275160	280080	Tokyo—one last flown in the late 80s—adding more than three hours of flight time, but
+280080	281880	avoiding Russia entirely.
+281880	286880	When, if ever, these walls go down is anyone's guess.
+286880	291080	What is certain, though, is that redirected flight patterns and a return to an almost
+291080	295880	exclusively domestic route network marks only the tip of the iceberg as to the long-term
+295880	299800	impact of Russia's invasion on Russian aviation.
+299800	303600	Beyond the growing divide between Russian and global skies, the country's aviation
+303600	307360	industry is also experiencing a new, digital divide.
+307360	311800	You see, whether it be a hotel in Zanzibar, a rental car company in Jeju, or a regional
+311800	317560	airline in Guatemala, the entire world of travel is all connected by the global distribution
+317560	319680	system—the GDS.
+319680	324280	At the simplest level, the GDS is a common, connected way to communicate and book inventory
+324280	326460	between travel providers.
+326460	330480	This and other back-end communication is crucial for airlines in particular since they rely
+330480	335600	so heavily on bookings originating from third-party online travel agencies like Google Flights,
+335600	340160	Expedia, or Skyscanner, and also on selling tickets that include flights operated by other
+340160	341160	airlines.
+341160	345360	When a passenger flights Delta from Seattle to Amsterdam, then connects on KLM to Athens,
+345360	348320	Delta and KLM's systems need to communicate.
+348320	351400	If they didn't, the passenger wouldn't be able to get their KLM boarding pass when
+351400	354440	checking in in Seattle, they wouldn't be able to check their bag all the way through
+354440	359440	to Athens, they wouldn't be able to get help from KLM if a Delta delay led to a misconnection,
+359440	364480	back-end communication is crucial for the cohesive travel experience from airline to
+364480	365480	airline.
+365480	372520	Now, GDS software is essentially run by three companies—Amadeus, Sabre, and Travelport—combined,
+372520	374560	they hold the market outright.
+374560	379400	Therefore, the announcement that all three GDS providers were suspending Aeroflot's
+379400	383160	access was considered a death blow for the airline.
+383160	387320	This decision was guided by the fact that Aeroflot is a majority state-owned airline,
+387320	391840	and so Aeroflot revenue would go directly to the very entity funding the deadly invasion
+391840	392840	of Ukraine.
+392840	398640	Now, without access to the GDS, Aeroflot flights no longer appear on Google Flights, Expedia,
+398640	404600	Skyscanner, or any other online travel agency—to book, one must go directly to Aeroflot's
+404600	405600	website.
+405600	410040	In addition, and perhaps more crucially, Aeroflot flights can no longer be booked as part of
+410040	412480	itineraries with other airlines.
+412480	416840	While most international airlines have suspended service to Russia, Middle Eastern carriers,
+417360	421640	namely Turkish, Qatar, Etihad, and Emirates, have emerged as a crucial air bridge for the
+421640	426000	country—one of the few convenient ways in or out, especially when heading to western
+426000	427000	destinations.
+427000	431060	Etihad in particular used to co-chair with Aeroflot, allowing a passenger to book a ticket
+431060	436640	from Abu Dhabi to Moscow, then seamlessly connect onwards on Aeroflot to Sochi, for example.
+436640	439440	Without GDS, this is no longer possible.
+439440	443820	Therefore, there's no easy way to travel from outside of Russia to anywhere beyond
+443820	449780	the destinations of those few inbound international flights—essentially anywhere but Moscow.
+449780	453860	While privately owned airlines in Russia have yet to be removed from the GDS, all restrictions
+453860	459660	combined mean that Russia's relative distance to the world has now dramatically increased.
+459660	463660	Traveling from London to Murmansk, for example, used to be thoroughly simple—a three-hour
+463660	467780	Aeroflot flight from Heathrow to Moscow, a one-hour connection, then a two-hour flight
+467780	469620	north to the Arctic city.
+469620	474940	Now, however, the most efficient way of that journey is likely a full ten-hour travel day
+474940	479980	on Turkish airlines from London to Istanbul to Moscow, an overnight at an airport hotel,
+479980	483900	then a morning flight the next day on Aeroflot to finally arrive in Murmansk.
+483900	490020	That's to say, the fastest way to get between two cities a mere 1,600 miles or 2,600 kilometers
+490020	493740	apart now takes longer than flying from London to Sydney.
+493740	498180	But even for those flights that can operate for those passengers who are able to book,
+498180	501700	there's an open question as to whether there's going to be the aircraft to fly
+501700	502700	them.
+502700	507140	You see, while many might perceive aircraft as a product, as something sold from manufacturer
+507140	510580	to airline, increasingly they're a service.
+510580	516180	A majority of the world's commercial aircraft fleet is now made up of leased aircraft—those
+516180	520900	owned by an outside company, but rented to airlines for a term of a few years.
+520900	524340	Rather than getting on a years-long waiting list to spend a huge amount of working capital
+524340	528920	on a single aircraft, airlines have come to enjoy the flexibility of shorter-term lease
+528920	529920	agreements.
+529920	533900	It allows them to grow and shrink their fleets more easily in response to shifts in demand,
+533900	537720	and pay for aircraft as revenue comes in rather than before.
+537720	543500	Of Russia's 980 passenger aircraft, 777 are leased.
+543500	550020	Of those, two-thirds, or 515, are leased from companies based outside of the country.
+550020	553540	Nearly all of those foreign companies are now either required to terminate their lease
+553540	557900	agreements due to sanctions imposed by their home country, or have chosen to due to a lack
+557900	561700	of faith in Russian Airlines' ability to continue paying due to the collapse of the
+561700	565100	ruble and the decimation of international route networks.
+565100	570260	Now, as aircraft leasing gained prominence in the early 2000s, a number of nations came
+570260	573000	together to sign the Cape Town Treaty.
+573000	577540	Like ships, for example, aircraft often spend much or most of their service lives outside
+577540	581220	of the country in which they're registered, so an Irish leasing company like AirCap, for
+581220	585060	example, can't rely on Irish law to give it the right to repossess an aircraft for
+585060	589540	non-payment if it was leased to a foreign airline and located outside of Ireland.
+589540	594500	Therefore, the Cape Town Convention made aircraft leases, and especially aircraft repossessions,
+594500	596740	enforceable by international law.
+596740	600760	It meant that AirCap had a legal right to ask the Russian authorities to help it seize
+600760	603860	an Aeroflot aircraft for non-payment or lease termination.
+603860	608540	That's, of course, because Russia is a signatory of the Cape Town Treaty.
+608540	613660	However, in this case, facing the loss of the majority of its civil aviation fleet,
+613660	616420	the nation just decided to ignore it.
+616420	622040	In fact, not only did they ignore it, but instead, Russia began a state-sanctioned theft
+622040	625940	of billions upon billions of dollars worth of aircraft.
+625940	630240	You see, the majority of the aircraft owned by major international leasing companies are
+630240	634500	registered in either Ireland or Bermuda, mostly due to tax advantages.
+634500	639020	Therefore, when those two countries revoked the certificates of airworthiness for aircraft
+639020	643740	logged on their registries but leased to Russian airlines, that meant that nearly all of those
+643740	650260	515 aircraft were no longer legally able to fly and that the lessors wanted them back.
+650260	655700	However, in response, Putin signed a law allowing Russia's airlines to re-register these aircraft
+655700	658900	as Russian, as if they were their own property.
+658900	662860	Essentially, Russia is telling its airlines to just keep the planes.
+662860	666020	As long as they don't leave the country, they'll stay in their hands.
+666020	670000	That means going forward, these aircraft will likely only operate domestic routes, while
+670000	674460	fully owned or Russian leased aircraft will operate any international routes.
+674460	677360	However, even that could become difficult.
+677360	682000	To retain their legal and practical ability to fly, aircraft are continuously subjugated
+682000	684940	to an extensive maintenance and inspection schedule.
+684940	690180	But now, both Boeing and Airbus have suspended all maintenance support to Russian airlines,
+690180	693900	leaving them few options for sourcing legitimate parts.
+693900	697620	Without legitimate parts, even legitimately owned aircraft could lose the right to fly
+697620	699060	internationally.
+699060	704020	And then on top of that, even the Russian-made Sukhoi Superjet, the most common domestic-made
+704020	708780	aircraft, faces maintenance issues too as its official part supplier is Lufthansa Technik,
+708780	712620	which is based in Germany—a country that has enacted sanctions preventing the company
+712620	715220	from supplying parts to Russian airlines.
+715260	721220	Now, there is precedent for this situation—Iran's aviation industry operated under similarly
+721220	725260	severe sanctions from 2007 to 2015.
+725260	729540	This resulted in them holding onto the aircraft they had prior to the sanctions long past
+729540	730900	their typical service lives.
+730900	735580	When an aircraft part went faulty, focus was placed on repairing it, rather than replacing
+735580	740660	it, since nearly all parts replacement required cannibalizing from grounded aircraft.
+740660	745100	As time went on, more and more aircraft had to be grounded to supply parts to the flying
+745100	749080	airlines, and the country's skies became some of the most dangerous in the world as
+749080	752420	safety standards grew increasingly relaxed.
+752420	756420	Russia is likely to operate under a similar system—assuming it continues to hold onto
+756420	761780	all 980 of its commercial aircraft, it'll have an oversupply due to its airlines'
+761780	765100	inability to operate most in-demand international routes.
+765100	769180	But, the longer the sanctions stretch on, the more planes will have to be dedicated
+769180	774100	to cannibalization, and the fewer there will be that can actually fly.
+774100	777940	Beyond the obvious—the absolute destruction of the progress Russian airlines have made
+777940	782340	over the past three decades building themselves up into legitimate, safe, respected global
+782340	787260	carriers—the near-total disconnection between the Russian and global aviation industries
+787260	791020	could actually accelerate progress for certain others.
+791020	796220	To start, between Sukhoi and Irkut, Russia has been attempting to revitalize its storied
+796220	800700	aircraft manufacturing industry—so far with little success as their aircraft have not
+800700	803460	been competitive with those of Western manufacturers.
+803500	808500	However, without the competition, these domestic manufacturers will become one of the only
+808500	810640	sources for new aircraft.
+810640	815060	This could also have a spillover effect for China as their state-owned aircraft manufacturer
+815060	820700	COMAC is nearing first deliveries of its C919 aircraft—roughly equivalent to an A320
+820700	821700	or 737.
+821700	825140	If it's able to make a version free of parts from countries that have sanctioned Russia
+825140	829840	or China, which is a big if, COMAC could capture demand from Russia that could not be fulfilled
+829840	833380	by COMAC's primary competitors—Boeing and Airbus.
+833380	835940	But the implications go further than that.
+835940	839740	While the impact of Russia's airspace closure was dulled by weak international travel demand
+839740	844660	to and from Asia, with most of the continent's borders still closed in response to the pandemic,
+844660	849900	as this demand grows in step with COVID's fade, this could have broad, long-term implications
+849900	852580	on the global aviation industry.
+852580	856500	Thin Air, based in Helsinki, for example, has long taken advantage of their position
+856500	860560	in the northeast of Europe, on the direct path between most major European and Asian
+860560	865320	cities, to offer some of the quickest connecting itineraries between the two continents.
+865320	869960	In fact, prior to the pandemic, they were the only major European airline which flew
+869960	874800	the majority of their long-haul routes to Asia, rather than North America or elsewhere.
+874800	879440	However, when Asian travel demand's return started to lag behind the rest of the world's,
+879440	883240	Thin Air announced that it would begin flying long-haul routes to destinations in the US
+883240	889580	and Thailand from Stockholm—a new, secondary hub to complement its primary one in Helsinki.
+889580	893560	In retrospect, that seems an extremely prudent move, and it's likely the airline will
+893560	898560	continue on a similar strategic path—reallocating its resources westward in response to its
+898560	902100	quick-flip from best-to-worst position for Europe-to-Asia flying.
+902100	906740	But as one airport falls, another rises.
+906740	910980	Elsewhere in the northern latitudes, Anchorage Airport might regain its strategic status
+910980	913740	for Europe-to-Asia flying.
+913740	917540	During the Cold War, Anchorage was home to one of the most cosmopolitan airports in the
+917540	924020	world as European and Asian airlines used it as refueling stop—avoiding Soviet airspace.
+924020	928260	Routing a flight from Tokyo to London via Anchorage does add about four hours to flight
+928260	933200	time, but it is essentially the fastest route when overflying Russia isn't an option.
+933200	937340	In fact, Japan Airlines flights on that route have already started flying over Anchorage,
+937340	942140	although without stopping for fuel since aircraft now have longer ranges than in decades past.
+942140	946640	However, the more fuel you add to an aircraft, the heavier it is, and therefore the more
+946640	949640	fuel you have to use to carry the added fuel weight.
+949640	955200	Essentially, as flight distance increases, average fuel burn per mile increases.
+955200	960840	Of course, packages, unlike passengers, don't care about stops, so cargo airlines have long
+960840	965120	used Anchorage as a refueling hub on flights between North America and Asia.
+965120	969440	Now, however, it's become advantageous to use Anchorage as a stop on their flights between
+969440	971640	Asia and Europe as well.
+971640	976160	When upon cargo airlines' route from Tokyo to Amsterdam used to fly non-stop in a quick
+976160	981760	11.5 hours, the closure of Russian airspace has now made that entirely infeasible.
+981760	987260	Instead, it flies northeast for 6.5 hours towards Anchorage, stops for refueling, then
+987260	990160	continues nine hours onward to Amsterdam.
+990160	994420	Compared to before, this requires four hours of additional flight time, but it's certainly
+994420	996360	better than the alternative.
+996360	1000760	FedEx is route from Osaka to Paris, for example, normally flying a similar distance between
+1000760	1008560	similarly located cities, now flies 11.5 hours first to Dubai, then 7.5 to Paris—19
+1008560	1012280	hours of flying for a route that previously took less than 12.
+1012280	1017080	If these airspace closures prolong, the airline might opt to route the flight through Anchorage—an
+1017080	1020500	itinerary that could save them two hours over Dubai.
+1020500	1025260	FedEx and UPS already have major operations at Anchorage, so it's very possible they'll
+1025260	1028660	start to expand the model that's worked for Asia to North America flying to Europe
+1028660	1031700	as well in this new reality.
+1031700	1035280	Passenger airlines, however, are likely to take advantage of modern aircraft's incredible
+1035280	1040540	range to continue to run flights to Asia non-stop, even if they physically route over Alaska.
+1040540	1046900	However, one start-up airline is likely quietly celebrating the new inaccessibility of Russian
+1046900	1048100	skies.
+1048100	1051440	Northern Pacific Airways has announced its intention to start flights from Anchorage
+1051440	1056300	to both North America and Asia in 2022, with the goal of creating a connecting hub for
+1056300	1058180	Trans-Pacific travel.
+1058180	1062260	Essentially, they want to become the Iceland air of the Pacific.
+1062260	1065720	This start-up does, however, face an uphill battle.
+1065720	1069120	Transatlantic fares are some of the highest priced long-haul flights out there on a per-mile
+1069120	1073840	basis despite strong competition—the market can sustain it since it's connecting one
+1073840	1076440	wealthy area to another.
+1076440	1080380	Trans-Pacific fares, meanwhile, are some of the least expensive on a per-mile basis thanks
+1080380	1084620	to fierce competition from Asian airlines that enjoy low operating costs and strong
+1084620	1085940	state support.
+1085940	1091140	Therefore, Northern Pacific Airways is unlikely to be able to offer as strong a cost advantage
+1091140	1093660	relative to the market as Iceland air.
+1093660	1098100	However, especially for itineraries from the eastern half of North America or to the western
+1098100	1102860	parts of Asia, Anchorage has gone from a detour to directly on the route.
+1102860	1107380	Delta's flight from Detroit to Seoul, for example, used to take a 13-hour path over
+1107380	1112200	flying Russia, but is now having to route via a more southern 14-hour path over flying
+1112200	1113200	Anchorage.
+1113200	1118120	A passenger originating in Boston flying via Detroit to Seoul on this flight now has a
+1118120	1121040	roughly 19-hour itinerary.
+1121040	1125300	Northern Pacific, with eight hours from Boston to Anchorage, an hour for a connection, then
+1125300	1131040	nine hours onward to Seoul, will now be able to beat Delta by an hour—and even better,
+1131040	1134980	by operating two medium-length flights rather than one long and one short flight, their
+1134980	1139480	fuel burn per passenger will likely be lower, meaning they might be able to offer lower
+1139480	1140480	fares.
+1140480	1145180	Not only that, but they could now potentially expand their business model to Europe as well.
+1145180	1149680	A flight from Anchorage to London, Amsterdam, or Paris only takes nine hours, so coupled
+1149680	1154160	with a six-and-a-half-hour flight from Tokyo to Anchorage, this 17-and-a-half-hour total
+1154160	1158900	itinerary would only be two hours longer than the new, circuitous non-stops from western
+1158900	1162920	Europe to Asia, and would likely sell at a much lower cost.
+1162920	1167700	In comparison to an itinerary connecting from Paris to London to Tokyo, Northern Pacific's
+1167700	1169500	itinerary would likely be faster.
+1169520	1175240	Now, a European expansion for this as-yet-unlaunched airline is unlikely in the near-term, as their
+1175240	1179920	fleet will initially be composed of 757s that cannot confidently reach the major European
+1179920	1185960	airports, but if this new reality entrenches into the long-term, it's certainly an option.
+1185960	1189680	At the very least, though, this has raised the business model's status from one met
+1189680	1194920	with resounding skepticism among experts to one now considered potentially feasible.
+1195340	1200340	Now, the short of all these compounding implications is that, across the board really, from western
+1200340	1206060	travelers to all strata of Russian society, these changes are going to hurt.
+1206060	1209700	The decisions of a few, and the world's response to those decisions, have ensured
+1209700	1214660	we'll all feel the squeeze of closed airspace and aviation sanctions.
+1214660	1221180	Beyond the economics, though, February 24th, 2022 marks the end of a period of mostly sustained,
+1221180	1225120	mostly stable peace between world powers that allowed for unprecedented efficiency
+1225120	1230600	and standardization in the skies, and unmatched mobility and convenience for the traveler.
+1230600	1235080	The three decades of uniquely open and accessible airways are over.
+1235080	1241640	When, or more accurately if we're to return to such a time, at this point, is anyone's
+1241640	1242640	guess.
+1242640	1248000	If you're anything like me, you typically struggle to decide what to do at dinnertime.
+1248000	1252460	Should I have unhealthy freezer food, expensive take-out, or a time-consuming home-cooked
+1252460	1253460	meal?
+1253460	1257940	Of course, I no longer have to make this decision since, for the past two years, I've used
+1257940	1258940	HelloFresh.
+1258940	1263360	That's because it's simultaneously healthy, affordable, and quick.
+1263360	1268060	Each week, I select the meals I want on their app, then the next, a box arrives on my doorstep
+1268060	1271560	with all the ingredients needed in exactly the right quantities needed.
+1271560	1274740	This cuts out all your shopping time and a lot of your prep time so you get straight
+1274740	1275740	to the fun part—cooking.
+1276480	1280720	For example, I made this delicious buffalo spice chicken in under 30 minutes.
+1280720	1283480	Also, HelloFresh is a more sustainable choice.
+1283480	1287240	Unlike the grocery store, they offset all their emissions, their packaging is made out
+1287240	1291500	of recycled content, and a University of Michigan study found that the pre-portioned ingredients
+1291500	1295120	lower food waste by 25% compared to grocery shopping.
+1295120	1299060	All around, HelloFresh just makes mealtime better, and that's why I've been using
+1299060	1301160	them since long before they sponsored the channel.
+1301160	1304780	I recommend you try them out as well, which you can do with an insanely good deal when
+1304820	1309980	you click the button on screen or go to HelloFresh.com and use code WENDOWFOR16 for up to 16 free
+1309980	1312560	meals and three surprise gifts.

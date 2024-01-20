@@ -1,0 +1,93 @@
+start	end	text
+0	8020	Let's say there's a trolley and some tracks.
+8020	9780	On those tracks are five men.
+9780	13340	The trolley is barreling down these tracks and you know with absolute certainty that
+13340	15320	it will hit those five men.
+15320	18740	Although there is a sidetrack with one man on it.
+18740	20340	In front of you is a switch.
+20340	25000	If you push it, the trolley will change directions and strike and kill the single man.
+25000	29380	If you do nothing, the trolley will strike and kill all five men.
+29380	30820	What do you do?
+30820	35020	Do you play an active role but condemn the man on the left track to death or do you do
+35020	38960	nothing but allow five individuals to die?
+38960	41640	This is a classic ethics thought experiment.
+41640	45480	Most people agree that they should divert the trolley and kill the one man.
+45480	48240	It works for the greater good and mitigates risk.
+48240	52640	Now, in a different scenario, let's say you're standing on a bridge over the trolley
+52640	56480	tracks and once again there's a trolley barreling down towards five individuals on
+56480	58000	the track.
+58000	61500	Standing next to you is a man so fat that you know that, if you were to push him on
+61500	67140	the tracks, he would stop the trolley in its tracks and save the five individuals.
+67140	71700	Far fewer people say that they would push the man in this circumstance than say that
+71700	75140	they would divert the trolley in the first circumstance.
+75140	79980	They are just not comfortable taking such an active role in the fat man's death.
+79980	83900	These thought experiments are just hypotheticals and it's unlikely that anyone would ever
+83900	85420	have to make those decisions.
+85420	89720	However, ethicists and developers are now having to create algorithms to dictate what
+89720	94180	our autonomous cars of the future should do in similar ethical conundrums.
+94180	98420	Unlike humans, self-driving cars will have the ability to carefully choose their response
+98420	102560	to an oncoming collision and will need a set of pre-designated rules to dictate what they
+102560	106100	should do in the event of an unavoidable collision.
+106100	109400	One thought would just be to tell the cars to follow the laws.
+109400	113760	The problem with this is that there aren't really laws for these situations.
+113760	118480	Many laws are written concerning that ethics is a messy and fluid concept.
+118480	122680	When judging a situation, one can never really know what motivated an individual to choose
+122680	127180	a certain action, but with self-driving cars, we will be able to understand the decision
+127180	128880	making process.
+128880	133600	Additionally, following the laws could be harmful in some situations.
+133600	137900	For example, let's say a vehicle stopped at a traffic light and there's a pedestrian
+137900	140920	in the crosswalk directly in front of a car.
+140920	146500	The car detects that a truck is coming in too fast from behind and will hit the car.
+146500	149840	The car cannot move forward without hitting the pedestrian.
+149840	151480	There are two options.
+151480	156500	The car can do nothing, stay put, get hit by the truck, and therefore hit the pedestrian
+156500	162420	in front, or alternatively, the car can move forward, hit the pedestrian, but avoid being
+162420	164360	hit by the truck.
+164360	168520	From our perspective, it probably seemed right for the car to move and hit the pedestrian.
+168520	172580	However, this would mean that it was the car injuring the pedestrian now rather than
+172580	174180	the truck.
+174180	178800	This presents tricky legal and ethical questions on whether the car is now at fault for the
+178800	182340	injuries of the pedestrian or if the truck is.
+182340	187180	Given the laws we have now, it's possible that the fault would be laid upon the car.
+187180	191560	Another question is who is at fault for an accident with a self-driving car.
+191560	196080	Concerning that there isn't a human driving, is it the owner of the vehicle's fault?
+196080	199920	Now let's say that the pedestrian was moving fast enough that he would no longer be in
+199920	204680	front of the car at the time of impact between the truck and the car, but that, in order
+204680	208640	for the car to move out of the path before the time of impact between the truck and the
+208640	211960	car, it would need to hit the pedestrian.
+211960	216260	Is it now ethical for the car to injure the pedestrian even though the pedestrian would
+216260	219520	likely escape injury if the car didn't move?
+219520	222360	Does it depend on the number of people in the car?
+222360	226060	What if the car had a mother of three and the pedestrian was a felon?
+226060	231300	Would it be different if the car had a felon in it and the pedestrian was a mother of three?
+231300	235480	That's where these ethical questions become even messier.
+235480	239000	Another school of thought is that the self-driving car should be programmed to save the most
+239000	243540	human lives or cause the least possible injury, however there are issues with this solution
+243540	245260	as well.
+245260	247660	Let's think about another situation.
+247660	251720	Say there are two motorcycles coming down towards a self-driving car on a road that
+251720	255300	is too narrow for the different vehicles to pass each other.
+255300	259540	The car does not have enough time to slow down and there is nowhere to veer.
+259540	263100	One motorcyclist has a helmet on and one does not.
+263100	266940	Should the car hit the motorcyclist with the helmet on because his injuries might be less
+266940	271120	severe or should the car hit the motorcyclist who does not have a helmet on because he did
+271120	273160	not properly protect himself?
+273160	276900	If cars were programmed to hit the motorcyclist with the helmet, that would mean that in a
+276900	280280	way it would become safer to ride without a helmet.
+280280	285020	It's a tricky situation altogether and a real ethical conundrum.
+285020	289940	It's very difficult for humans to explain or justify the rules behind our own ethics,
+289940	293960	so that's why these questions are so difficult to answer.
+293960	299880	For this reason, a proposed solution to program self-driving cars is moral modeling, essentially
+299880	302280	programming by example.
+302280	307720	The computer would be presented with a situation and a human, or ideally an ethics board, would
+307720	311380	tell the computer what the ethical solution would be.
+311380	315980	Over time, the computer would learn how to emulate the ethics of a human and essentially
+315980	319560	make the same decisions that a human would make.
+319560	324020	These are all situations that are very unlikely to happen, but with how prevalent autonomous
+324020	328280	cars are likely to become, the algorithms that will determine how to crash could choose
+328280	331200	the fate of dozens of lives each year.
+331200	336820	However, autonomous cars are predicted to save upwards of 30,000 lives per year once
+336820	338740	they are widespread.
+338740	344080	These ethics may become a hotly contested issue in a few years, however if these negotiations
+344080	349600	prevent or slow down the spread of driverless cars, many more lives could be lost than would
+349600	369500	ever be determined by the so-called death algorithms.

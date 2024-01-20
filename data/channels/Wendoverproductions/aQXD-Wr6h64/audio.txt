@@ -1,0 +1,332 @@
+At base, every military has defensive capabilities—they're able to protect their homeland from foreign
+threats.
+Iceland's armed forces, for example, comprise four ships, one airplane, three helicopters,
+and four radar stations—all operated by the country's coast guard.
+Beyond a small paramilitary peacekeeping unit made up of volunteers, the nation has nearly
+no capabilities to deploy abroad—in fact, its constitution doesn't even have a mechanism
+to declare war.
+Some militaries build on their defensive capabilities with limited expeditionary posturing—ability
+to wage a small-scale operation abroad.
+This requires an expensive mix of training, equipment, and planning.
+Whereas domestic capabilities can be permanent and stationary, all expeditionary capabilities
+inherently must be designed to be temporary and mobile.
+This spans from the ability to fire a missile to the ability to cook up breakfasts, which
+raises costs and complexity dramatically.
+For this reason, large-scale expeditionary capabilities are largely confined to the largest,
+best-funded militaries like those of France, Mexico, or Canada.
+But then there's the US military—it is in a class of its own.
+Whereas most nations can defend at home and some can deploy abroad, the US military has
+a rather singular strategic posture—they have essentially turned the entire world into
+home turf.
+Their goal is complete—it's the ability to fight any sort of fight, in any location,
+at any moment.
+To an American that might sound like the inherent function of a military, but it's a uniquely
+US approach—most militaries are merely designed to respond to relevant regional threats and
+can scale up to wage a war abroad if necessary.
+To be able to fulfill this all-encompassing mission, the US military has a degree of flexibility
+and globality unmatched by any other, which incurs a near endless array of exceptional
+costs for the force.
+They pay to produce their own private label of chicken tenderloins and ship it all around
+the world to places like this base in southeastern Turkey because they run a grocery store there
+because they have thousands of service members stationed there because that's where they
+keep about 50 nuclear warheads in case they decide to use one in Europe, Africa, the Middle
+East, or elsewhere.
+They pay for professional sports teams to incorporate patriotic ceremonies honoring
+past and present service members into their games in order to help boost recruiting to
+the level needed to staff all their roles worldwide.
+They pay to develop an occasionally viral bipedal humanoid robot because they believe
+that in the future they can gain a competitive advantage against other forces by having these
+robots integrate into their ranks and fulfill the most dull, dirty, and dangerous tasks.
+These costs grow and grow atop each other, and then span all around the world.
+From a spatial and logistical standpoint, covering the globe is nothing less than a
+monumentally challenging and expensive task.
+Then, there's the temporal component—making sure that the right soldiers with the right
+weapons and technology are in the right locations requires a predictive approach and proactive
+planning, and predicting what future warfare looks like, then preparing for it, is also
+an extremely expensive endeavor.
+Take, for example, the USS Freedom, a first-of-its-kind littoral combat ship commissioned in 2008.
+At just under 400 feet or 120 meters long, what this ship lacks in size, it more than
+makes up for in design complexity and state-of-the-art technology.
+This ship represents two entire decades of planning and predicting, researching and developing,
+contracting and commissioning—a nearly inconceivable dedication of time and resources, but one
+that begins to make sense when considering the expectations.
+When conceived of in the 1990s, the littoral combat ship was meant to lead the American
+Navy for the next half-century.
+With the Cold War coming to a close, the US Navy had found itself over-indexed in warships
+designed to patrol and battle on the high seas.
+Suddenly without a comparable rival, the US was the world's single naval superpower,
+and its fleet needed to reflect this new order.
+Now the new preeminent war was pirates, terrorists, and gunrunners zipping along coasts, requiring
+something nimble, fast, and flexible enough to keep pace in the in-between—the coastal
+waters, where threats were diverse and warfare often asymmetrical.
+To fill the void, Navy officials presented two ideas—the DD-21, a larger ship capable
+of holding its own on tight coastal waters, or what planners called the Street Fighter—a
+smaller, sleeker, and critically cheaper option.
+From the jump, these Street Fighters were more appealing—they'd require smaller
+crews, they'd be fast, capable of surprising enemies, they'd be stealthy, and with the
+advent of new hull technology, they'd be light enough to push 45 knots while still
+having ocean-wide range and carrying a payload.
+If that wasn't enough to future-proof such a concept, they'd be modular too, capable
+of switching weapons systems and kits to fit different missions, from surface combat
+to minesweeping.
+But still, by 2000, such a Street Fighter was just a concept—a concept that the Navy
+quickly turned over to private contractors after it proved too difficult to actualize
+in-house.
+Entering agreements with both General Dynamics and Lockheed Martin to each produce two ships
+in two separate models, the Navy handed the project off to the private sector, assuming
+the competition between the two for future LCS contracts would produce a 21st century
+mainstay.
+While the daunting scope had begun to add to the price tag, the Navy hoped these ships
+could come in relatively cheap by shipbuilding standards—somewhere between $150 to $225
+million per unit.
+By 2009, the US had two ships—one from each contractor, but not four, as budget overrun
+on both models was so extreme that the Navy cancelled the contracts for the second of
+each.
+What was supposed to be in the $200 million at most had ballooned to about double the
+price.
+The issue was, however, the LCS remained a critical cog in the planned new-age Navy fleet,
+and they needed to buy a lot more than two—56 of them, in fact, or 82, or 63, or 55, or
+most recently 52, depending on their evolving ship-force structure projections.
+But no matter how many, they needed a lot, and needed them fast, as LCSs were expected
+to replace old minesweepers and outdated frigates.
+And rather than settling on a single class of LCSs previously planned to incentivize
+competition, they proposed Congress an alternative—what they called a dual-award strategy, offering
+each company a 10-ship contract over the next five years.
+All the while, the problems with the Navy's current LCSs were already beginning to show.
+As a general rule in shipbuilding, a ship can have range, it can have speed, and it
+can have a heavy payload, but it can't have all three at once.
+With speed as a principal mandate, both General Dynamics and Lockheed Martin had to get creative
+and make sacrifices.
+While both classes are able to reach an incredible 44 knots—some 10-15 more than a typical
+Navy ship—they made separate design choices to get there.
+For the Independence class, this meant a unique aluminum trimaran hull.
+As for the Freedom class, while Lockheed Martin went with a more conventional steel monohull,
+it innovated on the drivetrain side, developing a complicated combining gear that connected
+the ship's diesel engines with its gas turbines.
+Both designs were innovative, but both had problems.
+Aluminum hulls, it turns out, are brittle, and at speeds of higher than just 15 knots
+or on rough seas, they may well crack.
+As for the combining gear, well, they were hard to keep running, as the components were
+buried so deep in the ship that maintenance staff could hardly reach them, and when they
+broke down, as they did early and often, they were so complicated that Navy personnel had
+to wait around for Lockheed engineers to diagnose the problem and come up with a solution.
+Then there was the issue of survivability.
+Built as a combat ship, the LCS was intended to reach Level 1 survivability—the ability
+to continue operations after an underwater explosive attack.
+In 2010, the same year it pushed for the congressional greenlight for 20 more of these ships, the
+Navy conceded that the ships already produced hadn't reached Level 1 survivability.
+And still, it got worse.
+In the rush to get these ships on the water, no time was taken to ensure that all the ship
+modules actually worked.
+When they did get to testing the modules, it turned out they didn't.
+The anti-submarine warfare module proved unreliable because the ship itself is so loud that the
+towed sonar can't reliably pick up any other noise.
+Similarly, the mine countermeasures mission package, which relies on onboard sensors and
+an unmanned influence sweep system, has been plagued with delays, breakdowns, and a penchant
+for causing false alarms.
+What was supposed to be an endlessly customizable ship, capable for surface combat, submarine
+hunting, and minesweeping, has effectively been rendered just a gunship that can't
+take a hit.
+Regardless of these varying limitations, as of 2023, the US Navy has purchased 30 LCSs.
+They've broken down at sea, they've bumped into walls at the Panama Canal, they've
+spent a winter stuck in an iced-over St. Lawrence River, they've run a handful of minor missions,
+and they've averaged about half a billion per ship to build.
+For a ship that was supposed to be the future, the Littoral Combat Ship has proved nothing
+short of a disaster—a reality the Navy's finally begun to come to grips with by decommissioning,
+or working towards decommissioning, nine of the vessels.
+The LCS, by all metrics, has failed to live up to its lofty billing.
+And it has failed publicly and expensively.
+But it's far from the only decades-long development project that's fallen on its
+face.
+Boeing-Sikorsky won the contract to build the Comanche helicopter in 1991, but after
+a decade of work and $7 billion being poured into the project, only two prototypes ever
+actually left the ground.
+As for America's first stealth destroyer, the Zumwalt, its gun system has yet to prove
+the range it's promised, its missile system can't hit targets consistently, and its
+guided shells cost a prohibitive $800,000 per unit.
+With similarly high hopes as the LCS, the Zumwalt project was eventually cut after only
+three ships were built.
+Then, most famously, the F-35, the joint strike fighter, adaptable, future-forward, state-of-the-art,
+has seen one technical glitch and one busted budget after the next for two whole decades,
+its cost ballooning to 89% over what was initially predicted.
+And the list goes on with countless other smaller, multi-billion dollar projects.
+To a certain extent, such mistakes and miscalculations make sense when working to invent the future
+of warfare.
+Expensive swings and misses are part of the development process.
+But it wasn't always this way, and, increasingly, it seems the swings have gotten bigger and
+the misses more frequent.
+When the Department of Defense wants a ship or a plane or a weapons system built, there
+is a select group of five companies it typically turns to—Lockheed Martin, Raytheon, Northrop
+Grumman, Boeing, and General Dynamics.
+Excluding Boeing, all these companies earn the majority of their revenue from US or Allied
+military contracts, which only happen with the approval of the US.
+But even excluding foreign defense revenue, 71% of Lockheed Martin revenue, for example,
+comes from the US government.
+That translates to $47.5 billion a year.
+Put another way, Lockheed Martin is given more by the US government each year than NASA,
+a major government agency.
+In fact, if the defense contractor was a government agency, it'd be the 24th largest—it gets
+more money from the US government than the majority of government agencies.
+But unlike agencies, thanks to this business, Lockheed Martin profits nearly a billion dollars
+a month, but war wasn't always such a profitable venture.
+Technology was what brought the private sector to battle.
+Whereas in centuries past militaries were primarily defined by human might, the advent
+of airplanes marked perhaps the biggest instance yet of a non-military technology that could
+be used to gain a militaristic advantage.
+During and after World War I, a number of fledgling aerospace companies gained modest
+contracts with the US military, contributing to annual overall production counts in the
+dozens or hundreds.
+But then came World War II.
+Suddenly, the US and its allies needed as many planes as they could get, and with that,
+the US government started awarding colossal contracts to anyone who could build an aircraft—Lockheed,
+Goodyear, McDonnell, Douglas, Boeing, Hughes, Grumman, Northrop, Vought, Convair, and more.
+While all these companies had existed in some form prior, the war was, for all intents and
+purposes, what established them.
+McDonnell, for example, went from 15 employees to 5,000, Hughes went from 4 to 80,000.
+As a sum, whereas in the six years leading up to the war, the US built a mere 20,000
+aircraft, during it, the country's manufacturers produced a massive 300,000.
+But then the war ended, and this was bad for business.
+Aircraft manufacturers immediately struggled.
+Some shifted towards civilian aviation, others refocused on auto manufacturing, others still
+consolidated, while the US government searched for contracts that could be used to keep this
+new industrial sector, which played no small part in the Allied victory, afloat.
+Rather quickly, though, a new conflict emerged—the Cold War.
+In its early days, rumors arose that the Soviet Union had produced an inconceivable quantity
+of long-range bombers.
+As the world had now entered the nuclear age, this massively concerned American media, the
+public, and ultimately Congress, it was believed that their newfound enemy could straight-up
+eradicate the US.
+In response, Eisenhower ordered an immediate ramp-up of American bomber production and
+agreed to a Lockheed proposal to develop the U-2 high-altitude surveillance aircraft.
+It would fly over the Soviet Union undetected, at least theoretically, and get a definitive
+answer to just how formidable their bomber fleet had become.
+The answer was not much—it was a mere fraction of what had been speculated, but Lockheed
+and other manufacturers had already cashed their checks, so the answer meant little to
+them.
+A near-identical story emerged just a few years later with missiles.
+The Soviets had launched Sputnik, and the Democrats of the era used the event to propagate
+a narrative that Eisenhower and his Republican Party were falling behind Soviet technological
+development.
+John F. Kennedy, in the run-up to the 1960 presidential election, latched on to inflated
+estimates of Soviet missile capabilities leaked from the Air Force and started to make the
+perceived imbalance a central part of his campaign—he argued that his political foes
+were ignoring this threat and the American public believed him.
+Even after having received definitive evidence to refute this fact, he continued the rhetoric—it
+was just so useful politically, which contributed to an acceleration of US missile development.
+This was a much-needed windfall for US aerospace companies given the waning need for high-volume
+aircraft development.
+It was this very incident, in fact, that precipitated the first use of the phrase military-industrial
+complex in Eisenhower's farewell address, where he warned of the phenomena's danger.
+The subsequent escalation of the Cold War kept the defense industry alive and kicked
+off an era of growth as US military spending started to consistently increase, but then
+the wall came down.
+With no more Cold War, the DoD warned contractors of massive cutbacks in spending.
+This kicked off a feeding frenzy of consolidation and acquisition as the industry prepared to
+weather what they believed would be the first sustained period of peace in their existence.
+Defense spending did decrease, but only slightly, and only for a moment.
+9-11 and the ensuing wars quickly returned the US to the historical trend of near-perpetual
+spending build, and today, with these wars largely wrapped up, the new most popular justification
+for military spending is growing Chinese military might.
+Now, many of these supposed threats may be legitimate, but it's tough to know with
+confidence because the defense industry, its lobbyists, and politicians are incredibly
+effective at shaping public discourse.
+In fact, the vast majority of the top think tanks are funded, at least in part, by defense
+contractors.
+These same think tanks are what are used by politicians and the media as supposedly expert
+justification for funding to counter new emerging threats.
+Ignoring, for the moment, the more unknowable question of whether warmongering for the sake
+of defense industry profits is effective in practice, it's undeniable that the incentive
+structures are certainly there.
+But perhaps the best evidence for this phenomena's influence is the fact that, inflation-adjusted,
+today's military spending is approaching World War II levels despite no active US involvement
+in any major conflicts.
+Of course, one can still debate whether this level of spending is justified by the present
+geopolitical landscape, but what's undeniable is that taxpayers are getting less and less
+for their money.
+There was a time when defense spending had undeniably massive downstream effects.
+The US military was a major financial force behind the development of world-changing innovations
+like nuclear technology, GPS, and the internet.
+In fact, in the 1960s, a full third of the entire world's research and development
+funding came from US defense-related spending.
+But today, that share has shrunk to a mere 3%, and what was once perhaps the most innovative
+force in the world has become downright bad at it.
+The US auto industry, for example, has quickened its pace of development—it now gets a car
+to market faster.
+The US commercial aircraft industry has trended slightly slower, yet in the realm of military
+aircraft, something dramatic has occurred.
+What used to take three or five or seven years now stretches into decades.
+A key part of the problem is that the government has taken the inefficiencies of the public
+sector and pushed them into the private sector, where they can be profited upon.
+When developing a new generation of aircraft or ship or anything, the DoD sets strict parameters.
+That flips traditional incentive structures—most industries see the private sector innovate
+in order to create new products that their customers will want.
+In this case, the customer tells the private sector exactly what they want, and this industry
+spends heavily on lobbyists, many of whom used to work for the DoD, in order to shape
+contracts towards what they can build with minimal risky research and development, therefore
+stifling innovation.
+But even then, the risk for the contractor is mitigated further because a big chunk of
+contracts are awarded on a cost-plus basis.
+That's to say, the government pays for what it costs to build a given technology,
+then the contractor gets a percentage on top of that, as profit.
+This directly disincentivizes cost efficiency, as the more a project costs, the more the
+contractor makes.
+Of course, in normal industries the contractor would still be incentivized towards efficiency
+in order to win the next contract, but in this industry, two-thirds of major weapon
+system contracts, for example, are bid upon by just one company, while yet more contracts
+are awarded without a competitive bidding process.
+Perhaps most egregiously, it's well understood that some contracts are awarded to struggling,
+ineffective companies simply because the US government does not want that company to go
+bankrupt and therefore for its manufacturing capabilities to be lost.
+This is perhaps one of the strongest justifications for the spending—the US military cannot
+afford for Lockheed or Boeing or Raytheon or the other contractors to go bankrupt because
+they are the only companies in the world capable of producing the technologies that bestow
+the fighting force with such a technological advantage.
+So, a situation has been crafted where these companies are too important to fail, and they
+know that, so they can profit off of their necessity rather than their effectiveness.
+The aforementioned only scratches the surface of the deep web of incentives that keeps the
+military-industrial complex alive, but at its core, it's as simple as this—it is
+good for politicians politically, and good for contractors economically, to create the
+perception of problems that simply do not exist.
+No one gets punished when a threat does not materialize—in fact, they can argue that
+their response, upon which they profited politically or economically, mitigated the threat.
+Meanwhile, individuals are punished when a threat they argued did not exist materializes,
+disincentivizing anyone from doing so.
+Fear is an incredibly powerful emotion, and, at its core, the military-industrial complex
+has created an incredibly effective system to capitalize upon it.
+As you might have noticed, the last Wendover video is no longer on YouTube.
+It's a somewhat long and frustrating story, but to summarize, there was a quick clip in
+it where you could see some personal info on a passport.
+YouTube's harassment and cyberbullying policy includes a provision against sharing personally
+identifiable information such as this, and even though it was clearly unintentional,
+the video was taken down as a policy strike, which seems fair given the wording of this
+policy.
+Unfortunately, unlike with most privacy issues on YouTube videos, because this was taken
+down as a policy strike, there is no ability for us to rectify the issue even though it
+could be done with a quick blur, so the video is down permanently, at least on YouTube.
+You see, a couple years ago, some creator friends and I got together to try to both
+build on the best parts of YouTube and rectify some of its issues.
+We called it Nebula, and it's gone fantastically, with over half a million subscribers, hundreds
+of thousands of monthly active users, Streamy Award nominations, and more, but one small
+way we improved from YouTube was by adding this—a little button on our backend that
+allows the creator to swap files on a video to correct mistakes, make improvements, or,
+in this case, blur that passport, so the video's still up on Nebula.
+But we also designed the platform with a unique business model that allows us to fund higher-budget,
+exclusive content, so another video that's up on Nebula is the latest episode of the
+Logistics of X about arms manufacturing.
+It builds on this video's topic to show the nitty-gritty of how the US military and
+its industry partners manufacture and distribute the physical weapons of war without those
+weapons endangering anyone along the way.
+Clearly you made it to the end of this video, so I know you'll enjoy that one, as it was
+written from the beginning to appeal to those that enjoyed this video.
+We have a huge slate of originals incoming over the next couple months, plenty of which
+I'm sure you'll want to watch, then, in addition to the Logistics of X, we have perhaps
+the most ambitious, highest-budget Wendover original to date in pre-production right now.
+And if all that's not convincing enough already, it's worth mentioning that we designed
+Nebula to really be worthwhile not only to you, the viewer, but also to the creators.
+When you sign up at our link, we'll get a portion of your subscription revenue for
+as long as you stay subscribed, which gives us stable, predictable monthly revenue that
+we can rely on for growth, unlike with the ebbs and flows of ad rates.
+So, if you'd like to get access to Nebula's huge catalog of original content and help
+support the channel, just click the button on screen or head to Nebula.tv slash Wendover,
+and when you do, you'll get 40% off an annual plan, which brings the cost down to under
+$3 a month.

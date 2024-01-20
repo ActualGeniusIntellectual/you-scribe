@@ -1,0 +1,179 @@
+This video was made possible by Hover.
+Get your custom professional-looking email address for 10% off at hover.com slash wendover.
+About one year ago, in mid-March 2019, Boeing's 737 MAX was quickly and unceremoniously grounded.
+This was hugely significant in quite a few different ways.
+For Boeing, the MAX was the newest generation of their most popular aircraft series and
+its difficulties place a huge stain on the company's stellar safety and reliability
+record.
+Meanwhile, for the US, it halts growth at one of the country's largest companies and
+employers, and then beyond that, for the worldwide aviation industry, it puts 387 aircraft on
+the ground at a time of continued growth for most every airline worldwide.
+Everyone knows why the 737 MAX was grounded by now—faulty sensors would, in particular
+circumstances, indicate incorrect information to software which would respond by sending
+the aircraft into a nosedive.
+What's less known is how Boeing will get the 737 MAX flying again.
+In addition to the 387 aircraft that were flying prior to the grounding, Boeing kept
+production going for nine months after this so there are about another 400 completely
+assembled aircraft sitting on every empty piece of tarmac outside Boeing's factory.
+Aircraft are not built to sit around.
+Except for the occasional longer period of maintenance, most commercial aircraft won't
+go a day in their lives without taking the skies, but in this case, aircraft will have
+sat, abandoned, for more than a year by the time the MAX is cleared to fly again.
+The process of getting those 800 aircraft to the skies will not be quick or easy.
+Getting the MAX flying again is also more complicated than just gaining the FAA's
+approval for their fixes.
+One commissioned survey found that 70% of American travelers say they will avoid flying
+on the MAX, even when it is recertified.
+Boeing has to persuade regulators it can fly, and then it has to persuade the public it
+can fly.
+It will be a massive, monumental effort by the company and the airlines.
+The first thing that we don't know about the 737 MAX's return is when it will happen.
+When it was first grounded back in March 2019, Boeing expected the aircraft to be flying
+again in a matter of weeks.
+Since then, the date of return has been pushed back and pushed back and pushed back again.
+At the time of writing, Boeing says the aircraft will fly again in mid-2020 but, just like
+every time before, it's quite possible that it will slip further.
+Another unknown is exactly how, from a technical standpoint, Boeing will fix the issues that
+caused the two crashes, in addition to a number of other issues that have been identified
+since then.
+What we do know is that, once Boeing is satisfied that it has indeed reached a solution, it
+will notify the FAA and schedule a certification flight.
+For this, Boeing will provide one 737 MAX aircraft with any and all physical and software
+tweaks installed, and FAA pilots will take to the skies to determine if the fixes are
+satisfactory.
+What will follow is a short, few-day analysis period and, assuming the fixes seem to be
+working, the process will be passed on to the Joint Operations Evaluation Board.
+This is a FAA-run group made up primarily of 737 MAX pilots from around the world whose
+job it is to determine what sort of training pilots will need before flying the 737 MAX
+again.
+These pilots will each try the fixes in a simulator in order to have first-hand experience
+and then, after about two weeks, the board will pass their recommendation onto the FAA's
+State Standardization Board who will incorporate the recommendations into a report.
+It is this step that is expected to establish a tremendous hurdle to the MAX's re-entry
+to service.
+It is expected, on Boeing's recommendation, that the FAA will require simulator training
+before MAX pilots can fly the aircraft again.
+It'd be easy to underestimate how significant this is.
+The entire MAX aircraft was designed around assuring that pilots would not need simulator
+training.
+Boeing wanted the MAX to seamlessly fit into the airline's fleet of older 737 aircraft
+so that the same pilot who flies a 30-year-old 737 can fly a brand new 737 MAX.
+That's because pilot training is hugely expensive and so a lack of need for it would,
+by extension, lower the cost of operating the 737 MAX to airlines.
+Boeing boasted in marketing materials that it would take only two days of computer-based
+training to certify an existing 737 pilot to fly the MAX.
+The push for limited training was even a major factor behind the implementation of the MCAS
+system that caused the two MAX aircraft to crash.
+They wanted the plane to fly like it was any other 737 even though, without electronic
+intervention, it did not.
+Because of all of this, very few 737 MAX simulators were made.
+Only two companies manufacture them—CAE and True Simulation.
+The simulators are not a whole lot cheaper than the aircraft themselves.
+A full-movement 737 MAX simulator is estimated to cost up to $15 million and therefore the
+hourly cost to run one of these is in the thousands.
+They're just hugely complicated machines to develop to the level that they accurately
+mimic the flight characteristics of a real aircraft.
+Accuracy is what is needed in order to use them for training in place of a real plane
+which, given fuel, cost airlines quite a bit more to run, but given the little prior
+demand for 737 MAX simulators, only 34 exist worldwide.
+Just as an exercise, say 5,000 pilots are needed to fly the 387 grounded MAX aircraft.
+If ten hours of simulator training are needed and every simulator in existence is used 24-7,
+it would take two whole months to get those pilots trained.
+In reality, pilot numbers are likely larger, necessary training hours could be higher,
+and efficiency will be lower.
+Simulator training will be a huge bottleneck to the re-entry process.
+Many MAX operating airlines own their own simulators, but many others do not.
+For example, Eastarjet, a South Korean operator, does not and therefore needs to find simulator
+availability in order to get their planes flying again.
+For the simulators owned by airlines, their owners are undoubtedly going to prioritize
+their own pilots for training first, so those won't have availability for quite a while,
+while among simulators owned by training centers, these centers are much more likely to want
+to please a huge airline like American Airlines than tiny Eastarjet.
+Many of these smaller airlines are going to be at the end of a long list to get their
+pilots trained.
+Even the big airlines will be sending their pilots to all corners of the globe to get
+simulator time.
+Fiji Airways, for example, owns a simulator in Fiji and will quickly be able to train
+all their pilots, and therefore other airlines are lining up to pay big money to use it.
+Other simulators with availability also exist in Iceland, Panama, and more, so airlines
+are scouring around the world for anyone who will give them hours.
+This is all, of course, though, dependent on what exactly the FAA Flight Standardization
+Board decides is required to train pilots.
+Sometime soon after the conclusion of that phase in the process, the FAA will issue an
+Airworthiness Directive.
+This is the official order that says, for one, that the MAX can fly again, but it is
+also the final and definitive document outlining what steps airlines need to take in terms
+of aircraft modification and training so their specific aircraft and pilots can fly again.
+This directive, though, does not mean work is over and the hundreds of grounded aircraft
+can fly again—quite the opposite, in fact.
+This is where the real work begins.
+All of the 387 grounded aircraft have been just sitting there, largely abandoned.
+Keeping them each in the same state of maintenance as an aircraft actively flying in a given
+airline's fleet would be hugely expensive, so most operators have largely left their
+aircraft be.
+Therefore, each aircraft needs to go through a process of testing all systems and components,
+in addition to a deep clean, to be sure they're truly ready to fly.
+They also, of course, need to have Boeing's revised software installed.
+This whole process is expected to take, for each aircraft, up to two weeks.
+As soon as airlines know with relative certainty the timing of the MAX's re-entry, they're
+likely to shuffle resources around to dedicate as many mechanics as possible to aircraft
+re-entry.
+That could mean delaying heavy maintenance on other aircraft.
+Boeing will also have to go through an even more exhaustive process for the 400 or so
+MAX jets that they have built since the beginning of the grounding that now sit at their factories
+undelivered.
+Each of these aircraft are at a stage just short of completion.
+They're built, for the most part, but still significant amounts of work need to be done
+before they're ready to be delivered to customers.
+Clearing that backlog is expected to take about a year.
+Following this, airlines will need to rework the MAX into their schedules.
+If the re-entry happens during the most profitable summer season, one could expect this to happen
+quite quickly, possibly even with airlines scheduling extra flights given the extra capacity.
+If it's in the less busy times of year, though, it could be quite a while before the
+MAX is fully reincorporated into airline schedules, which are planned sometimes years in advance.
+The biggest unknown, though, happens when the MAX is back in service.
+Will passengers fly on the beleaguered aircraft?
+History says yes.
+After other popular aircraft have been grounded in the past for safety reasons, there has
+never been a serious issue with the consumer boycott of the plane type, but passengers
+do have something that they didn't have back decades ago in similar cases—information.
+For one, never has an aircraft grounding been such a media event.
+In addition, before the last few decades, flight bookings typically happened through
+a travel agent and the consumer wouldn't really know which aircraft type they were
+booked on.
+Nowadays, booking online, aircraft type is clearly displayed and given the choice, a
+consumer might choose to fly on other aircraft over the MAX.
+Finally, social media has the power to escalate groupthink in such a situation.
+One video of a passenger having an anxiety attack upon learning they're flying on a
+737 MAX could go viral and cause mass anxiety.
+Boeing is preparing for all of this.
+They've been developing a plan for how to respond to passenger anxiety anywhere from
+during the booking process to in-flight.
+Part of the plan includes monitoring social media and, if a passenger is publishing concerns
+in-flight or in the airport, responding to this digitally and notifying flight crew about
+the individual.
+They also plan on having employees distribute small cards with information on the aircraft
+safety and the changes to anyone anxious, in addition to creating explainer videos for
+those who want to learn more.
+Boeing will also no doubt spend huge amounts of resources conducting a public information
+campaign to quell concerns about the aircraft because, if passengers won't fly the aircraft,
+airlines won't buy it.
+Truly everything is on the line for Boeing with this re-entry.
+The aircraft is Boeing's cash cow and the entire company is centered around it.
+What's just been described is only the plan, and if any step in it fails, the entire process
+failed.
+Few things have gone to plan with the 737 MAX so far, so the stakes for Boeing have
+never been higher.
+There are certain things that delineate the level of professionalism one is perceived
+to have online, one of which is certainly their email address.
+Having an address ending in Gmail or Outlook or iCloud just looks amateur, especially given
+how easy it is to get an email address ending in a custom domain.
+All you have to do is go to hover and find a custom domain you like.
+For example, I use wendover.productions.
+Then, after purchasing that in about 90 seconds, it takes about 30 seconds to set up your email
+address.
+You'll also, in the process, have a custom domain that you can use for any future website.
+Hover also has hundreds of domain extensions so you can really get creative with your domain.
+Hover is made to be simple, and your decision to get a custom email is also made simpler
+by the fact that, by going to hover.com slash wendover, you'll get 10% off their already
+reasonable prices and help support Wendover Productions.

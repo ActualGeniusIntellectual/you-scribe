@@ -1,0 +1,712 @@
+1
+00:00:00,000 --> 00:00:03,020
+This video was made possible by Blue Apron.
+
+2
+00:00:03,020 --> 00:00:08,520
+The first 100 people to sign up using the link in the description get three free delicious
+
+3
+00:00:08,520 --> 00:00:11,160
+fresh meals from Blue Apron.
+
+4
+00:00:11,160 --> 00:00:15,760
+In 2004, the American Highway Users Alliance published an article claiming that the Katy
+
+5
+00:00:15,760 --> 00:00:21,000
+Freeway in Houston, Texas was the second most congested road in America.
+
+6
+00:00:21,000 --> 00:00:28,360
+Drivers spent a combined 25.4 million hours every year sitting in traffic on that road.
+
+7
+00:00:28,360 --> 00:00:30,600
+That's 36 lifetimes worth.
+
+8
+00:00:30,600 --> 00:00:37,240
+It was an absolute embarrassment of a road for Texas, so they decided to spend $2.8 billion
+
+9
+00:00:37,240 --> 00:00:41,880
+to expand it to 28 lanes making it the widest highway in the world.
+
+10
+00:00:41,880 --> 00:00:45,180
+All this extra capacity would surely fix the problem.
+
+11
+00:00:45,180 --> 00:00:50,080
+More lanes means more room for more cars which means shorter travel times, right?
+
+12
+00:00:50,080 --> 00:00:51,620
+Unfortunately not.
+
+13
+00:00:51,620 --> 00:00:59,220
+Between 2011 and 2014 alone, travel times on the Katy Freeway increased by up to 55%.
+
+14
+00:00:59,220 --> 00:01:04,900
+It now takes an average of 64 minutes to drive the 28 miles between downtown Houston and
+
+15
+00:01:04,900 --> 00:01:07,180
+Katyland during the afternoon rush hour.
+
+16
+00:01:07,180 --> 00:01:10,580
+That's up from 41 minutes in 2011.
+
+17
+00:01:10,580 --> 00:01:15,020
+The problem with this project was that the solution violated the fundamental law of road
+
+18
+00:01:15,020 --> 00:01:18,600
+congestion—more lanes mean more traffic.
+
+19
+00:01:18,600 --> 00:01:20,820
+This probably seems counterintuitive.
+
+20
+00:01:20,820 --> 00:01:25,100
+The more lanes there are the higher the capacity a road has so cars should be able to drive
+
+21
+00:01:25,100 --> 00:01:28,780
+faster, but that's a very narrow analysis of the problem.
+
+22
+00:01:28,780 --> 00:01:31,680
+You can't just think about how this would work on one road.
+
+23
+00:01:31,680 --> 00:01:34,820
+You have to think about it in the context of a whole city.
+
+24
+00:01:34,820 --> 00:01:38,100
+Many people choose not to drive places because of how long it takes.
+
+25
+00:01:38,100 --> 00:01:42,260
+If the traffic is bad, they can take public transit or wait until a less busy time or
+
+26
+00:01:42,260 --> 00:01:43,820
+just not travel at all.
+
+27
+00:01:43,820 --> 00:01:48,540
+When a road is expanded, travel times initially decrease so all those people who chose not
+
+28
+00:01:48,540 --> 00:01:53,220
+to drive or to take an alternate route or whatever decide to switch to using that newly
+
+29
+00:01:53,220 --> 00:01:54,540
+expanded road.
+
+30
+00:01:54,540 --> 00:01:59,740
+What's fascinating about roads is that this happens at a perfect one to one ratio.
+
+31
+00:01:59,740 --> 00:02:04,580
+If the capacity of a road doubles, the amount of people using that road will also double.
+
+32
+00:02:04,580 --> 00:02:07,560
+If it doubles again, the amount will again double.
+
+33
+00:02:07,560 --> 00:02:10,460
+Of course, if you kept doing this over and over again you would eventually build a big
+
+34
+00:02:10,460 --> 00:02:14,660
+enough road that there wouldn't be any more cars to fill the road, but in the real world,
+
+35
+00:02:14,660 --> 00:02:20,260
+with a demand for roads far outstripped supply, drivers will adjust to any change in road
+
+36
+00:02:20,260 --> 00:02:21,360
+capacity.
+
+37
+00:02:21,360 --> 00:02:23,040
+So does that mean it's hopeless?
+
+38
+00:02:23,040 --> 00:02:25,180
+Is there no way to solve traffic?
+
+39
+00:02:25,180 --> 00:02:28,380
+No way to make our roads better and safer and more efficient?
+
+40
+00:02:28,380 --> 00:02:31,020
+Well no, there's plenty we can do.
+
+41
+00:02:31,020 --> 00:02:35,140
+Here's the thing about traffic—it slows down exponentially.
+
+42
+00:02:35,140 --> 00:02:41,260
+The 20,000th car on the road slows down traffic overall significantly more than the 5,000th
+
+43
+00:02:41,260 --> 00:02:42,260
+car.
+
+44
+00:02:42,260 --> 00:02:47,340
+As a major driver for a lot of jams, a small addition of cars leads to a large addition
+
+45
+00:02:47,340 --> 00:02:52,580
+in congestion, but it also makes solving traffic a bit easier since you only need to remove
+
+46
+00:02:52,580 --> 00:02:57,340
+a small amount of cars from the road and that's just what ramp meters do.
+
+47
+00:02:57,340 --> 00:03:01,020
+Ramp meters are set up on the on-ramps of highways to restrict the amount of people
+
+48
+00:03:01,020 --> 00:03:02,440
+getting on the highway.
+
+49
+00:03:02,440 --> 00:03:06,560
+They usually let one car on every five or six seconds.
+
+50
+00:03:06,560 --> 00:03:11,260
+Since the amount of cars actually on the highway is kept down, the highway stays at its most
+
+51
+00:03:11,260 --> 00:03:12,420
+efficient speed.
+
+52
+00:03:12,420 --> 00:03:16,220
+Minnesota did an experiment where they shut down their long used ramp meters for eight
+
+53
+00:03:16,220 --> 00:03:20,780
+weeks in order to see if they actually worked and they found that the highway capacity decreased
+
+54
+00:03:20,780 --> 00:03:29,460
+by 9%, travel times increased by 22%, speeds dropped by 7%, and crashes increased by 26%.
+
+55
+00:03:29,460 --> 00:03:33,740
+Stockholm Sweden used that exponential nature of traffic to decrease travel times by up
+
+56
+00:03:33,740 --> 00:03:36,560
+to 40% in 2006.
+
+57
+00:03:36,560 --> 00:03:41,660
+Stockholm as a city lies across 14 islands which means that all the bridges act as huge
+
+58
+00:03:41,660 --> 00:03:42,660
+choke points.
+
+59
+00:03:42,660 --> 00:03:47,600
+Traffic, therefore, was historically horrible for this relatively small city.
+
+60
+00:03:47,600 --> 00:03:53,140
+On January 3rd, 2006, Stockholm started to charge drivers who entered this central perimeter,
+
+61
+00:03:53,140 --> 00:03:54,620
+the busiest area.
+
+62
+00:03:54,620 --> 00:04:00,120
+The charge wasn't much—between 10 and 20 krona, the equivalent of 1 and 2 US dollars—but
+
+63
+00:04:00,120 --> 00:04:04,800
+it was enough to persuade 20% of drivers to not enter the central perimeter.
+
+64
+00:04:04,800 --> 00:04:09,440
+They either went downtown on public transport, or walked, or didn't go at all.
+
+65
+00:04:09,440 --> 00:04:13,220
+These are the amounts of daily drivers in the perimeter in the years leading up to the
+
+66
+00:04:13,220 --> 00:04:14,220
+charge.
+
+67
+00:04:14,220 --> 00:04:19,520
+As soon as the charge was implemented in 2006, the daily amount dropped down to here.
+
+68
+00:04:19,520 --> 00:04:20,900
+It wasn't a fluke.
+
+69
+00:04:20,900 --> 00:04:25,040
+After the six month initial trial period, driving in the central core became free again
+
+70
+00:04:25,040 --> 00:04:29,460
+and the amount of daily drivers increased to nearly the level it was before.
+
+71
+00:04:29,460 --> 00:04:34,860
+When the charge became permanent in 2007, daily numbers once again plummeted.
+
+72
+00:04:34,860 --> 00:04:39,400
+Even though the charge was miniscule, it was enough to dissuade tens of thousands of people
+
+73
+00:04:39,400 --> 00:04:41,280
+from using those roads.
+
+74
+00:04:41,280 --> 00:04:44,680
+There are really two costs of driving—the money and the time.
+
+75
+00:04:44,680 --> 00:04:49,140
+When the time it takes to drive isn't enough of a cost to prevent people from driving,
+
+76
+00:04:49,140 --> 00:04:53,580
+these charges increase the overall cost to a level where some people will decide not
+
+77
+00:04:53,580 --> 00:04:54,580
+to drive.
+
+78
+00:04:54,580 --> 00:04:56,700
+But what about safety?
+
+79
+00:04:56,700 --> 00:04:59,240
+Roads are still unbelievably dangerous.
+
+80
+00:04:59,240 --> 00:05:04,860
+In any given year, one out of every 10,000 people in the US die in a car accident.
+
+81
+00:05:04,860 --> 00:05:07,960
+Just think about how high of a proportion that is.
+
+82
+00:05:07,960 --> 00:05:12,980
+If you go to a Redskins game at FedEx Field near Washington DC, eight of the people sitting
+
+83
+00:05:12,980 --> 00:05:17,420
+in the stands with you will die in the next year in a car accident.
+
+84
+00:05:17,420 --> 00:05:21,660
+It turns out one of the best ways to prevent accidents is with something you've almost
+
+85
+00:05:21,660 --> 00:05:24,700
+certainly already seen or used—the roundabout.
+
+86
+00:05:24,700 --> 00:05:27,900
+There's a reason you see these more and more.
+
+87
+00:05:27,940 --> 00:05:31,320
+Roundabouts reduce deaths and serious injuries by 90%.
+
+88
+00:05:31,320 --> 00:05:32,840
+That is not an error.
+
+89
+00:05:32,840 --> 00:05:37,800
+With roundabouts, there's almost no opportunity for the worst type of collision—the head-on,
+
+90
+00:05:37,800 --> 00:05:39,080
+full-speed crash.
+
+91
+00:05:39,080 --> 00:05:43,280
+In a traditional intersection, cars come within feet of each other while going at a relative
+
+92
+00:05:43,280 --> 00:05:46,200
+speed of up to 100 miles per hour.
+
+93
+00:05:46,200 --> 00:05:50,520
+A head-on crash at that speed is undoubtedly catastrophic.
+
+94
+00:05:50,520 --> 00:05:55,680
+With roundabouts, cars naturally slow down to about 15 to 25 miles per hour since they're
+
+95
+00:05:55,680 --> 00:05:57,120
+going around a curve.
+
+96
+00:05:57,140 --> 00:06:01,420
+Also, if there were to be a collision, it would either be a side-impact collision if
+
+97
+00:06:01,420 --> 00:06:06,260
+a car failed to turn into the circle or a side-to-side collision if a car misjudged
+
+98
+00:06:06,260 --> 00:06:07,260
+the curve.
+
+99
+00:06:07,260 --> 00:06:12,340
+Both of these collisions happen at a low relative speed so fatalities are low.
+
+100
+00:06:12,340 --> 00:06:14,180
+But what about capacity?
+
+101
+00:06:14,180 --> 00:06:17,860
+Surely the lower speed roundabouts cause horrible traffic problems.
+
+102
+00:06:17,860 --> 00:06:19,700
+Well, they don't.
+
+103
+00:06:19,700 --> 00:06:24,820
+A single lane roundabout can handle a maximum of 1,800 vehicles per hour which is exactly
+
+104
+00:06:24,820 --> 00:06:28,320
+the same as a traditional two-lane signaled intersection.
+
+105
+00:06:28,320 --> 00:06:32,640
+While cars will move through a signaled intersection at a much higher speed, they have to wait
+
+106
+00:06:32,640 --> 00:06:36,040
+both for the light to change and left-turning cars.
+
+107
+00:06:36,040 --> 00:06:40,640
+With roundabouts, you have a smooth, consistent, albeit slower flow.
+
+108
+00:06:40,640 --> 00:06:41,840
+So what's the problem?
+
+109
+00:06:41,840 --> 00:06:45,000
+Why haven't we replaced every intersection with a roundabout?
+
+110
+00:06:45,000 --> 00:06:46,320
+Well there are disadvantages.
+
+111
+00:06:46,320 --> 00:06:50,440
+They're more difficult for pedestrians, especially those who are deaf or blind, they
+
+112
+00:06:50,440 --> 00:06:54,740
+require a larger footprint, they're more expensive to maintain, but the real reason
+
+113
+00:06:54,740 --> 00:07:00,300
+roundabouts are not ubiquitous nowadays is because of the biggest fallacy in road design—that
+
+114
+00:07:00,300 --> 00:07:01,700
+drivers need rules.
+
+115
+00:07:01,700 --> 00:07:07,620
+Poynton, just outside of Manchester, UK, used to have a typical, rather dreary intersection
+
+116
+00:07:07,620 --> 00:07:09,860
+and nobody really liked it.
+
+117
+00:07:09,860 --> 00:07:13,460
+Cars would back up for miles, pedestrians had to wait forever for the light to change
+
+118
+00:07:13,460 --> 00:07:15,940
+and it essentially split the town apart.
+
+119
+00:07:15,940 --> 00:07:20,420
+So someone had the idea to remove the traffic lights, remove the zebra crossings, the curbs,
+
+120
+00:07:20,420 --> 00:07:25,240
+remove almost every safety device in the intersection, and just set up two adjoining
+
+121
+00:07:25,240 --> 00:07:26,240
+roundabouts.
+
+122
+00:07:26,240 --> 00:07:28,960
+Surely this would wreak havoc, but it didn't.
+
+123
+00:07:28,960 --> 00:07:32,740
+Turns out, when people are uncomfortable, when people aren't really sure what's
+
+124
+00:07:32,740 --> 00:07:35,000
+going on, they pay more attention.
+
+125
+00:07:35,000 --> 00:07:39,400
+The green light was a signal to people that the road was clear, that it was safe to speed,
+
+126
+00:07:39,400 --> 00:07:43,200
+that they could let their guard down, but after the change the cars were able to flow
+
+127
+00:07:43,200 --> 00:07:48,160
+freely, albeit at a slow pace, instead of waiting for the lights to change.
+
+128
+00:07:48,160 --> 00:07:52,400
+Construction incidents went down, collisions went down, traffic flowed faster, and the
+
+129
+00:07:52,400 --> 00:07:54,700
+city center finally had some character.
+
+130
+00:07:54,700 --> 00:07:58,500
+So, all around the world, cities are replicating what Poynton did.
+
+131
+00:07:58,500 --> 00:08:03,540
+They're removing curbs, traffic lights, and pedestrian crossings to make one shared
+
+132
+00:08:03,540 --> 00:08:04,540
+space.
+
+133
+00:08:04,540 --> 00:08:09,900
+All around the world, these streets are resulting in fewer accidents and more pedestrian space.
+
+134
+00:08:09,900 --> 00:08:12,060
+Discomfort is saving lives.
+
+135
+00:08:12,060 --> 00:08:16,260
+On a larger scale, there's one more innovative intersection design that's beginning to
+
+136
+00:08:16,260 --> 00:08:20,000
+save lives—the diverging diamond interchange.
+
+137
+00:08:20,000 --> 00:08:24,700
+This interchange is designed as a way to get more cars on and off the highways faster.
+
+138
+00:08:24,700 --> 00:08:29,160
+After the on-ramp to the right side, the road crosses over so cars never have to traverse
+
+139
+00:08:29,160 --> 00:08:31,400
+active lanes to get onto the highway.
+
+140
+00:08:31,400 --> 00:08:35,600
+A car heading north can effortlessly join the on-ramp without crossing traffic, and
+
+141
+00:08:35,600 --> 00:08:40,220
+a car heading south will cross over so it drives on the left side and can effortlessly
+
+142
+00:08:40,220 --> 00:08:42,600
+join the on-ramp to head south.
+
+143
+00:08:42,600 --> 00:08:46,280
+Not only is this easier for drivers, it improves safety.
+
+144
+00:08:46,280 --> 00:08:50,680
+The dangerousness of an intersection is often rated by determining the number of conflict
+
+145
+00:08:50,680 --> 00:08:55,500
+points—possible points where accidents could happen under normal circumstances.
+
+146
+00:08:55,500 --> 00:09:00,860
+With a traditional on-ramp intersection there are 26, with a diverging diamond intersection
+
+147
+00:09:00,860 --> 00:09:04,180
+only 14, and they're faster too.
+
+148
+00:09:04,180 --> 00:09:08,820
+The US Department of Transportation found in a study that universally, whether the traffic
+
+149
+00:09:08,820 --> 00:09:14,400
+was light or heavy, diverging diamond interchanges let more cars through faster.
+
+150
+00:09:14,400 --> 00:09:15,840
+It costs less too.
+
+151
+00:09:15,840 --> 00:09:21,100
+A traditional on-ramp intersection requires $11.3 million to build.
+
+152
+00:09:21,100 --> 00:09:26,000
+A diverging diamond intersection, only $5.7 million.
+
+153
+00:09:26,000 --> 00:09:31,340
+There are really no major disadvantages to this intersection so nearly 100 of them have
+
+154
+00:09:31,340 --> 00:09:35,660
+been built to date and more and more are being installed each month.
+
+155
+00:09:35,660 --> 00:09:40,240
+As good as these solutions sound, there's no one way to solve traffic.
+
+156
+00:09:40,240 --> 00:09:44,480
+The difference between cities with chronic traffic problems and those without is a combination
+
+157
+00:09:44,480 --> 00:09:49,240
+of smart policies and designs that mitigate the effects of having more road demand than
+
+158
+00:09:49,240 --> 00:09:52,100
+supply, but traffic won't just fix itself.
+
+159
+00:09:52,100 --> 00:09:59,320
+So until cities at least experiment with solutions, we're all condemned to traffic forever.
+
+160
+00:09:59,320 --> 00:10:04,680
+Fixing traffic is all about saving time and improving the environment and so is Blue Apron.
+
+161
+00:10:04,700 --> 00:10:08,900
+They ship pre-apportioned meals straight to your doorstep sourced directly from sustainable
+
+162
+00:10:08,900 --> 00:10:10,580
+farms and fisheries.
+
+163
+00:10:10,580 --> 00:10:14,180
+Blue Apron sent me a box to try out and it was a fantastic meal.
+
+164
+00:10:14,180 --> 00:10:19,020
+You're shipped the exact amount of everything you need so you don't have to do any measuring.
+
+165
+00:10:19,020 --> 00:10:22,260
+Not only does this save time, it also minimizes food waste.
+
+166
+00:10:22,260 --> 00:10:26,740
+They give you these clear, concise instructions so even the least experienced chefs can work
+
+167
+00:10:26,740 --> 00:10:28,180
+with their recipes.
+
+168
+00:10:28,180 --> 00:10:29,460
+So here's the meal I made.
+
+169
+00:10:29,460 --> 00:10:34,140
+It was healthy, quick, filling, and delicious and the good news is that you can get a meal
+
+170
+00:10:34,160 --> 00:10:36,400
+just like this for free.
+
+171
+00:10:36,400 --> 00:10:40,560
+Blue Apron is offering the first 100 Wendover Productions viewers that sign up with the
+
+172
+00:10:40,560 --> 00:10:45,400
+link in the description three free meals so you can try Blue Apron.
+
+173
+00:10:45,400 --> 00:10:49,160
+Not only will signing up support Wendover Productions, you'll also get a chance to
+
+174
+00:10:49,160 --> 00:10:52,160
+try these truly delicious meals.
+
+175
+00:10:52,160 --> 00:10:55,820
+Aside from that, please be sure to check out my podcast Showmakers and subscribe to this
+
+176
+00:10:55,820 --> 00:10:58,880
+channel to get all my future videos right when they come out.
+
+177
+00:10:58,880 --> 00:11:03,160
+Thanks again for watching and I'll see you in two weeks for another Wendover Productions
+
+178
+00:11:03,160 --> 00:11:03,680
+video.
+

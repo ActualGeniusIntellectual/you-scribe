@@ -1,0 +1,346 @@
+It seemed manageable at first.
+On the Monday before Christmas, as winter storm Elliott began to build, Southwest Airlines
+management huddled up to formulate a plan.
+The following day, it went into motion.
+After internal deliberation, and after informing the pilot's union, Southwest HQ began cancelling
+flights in advance of the strengthening storm.
+The notice first directed customers at these airports to check if their flight had been
+disrupted.
+Then, the list of airports began to grow.
+So, the airlines started the process of cancelling flights by the hundreds.
+As the winter storm worsened, that call proved worthwhile.
+In fact, with the benefit of hindsight, they didn't go far enough.
+But the assumption that undergirded the decision to cancel, that they could process the cancellations
+early enough for customers to pivot plans and crews to reposition for new routings,
+proved utterly, devastatingly wrong.
+You know the rest of the story.
+Temperatures plummeted, thermometers across Denver plunged 37 degrees in a single hour,
+foiled travel plans ruined holidays, 5,700 flights nationwide cancelled before Christmas,
+and while other carriers staggered along, Southwest crumbled into crisis, ultimately
+cancelling nearly 17,000 flights and losing out on an estimated $825 million in the final
+10 days of the year.
+It was the biggest meltdown of its kind.
+Some blamed the storm, others blamed the carriers' point-to-point model, while others still blamed
+the company's culture.
+But as time let the hot takes cool, a less exciting culprit came forward.
+A culprit that's hardly unique to Southwest—a culprit, in fact, that's less a bug and
+more an inherent flaw within the industry.
+While the biggest, the meltdown wasn't the first, and while an embarrassment to Southwest
+alone, it was hardly a crisis unique to the big, beloved, budget airline.
+For Southwest, winter storm Elliott may have set the stage for the meltdown, but it didn't
+cause it.
+As much as anything, Southwest's meltdown was a function of legacy.
+Southwest made its name as the pioneer of the low-cost business model through quick
+turnarounds and point-to-point route networks.
+While a typical airline will fly their plane out and right back into their hub, a given
+day for a Southwest aircraft might start in San Diego, then continue to Sacramento, Denver,
+and Nashville before finishing up in Tampa.
+Through this network structure, Southwest could offer non-stop flights where competitors
+only had one-stops, and by exploiting this niche, grew into the world's sixth largest
+airline.
+But while efficient in perfect conditions, the system becomes a liability in the event
+of a delay or cancellation—pilots time out, crews don't make it to their expected destination
+for the evening, and planes aren't positioned in the right place for the next day's flight.
+But weather and unforeseen circumstances, as they always have, exist.
+So Southwest has tools for these situations, one of which is a GE aeronautics system called
+SkySolver.
+Plug data into SkySolver on irregular operations, and its algorithms will, in the words of its
+brochure, execute flight schedule changes and cancellations, conduct aircraft routing
+and equipment swaps, and make fixes to crew assignments and pairings.
+That means that, if a developing storm was to roll over Denver and cause Southwest to
+cancel this inbound flight from Sacramento, on account of the risk that the plane and
+crew will stay grounded by the weather, it would call on SkySolver to effectively stem
+the bleeding, and make sure that problems don't cascade to impact the rest of the
+routing.
+Even in Sacramento, rather than heading to Denver, SkySolver might send this plane on
+a passenger-less deadhead to Nashville, where the crew now nearing the end of their workday
+could time out and hand the plane over to the next.
+Of course, that's only the beginning—while finding the most cost-efficient solution is
+simple in the context of this single routing, it becomes orders of magnitude more complicated
+when considering the hundreds of additional Southwest flights passing through.
+Like, where to reposition this 737 that normally would have been running in and out of Denver
+all afternoon that has both the space for the plane and can begin running services the
+following morning?
+Or, what to do with this 737 that is running flights between cities in the storm's path
+and thus is at risk of getting stuck in a snowed-in airport?
+And how to make sure the later legs of this routing get flown when the plane meant to
+run it won't make it out of Denver that morning?
+Now, SkySolver is powerful enough to run up to 300 batches of cancellations in 20 minutes,
+but it does have limitations.
+First, it creates solutions to cancellations on the assumption of a static baseline.
+However, to figure out viable alternatives if half of Denver's flights are canceled,
+it needs to know that the Sacramento to Denver flight has already been canceled, and if it
+doesn't, or if the flight is canceled while the system is running, SkySolver solutions
+become less tenable, requiring reruns or manual intervention.
+Second, SkySolver is also limited by the data input into the system.
+Some of this data comes from an internal tool of Southwests called the Baker.
+Dispatch processes delays and cancellations through the Baker to reconfigure routings
+for aircraft and passengers before the information is then plugged into SkySolver.
+Crucially, what the Baker's data lacks is crew information—who's available where,
+when, and for how long before they're timed out.
+Now, as the storm worsened and the number of cancellations increased, the limitations
+of Southwests' solver collided, resulting in a massive tailspin.
+With crews left out of the equation, the algorithm's output provided what it thought to be viable
+solutions, but solutions without pilots and attendants.
+Once these flights had to cancel close in to departure time when it became apparent
+that they only had half of crew, everything else unraveled, as these new cancellations
+altered SkySolver's baseline assumptions.
+Effectively, the software's blind spot transformed the expected difficulties of a winter storm—hundreds
+of flights canceled at least 24 hours out on the 20th and 21st—into a full-blown crisis
+where Southwest tools worsened problems that it then tried to fix, only to worsen things
+further.
+Through Christmas, cancellations occurred closer and closer to departure time as pilots
+arrived to planes with no flight attendants, while planes with no passengers deadheaded
+on circular, nonsensical routings like this as the software essentially panicked, positioning
+and repositioning planes only for the crew to time out and get stuck once again.
+Finally, blind as to where their own crews were, and with flawed programs providing flawed
+fixes, Southwest went manual, training volunteer staff at headquarters on how to process pilot
+and flight attendant forms and preparing for a hard reset.
+In the four days following Christmas, Southwest would cancel an incredible 10,700 flights,
+all because the airline failed to address a weak point that they had already identified.
+They had put too much pressure, and stacked up too much complexity, onto a fragile IT
+system that everyone already knew needed an overhaul.
+And yet, as the calendar flipped, as Southwest began to stabilize, and as more detailed reporting
+on the meltdown began to emerge, a new meltdown stole the spotlight.
+Now it was the FAA that issued a nationwide ground stop.
+For 90 minutes, no commercial flights took off, and for the first time since 9-11, American
+commercial aviation came to a complete standstill, all because a single software update went
+sideways, leading to important preflight safety communications having to be relayed manually
+until they could simply no longer keep up with the morning rush of flights.
+And the cycle began again—upset customers, outraged press, and promises that the old
+technology that everyone knew would fail would be looked into.
+And this pattern didn't start with Southwest, either.
+IT meltdowns hit British Airways in 2017, then in 2019, then again in 2022, they forced
+Delta to cancel thousands of flights in 2016 and 2017, they pushed American Airlines to
+cancel over 1,000 regional flights in 2018.
+All said they'd do better the next time, and yet all still rely on outdated, overstretched
+IT systems that were never designed to handle the volume of industry growth in the decades
+since their initial development.
+But the problems of old, overstacked IT systems don't stop at the back end.
+While customer-facing systems might look good on the surface, the most important one, the
+very system that makes it all possible, was created as close in time to the Wright brothers'
+first flight as to today.
+When a traveler sees this, it may look modern, but what they're actually looking at is
+a translation of this.
+In the scenes, Google Flights entered a query into the Global Distribution System, an interconnected
+set of softwares run by Amadeus, Sabre, or Travelport.
+In fact, specifically it entered this, AD, to initiate an availability lookup, 08FEB
+to indicate the date, then DENLHR to specify Denver as the origin and London as the destination.
+This initiates a query from the GDS system to another, OAG, which essentially acts as
+the definitive source of airline scheduling data worldwide.
+The GDS then comes back and spits out two options—one by British Airways, one by United.
+The strings of letters and numbers indicate availability across the different fare classes,
+then the Wright side provides most other data—departure time, arrival time, aircraft type, and flight
+duration—but the fare data is still missing.
+For that, Google Flights needs to pick a flight, pick a fare class, then enter another query
+for its price.
+But the GDS doesn't have that data itself—it seeks the answer from the airline tariff publishing
+company which, similarly to the OAG US scheduling, is the one-stop shop for pricing data used
+by essentially every major airline globally.
+So once again, the GDS will repackage their response into this, reiterating the flight
+schedule, then displaying the base fare, the carrier surcharge, US passenger facility charge,
+security fee, and international departure tax to give a total $630.20 one-way fare on
+the February 8th British Airways Denver to London flight.
+This entire process is repeated for the United option, which gives Google Flights all the
+information necessary to populate this screen.
+But next up is booking, and that's even more involved.
+Regardless of where a booking takes place, with some limited exceptions, the user interface
+is just a translation tool to input a string of commands into the GDS.
+This sequence initiates the process of creating a Passenger Name Record, or PNR, to which
+it will then input a phone number, the name of the person making the booking, then a precisely
+formatted description of the desired flight itinerary.
+After reconfirming availability and fare price, the GDS will then submit the PNR and return
+with this—the time limit for actually paying for the booking.
+At this point, the booking is confirmed—that seat is reserved, and will stay reserved unless
+that payment deadline passes without payment.
+While these days customers typically pay immediately, in the background it's rarely required, but
+this delayed deadline gives an online travel agency like Expedia, for example, time to
+process and verify payment from the customer before actually paying for the ticket themselves,
+at which point it might become nonrefundable, leaving the company in a tricky spot if a
+customer's credit card payment declines.
+But even before paying, Expedia will close out the transaction with the GDS, therefore
+sending the Passenger Name Record to the airline, which will respond with a modified version
+including a confirmation number, which is then extracted and sent to the customer in
+a flashy, well-formatted email.
+The GDS, and its associated systems, were revolutionary for the airline industry.
+Not only did they make reservations a far less labor-intensive process, they made essentially
+every airline reservation system interoperable with each other.
+These days it's fairly simple for airlines to sell tickets involving other airlines—they're
+all using the same GDS already, so the way United's internal systems interpret and
+modify a PNR is the same way Lufthansa's would.
+Theoretically, United could sell you an itinerary connecting onto an American Airlines flight—they
+wouldn't because they don't have a commercial partnership with the airline, but from a technical
+perspective there's nothing stopping them, and if something goes wrong and your United
+flight cancels, the airline can and occasionally will rebook flights onto American, Delta,
+and others using this system.
+But while the GDS was revolutionary, it hardly still is today.
+In fact, at airports around the world, when you step up to a reservations agent, chances
+are the other side of their screen looks like this.
+Still today, in 2023, the GDS has operated as a command-line interface, the way computers
+worked before graphical user interfaces were popularized in the 80s.
+American interfaces aren't in and of themselves an issue, but in context, the difficulty is
+that using them requires legitimate creativity and skill.
+Let's say, for example, a customer is here in Denver, headed to Zurich, and their 1.40
+pm flight to Chicago to connect onto the 7.10 overnight to Zurich just cancelled, meaning
+they won't make their connection.
+A rebooking agent would start by querying the GDS for the next available itinerary between
+the two cities, and they would see there's a viable one connecting onto a 7.20 pm Swiss
+Air flight out of LAX, but the problem is that the only two flights to LA that would
+make that, at 1.36 and 3.55, are already oversold, meaning there's no seat available for the
+stranded passenger.
+So, according to the GDS, it's impossible to get that passenger on their way to Zurich
+until the next day.
+But just because the GDS says it's impossible doesn't mean it actually is.
+For example, an experienced rebooking agent would know that United also flies to John
+Wayne Airport in Orange County, about an hour's drive from LAX, so if desperate,
+the passenger could fly to there, take a taxi to LAX, then make their overnight flight to
+Switzerland.
+The GDS can't offer this as an option because it's not one that the airline would sell,
+so it's not in the system, but with this knowledge, an agent could individually book
+seats for each leg, then string them together into an itinerary in the PNR.
+The GDS also would know that United's 11.45 am LAX-bound flight was delayed until 1.30,
+meaning this passenger could still take that and make the connection.
+It also wouldn't suggest taking American's 4.10 pm flight to LAX as an option because
+Swiss Air and American don't typically ticket together, but in this exceptional circumstance,
+United could buy the stranded passenger a ticket on American through the GDS to continue
+their journey on Swiss.
+And this is only the tip of the iceberg—there are endless tricks to working with the GDS
+to solve problems, but experience is needed to know the right technique.
+The horrible truth this presents, for both passengers and airlines, is that, constantly,
+passengers are getting stranded when they don't have to be—it's down to the luck
+of the draw.
+Is the rebooking agent you're walking up to one that's worked there for 30 years
+and knows the GDS like the back of their hand, or have they just finished the limited required
+training to complete those simplest tasks?
+For passengers, this increases the frequency of getting stranded on the road, and for airlines,
+this increases the cost borne from issuing meal vouchers, booking accommodation, and
+paying for delay compensation when passengers don't get to their destination on time.
+And the limitations of the GDS not only create additional costs, but also prevent potential
+revenue.
+For example, Air New Zealand developed an innovative product where three successive
+economy-class seats can be transformed into a short, lie-flat bed called skycouch.
+That means that those seats can be sold individually, as usual, or as a set of three to one or two
+passengers.
+This sort of optionality breaks the GDS—it doesn't have a way of properly communicating
+or reserving these sorts of transformable seats, so on the GDS, skycouch seats are just
+displayed as occupied, regardless of whether they actually are.
+In order to book them, one has to go directly to the Air New Zealand website.
+For the airline, this leaves plenty of potential revenue on the table.
+For example, a huge portion of the airline's traffic is ticketed through United, since
+United is a major partner that feeds inbound traffic from across the US to Air New Zealand's
+long-haul flights out of LA, San Francisco, Houston, and Chicago.
+Those passengers can book and check in exclusively with United, meaning they would never have
+even had the chance to pay Air New Zealand for a skycouch, and it's the same with passengers
+who booked through other airlines or online travel agencies.
+Airlines have been complaining about the GDS system for decades, and so there are an increasing
+number of technical solutions and workarounds to the GDS's constraints, but even those
+have their problems.
+For example, Iota introduced the New Distribution Capability Standard, which allows for more
+complex back-end communication, but rather than serving as the solution to the GDS's
+shortcomings, it more so demonstrates what's truly at the root of the problem.
+162 airlines, travel agencies, system providers, and others are certified by Iota as having
+properly integrated this new standard into their systems—or at least, part of it.
+The core functions have pretty good uptake—for example, 156 of those have incorporated the
+NDC standard that allows for shopping for flights—but then you get to the more novel
+functions.
+SHPAN2 is a standard that allows for the sale of increasingly common unbundled anciliaries
+like inflight Wi-Fi, lounge access, priority boarding, and more, meaning that, theoretically,
+it allows someone booking through Expedia to buy that inflight Wi-Fi right in their
+checkout flow.
+But only 51 of the 162 are certified on this capability.
+And then you get into the really specialized stuff—NDC has enabled airlines to have interoperable
+dynamic pricing systems, meaning, rather than working with the constraints of the GDS
+and ATP Co., which only allow for price updates a certain number of times per day, each fare
+would be customized for each individual consumer based on an algorithm's estimation of their
+price sensitivity.
+But to date, not a single airline is certified on this already-existing, revenue-generating
+standard.
+This is a familiar refrain.
+Airlines ask for more advanced systems, more advanced systems are developed, then airlines
+don't use the more advanced systems because they decide the cost it would take to integrate
+them isn't worth it.
+And some airlines are going further, not only failing to implement new interoperable systems,
+but rejecting their use altogether.
+For example, if you search on Expedia for an itinerary between Denver and Long Beach,
+it'll tell you the best option is a one-stop trip through Phoenix on American, but there
+are actually three non-stop flights a day on that route.
+The problem, though, is that they're Southwest flights, and with limited exception, Southwest
+does not allow for booking through the GDS, meaning Expedia has no way to book a customer
+a ticket on the airline.
+Meanwhile, on Google Flights, which focuses on directing people where to book rather than
+booking itself, you can find Southwest schedules, which are filed with OAG, but you can't
+find fares—with no GDS sales, there's no reason to distribute fare information.
+This all means that nearly all Southwest bookings are done on Southwest's website, but the
+airline can customize and revenue-optimize the booking process as they wish.
+The upsells are everywhere, before confirming a fare when it gets a pop-up outlining the
+benefits of the next most expensive fare class.
+On the following screens, there's the same upsell again, an offer for a $200 credit in
+return for signing up for their credit card, and an option to pay for early check-in, guaranteeing
+one of the best boarding positions.
+These upsells matter.
+In 2021, ancillary fees made up more than $4 billion in revenue for Southwest, and that
+ancillary revenue is raised when customers book directly and are offered all the upsells.
+And in addition to increased revenue, direct booking costs less—no paying for developers
+to integrate their systems with others, no paying GDS fees, no paying commissions to
+Expedia and others.
+Following Southwest's lead, GDS non-participation by budget airlines is downright common these
+days, and the full-service network carriers are increasingly working around it to strike
+up direct business and system relationships with major sales channels and partners.
+But this is fragmenting the industry.
+Comments are innovating, which is exactly what the industry should be doing, but through
+this individual innovation, are losing the collective interoperability that has led to
+the globally seamless travel experience that customers have come to expect.
+It's almost analogous to a reverse tragedy of the commons.
+Each individual node in the system would grow their revenue by investing in better interoperable
+systems, but only if every other node did too.
+If only one node invests, they'll have spent money to create interoperability, but still
+lack partners to interoperate with, meaning no revenue impact and a negative cost impact.
+So, in this context, each node is actually incentivized to reduce interoperability to
+push consumers towards their own systems, which are better designed to increase per-customer
+revenue than the interoperable ones.
+It's a strategic stalemate.
+And this can explain the broader issue as well—there's a strategic IT stalemate.
+When every airline's IT is equally bad, there's little competitive incentive to
+improve it.
+Why invest to improve to a level that the public doesn't even know is possible?
+Globally, the airline industry has just settled on a culture of good enough.
+The problem, from our outside perspective, is that airlines essentially act as public
+utilities these days.
+They're the only practical means of long-haul travel, and are also the only practical means
+for medium-haul travel in areas of North America, Russia, Australia, and other larger, less-dense
+countries.
+Airlines slow down, people slow down, and therefore, economies slow down.
+The US recognizes this fact by subsidizing the construction and maintenance of airports,
+and even more strongly by subsidizing airlines to fly to rural and remote communities, under
+the thesis that a lack of air travel options would hold back their economies.
+And countries also recognize this preemptively, historically treating the earliest airlines
+as government services and running them as state-owned enterprises, but in the century
+sense, the trend has been thoroughly towards privatization, meaning the only real obligation
+is to the shareholder.
+So this is one of those all-too-common scenarios where there is a stark difference between
+what's good for the shareholder, and what's good for the world.
+Therefore, it's pretty simple—regulators need to decide whether airlines' IT antiquity
+is a problem for the public, and if so, do something about it.
+As many of you know, I travel constantly—I'm on the road more than I'm at home, and one
+thing that I've found is crucial to making that level of travel sustainable is having
+self-improvement routines that I can do both at home and on the road.
+That means going to the gym, on runs, and a less common one that I've really grown
+to love is using our sponsor, Brilliant.org.
+That's because Brilliant has these really interesting, well-designed courses on STEM
+subjects that probably seem way too hard to learn independently.
+Crucially, these courses are designed so you can move through them in bite-sized chunks,
+so while I'm at home, I might make some progress learning gravitational physics while
+waiting for a call to start, while on the road, you might find me doing the same while
+waiting for the plane to board.
+And what's amazing about it is that, if you just do that enough times, suddenly you
+understand how foundational and advanced math, or AI, data science, or neural networks work.
+Obviously, these subjects are complex, but Brilliant makes learning them straightforward
+by breaking them down into their intuitive principles, and by making it so you can learn
+anywhere and anytime thanks to their mobile app.
+And they have over 60 of these courses—few enough that you know they're really working
+on making each one amazing, while many enough that they feature all the major STEM subjects
+that you'd want to learn.
+I think it's so cool that you can learn such big, complex subjects independently at
+your own pace, so if you agree, you can try everything Brilliant has to offer, free, for
+a full 30 days by visiting Brilliant.org slash Wendover, or clicking the button on screen.
+The first 200 of you will get 20% off Brilliant's annual premium subscription.

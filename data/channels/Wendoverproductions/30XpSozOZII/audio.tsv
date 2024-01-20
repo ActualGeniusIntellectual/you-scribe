@@ -1,0 +1,201 @@
+start	end	text
+0	2500	This video was made possible by Brilliant.
+2500	7160	Learn intuitively with Brilliant for 20% off by being one of the first 200 to sign up at
+7160	9940	brilliant.org slash wendover.
+9940	16520	If you look up, there are 4,708 satellites that came from earth currently orbiting our
+16520	17520	planet.
+17520	21140	Just in the portion of the sky you can see, hundreds of satellites are passing overhead
+21140	22780	at any given time.
+22780	27540	You often can't see them, but they're there making GPS work, taking images of earth,
+27540	30540	scanning communications, even spying for governments.
+30540	34620	These satellites are some of the most expensive single objects that can be made.
+34620	38980	If you took a tennis ball sized chunk of the Hubble Space Telescope, it would be worth
+38980	41540	over $1,500.
+41540	46020	Modern full-scale commercial-grade satellites cost in the hundreds of millions of dollars.
+46020	50580	They're just incredibly complex objects that require years to construct.
+50580	55880	Many of the satellites flying over you right now, though, started their life here, at SSL
+55880	57720	in Palo Alto, California.
+57720	62880	SSL is a commercial company owned by Maxar Technology specializing in satellite and spacecraft
+62880	63880	construction.
+63880	67840	They've built spacecraft that are currently in orbit for everyone from DirecTV to national
+67840	68840	governments.
+68840	72560	If you've ever watched satellite TV, listened to satellite radio, or used satellite internet
+72560	76480	on a plane, there's a decent chance you've directly used one of the satellites they built
+76480	77920	here in their factory.
+77920	81320	But let's say you want to buy a satellite from SSL.
+81320	82320	What do you do?
+82320	85640	The first thing you do is pick up the phone and call us, but the next thing you should
+85640	90560	do is check your bank account to make sure you have enough money to buy a satellite.
+90560	97520	Satellites, depending on what kind it is and where it's going, can cost tens of millions
+97520	100320	of dollars up to several hundred million dollars.
+100320	104440	Once a customer makes that first phone call to SSL, there will be then an ongoing back
+104440	106800	and forth between them and the customer.
+106800	110920	Essentially, the customer will tell SSL what they want their satellite to do and SSL will
+110920	112720	come back to them with a price.
+112720	115480	Eventually, if all goes well, they'll sign a contract.
+115480	120280	That's exactly what happened a few years ago between SSL and Telesat—a global satellite
+120280	124400	company headquartered in Canada that owns and operates a fleet of satellites.
+124400	128440	Their satellites are used to broadcast signals, whether it be TV, radio, or internet, for
+128440	132360	their customers—satellite TV, radio, and internet providers.
+132360	136500	In this case, Telesat needed a satellite to provide additional capacity over the busy
+136500	140720	North Atlantic region and so they came and signed a contract with SSL to build their
+140720	143660	new satellite—Telstar 19 Vantage.
+143660	147160	Soon after contracts were signed, work began on designing the satellite.
+147160	151020	In that process, the designers usually pull designs for some more generic aspects from
+151020	154580	previous projects and then modify them to suit the particular job.
+154580	158540	The length of that process can vary widely based off of how complex a satellite is but
+158540	162660	throughout that process, as soon as they've locked a design in, they'll begin ordering
+162660	163660	parts.
+163660	168380	SSL builds about half their components themselves and orders the other half from other companies.
+168380	172460	The decision on whether to order or build in-house usually comes down to performance.
+172460	177980	There are certain components where, depending on what the requirements are, we build higher
+177980	180280	performance components than suppliers.
+180280	183840	Some of them are suppliers build better components than we do.
+183840	187420	Over the years, SSL has looked at what it's good at and what other suppliers are good
+187420	190700	at and made the decision on what to order based off that.
+190740	194680	For example, one of the components that SSL builds are the antenna reflectors.
+194680	198440	These are what actually direct signals down to earth and each of them is custom designed
+198440	200140	for the region that the satellite will cover.
+200140	203300	This is, for example, for Telstar 18 Vantage.
+203300	208940	You can see here that these are these reflectors that would be sticking out on the sides and
+208940	214060	it's used for sending signals back to earth and all those little dots you see on there
+214060	220700	are for photogrammetry so they're used to make sure that the surface is actually
+220700	226860	exactly as was designed so we have these cameras that take pictures of these and of all the
+226860	232660	dots to make sure that it was built according to the design.
+232660	237260	The satellite these antenna reflectors eventually went on, Telstar 18 Vantage, the sister satellite
+237260	242220	of Telstar 19 Vantage, will launch in late August 2018 and soon after will go into service
+242220	246740	providing data services over Asia and Oceania so the antenna reflector was carefully crafted
+246740	251100	to provide signal over populated areas and busy flight and maritime corridors while not
+251100	254940	wasting resources on providing service to areas the company already has coverage for
+254940	258260	or that would have little demand such as to the south of Australia.
+258260	262300	About 9 to 15 months after ordering, the majority of the ordered components will start rolling
+262300	265580	through the door and then the bulk of the assembly process begins.
+265580	269280	This process is too complex to go into detail on but essentially they'll first build the
+269280	270980	major elements separately.
+270980	274460	One group will assemble the propulsion systems and framework of the satellite while another
+274460	277720	will assemble the payload, which the satellite is actually built to carry whether that be
+277720	281460	an advanced camera or a communications system, while yet another group will assemble the
+281460	285480	super-light and efficient solar panels that will power the satellite when in orbit.
+285480	289220	The assembly of the different major components will take a few more months and then they'll
+289220	293640	start to compile those different major components together over a period of a few more months.
+293640	297580	Each component is tested independently before and while being installed on the satellite
+297580	301260	but once they're all pieced together there begins an incredibly rigorous phase of testing
+301260	302940	the satellite as a whole.
+302940	308020	When buying a satellite from a trusted manufacturer like SSL, the customer is buying reliability
+308020	310580	so there can be no compromise on testing.
+310580	314380	They need to be sure that the satellite will actually survive launch and work in space
+314380	318140	and the best way to do that is to just simulate launch and space.
+318140	322460	There are three major factors that could harm a satellite—vibration, temperature, and
+322460	323460	sound.
+323460	327220	The vibration comes as a satellite launches in a rocket so they test that their satellites
+327220	328460	can survive launch.
+328460	333340	When you put one of these satellites on top of a rocket in the payload fairing it experienced
+333340	338540	a lot of vibration loads in the X, Y, and Z so we're able to simulate all of those
+338540	340060	with this shaker table.
+340060	343580	It has a base plate there and you can shake in this direction, in this direction, or in
+343580	348100	this direction so it does in all different directions to simulate the environment and
+348100	350100	make sure that it's all operating.
+350100	354680	The satellite on the table in testing here is Telstar 19 Vantage itself.
+354680	358640	This here is just one of the many tests where they literally just shake the satellites and
+358640	360080	see how it responds.
+360080	363880	They only last about 60 to 90 seconds each because that's how long the satellite will
+363880	367600	experience vibration during launch until the rocket reaches the upper atmosphere.
+367600	371520	They'll also be sure that their satellites can survive the vacuum and temperatures of
+371520	372520	space.
+372520	377720	What you see up there, this big blue pumpkin looking thing like Cinderella's carriage,
+377720	381360	that one is called our thermal vacuum chamber.
+381360	383880	We like to call it the blue pumpkin.
+383880	388600	What we use it for is for simulating the thermal vacuum environment of space.
+388600	395580	We'll go down to the vacuum levels of space, 10 to the minus 5 torr, and we will turn on
+395580	399900	the payload and different parts of the satellite to make sure that everything's functioning
+399900	402160	properly when you put it in space.
+402160	407200	In addition to that, once it's under vacuum, we have these thermal panels in there to simulate
+407200	408800	the hot and cold environment.
+408800	413320	When you're facing the sun and the satellite gets really hot, we bring those temperatures
+413320	417020	to bear and then we make it really cold when it's facing away from earth in an eclipse
+417020	420240	type of situation and make sure that everything's functioning properly.
+420240	424920	Lastly, launch is very loud to the point that the acoustic energy could actually damage
+424920	428520	a satellite so they make sure it doesn't by simulating the launch environment through
+428520	431760	bombarding the satellite with acoustic energy with speakers.
+431760	435640	There are a myriad of other tests performed before the satellite is given SSL stamp of
+435640	439920	approval but once it's ready the satellite does, of course, need to get to the launch
+439920	440920	site.
+440920	444680	The customer decides which launch provider to use whether it be SpaceX, United Launch
+444680	449360	Alliance, Arianespace, or another so the satellite might only need to go as far as Vandenberg
+449360	454640	Air Force Base a four hour drive away or as far as Baikonur Cosmodrome in Kazakhstan.
+454640	458260	The launch site is also partially decided based off what sort of orbit this satellite
+458260	459440	is going into.
+459440	463520	If a satellite is going to orbit in a north-south direction over the poles they want to launch
+463520	467100	in that direction so they want to launch from a site with open water to the north or
+467100	472000	south both for safety and, for some rocket designs, so sages of rockets can fall into
+472000	474040	the ocean throughout the launch process.
+474040	478480	SpaceX, for example, therefore uses Vandenberg Air Force Base in California for their polar
+478480	481720	orbit launches as it has the Pacific Ocean directly south.
+481720	485320	For geosynchronous orbits where satellites travel from west to east at the same rate
+485320	489760	as earth rotates, they want to launch in the same direction as the satellites will orbit.
+489760	493640	For that reason they can't launch from Vandenberg as it has land to the east so SpaceX
+493640	497940	uses the launch pads on Cape Canaveral, Florida as they have the Atlantic Ocean to the east.
+497940	502760	In the case of Telstar 19 Vantage it was going in geosynchronous orbit in order to stay consistently
+502760	506880	over its service area so SSL needed to get the satellites all the way across the country
+506880	507880	to Florida.
+507880	512400	No matter where a satellite is going, it gets packed up into one of these specialized shipping
+512400	513400	containers.
+513400	516320	For travel to closer launch sites within the US they'll often drive.
+516320	520080	They'll put the container on a truck driven by trusted oversized vehicle drivers, have
+520080	523760	a lead vehicle checking for obstructions, a trailing vehicle watching to make sure nothing
+523760	527840	goes wrong, and for longer drives a motor home so drivers can swap out and rest while
+527840	528960	still moving.
+528960	533240	If the launch site is far, such as the ones overseas in French Guiana, in Kazakhstan,
+533240	536580	or even the further ones in the US such as Cape Canaveral, they'll fly the satellite
+536580	539200	over in an Antonov cargo plane.
+539200	542600	Satellites arrive to their launch site at least a month before their launch as there's
+542600	544700	plenty of last minute preparation to do.
+544700	548660	They have to perform additional testing to make sure nothing was damaged in transport,
+548660	550840	fuel it up, and mount it in the rocket.
+550840	554580	Once that happens, though, there's a period where there's really nothing for SSL to
+554580	555580	do.
+555580	559220	As they go through the process of the countdown there are a number of places where we're
+559220	561500	asked to confirm that we're ready for launch.
+561500	568020	Then they launch us and at that point we can no longer monitor our satellite until we're
+568020	569520	off the launch vehicle.
+569520	574920	So for about a half hour we're hoping that the launch vehicle guys are doing everything
+574920	577240	okay and they usually are.
+577240	581600	In the case of Telstar 19 Vantage, the customer entrusted SpaceX with the responsibility of
+581600	587920	getting their satellite to orbit so on July 22nd, 2018, at 1.50am, a Falcon 9 rocket lifted
+587920	591900	off from Cape Canaveral carrying SSL's latest creation to space.
+591900	595640	The launch of this satellite actually made the record books as it is the heaviest commercial
+595640	601200	communications satellite to ever be entered into service at 15,600 pounds.
+601200	605200	On that early morning in July, the Falcon 9 gained altitude as it flew southeast over
+605200	611480	Africa then 32 minutes and 40 seconds after launching, 358 miles above Mozambique, Telstar
+611480	615900	19 Vantage was released from the rocket and gently pushed forward in the first moments
+615900	618760	of its 15 year long orbit of earth.
+618760	621560	At that point, the work's not done for SSL though.
+621560	626940	Their job is not just to build the satellite but also to enter it into service in space.
+626940	631780	Once the satellite is deployed, SSL will look for its signal and establish communications.
+631780	635440	And then we start talking to the satellite so we start commanding the satellite, we tell
+635440	641500	the satellite what we want it to do, we start to get the satellite into a safe position
+641500	646920	after launch, we'll deploy solar rays so we can start generating power, we'll start
+646920	651440	to activate everything on the satellite, and then we'll put the satellite in a safe
+651440	654480	condition so that the crew can get some rest.
+654480	657720	Over the next ten days there's a process of firing the satellite's engines to raise
+657720	662600	it from the altitude of 350 miles where it's deployed to 22,000 miles where it will stay
+662600	663880	for its service life.
+663880	668420	There's then another two to four weeks of testing to make sure everything survived launch
+668420	673400	and then, finally, after years of work, it's time to hand over the satellite to Telesat,
+673400	677500	the customer, so they can put it online and start operating it commercially.
+677500	683760	At that point, after years of work, the satellite can finally itself be put to work.
+683760	686960	One of the aspects of how satellites work that I found most interesting to learn about
+686960	689780	when I filmed this video was on how orbits work.
+689780	693000	The science of how you can make an object orbit at such a consistent speed that it will
+693000	697340	stay over one particular area of earth is fascinating and if you want to learn all about
+697340	701820	how that works, Brilliant teaches you exactly that in their classical mechanics course.
+701820	703700	Of course, there's more than just orbits.
+703700	707720	This course provides a great overview of physics and with Brilliant, you'll actually understand
+707720	709960	the concepts rather than just learning them.
+709960	713800	They specialize in teaching the intuitive principles behind concepts so that you can
+713800	715360	learn the why.
+715360	719500	They also have plenty of other fascinating courses on topics like astronomy, logic, and
+719500	723340	gravitational physics—a course that teaches how planetary orbits work.
+723340	727460	All in all, Brilliant is a great place to learn and best of all, you can try Brilliant's
+727460	732420	classes for free by signing up at brilliant.org.wendover and then, if you decide to upgrade to their
+732420	736540	premium account, the first 200 to do so at that link will get 20% off.

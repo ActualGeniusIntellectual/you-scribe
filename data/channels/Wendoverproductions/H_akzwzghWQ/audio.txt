@@ -1,0 +1,207 @@
+This video was made possible by Brilliant.
+Learn complex topics simply for 20% off by being one of the first 200 to sign up at brilliant.org.
+The airline business model is broken.
+Back in late 2019, COVID-19 came along.
+Borders worldwide closed down.
+Businesses halted work travel.
+All but a select few individuals cancelled their trips.
+In the time when all but the most critical contact was to be avoided to hold the virus
+at bay, travel was just not a risk worth taking for most.
+One of the most major issues for the airline industry, though, is not that demand is lower.
+Lower demand is bad—it's wreaking havoc on the industry—but it is a potentially
+surmountable problem.
+If an airline knew that 2020 would be 75% down, 2021 55% down, and 2022 30% down, the
+solution would be simple—they'd downsize their schedule, cut back on routes, unload
+assets for low employees, and just become a smaller airline for the next few years.
+These are, in fact, the tactics airlines are using regardless, but they don't fully solve
+the overall problem.
+That's because, even after airlines solved the problem of being too big for what the
+travel market has become, the true issue—the one that will plague the industry for the
+entirety of its period of recovery—is that even after they downsize, they just don't
+know how many people want to fly.
+Now, think back to travel in the time before coronavirus.
+How full were the planes you were on?
+How often was that seat next to you free?
+The answer is almost certainly sometimes, but not that often.
+On average, 85% of airplane seats in the US were filled in 2019—slightly higher than
+the world average of 83%.
+Some airlines achieved even better than this—Ryanair, for example, filled 96% of its seats in 2019.
+Now, simultaneously, when was the last time that you've gone to buy a ticket for a flight,
+but there were none available?
+This too certainly happens, but it's quite rare.
+It might cost quite a lot, but if you want to buy a ticket to a flight, it'll almost
+always be available, no matter how close to departure it is.
+This is very, very intentional.
+Now, normally, the day-to-day job of adjusting the price of flights to extract every potential
+dollar out of them is handled by computers—specifically, the complex revenue management software on
+them.
+Around early March 2020, though, the computers started to go haywire.
+People weren't booking like they were supposed to, so the computers lowered the price.
+That should lead to bookings picking up, but they didn't, which confused the computers
+even more, which lowered the price further.
+This went on and on and on until the point where you could book flights from New York
+to London, for example, for just one or two hundred dollars round trip, hours before departure.
+It'd be easy to say prices were low because demand was, but that's not exactly the truth—it's
+just a byproduct of the truth.
+The computers and their revenue management software were tasked to extract the most revenue
+possible, regardless of demand, but in this case, they failed.
+Now, normally, businesses focus more on matching supply to demand, not demand to supply, because
+regulating demand is very, very difficult.
+Airlines, however, do both simultaneously.
+This is because they just can't regulate supply to match demand that well.
+Demand for travel fluctuates depending on which hour of which day of which year it is.
+Airlines just can't fluctuate their schedule to match that entirely.
+For example, airlines in the US making their 2020 schedules knew that last year, 2,487,398
+people traveled in the US on the second Thursday in April, while 2,616,158 people did on the
+third Thursday.
+For the most part, though, airlines will operate the same schedules on both of those Thursdays.
+That's because the complexity of adjusting the schedule to such small changes just isn't
+worth the money it would save by operating slightly fuller flights.
+Therefore, rather than rapidly adjusting supply to match demand, they rapidly adjust demand
+to fit supply.
+You can see this in action by looking at travel trends.
+In the US, the least busy quarter in 2019 for air travel was the first, January, February,
+and March, with 210 million passengers.
+The most busy quarter, meanwhile, was the third, July, August, and September, with 243
+million passengers.
+Now, that's not that much of a difference.
+The third quarter, including the height of the summer travel season, was only 16% busier
+than the first quarter, encompassing the depths of winter.
+But is it truly that demand is only 16% higher in the summer than winter, or is it that airlines
+are regulating demand to increase it in the winter and suppress it in the summer?
+All evidence points to the latter.
+So, airlines have this balancing act to perform.
+They want to be sure that they can capture as much of the high demand in the summer as
+possible, but they also don't want to have a bunch of planes and staff sitting around
+in the lower demand winter, as that costs quite a lot.
+Rather than flying a stable number of flights year-round or regulating demand to keep it
+stable year-round, they do a little of both and meet in the middle.
+The supply side is the easy bit.
+There is a certain predictable ebb and flow to the yearly cycle of travel for a given
+market for a given type of traveler.
+For example, take the American business traveler.
+Airlines know that the week with the lowest demand for travel from this demographic is
+the last of the year, after Christmas, followed by the first of the year, the second to last
+of the year, the week of the 4th of July, then the week of Thanksgiving.
+With this info, airlines can craft a schedule that, over those weeks, emphasizes leisure-focused
+destinations over business ones.
+They might decide that, in the last week of the year, they'll fly more flights to Florida
+and fewer to Chicago.
+Simultaneously, though, airlines know that September, October, and the week before Thanksgiving
+are the strongest period of the year for business travel, so they might increase the
+number of flights on common business routes over that time.
+So, airlines tweak their schedule mostly on a month-to-month or week-to-week basis, but
+for those day-to-day or hour-to-hour shifts in demand, they rely on regulating demand.
+The number one tool used to do this is pricing, and we can see this in action.
+Currently, if you want to book a ticket to fly United Airlines from Newark to Eagle County
+Airport in Colorado on January 1st, 2021, it would cost you $353.
+If you were to book United Airlines from Newark Airport to Denver International Airport on
+January 1st, though, it would cost you $134.
+So, flying to Eagle County is two and a half times more expensive than flying to Denver,
+even though it is only 120 miles further from New York.
+To United, the cost of operating these two flights are nearly identical—it's the
+same aircraft type and roughly the same flight length.
+There might be slight economies of scale by flying to Denver as it's a bigger airport,
+and there's a greater potential of a flight diversion at Eagle County Airport since it's
+in the mountains, but overall, the costs are very similar.
+What accounts for the difference in price is demand, not cost.
+United Airlines thinks it knows that four months prior to the flight, it can charge
+$353 for the flight to Eagle County and still end up with a full plane.
+Meanwhile, to end up with a full plane to Denver, it has to price it at $134.
+These prices will increase as it gets closer to departure, but just because of the way
+people book their travel to Eagle County Airport, $353 is the right price right now.
+So, how does United know this?
+Well, because it's what it did last year, and it worked.
+Airlines' greatest asset truly is their data.
+United Airlines knows exactly how much they need to price their flights at a certain level
+of fullness and a certain number of days before departure, and that means they can eke out
+every single bit of potential revenue from a given flight.
+If United priced the Eagle County flight too high, they might end up with empty seats,
+which is terrible for an airline.
+Every time a plane takes off with an empty seat, the airline is losing out on potential
+revenue.
+Aside from taxes, airport fees, and catering costs, there's essentially no extra cost
+to carrying an additional passenger, so selling a cheap ticket over no ticket is always worth
+it.
+Simultaneously, though, if an airline prices a flight too low, they might sell out of seats
+too early—losing out on the potential to sell high-priced tickets to last-minute travelers,
+who generally are those traveling for work who aren't paying for themselves.
+So, airlines rely on these price fluctuations to end up with a plane exactly full, exactly
+at departure, therefore, in theory, extracting the exact highest potential level of revenue
+from the flight.
+This makes the problem rather obvious—airlines simply don't know what their recovery will
+look like.
+Specifically, the computers don't know how people will respond to changes in pricing,
+so they don't know how to extract the most possible revenue from a flight by ending up
+with an exactly full flight, exactly at departure.
+The airline industry has had sharp drop-offs in demand before, but typically only in response
+to financial crises or terrorist attacks.
+In this case, in a pandemic, the closest equivalent happened 100 years ago, in 1918, when the
+commercial aviation industry was only in its infancy.
+Therefore, the aviation industry as a whole, and especially individual airlines, have no
+data and no idea what the demand patterns during and after a pandemic will be like.
+After the initial drop-off in travel and the plummet in pricing in response, airlines essentially
+turned off the computers—shut down the revenue management algorithms.
+They've gone back to relying on the humans, who traditionally are only there to tweak
+what the computer thinks.
+That's because the humans were able to realize something that the computers could not.
+Traditionally, airline demand is quite elastic.
+People will often decide whether or not to book based on the price.
+It is exactly this, in fact, that makes it possible for the airlines to regulate demand
+by changing prices.
+In the midst of the initial stay-at-home orders, though, the only type of person who would
+fly was someone who needed to fly—someone who would pay whatever it cost to get that
+ticket.
+Therefore, there was no sense in lowering prices because that wouldn't stimulate demand—it
+would only reduce revenue.
+They also didn't jack them up tremendously, cautious not to get into the public relations
+nightmare of price gouging, but they more or less just kept them stable to what a normal
+April would look like.
+As May came about, and there was a small initial restart to discretionary travel, most every
+American airline lowered prices by about 10-20% to stimulate demand slightly.
+The problem, though, is that there are still way too many variables impacting travel to
+accurately predict and stimulate demand.
+American Airlines, for example, took a big gamble in May when they were crafting their
+revised summer schedule.
+They accurately surmised that people who were vacationing in summer 2020 would be particularly
+interested in destinations where the focus was the outdoors, such as at the beach.
+They also knew that many of the traditional beach destinations that Americans travel to
+in the Caribbean would be shut behind closed borders, so demand for this type of vacation
+would naturally shift domestically to Florida.
+This hypothesis was further supported by the fact that, in May, when they were working
+on this schedule, Florida had one of the lowest rates of infection in the US.
+Therefore, the airline decided to add loads of capacity into Florida to account for the
+relatively high demand it expected.
+Of course, starting in early June, there began a steep spike in the state's COVID cases,
+leading to increased weariness among consumers to travel to the state.
+Also, on a more general level, much of the summer travel season in the US did not live
+up to airlines' expectations due to a second spike in nationwide case numbers and increasing
+domestic travel restrictions.
+Passenger demand trends returned slightly closer to the April 2020 scenario, where it
+was less and less the cost of travel that stimulated demand, and rather external conditions.
+COVID has turned the job of those in revenue management at airlines closer to an art than
+a science.
+With decades upon decades of data, airlines got good at modeling the predictable patterns
+of travelers, but failed to consider the possibility for the unimaginable.
+Now, not only is overall demand lower, but airlines can't even extract the same level
+of revenue from the same number of travelers on a given flight.
+This unpredictability has a quite literal, monetary cost for airlines, so that means
+that, even when the travelers come back, even when the airports are full again, true recovery
+will not happen until passengers are predictable again.
+Uncertainty is not just a word.
+It's a force of nature that we can never get rid of, which is why mathematics has set
+up a system of tools to address it.
+The mathematics of uncertainty is fascinating and an incredibly powerful analytical tool,
+but it's an area of math that most people don't know a lot about.
+I certainly didn't until the new brilliant course on knowledge and uncertainty came around.
+This and all of Brilliant's courses are designed so they take these big, complex subjects
+and teach them in an intuitive way.
+With visuals, interactive elements, and clear explanations, all you need to do to learn
+about uncertainty or computer science or math or science is commit to working through the
+course regularly.
+After watching this video, taking the course on uncertainty will be even more interesting
+for you, as you'll be learning the exact sort of math that those working in revenue
+management at airlines are using to try to work their way through their massive uncertainty
+problem.
+So, commit to learning today and be one of the first 200 to sign up at brilliant.org
+slash wendover so you get a 20% discount.

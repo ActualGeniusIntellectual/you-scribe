@@ -1,0 +1,617 @@
+WEBVTT
+
+00:00.000 --> 00:06.480
+This is electromagnetic radiation. You can't see it, but it's there. In fact, it's everywhere,
+
+00:06.480 --> 00:13.280
+but here's a more relatable form. This is the color cyan, but, more accurately, this is waves
+
+00:13.280 --> 00:23.920
+of electromagnetic radiation oscillating at about 616,856,909,465,021 times per second. As they reach
+
+00:23.920 --> 00:28.480
+your eyes, light receptive cells translate the radiation into electric signals which travel to
+
+00:28.480 --> 00:33.040
+your brain and are generally perceived as the color that we collectively refer to as cyan.
+
+00:33.040 --> 00:38.560
+If we strip away our interpretation, though, the radiation, scaled up about 100,000 times,
+
+00:38.560 --> 00:45.920
+looks like this. The color cyan is waves of energy roughly 486 nanometers wide, but what happens if
+
+00:45.920 --> 00:53.680
+that width tightens? At 380 nanometers, our perception changes to this dark purple. Meanwhile,
+
+00:53.680 --> 00:59.760
+if it expands to a roomy 780 nanometers, our brains interpret the radiation as this shade of
+
+00:59.760 --> 01:06.800
+dark red. Essentially, as the wavelength changes, so too do the properties. So, what happens if we
+
+01:06.800 --> 01:12.800
+change the wavelength more dramatically, like tightening it by 100 times? Well, now the waves
+
+01:12.800 --> 01:18.320
+have much higher energy—they're much more powerful, so much so that they can actually
+
+01:18.320 --> 01:23.520
+pass through some less dense materials like fabric or human tissue—but they aren't quite
+
+01:23.520 --> 01:27.760
+strong enough to pass through denser materials like metal or bone. You can see where this is
+
+01:27.760 --> 01:32.960
+going. We refer to these wavelengths as X-rays, and use their special properties to look inside
+
+01:32.960 --> 01:38.800
+bags at airport security and inside humans at the hospital. So, what happens at the other end
+
+01:38.800 --> 01:44.880
+of the spectrum? What if, instead of the width of human DNA, the waves were the width of humans?
+
+01:44.880 --> 01:49.280
+Well, this is what we'd refer to as an ultra-high frequency radio wave.
+
+01:49.280 --> 01:53.600
+Its comparatively enormous wavelength allows it to travel over huge distances,
+
+01:53.600 --> 01:58.880
+pass through obstructions, and even bend around obstacles—all useful properties if you wanted
+
+01:58.880 --> 02:05.040
+to use electromagnetic radiation to, say, communicate. Of course, in order to convey
+
+02:05.040 --> 02:10.240
+information using a radio wave, we'd need a way to manipulate the radio wave that corresponds
+
+02:10.240 --> 02:16.080
+to the desired information. For this, there are options. To start with, there's the strength of
+
+02:16.080 --> 02:21.680
+the wave. We know that a blue light, for example, can be weak or strong, but no matter if it's weak
+
+02:21.680 --> 02:26.640
+or strong, it's still blue, and the fact that it's blue means that it's still, fundamentally,
+
+02:26.640 --> 02:32.000
+the same wavelength of electromagnetic radiation. The same principle applies up the spectrum with
+
+02:32.000 --> 02:37.200
+radio waves—they can be powerful, weak, or anywhere in between, and still be the same
+
+02:37.200 --> 02:43.280
+wavelength. In this context, we call that strength the amplitude. Therefore, we can transmit
+
+02:43.280 --> 02:48.800
+an audio signal, for example, by modifying that amplitude by a proportional amount. The receiver
+
+02:48.800 --> 02:53.680
+just needs to know how to interpret those amplitude modulations and translate them back to an audio
+
+02:53.680 --> 02:59.040
+signal. In the case of an AM radio station, the radio receiver only focuses on the radiation with
+
+02:59.040 --> 03:05.920
+a wavelength 1,119 feet or 341 meters long, for example, and it tracks the amplitude modulations
+
+03:05.920 --> 03:10.960
+to output the audio signal that we end up hearing. Amplitude modulation radio communication has a
+
+03:10.960 --> 03:16.320
+number of useful features—it's exceptionally simple and can work over huge distances—but it does
+
+03:16.320 --> 03:21.760
+tend to be highly susceptible to outside interference. That's a big reason why AM radio
+
+03:21.760 --> 03:26.560
+tends to be lower quality and a big reason why it's not as useful a technique for transmitting
+
+03:26.560 --> 03:32.880
+bigger chunks of data. Of course, the wavelength can also be manipulated. That means that we can
+
+03:32.880 --> 03:37.920
+essentially do the same thing, but this time by ever so slightly modifying the distance between
+
+03:37.920 --> 03:43.120
+waves. In this context, we'd refer to this as the frequency, which is proportional to wavelength,
+
+03:43.120 --> 03:48.080
+but rather than being a physical measure, it's a temporal one—how many times the wave oscillates
+
+03:48.080 --> 03:54.160
+within a second. So, by slightly modulating frequency, we can transmit the same audio signal,
+
+03:54.160 --> 04:00.000
+but, since this method is less susceptible to interference, we can generally get higher quality.
+
+04:00.000 --> 04:05.280
+Now, traditional radio works by encoding the audio signal itself into radio waves using amplitude or
+
+04:05.280 --> 04:10.720
+frequency modulation, but computers, phones, essentially everything digital nowadays encodes
+
+04:10.720 --> 04:17.040
+its data into binary code—sequences of ones and zeros. This only makes communication using
+
+04:17.040 --> 04:22.000
+electromagnetic radiation better. We could set it up so that when the amplitude is high that
+
+04:22.000 --> 04:27.680
+corresponds to a one, while when it's low it corresponds to a zero, or rather, when frequency
+
+04:27.680 --> 04:32.800
+is high that's a one, and when low that's a zero. This is simple and already more efficient
+
+04:32.800 --> 04:38.400
+than encoding the analog audio signal, but it could be even more efficient. That's because
+
+04:38.400 --> 04:43.840
+there's yet another wave property that we can manipulate. For these purposes, we can consider
+
+04:43.840 --> 04:51.760
+one full cycle of a wave, going up, down, and up again, one phase. But, we can also consider this,
+
+04:51.840 --> 04:57.920
+the wave going down, then up, then down again, one phase as well. Therefore, we could assign
+
+04:57.920 --> 05:04.080
+this upward phase to the binary digit one, and this one, the downward phase, to the binary digit
+
+05:04.080 --> 05:09.840
+zero. Then, we can transmit data using a sequence of these different phases. The transmitter doesn't
+
+05:09.840 --> 05:15.040
+need one phase to seamlessly go into the next, so it's an even faster, even more efficient way
+
+05:15.040 --> 05:20.080
+of encoding binary sequences into electromagnetic radiation. But here's where things get really
+
+05:20.080 --> 05:25.440
+cool. There can be more than two phases. We could divide the cycle into one phase starting at the
+
+05:25.440 --> 05:30.240
+midpoint going upward, one starting at the crest, one starting at the midpoint going downward,
+
+05:30.240 --> 05:36.000
+and one starting at the trough. So, with four distinct phases, one can correspond to the binary
+
+05:36.000 --> 05:43.200
+sequence zero-one, one to one-one, one to one-zero, and one to zero-zero. Therefore,
+
+05:43.200 --> 05:49.600
+we can cram twice as much data into the same signal. But it doesn't stop there. We can even
+
+05:49.680 --> 05:54.160
+take this a step further and have eight distinct phases so that we can transmit
+
+05:54.160 --> 05:59.680
+every possible three-digit sequence of ones and zeros, thereby tripling efficiency.
+
+05:59.680 --> 06:05.280
+Eight distinct phases is typically the practical limit for wireless data transmission—it becomes
+
+06:05.280 --> 06:10.560
+too tough to distinguish between phases with any more, so the error rate is too high—however,
+
+06:10.560 --> 06:15.600
+this is just manipulating one property of the wave, and there are, of course, two others.
+
+06:16.160 --> 06:21.920
+This phase, initially upward from the midpoint, could be broadcast at a high amplitude or a low
+
+06:21.920 --> 06:27.200
+amplitude. So, we can say that the low-amplitude version of this correlates to the binary sequence
+
+06:27.200 --> 06:33.280
+zero-zero-zero-zero while the high-amplitude version zero-zero-zero-one. By adding two
+
+06:33.280 --> 06:38.560
+amplitude options to each of the eight phases, we get sixteen total transmission options,
+
+06:38.560 --> 06:43.680
+meaning we have enough to correlate to each of the sixteen possible four-digit combinations of
+
+06:43.680 --> 06:48.560
+zeros and ones. If we have an accurate enough method of transmission, we could further increase
+
+06:48.560 --> 06:54.000
+the number of phase and amplitude combinations to a total of sixty-four, each corresponding to
+
+06:54.000 --> 07:00.320
+a six-digit binary sequence. In fact, the newest Wi-Fi standards have one thousand and twenty-four
+
+07:00.320 --> 07:05.120
+phase and amplitude combinations, while extremely accurate copper-twisted cables can deal with
+
+07:05.120 --> 07:10.960
+thirty-two thousand seven hundred and sixty-eight combinations, each corresponding to a fifteen-digit
+
+07:10.960 --> 07:16.240
+sequence. Constrained by the accuracy of wireless communication, your cell phone, meanwhile, uses
+
+07:16.240 --> 07:21.760
+as few as sixteen combinations in the case of some 3G networks, and as many as one thousand twenty-four
+
+07:21.760 --> 07:27.280
+in the most advanced 5G networks. Fundamentally, though, this is how your cell phone gets a lot
+
+07:27.280 --> 07:33.440
+of data out of a little slice of the radio spectrum. Of course, transmitting data is only
+
+07:33.440 --> 07:40.000
+half the battle. Something also needs to receive it. That something is, of course, a cell site.
+
+07:40.640 --> 07:46.240
+Now, keep in mind that a cell phone is essentially just a fancy walkie-talkie—it uses the exact same
+
+07:46.240 --> 07:52.400
+process, just more advanced. In fact, the earliest portable phones, car phones, were just one step
+
+07:52.400 --> 07:56.960
+removed from walkie-talkies. A telephone company would set up a radio transmitter in a city,
+
+07:56.960 --> 08:01.200
+users would install a bulky system in their car, the system would communicate with the transmitter
+
+08:01.200 --> 08:06.160
+just as a walkie-talkie would, and the tower would then plug the signal into the landline network.
+
+08:06.160 --> 08:11.600
+Put another way, it was just a city-wide version of cordless landlines. The only difference from
+
+08:11.600 --> 08:16.320
+walkie-talkies was that these car phones would have a dedicated channel for outbound transmission
+
+08:16.320 --> 08:20.960
+and a dedicated channel for inbound transmission so that both sides could talk simultaneously,
+
+08:20.960 --> 08:25.280
+unlike with a walkie-talkie where one needs to wait and push to talk since only one channel
+
+08:25.280 --> 08:29.520
+is used. These car phones were fairly similar to today's cell phones from a user experience
+
+08:29.520 --> 08:35.360
+perspective, but they were horribly inefficient. In their early days, there were only 32 available
+
+08:35.360 --> 08:40.080
+channels, meaning only 32 people in a city could use their car phones simultaneously.
+
+08:40.080 --> 08:44.320
+In addition, if one left the service area of that one tower in their home city,
+
+08:44.320 --> 08:49.600
+their car phones wouldn't work. Of course, the solution was cells.
+
+08:50.240 --> 08:55.680
+The idea was this—a given area would be split up into a pattern of hexagons. At the center of
+
+08:55.680 --> 09:00.880
+each of those hexagons was a cell site. These are generally thought of as cell towers, but that's
+
+09:00.880 --> 09:06.080
+a misnomer since cell sites can be located on buildings, inside church sepals, at the tops of
+
+09:06.080 --> 09:11.040
+mountains, or really anywhere that's elevated relative to the typical user. Fundamentally,
+
+09:11.040 --> 09:15.600
+these cell sites just send and receive radio signals to and from cell phones, which is a
+
+09:15.600 --> 09:20.800
+fairly simple process. Then, they need a way to plug into the wired communication network to
+
+09:20.800 --> 09:26.160
+convey data over longer distances. Often, this is accomplished through physical fiber-optic cables,
+
+09:26.160 --> 09:31.360
+but especially in more rural areas, that's not always practical. If one put a cell site on the
+
+09:31.360 --> 09:35.760
+top of a mountain, for example, it would likely have to operate completely off-grid, powered by
+
+09:35.760 --> 09:40.000
+solar or a generator, and it also couldn't physically plug into the wired communication
+
+09:40.000 --> 09:46.160
+network due to its isolation. Therefore, these more remote cell sites use microwave transmitters.
+
+09:46.800 --> 09:52.080
+Now, tiny microwaves, thanks to their extremely rapid frequency, are incredibly efficient at
+
+09:52.080 --> 09:56.720
+moving huge amounts of data fast—the most advanced systems have reached over 100 gigabits per
+
+09:56.720 --> 10:03.040
+second—but they're not very resilient. One needs a direct line of sight between the transmitter and
+
+10:03.040 --> 10:08.480
+receiver to accurately transmit, which prevents microwaves' use for portable cell phones. However,
+
+10:08.480 --> 10:14.560
+for fixed cell sites, this is possible. So, many are set up with microwave transmission systems
+
+10:14.560 --> 10:19.200
+that relay signal to the closest site with a physical link to the wired communication network.
+
+10:19.200 --> 10:24.320
+With both a wired and wireless option, cell sites can be located nearly anywhere,
+
+10:24.320 --> 10:29.600
+which is important because their location absolutely matters. Centering their hexagon,
+
+10:29.600 --> 10:33.760
+the signal from each of these sites must reach far enough that there is some overlap between
+
+10:33.760 --> 10:38.800
+the cells. That way, if a cell phone is being used on the move, the call can be seamlessly passed
+
+10:38.800 --> 10:43.440
+from one cell site to the next with no drop-off in signal, and the network can be expanded far
+
+10:43.440 --> 10:49.040
+beyond the reach of one transmitter. However, the system starts to seem less ingenious once
+
+10:49.040 --> 10:55.920
+you do the math. Originally, only 832 different frequencies were allocated for use by cell phones.
+
+10:55.920 --> 11:00.720
+There are a lot of different uses for the radio spectrum, so regulatory bodies like the American
+
+11:00.720 --> 11:06.160
+FCC, British Ofcom, or German Bnetze can only allocate so many frequencies for different
+
+11:06.160 --> 11:11.760
+industries, and spectrum allocation is crucial so that two users don't try to use the same frequency,
+
+11:11.760 --> 11:17.600
+which would render both of their uses useless. So, of those 832 frequencies,
+
+11:17.600 --> 11:23.920
+42 were used by the cell network for its own back-end internal communication. That left 790,
+
+11:23.920 --> 11:29.040
+but a call required both an outbound and inbound frequency, effectively meaning there were only
+
+11:29.040 --> 11:35.840
+395 call channels. However, in order to prevent interference, no two bordering cells could use
+
+11:35.840 --> 11:41.200
+the same frequency. As each hexagon had six neighbors, that meant each cell could only use
+
+11:41.200 --> 11:48.160
+one-seventh of the available channels. So, each cell had 56 channels, meaning 56 users within each
+
+11:48.160 --> 11:53.840
+cell could make a call at a given time. This initially worked fine, but then cell phones
+
+11:53.840 --> 11:59.680
+got popular. To keep up with demand, cell carriers needed to find a way to do more with a single
+
+11:59.680 --> 12:04.640
+frequency. When the second generation of mobile networks came along, calls were no longer
+
+12:04.640 --> 12:10.960
+transmitted as analog audio waves. Rather, they started to use those digital signals, encoded
+
+12:10.960 --> 12:16.640
+using phase and amplitude. The thing was, this method was more efficient, meaning using a whole
+
+12:16.640 --> 12:22.400
+channel to transmit a single voice conversation was overkill—one only needed part of it.
+
+12:22.400 --> 12:26.800
+Of course, the difficulty was that voice conversations happen in real-time—it's
+
+12:26.800 --> 12:31.680
+not like you could compress an entire two-minute call and send it at the end. Therefore, cell
+
+12:31.680 --> 12:37.120
+companies divided a given channel into eight time slots. These time slots would rotate one
+
+12:37.120 --> 12:42.240
+after another in rapid succession, and a given phone would be told to use, say, the third time
+
+12:42.240 --> 12:47.840
+slot. So, each time that time slot came up, it would fire off its ones and zeros quickly, then
+
+12:47.840 --> 12:52.240
+wait for it to come around again, but because the data was compressed into an efficient digital
+
+12:52.240 --> 12:56.880
+signal, the amount received during a time slot would be enough to decode into enough of the
+
+12:56.880 --> 13:02.320
+conversation to play until the next time slot came up. This system meant that one channel could
+
+13:02.320 --> 13:11.920
+now be used by eight phones simultaneously—what was 56 channels now became 448. But, eventually,
+
+13:11.920 --> 13:18.000
+as phones became ever more commonplace, this system of time-division multiple access became,
+
+13:18.000 --> 13:24.320
+once again, not good enough. The next evolution was where things got complicated,
+
+13:24.320 --> 13:31.920
+but also fascinating. It's called code division multiple access. It's an ingenious way where
+
+13:31.920 --> 13:38.880
+multiple phones can send and receive data on the same channel truly simultaneously. To explain the
+
+13:38.880 --> 13:44.160
+incredibly simple version, let's say a first user wants to transmit the binary sequence 11,
+
+13:44.160 --> 13:50.880
+a second user 01, and a third 10. Now, each of these users would be allocated what's called
+
+13:50.880 --> 13:59.280
+a spreading code—0101, 0011, and 0000, respectively. For the first user,
+
+13:59.280 --> 14:05.200
+their first binary digit, 1, would be compared to each of the four digits of their spreading code.
+
+14:05.200 --> 14:10.960
+If the spread code digit and the binary digit is the same, it will output a 0. If it's different,
+
+14:10.960 --> 14:18.800
+it will output a 1. So, for user 1, the output sequence would be 10101010. The process would
+
+14:18.800 --> 14:28.240
+repeat for user 2, which outputs 00111100, and user 3, which outputs 111100. Next, the sequences
+
+14:28.240 --> 14:34.320
+are translated so that zeros become positive ones and ones become negative ones. Then, each digit of
+
+14:34.320 --> 14:40.000
+the three sequences of numbers are added together. That outputs the composite sequence negative 11,
+
+14:40.000 --> 14:46.000
+negative 3, negative 1, negative 1, 1, 1, 3. This composite sequence is what is then transmitted
+
+14:46.000 --> 14:51.680
+using a single channel. Now, the exact details of this process are not tremendously important,
+
+14:51.680 --> 14:58.240
+but what is is what happens next. What happens next is that this process is reversed.
+
+14:58.240 --> 15:03.120
+So, the receiver of that composite sequence would know each user's unique spreading code.
+
+15:03.120 --> 15:07.440
+The spreading code is also translated so that zeros become positive ones and ones become
+
+15:07.440 --> 15:12.000
+negative ones, and then the receiver multiplies the composite sequence with this translated
+
+15:12.000 --> 15:18.160
+spreading code. For user 1, that outputs negative 1, negative 1, negative 3, 1, negative 1,
+
+15:18.160 --> 15:23.760
+negative 1, 1, negative 3. Now, the first four digits of this sequence, which we know correlate
+
+15:23.760 --> 15:28.000
+with the first digit of the data, are added together to get negative 4, which is then
+
+15:28.000 --> 15:33.360
+divided by 4 to get negative 1. The process repeats for the second set of four to get negative 1.
+
+15:33.360 --> 15:38.400
+Now, if we translate this back so that negative ones become ones and positive ones become zeros,
+
+15:38.400 --> 15:44.160
+then we get the data sequence, 1, 1. With just the composite sequence and the unique
+
+15:44.160 --> 15:50.640
+spreading code, this process figured out what user 1's unique data sequence was. If we repeat
+
+15:50.640 --> 15:56.720
+this entire decoding process with user 2's spreading code, we get 0, 1—its data sequence—and
+
+15:56.720 --> 16:03.120
+unsurprisingly, it also works for user 3. So, with one composite signal and three unique spreading
+
+16:03.120 --> 16:09.040
+codes, we are able to triple up the use of one channel. In practice, this process works at a
+
+16:09.040 --> 16:14.960
+much larger, much more complex scale, but it uses these same mathematical principles.
+
+16:15.600 --> 16:23.680
+This, fundamentally, is how cell service works. Making a two-way radio work for one person is
+
+16:23.680 --> 16:30.480
+simple. Making a two-way radio work for everyone, in the same area, at the same time, is difficult.
+
+16:30.480 --> 16:34.720
+It's all about packing as much data as possible into a single transmission,
+
+16:34.720 --> 16:39.040
+and then packing as many transmissions as possible into a single radio wave.
+
+16:39.040 --> 16:43.600
+The aforementioned techniques to accomplish these two goals are only the tip of the iceberg.
+
+16:43.600 --> 16:48.080
+Many of the most advanced networks have moved onto a system called orthogonal frequency division
+
+16:48.080 --> 16:52.240
+multiple access to pack even more transmissions into a single wavelength, for example,
+
+16:52.240 --> 16:57.840
+but they are indicative of the process that got us to today. When we move from 3G to 4G
+
+16:57.840 --> 17:03.200
+and 4G to 5, what's happening in the background is incredibly smart people finding more and more
+
+17:03.200 --> 17:08.320
+ingenious methods of transmitting more data using these same resources, all so that we,
+
+17:08.320 --> 17:13.840
+the end users, can browse Twitter and watch YouTube just ever so slightly faster.
+
+17:15.200 --> 17:19.600
+Now that this video's over, I am extremely excited to announce that in just two weeks,
+
+17:19.600 --> 17:25.440
+we'll be releasing our first ever feature-length documentary. It's called The Colorado Problem—A
+
+17:25.440 --> 17:30.400
+River in the Red. Never before have I been more surprised that a story isn't covered more.
+
+17:30.400 --> 17:35.440
+The Colorado River, the river that single-handedly supplies water for the entire desert region of the
+
+17:35.440 --> 17:41.600
+American Southwest, is becoming smaller and smaller and smaller each year and the reserves
+
+17:41.600 --> 17:47.680
+are almost gone. Put another way, in much of Utah, Nevada, Arizona, and California,
+
+17:47.680 --> 17:52.400
+people need more water than they can get. Our documentary covers what led to such a
+
+17:52.400 --> 17:57.040
+cataclysmic problem, and the harsh reality of the future for the American Southwest.
+
+17:57.040 --> 18:01.040
+You'll be able to watch it on either CuriosityStream or Nebula when it releases
+
+18:01.040 --> 18:05.360
+on February 8th, but of course, if you're not currently a subscriber of either of those
+
+18:05.360 --> 18:09.920
+streaming services, the CuriosityStream-Nebula bundle deal, available on sale now for less than
+
+18:09.920 --> 18:16.400
+$15 a year at CuriosityStream.com slash Wendover, gets you access to both. CuriosityStream has a
+
+18:16.400 --> 18:20.880
+huge catalogue of top-quality non-fiction shows and documentaries, while Nebula is the streaming
+
+18:20.880 --> 18:26.240
+site founded by creators, including myself, to act as the best home to the stuff we make.
+
+18:26.240 --> 18:30.560
+It features all our normal videos early and ad-free, occasional exclusive behind-the-scenes
+
+18:30.560 --> 18:35.520
+and companion videos, as well as the big-budget Nebula originals that many of you know so well.
+
+18:35.520 --> 18:39.840
+So, make sure to block off 90 minutes on February 8th to watch the Colorado problem,
+
+18:39.840 --> 18:43.680
+and, if you haven't already, head to CuriosityStream.com slash Wendover or click
+
+18:43.680 --> 18:47.760
+the button on screen to get both Nebula and CuriosityStream for less than what you pay
+
+18:47.760 --> 18:51.680
+for a month of the larger streaming services, and you'll be helping support Wendover and
+
+18:51.680 --> 18:55.440
+tons of other independent creators while you're at it.
+

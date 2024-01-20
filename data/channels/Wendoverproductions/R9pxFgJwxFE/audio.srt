@@ -1,0 +1,824 @@
+1
+00:00:00,560 --> 00:00:07,440
+This is Bancroft. It's a small Iowa town composed of a grocery store, a bank, a liquor store,
+
+2
+00:00:07,440 --> 00:00:12,000
+hardware store, office supply store, flower shop, hair salon, medical clinic, bed and breakfast,
+
+3
+00:00:12,000 --> 00:00:16,240
+funeral home, trailer manufacturer, whiskey distillery, gym, baseball field, city pool,
+
+4
+00:00:16,240 --> 00:00:20,000
+nine-hole golf course, two gas stations, two restaurants, two feed suppliers, two car
+
+5
+00:00:20,000 --> 00:00:27,840
+dealerships, 346 homes, 699 people, and that's about it. Bancroft more or less nestles into a
+
+6
+00:00:27,840 --> 00:00:34,720
+single 1x1 mile square, and it's surrounded by eight other 1x1 mile squares—fields full of corn
+
+7
+00:00:34,720 --> 00:00:40,560
+and soybean. Six squares down, there's another town, Burt. Six to the west, it's Lone Rock,
+
+8
+00:00:40,560 --> 00:00:46,320
+then six more, and there's Fenton. This consistent human distribution is reflective of these towns'
+
+9
+00:00:46,320 --> 00:00:52,160
+common cause. They're farm towns. Their economy is the fuels that envelop them, it's the crops
+
+10
+00:00:52,160 --> 00:00:56,880
+they grow, and so their spacing is dictated by the amount of people that these fields that separate
+
+11
+00:00:56,880 --> 00:01:03,280
+them can reasonably provide for financially. 974 of these squares combined represent Coseth
+
+12
+00:01:03,280 --> 00:01:10,400
+County. Of those, a full 355 are dedicated to the cultivation of soybean, while even more,
+
+13
+00:01:10,400 --> 00:01:17,840
+475, are used to grow corn. Therefore, this county, as large as the country of Luxembourg,
+
+14
+00:01:17,840 --> 00:01:25,440
+uses some 85% of its area for the singular purpose of growing these two crops. The reason why is
+
+15
+00:01:25,440 --> 00:01:31,600
+because Coseth County and its neighbors are powerhouses in the world of agriculture—crucial
+
+16
+00:01:31,600 --> 00:01:36,720
+food production resources not only for Iowa, not only for the United States, not only even just
+
+17
+00:01:36,720 --> 00:01:43,520
+for North America, but for the entire world. For a farmer living and working, say, here,
+
+18
+00:01:43,520 --> 00:01:47,840
+a four-mile drive outside of Bancroft on an average-sized farm, the process of feeding the
+
+19
+00:01:47,840 --> 00:01:52,560
+globe, supporting the American economy, powering the local community, and providing for their own
+
+20
+00:01:52,640 --> 00:01:57,280
+families starts anew every spring, when they sit down at the kitchen table, flip to April
+
+21
+00:01:57,280 --> 00:02:02,000
+on their calendar, and decide exactly when and exactly what they're going to plant.
+
+22
+00:02:02,720 --> 00:02:11,440
+Now, of the 23,195,000 acres planted in Iowa in 2021, 23 million acres were filled with soybean
+
+23
+00:02:11,440 --> 00:02:17,280
+or corn. It's a safe bet, in other words, that, come April, this farmer will be planting one of
+
+24
+00:02:17,280 --> 00:02:23,200
+these two major cash crops. Deciding what to plant, however, is not simply an either-or
+
+25
+00:02:23,200 --> 00:02:27,280
+proposition. Considering that all this land has been planted with corn in years prior,
+
+26
+00:02:27,280 --> 00:02:31,120
+and that events in other corn-producing regions of the world has this farmer feeling bullish on its
+
+27
+00:02:31,120 --> 00:02:36,480
+immediate prospects, it's likely that they'll pass on soybean and go with corn. But that's only
+
+28
+00:02:36,480 --> 00:02:42,720
+the start—now, the farmer has hundreds of viable seed hybrids to choose from. Selective breeding
+
+29
+00:02:42,720 --> 00:02:47,600
+over millennia and genetic modification in recent decades, after all, are what transformed corn from
+
+30
+00:02:47,600 --> 00:02:53,680
+this to this—a crop packing enough energy to power combustion engines and America's meat industry
+
+31
+00:02:53,680 --> 00:02:59,120
+alike. There also would have allowed per-acre corn production to skyrocket over the past century,
+
+32
+00:02:59,120 --> 00:03:03,120
+as breeding for increased yield, disease resistance, and drought tolerance have
+
+33
+00:03:03,120 --> 00:03:08,400
+pushed bushel-per-acre yields to levels pre-war Americans could never have even imagined.
+
+34
+00:03:08,880 --> 00:03:14,000
+For this average Iowa farmer, on this average Iowa farm, though, it's not the path that matters,
+
+35
+00:03:14,000 --> 00:03:17,600
+but the future, and to ensure they're making the most of the growing season,
+
+36
+00:03:17,600 --> 00:03:24,160
+they need to nail their seed selection. 99% of corn grown in Iowa isn't the type you eat fresh
+
+37
+00:03:24,160 --> 00:03:28,720
+off the cob—it's field corn, or the type that goes on to make ethanol in other parts of Iowa,
+
+38
+00:03:28,720 --> 00:03:34,800
+or feed livestock in Wyoming, or sweeten drinks in Georgia. And still, the options are endless
+
+39
+00:03:34,800 --> 00:03:39,920
+when it comes to field corn seeds—some hold it better in dry years, others in wet years.
+
+40
+00:03:39,920 --> 00:03:44,320
+Some produce stronger stalks, others produce larger ears. Some fare better when planted in
+
+41
+00:03:44,320 --> 00:03:49,280
+untilled soils, others require only minimal fertilizer. Ultimately, though, informing
+
+42
+00:03:49,280 --> 00:03:56,320
+which seed a farmer chooses largely comes down to one all-important metric—average yield—the
+
+43
+00:03:56,320 --> 00:04:01,120
+number of bushels each acre can produce. So, to figure out what will make the farmer the most
+
+44
+00:04:01,120 --> 00:04:06,480
+bushels and therefore the most money, they start here, with the Iowa Crop Improvement Association's
+
+45
+00:04:06,480 --> 00:04:11,760
+Corn Performance Test. Now, considering Bancroft's less than 30 miles or 50 kilometers from the test
+
+46
+00:04:11,760 --> 00:04:16,800
+site in Corwith, that the towns sit in the same ICIA north district, and that they both occupy
+
+47
+00:04:16,800 --> 00:04:21,840
+the same soil region made up of loamy Wisconsin glacial till, it stands to reason that what works
+
+48
+00:04:21,840 --> 00:04:27,440
+in one spot will work in the other. Grabbing the farmer's eyes first, then, are likely these legacy
+
+49
+00:04:27,440 --> 00:04:33,040
+and DeKalb seeds, which in 2021, a record-setting year for statewide yields, performed well above
+
+50
+00:04:33,040 --> 00:04:38,560
+the state average of 205 bushels per acre. Yield is the most important metric, but it's
+
+51
+00:04:38,560 --> 00:04:43,840
+not the only factor influencing our farmer's choice—the corn's use, the seed's price,
+
+52
+00:04:43,840 --> 00:04:48,800
+the farmer's past experiences, and brand loyalty all inform that final decision.
+
+53
+00:04:49,440 --> 00:04:53,760
+Given that DeKalb's hybrid performs so well in an environment so similar to Bancroft's,
+
+54
+00:04:53,760 --> 00:04:58,560
+and given that Arndorferbro's seed, conveniently located right here in Bancroft, just so happens
+
+55
+00:04:58,560 --> 00:05:03,840
+to sell DeKalb seeds, all things being equal, it makes sense that this farmer bought the DeKalb
+
+56
+00:05:03,840 --> 00:05:10,080
+$52.99 RIB or something like it. Or perhaps not—perhaps the farmer considered the weather
+
+57
+00:05:10,080 --> 00:05:15,680
+outlook for the coming year, and went a different route. You see, while billions of dollars a year
+
+58
+00:05:15,680 --> 00:05:20,400
+are invested in the creation of these hybrid seeds, and in turn, billions a year are brought
+
+59
+00:05:20,400 --> 00:05:25,200
+in by the crops these seeds produce, critical junctures of the process revolve entirely around
+
+60
+00:05:25,200 --> 00:05:31,600
+the farmer's informed and well-tuned intuition. 2022, for example, is a La Niña year—a year
+
+61
+00:05:31,600 --> 00:05:35,680
+where the winter has been cold and damp, and a year where cold snaps, above-average moisture,
+
+62
+00:05:35,680 --> 00:05:40,160
+and extreme weather events are bound to continue through spring and summer. Perhaps then, our
+
+63
+00:05:40,160 --> 00:05:44,480
+farmer, considering the higher likelihood of above-average rainfall and potential flooding,
+
+64
+00:05:44,480 --> 00:05:49,920
+went with a hybrid seed better suited for damp conditions. Such weather not only informs what
+
+65
+00:05:50,000 --> 00:05:54,880
+is planted, but when it's planted, too. Using Iowa State Extension estimates,
+
+66
+00:05:54,880 --> 00:06:00,080
+and assuming our farmer is aiming for maximum yield on their land, seeds for 395 acres will
+
+67
+00:06:00,080 --> 00:06:06,800
+cost $49,000, while running planting machinery another $4,500. If the farmer plants too early
+
+68
+00:06:06,800 --> 00:06:14,000
+and loses the crop to a late frost, they're effectively out $55,000. Seed selected,
+
+69
+00:06:14,000 --> 00:06:18,480
+weather considered, and risk accounted for, sometime during the last week of April and the
+
+70
+00:06:18,480 --> 00:06:23,360
+1st of May, our farmer attaches their 16-row planter onto a tractor, sets the attachment's
+
+71
+00:06:23,360 --> 00:06:29,040
+row width and seed depths, fills the fertilizer hopper, and sets out onto the field. For a few
+
+72
+00:06:29,040 --> 00:06:34,240
+days, machinery that's valued in the mid-six figures will get its only use of the year.
+
+73
+00:06:34,240 --> 00:06:38,240
+In the coming weeks, as spring gives way to summer, the corn stalks will begin to bolt
+
+74
+00:06:38,240 --> 00:06:44,160
+skyward, and the work will continue. A poor planting strategy can ruin a farmer's season,
+
+75
+00:06:44,160 --> 00:06:49,200
+but that doesn't mean a perfect strategy will result in maximum yield either. Throughout the
+
+76
+00:06:49,200 --> 00:06:53,200
+growing season, from the end of spring to the beginning of fall, much can go wrong,
+
+77
+00:06:53,200 --> 00:06:59,200
+and much hangs on the farmer's ability to adapt. While no farmer, Iowan, or otherwise can control
+
+78
+00:06:59,200 --> 00:07:05,120
+the weather, generations of agricultural Americans have done their best to exert at least some agency
+
+79
+00:07:05,120 --> 00:07:10,160
+over the environment. In Iowa, the most obvious sign of this pursuit is the ever-present, but
+
+80
+00:07:10,160 --> 00:07:16,720
+easy-to-overlook drainage ditch. While humble in form, these cuts into the countryside are critical,
+
+81
+00:07:16,720 --> 00:07:23,600
+and our farmer just northwest of Bancroft knows it. Take Mud Creek, for example. For Bancroft
+
+82
+00:07:23,600 --> 00:07:29,200
+golfers on Hole 2, it's a likely landing spot for an errant drive. For travelers leaving Bancroft on
+
+83
+00:07:29,200 --> 00:07:36,080
+Highway 169, it offers a brief change of scenery. For our farmer, though, Mud Creek serves as
+
+84
+00:07:36,160 --> 00:07:40,880
+insurance. You see, while the western US cut ditches and built dams to grow crops in the
+
+85
+00:07:40,880 --> 00:07:46,240
+desert, Iowans cut ditches to grow crops in wetlands. In Iowa, it's not the lack of rain
+
+86
+00:07:46,240 --> 00:07:51,520
+that makes farming hard, but its abundance. For our farmer, Mud Creek is the lowest point on the
+
+87
+00:07:51,520 --> 00:07:56,640
+property, and while it may cut slightly into their acreage, the creek, along with the subterranean
+
+88
+00:07:56,640 --> 00:08:01,920
+tiles and pipes, drain excess rainfall from the field and insulate the property from crop-killing
+
+89
+00:08:01,920 --> 00:08:07,600
+stagnant water. Without proper drainage, in a worst-case scenario, sprouting seeds drown,
+
+90
+00:08:07,600 --> 00:08:12,800
+topsoil runs off, and mud keeps the farmer from even inspecting the damage. In the best-case
+
+91
+00:08:12,800 --> 00:08:17,120
+scenario, without drainage tiles running below their field, a farmer's yields will be hampered
+
+92
+00:08:17,120 --> 00:08:22,480
+when the first rainstorm washes away the crop's fertilizer, and along with it, the farmer's yield.
+
+93
+00:08:22,480 --> 00:08:26,640
+Beyond keeping excess water away from the growing crop, the farmer must also make sure that the
+
+94
+00:08:26,640 --> 00:08:31,440
+plant has easy access to needed nutrients to ensure quality yields. Beginning when planted
+
+95
+00:08:31,440 --> 00:08:34,960
+with a starter fertilizer, then reapplied throughout the summer depending on the seed
+
+96
+00:08:34,960 --> 00:08:40,640
+and soil conditions, a mix of nitrogen, phosphorus, and potassium are applied to maximize the plant's
+
+97
+00:08:40,640 --> 00:08:46,240
+growth. In such ideal growing conditions, though, corn stalks aren't the only thing growing on the
+
+98
+00:08:46,240 --> 00:08:51,280
+farmer's field. Along with proactively applying nutrients as the crop matures, the farmer also
+
+99
+00:08:51,280 --> 00:08:57,680
+monitors the arrival and spread of weeds and pests. Neither fertilizers nor pesticides are cheap.
+
+100
+00:08:57,680 --> 00:09:03,040
+According to Iowa State's estimated costs, at a per-acre rate, nitrogen is more expensive than
+
+101
+00:09:03,040 --> 00:09:07,680
+the seeds it supports, while applying pesticides requires additional machine hours or employing
+
+102
+00:09:07,680 --> 00:09:12,960
+a pilot to spread the product from above. And yet, the farmer wouldn't dare cut corners at
+
+103
+00:09:12,960 --> 00:09:18,400
+this stage, as these products are some of modern science's most successful forays into standardizing,
+
+104
+00:09:18,400 --> 00:09:24,160
+overriding, and protecting against nature's inherent chaos. And so, our farmer further
+
+105
+00:09:24,160 --> 00:09:28,960
+extends themselves financially as the corn stalks extend themselves vertically.
+
+106
+00:09:28,960 --> 00:09:33,440
+With the summer behind it and fall weather setting in, it's finally time for our farm,
+
+107
+00:09:33,440 --> 00:09:39,440
+and all the farms of Iowa, to begin capitalizing on all their work. But exactly when this happens
+
+108
+00:09:39,440 --> 00:09:44,880
+is not down to the farmers, it's down to the weather. This massive industry collectively
+
+109
+00:09:44,880 --> 00:09:49,600
+waits in the wings for the world to deliver a long enough stretch of dry days to allow the harvest to
+
+110
+00:09:49,600 --> 00:09:55,840
+begin—and this doesn't always come easy. In 2018, for example, Cozuth County received more than
+
+111
+00:09:55,840 --> 00:09:59,920
+double its average precipitation at the start of fall, which made it difficult to get the crop to
+
+112
+00:09:59,920 --> 00:10:04,640
+its necessary level of dryness, and impossible to get large farm equipment into the fields without
+
+113
+00:10:04,640 --> 00:10:09,520
+getting stuck in the mud. This slowed down the harvest considerably, and the county saw its worst
+
+114
+00:10:09,520 --> 00:10:16,160
+corn yields since 2014. Even a day of weather months before can sway the success of the harvest.
+
+115
+00:10:16,160 --> 00:10:22,880
+In 2020, Iowa suffered an extremely severe August derecho storm. The high winds it brought damaged
+
+116
+00:10:22,880 --> 00:10:28,800
+the crop, pushing stalks of corn into a severe lean. This leaning crop condition, referred to
+
+117
+00:10:28,800 --> 00:10:34,240
+as lodged corn, makes it difficult for combine harvesters to capture and process all the plant,
+
+118
+00:10:34,240 --> 00:10:40,240
+leading to lower yields. Therefore, immediately after the storm, local and regional agriculture
+
+119
+00:10:40,240 --> 00:10:44,720
+organizations started publishing information on how to adapt standard operating procedures
+
+120
+00:10:44,720 --> 00:10:49,760
+to this widespread damage. Many farmers took their advice to buy a special attachment for
+
+121
+00:10:49,760 --> 00:10:54,880
+their combine heads, which helps prop up lodged corn. Iowa State's Integrated Crop Management
+
+122
+00:10:54,880 --> 00:10:58,960
+Program also recommended harvesting from the direction to which the crop is leaning, lowering
+
+123
+00:10:58,960 --> 00:11:03,760
+the combine head more than typical, and operating at a lower speed. They even added a suggestion
+
+124
+00:11:03,760 --> 00:11:10,080
+that farmers call a dedicated 24-7 stress hotline if needed—acknowledging the degree of mental and
+
+125
+00:11:10,080 --> 00:11:15,840
+emotional impact a less-than-stellar harvest can have on farmers. Given the tiny margins in the
+
+126
+00:11:15,840 --> 00:11:19,840
+farming industry, the difference between an upright and leaning crop can mean the difference
+
+127
+00:11:19,840 --> 00:11:25,600
+between a profitable and unprofitable year given its impact on yields. But regardless of field
+
+128
+00:11:25,600 --> 00:11:31,200
+conditions, the combine harvester's job is the same—it's to take in the crop and process it
+
+129
+00:11:31,200 --> 00:11:37,920
+down into the grain by itself. Now, the combine harvester is an incredibly influential piece of
+
+130
+00:11:37,920 --> 00:11:43,920
+machinery—it is single-handedly responsible for much of the progress made in food supply and cost
+
+131
+00:11:43,920 --> 00:11:49,760
+over the past century. What was once an exceedingly manual process, involving a huge swath of laborers
+
+132
+00:11:49,760 --> 00:11:55,600
+picking and processing the crop primarily by hand, now occurs in a matter of seconds with a single
+
+133
+00:11:55,600 --> 00:12:00,720
+human operator. The combine's head orients to a certain height above the ground using a sensor,
+
+134
+00:12:00,720 --> 00:12:05,520
+and the entire machine auto-steers using another sensor that follows the line of corn.
+
+135
+00:12:05,520 --> 00:12:10,000
+Meanwhile, the snouts feed the crop to a pair of downward-spinning rotors that pull the plant
+
+136
+00:12:10,000 --> 00:12:15,040
+through a narrow gap with the ears of corn, given their wider shape, get caught and pulled inward
+
+137
+00:12:15,040 --> 00:12:20,160
+by gathering chains. Then, the ears are pulled in further by augers to the feedhouse, and fed
+
+138
+00:12:20,160 --> 00:12:24,480
+through a cylinder that throws the plants back into a series of mechanical processes that separate
+
+139
+00:12:24,480 --> 00:12:29,280
+the grain from the chuff, the unusable part, and by the end a series of augers and paddles pull
+
+140
+00:12:29,280 --> 00:12:34,640
+the corn kernels themselves up into the combine's tanks. As the combine harvests, a tractor with a
+
+141
+00:12:34,640 --> 00:12:39,120
+grain cart pulls alongside it, and the combine lets out its arm and delivers grain into the cart.
+
+142
+00:12:39,760 --> 00:12:43,600
+Once full, the tractor drives away, while the combine continues harvesting,
+
+143
+00:12:43,600 --> 00:12:48,400
+and heads to a waiting semi-truck pulling a far larger grain trailer, in which it deposits its
+
+144
+00:12:48,400 --> 00:12:53,280
+load. The process repeats itself until the trailer is full, at which point the semi drives a couple
+
+145
+00:12:53,280 --> 00:12:59,600
+miles into Bancroft. Now, a common landmark across nearly all of Iowa's small farming towns
+
+146
+00:12:59,600 --> 00:13:05,040
+is each community's grain elevator. These are absolutely critical pieces of infrastructure
+
+147
+00:13:05,040 --> 00:13:10,720
+for the region's economy. Bancroft's, indicative, is operated by the Regional Farmers Co-op,
+
+148
+00:13:10,720 --> 00:13:16,320
+State Line Cooperative. Upon arrival, a probe is placed into the grain trailer to take a sample
+
+149
+00:13:16,320 --> 00:13:22,080
+of the corn. That sample is inspected and tested for its moisture content—it has to be below 15%
+
+150
+00:13:22,080 --> 00:13:26,400
+to ensure mold won't grow during storage, which is especially important since it'll be mixed in with
+
+151
+00:13:26,400 --> 00:13:31,520
+other farmers' crop. Simultaneously, the truck is weighed to determine how much corn is being
+
+152
+00:13:31,520 --> 00:13:36,240
+delivered. Then, it pulls forward and a door beneath the trailer opens to pour the grain
+
+153
+00:13:36,240 --> 00:13:41,440
+through a grate below. Finally, a bucket belt carries the grain to the very top of the elevator,
+
+154
+00:13:41,440 --> 00:13:47,360
+where it gets deposited into the storage bin. Now the farmers have two primary choices for what
+
+155
+00:13:47,360 --> 00:13:51,600
+happens next. They could sell their crop immediately to the co-op, in which case they
+
+156
+00:13:51,600 --> 00:13:56,960
+get paid based on corn's current market rate. However, during the harvest season, market rates
+
+157
+00:13:56,960 --> 00:14:01,520
+for the crop often dip as it gets flooded with supply, especially recently given a widespread
+
+158
+00:14:01,520 --> 00:14:08,000
+shortage of grain storage capacity. Therefore, if farmers can store the corn, they often do.
+
+159
+00:14:08,000 --> 00:14:12,400
+Bancroft's grain elevator charges five cents per month per bushel for the first three months,
+
+160
+00:14:12,400 --> 00:14:17,600
+then four cents per bushel per month after that, but this cost is typically well worth it.
+
+161
+00:14:17,600 --> 00:14:22,720
+During 2021's harvest season, for example, market prices were about $5.5 per bushel,
+
+162
+00:14:22,720 --> 00:14:30,080
+but by spring 2022, they were up to $7.5. The grain market is a global one, and so ebbs and
+
+163
+00:14:30,080 --> 00:14:34,720
+flows in supply and demand around the world influence how many trucks roll through Bancroft's
+
+164
+00:14:34,720 --> 00:14:39,680
+streets to pick up a load from their grain elevator on a given day. Once that day does come,
+
+165
+00:14:39,680 --> 00:14:43,920
+though, if it's not going to a nearby processing facility to be turned into livestock feed or
+
+166
+00:14:43,920 --> 00:14:48,080
+ethanol, chances are good that a truck in Bancroft is starting a trip three hours east
+
+167
+00:14:48,080 --> 00:14:52,480
+to La Crosse, Wisconsin. There, it unloads at a small grain elevator on the banks of the
+
+168
+00:14:52,480 --> 00:14:57,120
+Mississippi River run by Cargill, one of the largest companies in the world which,
+
+169
+00:14:57,120 --> 00:15:02,560
+among other food-related functions, holds about 25% of the US's grain export market.
+
+170
+00:15:03,120 --> 00:15:07,600
+Once enough product is aggregated, it's loaded into a series of barges which are then lashed
+
+171
+00:15:07,600 --> 00:15:13,040
+together and propelled forward by a tugboat. The tug orients the barges south, and then begins a
+
+172
+00:15:13,040 --> 00:15:19,440
+massive 15-day journey through 19 locks and 1,500 miles or 2,400 kilometers of river.
+
+173
+00:15:20,000 --> 00:15:24,800
+This transportation method is propped up by the fact that grain is not a very time-sensitive
+
+174
+00:15:24,800 --> 00:15:30,400
+product. In its dry form it's hardly perishable, and given the huge quantity shipped simultaneously,
+
+175
+00:15:30,400 --> 00:15:36,000
+few ever have a pressing need for it. Therefore, this exceptionally slow system of barge transport
+
+176
+00:15:36,000 --> 00:15:41,520
+works fine, and it's certainly the most competitive in terms of cost. Shipping a ton of
+
+177
+00:15:41,520 --> 00:15:46,720
+grain all the way from St. Louis to New Orleans typically costs less than $20 on a Mississippi
+
+178
+00:15:46,720 --> 00:15:53,520
+River barge—far less than by truck or rail. In fact, a major reason why America's Corn Belt is
+
+179
+00:15:53,520 --> 00:15:58,640
+such a competitive agricultural region is its access to this low-cost means of transportation
+
+180
+00:15:58,640 --> 00:16:03,760
+via the Mississippi River. Other growing areas of the world, confined to high-cost truck or
+
+181
+00:16:03,760 --> 00:16:09,280
+rail transport, just can't compete against America's industry. The destination for all
+
+182
+00:16:09,280 --> 00:16:14,880
+these barges is New Orleans. Its prominence as a city has always been and still is linked to its
+
+183
+00:16:14,880 --> 00:16:20,160
+position at the end of America's most important navigable river. There, the barge from La Crosse
+
+184
+00:16:20,160 --> 00:16:25,200
+arrives at Cargill's massive New Orleans facility, where the grain enters yet another elevator.
+
+185
+00:16:25,200 --> 00:16:30,160
+Aggregated with the annual output of countless other farms, the Corn is next loaded onto a large,
+
+186
+00:16:30,160 --> 00:16:35,840
+ocean-going bulk carrier ship. And then finally, the bulk carrier navigates through the final
+
+187
+00:16:35,840 --> 00:16:39,360
+twists and turns of the Mississippi River, enters the Gulf of Mexico,
+
+188
+00:16:39,360 --> 00:16:43,920
+and begins a weeks-long journey to wherever the corn market's demand dictates.
+
+189
+00:16:45,360 --> 00:16:49,520
+One reason I was excited to cover this topic is because I knew I could get all sorts of
+
+190
+00:16:49,520 --> 00:16:54,560
+spectacular footage of the cornfields of Iowa from our stock footage provider, Storyblocks.
+
+191
+00:16:54,560 --> 00:16:58,640
+Quite literally since the very first Wendover video, they've been the first place we go to
+
+192
+00:16:58,640 --> 00:17:03,280
+find footage, which is why I'm so excited that they're now sponsoring us. As you might know,
+
+193
+00:17:03,280 --> 00:17:06,640
+most stock footage providers are focused on corporate contracts with massive media
+
+194
+00:17:06,640 --> 00:17:11,120
+organizations, so when an individual creator comes along, they charge them hundreds of dollars
+
+195
+00:17:11,120 --> 00:17:16,880
+per clip. Storyblocks, however, is made from the ground up to be the provider for creators.
+
+196
+00:17:16,880 --> 00:17:20,960
+They offer an unlimited subscription so that you can download and use as much as you need
+
+197
+00:17:20,960 --> 00:17:25,520
+for an annual price lower than what other providers charge for a clip. Beyond an unlimited
+
+198
+00:17:25,520 --> 00:17:30,480
+subscription, Storyblocks also offers an entirely royalty-free library, meaning you can use anything
+
+199
+00:17:30,480 --> 00:17:35,920
+from the library for any commercial or personal use. The library is also demand-driven, making
+
+200
+00:17:35,920 --> 00:17:40,240
+it so that what's add-in, 4K video, or After Effects and Premiere Pro templates, is of the
+
+201
+00:17:40,240 --> 00:17:45,360
+most use to you, the creator. And Storyblocks offers more than just footage and templates—they
+
+202
+00:17:45,360 --> 00:17:49,360
+also provide music, images, sound effects, and more. If you're already a creator or want to
+
+203
+00:17:49,360 --> 00:17:53,600
+become one, I can tell you from my more than five years of experience as their customer that
+
+204
+00:17:53,600 --> 00:17:58,240
+Storyblocks is an absolutely critical resource to have. I don't think I know a single full-time
+
+205
+00:17:58,240 --> 00:18:02,400
+creator that doesn't have a subscription to them. So, click the button on screen or head to
+
+206
+00:18:02,400 --> 00:18:08,400
+Storyblocks.com slash Wendover to sign up, and you'll be supporting the channel while you're at it.
+

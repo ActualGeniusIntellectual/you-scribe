@@ -1,0 +1,602 @@
+WEBVTT
+
+00:00.000 --> 00:02.500
+This video was made possible by Brilliant.
+
+00:02.500 --> 00:07.160
+Learn intuitively with Brilliant for 20% off by being one of the first 200 to sign up at
+
+00:07.160 --> 00:09.940
+brilliant.org slash wendover.
+
+00:09.940 --> 00:16.520
+If you look up, there are 4,708 satellites that came from earth currently orbiting our
+
+00:16.520 --> 00:17.520
+planet.
+
+00:17.520 --> 00:21.140
+Just in the portion of the sky you can see, hundreds of satellites are passing overhead
+
+00:21.140 --> 00:22.780
+at any given time.
+
+00:22.780 --> 00:27.540
+You often can't see them, but they're there making GPS work, taking images of earth,
+
+00:27.540 --> 00:30.540
+scanning communications, even spying for governments.
+
+00:30.540 --> 00:34.620
+These satellites are some of the most expensive single objects that can be made.
+
+00:34.620 --> 00:38.980
+If you took a tennis ball sized chunk of the Hubble Space Telescope, it would be worth
+
+00:38.980 --> 00:41.540
+over $1,500.
+
+00:41.540 --> 00:46.020
+Modern full-scale commercial-grade satellites cost in the hundreds of millions of dollars.
+
+00:46.020 --> 00:50.580
+They're just incredibly complex objects that require years to construct.
+
+00:50.580 --> 00:55.880
+Many of the satellites flying over you right now, though, started their life here, at SSL
+
+00:55.880 --> 00:57.720
+in Palo Alto, California.
+
+00:57.720 --> 01:02.880
+SSL is a commercial company owned by Maxar Technology specializing in satellite and spacecraft
+
+01:02.880 --> 01:03.880
+construction.
+
+01:03.880 --> 01:07.840
+They've built spacecraft that are currently in orbit for everyone from DirecTV to national
+
+01:07.840 --> 01:08.840
+governments.
+
+01:08.840 --> 01:12.560
+If you've ever watched satellite TV, listened to satellite radio, or used satellite internet
+
+01:12.560 --> 01:16.480
+on a plane, there's a decent chance you've directly used one of the satellites they built
+
+01:16.480 --> 01:17.920
+here in their factory.
+
+01:17.920 --> 01:21.320
+But let's say you want to buy a satellite from SSL.
+
+01:21.320 --> 01:22.320
+What do you do?
+
+01:22.320 --> 01:25.640
+The first thing you do is pick up the phone and call us, but the next thing you should
+
+01:25.640 --> 01:30.560
+do is check your bank account to make sure you have enough money to buy a satellite.
+
+01:30.560 --> 01:37.520
+Satellites, depending on what kind it is and where it's going, can cost tens of millions
+
+01:37.520 --> 01:40.320
+of dollars up to several hundred million dollars.
+
+01:40.320 --> 01:44.440
+Once a customer makes that first phone call to SSL, there will be then an ongoing back
+
+01:44.440 --> 01:46.800
+and forth between them and the customer.
+
+01:46.800 --> 01:50.920
+Essentially, the customer will tell SSL what they want their satellite to do and SSL will
+
+01:50.920 --> 01:52.720
+come back to them with a price.
+
+01:52.720 --> 01:55.480
+Eventually, if all goes well, they'll sign a contract.
+
+01:55.480 --> 02:00.280
+That's exactly what happened a few years ago between SSL and Telesat—a global satellite
+
+02:00.280 --> 02:04.400
+company headquartered in Canada that owns and operates a fleet of satellites.
+
+02:04.400 --> 02:08.440
+Their satellites are used to broadcast signals, whether it be TV, radio, or internet, for
+
+02:08.440 --> 02:12.360
+their customers—satellite TV, radio, and internet providers.
+
+02:12.360 --> 02:16.500
+In this case, Telesat needed a satellite to provide additional capacity over the busy
+
+02:16.500 --> 02:20.720
+North Atlantic region and so they came and signed a contract with SSL to build their
+
+02:20.720 --> 02:23.660
+new satellite—Telstar 19 Vantage.
+
+02:23.660 --> 02:27.160
+Soon after contracts were signed, work began on designing the satellite.
+
+02:27.160 --> 02:31.020
+In that process, the designers usually pull designs for some more generic aspects from
+
+02:31.020 --> 02:34.580
+previous projects and then modify them to suit the particular job.
+
+02:34.580 --> 02:38.540
+The length of that process can vary widely based off of how complex a satellite is but
+
+02:38.540 --> 02:42.660
+throughout that process, as soon as they've locked a design in, they'll begin ordering
+
+02:42.660 --> 02:43.660
+parts.
+
+02:43.660 --> 02:48.380
+SSL builds about half their components themselves and orders the other half from other companies.
+
+02:48.380 --> 02:52.460
+The decision on whether to order or build in-house usually comes down to performance.
+
+02:52.460 --> 02:57.980
+There are certain components where, depending on what the requirements are, we build higher
+
+02:57.980 --> 03:00.280
+performance components than suppliers.
+
+03:00.280 --> 03:03.840
+Some of them are suppliers build better components than we do.
+
+03:03.840 --> 03:07.420
+Over the years, SSL has looked at what it's good at and what other suppliers are good
+
+03:07.420 --> 03:10.700
+at and made the decision on what to order based off that.
+
+03:10.740 --> 03:14.680
+For example, one of the components that SSL builds are the antenna reflectors.
+
+03:14.680 --> 03:18.440
+These are what actually direct signals down to earth and each of them is custom designed
+
+03:18.440 --> 03:20.140
+for the region that the satellite will cover.
+
+03:20.140 --> 03:23.300
+This is, for example, for Telstar 18 Vantage.
+
+03:23.300 --> 03:28.940
+You can see here that these are these reflectors that would be sticking out on the sides and
+
+03:28.940 --> 03:34.060
+it's used for sending signals back to earth and all those little dots you see on there
+
+03:34.060 --> 03:40.700
+are for photogrammetry so they're used to make sure that the surface is actually
+
+03:40.700 --> 03:46.860
+exactly as was designed so we have these cameras that take pictures of these and of all the
+
+03:46.860 --> 03:52.660
+dots to make sure that it was built according to the design.
+
+03:52.660 --> 03:57.260
+The satellite these antenna reflectors eventually went on, Telstar 18 Vantage, the sister satellite
+
+03:57.260 --> 04:02.220
+of Telstar 19 Vantage, will launch in late August 2018 and soon after will go into service
+
+04:02.220 --> 04:06.740
+providing data services over Asia and Oceania so the antenna reflector was carefully crafted
+
+04:06.740 --> 04:11.100
+to provide signal over populated areas and busy flight and maritime corridors while not
+
+04:11.100 --> 04:14.940
+wasting resources on providing service to areas the company already has coverage for
+
+04:14.940 --> 04:18.260
+or that would have little demand such as to the south of Australia.
+
+04:18.260 --> 04:22.300
+About 9 to 15 months after ordering, the majority of the ordered components will start rolling
+
+04:22.300 --> 04:25.580
+through the door and then the bulk of the assembly process begins.
+
+04:25.580 --> 04:29.280
+This process is too complex to go into detail on but essentially they'll first build the
+
+04:29.280 --> 04:30.980
+major elements separately.
+
+04:30.980 --> 04:34.460
+One group will assemble the propulsion systems and framework of the satellite while another
+
+04:34.460 --> 04:37.720
+will assemble the payload, which the satellite is actually built to carry whether that be
+
+04:37.720 --> 04:41.460
+an advanced camera or a communications system, while yet another group will assemble the
+
+04:41.460 --> 04:45.480
+super-light and efficient solar panels that will power the satellite when in orbit.
+
+04:45.480 --> 04:49.220
+The assembly of the different major components will take a few more months and then they'll
+
+04:49.220 --> 04:53.640
+start to compile those different major components together over a period of a few more months.
+
+04:53.640 --> 04:57.580
+Each component is tested independently before and while being installed on the satellite
+
+04:57.580 --> 05:01.260
+but once they're all pieced together there begins an incredibly rigorous phase of testing
+
+05:01.260 --> 05:02.940
+the satellite as a whole.
+
+05:02.940 --> 05:08.020
+When buying a satellite from a trusted manufacturer like SSL, the customer is buying reliability
+
+05:08.020 --> 05:10.580
+so there can be no compromise on testing.
+
+05:10.580 --> 05:14.380
+They need to be sure that the satellite will actually survive launch and work in space
+
+05:14.380 --> 05:18.140
+and the best way to do that is to just simulate launch and space.
+
+05:18.140 --> 05:22.460
+There are three major factors that could harm a satellite—vibration, temperature, and
+
+05:22.460 --> 05:23.460
+sound.
+
+05:23.460 --> 05:27.220
+The vibration comes as a satellite launches in a rocket so they test that their satellites
+
+05:27.220 --> 05:28.460
+can survive launch.
+
+05:28.460 --> 05:33.340
+When you put one of these satellites on top of a rocket in the payload fairing it experienced
+
+05:33.340 --> 05:38.540
+a lot of vibration loads in the X, Y, and Z so we're able to simulate all of those
+
+05:38.540 --> 05:40.060
+with this shaker table.
+
+05:40.060 --> 05:43.580
+It has a base plate there and you can shake in this direction, in this direction, or in
+
+05:43.580 --> 05:48.100
+this direction so it does in all different directions to simulate the environment and
+
+05:48.100 --> 05:50.100
+make sure that it's all operating.
+
+05:50.100 --> 05:54.680
+The satellite on the table in testing here is Telstar 19 Vantage itself.
+
+05:54.680 --> 05:58.640
+This here is just one of the many tests where they literally just shake the satellites and
+
+05:58.640 --> 06:00.080
+see how it responds.
+
+06:00.080 --> 06:03.880
+They only last about 60 to 90 seconds each because that's how long the satellite will
+
+06:03.880 --> 06:07.600
+experience vibration during launch until the rocket reaches the upper atmosphere.
+
+06:07.600 --> 06:11.520
+They'll also be sure that their satellites can survive the vacuum and temperatures of
+
+06:11.520 --> 06:12.520
+space.
+
+06:12.520 --> 06:17.720
+What you see up there, this big blue pumpkin looking thing like Cinderella's carriage,
+
+06:17.720 --> 06:21.360
+that one is called our thermal vacuum chamber.
+
+06:21.360 --> 06:23.880
+We like to call it the blue pumpkin.
+
+06:23.880 --> 06:28.600
+What we use it for is for simulating the thermal vacuum environment of space.
+
+06:28.600 --> 06:35.580
+We'll go down to the vacuum levels of space, 10 to the minus 5 torr, and we will turn on
+
+06:35.580 --> 06:39.900
+the payload and different parts of the satellite to make sure that everything's functioning
+
+06:39.900 --> 06:42.160
+properly when you put it in space.
+
+06:42.160 --> 06:47.200
+In addition to that, once it's under vacuum, we have these thermal panels in there to simulate
+
+06:47.200 --> 06:48.800
+the hot and cold environment.
+
+06:48.800 --> 06:53.320
+When you're facing the sun and the satellite gets really hot, we bring those temperatures
+
+06:53.320 --> 06:57.020
+to bear and then we make it really cold when it's facing away from earth in an eclipse
+
+06:57.020 --> 07:00.240
+type of situation and make sure that everything's functioning properly.
+
+07:00.240 --> 07:04.920
+Lastly, launch is very loud to the point that the acoustic energy could actually damage
+
+07:04.920 --> 07:08.520
+a satellite so they make sure it doesn't by simulating the launch environment through
+
+07:08.520 --> 07:11.760
+bombarding the satellite with acoustic energy with speakers.
+
+07:11.760 --> 07:15.640
+There are a myriad of other tests performed before the satellite is given SSL stamp of
+
+07:15.640 --> 07:19.920
+approval but once it's ready the satellite does, of course, need to get to the launch
+
+07:19.920 --> 07:20.920
+site.
+
+07:20.920 --> 07:24.680
+The customer decides which launch provider to use whether it be SpaceX, United Launch
+
+07:24.680 --> 07:29.360
+Alliance, Arianespace, or another so the satellite might only need to go as far as Vandenberg
+
+07:29.360 --> 07:34.640
+Air Force Base a four hour drive away or as far as Baikonur Cosmodrome in Kazakhstan.
+
+07:34.640 --> 07:38.260
+The launch site is also partially decided based off what sort of orbit this satellite
+
+07:38.260 --> 07:39.440
+is going into.
+
+07:39.440 --> 07:43.520
+If a satellite is going to orbit in a north-south direction over the poles they want to launch
+
+07:43.520 --> 07:47.100
+in that direction so they want to launch from a site with open water to the north or
+
+07:47.100 --> 07:52.000
+south both for safety and, for some rocket designs, so sages of rockets can fall into
+
+07:52.000 --> 07:54.040
+the ocean throughout the launch process.
+
+07:54.040 --> 07:58.480
+SpaceX, for example, therefore uses Vandenberg Air Force Base in California for their polar
+
+07:58.480 --> 08:01.720
+orbit launches as it has the Pacific Ocean directly south.
+
+08:01.720 --> 08:05.320
+For geosynchronous orbits where satellites travel from west to east at the same rate
+
+08:05.320 --> 08:09.760
+as earth rotates, they want to launch in the same direction as the satellites will orbit.
+
+08:09.760 --> 08:13.640
+For that reason they can't launch from Vandenberg as it has land to the east so SpaceX
+
+08:13.640 --> 08:17.940
+uses the launch pads on Cape Canaveral, Florida as they have the Atlantic Ocean to the east.
+
+08:17.940 --> 08:22.760
+In the case of Telstar 19 Vantage it was going in geosynchronous orbit in order to stay consistently
+
+08:22.760 --> 08:26.880
+over its service area so SSL needed to get the satellites all the way across the country
+
+08:26.880 --> 08:27.880
+to Florida.
+
+08:27.880 --> 08:32.400
+No matter where a satellite is going, it gets packed up into one of these specialized shipping
+
+08:32.400 --> 08:33.400
+containers.
+
+08:33.400 --> 08:36.320
+For travel to closer launch sites within the US they'll often drive.
+
+08:36.320 --> 08:40.080
+They'll put the container on a truck driven by trusted oversized vehicle drivers, have
+
+08:40.080 --> 08:43.760
+a lead vehicle checking for obstructions, a trailing vehicle watching to make sure nothing
+
+08:43.760 --> 08:47.840
+goes wrong, and for longer drives a motor home so drivers can swap out and rest while
+
+08:47.840 --> 08:48.960
+still moving.
+
+08:48.960 --> 08:53.240
+If the launch site is far, such as the ones overseas in French Guiana, in Kazakhstan,
+
+08:53.240 --> 08:56.580
+or even the further ones in the US such as Cape Canaveral, they'll fly the satellite
+
+08:56.580 --> 08:59.200
+over in an Antonov cargo plane.
+
+08:59.200 --> 09:02.600
+Satellites arrive to their launch site at least a month before their launch as there's
+
+09:02.600 --> 09:04.700
+plenty of last minute preparation to do.
+
+09:04.700 --> 09:08.660
+They have to perform additional testing to make sure nothing was damaged in transport,
+
+09:08.660 --> 09:10.840
+fuel it up, and mount it in the rocket.
+
+09:10.840 --> 09:14.580
+Once that happens, though, there's a period where there's really nothing for SSL to
+
+09:14.580 --> 09:15.580
+do.
+
+09:15.580 --> 09:19.220
+As they go through the process of the countdown there are a number of places where we're
+
+09:19.220 --> 09:21.500
+asked to confirm that we're ready for launch.
+
+09:21.500 --> 09:28.020
+Then they launch us and at that point we can no longer monitor our satellite until we're
+
+09:28.020 --> 09:29.520
+off the launch vehicle.
+
+09:29.520 --> 09:34.920
+So for about a half hour we're hoping that the launch vehicle guys are doing everything
+
+09:34.920 --> 09:37.240
+okay and they usually are.
+
+09:37.240 --> 09:41.600
+In the case of Telstar 19 Vantage, the customer entrusted SpaceX with the responsibility of
+
+09:41.600 --> 09:47.920
+getting their satellite to orbit so on July 22nd, 2018, at 1.50am, a Falcon 9 rocket lifted
+
+09:47.920 --> 09:51.900
+off from Cape Canaveral carrying SSL's latest creation to space.
+
+09:51.900 --> 09:55.640
+The launch of this satellite actually made the record books as it is the heaviest commercial
+
+09:55.640 --> 10:01.200
+communications satellite to ever be entered into service at 15,600 pounds.
+
+10:01.200 --> 10:05.200
+On that early morning in July, the Falcon 9 gained altitude as it flew southeast over
+
+10:05.200 --> 10:11.480
+Africa then 32 minutes and 40 seconds after launching, 358 miles above Mozambique, Telstar
+
+10:11.480 --> 10:15.900
+19 Vantage was released from the rocket and gently pushed forward in the first moments
+
+10:15.900 --> 10:18.760
+of its 15 year long orbit of earth.
+
+10:18.760 --> 10:21.560
+At that point, the work's not done for SSL though.
+
+10:21.560 --> 10:26.940
+Their job is not just to build the satellite but also to enter it into service in space.
+
+10:26.940 --> 10:31.780
+Once the satellite is deployed, SSL will look for its signal and establish communications.
+
+10:31.780 --> 10:35.440
+And then we start talking to the satellite so we start commanding the satellite, we tell
+
+10:35.440 --> 10:41.500
+the satellite what we want it to do, we start to get the satellite into a safe position
+
+10:41.500 --> 10:46.920
+after launch, we'll deploy solar rays so we can start generating power, we'll start
+
+10:46.920 --> 10:51.440
+to activate everything on the satellite, and then we'll put the satellite in a safe
+
+10:51.440 --> 10:54.480
+condition so that the crew can get some rest.
+
+10:54.480 --> 10:57.720
+Over the next ten days there's a process of firing the satellite's engines to raise
+
+10:57.720 --> 11:02.600
+it from the altitude of 350 miles where it's deployed to 22,000 miles where it will stay
+
+11:02.600 --> 11:03.880
+for its service life.
+
+11:03.880 --> 11:08.420
+There's then another two to four weeks of testing to make sure everything survived launch
+
+11:08.420 --> 11:13.400
+and then, finally, after years of work, it's time to hand over the satellite to Telesat,
+
+11:13.400 --> 11:17.500
+the customer, so they can put it online and start operating it commercially.
+
+11:17.500 --> 11:23.760
+At that point, after years of work, the satellite can finally itself be put to work.
+
+11:23.760 --> 11:26.960
+One of the aspects of how satellites work that I found most interesting to learn about
+
+11:26.960 --> 11:29.780
+when I filmed this video was on how orbits work.
+
+11:29.780 --> 11:33.000
+The science of how you can make an object orbit at such a consistent speed that it will
+
+11:33.000 --> 11:37.340
+stay over one particular area of earth is fascinating and if you want to learn all about
+
+11:37.340 --> 11:41.820
+how that works, Brilliant teaches you exactly that in their classical mechanics course.
+
+11:41.820 --> 11:43.700
+Of course, there's more than just orbits.
+
+11:43.700 --> 11:47.720
+This course provides a great overview of physics and with Brilliant, you'll actually understand
+
+11:47.720 --> 11:49.960
+the concepts rather than just learning them.
+
+11:49.960 --> 11:53.800
+They specialize in teaching the intuitive principles behind concepts so that you can
+
+11:53.800 --> 11:55.360
+learn the why.
+
+11:55.360 --> 11:59.500
+They also have plenty of other fascinating courses on topics like astronomy, logic, and
+
+11:59.500 --> 12:03.340
+gravitational physics—a course that teaches how planetary orbits work.
+
+12:03.340 --> 12:07.460
+All in all, Brilliant is a great place to learn and best of all, you can try Brilliant's
+
+12:07.460 --> 12:12.420
+classes for free by signing up at brilliant.org.wendover and then, if you decide to upgrade to their
+
+12:12.420 --> 12:16.540
+premium account, the first 200 to do so at that link will get 20% off.
+

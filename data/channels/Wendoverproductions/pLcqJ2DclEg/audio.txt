@@ -1,0 +1,252 @@
+This video was made possible by CuriosityStream.
+Watch an exclusive companion video to this on Nebula, which you can access by signing
+up for the CuriosityStream-Nebula bundle deal for $15 a year at CuriosityStream.com-slash-Wendover.
+With any disruptive technology, there's a tipping point.
+There is a point in time when its path towards market dominance is a certainty.
+Now, electric vehicles are almost certainly a disruptive technology.
+They're almost certainly a technology that will, with time, become dominant over their
+predecessor.
+In this case, the predecessor is the internal combustion car that you, yourself, almost
+certainly use.
+Chances are, though, when asked, you'd say that your next car will not be electric, and
+you're right—the average consumer, according to surveys, would not even consider purchasing
+an electric vehicle, demonstrating that the technology is not yet at the tipping point
+where it's on a certain path towards market dominance.
+But again, that path is almost certain.
+EVs are not there yet—right now they're too expensive, too short-range, and too slow
+to charge—but they're close.
+In fact, research can quantify just how close they are.
+It's been shown that the tipping point price for EVs—the price that will lead to mainstream
+adoption and eventual disruption—is $36,000.
+Taking a look at the prices of the base models of three of the world's best-selling electric
+vehicles, they're already roughly there, so we know that that's not what's holding
+mass-market consumers back.
+What also matters is range.
+Consumers say they need 291 miles or 469 kilometers of it before the cars can go mass-market.
+Two of the best-selling EVs—the Tesla Model 3 and the Chevy Volt EV—are not far from
+different, while the Nissan Leaf lags behind.
+Range and cost are closely linked, and you can essentially trade one off for the other,
+as the battery is the single largest cost of an EV.
+That's why the industry is so focused on innovating and scaling to lower the component
+cost of EV batteries, and it's working.
+In 2013, the average price per kilowatt-hour of an EV battery was $668, meaning the base
+model Tesla Model 3's 50 kilowatt-hour battery would cost $22,400—two-thirds of what the
+vehicle sells for.
+Nowadays, the average price per kilowatt-hour is all the way down to $137, meaning that
+same battery pack would cost just $6,850, and this price per kilowatt-hour is expected
+to lower to $100 by 2023.
+It's getting more and more possible for manufacturers to sell an EV for the magic
+$36,000 price with the magic 291-mile range.
+While EVs are not quite there yet, they're really not far, and will be there in the next
+few years.
+So, range is not what's significantly holding mass-market consumers back, and it won't
+be at all within a few years.
+What is, though, is charging.
+The research shows that consumers want to be able to charge their cars from empty to
+full in 31 minutes, and that's the magic number for mass-market adoption.
+With this, current $36,000 EVs just aren't yet there.
+The base model Chevy Volt EV can't even fast-charge—it doesn't have the technology
+for it—and even the upgraded, more expensive model that does allow for fast-charging can
+only get to 39% state of charge in 31 minutes.
+The Nissan Leaf does a little better, attaining 62% state of charge in 31 minutes, while the
+base model Tesla Model 3 does the best with its ability to fill its battery to 83% in
+the most ideal conditions using the fastest models of Tesla Superchargers, but that would
+only give it 196 miles or 315 kilometers of range, again in the most ideal conditions.
+In colder weather, both that charging time would be greater, and that range would be
+less.
+So, it's currently possible to get an EV with just about what the mass-market requires
+for cost and range, but reaching that charging time, that's just a lot tougher.
+What this research can lead us to conclude is that the largest barrier right now to mass-market
+EV adoption is, in fact, the charging problem.
+The tipping point just will not happen without widespread fast-charging, but widespread fast-charging
+is just difficult because of the very way our electric grid works.
+You see, back in the 1880s, Thomas Edison, with his direct current electric system, battled
+it out with George Westinghouse and his alternating current system.
+As the names suggest, direct current electricity flows consistently and unidirectionally, while
+alternating current oscillates in magnitude and rapidly changes direction.
+The exact details of how each works isn't that important in this context, but what is
+is to know that, for a variety of reasons, AC power won, it's now the standard for
+power grids, but there are certain technologies that still need DC power.
+The most widespread example of that is batteries—you cannot charge a battery using AC power.
+That's why you don't plug your smartphone directly into an outlet—you plug it into
+a power brick that plugs into an outlet, and that power brick is an AC to DC converter.
+A standard iPhone charging inverter outputs 5 watts of electricity, which is plenty enough
+to charge the phone's 11 watt-hour battery in a few hours.
+A base-model Tesla Model 3, meanwhile, has a 50 kilowatt-hour battery—4,500 times larger.
+Therefore, it needs a much higher wattage power inverter to charge with any speed.
+It solves this in two ways.
+Onboard that Model 3, there's a 7.7 kilowatt inverter that can take AC power from common
+sources, like a standard wall outlet, and convert it into DC power to charge the battery.
+At its max rate, this can charge the car fully in under 10 hours, and has the advantage of
+allowing consumers to charge using regular wall plugs or by installing relatively inexpensive
+chargers on existing domestic AC electric circuits.
+The disadvantage, though, is that while 7.7 kilowatts is plenty fast enough for regular,
+overnight at-home charging, it's not fast enough to compete with the convenience of
+filling up an internal combustion car at the gas station.
+It's not fast enough if you're on a long-distance trip and need to be able to gain hundreds
+of miles of range in a matter of minutes.
+So, if you need more electricity faster, you need a higher wattage inverter.
+To be able to take a Tesla Model 3 from almost empty to almost full in 30 minutes, you want
+between 120 and 250 kilowatts.
+The problem, though, is that a 250 kilowatt inverter costs, at least in this case, $57,600,
+and is about the size of a very large fridge.
+It's not exactly practical to have this as an internal component of the car.
+So, for faster charging, one needs to off-board the inversion process.
+That's exactly what a DC fast charger does—it supplies a huge quantity of DC power to the
+car, which bypasses the onboard inverter and charges the battery directly.
+Between the inverter, the charger, and all the other equipment needed for a fast-charging
+the cost and size is not insignificant.
+One of the more popular models, the Chargepoint Express 250, which can charge a single car
+at a somewhat slow 62.5 kilowatts, sells for $40,800, and that's before installation.
+Meanwhile, while it's tough to get an exact figure, industry experts estimate it costs
+Tesla about $250,000 to build an average supercharging station with six to eight stalls delivering
+120 to 150 kilowatts each, while its closest equivalent, the stations by Volkswagen's
+Electrify America, are estimated to cost $350,000.
+But here's something counterintuitive.
+Using a 250 kilowatt charger versus a 150 kilowatt one doesn't really impact how fast
+you charge.
+Batteries charge slower the more full they are, so the first 20% will pass far faster
+than the last 20%.
+In the context of EV charging, this means that quite quickly into the charge, the speed
+is impacted not by how much power the station is putting out, but by how much electricity
+the battery can accept.
+So, it's actually faster to charge to 50%, drive until empty, charge to 50%, and drive
+until empty again, then charging to 100% and driving to empty.
+A Tesla Model 3 can go from 0 to 50% charge in 15 minutes on a 250 kilowatt charger and
+17 minutes on a 150 kilowatt charger, giving it enough range to drive at least 100 miles
+or 160 kilometers, while charging from 50% to 90% would take an additional 27 minutes
+in both cases.
+So, combining two charges from empty to 50% in two stops, you could effectively reach
+the tipping point speed of 100% charge in 31 minutes with existing 250 kilowatt chargers.
+Therefore, what the industry needs is not faster chargers, but more chargers, which
+is hugely difficult given the enormous cost of fast chargers.
+The average American lives four minutes away from a gas station.
+Meanwhile, the same average American lives 31 minutes away from their nearest Tesla supercharger.
+Currently, there are 976 supercharging stations in the US, each of which have anywhere between
+two and 56 individual chargers.
+In order to match the four-minute average of gas stations, Tesla would need to build
+an additional 31,251 supercharging stations.
+At their $250,000 per station cost, that would cost the company some $7.8 billion,
+or roughly ten times their total annual profits from 2020.
+In addition, only some 750,000 Teslas ever have been sold in the US, meaning, to have
+fast charging stations as accessible as gas stations, the company would need to install
+a $250,000 supercharging station for every 23 cars it had on the road.
+Right obviously, that's not feasible, as the stations would never break even with such
+infrequent use, and that's the exact problem.
+You need the infrastructure to sell the cars, but you can't build the infrastructure until
+you sell the cars.
+It is the classic chicken and the egg problem.
+There might, however, be a solution.
+According to federal government data, there are some 3,845 non-Tesla DC fast chargers
+in the US.
+The vast majority of which could charge a Model 3 within an hour—assuming it could
+connect.
+Just as there was a format war in the 1880s between DC and AC power, there is now a war
+of charging standards.
+Take the example of Salina, Kansas—a small city off of Interstate 70, which most people
+only visit to refuel or, in this case, recharge.
+This supercharger uses Tesla's proprietary plug, this Electrify America station uses
+CCS and CHAdeMO plugs, and this hotel's charger uses a J1772 plug.
+There are four different plug types in one small city.
+Now, a Tesla could use the Tesla charger and the J1772 charger with an included adapter,
+but it could only use the CHAdeMO charger with a speed-limited $540 adapter, and it
+couldn't use the CCS charger at all, as there's no adapter for that plug type.
+Meanwhile, a Chevy Volt EV wouldn't be able to use the Tesla or CHAdeMO chargers at all
+as there are no adapters for either to its CCS plug.
+That means that, to accommodate every vehicle type, DC fast chargers need to have three
+different plug types, which, overwhelmingly, they just don't.
+Especially along interstate highways, there are the Tesla stations, and there are the
+combo CHAdeMO and CCS stations.
+While vehicles like Edison and Westinghouse delayed more widespread adoption of electric
+power by competing against each other in these same areas with their different, incompatible
+AC and DC standards, different stakeholders in the electric vehicle market are competing
+against each other in the US to create redundant, largely incompatible networks.
+But that's not happening everywhere.
+You see, in Europe, CCS is the standard.
+The European Union has a directive, which means that many member states, by law, require
+that public DC fast chargers include a CCS plug.
+Therefore, in the EU and neighboring countries like the UK, Norway, and Switzerland, CCS
+is now the de facto or de jure charging standard.
+That forced Tesla's hand to the point that in 2018, it retrofitted all its existing superchargers
+with CCS plugs, switched its Model 3s to CCS, and released an adapter allowing its other
+models to use CCS chargers.
+All told, this means that pretty much any car in Europe can use pretty much any DC fast
+charger.
+That, combined with Europe's higher population density, has helped ensure that the density
+and coverage of DC fast chargers is much greater than in the US, despite the fact that EV ownership
+per capita is actually higher in the US than Europe as a whole, although certain European
+countries far eclipse the US's rate.
+Europe is almost identical in size to the US—it has a very similar number of electric
+cars overall—but it has double the number of DC fast charging stations.
+In Germany, the furthest you can seemingly get from a DC fast charger is here, in Winterberg.
+From this small ski town, the nearest fast charger is about 30 miles or 50 kilometers
+away in Marburg.
+Meanwhile, in the US, if you wanted to drive directly from Dallas to Denver, to major American
+cities, using a base model Tesla Model 3, you just couldn't.
+There's a 226 mile or 363 kilometer stretch with no DC fast charger between Amarillo,
+Texas, and Trinidad, Colorado, which, given the elevation gain, the car would not make.
+While Tesla is plugging this gap soon with a new charger in Clayton, New Mexico, that
+won't solve the problem for every single other EV on the market, since the charging
+systems are not compatible.
+Simply put, mass-market consumers are not going to buy cars that can't drive from
+Dallas to Denver.
+What Europe has that the US does not is coordinated government plans.
+Germany's federal government, for example, builds its own charging stations, in addition
+to offering strong incentives for private companies to do so as well.
+Meanwhile, the federal government in the US has done very little to incentivize fast charger
+construction, and certainly does not have a network of its own.
+Certain states, such as Oklahoma or Colorado, do have strong coordinated government programs
+to build fast charging infrastructure, meaning even shorter range EVs can drive essentially
+anywhere in each state without encountering a fast charger gap, but the problem is that
+EV drivers from Colorado or Oklahoma will eventually want to drive through Kansas, or
+Nebraska, or Wyoming, or other states that do not have a coordinated plan.
+The US federal government clearly wants people to buy EVs because it offers hefty tax credits
+to those who do so, but people are not going to buy EVs without the charging infrastructure
+to support it.
+EVs are comparable in cost to internal combustion cars, their range is about what consumers
+demand, but what's lagging behind is that charging infrastructure.
+This isn't even an exclusively American problem.
+In Australia, one can't drive from Perth to Sydney, the country's fourth and first
+most populous cities, in an EV due to a massive charging gap, while in Russia, despite similar
+incentives for EV purchases, there are a total of 24 DC fast chargers in the entire country.
+Of course some will always debate whether governments should be incentivizing electric
+vehicles at all, but regardless of that, they are.
+It's tough to find a developed country that does not have some tax or other monetary incentive
+for EV ownership.
+The point is that they're incentivizing the wrong way.
+EVs are very, very close to reaching the tipping point criteria for everything but charging.
+Cost is not standing in the way, technology is not standing in the way, infrastructure
+is, so governments are putting the cart before the horse.
+Individual companies cannot reach the required scale, and even if they did, as the format
+war in the US proves, it probably wouldn't be the kind of scale that the mass-market
+consumer demands.
+Individual car companies can deal with making individual electric vehicles attractive to
+consumers.
+The government doesn't need to worry about that, but infrastructure—that's the government's
+job.
+Governments run or regulate roads, and bridges, and tunnels, and sidewalks, railways, airports,
+electric grids, dams, sewers, water supply networks, and even fuel supply systems—because
+they are infrastructure, and infrastructure is essential, so the only question is, why
+not charging?
+So, as you might have guessed by now, I own an electric vehicle, so I took it to my local
+Tesla Supercharger to make a companion video to this where I give a super detailed, super
+nerdy explanation of exactly how a supercharger works from a technical perspective.
+You can find that companion video exclusively on Nebula which, as you probably know by now,
+is home to tons of exclusive, ad-free content from tons of your favorite educational creators.
+The reason we can put companion videos like this there is because of the way Nebula works—it
+doesn't have an algorithm to punish us when we make something different from our normal
+stuff, and the direct subscriptions from users help fund both these and other projects,
+like our many Nebula originals.
+If you're interested in watching all this exclusive content, plus supporting loads of
+independent, educational creators, you can sign up using the CuriosityStream Nebula bundle.
+Basically, you go to curiositystream.com slash wendover, sign up for any subscription, but
+I suggest the yearly one since it's on sale for less than $15 a year right now, and then
+you have access to both streaming sites.
+CuriosityStream itself has great stuff too from more established names like Richard Hammond,
+of Top Gear and Grand Tour, who made a series about how weather actually works by going
+into extreme weather.
+All told, CuriosityStream is great thanks to their seemingly endless library of top
+quality stuff, and Nebula is great thanks to its exclusive, early, and ad-free videos
+from the educational creators you already know and love.
+CuriosityStream and Nebula together is greater than great, though, because it's only $15
+a year with the current sale at curiositystream.com slash wendover.

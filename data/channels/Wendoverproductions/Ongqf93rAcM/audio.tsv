@@ -1,0 +1,202 @@
+start	end	text
+0	3300	This video was made possible by Brilliant.
+3300	7280	Learn more about the math and science behind this video's topic for 20% off by being
+7280	12300	one of the first 200 to go to brilliant.org slash wendover.
+12300	18620	Within the walls of the 51 licensed casinos of the Las Vegas Strip, there are 2,879 gaming
+18620	25220	tables collectively bringing in $3.1 billion in revenue annually, or over a million dollars
+25220	26220	each.
+26220	33300	In addition, there are some 38,864 slot machines bringing in another $3.4 billion.
+33300	40060	A single large Las Vegas casino, like the Bellagio, makes more annually than some small
+40060	41060	countries.
+41060	45300	This is because the casino business model is pretty much bulletproof.
+45300	49220	Overall, the odds are always in the casino's favor.
+49220	54220	If this weren't true, the casino would fail, so these floors just print money.
+54220	59280	MGM International, for example, one of the world's largest multinational gaming companies,
+59280	65860	has about 2.5 million square feet of casino floor worldwide, meaning it makes, on average,
+65860	68500	$1,138 per square foot.
+68500	72640	With the money their casinos bring in, they could line every inch of every foot of their
+72640	78660	casino floor worldwide with a brand new iPad and still have money left over.
+78660	83780	This is all to say, casinos make a lot of money, but to do so, they need a lot more
+83780	86340	money coming through their doors.
+86340	90400	You see, the casino business model all revolves around risk.
+90400	94780	With every game they have, the odds are in their favor, but that's not to say the house
+94780	96340	will always win.
+96340	101660	Their advantage varies from game to game—in roulette it's about 5.25%, in poker it's
+101660	106120	about 3.35%, and in blackjack it's about 0.5%.
+106120	110740	Of course, given how tight these margins are, there's a natural variability so casinos
+110740	115820	can come out behind on a given table on a given night, but overall, with enough tables
+115820	119700	and enough nights, they'll average out to these odds.
+119700	125740	However, in order to do so, they need an immense amount of money running through their casinos.
+125740	130700	Blackjack, for example, is one of the games with the lowest house edge, so if a casino
+130700	135280	wants to earn $1 billion in a given year from the game, which would not be an unreasonable
+135280	141080	estimate for a large gaming company like MGM International, they would need $200 billion
+141080	143760	changing hands within their doors each year.
+143760	147120	$200 billion is an enormous amount of money.
+147120	152320	That's pretty much the entire GDP of New Zealand, passing through, in the case of MGM,
+152320	156080	a physical structure barely larger than the Empire State Building.
+156080	160620	When you have such a rapid throughput of money, very slight changes in the odds can make a
+160620	163720	huge dent in the gaming company's earnings.
+164080	170120	If, for example, the house edge in Blackjack changed from 0.5% to 0.4%, they would lose
+170120	175600	$200 million, assuming $200 billion in annual play.
+175600	181280	This is why making sure these odds stay in their favor is so important to casinos—it
+181280	184800	can quite literally make or break them.
+184800	189120	Despite what pop culture might portray, a casino's biggest problem is not robbers
+189120	194840	or hackers or even technically cheaters, because each of those is relatively easy to prevent.
+194840	199840	Rather, their biggest problem is people who are able to turn their odds in their favor
+199840	203380	without robbing, hacking, or even cheating.
+203380	208480	You see, in most common law countries, such as the US, England, Ireland, or Australia,
+208480	212740	cheating is legally defined as altering the outcome of the game, acquiring knowledge not
+212740	217260	available to all players, or changing one's bet after learning of the outcome.
+217260	222920	Cheating in a casino is generally illegal, however, it is possible for a player to consistently
+222920	225700	win without cheating.
+225700	229920	The best known example of this is card counting—a type of advantage play used in the Blackjack
+229920	235620	family of games which is not illegal and, in some cases, is even legally protected.
+235620	239280	This advantage play technique essentially takes the basic principles of the game of
+239280	244740	Blackjack and uses them against the casino, and these principles are fairly simple.
+244740	249580	To start a game, each player bets an amount of money, then six decks of cards are shuffled
+249580	252100	together to form what's called the shoe.
+252100	257500	Each player is dealt two cards face-up, while the dealer gets one face-up and one face-down.
+257500	263080	The goal for all participants is simple—it's to get their cards to total as close to 21
+263080	265480	without going above 21.
+265480	268400	The execution of that is much tougher.
+268400	272280	Starting from the left, each player will either decide to stick with the total they have or
+272280	274640	to take another card to add to it.
+274640	278000	Of course, the player doesn't know what the next card will be worth—it could be
+278000	281920	anything from one to eleven—so it's a gamble on whether it'll make the total go
+281920	285160	over 21, in which case their bet is lost.
+285160	289720	The higher the original total, the riskier it is to take another card, but there is,
+289720	293820	in fact, a mathematically optimal choice for each scenario.
+293820	298800	Once every player is done taking cards, or not, the dealer reveals the face-down card
+298800	304940	and, automatically, if their total is below 17, they take additional cards until it isn't.
+304940	308380	If it's 17 or higher, they leave it as is.
+308380	314260	There are then three scenarios—if the dealer goes above 21, all players' bets are doubled,
+314260	316960	as long as they didn't go above 21 first.
+316960	321120	If a player's total is higher than the dealer's, then the player's bet is doubled.
+321120	325480	However, if a player's total is lower, they lose their bet.
+325480	329640	Of course, this explanation skipped over plenty of smaller rules and less likely edge
+329640	334600	cases, but it is these fundamental elements of gameplay that tie into why card counting
+334600	335600	works.
+335600	341120	Now, without getting too much into the math, on average, in Blackjack, higher value cards
+341120	345100	benefit the player, while lower value cards benefit the dealer.
+345100	348980	While the explanation for the higher cards is more complex, lower cards' benefit is
+348980	352720	based on the fact that the dealer is required to take additional cards when their total
+352720	358060	is less than 17, and so a greater density of lower cards makes it less likely that they'll
+358060	361880	go over 21, in which case each player's bet is doubled.
+361880	366360	Therefore, if you know that a bunch of low cards are coming, you know that the odds are
+366360	370440	against you and so you should reduce your bet or not play.
+370440	375680	But, the question is, how do you know it's coming in a randomly shuffled deck?
+375680	381640	Well, you perform process of elimination, or, even more simply, you count the cards
+381640	382680	you see.
+382680	386160	There are hundreds of different forms of card counting that work in hundreds of different
+386160	391400	ways, but all are more or less based on what's known as the high-low system.
+391400	396280	With this, each card is assigned a value—two through six are assigned one, seven through
+396280	401720	nine are assigned zero, and ten, the face cards and the ace, are assigned negative one.
+401720	405920	This is based on the fact that, every time a high-value card is dealt, there are fewer
+405920	409700	of them left in the deck, which means the odds get worse for the player considering
+409700	413340	that high-value cards are better for them, and vice versa.
+413340	419680	So, card counting is quite simple—with every card a player sees, they add up its assigned
+419680	420680	value.
+420680	425060	So, if there are three players and they are dealt these cards, the running count would
+425060	431400	be one, plus zero, plus negative one, plus one, plus zero, plus one, plus zero, which
+431400	433500	would equal a total of two.
+433500	437820	That total of two indicates that the odds have shifted slightly in the player's favor,
+437820	442320	while if it were negative two that would indicate the odds were in the dealer's favor.
+442320	446480	As play goes on and they get deeper into the deck, the running count will generally increase
+446480	450860	in one direction or the other, giving the player more confidence on where the odds stand
+450860	455140	and so if, for example, the running count equaled 20, the player would know that the
+455140	460100	odds were greatly in their favor and therefore that they should bet big on the next round,
+460100	463820	as they have a greater than 50% chance of winning.
+463820	467960	This is how people can reliably make money in blackjack.
+467960	471460	If a player changed their bet by a factor of 15 depending on the odds, and the dealer
+471460	475560	waited until they were through five of the six decks before shuffling, a player, following
+475560	483420	perfect blackjack strategy, could earn an advantage of about 1.182% over at the house.
+483420	487560	That means that if, assuming a table completes a round of play every minute and the average
+487560	495440	bet is around $200, a card counter could profit, on average, about $110 an hour—enough
+495440	502120	that some people can and do make a living by sitting at blackjack tables counting cards.
+502120	507100	However, considering how simple and reliable this advantage play method is, casinos go
+507100	511080	to great lengths to stop it, which is very, very difficult.
+511080	517040	That's because the advantage is all in the mind—there's no good way to fully prove
+517040	518480	someone's card counting.
+518480	523260	Sometimes, people are just lucky, and it's quite a bad look for casinos to kick people
+523260	525160	out just because they're winning.
+525160	530160	That's why, instead of trying to prove it, most casinos implement rules to try and stop
+530160	532640	card counting from working as well.
+532640	537020	Remember that, generally, the running count will get further into the positive or negative
+537020	541120	the further into the game one goes, because the card counter will have seen more cards
+541120	544360	that are now in the discard pile and therefore cannot be dealt.
+544360	548920	While a few rounds in the running count might be in the single digits positive or negative,
+548920	553440	further on, it'll get into the double digits which gives a counter great confidence on
+553440	555680	whether they should bet big or not.
+555680	560400	It's towards the end of the shoe—the collection of undeal cards—when card counters really
+560400	565280	make their money, so to make it less profitable, casinos can just have their dealers shuffle
+565280	566660	earlier on.
+566660	571100	If they shuffle four decks deep into the six deck shoe rather than five, that decreases
+571100	576180	the player's advantage from 1.182% to just 0.568%.
+576180	582120	However, shuffling earlier and more often also cuts into the casino's profits because,
+582120	586900	any time the dealer is shuffling, the non-advantaged players aren't playing and losing money,
+586900	589580	which is how the casino makes its money.
+589580	592940	Another option for casinos is to increase the number of decks they shuffle together
+592940	594800	to make the shoe.
+594800	599540	Back before card counting first became a widespread issue for casinos, they would play blackjack
+599540	603860	with just a single deck of cards, but if they did this today, it would only be a matter
+603860	607660	of minutes before a card counter would have high confidence about the odds.
+607660	612420	Therefore, they typically now play with six decks shuffled together, which increases the
+612420	617900	time it takes to get to high confidence, and, since time is money for a card counter, this
+617900	619820	decreases their profits.
+619820	624620	Some casinos take this a step further by using continuous shuffle machines.
+624620	629380	With no discard pile, there is no increase or decrease in beneficial cards in the shoe,
+629380	633540	so card counting is completely ineffective, however, these machines are not yet fully
+633540	637260	widespread due to distrust by frequent players.
+637260	640760	While these methods deal with stopping or reducing a player's ability to actually
+640760	645140	know what the odds are at a given moment, the other method involves stopping a player's
+645140	649100	ability to respond to this knowledge by changing the size of their bets.
+649100	654220	Essentially, if a dealer or a pit boss suspects someone might be card counting, they'll
+654220	657300	change the rules on them and require flat betting.
+657300	661180	This is where a player is told to pick one bet size, and then they are not allowed to
+661180	663940	change that size from round to round.
+663940	668200	Therefore, card counters might know that the odds are changing, but they will not be able
+668200	673180	to respond to it with a larger or smaller bet, so the odds will stay in the house's
+673180	674180	favour.
+674180	678940	However, that poses the question, how do you spot a card counter?
+678940	682900	Well, one of the most telltale signs is that they're winning.
+682900	686980	Even if someone is card counting, the casino does not care as long as they're losing,
+686980	691220	so they don't really pay attention to people until they've made some real money.
+691220	695200	Once they are, though, if a pit boss notices that a player, for example, changes their
+695200	700140	bet from $100 to $1,000 right before a series of wins or as the shoe is close to finished,
+700140	703900	that's a good sign that they know what the odds are.
+703900	708940	In addition, professional card counters often start with a very large buy-in—they convert
+708940	713000	a lot of money into chips—because there is natural variance on whether or not they
+713000	715260	win, even if they know the odds.
+715720	720180	They can win infinite money, but they can only lose as much money as they have, and
+720180	724540	even if they have an advantage, if they're unlucky and they lose all their money, there's
+724540	726260	no way to win it back.
+726260	730940	The math works out so that, if you want to win $170 an hour card counting, you need to
+730940	737260	have $100,000 in order to only have a 1% chance of running out of money.
+737260	742140	In the end, casinos don't need to make it impossible to count cards.
+742140	746420	Only a small minority of people will attempt it, and those that do can only make so much
+746420	751140	money per hour, so in a way, it's a cost of doing business.
+751140	755420	To avoid it making a big dent in their profits, all they need to do is make advantage play
+755420	760460	at their tables just a little bit harder than those next door, and if this is the case,
+760460	762780	the card counter will go next door.
+762780	768820	There will always be an escalating arms race by both players and casinos to gain an advantage
+768820	771660	and stop an advantage, respectively.
+772180	776800	Mathematics, economics, and human nature combined mean that as long as Blackjack and other flawed
+776800	782540	casino games stay popular, players will always find a way to tilt odds ever so slightly in
+782540	785140	their favor.
+785140	790100	Before I made this video, I took Brilliant's course on casino probability and, specifically,
+790100	793900	the section on Blackjack to be sure that I understood most of the math behind what I
+793900	794900	was talking about.
+794900	799500	In fact, part of the reason why I wanted to make this video was because I found the mathematics
+799500	804360	of gambling so interesting, and so, if you did too, this course is a fantastic way to
+804360	806340	dive deeper into the topic.
+806340	810460	You can even do this one on the go, in small chunks, with their mobile app, or learn something
+810460	814660	new every day with their daily challenges, or dive deep into something completely different
+814660	818540	with any one of their many dozens of super high quality classes.
+818540	822100	By high quality, I don't mean that they look good or work smoothly, even though they
+822100	827000	definitely do, but rather that their academics are designed in a way that makes rather complicated
+827000	828860	subjects easy to learn.
+828860	833260	They teach you like the best teacher you've ever had—by breaking up big concepts into
+833260	835740	smaller, digestible, intuitive chunks.
+835740	840120	So, if you want to dive deep on useful STEM topics, including learning more about the
+840120	845780	mathematics of gambling, be sure to be one of the first 200 to head over to brilliant.org-slash-windover
+845780	847300	to get 20% off.

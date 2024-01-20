@@ -1,0 +1,345 @@
+In the summer of 2018, western Pennsylvania birders, ornithologists, biologists, field-tripping
+teachers, Appalachian Range romantics, and trail-loving hikers all had reason to celebrate.
+The Nature Conservancy, one of the nation's largest environmental NGOs, had partnered
+with the Hawk Mountain Sanctuary to preserve these 2,380 acres of wooded bird habitat some
+80 miles or 130 kilometers outside of Philadelphia.
+In the grand scheme of things, the move wasn't anything major.
+By itself, a massive environmental organization preserving an area the size of a small ski
+town didn't move the needle.
+But the deal was bigger than local interests alone.
+The benefits were global.
+To fund the preserve's protection, the Nature Conservancy, partnered with BlueSource, began
+selling carbon credits and, in an effort to offset emissions, JPMorgan Chase purchased
+over 96,000 of them.
+It wasn't just corporations buying in either—at just $15 a ton, individuals bought credits
+to account for their summer vacations, too.
+While small in scale, Hawk Mountain seemed a perfect project—a pragmatic effort that
+saved important habitat and refuge for local birds and people, and provided means for the
+environmentally conscious to address their own impact on the planet.
+The only problem was, as one intrepid investigative journalist would expose, it was all built
+on at best a massive oversimplification, and at worst, one big green lie.
+At the simplest level, forest carbon offset projects work by comparing the amount of forest
+preserved versus the assumed deforestation had it not been saved.
+This means that calculating a hypothetical baseline really informs the entire project
+and how many credits they can actually sell.
+And here lies the issue—all the carbon offsets sold to JPMorgan Chase and guilt-ridden individuals
+alike were calculated against a faulty baseline.
+This is the project's planning document, submitted in 2018 to the American Carbon Registry,
+and this is the baseline the project's built upon—that if it weren't for intervention,
+the forest would be subject to aggressive clear-cutting and high grading.
+The problem was, Hawk Mountain Preserve, as its name would suggest, was already a preserve.
+Since the 1930s, after the land was purchased by avid birder Rosalie Edge and the Hawk Mountain
+Sanctuary Association was set up, this area's been closely looked after, managed, and protected.
+The forest didn't need saving—it wasn't under threat—a fact borne out by the preserve's
+and its own contemporary staff saying as much.
+Of course, if the forest wasn't under threat, then there wasn't much carbon dioxide here
+to save from entering the atmosphere, and thus, there wasn't many real carbon offsets.
+It's these very carbon offsets, cheap for the buyer but ultimately meaningless, that
+allow corporations like JPMorgan Chase, the very institution that invested more money
+in oil and gas than any other bank from 2016 to 2020, to make claims like this—that they
+offset all company travel through projects like Hawk Mountain.
+Carbon credits provide major companies an incredibly cheap green screen to hide behind
+while their faulty offsets continually underdeliver, and this is hardly a problem unique to a bird
+sanctuary in Pennsylvania.
+Not far down the road from Hawk Mountain is Bethlehem, Pennsylvania.
+Here, the Nature Conservancy brokered a deal to protect 22,000 acres and establish an offset
+market in 2011.
+First, it was Chevrolet that bought into the project, then in 2014, it was Disney who agreed
+to fund the area's protection through 2022.
+While the project helped Disney establish itself as an industry-leading offsetter, it
+did little to actually offset carbon emissions, as the baseline again assumed the area was
+threatened by aggressive harvesting.
+In reality, though, recognizing the importance of the forest to their municipal water, Bethlehem
+had only actually harvested about 0.4% of the watershed's acreage in the prior two
+decades.
+The same thing happened here, in Albany, New York, where offsets from watershed forests
+that hadn't been harvested in decades went up for sale in 2019.
+And here, too, in a swath of forests known as Pennsylvania Ridges, where the Nature Conservancy
+began selling carbon credits in 2019, even though the institution itself had purchased
+the land in 1999 and preserved it ever since.
+Uninformed of or undeterred by the faulty logic, Disney bought 180,000 credits from
+the project.
+Across all of these, meaningless offsets actively undercut their own mission, and these issues
+extend well beyond the East Coast, and well outside of the Nature Conservancy's purview.
+California's Cap-and-Trade program uses forest carbon projects so that heavy emitters
+can purchase offsets rather than lower emissions, and this program, too, has holes.
+Of the 193 million carbon offsets sold in the state, 156 million are forest credits,
+and of those 156 million, 131 million are called Improved Forest Management Credits,
+or IFMs.
+These IFMs provide credits by implementing best practices to maintain maximum carbon
+storage.
+Basically, they commit the project area to minimal harvesting for the next century.
+Now, in order to quantify the amount of credits each project produces, like with voluntary
+programs, there needs to be a baseline, or an average common practice, to judge the IFM
+against.
+California calculates this common practice number by breaking forests into regions generally
+informed by tree species and forest density.
+Each region, in turn, has an average carbon carrying capacity, and it's these averages
+that are the problem.
+Take this swath of forest here in Northern California.
+It's relatively wet, it's heavily wooded, it's composed primarily of large, dense
+tanawak and douglas fir, and according to the state, it sits in the Southern Cascade
+Supersection.
+Because this supersection is so large, it encompasses, according to Carbon Plan's
+research, three subregions of different ecological makeups where the two inland regions are relatively
+drier, more sparse, and able to store less carbon.
+Therefore, when creating a baseline for this project plot, ACR 189, the state used an average
+informed by data that doesn't represent the local environment, and thus is artificially
+low.
+In their own analysis, which used more accurate and specific tree species data, Carbon Plan
+estimated that the section was over-crediting ACR 189 by 50%, and while this example sits
+on the upper end of over-allocation by this date, their research showed that of the 65
+IFM projects they studied, 53 had over-allocated, leading to an over-crediting percentage of
+29.4%.
+By using such broad forest classifications, California's program had unintentionally
+created meaningless carbon credits that quietly undercut their own emissions goals.
+And this issue isn't confined to national borders either.
+Around the world, project upon project is failing to live up to expectations.
+In Brazil, the Paitre Surai made history by becoming the first indigenous tribe to sell
+credits to protect their own forest—most visibly to FIFA in 2014, to offset emissions
+from that year's World Cup.
+The next year, however, diamonds were found in the protected land, and the forest was
+quickly ripped to shreds by those looking for a quick profit—rendering the already
+sold credits meaningless.
+In a protected area of Cambodia that sold credits as forest coverage sat at 88%, independent
+analysis by ProPublica and Descartes Labs found that coverage had since dropped to 46%
+as state-sanctioned logging and population influx accelerated deforestation far faster
+than the project promised.
+In Indonesia, carbon offsets were sold to protect a span of forest for conversion into
+Acadia plantations, despite the fact that the government had placed a moratorium on
+plantation development in the area.
+Among myriad other issues, Nikkei Asia found that three times more carbon was sold as credits
+than the project was likely to actually offset.
+Time and time and time again, projects are making their money upfront, and then failing
+to live up to the long-term promise that encompasses the entirety of their value.
+These forest projects fail to address all three vertices of the carbon offsetting triangle.
+The trio of factors that make for theoretically effective crediting.
+It makes intuitive sense, for example, that a proper carbon offset must be permanent or
+that the rate of decline must be accounted for.
+What makes this difficult, though, is monitoring illegal harvesting in remote areas, or projecting
+future fire losses, or anticipating what climbing temperatures will do to the ecological makeup
+of a forest.
+The project also needs to ensure that the carbon they sequester isn't just leading
+to increased emissions elsewhere—that the CO2 isn't leaking out.
+It's one thing to protect a swath of forest in the developing world, but it's another
+to ensure that doesn't lead to more aggressive clear-cutting elsewhere beyond the reach of
+state authorities or even roads.
+Finally, and perhaps of most difficulty, it's crucial for an offset project to prove that
+the forest protection wouldn't have happened otherwise—a naturally speculative effort
+with so many shades of gray that the Nature Conservancy, for example, can justify an offsetting
+project on property that they themselves had already preserved.
+At the core of this triangle, though, and largely the reason it isn't heated at every
+turn, is the need for dogged monitoring and accounting—two management mechanisms, in
+a field defined by price points and expedience, that require time and money and therefore
+plague offsetting projects well beyond forestry.
+Theoretically, though, if an offset scheme can verifiably determine a baseline, verifiably
+account for or assure permanence, verifiably account for or prevent leakage, and verifiably
+prove additionality, then it might actually work.
+Under these constraints, well-intentioned actors have aimed to innovate more advanced,
+more effective systems of carbon offsetting.
+Perhaps the most promising of these alternatives stems from one surprisingly specific process.
+This is the Kopal district of India's Karnataka state.
+Roughly 1.4 million people are spread across its dry, rocky landscape, making a living
+largely by growing groundnuts and grains.
+Of this population, 99% rely on traditional cookstoves.
+More often than not, that means they're using three-stone fires, where a trio of rocks
+is used to elevate a pot over a fire fueled by wood, coal, dung, or other biomass fuels.
+The Kopal district is in good company—globally, three billion of us rely on similar traditional
+stoves for cooking.
+They can be built and fueled simply by gathering what exists around us, but the advantages
+pretty much end there.
+The thermal efficiency of three-stone fires, as in the percent of heat created that actually
+makes it to the pot, is just 10%.
+That's colossally low, especially compared to the 75% thermal efficiency of the typical
+electric stovetop.
+Therefore, the average household that cooks on a three-stone fire uses between 11 and
+26 pounds, or 5 and 12 kilograms, of wood per day.
+Burning such a quantity of wood every single day clearly has a sizable environmental impact—in
+fact, some 25% of global black carbon emissions, a damaging pollutant, stems from this style
+of cooking.
+Of course, those using three-stone fires do so out of necessity—they either can't
+afford or don't have the infrastructure to support gas or electric stoves—but there
+is an intermediate alternative.
+It's called the improved cookstove.
+Essentially, this is a catch-all term to describe biomass-fueled stoves with higher thermal
+efficiency—often around 20 or 30%.
+With higher thermal efficiency, the fuel need is lower, and so a household switching
+from a three-stone fire to an improved cookstove is estimated to eliminate between one and
+a half and four tons of carbon emissions per year.
+This is a hefty amount—roughly equivalent to the average annual carbon footprint of
+a whole person in one of these households, or to flying between New York and Singapore
+five times.
+So, replacing these with these would go a long way to reducing emissions, but the problem
+is that improved cookstoves are expensive.
+Their 1,400-rupee cost is equivalent to a week of income for the average Coppola district
+resident.
+However, 1,400-rupee is only 18 American dollars—a miniscule amount to pay to offset such an
+amount of flying, for example.
+Therefore, cookstove replacement was a prime candidate for financing through carbon credits—a
+perfect solution where certain individuals value an action above its cost simply for
+its environmental benefits.
+On top of that, the math was simpler—the higher the thermal efficiency, the lower the
+emissions should be.
+Having identified that, NGOs globally started distributing improved cookstoves to households
+reliant on the three-stone fire, including in the Coppola district, where 43,000 stoves
+were distributed to 21,500 families in exchange for the organizers selling 43,215 tons of
+carbon offsets per year for a decade.
+Now, what takes the system of cookstove replacement carbon offsetting from theoretically good
+to great is its myriad co-benefits—the advantages stretch beyond just environmental.
+To start with, gathering those huge quantities of wood to fuel traditional stoves takes time—an
+average of 18 hours a week, in fact.
+Researchers have found that overwhelmingly, the task of gathering wood for cooking is
+left to women and girls, and it takes time that would often otherwise be spent on education,
+for example.
+Therefore, the use of improved cookstoves, which require an average of only five hours
+of wood gathering per week, could help close the education gender gap observed in many
+poorer regions.
+On top of that, cooking is typically completed inside one's house, so the smoke inhaled
+by users of traditional cookstoves is equivalent to smoking two packs of cigarettes a day.
+Improved cookstoves do not eliminate smoke, but they do lessen it, so their distribution
+works to eliminate some of the 4.3 million annual premature deaths attributable to household
+air pollution.
+Improved cookstove programs can also create local jobs manufacturing and maintaining stoves,
+they can reduce unsustainable local deforestation—the co-benefits stretch on and on, and so it's
+no wonder why, in the face of compounding stories of disastrously ineffective forest
+protection programs, cookstove replacement was heralded by everyone from the United Nations
+to Hillary Clinton as the next big innovation in carbon offsetting.
+The math was simpler, the additionality was indisputable, the co-benefits were myriad,
+and the costs were low.
+These programs had the potential to finally offer carbon-conscious companies and consumers
+a truly verifiable way to actually offset their impact on the world, so long as theory
+translated into reality.
+To test their program's effectiveness, researchers put hundreds of households in the Coppola
+district into a test group—half were given the improved cookstoves immediately, and half
+had to wait a year to act as the control group.
+The researchers then tracked the various households' wood consumption to see how well it lined
+up with the predicted decline.
+With stoves increasing from 10 to 30% thermal efficiency, offsets were sold based on a theoretical
+67% reduction in wood consumption.
+What the researchers found was that when actually used on the ground in the Coppola district,
+the improved cookstove households averaged 7.9 pounds or 3.6 kilograms in daily wood
+consumption.
+However, crucially, the control group used 9.3 pounds or 4.2 kilograms.
+Improved cookstoves only led to a 15% decline in wood consumption.
+So little that it couldn't even be considered statistically significant by the study.
+That's to say, according to these results, hundreds of thousands of faulty carbon credits
+were sold to individuals and companies who believed they were genuinely eliminating carbon
+from the atmosphere—individuals who paid a premium over the forest protection alternative
+to finance the purportedly more effective form of carbon offsetting.
+What happened on the ground is that individuals' actions didn't conform to the optimistic
+beliefs of the program's designers.
+Almost half of the subject households didn't exclusively use the improved cookstoves—they
+kept using their three-stone fires simultaneously.
+This is a phenomenon so common that it has a dedicated term, stove stacking, and a whole
+subset of research into its causes.
+Broadly, stove stackers say they do so because it saves time—the more burners, the better.
+That means that the main solution to stove stacking is giving each household more stoves,
+but less carbon is going to be offset by the third stove as opposed to the first, given
+less frequent use, so achieving the more verifiable version of a cookstove replacement program
+comes with additional cost per ton offset.
+Another core co-benefit of improved cookstoves is that they make cooking easier, but unsurprisingly,
+making cooking easier often means people cook more.
+There is almost always suppressed demand among traditional cookstove users, and so this makes
+accounting for the carbon saved by the switch all the more difficult.
+Given this difficulty, not all programs confront real-world conditions in their design.
+United Nations Clean Development Mechanism-certified cookstove replacement programs are not required
+to test the stoves and the extent of their fuel savings in the field.
+Program designers can base their math off laboratory tests, the tests that led to the
+failed assumptions of the Köpple district program, such as measuring how much wood is
+necessary with each stove type to boil a given unit of water.
+Current independent certifiers, such as the Gold Standard, require real-world kitchen
+performance tests, measuring actual wood consumption in the actual project location by actual users
+over a span of days, but not all experts agree that the more stringent path is the correct
+one.
+Water boiling tests are quick, cheap, and easy.
+Kitchen performance tests are slow, expensive, and complicated.
+That cost has to be passed on to the ultimate purchaser of carbon credits, and so this opens
+up a broader, more subjective question.
+Is it really worth it to increase cost, to increase accuracy?
+Many cookstove replacement programs, including those based on less-precise water boiling
+tests, are genuinely effective, but more of the kitchen performance test-based versions
+are effective.
+So, is it worth increasing cost?
+Is it worth risking fewer carbon credits sold to be more confident that those credits are
+actually effective?
+Right now, the market seems to say no.
+The least accurate type of carbon offsetting programs, forest protection programs, are
+generally the lowest cost and hold a majority of the carbon offsetting market.
+Meanwhile, the theoretically most accurate type of carbon offsetting, direct air capture,
+where complex machinery literally sucks carbon out of the air, is the most expensive and
+barely exists at commercial scale.
+Consumers in the carbon market are making their purchasing decisions as they always
+do.
+If it costs $10 to offset a ton of carbon through one program and $15 through another,
+why would they pick the latter?
+The public overwhelmingly has neither the ability nor the desire to analyze the particulars
+of individual carbon offsetting programs, so the cheapest option presented to them almost
+always wins.
+But that cheapest option is the one with the greatest uncertainty over whether it will
+actually work.
+It's the one with the greatest potential for the numbers to be fudged by nefarious
+players looking to turn a profit.
+All the stories are about projects where the carbon offset was overstated.
+None are about carbon offset being understated.
+If people are given the opportunity to turn a profit by fudging the numbers, people are
+going to turn a profit by fudging the numbers.
+Not only is the market enabling this action, it's incentivizing it by funneling the vast
+majority of money into the cheapest, least verifiable, most exploitable projects.
+And this isn't one of those situations where perfect is the enemy of good.
+Carbon offsets are a form of syntax.
+Individuals and companies buy them to alleviate the cognitive dissonance that stems from doing
+something that accelerates climate change.
+Therefore, if a person decides to take that transatlantic flight because they can negate
+their emissions concerns simply by checking the offset box at checkout, that offset has
+to be 100% effective to not do harm.
+If that offset is just 90% effective, if the offsetting potential is just slightly overstated,
+if families cook just slightly more than expected due to the convenience of their new
+and improved cookstoves, the environment is in a worse place than where it started due
+to carbon offsets.
+Any behavioral economist would agree that carbon offsetting does lead to at least some
+individuals or companies omitting more than they would if it wasn't an option, so this
+scenario is not a fantasy.
+Therefore, carbon offsetting, a practice presented as an innovative solution to the world's
+carbon problem, has an extremely high risk of actually raising emissions.
+Whether it does that is an entirely different, unanswerable question.
+Given the complexity of just accounting for the carbon offset by an individual program,
+entering that industry-wide would be entirely impossible, but the potential is there.
+It's not that every carbon offset program is a scam.
+There are plenty of extremely well-managed programs run by people genuinely trying to
+make the world better that have truly verifiable offsetting impact and truly advantageous co-benefits.
+Carbon can be truly offset, but that's not what the market incentivizes.
+The market incentivizes the scam.
+The market incentivizes a race to the bottom.
+The market incentivizes the scenario where carbon offsetting, as a cohesive phenomenon,
+has genuine potential to accelerate our march towards climate catastrophe.
+If you've made it to the end of this video, you've clearly realized that, believe it
+or not, talking climate policy can actually be interesting.
+The world is changing faster than ever, and as catastrophic as that is, it's also fascinating
+to watch unfold in real time.
+I've certainly realized that over the years, especially as I produce two documentaries
+about the subject—one profiling the Marshall Islands, the country that's expected to
+be the first to become uninhabitable due to sea level rise, and another looking at
+the Colorado River, the primary water source for the American Southwest, which uses more
+water than the environment provides each year, putting the region on the path towards an
+imminent water shortage disaster.
+Each of these projects was produced on location with a rather big budget thanks to the funding
+provided by Nebula, and by extension, all the Nebula viewers, so you can watch both
+of these over there.
+Of course, Nebula is the streaming site that I and a bunch of other smart creators started
+to act as the best possible home to the stuff we make.
+We post our regular videos over there early and ad-free, exclusive videos we call Nebula
+Plus, and high-budget Nebula originals.
+We also release videos from our new channel, Jetlag the Game, an entire week early on Nebula.
+Most of the channels with the highest audience overlap with Wendover are also on the platform,
+so chances are you already watch plenty of Nebula creators.
+But what makes this the best deal in streaming is that you can get two streaming sites for
+less than the price of one.
+Signing up via CuriosityStream.com slash Wendover bundles the two platforms together for just
+$14.79 a year with the current sale price, and of course that also means you get access
+to all of CuriosityStream's great library of non-fiction shows and documentaries, like
+their fantastic show Engineering the Future.
+Signing up for the best deal in streaming gives you the best possible viewing experience
+of the creators you already know and love, gets you access to a huge catalogue of new
+content you'll probably love too, and it even helps support this channel, so click
+the button on screen or head over to CuriosityStream.com slash Wendover to sign up for the bundle deal
+today.

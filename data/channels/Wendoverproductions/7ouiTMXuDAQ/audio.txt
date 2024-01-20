@@ -1,0 +1,153 @@
+Moon colonization is something that humans have dreamt about for centuries and it's
+entirely possible it's just a matter of cost.
+Bringing both humans and supplies the 234,000 miles to the lunar surface costs an enormous
+amount of money and it's difficult to justify the cost to taxpayers.
+So how much would it cost?
+Well that's a complicated question.
+For the sake of simplicity, let's say we're doing a one year return mission with four
+astronauts using NASA technology.
+The first thing we'll calculate is the cost of getting there and we'll need a rocket.
+The Saturn V is the only rocket to have ever existed that is powerful enough to take humans
+beyond low earth orbit.
+The problem is, all 15 of them are long retired.
+The Saturn V had a lunar payload capacity of 90,000 pounds and a per launch cost of
+$189,000,000 1971 dollars or $1,123,000,000 2016 dollars which works out to $12,500 per
+pound transported to the moon.
+That may seem like a lot, but that would mean that the average American, weighing 159 pounds,
+could travel to the moon on technology that existed when computers looked like this for
+a mere $2,000,000.
+I know you know that that's not right.
+There are two problems in that calculation.
+First off, that doesn't include research and development costs.
+A staggering $6.4 billion was spent to develop the Saturn V which is $38,000,000,000 in 2016
+dollars.
+So, considering that the Saturn V was launched 13 times, that works out to just over $4,000,000
+per launch or $44,000 per pound.
+To colonize the moon, you don't just need to get things to the moon, you need to get
+them on the moon.
+The budget allocated to develop and build 12 lunar landers back in the Apollo days was
+$18,000,000,000 2016 dollars or $1,500,000,000 per lander.
+Once again, the lunar landers are no longer in service so we're including the R&D costs
+in our calculations.
+We need two landers to bring our four astronauts to the moon and these have to be able to return
+so they need to land with both launch systems and fuel.
+So that's $1.5 billion per lander plus $4 billion per Saturn V launch so $11 billion
+total to carry our astronauts to the moon and back.
+During the Apollo days, NASA also developed a module called the LM truck which was designed
+to deliver payloads to the surface of the moon without a crew.
+Not only could these land with 11,000 pounds of cargo, but a Saturn V rocket could launch
+with two of them.
+Using the truck, we can bring our per pound cost of bringing cargo to the lunar surface
+down to a reasonable $318,000.
+Believe it or not, that's a bargain.
+So, once our four astronauts get to the moon, they need somewhere to live.
+The Center for Strategic and International Studies in Washington DC did a super detailed
+study on how much the development and construction of a lunar base would cost.
+For our four person base, it would cost $20 billion to develop plus one of our $4 billion
+launches equaling $24 billion.
+That's a little steep.
+For a budget option, we could go with something like Bigelow Airspace's B330 spacecraft.
+These are essentially inflatable buildings that work in space and with a bit of modification,
+they could conceivably be altered to work on the surface of the moon.
+Bigelow Airspace is a commercial company.
+They've said that the B330 would rent out for $1.25 million per day or $465 million
+for a one year mission.
+Considering that's the first time I've said million when talking about a current
+day cost, that's practically nothing.
+Until you consider the problem of getting the B330 to the moon, it weighs 43,000 pounds
+so it'd take four LM truck landings and two Saturn V launches for a total of $14 billion.
+Well, that's a little better than $24 billion.
+Let's move on to food.
+For food, the best, but not simplest solution is to just grow it.
+One lunar greenhouse developed by the University of Arizona could produce about 5.5 pounds
+of food per day.
+In order to have variety, NASA would probably choose a few different crops that would do
+well on the moon.
+For our calculations, we'll say that the greenhouse would be filled with 76% sweet
+potato, 16% tomato, and 10% strawberry.
+That'll come out to 4.3 pounds of sweet potato, .8 pounds of tomato, and .4 pounds
+of strawberries per day.
+Sweet potatoes have 389 calories per pound or 1,675 calories per day per greenhouse.
+The tomatoes and strawberries will make 65 and 60 calories per day per greenhouse respectively,
+so that's 1,800 calories per day per greenhouse total.
+Each of our four astronauts would need about 3,000 calories per day equaling 12,000 total
+per day, so we'll need 6.67 greenhouses total and since you can't really bring two
+thirds of a greenhouse, we'll bring 7 and have surplus food, which is great for backup.
+Each lunar greenhouse will require .2 pounds of fertilizer per day, which adds up to 1.4
+pounds of fertilizer per day for our 7 greenhouses and 510 pounds for the year.
+So, for the greenhouse's growing scheme, we'll need to physically bring the greenhouses
+which each weigh a full metric ton or 2,200 pounds which, for the 7 of them, is 15,400
+pounds or 4.9 billion dollars plus another 162 million dollars for fertilizer.
+The International Space Station is a really good example of how water resources could
+be managed on the moon.
+Every bit used on the ISS is recycled.
+That includes water from condensation, showers, sweat, and yes, urine.
+It of course gets filtered heavily, but the water in astronauts food is the same that
+came from, you know, other stuff.
+NASA says that, without water recycling, 40,000 pounds of water would be needed to sustain
+4 astronauts on the moon.
+That would cost $12.7 billion dollars to transport.
+With water recycling, we can bring that down to 5,110 pounds of water for the year.
+Except we have our greenhouse, quite a bit of water is needed to grow the plants—6,920
+pounds worth to be specific.
+So that's 12,030 pounds of water for the year, which would cost $3.825 billion dollars
+to bring.
+So, next we need air, as in oxygen to breathe.
+A human at moderate activity levels needs 1.85 pounds of oxygen per day.
+So that means we'd need 7.4 pounds of oxygen per day for our four astronauts, 2,701 pounds
+for the year, which would cost $860 million dollars.
+But wait, because of our greenhouses and the amazing process of photosynthesis, we don't.
+One lunar greenhouse produces .75 pounds of oxygen per day.
+So our seven create 5.25 pounds of oxygen each day, so we only need to bring 2.15 pounds
+of oxygen per day or 785 pounds for the year, which will cost a mere $250 million dollars.
+You may ask why we don't use an oxygen scrubber and the simple answer is that it would cost
+quite a bit more to develop, build, and deliver a scrubber capable of creating enough clean
+air for a crew of four.
+It's just cheaper and less risky to bring all the necessary oxygen there.
+In terms of power, it's been proposed that the best way to bring electricity to the moon
+is to literally bring a nuclear reactor.
+It'd be a little one, but it would carry out fission reactions on the surface of the
+moon.
+NASA has only proposed, not developed, this system, but they said it could be developed,
+flight tested, and delivered to the moon for only $1.4 billion dollars.
+Now we have everything we need.
+So, to answer the question you came here for, how much would it cost to live a year on the
+moon?
+I'll just say before giving my answer that these were all estimates and far from perfect.
+For example, it's likely that if NASA ever actually colonized the moon, it would be decades
+in the future when commercial space companies are far more developed and the cost of transport
+would be much less.
+Space Flight Industries already sells cargo space to lunar orbit for a mere $10 million
+dollars per 220 pounds.
+With prices that low, it may not be long until living on the moon and other celestial bodies
+becomes commercially advantageous through mining and tourism.
+The very day this video goes up, Elon Musk is anticipated to announce SpaceX's plans
+to get to Mars, including a massive rocket that'll be able to carry as many as 220,000
+pounds to Mars for less than any previous rocket, which could make Martian colonization
+economically feasible.
+So, after adding everything up, my conservative estimate for one year with four astronauts
+on the moon comes out to $36 billion dollars.
+That's $98 million per day, $4.1 million per hour, $68,300 per minute, or $1,138 per
+second—more than an average family makes in a year in Madagascar.
+Is it worth it?
+Maybe.
+If we ever have to leave earth because of the environmental change that we've started,
+that $36 billion dollars might be the best investment we've ever made.
+After all, living on the moon or Mars or some other celestial body is a crucial first step
+in learning how to survive when the earth is no longer.
+I hope you enjoyed this Wendover Productions video.
+Make sure to click subscribe to get all my future videos right when they come out.
+I've noticed that whenever I say something unique or clever about my twitter, like I
+did two weeks ago, loads more people follow me.
+And now that I've said this, my guess is that more people will follow me over at my
+account at WendoverPro.
+There's also a fan-moderated subreddit for my channel which you can find at www.reddit.com
+slash r slash Wendover Productions.
+I'd also like to give a quick thanks to Shutterstock.com for giving me a bunch of
+free footage to make this video better.
+Lastly, this video topic was suggested to me by twitter user at the boomer so big thanks
+to them.
+If you have an idea for a video, tweet it at me and if I use it I'll credit you and
+be eternally grateful.
+Thank you for watching and I'll see you in two weeks for another Wendover Productions
+video.

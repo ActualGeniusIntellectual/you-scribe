@@ -1,0 +1,828 @@
+1
+00:00:00,000 --> 00:00:02,760
+This video was made possible by Brilliant.
+
+2
+00:00:02,760 --> 00:00:10,160
+Learn complex topics simply for 20% off by being one of the first 200 to sign up at brilliant.org.
+
+3
+00:00:10,160 --> 00:00:13,800
+The airline business model is broken.
+
+4
+00:00:13,800 --> 00:00:18,600
+Back in late 2019, COVID-19 came along.
+
+5
+00:00:18,600 --> 00:00:22,020
+Borders worldwide closed down.
+
+6
+00:00:22,020 --> 00:00:23,840
+Businesses halted work travel.
+
+7
+00:00:23,840 --> 00:00:27,420
+All but a select few individuals cancelled their trips.
+
+8
+00:00:27,420 --> 00:00:31,740
+In the time when all but the most critical contact was to be avoided to hold the virus
+
+9
+00:00:31,740 --> 00:00:36,660
+at bay, travel was just not a risk worth taking for most.
+
+10
+00:00:36,660 --> 00:00:42,780
+One of the most major issues for the airline industry, though, is not that demand is lower.
+
+11
+00:00:42,780 --> 00:00:47,700
+Lower demand is bad—it's wreaking havoc on the industry—but it is a potentially
+
+12
+00:00:47,700 --> 00:00:49,320
+surmountable problem.
+
+13
+00:00:49,320 --> 00:00:57,620
+If an airline knew that 2020 would be 75% down, 2021 55% down, and 2022 30% down, the
+
+14
+00:00:57,620 --> 00:01:02,380
+solution would be simple—they'd downsize their schedule, cut back on routes, unload
+
+15
+00:01:02,380 --> 00:01:07,800
+assets for low employees, and just become a smaller airline for the next few years.
+
+16
+00:01:07,800 --> 00:01:12,980
+These are, in fact, the tactics airlines are using regardless, but they don't fully solve
+
+17
+00:01:12,980 --> 00:01:14,320
+the overall problem.
+
+18
+00:01:14,320 --> 00:01:18,940
+That's because, even after airlines solved the problem of being too big for what the
+
+19
+00:01:18,940 --> 00:01:23,820
+travel market has become, the true issue—the one that will plague the industry for the
+
+20
+00:01:23,820 --> 00:01:29,280
+entirety of its period of recovery—is that even after they downsize, they just don't
+
+21
+00:01:29,280 --> 00:01:32,380
+know how many people want to fly.
+
+22
+00:01:32,380 --> 00:01:36,720
+Now, think back to travel in the time before coronavirus.
+
+23
+00:01:36,720 --> 00:01:39,460
+How full were the planes you were on?
+
+24
+00:01:39,460 --> 00:01:42,140
+How often was that seat next to you free?
+
+25
+00:01:42,140 --> 00:01:46,580
+The answer is almost certainly sometimes, but not that often.
+
+26
+00:01:46,580 --> 00:01:52,460
+On average, 85% of airplane seats in the US were filled in 2019—slightly higher than
+
+27
+00:01:52,460 --> 00:01:54,820
+the world average of 83%.
+
+28
+00:01:54,820 --> 00:02:02,180
+Some airlines achieved even better than this—Ryanair, for example, filled 96% of its seats in 2019.
+
+29
+00:02:02,180 --> 00:02:08,160
+Now, simultaneously, when was the last time that you've gone to buy a ticket for a flight,
+
+30
+00:02:08,160 --> 00:02:10,200
+but there were none available?
+
+31
+00:02:10,200 --> 00:02:14,080
+This too certainly happens, but it's quite rare.
+
+32
+00:02:14,080 --> 00:02:18,600
+It might cost quite a lot, but if you want to buy a ticket to a flight, it'll almost
+
+33
+00:02:18,600 --> 00:02:23,180
+always be available, no matter how close to departure it is.
+
+34
+00:02:23,180 --> 00:02:25,680
+This is very, very intentional.
+
+35
+00:02:25,680 --> 00:02:31,000
+Now, normally, the day-to-day job of adjusting the price of flights to extract every potential
+
+36
+00:02:31,000 --> 00:02:37,120
+dollar out of them is handled by computers—specifically, the complex revenue management software on
+
+37
+00:02:37,120 --> 00:02:38,120
+them.
+
+38
+00:02:38,120 --> 00:02:43,100
+Around early March 2020, though, the computers started to go haywire.
+
+39
+00:02:43,100 --> 00:02:47,380
+People weren't booking like they were supposed to, so the computers lowered the price.
+
+40
+00:02:47,380 --> 00:02:51,400
+That should lead to bookings picking up, but they didn't, which confused the computers
+
+41
+00:02:51,400 --> 00:02:54,740
+even more, which lowered the price further.
+
+42
+00:02:54,740 --> 00:02:59,420
+This went on and on and on until the point where you could book flights from New York
+
+43
+00:02:59,420 --> 00:03:05,060
+to London, for example, for just one or two hundred dollars round trip, hours before departure.
+
+44
+00:03:05,060 --> 00:03:11,420
+It'd be easy to say prices were low because demand was, but that's not exactly the truth—it's
+
+45
+00:03:11,420 --> 00:03:13,880
+just a byproduct of the truth.
+
+46
+00:03:13,880 --> 00:03:18,820
+The computers and their revenue management software were tasked to extract the most revenue
+
+47
+00:03:18,820 --> 00:03:23,860
+possible, regardless of demand, but in this case, they failed.
+
+48
+00:03:23,860 --> 00:03:30,520
+Now, normally, businesses focus more on matching supply to demand, not demand to supply, because
+
+49
+00:03:30,520 --> 00:03:33,860
+regulating demand is very, very difficult.
+
+50
+00:03:33,860 --> 00:03:38,100
+Airlines, however, do both simultaneously.
+
+51
+00:03:38,100 --> 00:03:43,340
+This is because they just can't regulate supply to match demand that well.
+
+52
+00:03:43,340 --> 00:03:48,880
+Demand for travel fluctuates depending on which hour of which day of which year it is.
+
+53
+00:03:48,880 --> 00:03:52,400
+Airlines just can't fluctuate their schedule to match that entirely.
+
+54
+00:03:52,400 --> 00:04:00,700
+For example, airlines in the US making their 2020 schedules knew that last year, 2,487,398
+
+55
+00:04:00,700 --> 00:04:07,740
+people traveled in the US on the second Thursday in April, while 2,616,158 people did on the
+
+56
+00:04:07,740 --> 00:04:09,280
+third Thursday.
+
+57
+00:04:09,280 --> 00:04:14,460
+For the most part, though, airlines will operate the same schedules on both of those Thursdays.
+
+58
+00:04:14,460 --> 00:04:20,120
+That's because the complexity of adjusting the schedule to such small changes just isn't
+
+59
+00:04:20,120 --> 00:04:23,860
+worth the money it would save by operating slightly fuller flights.
+
+60
+00:04:23,860 --> 00:04:29,940
+Therefore, rather than rapidly adjusting supply to match demand, they rapidly adjust demand
+
+61
+00:04:29,940 --> 00:04:31,720
+to fit supply.
+
+62
+00:04:31,720 --> 00:04:35,320
+You can see this in action by looking at travel trends.
+
+63
+00:04:35,320 --> 00:04:40,820
+In the US, the least busy quarter in 2019 for air travel was the first, January, February,
+
+64
+00:04:40,820 --> 00:04:43,820
+and March, with 210 million passengers.
+
+65
+00:04:43,820 --> 00:04:49,400
+The most busy quarter, meanwhile, was the third, July, August, and September, with 243
+
+66
+00:04:49,400 --> 00:04:50,400
+million passengers.
+
+67
+00:04:50,400 --> 00:04:54,580
+Now, that's not that much of a difference.
+
+68
+00:04:54,580 --> 00:05:00,040
+The third quarter, including the height of the summer travel season, was only 16% busier
+
+69
+00:05:00,040 --> 00:05:03,840
+than the first quarter, encompassing the depths of winter.
+
+70
+00:05:03,840 --> 00:05:09,380
+But is it truly that demand is only 16% higher in the summer than winter, or is it that airlines
+
+71
+00:05:09,380 --> 00:05:14,240
+are regulating demand to increase it in the winter and suppress it in the summer?
+
+72
+00:05:14,240 --> 00:05:16,720
+All evidence points to the latter.
+
+73
+00:05:16,720 --> 00:05:20,440
+So, airlines have this balancing act to perform.
+
+74
+00:05:20,440 --> 00:05:24,400
+They want to be sure that they can capture as much of the high demand in the summer as
+
+75
+00:05:24,400 --> 00:05:28,360
+possible, but they also don't want to have a bunch of planes and staff sitting around
+
+76
+00:05:28,360 --> 00:05:32,180
+in the lower demand winter, as that costs quite a lot.
+
+77
+00:05:32,180 --> 00:05:36,220
+Rather than flying a stable number of flights year-round or regulating demand to keep it
+
+78
+00:05:36,220 --> 00:05:40,820
+stable year-round, they do a little of both and meet in the middle.
+
+79
+00:05:40,820 --> 00:05:43,580
+The supply side is the easy bit.
+
+80
+00:05:43,580 --> 00:05:47,940
+There is a certain predictable ebb and flow to the yearly cycle of travel for a given
+
+81
+00:05:47,940 --> 00:05:50,800
+market for a given type of traveler.
+
+82
+00:05:50,800 --> 00:05:54,400
+For example, take the American business traveler.
+
+83
+00:05:54,400 --> 00:05:58,260
+Airlines know that the week with the lowest demand for travel from this demographic is
+
+84
+00:05:58,260 --> 00:06:02,820
+the last of the year, after Christmas, followed by the first of the year, the second to last
+
+85
+00:06:02,820 --> 00:06:07,000
+of the year, the week of the 4th of July, then the week of Thanksgiving.
+
+86
+00:06:07,000 --> 00:06:12,260
+With this info, airlines can craft a schedule that, over those weeks, emphasizes leisure-focused
+
+87
+00:06:12,260 --> 00:06:14,500
+destinations over business ones.
+
+88
+00:06:14,500 --> 00:06:18,780
+They might decide that, in the last week of the year, they'll fly more flights to Florida
+
+89
+00:06:18,780 --> 00:06:20,420
+and fewer to Chicago.
+
+90
+00:06:20,420 --> 00:06:25,660
+Simultaneously, though, airlines know that September, October, and the week before Thanksgiving
+
+91
+00:06:25,660 --> 00:06:29,560
+are the strongest period of the year for business travel, so they might increase the
+
+92
+00:06:29,560 --> 00:06:33,220
+number of flights on common business routes over that time.
+
+93
+00:06:33,220 --> 00:06:38,520
+So, airlines tweak their schedule mostly on a month-to-month or week-to-week basis, but
+
+94
+00:06:38,520 --> 00:06:45,260
+for those day-to-day or hour-to-hour shifts in demand, they rely on regulating demand.
+
+95
+00:06:45,260 --> 00:06:50,820
+The number one tool used to do this is pricing, and we can see this in action.
+
+96
+00:06:50,820 --> 00:06:55,160
+Currently, if you want to book a ticket to fly United Airlines from Newark to Eagle County
+
+97
+00:06:55,160 --> 00:07:01,640
+Airport in Colorado on January 1st, 2021, it would cost you $353.
+
+98
+00:07:01,640 --> 00:07:05,500
+If you were to book United Airlines from Newark Airport to Denver International Airport on
+
+99
+00:07:05,500 --> 00:07:09,320
+January 1st, though, it would cost you $134.
+
+100
+00:07:09,320 --> 00:07:15,440
+So, flying to Eagle County is two and a half times more expensive than flying to Denver,
+
+101
+00:07:15,440 --> 00:07:19,280
+even though it is only 120 miles further from New York.
+
+102
+00:07:19,280 --> 00:07:24,020
+To United, the cost of operating these two flights are nearly identical—it's the
+
+103
+00:07:24,020 --> 00:07:27,720
+same aircraft type and roughly the same flight length.
+
+104
+00:07:27,720 --> 00:07:31,980
+There might be slight economies of scale by flying to Denver as it's a bigger airport,
+
+105
+00:07:31,980 --> 00:07:35,740
+and there's a greater potential of a flight diversion at Eagle County Airport since it's
+
+106
+00:07:35,740 --> 00:07:40,360
+in the mountains, but overall, the costs are very similar.
+
+107
+00:07:40,360 --> 00:07:44,940
+What accounts for the difference in price is demand, not cost.
+
+108
+00:07:44,940 --> 00:07:49,340
+United Airlines thinks it knows that four months prior to the flight, it can charge
+
+109
+00:07:49,340 --> 00:07:55,020
+$353 for the flight to Eagle County and still end up with a full plane.
+
+110
+00:07:55,020 --> 00:08:01,340
+Meanwhile, to end up with a full plane to Denver, it has to price it at $134.
+
+111
+00:08:01,340 --> 00:08:05,340
+These prices will increase as it gets closer to departure, but just because of the way
+
+112
+00:08:05,340 --> 00:08:12,860
+people book their travel to Eagle County Airport, $353 is the right price right now.
+
+113
+00:08:12,860 --> 00:08:15,940
+So, how does United know this?
+
+114
+00:08:15,940 --> 00:08:19,820
+Well, because it's what it did last year, and it worked.
+
+115
+00:08:19,820 --> 00:08:23,660
+Airlines' greatest asset truly is their data.
+
+116
+00:08:23,660 --> 00:08:27,900
+United Airlines knows exactly how much they need to price their flights at a certain level
+
+117
+00:08:27,900 --> 00:08:32,360
+of fullness and a certain number of days before departure, and that means they can eke out
+
+118
+00:08:32,360 --> 00:08:36,300
+every single bit of potential revenue from a given flight.
+
+119
+00:08:36,300 --> 00:08:40,940
+If United priced the Eagle County flight too high, they might end up with empty seats,
+
+120
+00:08:40,940 --> 00:08:43,400
+which is terrible for an airline.
+
+121
+00:08:43,400 --> 00:08:47,840
+Every time a plane takes off with an empty seat, the airline is losing out on potential
+
+122
+00:08:47,840 --> 00:08:48,840
+revenue.
+
+123
+00:08:48,840 --> 00:08:53,640
+Aside from taxes, airport fees, and catering costs, there's essentially no extra cost
+
+124
+00:08:53,640 --> 00:08:59,280
+to carrying an additional passenger, so selling a cheap ticket over no ticket is always worth
+
+125
+00:08:59,280 --> 00:09:00,280
+it.
+
+126
+00:09:00,280 --> 00:09:04,460
+Simultaneously, though, if an airline prices a flight too low, they might sell out of seats
+
+127
+00:09:04,460 --> 00:09:09,520
+too early—losing out on the potential to sell high-priced tickets to last-minute travelers,
+
+128
+00:09:09,520 --> 00:09:12,960
+who generally are those traveling for work who aren't paying for themselves.
+
+129
+00:09:13,520 --> 00:09:18,840
+So, airlines rely on these price fluctuations to end up with a plane exactly full, exactly
+
+130
+00:09:18,840 --> 00:09:24,120
+at departure, therefore, in theory, extracting the exact highest potential level of revenue
+
+131
+00:09:24,120 --> 00:09:26,060
+from the flight.
+
+132
+00:09:26,060 --> 00:09:31,600
+This makes the problem rather obvious—airlines simply don't know what their recovery will
+
+133
+00:09:31,600 --> 00:09:32,720
+look like.
+
+134
+00:09:32,720 --> 00:09:37,600
+Specifically, the computers don't know how people will respond to changes in pricing,
+
+135
+00:09:37,600 --> 00:09:42,160
+so they don't know how to extract the most possible revenue from a flight by ending up
+
+136
+00:09:42,160 --> 00:09:45,740
+with an exactly full flight, exactly at departure.
+
+137
+00:09:45,740 --> 00:09:50,840
+The airline industry has had sharp drop-offs in demand before, but typically only in response
+
+138
+00:09:50,840 --> 00:09:53,880
+to financial crises or terrorist attacks.
+
+139
+00:09:53,880 --> 00:10:00,720
+In this case, in a pandemic, the closest equivalent happened 100 years ago, in 1918, when the
+
+140
+00:10:00,720 --> 00:10:04,120
+commercial aviation industry was only in its infancy.
+
+141
+00:10:04,120 --> 00:10:09,480
+Therefore, the aviation industry as a whole, and especially individual airlines, have no
+
+142
+00:10:09,480 --> 00:10:15,840
+data and no idea what the demand patterns during and after a pandemic will be like.
+
+143
+00:10:15,840 --> 00:10:20,720
+After the initial drop-off in travel and the plummet in pricing in response, airlines essentially
+
+144
+00:10:20,720 --> 00:10:24,600
+turned off the computers—shut down the revenue management algorithms.
+
+145
+00:10:24,600 --> 00:10:29,120
+They've gone back to relying on the humans, who traditionally are only there to tweak
+
+146
+00:10:29,120 --> 00:10:30,560
+what the computer thinks.
+
+147
+00:10:30,560 --> 00:10:35,840
+That's because the humans were able to realize something that the computers could not.
+
+148
+00:10:35,840 --> 00:10:39,400
+Traditionally, airline demand is quite elastic.
+
+149
+00:10:39,400 --> 00:10:43,100
+People will often decide whether or not to book based on the price.
+
+150
+00:10:43,100 --> 00:10:47,840
+It is exactly this, in fact, that makes it possible for the airlines to regulate demand
+
+151
+00:10:47,840 --> 00:10:49,420
+by changing prices.
+
+152
+00:10:49,420 --> 00:10:53,580
+In the midst of the initial stay-at-home orders, though, the only type of person who would
+
+153
+00:10:53,580 --> 00:10:59,400
+fly was someone who needed to fly—someone who would pay whatever it cost to get that
+
+154
+00:10:59,400 --> 00:11:00,400
+ticket.
+
+155
+00:11:00,400 --> 00:11:05,680
+Therefore, there was no sense in lowering prices because that wouldn't stimulate demand—it
+
+156
+00:11:05,680 --> 00:11:07,600
+would only reduce revenue.
+
+157
+00:11:07,600 --> 00:11:11,880
+They also didn't jack them up tremendously, cautious not to get into the public relations
+
+158
+00:11:11,880 --> 00:11:16,600
+nightmare of price gouging, but they more or less just kept them stable to what a normal
+
+159
+00:11:16,600 --> 00:11:18,120
+April would look like.
+
+160
+00:11:18,120 --> 00:11:23,360
+As May came about, and there was a small initial restart to discretionary travel, most every
+
+161
+00:11:23,360 --> 00:11:29,120
+American airline lowered prices by about 10-20% to stimulate demand slightly.
+
+162
+00:11:29,120 --> 00:11:33,720
+The problem, though, is that there are still way too many variables impacting travel to
+
+163
+00:11:33,720 --> 00:11:36,720
+accurately predict and stimulate demand.
+
+164
+00:11:36,720 --> 00:11:41,160
+American Airlines, for example, took a big gamble in May when they were crafting their
+
+165
+00:11:41,160 --> 00:11:43,080
+revised summer schedule.
+
+166
+00:11:43,080 --> 00:11:47,880
+They accurately surmised that people who were vacationing in summer 2020 would be particularly
+
+167
+00:11:47,880 --> 00:11:52,940
+interested in destinations where the focus was the outdoors, such as at the beach.
+
+168
+00:11:52,940 --> 00:11:57,180
+They also knew that many of the traditional beach destinations that Americans travel to
+
+169
+00:11:57,180 --> 00:12:02,400
+in the Caribbean would be shut behind closed borders, so demand for this type of vacation
+
+170
+00:12:02,400 --> 00:12:05,640
+would naturally shift domestically to Florida.
+
+171
+00:12:05,640 --> 00:12:09,720
+This hypothesis was further supported by the fact that, in May, when they were working
+
+172
+00:12:09,720 --> 00:12:14,320
+on this schedule, Florida had one of the lowest rates of infection in the US.
+
+173
+00:12:14,320 --> 00:12:18,600
+Therefore, the airline decided to add loads of capacity into Florida to account for the
+
+174
+00:12:18,600 --> 00:12:21,200
+relatively high demand it expected.
+
+175
+00:12:21,200 --> 00:12:26,720
+Of course, starting in early June, there began a steep spike in the state's COVID cases,
+
+176
+00:12:26,720 --> 00:12:30,560
+leading to increased weariness among consumers to travel to the state.
+
+177
+00:12:30,560 --> 00:12:35,600
+Also, on a more general level, much of the summer travel season in the US did not live
+
+178
+00:12:35,600 --> 00:12:40,760
+up to airlines' expectations due to a second spike in nationwide case numbers and increasing
+
+179
+00:12:40,760 --> 00:12:43,040
+domestic travel restrictions.
+
+180
+00:12:43,040 --> 00:12:47,360
+Passenger demand trends returned slightly closer to the April 2020 scenario, where it
+
+181
+00:12:47,360 --> 00:12:52,600
+was less and less the cost of travel that stimulated demand, and rather external conditions.
+
+182
+00:12:52,600 --> 00:12:58,600
+COVID has turned the job of those in revenue management at airlines closer to an art than
+
+183
+00:12:58,600 --> 00:12:59,920
+a science.
+
+184
+00:12:59,920 --> 00:13:04,920
+With decades upon decades of data, airlines got good at modeling the predictable patterns
+
+185
+00:13:04,920 --> 00:13:09,560
+of travelers, but failed to consider the possibility for the unimaginable.
+
+186
+00:13:09,560 --> 00:13:14,840
+Now, not only is overall demand lower, but airlines can't even extract the same level
+
+187
+00:13:14,840 --> 00:13:19,120
+of revenue from the same number of travelers on a given flight.
+
+188
+00:13:19,120 --> 00:13:24,600
+This unpredictability has a quite literal, monetary cost for airlines, so that means
+
+189
+00:13:24,600 --> 00:13:29,760
+that, even when the travelers come back, even when the airports are full again, true recovery
+
+190
+00:13:29,760 --> 00:13:36,180
+will not happen until passengers are predictable again.
+
+191
+00:13:36,180 --> 00:13:38,240
+Uncertainty is not just a word.
+
+192
+00:13:38,240 --> 00:13:42,960
+It's a force of nature that we can never get rid of, which is why mathematics has set
+
+193
+00:13:42,960 --> 00:13:45,340
+up a system of tools to address it.
+
+194
+00:13:45,340 --> 00:13:49,960
+The mathematics of uncertainty is fascinating and an incredibly powerful analytical tool,
+
+195
+00:13:49,960 --> 00:13:54,440
+but it's an area of math that most people don't know a lot about.
+
+196
+00:13:54,440 --> 00:13:59,560
+I certainly didn't until the new brilliant course on knowledge and uncertainty came around.
+
+197
+00:13:59,560 --> 00:14:04,540
+This and all of Brilliant's courses are designed so they take these big, complex subjects
+
+198
+00:14:04,540 --> 00:14:06,920
+and teach them in an intuitive way.
+
+199
+00:14:06,920 --> 00:14:11,360
+With visuals, interactive elements, and clear explanations, all you need to do to learn
+
+200
+00:14:11,360 --> 00:14:16,000
+about uncertainty or computer science or math or science is commit to working through the
+
+201
+00:14:16,000 --> 00:14:17,480
+course regularly.
+
+202
+00:14:17,480 --> 00:14:21,720
+After watching this video, taking the course on uncertainty will be even more interesting
+
+203
+00:14:21,720 --> 00:14:25,660
+for you, as you'll be learning the exact sort of math that those working in revenue
+
+204
+00:14:25,660 --> 00:14:30,780
+management at airlines are using to try to work their way through their massive uncertainty
+
+205
+00:14:30,780 --> 00:14:31,780
+problem.
+
+206
+00:14:31,780 --> 00:14:36,260
+So, commit to learning today and be one of the first 200 to sign up at brilliant.org
+
+207
+00:14:36,260 --> 00:14:39,780
+slash wendover so you get a 20% discount.
+

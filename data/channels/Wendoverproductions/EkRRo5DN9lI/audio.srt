@@ -1,0 +1,764 @@
+1
+00:00:00,000 --> 00:00:03,020
+This video was made possible by Brilliant.
+
+2
+00:00:03,020 --> 00:00:09,940
+Learn with Brilliant for 20% off by being one of the first 200 to sign up at brilliant.org-slash-Wendover.
+
+3
+00:00:09,940 --> 00:00:14,940
+Since November 2nd, 2000, the International Space Station has been continuously crewed
+
+4
+00:00:14,940 --> 00:00:18,740
+meaning humanity has had a permanent presence in space.
+
+5
+00:00:18,740 --> 00:00:21,540
+The importance of this station cannot be overstated.
+
+6
+00:00:21,540 --> 00:00:26,380
+NASA has literally filled a book with all the ways the ISS has benefited humans on earth.
+
+7
+00:00:26,380 --> 00:00:31,280
+It's helped develop new cancer treatments, enhanced robot surgery technology, improved
+
+8
+00:00:31,280 --> 00:00:35,320
+data processing techniques—its benefits stretch far and wide.
+
+9
+00:00:35,320 --> 00:00:40,600
+It is quite possibly the most significant science experiment humanity has ever undertaken.
+
+10
+00:00:40,600 --> 00:00:45,740
+It is also quite possibly the most expensive single item humanity has ever built at an
+
+11
+00:00:45,740 --> 00:00:51,080
+overall cost, so far, of about $160 billion.
+
+12
+00:00:51,080 --> 00:00:58,880
+Breaking that down, each day that each astronaut spends on the ISS costs about $7.5 million.
+
+13
+00:00:58,880 --> 00:01:04,360
+The ISS is a joint project between Russia's Roscosmos Agency, Japan's JAXA, Europe's
+
+14
+00:01:04,360 --> 00:01:07,600
+ESA, Canada's CSA, and the US's NASA.
+
+15
+00:01:07,600 --> 00:01:11,640
+Physically, though, it's split up into the Russian segment and the US segment with these
+
+16
+00:01:11,640 --> 00:01:15,920
+two countries more or less taking responsibility for managing and supplying their side.
+
+17
+00:01:15,920 --> 00:01:21,580
+At over 350 feet or 110 meters long, the station is longer than a 747 and has more
+
+18
+00:01:21,580 --> 00:01:24,640
+interior space than the average six bedroom house.
+
+19
+00:01:24,640 --> 00:01:28,320
+Space is still at a premium, though, as science experiments and equipment take out most of
+
+20
+00:01:28,320 --> 00:01:33,440
+the room so normally there are only a maximum of six crew members onboard at any given time.
+
+21
+00:01:33,440 --> 00:01:37,320
+Back on earth, though, there are thousands of people working to support the activities
+
+22
+00:01:37,320 --> 00:01:38,840
+of those six.
+
+23
+00:01:38,840 --> 00:01:42,340
+Now that the International Space Station is built and operating, the whole mission is
+
+24
+00:01:42,340 --> 00:01:44,300
+basically a big logistics problem.
+
+25
+00:01:44,300 --> 00:01:49,040
+It involves getting people, food, water, supplies, and experiments up and down from the station
+
+26
+00:01:49,040 --> 00:01:52,300
+in a consistent, cost-effective, and safe manner.
+
+27
+00:01:52,300 --> 00:01:58,440
+Food, as an example, is one of the only completely non-renewable resources onboard the ISS.
+
+28
+00:01:58,440 --> 00:02:03,780
+Water can be recycled, oxygen can be generated, supplies can be reused, but food is one and
+
+29
+00:02:03,780 --> 00:02:04,780
+done.
+
+30
+00:02:04,780 --> 00:02:08,880
+That means there has to be consistent shipments from earth to the station.
+
+31
+00:02:08,880 --> 00:02:13,020
+About half the food is supplied by the Russians and the other half by the Americans.
+
+32
+00:02:13,020 --> 00:02:17,560
+There are a few constraints to space food—it has to be shelf-stable as there are no refrigerators
+
+33
+00:02:17,560 --> 00:02:21,760
+onboard, it has to last about two years as resupplies only happen a few times a year,
+
+34
+00:02:21,760 --> 00:02:25,760
+it has to be light as weight is precious on the resupply rockets, and it has to be easy
+
+35
+00:02:25,760 --> 00:02:28,400
+to prepare as astronauts' time is valuable.
+
+36
+00:02:28,400 --> 00:02:32,120
+Within those parameters, the Russians use a system of canned food while the Americans
+
+37
+00:02:32,120 --> 00:02:35,800
+use a system of flexible pouches which have the advantage of being lighter weight than
+
+38
+00:02:35,800 --> 00:02:36,860
+the cans.
+
+39
+00:02:36,860 --> 00:02:41,400
+This NASA food is produced at the Johnson Space Center in Houston, Texas.
+
+40
+00:02:41,400 --> 00:02:44,960
+Long before they launch, the astronauts do a taste test to determine which foods they
+
+41
+00:02:44,960 --> 00:02:47,720
+like most and they express these preferences.
+
+42
+00:02:47,720 --> 00:02:52,160
+Based off those, NASA will produce and load more of the best-liked foods.
+
+43
+00:02:52,160 --> 00:02:55,900
+The astronauts can choose from hundreds of items—spaghetti and meatballs, barbecue
+
+44
+00:02:55,900 --> 00:03:00,440
+beef brisket, Caribbean chicken, vegetable quiche, beef enchiladas, the options go on
+
+45
+00:03:00,440 --> 00:03:01,440
+and on.
+
+46
+00:03:01,440 --> 00:03:05,260
+Somewhat surprisingly, the ingredients for the food are just purchased at a grocery store
+
+47
+00:03:05,260 --> 00:03:06,740
+like any other meal.
+
+48
+00:03:06,740 --> 00:03:11,180
+There's no special sourcing or special ingredients, although they do inspect the ingredients carefully
+
+49
+00:03:11,180 --> 00:03:14,120
+after buying to be extra sure that they're safe.
+
+50
+00:03:14,120 --> 00:03:18,380
+As far as we know, no astronaut has yet gotten food poisoning in space and NASA wants to
+
+51
+00:03:18,380 --> 00:03:19,540
+keep it that way.
+
+52
+00:03:19,540 --> 00:03:22,900
+The food is then prepared fairly conventionally until the last step.
+
+53
+00:03:22,900 --> 00:03:27,740
+Food is made shelf-stable and light-weight by one of two methods—thermostabilization
+
+54
+00:03:27,740 --> 00:03:29,060
+or freeze-drying.
+
+55
+00:03:29,060 --> 00:03:33,400
+With thermostabilization, heat is used to destroy microorganisms and enzymes that would
+
+56
+00:03:33,400 --> 00:03:35,000
+cause food to spoil.
+
+57
+00:03:35,000 --> 00:03:39,260
+With freeze-drying, the food is frozen and then almost all moisture is removed.
+
+58
+00:03:39,260 --> 00:03:42,960
+With this technique, there is nearly no water left in the food, which is normally the bulk
+
+59
+00:03:42,960 --> 00:03:48,800
+of the weight, so a full serving of spaghetti, for example, weighs only 1 ounce or 28 grams.
+
+60
+00:03:48,800 --> 00:03:53,360
+The space station has a water recycling system that recovers about 80% of the water on board
+
+61
+00:03:53,360 --> 00:03:56,920
+which means that, while they do occasionally have to resupply water from earth, it's
+
+62
+00:03:56,920 --> 00:04:00,840
+more efficient to ship food up without water in it since the water on board can be reused
+
+63
+00:04:00,840 --> 00:04:03,440
+for multiple meals and that also helps keep it shelf-stable.
+
+64
+00:04:03,880 --> 00:04:08,360
+Overall, freeze-drying reduces the total food weight they have to take up.
+
+65
+00:04:08,360 --> 00:04:13,500
+NASA currently pays about $29,000 per pound for shipment to the space station.
+
+66
+00:04:13,500 --> 00:04:18,840
+Each gallon of water they bring therefore costs them about a quarter of a million dollars.
+
+67
+00:04:18,840 --> 00:04:24,000
+That also means that each of those 1 ounce portions of spaghetti costs them about $1,800.
+
+68
+00:04:24,000 --> 00:04:28,920
+They'll also typically include a few pieces of fresh fruit any time a rocket goes up as
+
+69
+00:04:28,920 --> 00:04:35,040
+a treat and, with these shipment costs, each apple is worth almost $10,000.
+
+70
+00:04:35,040 --> 00:04:38,360
+This is why so much focus is put on minimizing weight.
+
+71
+00:04:38,360 --> 00:04:42,600
+In addition to the food they make, some foods are just shipped up as is.
+
+72
+00:04:42,600 --> 00:04:47,380
+For example, if a crew member has a particular type of granola bar they like, the food preparation
+
+73
+00:04:47,380 --> 00:04:51,360
+team will go out and buy some of those as a sample and perform some tests in their lab
+
+74
+00:04:51,360 --> 00:04:54,780
+to figure out if it's, as they call it, flight compatible.
+
+75
+00:04:54,780 --> 00:04:58,160
+In that, they're basically looking to be sure that it's not too crumbly as they don't
+
+76
+00:04:58,160 --> 00:05:01,520
+like crumbs floating around into all the nooks and crannies of the station as well
+
+77
+00:05:01,520 --> 00:05:05,120
+as being sure it's not too liquidy both for the purposes of weight and to be sure
+
+78
+00:05:05,120 --> 00:05:07,880
+that it doesn't cause free liquid to float around.
+
+79
+00:05:07,880 --> 00:05:12,480
+Assuming it passes these tests, astronauts can pretty much bring what they want for snacks.
+
+80
+00:05:12,480 --> 00:05:16,660
+It will be repackaged into NASA's pouches, but there's a surprising amount of simply
+
+81
+00:05:16,660 --> 00:05:19,220
+store-bought food on the station.
+
+82
+00:05:19,220 --> 00:05:23,760
+Once all food is produced and packaged, it is shipped to one of four launch sites—either
+
+83
+00:05:23,760 --> 00:05:27,920
+the Mid-Atlantic Regional Spaceport in Virginia where Northrop Grumman Cygnus resupplies spacecraft
+
+84
+00:05:27,920 --> 00:05:31,720
+are launched from, Cape Canaveral, Florida where SpaceX Dragon spacecraft are launched
+
+85
+00:05:31,720 --> 00:05:36,800
+from, Baikonur Cosmodrome in Kazakhstan where Russian Progress resupply and Soyuz crew spacecraft
+
+86
+00:05:36,800 --> 00:05:41,160
+are launched from, or Tanegashima Space Center in Japan where Japanese Konotori spacecraft
+
+87
+00:05:41,160 --> 00:05:42,340
+are launched from.
+
+88
+00:05:42,340 --> 00:05:46,180
+The food will be carefully packed alongside everything else making the trip ensuring proper
+
+89
+00:05:46,180 --> 00:05:47,560
+spacecraft balance.
+
+90
+00:05:47,560 --> 00:05:52,340
+Thanks to all these weight-saving techniques, supplies for crew, including food, only represent
+
+91
+00:05:52,340 --> 00:05:55,400
+a small portion of the overall weight for each launch.
+
+92
+00:05:55,400 --> 00:06:01,160
+For example, on one SpaceX launch, crew supplies only represented 530 pounds or 240 kilograms
+
+93
+00:06:01,160 --> 00:06:04,700
+of the 6,000 pounds or 2,700 kilograms of cargo.
+
+94
+00:06:04,700 --> 00:06:08,720
+The rest of the launch capacity is dedicated to equipment and experiments.
+
+95
+00:06:08,720 --> 00:06:14,480
+Now, part of the difficulty of this supply chain is that launch dates change a lot.
+
+96
+00:06:14,480 --> 00:06:20,400
+For example, the last SpaceX resupply, CRS-16, was initially scheduled for August 2018, then
+
+97
+00:06:20,400 --> 00:06:25,160
+it was pushed back to the 29th of November, then till December 4th, then again to December
+
+98
+00:06:25,160 --> 00:06:26,860
+5th when it finally launched.
+
+99
+00:06:26,860 --> 00:06:29,600
+These delays can come from quite mundane issues.
+
+100
+00:06:29,600 --> 00:06:33,280
+The December 4th to December 5th delay, for example, came because it was found that the
+
+101
+00:06:33,280 --> 00:06:37,960
+food loaded for lab mice who were making the trip was moldy and had to be replaced.
+
+102
+00:06:37,960 --> 00:06:41,800
+Even just getting a launch or landing date in the first place is difficult enough.
+
+103
+00:06:41,800 --> 00:06:45,320
+Each site has its own set of constraints potentially preventing use.
+
+104
+00:06:45,320 --> 00:06:49,520
+For example, Tanegashima Space Center in Japan can only be used for launch at certain times
+
+105
+00:06:49,520 --> 00:06:53,400
+of year since, during fishing season, there are a large number of ships offshore from
+
+106
+00:06:53,400 --> 00:06:56,760
+the launch site which could be hit and damaged if a rocket exploded.
+
+107
+00:06:56,760 --> 00:07:01,240
+Elsewhere, a Soyuz landing in Kazakhstan had to be rescheduled as there was a G8 summit
+
+108
+00:07:01,240 --> 00:07:05,840
+nearby which, for security reasons, imposed airspace restrictions that prevented spacecraft
+
+109
+00:07:05,840 --> 00:07:08,040
+search and rescue aircraft from flying.
+
+110
+00:07:08,040 --> 00:07:13,140
+Even the angle of the sun relative to the ISS constrains when a spacecraft can dock.
+
+111
+00:07:13,140 --> 00:07:17,960
+The other factor that can affect the supply chain is that rockets are imperfect.
+
+112
+00:07:17,960 --> 00:07:22,160
+Five of the 117 resupply missions to date to the International Space Station did not
+
+113
+00:07:22,160 --> 00:07:27,000
+make it, for one reason or another, meaning there's a failure rate of 4.3%.
+
+114
+00:07:27,000 --> 00:07:32,640
+There was even a nine month stretch from 2014 to 2015 when three resupply missions failed.
+
+115
+00:07:32,640 --> 00:07:37,600
+In times like these, it's quite important that the ISS has plenty of backup food, water,
+
+116
+00:07:37,600 --> 00:07:38,600
+and supplies.
+
+117
+00:07:38,600 --> 00:07:42,240
+While the astronauts would never starve, running out of food or water could mean that they
+
+118
+00:07:42,240 --> 00:07:46,600
+would have to return to earth early, potentially leaving the ISS uncrewed and therefore wasting
+
+119
+00:07:46,600 --> 00:07:49,400
+many millions or billions of dollars.
+
+120
+00:07:49,400 --> 00:07:54,020
+When that third mission failed on June 28th, 2015, the station had enough food to last
+
+121
+00:07:54,020 --> 00:07:56,400
+them for about another 50 days.
+
+122
+00:07:56,400 --> 00:08:01,020
+In this case, even with three failed missions, they had plenty of food to last them especially
+
+123
+00:08:01,020 --> 00:08:05,080
+considering the next resupply mission, a Russian Progress spacecraft, was scheduled just a
+
+124
+00:08:05,080 --> 00:08:08,040
+week after the failure and it was successful.
+
+125
+00:08:08,040 --> 00:08:09,880
+There have been close calls, though.
+
+126
+00:08:09,880 --> 00:08:13,880
+After the space shuttle Columbia disaster in 2003, astronauts had to cut their daily
+
+127
+00:08:13,880 --> 00:08:18,360
+caloric intake and supplies got as low as 7 to 14 days of food.
+
+128
+00:08:18,360 --> 00:08:21,760
+They were one resupply failure away from having to evacuate.
+
+129
+00:08:21,760 --> 00:08:26,080
+Sometimes, in order to stretch the food supply, NASA will have to extend the certified shelf
+
+130
+00:08:26,080 --> 00:08:27,800
+life of food on board.
+
+131
+00:08:27,800 --> 00:08:32,000
+For this purpose, they keep a sample of each batch of food they make on earth, packaged
+
+132
+00:08:32,000 --> 00:08:36,440
+and stored in the exact same conditions as on the ISS so they can test if food is still
+
+133
+00:08:36,440 --> 00:08:38,680
+fit for consumption and safe.
+
+134
+00:08:38,680 --> 00:08:42,680
+Assuming a rocket doesn't have any issues, it will typically make it to the ISS in about
+
+135
+00:08:42,680 --> 00:08:44,480
+two to three days.
+
+136
+00:08:44,480 --> 00:08:48,700
+Once the spacecraft is near the ISS, the crew will spend almost a whole working day dealing
+
+137
+00:08:48,700 --> 00:08:50,400
+with the docking process.
+
+138
+00:08:50,400 --> 00:08:55,280
+Once that's completed, either the same day or the next morning, they'll open the hatch.
+
+139
+00:08:55,280 --> 00:08:58,120
+Typically right at the hatch is the crew care package.
+
+140
+00:08:58,120 --> 00:09:02,440
+This will include those fresh fruit and vegetables as well as some items sent up by the crew's
+
+141
+00:09:02,440 --> 00:09:03,440
+families.
+
+142
+00:09:03,440 --> 00:09:06,320
+One time, the crew care package even included real ice cream.
+
+143
+00:09:06,320 --> 00:09:10,200
+While there isn't normally a freezer on board, in this instance a portable freezer
+
+144
+00:09:10,200 --> 00:09:14,800
+was sent up in order to transport samples from an experiment back to earth but, since
+
+145
+00:09:14,800 --> 00:09:18,000
+it was empty on the trip up, the crew got this treat.
+
+146
+00:09:18,000 --> 00:09:21,640
+Over the next few months, astronauts will go through their food one container at a time
+
+147
+00:09:21,640 --> 00:09:25,600
+scanning a barcode each time they open one to let mission control know what their inventory
+
+148
+00:09:25,600 --> 00:09:27,080
+level is like.
+
+149
+00:09:27,080 --> 00:09:31,400
+That way, if food is going quicker or more slowly than expected, NASA can adjust future
+
+150
+00:09:31,400 --> 00:09:32,400
+shipments.
+
+151
+00:09:32,400 --> 00:09:36,720
+On board, dehydrated food is heated up and hydrated using a food rehydrator while other
+
+152
+00:09:36,720 --> 00:09:39,160
+food can be heated up using another heater.
+
+153
+00:09:39,160 --> 00:09:43,660
+The point of putting so much effort into food on the ISS is for the psychological well-being
+
+154
+00:09:43,660 --> 00:09:45,000
+of the astronauts.
+
+155
+00:09:45,000 --> 00:09:49,400
+With working long hours bottled up in a small space for up to a year, the mental stress
+
+156
+00:09:49,400 --> 00:09:54,680
+of the job is enormous so any effort that can help reduce that is an effort worth doing.
+
+157
+00:09:54,680 --> 00:09:58,840
+As part of this, NASA puts a good amount of work into movie night.
+
+158
+00:09:58,840 --> 00:10:02,840
+They have a large projector screen and, in addition to their onboard digital library
+
+159
+00:10:02,840 --> 00:10:06,560
+of about 500 movies, the crew can download new movies.
+
+160
+00:10:06,560 --> 00:10:10,520
+The ISS does have an internet connection and they've been known to get some movies such
+
+161
+00:10:10,520 --> 00:10:14,000
+as Star Wars The Last Jedi while they're still in theaters.
+
+162
+00:10:14,000 --> 00:10:17,920
+That same internet connection lets astronauts browse the web quite freely even if it's
+
+163
+00:10:17,920 --> 00:10:18,920
+not quick.
+
+164
+00:10:18,920 --> 00:10:22,960
+While the station does have 300 megabits per second of downlink capacity, the vast majority
+
+165
+00:10:22,960 --> 00:10:27,120
+of it is dedicated to experiment and other data but astronauts are able to regularly
+
+166
+00:10:27,120 --> 00:10:29,480
+video call their families using it.
+
+167
+00:10:29,480 --> 00:10:34,380
+The unloading process of resupply vessels is quite a slow process, partially just because
+
+168
+00:10:34,380 --> 00:10:37,040
+there isn't much storage space onboard.
+
+169
+00:10:37,040 --> 00:10:41,220
+Once a resupply vessel is unloaded, though, the crew will start loading it again with
+
+170
+00:10:41,220 --> 00:10:42,220
+trash.
+
+171
+00:10:42,220 --> 00:10:46,500
+The Northrop Grumman Cygnus, Russian Progress, and Japanese Konatori spacecraft cannot return
+
+172
+00:10:46,500 --> 00:10:50,500
+to earth so they just burn up in the atmosphere along with all the trash.
+
+173
+00:10:50,500 --> 00:10:54,820
+The SpaceX Dragon and crewed Russian Soyuz spacecraft do return to earth so they can
+
+174
+00:10:54,820 --> 00:10:57,140
+bring back samples and experiments.
+
+175
+00:10:57,140 --> 00:11:01,740
+Once ready, the spacecraft will undock and slowly drift away from the ISS until it disappears
+
+176
+00:11:01,740 --> 00:11:07,220
+from view and at that point, the ISS is ready for another delivery of humans or cargo—one
+
+177
+00:11:07,220 --> 00:11:11,820
+of the most unique regular deliveries in our universe.
+
+178
+00:11:11,820 --> 00:11:15,180
+Rocket science is something that always seems out of reach for mere mortals.
+
+179
+00:11:15,180 --> 00:11:19,340
+It's something that's supposed to be the most confusing and complex area of study but
+
+180
+00:11:19,340 --> 00:11:23,600
+you can actually get started learning rocket science right now with brilliant.org's classical
+
+181
+00:11:23,600 --> 00:11:25,020
+mechanics course.
+
+182
+00:11:25,020 --> 00:11:28,280
+They use their unique style of teaching to help you understand the physics that make
+
+183
+00:11:28,280 --> 00:11:30,140
+rockets work.
+
+184
+00:11:30,140 --> 00:11:34,060
+Brilliant is the expert in teaching complex concepts like this because they teach you
+
+185
+00:11:34,060 --> 00:11:37,720
+the intuitive principles behind the concepts and then help guide you to put it all back
+
+186
+00:11:37,720 --> 00:11:40,920
+together to the point where you can understand how things work.
+
+187
+00:11:40,920 --> 00:11:44,760
+Some very exciting news is that Brilliant now allows you to download their courses offline
+
+188
+00:11:44,760 --> 00:11:49,620
+on their iOS and Android apps so you can now learn with them no matter where you are.
+
+189
+00:11:49,620 --> 00:11:53,540
+Even better, you can sign up today for free at brilliant.org slash wendover and try out
+
+190
+00:11:53,540 --> 00:11:58,020
+some courses and then the first 200 to use that link will also get 20% off upgrading
+
+191
+00:11:58,020 --> 00:11:59,700
+to the annual premium subscription.
+

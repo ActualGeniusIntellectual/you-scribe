@@ -1,0 +1,1028 @@
+1
+00:00:00,000 --> 00:00:02,880
+This video was made possible by Hover.
+
+2
+00:00:02,880 --> 00:00:08,440
+Professionalize your web presence with a custom email address for 10% off at hover.com slash
+
+3
+00:00:08,440 --> 00:00:10,800
+Wendover.
+
+4
+00:00:10,800 --> 00:00:15,080
+This is the two-page document that changed the world.
+
+5
+00:00:15,080 --> 00:00:19,900
+It's what's referred to as a notification to the World Trade Organization Committee
+
+6
+00:00:19,900 --> 00:00:25,040
+on Technical Barriers to Trade—a type of document that, to anyone in the know, is thoroughly
+
+7
+00:00:25,040 --> 00:00:26,040
+mundane.
+
+8
+00:00:26,920 --> 00:00:32,960
+In fact, every few hours another such notification enters the WTO system, each signifying that
+
+9
+00:00:32,960 --> 00:00:37,600
+yet another country wants to make yet another change to its rules regarding the import or
+
+10
+00:00:37,600 --> 00:00:40,680
+export of goods or services.
+
+11
+00:00:40,680 --> 00:00:47,960
+This particular notification, though, submitted on July 18th, 2017, managed to send the entire
+
+12
+00:00:47,960 --> 00:00:55,120
+global recycling industry into a tailspin—or possibly even a death spiral.
+
+13
+00:00:55,120 --> 00:01:01,560
+But simply, this document broke the world's recycling system.
+
+14
+00:01:01,560 --> 00:01:03,760
+But here's how it worked before this document.
+
+15
+00:01:03,760 --> 00:01:08,700
+Let's say a woman in Littleton, Colorado has yogurt for breakfast.
+
+16
+00:01:08,700 --> 00:01:14,480
+The yogurt is packaged in a thin polypropylene plastic container and so, once finished, she
+
+17
+00:01:14,480 --> 00:01:17,780
+disposes of it into her recycling bin.
+
+18
+00:01:17,780 --> 00:01:21,960
+This is then picked up by a recycling truck a few days later and brought here to the local
+
+19
+00:01:21,960 --> 00:01:25,280
+recycling company's Materials Recovery Facility.
+
+20
+00:01:25,280 --> 00:01:29,660
+There, this yogurt container, along with all the rest of the single-stream recycling picked
+
+21
+00:01:29,660 --> 00:01:34,840
+up that day, is dumped out and placed into this semi-automated sorting system.
+
+22
+00:01:34,840 --> 00:01:39,360
+Some products are simple to isolate—most metals, for example, can be picked up by magnets
+
+23
+00:01:39,360 --> 00:01:43,240
+while paper and cardboard can be easily sorted by density as they're typically lighter
+
+24
+00:01:43,240 --> 00:01:44,720
+than other recyclables.
+
+25
+00:01:44,720 --> 00:01:49,520
+Glass, plastics, and non-magnetic metals are a little more difficult to sort, but each
+
+26
+00:01:49,520 --> 00:01:54,220
+looks quite distinct, so optical scanners operate blowers or other diversion tools that
+
+27
+00:01:54,220 --> 00:01:56,580
+are able to sort these out.
+
+28
+00:01:56,580 --> 00:02:02,300
+With a few more steps, the facility is more or less left with just plastic, but that's
+
+29
+00:02:02,300 --> 00:02:04,900
+where things get difficult.
+
+30
+00:02:04,900 --> 00:02:09,840
+Plastic comes in all sorts of shapes, sizes, and types, and different shapes, sizes, or
+
+31
+00:02:09,840 --> 00:02:13,320
+types of plastic are recycled in different ways.
+
+32
+00:02:13,320 --> 00:02:17,540
+Optical sensors start out by at least accomplishing a high-level sort, though.
+
+33
+00:02:17,560 --> 00:02:22,900
+For example, in many US states, plastic bottles are sold with a five or ten cent deposit,
+
+34
+00:02:22,900 --> 00:02:27,580
+meaning that recycling companies put a lot of effort into recovering those from the mix,
+
+35
+00:02:27,580 --> 00:02:31,660
+as they can be sold for, at least relative to the other plastics, a lot.
+
+36
+00:02:31,660 --> 00:02:36,060
+They also put a lot of work into recovering certain plastic types, such as high-density
+
+37
+00:02:36,060 --> 00:02:40,460
+polyethylene, as this both sells for more and is easier to sort out of the mix since
+
+38
+00:02:40,460 --> 00:02:44,580
+it's typically used to make larger items like plastic crates, shampoo bottles, and
+
+39
+00:02:44,580 --> 00:02:47,260
+other products where sturdiness matters.
+
+40
+00:02:47,260 --> 00:02:51,740
+The polyethylene and other higher-value plastics are quite accurately sorted and then melted
+
+41
+00:02:51,740 --> 00:02:56,380
+down into bulk raw plastic which is resold to manufacturers.
+
+42
+00:02:56,380 --> 00:03:01,420
+Certain other plastics, though, have a negative value—they can't be sold, and in fact,
+
+43
+00:03:01,420 --> 00:03:05,840
+it would take so much work to turn them into usable raw material that recycling companies
+
+44
+00:03:05,840 --> 00:03:08,920
+would have to pay someone to take it off their hands.
+
+45
+00:03:08,920 --> 00:03:13,680
+Typically falling into this category are smaller items like bottle caps, plastic bags, and
+
+46
+00:03:13,720 --> 00:03:18,340
+other scraps below three inches or eight centimeters in width that just can't be easily sorted
+
+47
+00:03:18,340 --> 00:03:20,320
+by automated systems.
+
+48
+00:03:20,320 --> 00:03:24,600
+These are then aggregated together and, at best, used to generate electricity through
+
+49
+00:03:24,600 --> 00:03:28,920
+incineration or, at worst, are just sent to a landfill.
+
+50
+00:03:28,920 --> 00:03:33,800
+So, to summarize, there's high-value plastic that's recovered immediately, negative-value
+
+51
+00:03:33,800 --> 00:03:37,740
+plastic that's either incinerated or sent to a landfill, and then there's a third
+
+52
+00:03:37,740 --> 00:03:43,040
+category in between those two, and that's where things get interesting.
+
+53
+00:03:43,400 --> 00:03:48,380
+Anything that isn't small and unrecoverable or large and valuable is typically mixed together
+
+54
+00:03:48,380 --> 00:03:55,120
+and formed into big bales of unsorted, medium-size, medium-value plastic that effectively have
+
+55
+00:03:55,120 --> 00:03:57,880
+a neutral value on the free market.
+
+56
+00:03:57,880 --> 00:04:03,520
+The raw materials in these bales, known as MRF residuals, is not quite valuable enough
+
+57
+00:04:03,520 --> 00:04:07,780
+to pay for the sorting process they would need for recycling, which leads to their neutral
+
+58
+00:04:07,780 --> 00:04:11,600
+value—at least, in the US.
+
+59
+00:04:11,600 --> 00:04:15,680
+Whenever it takes its trip through the Materials Recovery Facility, that yogurt container from
+
+60
+00:04:15,680 --> 00:04:22,340
+Littleton, Colorado would, if properly sorted, end up in one of these MRF residual bales.
+
+61
+00:04:22,340 --> 00:04:28,120
+These are then loaded into the back of a semi-truck driven 1,000 miles to the port of Long Beach,
+
+62
+00:04:28,120 --> 00:04:29,120
+California.
+
+63
+00:04:29,120 --> 00:04:34,040
+There, the bales are officially exported from the US, loaded into a shipping container,
+
+64
+00:04:34,040 --> 00:04:39,360
+and placed on an enormous, yet empty, Hong Kong-bound cargo ship.
+
+65
+00:04:39,360 --> 00:04:46,700
+Now, with this knowledge, some might ask a question—how on earth did we end up with
+
+66
+00:04:46,700 --> 00:04:52,160
+this system, theoretically designed to reduce our impact on the world, where our waste is
+
+67
+00:04:52,160 --> 00:04:54,720
+shipped across the world?
+
+68
+00:04:54,720 --> 00:04:59,640
+To that, there's actually a surprisingly specific answer.
+
+69
+00:04:59,640 --> 00:05:06,080
+Decades ago, in 1969, the first national conference on packaging waste convened, and in that room
+
+70
+00:05:06,080 --> 00:05:09,240
+were a number of plastics industry executives.
+
+71
+00:05:09,240 --> 00:05:13,440
+Throughout that event, they heard municipal leaders from around the country express their
+
+72
+00:05:13,440 --> 00:05:17,760
+concern about just how permanent plastic was.
+
+73
+00:05:17,760 --> 00:05:22,420
+Back then, the material was becoming cheaper and cheaper and was quickly gaining prominence
+
+74
+00:05:22,420 --> 00:05:27,660
+in the packaging world, but this mounting concern among municipal leaders itself led
+
+75
+00:05:27,660 --> 00:05:31,400
+to mounting concern among plastics executives.
+
+76
+00:05:31,400 --> 00:05:37,400
+They came to believe that this plastic hesitancy would quickly become an existential threat
+
+77
+00:05:37,400 --> 00:05:42,160
+for the industry's growth, so plastics knew they needed a solution.
+
+78
+00:05:42,160 --> 00:05:46,360
+They needed a way to make plastic sustainable.
+
+79
+00:05:46,360 --> 00:05:47,620
+The problem?
+
+80
+00:05:47,620 --> 00:05:49,040
+There wasn't one.
+
+81
+00:05:49,040 --> 00:05:51,120
+So, backup option.
+
+82
+00:05:51,120 --> 00:05:56,920
+Rather than creating a real solution, they willfully and knowingly created and propagated
+
+83
+00:05:56,920 --> 00:06:02,880
+a system that didn't work, but looked like a solution—recycling.
+
+84
+00:06:02,880 --> 00:06:08,420
+From a technical standpoint, you can sort, melt down, and reuse plastic, thereby reducing
+
+85
+00:06:08,420 --> 00:06:12,920
+its impact on the world, but that's not why it doesn't work.
+
+86
+00:06:12,920 --> 00:06:17,840
+From a social perspective, people do often do their part and, at least somewhat, separate
+
+87
+00:06:17,840 --> 00:06:22,560
+their trash from recycling, but that's also not why it doesn't work.
+
+88
+00:06:22,560 --> 00:06:28,160
+Why recycling doesn't work is because, overall, it's not profitable.
+
+89
+00:06:28,160 --> 00:06:34,780
+It's very simple—oil is cheap, at least now, and when oil is cheap, making new plastic
+
+90
+00:06:34,780 --> 00:06:35,780
+is cheap.
+
+91
+00:06:35,780 --> 00:06:41,560
+Meanwhile, sorting, transporting, and melting down existing plastic is expensive.
+
+92
+00:06:41,560 --> 00:06:50,360
+In 2017, virgin PET plastic cost about $0.54 per pound, while recycled PET cost about $0.63
+
+93
+00:06:50,360 --> 00:06:54,280
+per pound and was lower quality than the alternative.
+
+94
+00:06:54,280 --> 00:06:59,440
+Therefore, demand for recycled PET was low, so waste management companies couldn't turn
+
+95
+00:06:59,440 --> 00:07:05,000
+a profit turning used PET into raw, recycled PET at scale.
+
+96
+00:07:05,000 --> 00:07:09,560
+When companies can't make a profit recycling, it doesn't happen—or, at least not at
+
+97
+00:07:09,560 --> 00:07:12,800
+the rates needed to make the plastics industry sustainable.
+
+98
+00:07:12,800 --> 00:07:17,560
+For the plastics industry, though, all they needed was the perception of sustainability
+
+99
+00:07:17,560 --> 00:07:23,960
+and, even though a big chunk of what went into a recycling bin ended up not recycled,
+
+100
+00:07:23,960 --> 00:07:28,600
+consumers and municipal leaders were happy because they believed that the plastic they
+
+101
+00:07:28,600 --> 00:07:30,600
+consumed was guilt-free.
+
+102
+00:07:30,600 --> 00:07:36,920
+That's how that yogurt container tossed in Littleton, Colorado ended up on a boat
+
+103
+00:07:36,920 --> 00:07:38,480
+to Hong Kong.
+
+104
+00:07:38,480 --> 00:07:45,240
+Now, the rule just mentioned is still valid—plastic is only recycled when it's profitable—but
+
+105
+00:07:45,240 --> 00:07:52,880
+for a brief moment in time, it was, all thanks to a trifecta of economic conditions in China.
+
+106
+00:07:52,880 --> 00:07:56,600
+First, shipping was incredibly cheap.
+
+107
+00:07:56,600 --> 00:08:02,840
+Western nations like the US have long had a significant trade deficit with China—essentially,
+
+108
+00:08:02,840 --> 00:08:07,020
+America buys far more from China than China does from America.
+
+109
+00:08:07,020 --> 00:08:11,840
+That means that cargo ships from Greater China travel to the US almost completely full, but
+
+110
+00:08:11,840 --> 00:08:17,520
+then return with plenty of extra capacity, meaning shipping rates to China are far lower
+
+111
+00:08:17,520 --> 00:08:20,200
+than shipping rates from China.
+
+112
+00:08:20,200 --> 00:08:25,280
+Thanks to that, you could get one of those MRF residual bales across the Pacific for
+
+113
+00:08:25,280 --> 00:08:27,360
+next to nothing.
+
+114
+00:08:27,360 --> 00:08:32,720
+In addition to this, since the 1980s, China has been riding its way through an unprecedented
+
+115
+00:08:32,720 --> 00:08:35,160
+phase of economic growth.
+
+116
+00:08:35,160 --> 00:08:39,620
+This was so dramatic that the company's industries literally could not find enough
+
+117
+00:08:39,620 --> 00:08:43,660
+raw materials, including plastic, to fulfill their demand.
+
+118
+00:08:43,660 --> 00:08:49,140
+Therefore, with constrained supply and high demand, even recycled plastic prices went
+
+119
+00:08:49,140 --> 00:08:53,900
+up, giving the recyclers in the country more room to cover costs.
+
+120
+00:08:53,900 --> 00:08:59,900
+In addition, especially in more rural areas, wages were low in China.
+
+121
+00:08:59,900 --> 00:09:04,740
+Those MRF residual bales are composed of those difficult-to-sort plastics, but humans can
+
+122
+00:09:04,740 --> 00:09:10,420
+sort just about anything profitably, as long as their wages are low enough.
+
+123
+00:09:10,420 --> 00:09:15,740
+So, all in all, considering shipping to China was effectively free, and raw materials were
+
+124
+00:09:15,740 --> 00:09:21,780
+higher, and wages were low, the equation just happened to work out that in the late 90s,
+
+125
+00:09:21,780 --> 00:09:29,820
+2000s, and early 2010s, sorting and recycling MRF residual bales in China was just ever-so-slightly
+
+126
+00:09:29,820 --> 00:09:30,820
+profitable.
+
+127
+00:09:30,900 --> 00:09:36,500
+That's why, upon arrival into Hong Kong, the plastic yogurt container disposed of in
+
+128
+00:09:36,500 --> 00:09:41,380
+Lyttelton, along with everything else in these bales, is immediately transferred onto a smaller
+
+129
+00:09:41,380 --> 00:09:46,260
+barge and re-exported out of Hong Kong for a short journey across the Pearl River Delta
+
+130
+00:09:46,260 --> 00:09:49,180
+to the Guangdong province in mainland China.
+
+131
+00:09:49,180 --> 00:09:56,460
+Then, after an 8,000 mile, 13,000 kilometer journey to the other side of the world, it
+
+132
+00:09:56,460 --> 00:09:59,520
+ends up at its final destination.
+
+133
+00:09:59,520 --> 00:10:04,240
+The Wellpine Plastic Industrial Company, just outside Guangzhou.
+
+134
+00:10:04,240 --> 00:10:09,380
+There, the bales are unloaded, spread out, and low-wage workers manually sift through
+
+135
+00:10:09,380 --> 00:10:14,080
+the contents, eventually finding that yogurt container and putting it in a pile along with
+
+136
+00:10:14,080 --> 00:10:17,080
+the rest of the polypropylene plastics.
+
+137
+00:10:17,080 --> 00:10:21,820
+From there, the polypropylenes are melted down, purified, and reformed into pallets
+
+138
+00:10:21,820 --> 00:10:27,520
+which then, eventually, are sold in bulk to another manufacturer, somewhere else in China,
+
+139
+00:10:27,520 --> 00:10:30,840
+for a very, very slight profit.
+
+140
+00:10:30,840 --> 00:10:37,040
+Now, this whole system, of taking effectively valueless MRF residual bales and shipping
+
+141
+00:10:37,040 --> 00:10:42,800
+them across the world to a place where they did have a very slight positive value, worked.
+
+142
+00:10:42,800 --> 00:10:48,980
+It was intelligent, it wasn't clean, but it worked, and that's how, for a few decades,
+
+143
+00:10:48,980 --> 00:10:52,900
+the Western World Recycling System functioned.
+
+144
+00:10:52,900 --> 00:10:57,880
+The most valuable stuff was sorted and sold domestically, the valueless stuff was exported
+
+145
+00:10:57,880 --> 00:11:03,500
+to where it had value in China, and the stuff with a negative value was sent to the landfill
+
+146
+00:11:03,500 --> 00:11:05,760
+or incinerated.
+
+147
+00:11:05,760 --> 00:11:08,820
+But then came that document.
+
+148
+00:11:08,820 --> 00:11:14,540
+The notification to the World Trade Organization Committee on Technical Barriers to Trade.
+
+149
+00:11:14,540 --> 00:11:21,580
+All this said was that China would, starting at the end of 2017, ban the import of 24 products
+
+150
+00:11:21,580 --> 00:11:27,860
+covered under these HS codes—the numerical classifications used to simplify international
+
+151
+00:11:27,860 --> 00:11:29,300
+trade.
+
+152
+00:11:29,300 --> 00:11:34,520
+These particular five, though, were the ones that created this big problem for the plastics
+
+153
+00:11:34,520 --> 00:11:35,520
+industry.
+
+154
+00:11:35,520 --> 00:11:41,220
+They translate to waste, pairings, and other scrap of polymers of ethylene, of polymers
+
+155
+00:11:41,220 --> 00:11:46,820
+of styrene, of polymers of vinyl chloride, of polyethylene glycol terephthalate, and
+
+156
+00:11:46,820 --> 00:11:50,020
+other waste, pairings, and scraps of plastics.
+
+157
+00:11:50,020 --> 00:11:57,200
+Effectively, by banning these five HS codes, they banned the import of almost all plastic
+
+158
+00:11:57,200 --> 00:11:58,700
+waste.
+
+159
+00:11:58,700 --> 00:12:07,820
+As a result, the country's 2018 plastic import volume dropped 99.1% compared to 2017—this
+
+160
+00:12:07,820 --> 00:12:12,620
+massive, global industry quite literally ended overnight.
+
+161
+00:12:12,620 --> 00:12:19,220
+Now, while the true reasoning behind any Chinese government decision is always elusive, at
+
+162
+00:12:19,220 --> 00:12:24,000
+least according to this document, it was that the import of these products was creating
+
+163
+00:12:24,000 --> 00:12:27,940
+a serious environmental and public health problem.
+
+164
+00:12:27,940 --> 00:12:30,180
+This is likely true.
+
+165
+00:12:30,180 --> 00:12:36,400
+As MRF residual bales are, by their very nature, unsorted, they often included hazardous materials
+
+166
+00:12:36,400 --> 00:12:41,900
+that could seriously harm those sorting them, and this went on to cost the government since
+
+167
+00:12:41,900 --> 00:12:44,900
+the government runs much of the country's healthcare system.
+
+168
+00:12:45,160 --> 00:12:50,340
+In addition, the sorting facilities in China would often illegally dump the portion of
+
+169
+00:12:50,340 --> 00:12:55,100
+the plastics that even they couldn't profitably recover, creating an environmental problem
+
+170
+00:12:55,100 --> 00:12:58,220
+that the government had to pay to clean up.
+
+171
+00:12:58,220 --> 00:13:03,180
+Therefore, while the private companies that actually sorted and processed these MRF residual
+
+172
+00:13:03,180 --> 00:13:11,220
+bales turned a slight profit, China as a nation was losing money by processing the world's
+
+173
+00:13:11,220 --> 00:13:12,220
+trash.
+
+174
+00:13:12,220 --> 00:13:17,220
+So, essentially, even though it looked like plastic recycling was profitable, once the
+
+175
+00:13:17,220 --> 00:13:23,560
+externalities were priced in, it once again became clear that plastic recycling was not,
+
+176
+00:13:23,560 --> 00:13:25,540
+in fact, a viable system.
+
+177
+00:13:25,540 --> 00:13:30,900
+That's why China issued this document, that's why they banned plastic waste import, and
+
+178
+00:13:30,900 --> 00:13:34,380
+that's why the world's recycling system broke.
+
+179
+00:13:34,380 --> 00:13:40,060
+Nowadays, when a woman in Littleton, Colorado throws her yogurt container into the recycling
+
+180
+00:13:40,060 --> 00:13:44,700
+bin, the journey that ensues is often far, far shorter.
+
+181
+00:13:44,700 --> 00:13:50,580
+First, as before, it's picked up by a truck, brought to a materials recovery facility,
+
+182
+00:13:50,580 --> 00:13:55,700
+sorted down, and packed into one of those MRF residual bales, but after, there are now
+
+183
+00:13:55,700 --> 00:13:58,300
+three main options.
+
+184
+00:13:58,300 --> 00:14:03,520
+The first is that it's exported, as before, but not to China.
+
+185
+00:14:03,520 --> 00:14:09,180
+In response to the import ban, Malaysia tripled their plastic import volume between 2017 and
+
+186
+00:14:09,180 --> 00:14:14,720
+2018, becoming the largest processor in the world, and some other nearby low-wage countries
+
+187
+00:14:14,720 --> 00:14:16,220
+ramped up as well.
+
+188
+00:14:16,220 --> 00:14:22,360
+Eventually, though, these countries will undoubtedly realize what China did—processing MRF residual
+
+189
+00:14:22,360 --> 00:14:27,240
+bales may be profitable to a company, but not to a country.
+
+190
+00:14:27,240 --> 00:14:32,700
+The amount of health and environmental issues it creates in the long run costs more than
+
+191
+00:14:32,700 --> 00:14:35,020
+the industry makes.
+
+192
+00:14:35,020 --> 00:14:40,540
+Even despite the alternate plastic export options, the US's export volume, which includes
+
+193
+00:14:40,540 --> 00:14:47,960
+more than just MRF residual bales, still dropped by a third between 2017 and 2018.
+
+194
+00:14:47,960 --> 00:14:53,180
+There was just no one who would take these bales, even for free, since with the removal
+
+195
+00:14:53,180 --> 00:14:58,180
+of China from the market, very few companies could turn a profit processing them, even
+
+196
+00:14:58,180 --> 00:14:59,940
+outside the US.
+
+197
+00:14:59,940 --> 00:15:05,620
+The global value of one of these bales went from slightly positive to clearly negative,
+
+198
+00:15:05,620 --> 00:15:09,580
+and remember, recycling only works when it's profitable.
+
+199
+00:15:09,580 --> 00:15:15,940
+Therefore, with far fewer buyers, MRF residual bales piled up and up until eventually, the
+
+200
+00:15:15,940 --> 00:15:21,740
+waste processors gave up and put them into the same category as bottle caps, scraps,
+
+201
+00:15:21,740 --> 00:15:27,100
+and those other small, unrecoverable, unprofitable pieces of plastic.
+
+202
+00:15:27,100 --> 00:15:32,420
+Now, when you put something into one of those big blue bins that are supposed to lead to
+
+203
+00:15:32,420 --> 00:15:38,780
+a second life for your waste, it ends up, more often than not, in the incinerator or
+
+204
+00:15:38,780 --> 00:15:40,500
+landfill.
+
+205
+00:15:40,500 --> 00:15:46,300
+Plastic recycling, with the exception of those few highest value items, is now definitively
+
+206
+00:15:46,300 --> 00:15:48,520
+broken.
+
+207
+00:15:48,520 --> 00:15:51,900
+But here's the thing—it was always broken.
+
+208
+00:15:51,900 --> 00:15:57,460
+Plastic recycling, with limited exception, never generated more money than it cost, and
+
+209
+00:15:57,460 --> 00:16:00,780
+so it was never economically sustainable.
+
+210
+00:16:00,780 --> 00:16:05,740
+The China system was just a blip, thanks to a unique set of economic circumstances and
+
+211
+00:16:05,740 --> 00:16:10,340
+a government that didn't yet recognize the cost of the industry's externalities.
+
+212
+00:16:10,340 --> 00:16:15,520
+That puts the plastics industry back where it was in 1969—people are starting to realize
+
+213
+00:16:15,520 --> 00:16:18,740
+that there is no way to make plastic sustainable.
+
+214
+00:16:18,740 --> 00:16:23,660
+There are some half-solutions—some scientists are working to develop an enzyme that can
+
+215
+00:16:23,660 --> 00:16:27,940
+eat plastic in a matter of days, and others are trying, using chemical processes to break
+
+216
+00:16:27,940 --> 00:16:33,740
+it down into its raw components, but the recycling problem is not a technical one.
+
+217
+00:16:33,740 --> 00:16:38,180
+Actually performing the process of taking what's disposed of by consumers, sorting
+
+218
+00:16:38,180 --> 00:16:41,980
+it, and melting it down into new raw materials is easy.
+
+219
+00:16:41,980 --> 00:16:44,760
+What's not is the economics.
+
+220
+00:16:44,760 --> 00:16:50,260
+The recycling problem is an economic one, and you can only solve economic issues with
+
+221
+00:16:50,260 --> 00:16:52,160
+economics.
+
+222
+00:16:52,160 --> 00:16:58,380
+The true solution is simple—either the cost of recycling has to come down, or the price
+
+223
+00:16:58,380 --> 00:17:01,200
+of raw recycled plastic has to go up.
+
+224
+00:17:01,200 --> 00:17:06,940
+What's going to fix recycling is when it generates more money than it costs, but making
+
+225
+00:17:06,940 --> 00:17:10,480
+that happen will take quite a lot.
+
+226
+00:17:10,480 --> 00:17:15,800
+If enough consumers, for example, buy products that use recycled plastic, rather than a direct
+
+227
+00:17:15,800 --> 00:17:21,080
+alternative that uses the virgin variant, market forces will work out in a way that,
+
+228
+00:17:21,080 --> 00:17:25,900
+eventually, once critical mass is attained, what companies lose from customers choosing
+
+229
+00:17:25,900 --> 00:17:30,600
+more sustainable alternatives is more than what they lose from paying to swap to more
+
+230
+00:17:30,600 --> 00:17:34,200
+expensive, lower quality recycled plastic.
+
+231
+00:17:34,920 --> 00:17:40,960
+Plastics recycling, as a system, was never created to make the world a better place.
+
+232
+00:17:40,960 --> 00:17:46,720
+Rather, it was created by the plastics industry to plug a hole in their system.
+
+233
+00:17:46,720 --> 00:17:52,000
+It was created to propagate a false belief that consumption could be sustainable, so
+
+234
+00:17:52,000 --> 00:17:58,120
+the only way to stop plastic from overwhelming our oceans, polluting our land, and making
+
+235
+00:17:58,120 --> 00:18:05,720
+the world a worse place to live in, is to shut the system, the entire system, down.
+
+236
+00:18:05,720 --> 00:18:12,940
+So, I get a lot of emails—from potential sponsors, companies that want my business,
+
+237
+00:18:12,940 --> 00:18:14,380
+and other professionals.
+
+238
+00:18:14,380 --> 00:18:19,760
+I can tell you from personal experience that the biggest red flag for me in cold-call emails
+
+239
+00:18:19,760 --> 00:18:25,320
+is when the address ends in Gmail, iCloud, Yahoo, or another generic provider's domain.
+
+240
+00:18:25,520 --> 00:18:29,320
+Anyone could create that email in a few seconds, so I have no idea if the person is who they
+
+241
+00:18:29,320 --> 00:18:30,640
+say they are.
+
+242
+00:18:30,640 --> 00:18:36,480
+Simply put, if you don't have a professional-looking email address, people won't think you're
+
+243
+00:18:36,480 --> 00:18:37,480
+professional.
+
+244
+00:18:37,480 --> 00:18:40,920
+Whether you're running a small business, going through school, or doing anything else
+
+245
+00:18:40,920 --> 00:18:45,880
+where you have to send and receive emails, customizing yours with your own domain extension
+
+246
+00:18:45,880 --> 00:18:49,240
+is the way to go, and Hover makes it incredibly easy.
+
+247
+00:18:49,240 --> 00:18:54,040
+First, you just search and find a custom domain, and they help you get a super unique one thanks
+
+248
+00:18:54,040 --> 00:18:58,300
+to their over 400 extensions, and then you take that domain, which you could also use
+
+249
+00:18:58,300 --> 00:19:01,580
+for your website, and add an email account to it.
+
+250
+00:19:01,580 --> 00:19:06,860
+You could, quite literally, have a new professional email in about two minutes, and I can personally
+
+251
+00:19:06,860 --> 00:19:11,960
+attest to how easy Hover makes it since they're what I've used for all my business emails
+
+252
+00:19:11,960 --> 00:19:13,360
+for years.
+
+253
+00:19:13,360 --> 00:19:18,200
+Making it even easier, Hover is offering Wendover viewers 10% off their first purchase by going
+
+254
+00:19:18,200 --> 00:19:23,700
+to hover.com slash wendover, and, with their already super reasonable prices, this makes
+
+255
+00:19:23,700 --> 00:19:26,140
+getting a custom email a true no-brainer.
+
+256
+00:19:26,140 --> 00:19:32,780
+So, to step up your email game for 10% off, and help support this channel, head over to
+
+257
+00:19:32,780 --> 00:19:35,460
+hover.com slash wendover.
+

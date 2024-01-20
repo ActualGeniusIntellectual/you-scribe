@@ -1,0 +1,799 @@
+I remember exactly where I was.
+Sydney International Airport waded into board
+a 10-hour flight to Tokyo,
+followed by a 12-hour flight to Boston,
+then a one-hour one to D.C. to arrive home
+the day before Thanksgiving, 2018.
+My agent Dave said he had an idea he wanted to run past me,
+so he popped on a call.
+He had just talked to Vimeo, the video streaming platform.
+They were trying to persuade him to persuade
+one of his other clients to build a paywall streaming site
+for their videos using their tech.
+This, and infinite minor variations of this,
+was something we'd get pitched constantly as creators,
+but everyone recognized that it couldn't really work.
+In fact, it had a long history of not working.
+Perhaps the most flashy failure was Vessel.
+It launched in early 2015
+with the big-name creators of the time.
+Good Mythical Morning, Epic Meal Time,
+Shane Dawson, Linus Tech Tips.
+It was basically a YouTube replacement.
+Same content, same creators, same features,
+with the addition that users could pay $2.99 a month
+to watch videos 72 hours early.
+Combine that with their supposedly unique
+advertising ecosystem, and the pitch to creators
+was that they could earn dramatically more per view.
+This is always the core proposition
+with these alternate streaming services.
+More revenue per view,
+but they almost always have the same problem.
+The number of views is orders of magnitude lower.
+Platforms have to extract value from the audience somehow,
+whether through a paywall or through
+more intrusive advertising.
+So why would a viewer watch on your platform
+when they could watch the exact same content on YouTube
+for free and with less intrusive advertising?
+So creators signed on to platforms like Vessel,
+get menial views compared to YouTube,
+and before these platforms can grow enough
+to get to a point where it's worth it
+for creators beyond an initial test group,
+they run out of money and shut down.
+But we had some ideas on how we could fix that.
+We thought there was a chance that we had identified
+a magic formula that we were in a uniquely good position
+to undertake that could make this simple concept work
+where all others had failed.
+Four years later, well, not to brag, but we were right.
+Nebula has grown massively.
+Over 650,000 paying users, 100 staff members,
+a conservative overall valuation of over $150 million,
+and it did all of that with absolutely zero dollars
+of venture capital funding.
+So what did we do different?
+Why were we able to make this simple concept work
+when all others had failed?
+Clearly this video is going to be different.
+I'm not gonna be talking about logistics or geopolitics
+or infrastructure or another business.
+I'm talking about my business.
+So that's why, for the first time, I'm here.
+This was a tricky video to write.
+I'm trying to use my unique combination of positions
+as an owner of a now sizable business and as a creator
+to tell an intimate inside story
+of how you can grow an idea into an enterprise.
+There are a lot of things that can't be said
+for legal or practical reasons,
+and there are countless different stakeholders involved.
+So what follows is what I believe is the fullest story
+anyone can tell about the inside operations
+of a business of this size and nature,
+but there are, unfortunately,
+some things I just can't talk about.
+It's a long story, but it begins in a very small way.
+On July 27th, 2016,
+I got this DM from Philip Detmer of Curse Protect.
+Hey man, let's get right to it.
+So me and another big YouTuber might be starting something,
+but I can't really talk about it yet.
+We went back and forth for a month trying to schedule a call,
+then finally we talked.
+Basically, Philip was going to introduce me
+to the freelance sponsorship agent
+he and CGP Grey had been working with for years,
+and later that might turn into something bigger.
+That freelance sponsorship agent was Dave Whiskas.
+That's a name you'll want to remember.
+It's pretty relevant throughout.
+We talked, he promised better rates
+through a data-driven approach with an upfront commission.
+I somehow believed him,
+but eventually it turned out he was actually right.
+Some important context.
+The industry that had arisen around YouTube creators in 2016
+was chock full of liars, cheats, and thieves.
+It was only over the prior couple of years
+that people could start to make a living off of YouTube,
+and seemingly the first people
+that thought to insert themselves as middlemen
+were all glorified grifters.
+Getting sponsored is crucial to going full-time on YouTube.
+AdSense alone rarely cuts it,
+so at the time, the only deals I could land
+for my fledgling channel were ones
+that automatically locked me into six months of exclusivity
+with the agency I booked through
+without any guarantee they would actually fill video inventory
+and with undisclosed commissions.
+Undisclosed commissions in this context
+means they just told you exactly what you'd get paid,
+which sounds great in theory, but in practice,
+what it means is that they're selling the slot
+to the sponsor for one price,
+then paying you a completely different, lower price,
+and never telling you what the difference was.
+So just decide what they think you'll accept,
+but you have little leverage to say no,
+because once again, you're locked into exclusivity.
+You're only legally allowed to work with them.
+Oh, and also, contractually,
+they represented the sponsor, not the creator,
+so their incentives were to push the price
+as low as it could go.
+If you didn't like it and wanted to jump ship,
+you had to go without sponsorship for six months,
+which would kill your finances.
+I've seen hard evidence that this particular agency
+was taking a 50% undisclosed commission
+on certain creator sponsorships,
+so it's no wonder why Dave was able
+to immediately beat their rates
+and get sponsors to come back.
+They might have actually been paying less,
+but I, the creator, was getting more hit.
+By chance, Gray and Philip had also introduced Dave
+to Brian from Real Engineering.
+We had collaborated on a set of videos
+that turned out to be big viral hits
+that launched both of our channels into relevancy,
+so he was one of my first creator friends.
+The next one was Joseph from RealLifeLore.
+I had never met him in person, but we had talked plenty,
+so I convinced him to fly out
+to the inaugural VidCon Europe in Amsterdam in April 2017.
+Part of the reason was because I had been nagging Dave
+for months to work with Joseph,
+whose channel was exploding, and Dave would be there too,
+the perfect opportunity for them to meet.
+Joseph ended up having a nightmare weekend
+of travel delays, some snowstorm or something,
+so he didn't end up getting there
+until the afternoon of the last day,
+but I introduced everyone and we headed to a bar.
+We stayed there for hours.
+Everyone hit it off,
+and it capped off an exhilarating week out,
+the first time any of us had seen a physical manifestation
+of the industry we had inserted ourselves into.
+After working in isolation, it was eye-opening
+to see and talk to so many others
+doing the same thing as us, and according to Dave,
+in retrospect, this was the moment when he fully realized
+that this informal system of freelance sponsorship booking
+could grow into something more.
+It'd be called Standard, a purposely forgettable name
+for a company designed to exist in the background,
+making life easier for the creators on center stage,
+and it worked.
+Creators were simply just having a better experience
+working with Standard.
+The rates were strong, the experience was personal,
+the ethos ethical, in a landscape filled with grifters
+and cheats, the concept of a sponsorship agency
+simply doing its job fairly
+was enough to drive natural word-of-mouth growth.
+We added dozens of creators to the roster
+and started to be viewed as the go-to agency
+for educational YouTube.
+We hired staff, got an office,
+started throwing VidCon parties, it was all happening.
+Unbelievably, this part, the part that at the time
+felt like hard-earned yet incredible success,
+needs to get glossed over to get to the good part,
+November 27th, 2018.
+After a couple of days of back and forth
+with myself and a few other creators,
+that's when Dave emailed his full roster of creators
+the white paper, the initial concept
+laying out our vision for Nebula.
+This is that exact email.
+In some ways, it was close.
+How would this work?
+Standard creators post ad and sponsor-free versions
+of their videos, and occasionally
+the service premieres exclusive content.
+Let's say we charge users $5 per month for their service.
+All of this is still true to this day, even the price.
+In other ways, we were way off.
+How do we attract viewers?
+First, we can simply buy AdSense ads on Standard channels.
+Sponsoring our own creators feels wrong, at least for now.
+We can revisit it later if we think we can do it
+without looking dumb.
+This is about as wrong as it could be.
+We have never figured out how to make AdSense marketing
+for Nebula profitable, while sponsoring YouTube creators
+has been the driving growth force.
+We'll get to how we made that work.
+But the real key that we understood from day one
+was that opportunity cost.
+To Standard, but especially to creators,
+had to be as small as it could possibly be.
+Equivalents before us always raised a huge amount
+of venture capital funding, made a big splash at launch,
+and ran out of money before profitability,
+leaving creators embarrassed when they folded.
+We knew that creators were wary of aligning themselves
+to something so risky, so we needed to make a small splash.
+We needed to design Nebula to fail gracefully.
+We needed to make it so that if it did fail,
+it would have the smallest possible impact
+on reputation and finances.
+Essentially, we followed the most dramatic form
+of the minimum viable product model of innovation.
+We needed to get a super scrappy version of the product
+out into the public so that rather than us having to guess,
+they, the customers, would tell us what they wanted
+through how they acted.
+You watch consumer behavior in order to fulfill their wants.
+Luckily, a lot of the bones were already in place.
+Dave's prior life was in the iOS app development world,
+so he had a lot of experience in software.
+We actually had a few engineers on staff
+to work on the backend tool we use for sponsor billing
+and inventory management.
+The trickiest bit would be the actual streaming.
+The big platforms like YouTube and Netflix
+make it look easy, but it's quite a technical challenge
+to distribute high-quality video on low-quality internet
+all across the globe, and we didn't possibly
+have the money to build our own streaming tech.
+Of course, Vimeo originally approached us,
+but the problem with partnering with them
+was that they'd have owned the billing relationship.
+Basically, when someone signed up,
+Vimeo would keep their credit card details and info,
+and while we'd get the money,
+if we ever decided to split with them,
+there was no guarantee we'd keep the subscribers.
+So we'd rather decided to partner
+with another streaming provider called Zype.
+Therefore, all we had to build was a front end,
+a slick, flashy user interface
+to make it all look professional, and an iOS app.
+We barely even had a backend.
+We had Eric, who doubled as our podcast editor,
+who would take the videos creators added
+to a shared Dropbox folder, run them through the encoder,
+and post them in the right spot with the right metadata.
+All in all, it cost around $100,000
+to get Nebula ready for launch,
+an incredibly low sum for both the website and app,
+but there was still one key thing we were missing.
+You see, creators don't talk unless they're paid to.
+This is because creators are paid to talk.
+It's just pragmatic.
+You basically get one call to action per video.
+You're lucky to successfully get someone
+to listen to one call to action,
+so what the data shows is that if a creator, for example,
+runs a sponsor read, then promotes their Patreon,
+what they'll see on average
+is that they'll earn less overall
+than if they had just promoted the sponsor
+as the Patreon push cuts into performance more
+than it drives additional revenue.
+It's not always intuitive,
+but it's a quirk of audience behavior
+that we'd understood for years
+running sponsorships in standard.
+Therefore, we knew we couldn't just simply ask creators
+to promote Nebula out of the goodness of their arms.
+Not only would this hurt their revenue,
+which would mean they would stop working
+with Nebula in the long run,
+this would hurt standards revenue, too,
+since it came from commission on sponsorships.
+At the time, Standard and Nebula
+were literally the same company
+with zero legal separation,
+so weirdly, free promotion for Nebula
+would cut off the revenue source
+that we were using to build Nebula.
+We didn't immediately have a solution to this.
+In all honesty, this was the biggest flaw
+with the business model at launch.
+But again, the launch was designed to be an experiment,
+designed to be that minimum viable product.
+We didn't necessarily need a big marketing method
+at launch because the launch was designed
+to help us find that,
+so the last piece that we needed
+was for the creators to be emotionally invested.
+Everyone was excited by the concept,
+but to assure people would stay excited
+through the inevitably difficult early days,
+well, we figured they might as well be financially invested.
+So, through complex financial and legal wizardry,
+we developed a system where 50% of Nebula profits
+were distributed to creators, including, crucially,
+if the platform were ever to be sold.
+It means if one day the platform were to sell for,
+let's say, a billion dollars,
+the creators would get half of that.
+We split that pool based on watch time,
+meaning the more creators bring in and engage an audience,
+the bigger a share they're entitled to.
+In the short term, this would be a concept
+that would keep creators building for the future.
+In the medium term, this would allocate profit to creators
+based on how much they contributed to growing that profit.
+And in the long term, if Nebula were ever to sell,
+this would make that a scenario where everyone wins,
+rather than one where the platform wins
+off the hard work of creators.
+Not only would this directly tie platform success
+to creator success and vice versa,
+it would also keep everyone in that collaborative mindset,
+one where Nebula and its creators were business partners,
+rather than clients and servicers.
+We win together, and we lose together.
+Next, launch.
+We didn't have some massive plan.
+The website had been up and running for a bit
+as we squashed bugs, so what really marked
+the formal launch, if anything did,
+was the first public promotion of the platform.
+That came from Isaac Arthur.
+On the morning of Thursday, May 23rd, 2019,
+he released a video called Colonizing Black Holes,
+which ended with a push to his Nebula original,
+one of the first three called the Paperclip Maximizer.
+We also had originals that launched from real life lore,
+Second Thought, and Polyphonic,
+so we each released videos mentioning Nebula
+funded by a small and finite pool of money
+dedicated to launch promotion.
+This first weekend went better
+than we possibly could have hoped for.
+By Monday, we had over 4,500 signups.
+They were trial signups, plenty would cancel,
+but that gave us plenty enough data to work with
+to figure out how to make this all work.
+Better yet, we were getting buzz.
+A lot of it was negative.
+Almost everyone thought we'd get added
+to the long list of failed alternate streaming sites,
+but at the least, this told us that the idea
+was exciting enough that people cared to care about us.
+Over the following weeks and months,
+we used some of our cash on hand
+to run some very small additional marketing tests,
+basically seeing if we could pay creators
+a similar rate to their other sponsors
+and bring in enough subscribers
+to justify paying that much.
+The answers we got were promising.
+On one test we did on my podcast, Extremities,
+Nebula paid us $800 and got 200 signups,
+each of whom would pay $5 a month.
+The only problem, we didn't have cash.
+While we'd eventually generate cash
+with the monthly revenue these subscribers brought in,
+that'd be a very slow process,
+meaning it'd be quite a while
+until we could start sponsoring the larger YouTube channels
+and developing bigger Nebula originals.
+But we found a solution.
+Standard had long-run sponsorships for CuriosityStream.
+Another streaming service focused on documentary
+and non-fiction content founded by Jon Hendricks,
+the Discovery Channel.
+To their credit, they didn't get scared
+thinking creators were trying to replace them,
+but rather understood that we were appealing
+to a different, complementary market.
+So Dave went down to the offices just outside of DC
+and came out the other end with a win-win.
+We'd bundle.
+While I can't discuss the exact behind-the-scenes mechanics,
+we found a way to make it worthwhile for both companies
+so that when customers signed up for CuriosityStream
+through each creator's sponsorship links,
+they'd get access to Nebula for free.
+Nobody could really see a downside,
+so we negotiated details, signed a term sheet,
+and as of September 2019, every Nebula creator
+just started promoting the bundle
+in their already-booked CuriosityStream spots.
+In retrospect, it seems like a minor,
+ultimately easy change, but it yielded massive results.
+Personally, the bundle deal supercharged
+my sponsorship performance.
+It was clear that the offering of CuriosityStream
+and Nebula together was a more convincing sell
+to our audiences than any other sponsor
+we ran on the channel.
+Even better, we started to understand
+the marketing message that worked.
+Pushing to behind-the-scenes videos or extended cuts
+didn't really work.
+Pushing the idea of no ads or sponsorship
+on Nebula worked okay, but the thing that clearly created
+these performance multiples was full-length,
+high-budget, exclusive originals.
+Seeing that, CuriosityStream started
+to co-produce Nebula originals with us.
+In October 2019, to film our highest-budget,
+most ambitious one to date, I flew all the way
+to the remote Atlantic island of St. Helena
+to make the world's most useful airport.
+While I was there, we crossed 10,000 paying subscribers,
+then it took less than a month more to hit 20,000.
+By the end of the year, we had crossed 35,000,
+and in six short months, Nebula had transformed
+from an idea into a fast-growth startup.
+Now, through all this history,
+I was not actually an owner of Standard,
+just a highly involved long-term client,
+but it was clearly something I was interested in.
+I was there from the start, I had helped it grow,
+and I believed in it, and specifically Nebula's future.
+In 2020, an opportunity arose.
+Gray and Philip were less keen on Nebula.
+It seemed to make less sense to them,
+while the rest of the creator roster was,
+so they were looking for a way
+to end their involvement with the company.
+Therefore, Brian from Real Engineering,
+Alex from LowSpecGamer, Devin from Legal Eagle,
+Thomas Frank, and myself agreed
+to purchase their ownership stakes
+and divide it up amongst ourselves,
+and we were all extremely bullish on Nebula.
+By chance, that sale occurred in March 2020,
+the same month as the world's descent into lockdown.
+With everyone stuck at home, the streaming industry exploded.
+It's awkward to talk about in the context of a tragedy,
+but the honest truth is that our bundle promotion
+was selling faster than ever,
+and creators were earning a lot.
+CuriosityStream capitalized on industry momentum
+by listing on NASDAQ through a SPAC merger in October,
+which was initially a big success.
+Day one ended with an 11% gain,
+and they peaked in February 2021
+at nearly double their first day price.
+Through and through, the Nebula bundle was a win-win.
+It grew Nebula, it grew CuriosityStream,
+it grew creator sponsor payouts,
+and it was a worthwhile proposition for all.
+So we decided to double down
+on aligning the success of the two companies
+by, for the first time ever, accepting investment.
+Now, investment had long been something we were wary of.
+In our view, a big reason why similar business models
+had failed in the past was because investors
+pressured the streaming platforms
+to squeeze more and more value out of creators.
+Basically, they did the thing that seemed right
+when you looked at it on a slide deck,
+take a bigger share of the revenue, make more money.
+But that fails to understand that the creators drive
+almost all of the value of a platform like Nebula.
+If they're making good money,
+they'll make more exclusive content for audiences,
+they'll bring their creator friends in,
+they'll keep promoting the platform.
+So it's really that if you take a smaller slice of the pie
+and give more to creators,
+the pie will grow so much in the long term
+that the platform will make more overall.
+Every dollar a streaming platform like Nebula makes
+is through the creators,
+so it's about creating that win-win scenario
+rather than trying to extract value
+from your business partners.
+We weren't confident that most investors,
+especially institutional investors,
+would understand that and the other nuanced dynamics
+of the creator industry in the long run,
+with one exception, CuriosityStream.
+Their people seemed to get it.
+They were also, by far, our biggest marketing partner,
+biggest production partner.
+We'd already aligned ourselves with them so deeply
+that investment seemed like a minor additional level
+that would yield a lot of cash
+to reinvest in growing Nebula.
+So after a unanimous vote by myself and the other owners,
+Nebula no longer was entirely ours.
+While the exact numbers are not public,
+what is is that they bought a significant minority stake
+that valued Nebula,
+the company that did not exist just three years prior,
+at over $50 million.
+Incredible.
+Driven by this funding,
+2022 was comprised of some of our fastest growth to date,
+especially as shows like Real Life Lore's Modern Conflicts
+and Our Jetlag the Game proved massively successful
+at driving huge numbers of subscriptions.
+Staff had count ballooned,
+especially in the engineering department,
+as they staffed up to build apps for new platforms
+like Roku and Samsung TV.
+We also finally had the money
+to build our own streaming tech,
+which freed us from some of the technical limitations
+of Zype's white label offering.
+And we geared up to produce
+our most ambitious slate of originals to date
+with the co-production funding CuriosityStream would provide.
+But this is a good chance to acknowledge failure.
+Now, failure is inevitable in business.
+It's truly part of the process.
+You try new things carefully,
+and success is defined by your batting average.
+If you win more than you lose, you're winning.
+Nebula classes, however,
+probably pulled down that batting average.
+It sounded like a great idea at the time.
+Through COVID, creators were earning massively
+by making online classes.
+We were constantly approached by various class platforms
+who wanted to sponsor our creators,
+and so rather than promoting their services,
+we thought it better to build it into Nebula
+so we could promote our own service
+and keep all the customer revenue in the ecosystem.
+In all honesty, we were trying to capitalize
+on a wave of popularity that was relatively aligned
+to what we were already doing.
+Unlike when we launched Nebula as a whole,
+we had a good amount of cash on hand to invest in this
+thanks to CuriosityStream's investment,
+so we wanted to launch strong.
+We built out a section of the website and apps for it,
+we built the backend tech to allow for multiple tiers
+of membership, and we invested a lot in content.
+We launched with six classes, and each was high quality,
+shot in a studio in New York,
+well-edited with motion graphics and everything.
+That's to say, they weren't cheap.
+We then planned to release a new one each week,
+which meant organizing a dense production schedule.
+It was a massively complex, large-scale undertaking,
+but the engineering and production staff
+made it all happen without a hitch.
+The problem was that the concept
+just wasn't resonating with customers.
+We initially sold Nebula classes
+as an additional tier above normal Nebula.
+It was $100 a year by itself,
+or a $5 a month upcharge for existing subscribers,
+which might seem like a lot,
+but was actually lower than competitors
+with similar production quality.
+We ran sponsorships on this and had some minor wins,
+but on average, there was clearly audience confusion
+as we also ran bundle sponsorships
+on the same channels at different times.
+We couldn't promote classes and bundle sponsorships
+as classes weren't part of the bundle,
+so in a way, we were competing against ourselves and losing.
+Some people were upgrading.
+It wasn't some massive failure,
+but hardly enough to justify our rate of production.
+Ultimately, creators could improve sponsorship performance
+more by making Nebula originals,
+so that's what they would do.
+It was also clear that by the time we launched,
+we were on the downslope of the online classes wave.
+We were far from the only class platform
+struggling to find product market fit,
+so ultimately, we decided it best to just have one Nebula.
+No upcharge for classes.
+We'd make it available to all subscribers
+and simply slow down our production calendar.
+It was an important experiment,
+and while not a direct, overwhelming success,
+in a way, the marketing test we did for it
+proved crucial for what was to come,
+our biggest, most existential experiment to date.
+Come late 2022, as indicated in their quarterly reports,
+CuriosityStream was looking to pull back their growth rate
+and orient more towards profitability.
+COVID was dying down, screen time was lowering,
+the streaming industry overall was weakening,
+and so it made every sense in the world
+for them to switch from a growth orientation
+to a profit orientation,
+as all growth-oriented companies that survive eventually do.
+I assume for these reasons we got
+were that they wanted to significantly pull back
+on marketing spend through Nebula bundle sponsorships.
+Clearly, this wasn't something we wanted.
+Not only would it slow Nebula's growth rate,
+but more crucially, it would reduce how much
+we could pay creators to talk about Nebula on YouTube.
+This was still the primary way
+creators were earning through Nebula.
+While watch time payouts and originals were significant,
+payouts for YouTube sponsorships about Nebula
+were far more so.
+So the natural next question to ask was,
+could we just do sponsorships ourselves?
+You'll notice that nearly everything advertised
+in a sponsorship at the end of a YouTube video
+is an online subscription-based service.
+For some reason or another, these are just what works best,
+and here's how those advertising campaigns
+work in the background.
+Let's say a service costs $10 a month.
+Every service has data on how long
+the average subscriber sticks around.
+Let's say it's 27 months.
+That means the average lifetime value of a signup is $270.
+It might actually cost, say, $5 a month to run that service,
+meaning per month there's $5 left.
+A good bit of that has to go to actually getting
+the customers in the first place, to marketing.
+Knowing there's $135 left in the average lifetime value,
+the company will decide on a target
+average cost per acquisition.
+Let's say it's $75, leaving $60 in lifetime value
+for profit that can be reinvested in platform growth
+or just taken as profit.
+Now that $75 target cost per acquisition
+acts as the central success metric for marketing,
+and when an agency designs a campaign
+with creators pushing the service,
+their payment will be designed in the background
+by this number.
+If, on average, they drive 100 signups per video,
+their pay will be roughly $7,500 per video,
+and either the agency or the service itself
+will evaluate spots as they run
+to make sure the long-term average cost
+ends up at or below $75.
+This works quite well.
+The only issue is when that $75 needs to get paid.
+Here, right when the customer signs up.
+But on the company's side,
+after the $5 in monthly operating expenses,
+it's going to take 15 months for them
+to capture that $75 back in revenue.
+You essentially need to spend $75
+to eventually earn that $60 in profits.
+Put another way, you need to invest it.
+This is the role of investors in these startups.
+Companies can have an entirely viable business model,
+but just need more cash in the bank
+to pay for the marketing that leads to growth.
+We didn't want to take more investments.
+We didn't want to give up more ownership of the company.
+So the question was,
+could we use the couple million we had in the bank
+to kickstart growth at a fast enough rate?
+We were sure we had a viable business model.
+We had years of proof that we could get a customer
+through YouTube sponsorship
+for less than their average lifetime value.
+The question was when that cost per acquisition
+was recaptured.
+If it was quick, in the first year or so,
+we were in business.
+The math worked out that we could maintain
+or even grow our monthly marketing spend
+if we would recapture revenue fast enough
+to reinvest it in new marketing.
+If it was slower,
+if we didn't recapture target cost per acquisition
+until far in the future,
+the careful balance that had made Nebula work
+or so many close equivalents failed,
+could all come crumbling down.
+Today, we're five months on
+from the switch to direct marketing ends.
+I won't breathe the lead.
+It went off better than our wildest expectations.
+Crucially, over 80% of signups are opting to pay
+for the annual subscription rather than the monthly one.
+Considering we pay creators for Nebula sponsorships
+the day after they go out,
+that means we actually get a year's worth of revenue
+before we even pay for the promotion.
+In this case, that entirely eliminated
+the cashflow constraint
+because we make more day one on an average signup
+than our average cost to acquire a new customer.
+Of course, that doesn't mean we turn a day one profit,
+we have operating costs beyond marketing,
+but it means we have a marketing strategy
+that could theoretically expand basically infinitely
+zero cashflow limitations.
+In just a few short months,
+we went from spending $0 to more than half a million dollars
+on marketing per month,
+and we are earning back more than that in the same month.
+I can't stress enough how incredible this is.
+We, the creators, are now entirely in control
+of our own future.
+With this, we're charting our most ambitious slate
+of originals to date, we're bringing in new creators,
+we're investing in our tech.
+There is so, so much that this big risk has unlocked.
+Right now, it feels like the last couple of years
+have been an overwhelming success,
+but I truly believe that, looking back,
+we'll consider 2023 much like we see 2019,
+the turning point that makes previous success
+the backstory you just have to get through
+to get to the good part.
+We have learned so much,
+so now we understand what people want
+and we have a company configured to offer that.
+I truly cannot wait to show you what we can do.
+Now I need to do thank yous.
+When describing Nebula's history like this,
+it feels like its success was defined by decisions.
+And while partially true,
+those decisions could only lead to anything
+thanks to the sum of small collective actions
+made by dozens, hundreds, thousands of people.
+First and foremost, the staff of Nebula and Standard.
+Unlike us creators, they do not get the public recognition
+for what they do.
+They pour their passion into servicing our passion,
+working day in and day out to build a system
+that allows us to do more of what we love to do.
+Nebula truly could not exist without them.
+Us creators could not exist without them.
+So I'm endlessly grateful for the work they do.
+Second, the creators.
+The community that has risen out of Nebula and Standard
+is just incredible.
+Every day we talk, celebrating our wins,
+commiserating our failures,
+searching for solutions to problems.
+We go to conferences together.
+We go on vacation together.
+We go to each other's weddings
+and we'll be at each other's funerals.
+I truly don't know if I could have navigated
+the stresses of life as a creator without them.
+And I know Nebula would have failed
+without our collective vision for a brighter future
+for the creator economy.
+Lastly, the subscribers.
+I could never have imagined that people would look at Nebula
+as anything more than a company,
+something trying to separate them from their dollars.
+But I was wrong.
+There is an unbelievable community of people
+who not only use Nebula,
+but have latched onto the same vision we have.
+They celebrate our wins and help show us
+where we can go stronger.
+I'm constantly in awe of how much forgiveness they gave us
+for scrappiness on our bootstrapped early days.
+And we could not have come to today without that.
+Thank you for taking a risk on us.
+I hope we proved it worthwhile.
+And I promise that we'll only work harder
+to make that even more so in the future.
+To close out,
+I had to pay for the production costs on this video somehow.
+And it kind of felt weird to make it feel even more
+like a big, long Nebula ad
+by putting a Nebula sponsorship at the end.
+And it felt even more weird
+to put another sponsor at the end.
+So I'm going to go with the less weird weird option,
+but keep it simple.
+If you aren't subscribed to Nebula,
+but want to check it out, use our link.
+Nebula.tv slash Wendover.
+You'll get $20 off an annual subscription,
+bringing the cost down to just $2 and 50 cents a month.
+Thank you for caring enough to listen to this story.
+It's a wild one.
+And I hope in a few years
+we have an even better one to tell you.
+Thanks to you.

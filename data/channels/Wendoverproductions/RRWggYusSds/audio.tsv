@@ -1,0 +1,101 @@
+start	end	text
+0	4180	Before the 16th century, clocks were horrible.
+4180	8300	Typically there was one large mechanical clock in the center of any town which would be reset
+8300	13000	daily, but by the end of the day, these would be off by as much as 20 minutes.
+13000	17060	Time was but a rough estimate, but nobody really had a problem with it since there was
+17060	19600	no expectation of accuracy.
+19600	23800	At the time, there was no real need for accurate clocks in daily life.
+23800	27720	The need for more accurate clocks came about when explorers started to voyage across the
+27720	29580	world by sea.
+29580	33740	The best way for ships to calculate their locations was to have two clocks, one with
+33740	38740	the time of the ship's origin and one with the current time, as calculated by a sundial.
+38740	42700	With every four minutes of difference between the two times, you would know that you had
+42700	46600	travelled about 68 miles, or one degree of longitude.
+46600	50760	The problem with this method was with the accuracy of the clocks.
+50760	54700	Much like the clocks in town centers, the origin clocks were off by up to 20 minutes
+54700	59700	by the end of one day, so this method was useless after a few days of travel.
+59700	64720	This stifled exploration, so governments around the world offered prizes equivalent to millions
+64720	67900	of dollars to anyone who could design an accurate clock.
+67900	71100	That's where Galileo comes into play.
+71100	76100	Legend has it that in 1583, a 19 year old Galileo was bored while attending prayers
+76100	80360	at the Duomo of Pisa so he started watching the hanging lamps up above.
+80360	85140	He noticed that, as they swung back and forth, the lamps always took the exact same amount
+85140	87620	of time to complete one swing.
+87620	92220	No matter if they swung one foot or one inch, the swing would always take the exact same
+92220	93620	amount of time.
+93620	98840	58 years later, this property was used to make a pendulum clock.
+98840	103120	Properly weighted, a pendulum could be designed to swing once per second and the clocks would
+103120	105980	use the swinging weight to keep time.
+105980	108020	This clock was amazingly accurate.
+108040	112120	A week after being set, it would only be off by as much as a minute.
+112120	117080	One hundred years after its invention, the pendulum clock was in every house.
+117080	120720	Many argue that, without this invention, the industrial revolution would not have been
+120720	122060	possible.
+122060	126020	You could now tell someone to meet you at an exact time and they would actually be there
+126020	127800	at that time.
+127800	131880	Ships could now use these accurate clocks for accurate navigation and this meant that
+131880	137520	it was no longer risky to send ships regularly to buy and sell goods across the world.
+137540	140860	But time also changed the way people worked.
+140860	144500	Before the pendulum clock, people only worked for results.
+144500	148420	By the end of the day, they were paid for how much they made instead of how much they
+148420	149420	worked.
+149420	154260	With the clock, workers worked for an amount of time and they were paid by the hour.
+154260	159460	With the new production boom, manufacturers demanded a method of fast and cheap shipping
+159460	163900	and so the railroad was born, but this introduced a new problem.
+163900	166720	Time was still dictated by the sun.
+166720	170740	Each town would calculate the local time based upon the location of the sun in the
+170740	175860	sky, but this meant that from one town to the next, the time would be different.
+175860	180720	In one town it could be 810 and in the next town over, it would be 815.
+180720	184660	Both times were correct for the two locations, so this didn't really cause any problems
+184660	188140	since it would take hours to get to that next town over.
+188140	192180	Across the United States, there were thousands of different local times.
+192200	196720	However, with the newly invented railroad, people could get from one town to the next
+196720	202040	quickly, but nobody knew when trains really left since everyone used a different time.
+202040	206540	The railroad might use one time, while the origin town would use another, and the destination
+206540	208920	town would use a completely different one.
+208920	213200	Britain solved this problem by creating a standardized time, Greenwich Mean Time, and
+213200	216880	transmitting that time across the country by telegraph.
+216880	222000	The US decided that, with its huge size, a standard time zone would not work, so four
+222020	224800	different time zones were mapped out.
+224800	229820	Much like Britain, the standard time would be transmitted across the country by telegraph.
+229820	233720	The implementation of this new time zone, however, created one of the stranger days
+233720	235540	in human history.
+235540	240060	The new eastern time zone ran four minutes behind the time that New York had been using,
+240060	245820	so on Sunday, November 18, 1883, the clock struck noon, then four minutes later, the
+245820	250220	clock struck noon again as the new time standard was implemented.
+250220	255240	The next great innovation in timekeeping came towards the beginning of the 20th century.
+255240	259840	Pierre and Jacques Curie, two French physicists, noticed that when electricity was applied
+259840	263720	to quartz, it vibrates at an incredibly stable rate.
+263720	270020	Knowing that quartz vibrates 32,768 times a second, clockmakers used this crystal to
+270020	273140	make incredibly accurate clocks.
+273140	278120	These quartz clocks were able to go a month only losing or gaining 15 seconds.
+278120	282380	Just as the pendulum clock allowed for the industrial revolution, the quartz clock allowed
+282380	285020	for the technological revolution.
+285020	289220	Without quartz clocks, modern computers would have been impossible.
+289220	294480	An accurate internal clock is needed to coordinate all the different microprocessors.
+294480	298740	With these new accurate clocks, however, people also began to notice that earth's rotation
+298740	300820	wasn't all that regular.
+300820	304260	It deviated by a few seconds here and there.
+304260	309880	In the 1950s, the first super-accurate atomic clocks were built, measuring time based upon
+309880	314240	the decay of atomic elements, and this allowed an international conference of weight and
+314240	318600	measures to change what time was in 1967.
+318600	322020	They decided that a day was no longer one rotation of the earth.
+322020	326280	A day was now 86,400 atomic seconds.
+326280	332320	Since the time it takes for earth to rotate is not exactly 86,400 atomic seconds, we make
+332320	336740	up for this by having leap days and leap seconds every once in a while.
+336740	341540	The atomic clock also allowed for nanosecond accuracy, and this is actually pretty important
+341540	345220	for many modern technologies, most notably the GPS.
+345220	352220	GPS works by asking three different satellites the time based upon their onboard atomic clocks.
+352220	356700	When the answer comes back, each time will be slightly different on a nanosecond level
+356700	361060	due to the satellites being at different distances and the request for the time going at only
+361060	362060	the speed of light.
+362060	367260	So the GPS, knowing the location of the satellites based upon their extremely predictable orbits,
+367260	369660	can figure out where it is.
+369660	371880	So that's how time developed.
+371880	376700	Hopefully you can now see how the human conception of time was essential for the development
+376700	383920	of our modern world and can still be called one of humanity's greatest inventions.
+383920	391060	Today we're going to talk about space law.
+391060	395480	So back in ye old days, property owners had the rights to their land going up forever
+395480	397780	and ever in perpetuity.
+397780	401360	But then the airplane came around and smart people realized that you couldn't just go
+401360	405400	around asking every property owner for permission to fly through their airspace.

@@ -1,0 +1,183 @@
+This video was made possible by CuriosityStream.
+For just $12 a year, get access to both CuriosityStream and Nebula—home to our brand new, hour-long
+documentary called, The Final Years of Majuro.
+Out of the myriad problems that emerged in the world in spring 2020, there is one that
+is quietly being solved—one that has to do with the behind-the-scenes of a globalized
+modern-day economy.
+Understanding it is easy.
+At its core, it's a simple supply and demand mismatch.
+You see, back in March 2020, when COVID-19 reached pandemic status, almost every airline
+in the world drastically scaled back its flying.
+It varied from region to region and airline to airline, but the one common trend everywhere
+was that, if any route got cut, it was almost certainly a long-haul one.
+In the era of quarantine periods, border closings, and other travel restrictions, there is near-zero
+demand for long-haul international travel so intercontinental flights were quickly removed
+from airline schedules.
+For example, in April 2019, about 500 round-trip flights per day would fly between Europe and
+the US, however, in April 2020, that number was reduced to about 80 per day.
+That represents between an 80 and 90% reduction.
+Ignoring airline revenue, you'd think that that would be a loss-free situation, though—it
+reduces carbon emissions, many governments are covering the salaries of furloughed workers,
+it reduces airline expenditure, and nobody's riding in the cabins anyways, but that doesn't
+consider what rides below the cabin.
+On nearly every intercontinental flight, in the bellyhold, among the hundreds of passenger
+bags, there is cargo.
+In fact, 45% of the world's air cargo is carried in this method.
+Now, the math to explain the supply and demand mismatch is simple.
+The proportion of cargo carried on passenger aircraft varies from route to route, so 60%
+of Western Europe to US air cargo, for example, flies on passenger planes.
+80-90% of transatlantic passenger flights are not flying, which means that about 50%
+of air cargo capacity in this market has disappeared in a matter of weeks.
+The situation is less severe in other markets, but, industry-wide, the overall air cargo
+capacity reduction was about 23% in March 2020.
+So, that's the supply figure, but what about demand?
+As a huge proportion of the world entered various lockdown scenarios, economic forecasts
+plummeted.
+The extent of the financial toll will not be clear for a while, but it is clear that
+it is deeply negative.
+This all has an effect on air cargo demand.
+On a macro level, consumers are buying less, which means less is shipped, which means companies
+are buying less, which means less is shipped, which means suppliers are making less, which
+means less is shipped.
+On a micro level, different jurisdictions worldwide differ on the exact details of their
+coronavirus response, but in many places, factories are shut down, which means supply
+chains are cut.
+So, from an economic perspective, one would predict that demand would almost certainly
+be down, but like all things in the age of coronavirus, there is another dominant perspective—that
+of public health.
+From almost the moment COVID-19 emerged, it became clear that it was a highly infectious
+virus, which means that a crucial component of the safe treatment of an infected individual
+is the use of personal protective equipment, or PPE.
+In this context, that means masks, shields, gowns, and more, which healthcare facilities
+always stock, but never in the quantity needed to cover nearly universal staff usage for
+a long period.
+That means that, in order to reduce the risk of staff exposure, nearly every hospital in
+the world needed more PPE.
+Purely by chance, it turns out that the number one medical PPE-producing country in the world
+was also the first country to experience COVID-19—China.
+Before the pandemic, the country produced 20 million medical masks per day, or about
+half of the world's supply.
+By the beginning of March, though, this had already been scaled up to more than 100 million
+per day.
+It was at exactly this time when, simultaneously, China's manufacturing industry started to
+inch back to life and the virus truly took hold of the rest of the world.
+With how fast COVID-19 ramped up, many hospitals in hotspots like Italy, Spain, and the US
+were reusing masks and, even with that technique, were down to only days of supply so they needed
+supply from China and other manufacturing hubs as fast as possible.
+In the logistics world, as fast as possible means air cargo.
+Thanks to this unprecedented and urgent demand for PPE and other medical supplies, demand
+for air cargo only dropped by 15% in March, 2020.
+Considering air cargo capacity dropped by 23%, that means that there was an 8% gap between
+supply and demand.
+In the context of this enormous industry, 8% is huge and so the laws of supply and demand
+followed their course.
+The cost to transport goods by air spiked, especially in the crucial Asia to US and Europe
+markets.
+In the last two weeks of March, air cargo rates from Hong Kong to North America jumped
+27% above normal while rates from Shanghai to Europe increased by 50%.
+Of course, after a supply and demand mismatch, economic forces pushed companies to increase
+supply, which is exactly what happened.
+Through airlines that could massively ramp up their flights.
+Calida Air, for example, an American cargo airline, brought some aircraft out of storage
+and increased its long-haul flying by nearly 50%.
+However, there is only so much that these cargo airlines can do.
+They only have so many aircraft, so many pilots, and so many mechanics so they can't massively
+ramp up their operations in a short time.
+Who did have extra capacity, though, were passenger airlines and that were a small solution
+emerged.
+A plane with no passengers is not necessarily an empty plane.
+An average airline earns 15-20% of its revenue through cargo, but keep in mind what an average
+airline looks like.
+Most of the average North American airlines is flying is domestic and short-haul, where
+little cargo is carried, so the proportion of revenue coming from cargo on a long-haul
+flight is far higher.
+Consider too that, on a normal long-haul passenger flight, a considerable portion of the cargo
+hold is filled with baggage, so that 15-20% is derived from only some of the capacity
+on only some flights.
+Airlines soon realized that there was a possibility of turning a profit flying a passenger plane
+with no passengers.
+Now, normally, a passenger A330, for example, has capacity for 38,000 pounds or 17,000 kilograms
+of cargo in its belly hold.
+That's compared to the freighter version of the A330 which can carry 132,000 pounds
+or 60,000 kilograms of freight thanks to its completely empty cabin.
+That means that the passenger A330 can only carry 29% as much cargo as its freighter counterpart.
+However, considering that freight rates have risen by as much as 50%, that means that flying
+these aircraft can earn about 44% as much per flight as their freighter counterparts
+normally do.
+Making less than half as much as cargo airlines clearly would not make flying passenger aircraft
+for cargo purposes worth it, but there is more to consider.
+First, jet fuel prices are at an all-time low, largely in response to all-time low demand.
+The same gallon that would have cost airlines $2.20 in January 2020 costs about 40 cents
+in late April 2020, and those prices are continuing to drop.
+In normal conditions, fuel is airlines' number one cost so having that drop by a factor
+of five reduces the cost to operate a flight dramatically.
+That means that they need to earn far less than what a cargo airline does in normal conditions
+to break even.
+In addition, most airlines are paying their pilots and staff anyways.
+In the US, for example, airlines are required, as a condition of their government relief
+funding, to not lay off or furlough any staff, so the marginal staffing cost to operate an
+additional flight is minimal.
+Thirdly, with no passengers, airlines have quickly innovated new ways to carry cargo.
+Many airlines have loaded their passenger cabins with cargo placed directly on top of
+and fastened to seats.
+This dramatically increases complexity and loading time, but it also dramatically increases
+capacity.
+All of these conditions and circumstances combine to the point that, for this brief
+moment in time, economics dictate that an airline can turn a profit flying a passenger
+plane without passengers.
+Big airlines like American Airlines, Air Canada, Lufthansa, and Air New Zealand began cargo-only
+flights, so many, in fact, that united airlines, for example, had up to dozens of passenger-less
+passenger planes airborne at the same time all around the world.
+This also created flights that have never happened before, like a 16-hour non-stop cargo-only
+trip from Sydney to Toronto by Air Canada.
+But it wasn't all just big airlines on long flights—smaller airlines, too, got in on
+the game.
+After Greenland started a link on a tiny propeller Dash 8 to transport coronavirus tests for
+processing in a Danish lab, Titan Airways flew medical supplies to the remote island
+of St Helena on a passenger A318, and Wizz Air flew their passenger A321s to Shanghai
+via Kazakhstan to transport medical supplies to Hungary.
+These circumstances have also led to a dramatic reshuffling of rank and order in the aviation
+world.
+The list of the world's busiest airports, in terms of annual aircraft movements, is
+normally headed by Atlanta, followed by Chicago, Los Angeles, Dallas, Beijing, and a number
+of other major hub airports.
+Normally, you wouldn't expect an airport from America's third least populous state
+anywhere on the first pages of that list, however, for a brief moment in April, 2020,
+that was the case.
+Anchorage Airport, in Alaska, became the world's busiest airport thanks to its strategic location.
+It has long been a busy cargo airport as it acts as a stopover point for cargo flights
+from Asia to North America.
+They stop here because it is more efficient for aircraft, on long-haul flights, to take
+less fuel and more cargo and refuel halfway through than fly non-stop to their destination.
+Also, in some cases, freight is sorted and exchanged between aircraft in Anchorage.
+In April, 2020, the US ranked number one in the world for new and total coronavirus cases
+so it had a tremendous need for medical supplies which are overwhelmingly produced in Asia
+so hundreds of cargo aircraft per day passed through Anchorage on their way between Asia
+and the US.
+So, while every other major airport in the US fell into relative silence, Anchorage was
+busier than ever.
+There is, however, one final issue that the air cargo world is facing.
+Beyond the short-term issue of too much demand, the long-term issue is that this demand will
+not last.
+Global air cargo demand closely tracks with global economic health.
+Every indicator suggests that the economy will not emerge from the COVID-19 pandemic
+even close to as strong as when it entered, so there will undoubtedly be some slow months
+and years for air cargo.
+Once urgent demand for medical supplies eases, and buyers have the time to switch to slower
+forms of shipping, the air cargo world will almost certainly follow the fate of its passenger-carrying
+colleagues.
+On the exact same day as this video goes out, we released a brand new hour-long documentary
+called The Final Years of Majuro.
+It's about the isolated nation of the Marshall Islands and, specifically, what life is like
+when you know your nation is coming to an end—when where you live has an expiration
+date.
+This project is available exclusively on Nebula—the streaming site home to loads of educational
+creators' big, ambitious projects.
+Now, the best way to get access to Nebula is through CuriosityStream's bundle deal.
+When you sign up for any subscription at curiositystream.com slash wendover, including a free trial, you'll
+get free access to Nebula, but the best deal is absolutely their annual subscription as,
+for a limited time, it's available for 40% off meaning both CuriosityStream and Nebula
+combined are just $12 a year.
+This new documentary was a huge project where we flew a crew to the other side of the world
+and worked with a large team for months in post-production, and it was only made possible
+thanks to CuriosityStream, Nebula, and your subscriptions to them.

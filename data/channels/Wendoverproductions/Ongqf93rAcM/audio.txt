@@ -1,0 +1,201 @@
+This video was made possible by Brilliant.
+Learn more about the math and science behind this video's topic for 20% off by being
+one of the first 200 to go to brilliant.org slash wendover.
+Within the walls of the 51 licensed casinos of the Las Vegas Strip, there are 2,879 gaming
+tables collectively bringing in $3.1 billion in revenue annually, or over a million dollars
+each.
+In addition, there are some 38,864 slot machines bringing in another $3.4 billion.
+A single large Las Vegas casino, like the Bellagio, makes more annually than some small
+countries.
+This is because the casino business model is pretty much bulletproof.
+Overall, the odds are always in the casino's favor.
+If this weren't true, the casino would fail, so these floors just print money.
+MGM International, for example, one of the world's largest multinational gaming companies,
+has about 2.5 million square feet of casino floor worldwide, meaning it makes, on average,
+$1,138 per square foot.
+With the money their casinos bring in, they could line every inch of every foot of their
+casino floor worldwide with a brand new iPad and still have money left over.
+This is all to say, casinos make a lot of money, but to do so, they need a lot more
+money coming through their doors.
+You see, the casino business model all revolves around risk.
+With every game they have, the odds are in their favor, but that's not to say the house
+will always win.
+Their advantage varies from game to game—in roulette it's about 5.25%, in poker it's
+about 3.35%, and in blackjack it's about 0.5%.
+Of course, given how tight these margins are, there's a natural variability so casinos
+can come out behind on a given table on a given night, but overall, with enough tables
+and enough nights, they'll average out to these odds.
+However, in order to do so, they need an immense amount of money running through their casinos.
+Blackjack, for example, is one of the games with the lowest house edge, so if a casino
+wants to earn $1 billion in a given year from the game, which would not be an unreasonable
+estimate for a large gaming company like MGM International, they would need $200 billion
+changing hands within their doors each year.
+$200 billion is an enormous amount of money.
+That's pretty much the entire GDP of New Zealand, passing through, in the case of MGM,
+a physical structure barely larger than the Empire State Building.
+When you have such a rapid throughput of money, very slight changes in the odds can make a
+huge dent in the gaming company's earnings.
+If, for example, the house edge in Blackjack changed from 0.5% to 0.4%, they would lose
+$200 million, assuming $200 billion in annual play.
+This is why making sure these odds stay in their favor is so important to casinos—it
+can quite literally make or break them.
+Despite what pop culture might portray, a casino's biggest problem is not robbers
+or hackers or even technically cheaters, because each of those is relatively easy to prevent.
+Rather, their biggest problem is people who are able to turn their odds in their favor
+without robbing, hacking, or even cheating.
+You see, in most common law countries, such as the US, England, Ireland, or Australia,
+cheating is legally defined as altering the outcome of the game, acquiring knowledge not
+available to all players, or changing one's bet after learning of the outcome.
+Cheating in a casino is generally illegal, however, it is possible for a player to consistently
+win without cheating.
+The best known example of this is card counting—a type of advantage play used in the Blackjack
+family of games which is not illegal and, in some cases, is even legally protected.
+This advantage play technique essentially takes the basic principles of the game of
+Blackjack and uses them against the casino, and these principles are fairly simple.
+To start a game, each player bets an amount of money, then six decks of cards are shuffled
+together to form what's called the shoe.
+Each player is dealt two cards face-up, while the dealer gets one face-up and one face-down.
+The goal for all participants is simple—it's to get their cards to total as close to 21
+without going above 21.
+The execution of that is much tougher.
+Starting from the left, each player will either decide to stick with the total they have or
+to take another card to add to it.
+Of course, the player doesn't know what the next card will be worth—it could be
+anything from one to eleven—so it's a gamble on whether it'll make the total go
+over 21, in which case their bet is lost.
+The higher the original total, the riskier it is to take another card, but there is,
+in fact, a mathematically optimal choice for each scenario.
+Once every player is done taking cards, or not, the dealer reveals the face-down card
+and, automatically, if their total is below 17, they take additional cards until it isn't.
+If it's 17 or higher, they leave it as is.
+There are then three scenarios—if the dealer goes above 21, all players' bets are doubled,
+as long as they didn't go above 21 first.
+If a player's total is higher than the dealer's, then the player's bet is doubled.
+However, if a player's total is lower, they lose their bet.
+Of course, this explanation skipped over plenty of smaller rules and less likely edge
+cases, but it is these fundamental elements of gameplay that tie into why card counting
+works.
+Now, without getting too much into the math, on average, in Blackjack, higher value cards
+benefit the player, while lower value cards benefit the dealer.
+While the explanation for the higher cards is more complex, lower cards' benefit is
+based on the fact that the dealer is required to take additional cards when their total
+is less than 17, and so a greater density of lower cards makes it less likely that they'll
+go over 21, in which case each player's bet is doubled.
+Therefore, if you know that a bunch of low cards are coming, you know that the odds are
+against you and so you should reduce your bet or not play.
+But, the question is, how do you know it's coming in a randomly shuffled deck?
+Well, you perform process of elimination, or, even more simply, you count the cards
+you see.
+There are hundreds of different forms of card counting that work in hundreds of different
+ways, but all are more or less based on what's known as the high-low system.
+With this, each card is assigned a value—two through six are assigned one, seven through
+nine are assigned zero, and ten, the face cards and the ace, are assigned negative one.
+This is based on the fact that, every time a high-value card is dealt, there are fewer
+of them left in the deck, which means the odds get worse for the player considering
+that high-value cards are better for them, and vice versa.
+So, card counting is quite simple—with every card a player sees, they add up its assigned
+value.
+So, if there are three players and they are dealt these cards, the running count would
+be one, plus zero, plus negative one, plus one, plus zero, plus one, plus zero, which
+would equal a total of two.
+That total of two indicates that the odds have shifted slightly in the player's favor,
+while if it were negative two that would indicate the odds were in the dealer's favor.
+As play goes on and they get deeper into the deck, the running count will generally increase
+in one direction or the other, giving the player more confidence on where the odds stand
+and so if, for example, the running count equaled 20, the player would know that the
+odds were greatly in their favor and therefore that they should bet big on the next round,
+as they have a greater than 50% chance of winning.
+This is how people can reliably make money in blackjack.
+If a player changed their bet by a factor of 15 depending on the odds, and the dealer
+waited until they were through five of the six decks before shuffling, a player, following
+perfect blackjack strategy, could earn an advantage of about 1.182% over at the house.
+That means that if, assuming a table completes a round of play every minute and the average
+bet is around $200, a card counter could profit, on average, about $110 an hour—enough
+that some people can and do make a living by sitting at blackjack tables counting cards.
+However, considering how simple and reliable this advantage play method is, casinos go
+to great lengths to stop it, which is very, very difficult.
+That's because the advantage is all in the mind—there's no good way to fully prove
+someone's card counting.
+Sometimes, people are just lucky, and it's quite a bad look for casinos to kick people
+out just because they're winning.
+That's why, instead of trying to prove it, most casinos implement rules to try and stop
+card counting from working as well.
+Remember that, generally, the running count will get further into the positive or negative
+the further into the game one goes, because the card counter will have seen more cards
+that are now in the discard pile and therefore cannot be dealt.
+While a few rounds in the running count might be in the single digits positive or negative,
+further on, it'll get into the double digits which gives a counter great confidence on
+whether they should bet big or not.
+It's towards the end of the shoe—the collection of undeal cards—when card counters really
+make their money, so to make it less profitable, casinos can just have their dealers shuffle
+earlier on.
+If they shuffle four decks deep into the six deck shoe rather than five, that decreases
+the player's advantage from 1.182% to just 0.568%.
+However, shuffling earlier and more often also cuts into the casino's profits because,
+any time the dealer is shuffling, the non-advantaged players aren't playing and losing money,
+which is how the casino makes its money.
+Another option for casinos is to increase the number of decks they shuffle together
+to make the shoe.
+Back before card counting first became a widespread issue for casinos, they would play blackjack
+with just a single deck of cards, but if they did this today, it would only be a matter
+of minutes before a card counter would have high confidence about the odds.
+Therefore, they typically now play with six decks shuffled together, which increases the
+time it takes to get to high confidence, and, since time is money for a card counter, this
+decreases their profits.
+Some casinos take this a step further by using continuous shuffle machines.
+With no discard pile, there is no increase or decrease in beneficial cards in the shoe,
+so card counting is completely ineffective, however, these machines are not yet fully
+widespread due to distrust by frequent players.
+While these methods deal with stopping or reducing a player's ability to actually
+know what the odds are at a given moment, the other method involves stopping a player's
+ability to respond to this knowledge by changing the size of their bets.
+Essentially, if a dealer or a pit boss suspects someone might be card counting, they'll
+change the rules on them and require flat betting.
+This is where a player is told to pick one bet size, and then they are not allowed to
+change that size from round to round.
+Therefore, card counters might know that the odds are changing, but they will not be able
+to respond to it with a larger or smaller bet, so the odds will stay in the house's
+favour.
+However, that poses the question, how do you spot a card counter?
+Well, one of the most telltale signs is that they're winning.
+Even if someone is card counting, the casino does not care as long as they're losing,
+so they don't really pay attention to people until they've made some real money.
+Once they are, though, if a pit boss notices that a player, for example, changes their
+bet from $100 to $1,000 right before a series of wins or as the shoe is close to finished,
+that's a good sign that they know what the odds are.
+In addition, professional card counters often start with a very large buy-in—they convert
+a lot of money into chips—because there is natural variance on whether or not they
+win, even if they know the odds.
+They can win infinite money, but they can only lose as much money as they have, and
+even if they have an advantage, if they're unlucky and they lose all their money, there's
+no way to win it back.
+The math works out so that, if you want to win $170 an hour card counting, you need to
+have $100,000 in order to only have a 1% chance of running out of money.
+In the end, casinos don't need to make it impossible to count cards.
+Only a small minority of people will attempt it, and those that do can only make so much
+money per hour, so in a way, it's a cost of doing business.
+To avoid it making a big dent in their profits, all they need to do is make advantage play
+at their tables just a little bit harder than those next door, and if this is the case,
+the card counter will go next door.
+There will always be an escalating arms race by both players and casinos to gain an advantage
+and stop an advantage, respectively.
+Mathematics, economics, and human nature combined mean that as long as Blackjack and other flawed
+casino games stay popular, players will always find a way to tilt odds ever so slightly in
+their favor.
+Before I made this video, I took Brilliant's course on casino probability and, specifically,
+the section on Blackjack to be sure that I understood most of the math behind what I
+was talking about.
+In fact, part of the reason why I wanted to make this video was because I found the mathematics
+of gambling so interesting, and so, if you did too, this course is a fantastic way to
+dive deeper into the topic.
+You can even do this one on the go, in small chunks, with their mobile app, or learn something
+new every day with their daily challenges, or dive deep into something completely different
+with any one of their many dozens of super high quality classes.
+By high quality, I don't mean that they look good or work smoothly, even though they
+definitely do, but rather that their academics are designed in a way that makes rather complicated
+subjects easy to learn.
+They teach you like the best teacher you've ever had—by breaking up big concepts into
+smaller, digestible, intuitive chunks.
+So, if you want to dive deep on useful STEM topics, including learning more about the
+mathematics of gambling, be sure to be one of the first 200 to head over to brilliant.org-slash-windover
+to get 20% off.

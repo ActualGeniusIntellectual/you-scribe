@@ -1,0 +1,200 @@
+This video was made possible by Brilliant.
+Learn intuitively with Brilliant for 20% off by being one of the first 200 to sign up at
+brilliant.org slash wendover.
+If you look up, there are 4,708 satellites that came from earth currently orbiting our
+planet.
+Just in the portion of the sky you can see, hundreds of satellites are passing overhead
+at any given time.
+You often can't see them, but they're there making GPS work, taking images of earth,
+scanning communications, even spying for governments.
+These satellites are some of the most expensive single objects that can be made.
+If you took a tennis ball sized chunk of the Hubble Space Telescope, it would be worth
+over $1,500.
+Modern full-scale commercial-grade satellites cost in the hundreds of millions of dollars.
+They're just incredibly complex objects that require years to construct.
+Many of the satellites flying over you right now, though, started their life here, at SSL
+in Palo Alto, California.
+SSL is a commercial company owned by Maxar Technology specializing in satellite and spacecraft
+construction.
+They've built spacecraft that are currently in orbit for everyone from DirecTV to national
+governments.
+If you've ever watched satellite TV, listened to satellite radio, or used satellite internet
+on a plane, there's a decent chance you've directly used one of the satellites they built
+here in their factory.
+But let's say you want to buy a satellite from SSL.
+What do you do?
+The first thing you do is pick up the phone and call us, but the next thing you should
+do is check your bank account to make sure you have enough money to buy a satellite.
+Satellites, depending on what kind it is and where it's going, can cost tens of millions
+of dollars up to several hundred million dollars.
+Once a customer makes that first phone call to SSL, there will be then an ongoing back
+and forth between them and the customer.
+Essentially, the customer will tell SSL what they want their satellite to do and SSL will
+come back to them with a price.
+Eventually, if all goes well, they'll sign a contract.
+That's exactly what happened a few years ago between SSL and Telesat—a global satellite
+company headquartered in Canada that owns and operates a fleet of satellites.
+Their satellites are used to broadcast signals, whether it be TV, radio, or internet, for
+their customers—satellite TV, radio, and internet providers.
+In this case, Telesat needed a satellite to provide additional capacity over the busy
+North Atlantic region and so they came and signed a contract with SSL to build their
+new satellite—Telstar 19 Vantage.
+Soon after contracts were signed, work began on designing the satellite.
+In that process, the designers usually pull designs for some more generic aspects from
+previous projects and then modify them to suit the particular job.
+The length of that process can vary widely based off of how complex a satellite is but
+throughout that process, as soon as they've locked a design in, they'll begin ordering
+parts.
+SSL builds about half their components themselves and orders the other half from other companies.
+The decision on whether to order or build in-house usually comes down to performance.
+There are certain components where, depending on what the requirements are, we build higher
+performance components than suppliers.
+Some of them are suppliers build better components than we do.
+Over the years, SSL has looked at what it's good at and what other suppliers are good
+at and made the decision on what to order based off that.
+For example, one of the components that SSL builds are the antenna reflectors.
+These are what actually direct signals down to earth and each of them is custom designed
+for the region that the satellite will cover.
+This is, for example, for Telstar 18 Vantage.
+You can see here that these are these reflectors that would be sticking out on the sides and
+it's used for sending signals back to earth and all those little dots you see on there
+are for photogrammetry so they're used to make sure that the surface is actually
+exactly as was designed so we have these cameras that take pictures of these and of all the
+dots to make sure that it was built according to the design.
+The satellite these antenna reflectors eventually went on, Telstar 18 Vantage, the sister satellite
+of Telstar 19 Vantage, will launch in late August 2018 and soon after will go into service
+providing data services over Asia and Oceania so the antenna reflector was carefully crafted
+to provide signal over populated areas and busy flight and maritime corridors while not
+wasting resources on providing service to areas the company already has coverage for
+or that would have little demand such as to the south of Australia.
+About 9 to 15 months after ordering, the majority of the ordered components will start rolling
+through the door and then the bulk of the assembly process begins.
+This process is too complex to go into detail on but essentially they'll first build the
+major elements separately.
+One group will assemble the propulsion systems and framework of the satellite while another
+will assemble the payload, which the satellite is actually built to carry whether that be
+an advanced camera or a communications system, while yet another group will assemble the
+super-light and efficient solar panels that will power the satellite when in orbit.
+The assembly of the different major components will take a few more months and then they'll
+start to compile those different major components together over a period of a few more months.
+Each component is tested independently before and while being installed on the satellite
+but once they're all pieced together there begins an incredibly rigorous phase of testing
+the satellite as a whole.
+When buying a satellite from a trusted manufacturer like SSL, the customer is buying reliability
+so there can be no compromise on testing.
+They need to be sure that the satellite will actually survive launch and work in space
+and the best way to do that is to just simulate launch and space.
+There are three major factors that could harm a satellite—vibration, temperature, and
+sound.
+The vibration comes as a satellite launches in a rocket so they test that their satellites
+can survive launch.
+When you put one of these satellites on top of a rocket in the payload fairing it experienced
+a lot of vibration loads in the X, Y, and Z so we're able to simulate all of those
+with this shaker table.
+It has a base plate there and you can shake in this direction, in this direction, or in
+this direction so it does in all different directions to simulate the environment and
+make sure that it's all operating.
+The satellite on the table in testing here is Telstar 19 Vantage itself.
+This here is just one of the many tests where they literally just shake the satellites and
+see how it responds.
+They only last about 60 to 90 seconds each because that's how long the satellite will
+experience vibration during launch until the rocket reaches the upper atmosphere.
+They'll also be sure that their satellites can survive the vacuum and temperatures of
+space.
+What you see up there, this big blue pumpkin looking thing like Cinderella's carriage,
+that one is called our thermal vacuum chamber.
+We like to call it the blue pumpkin.
+What we use it for is for simulating the thermal vacuum environment of space.
+We'll go down to the vacuum levels of space, 10 to the minus 5 torr, and we will turn on
+the payload and different parts of the satellite to make sure that everything's functioning
+properly when you put it in space.
+In addition to that, once it's under vacuum, we have these thermal panels in there to simulate
+the hot and cold environment.
+When you're facing the sun and the satellite gets really hot, we bring those temperatures
+to bear and then we make it really cold when it's facing away from earth in an eclipse
+type of situation and make sure that everything's functioning properly.
+Lastly, launch is very loud to the point that the acoustic energy could actually damage
+a satellite so they make sure it doesn't by simulating the launch environment through
+bombarding the satellite with acoustic energy with speakers.
+There are a myriad of other tests performed before the satellite is given SSL stamp of
+approval but once it's ready the satellite does, of course, need to get to the launch
+site.
+The customer decides which launch provider to use whether it be SpaceX, United Launch
+Alliance, Arianespace, or another so the satellite might only need to go as far as Vandenberg
+Air Force Base a four hour drive away or as far as Baikonur Cosmodrome in Kazakhstan.
+The launch site is also partially decided based off what sort of orbit this satellite
+is going into.
+If a satellite is going to orbit in a north-south direction over the poles they want to launch
+in that direction so they want to launch from a site with open water to the north or
+south both for safety and, for some rocket designs, so sages of rockets can fall into
+the ocean throughout the launch process.
+SpaceX, for example, therefore uses Vandenberg Air Force Base in California for their polar
+orbit launches as it has the Pacific Ocean directly south.
+For geosynchronous orbits where satellites travel from west to east at the same rate
+as earth rotates, they want to launch in the same direction as the satellites will orbit.
+For that reason they can't launch from Vandenberg as it has land to the east so SpaceX
+uses the launch pads on Cape Canaveral, Florida as they have the Atlantic Ocean to the east.
+In the case of Telstar 19 Vantage it was going in geosynchronous orbit in order to stay consistently
+over its service area so SSL needed to get the satellites all the way across the country
+to Florida.
+No matter where a satellite is going, it gets packed up into one of these specialized shipping
+containers.
+For travel to closer launch sites within the US they'll often drive.
+They'll put the container on a truck driven by trusted oversized vehicle drivers, have
+a lead vehicle checking for obstructions, a trailing vehicle watching to make sure nothing
+goes wrong, and for longer drives a motor home so drivers can swap out and rest while
+still moving.
+If the launch site is far, such as the ones overseas in French Guiana, in Kazakhstan,
+or even the further ones in the US such as Cape Canaveral, they'll fly the satellite
+over in an Antonov cargo plane.
+Satellites arrive to their launch site at least a month before their launch as there's
+plenty of last minute preparation to do.
+They have to perform additional testing to make sure nothing was damaged in transport,
+fuel it up, and mount it in the rocket.
+Once that happens, though, there's a period where there's really nothing for SSL to
+do.
+As they go through the process of the countdown there are a number of places where we're
+asked to confirm that we're ready for launch.
+Then they launch us and at that point we can no longer monitor our satellite until we're
+off the launch vehicle.
+So for about a half hour we're hoping that the launch vehicle guys are doing everything
+okay and they usually are.
+In the case of Telstar 19 Vantage, the customer entrusted SpaceX with the responsibility of
+getting their satellite to orbit so on July 22nd, 2018, at 1.50am, a Falcon 9 rocket lifted
+off from Cape Canaveral carrying SSL's latest creation to space.
+The launch of this satellite actually made the record books as it is the heaviest commercial
+communications satellite to ever be entered into service at 15,600 pounds.
+On that early morning in July, the Falcon 9 gained altitude as it flew southeast over
+Africa then 32 minutes and 40 seconds after launching, 358 miles above Mozambique, Telstar
+19 Vantage was released from the rocket and gently pushed forward in the first moments
+of its 15 year long orbit of earth.
+At that point, the work's not done for SSL though.
+Their job is not just to build the satellite but also to enter it into service in space.
+Once the satellite is deployed, SSL will look for its signal and establish communications.
+And then we start talking to the satellite so we start commanding the satellite, we tell
+the satellite what we want it to do, we start to get the satellite into a safe position
+after launch, we'll deploy solar rays so we can start generating power, we'll start
+to activate everything on the satellite, and then we'll put the satellite in a safe
+condition so that the crew can get some rest.
+Over the next ten days there's a process of firing the satellite's engines to raise
+it from the altitude of 350 miles where it's deployed to 22,000 miles where it will stay
+for its service life.
+There's then another two to four weeks of testing to make sure everything survived launch
+and then, finally, after years of work, it's time to hand over the satellite to Telesat,
+the customer, so they can put it online and start operating it commercially.
+At that point, after years of work, the satellite can finally itself be put to work.
+One of the aspects of how satellites work that I found most interesting to learn about
+when I filmed this video was on how orbits work.
+The science of how you can make an object orbit at such a consistent speed that it will
+stay over one particular area of earth is fascinating and if you want to learn all about
+how that works, Brilliant teaches you exactly that in their classical mechanics course.
+Of course, there's more than just orbits.
+This course provides a great overview of physics and with Brilliant, you'll actually understand
+the concepts rather than just learning them.
+They specialize in teaching the intuitive principles behind concepts so that you can
+learn the why.
+They also have plenty of other fascinating courses on topics like astronomy, logic, and
+gravitational physics—a course that teaches how planetary orbits work.
+All in all, Brilliant is a great place to learn and best of all, you can try Brilliant's
+classes for free by signing up at brilliant.org.wendover and then, if you decide to upgrade to their
+premium account, the first 200 to do so at that link will get 20% off.

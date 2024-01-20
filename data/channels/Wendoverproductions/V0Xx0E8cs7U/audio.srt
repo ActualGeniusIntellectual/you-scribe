@@ -1,0 +1,1272 @@
+1
+00:00:00,000 --> 00:00:05,920
+It's 4.55am on a March day at the National Weather Service's Twin Cities Forecast Facility
+
+2
+00:00:05,920 --> 00:00:10,640
+when the morning stillness is broken by the rattle of a garage door opening.
+
+3
+00:00:10,640 --> 00:00:15,300
+As they do every single morning of every single day, a meteorologist working the station's
+
+4
+00:00:15,300 --> 00:00:19,540
+public service desk is launching a helium and hydrogen-filled latex balloon connected
+
+5
+00:00:19,540 --> 00:00:23,240
+to an expendable radio scone by 80 feet of string.
+
+6
+00:00:23,240 --> 00:00:28,480
+At the very same time, meteorologists from the other 91 NWS radio scone stations across
+
+7
+00:00:28,480 --> 00:00:33,800
+the US, along with hundreds from around the globe, are launching their own upper-air atmospheric
+
+8
+00:00:33,800 --> 00:00:34,800
+soundings.
+
+9
+00:00:34,800 --> 00:00:39,260
+In the next two hours, these balloons will climb up to 100,000 feet, or 300,000 meters
+
+10
+00:00:39,260 --> 00:00:43,840
+into the atmosphere, drifting as far as 200 miles or 320 kilometers from their launch
+
+11
+00:00:43,840 --> 00:00:48,560
+point while their payload, about the weight of a grapefruit, relays temperature, air pressure,
+
+12
+00:00:48,560 --> 00:00:50,880
+and humidity data back to the station.
+
+13
+00:00:50,880 --> 00:00:55,480
+The technology might be simple, but the readings from various altitudes captured every 12 hours
+
+14
+00:00:55,480 --> 00:00:57,720
+are simply irreplaceable.
+
+15
+00:00:57,720 --> 00:01:01,600
+These data, transmitted by radio frequency then scrubbed for errors by the meteorologists
+
+16
+00:01:01,600 --> 00:01:05,800
+that launched the balloon in the first place, will get compiled and plugged into impossibly
+
+17
+00:01:05,800 --> 00:01:09,840
+complex models in the National Centers for Environmental Prediction and then archived
+
+18
+00:01:09,840 --> 00:01:13,360
+at the National Climate and Data Center, but that's later.
+
+19
+00:01:13,360 --> 00:01:18,160
+Right now, as the Minneapolis meteorologists follow their highly standardized routine,
+
+20
+00:01:18,160 --> 00:01:20,000
+one reading catches their eye.
+
+21
+00:01:20,000 --> 00:01:25,840
+The barometer reads 1,017 millibars—a high-pressure front developing.
+
+22
+00:01:25,840 --> 00:01:30,560
+For our meteorologists, an Arctic cold front means a few more freezing commutes and balloon
+
+23
+00:01:30,560 --> 00:01:31,560
+launches.
+
+24
+00:01:31,560 --> 00:01:35,480
+For the rest of the US, it might not mean much, or it might present a problem.
+
+25
+00:01:35,480 --> 00:01:39,860
+That's not a conclusion the data from a single balloon can possibly offer.
+
+26
+00:01:39,860 --> 00:01:43,780
+To fulfill their task of telling the public what's to come, the US's National Weather
+
+27
+00:01:43,780 --> 00:01:48,000
+Service is going to need far, far more data.
+
+28
+00:01:48,000 --> 00:01:54,160
+To start, the NWS operates 160 high-resolution Doppler weather radars, each dedicating seven
+
+29
+00:01:54,160 --> 00:01:58,360
+seconds an hour to emitting quick bursts of energy, then the rest listening for its return
+
+30
+00:01:58,360 --> 00:02:01,720
+to interpret what's present in the sky—water or air.
+
+31
+00:02:01,720 --> 00:02:05,880
+The multi-million dollar installations are spread out across the 50 states, Puerto Rico,
+
+32
+00:02:05,880 --> 00:02:10,960
+Guam, and uniquely, at one US military base in Okinawa, Japan, and two others in South
+
+33
+00:02:10,960 --> 00:02:15,040
+Korea, putting the American National Weather Service in the exceptional position of maintaining
+
+34
+00:02:15,040 --> 00:02:18,600
+near-complete weather radar coverage over a foreign country.
+
+35
+00:02:18,600 --> 00:02:22,920
+In the US itself, most metro areas are covered, and the deployment of the system was credited
+
+36
+00:02:22,920 --> 00:02:28,220
+with increasing average tornado warning times from four to eleven minutes, but still, meaningful
+
+37
+00:02:28,220 --> 00:02:29,960
+gaps exist.
+
+38
+00:02:29,960 --> 00:02:34,480
+While gaps over sparsely populated western states are inconvenient obstacles to accurate
+
+39
+00:02:34,480 --> 00:02:40,920
+forecasts, the NWS lacks visibility into some slivers of the area known as Tornado Alley—an
+
+40
+00:02:40,920 --> 00:02:44,780
+area that relies on these radars to give them the notice needed to get into shelters when
+
+41
+00:02:44,780 --> 00:02:46,660
+a tornado does form.
+
+42
+00:02:46,660 --> 00:02:50,980
+With these NEXRAD radars now out of production and every existing one in use, there is little
+
+43
+00:02:51,020 --> 00:02:55,700
+opportunity for improvement short of a costly system-wide upgrade, but for the most part,
+
+44
+00:02:55,700 --> 00:03:00,940
+these 160 radars get the job done and form the foundation of the agency's data collection
+
+45
+00:03:00,940 --> 00:03:01,940
+mission.
+
+46
+00:03:01,940 --> 00:03:07,160
+But as groundbreakingly effective radar technology is, it's a proxy for measurements actually
+
+47
+00:03:07,160 --> 00:03:08,860
+taken in the sky.
+
+48
+00:03:08,860 --> 00:03:12,660
+This is why the NWS goes through the effort to launch those hundreds of weather balloons
+
+49
+00:03:12,660 --> 00:03:17,460
+daily, but of course, planes are already up there anyways.
+
+50
+00:03:17,460 --> 00:03:21,340
+Not only that, but the typical commercial aircraft already has the instruments necessary
+
+51
+00:03:21,340 --> 00:03:25,560
+to observe atmospheric conditions, so that's why the World Meteorological Organization
+
+52
+00:03:25,560 --> 00:03:29,020
+set up the Aircraft Meteorological Data Relay System.
+
+53
+00:03:29,020 --> 00:03:33,580
+Forty-three airlines around the world, including Alaska, American, Delta, FedEx, Hawaiian,
+
+54
+00:03:33,580 --> 00:03:38,100
+Southwest, United, and UPS, have agreed to collect meteorological data in flight and
+
+55
+00:03:38,100 --> 00:03:42,500
+transmit it to the WMO via satellite or VHF radio.
+
+56
+00:03:42,500 --> 00:03:46,900
+Meteorologists describe these data as crucial to the accuracy of forecasts, since such frequency
+
+57
+00:03:47,340 --> 00:03:51,500
+of atmospheric data cannot be inexpensively obtained through any other means.
+
+58
+00:03:51,500 --> 00:03:56,780
+In fact, forecasts globally became meaningfully less accurate at the start of the COVID pandemic
+
+59
+00:03:56,780 --> 00:04:00,900
+due to the loss of much of these data as air travel took a downturn.
+
+60
+00:04:00,900 --> 00:04:05,220
+But as important high-altitude data is to predicting what's to come on the ground,
+
+61
+00:04:05,220 --> 00:04:09,160
+the NWS still needs to know what's happening on the ground right now.
+
+62
+00:04:09,160 --> 00:04:14,100
+For that, there are 900 automated surface observation systems, again spread out across
+
+63
+00:04:14,100 --> 00:04:17,100
+the entire country, primarily at airports.
+
+64
+00:04:17,100 --> 00:04:21,460
+These include a suite of sensors—temperature, air pressure, humidity, cloud coverage, and
+
+65
+00:04:21,460 --> 00:04:26,500
+more—that automatically report data back to the NWS, and also automatically broadcast
+
+66
+00:04:26,500 --> 00:04:31,060
+a radio frequency that pilots can use to gain valuable intel into conditions at their destination
+
+67
+00:04:31,060 --> 00:04:32,340
+airport.
+
+68
+00:04:32,340 --> 00:04:37,140
+Some observations, however, cannot be efficiently achieved through automated means.
+
+69
+00:04:37,140 --> 00:04:39,260
+Some require the human touch.
+
+70
+00:04:39,260 --> 00:04:44,100
+Precipitation, whether in rain, snow, or something in between, is largely measured by a horde
+
+71
+00:04:44,100 --> 00:04:49,620
+of unpaid civilian volunteers donating their time to run 9,000 cooperative observer system
+
+72
+00:04:49,620 --> 00:04:51,460
+sites across the country.
+
+73
+00:04:51,460 --> 00:04:55,640
+Each follows strict protocol to provide the NWS with a daily precipitation measurement
+
+74
+00:04:55,640 --> 00:04:59,460
+for their local area, which is the primary manner through which forecasters validate
+
+75
+00:04:59,460 --> 00:05:03,300
+their forecasts—if they see that precipitation is constantly under their prediction in a
+
+76
+00:05:03,300 --> 00:05:06,520
+given area, they'll adjust, and vice versa.
+
+77
+00:05:06,520 --> 00:05:09,800
+These data are also crucial for establishing long-term trends.
+
+78
+00:05:09,800 --> 00:05:14,080
+It was this program, for example, that observed that average precipitation in the US has grown
+
+79
+00:05:14,080 --> 00:05:19,980
+7.8% since 1901 due to warming temperatures allowing the atmosphere to hold more water.
+
+80
+00:05:19,980 --> 00:05:26,420
+A similar, even larger program exists called SkyWarn, where 350,000 trained volunteer weather
+
+81
+00:05:26,420 --> 00:05:30,380
+spotters work with the NWS to act as their eyes on the ground.
+
+82
+00:05:30,380 --> 00:05:34,020
+These volunteers, many of which are amateur radio enthusiasts that use their skills to
+
+83
+00:05:34,020 --> 00:05:38,660
+communicate observations regardless of external conditions, track severe weather to both allow
+
+84
+00:05:38,660 --> 00:05:42,800
+the NWS to alert others of what's to come, and help them validate their weather models
+
+85
+00:05:42,800 --> 00:05:44,300
+and forecasts.
+
+86
+00:05:44,300 --> 00:05:48,660
+But weather is global, and therefore in order to give Americans their forecast, the National
+
+87
+00:05:48,660 --> 00:05:52,900
+Weather Service requires data from beyond the American states, territories, and few
+
+88
+00:05:52,900 --> 00:05:54,420
+foreign radar sites.
+
+89
+00:05:54,420 --> 00:05:58,300
+That's why the World Meteorological Organization exists.
+
+90
+00:05:58,300 --> 00:06:02,760
+This specialized United Nations agency has myriad responsibilities, but perhaps the most
+
+91
+00:06:02,760 --> 00:06:08,100
+pivotal centers around ensuring different national forecasters can and do cooperate.
+
+92
+00:06:08,120 --> 00:06:13,720
+As of a few years ago, data sharing is mandatory among all WMO members, meaning the US's
+
+93
+00:06:13,720 --> 00:06:18,280
+NWS gets meteorological data from its foreign counterparts, and vice versa, regardless of
+
+94
+00:06:18,280 --> 00:06:22,320
+their geopolitical status, thus improving the quality of forecasts for all.
+
+95
+00:06:22,320 --> 00:06:26,780
+As one of the world's preeminent meteorological organizations, the National Weather Service
+
+96
+00:06:26,780 --> 00:06:32,680
+does, however, have some extra help in gathering data from the rest of the world—satellites.
+
+97
+00:06:32,680 --> 00:06:37,360
+For decades now, a rotating cast of satellites have held two geostationary positions called
+
+98
+00:06:37,360 --> 00:06:42,380
+GOES East and GOES West, streaming down a deluge of imagery and meteorological data
+
+99
+00:06:42,380 --> 00:06:46,100
+to the agency's ground station on Wallops Island, Virginia.
+
+100
+00:06:46,100 --> 00:06:51,100
+GOES East and West are currently operated by the GOES 16 and 17 satellites, respectively.
+
+101
+00:06:51,100 --> 00:06:56,420
+In addition, the older GOES 15 satellite sits next to GOES 17 to provide redundant coverage,
+
+102
+00:06:56,420 --> 00:07:01,260
+due to a reliability issue with 17, while GOES 14 sits powered down in a storage orbit
+
+103
+00:07:01,260 --> 00:07:04,360
+in case an issue with another requires a quick replacement.
+
+104
+00:07:04,360 --> 00:07:08,560
+Any gap in coverage from GOES East or West would impact forecast accuracy for hundreds
+
+105
+00:07:08,560 --> 00:07:10,380
+of millions of Americans.
+
+106
+00:07:10,380 --> 00:07:15,940
+Meanwhile, GOES 18 was launched in March 2022 and will soon replace GOES 17 to operate as
+
+107
+00:07:15,940 --> 00:07:16,940
+GOES West.
+
+108
+00:07:16,940 --> 00:07:21,420
+While these are focused on high-frequency, ongoing coverage of the US and its immediate
+
+109
+00:07:21,420 --> 00:07:27,040
+surroundings, the agency also operates a non-geostationary satellite in a polar orbit to provide less
+
+110
+00:07:27,040 --> 00:07:30,860
+frequent yet still important data and imagery of the rest of the world.
+
+111
+00:07:30,860 --> 00:07:34,920
+A secondary function of these GOES satellites is to act as a means of communication for
+
+112
+00:07:34,920 --> 00:07:40,000
+the most remote NWS observation stations on earth—BUIs.
+
+113
+00:07:40,000 --> 00:07:44,320
+Stationed hundreds or thousands of miles offshore, weather BUIs provide a glimpse into areas
+
+114
+00:07:44,320 --> 00:07:48,800
+of the earth entirely devoid of humans or civilization, but full of weather that could
+
+115
+00:07:48,800 --> 00:07:50,400
+soon impact them.
+
+116
+00:07:50,400 --> 00:07:54,680
+The network is run by NOAA's National Data Buoy Center, and each transmits near real-time
+
+117
+00:07:54,680 --> 00:07:59,600
+conditions from the Great Lakes, Gulf of Mexico, Atlantic, and Pacific, including giving life-saving
+
+118
+00:07:59,600 --> 00:08:03,060
+warning of potential impending tsunamis, for example.
+
+119
+00:08:03,060 --> 00:08:07,020
+More typically, however, they provide the same data land-based stations offer, but in
+
+120
+00:08:07,020 --> 00:08:11,240
+an area useful for giving coastal regions a heads-up of what's to come.
+
+121
+00:08:11,240 --> 00:08:15,300
+On the hour, BUIs record temperature and pressure, which is subsequently relayed by the GOES
+
+122
+00:08:15,300 --> 00:08:19,760
+satellites to the mainland and the supercomputers vacuuming up all possible data to help project
+
+123
+00:08:19,760 --> 00:08:21,420
+an accurate weather model.
+
+124
+00:08:21,420 --> 00:08:25,580
+The inclusion of these data may prove a good thing, too, as the same time that this weather
+
+125
+00:08:25,580 --> 00:08:30,120
+balloon floating over Minnesota is picking up an inbound high-pressure front, this buoy,
+
+126
+00:08:30,120 --> 00:08:35,800
+number 42019 off the coast of Texas, is reading an above-average air temperature and a below-average
+
+127
+00:08:35,800 --> 00:08:36,900
+air pressure.
+
+128
+00:08:36,900 --> 00:08:42,300
+For local forecasters, buoy station 42019, along with other readings, hint at a developing
+
+129
+00:08:42,300 --> 00:08:46,360
+low-pressure front—some rain might be arriving along the gulf here soon.
+
+130
+00:08:46,360 --> 00:08:50,600
+But as weather models render, taking into account both an arctic front descending across
+
+131
+00:08:50,600 --> 00:08:55,240
+the Midwest and a warm, moisture-laden front developing across the gulf, a little rain
+
+132
+00:08:55,240 --> 00:08:59,340
+might soon be the least of the NWS's worries.
+
+133
+00:08:59,340 --> 00:09:04,100
+Weather develops at very different scales into very different consequences.
+
+134
+00:09:04,100 --> 00:09:08,880
+To protect the individual, the thousands, and the millions, the NWS has to predict weather
+
+135
+00:09:08,880 --> 00:09:11,640
+developments at varying scales.
+
+136
+00:09:11,640 --> 00:09:16,300
+These predictions of all size and shape all largely emanate from here—the National Centers
+
+137
+00:09:16,300 --> 00:09:21,140
+for Environmental Predictions Weather Prediction Center, where data from balloons, buoys, planes,
+
+138
+00:09:21,140 --> 00:09:24,800
+and satellites the world over pours into various weather models.
+
+139
+00:09:24,800 --> 00:09:30,640
+While the NWS produces a bevy of different models, they broadly all work the same.
+
+140
+00:09:30,640 --> 00:09:36,220
+In each, numbers representing observed environmental conditions are plugged into a myriad of equations,
+
+141
+00:09:36,220 --> 00:09:40,520
+the results of which, once overlaid on a map, offer both an approximate snapshot of the
+
+142
+00:09:40,520 --> 00:09:45,040
+current atmospheric conditions and a simulated future that predicts how weather patterns
+
+143
+00:09:45,040 --> 00:09:46,400
+will develop and move.
+
+144
+00:09:46,740 --> 00:09:51,180
+While the same data, the same math, and the same laws of physics undergird all-weather
+
+145
+00:09:51,180 --> 00:09:56,420
+modeling, it's a model's resolution and range that differentiates one from the next.
+
+146
+00:09:56,420 --> 00:10:01,820
+The high-resolution rapid refresh model, for example, with its 2-mile, 3-kilometer resolution,
+
+147
+00:10:01,820 --> 00:10:07,040
+its real-time visualizations, and its every-hour updating, offers unmatched detail and accuracy
+
+148
+00:10:07,040 --> 00:10:11,420
+on the development of rapid-moving thunderstorms over the next hour, providing meteorologists
+
+149
+00:10:11,420 --> 00:10:14,020
+more confidence in offering severe weather warnings.
+
+150
+00:10:14,560 --> 00:10:18,960
+What it can't do is zoom out temporally or spatially to forecast nationwide developments
+
+151
+00:10:18,960 --> 00:10:22,480
+even hours into the future—its scope is too focused.
+
+152
+00:10:22,480 --> 00:10:27,720
+It can tell you to evacuate now, but can't help you decide to bring a rain jacket tomorrow.
+
+153
+00:10:27,720 --> 00:10:32,240
+To help inform such important decisions between rain jackets or sunscreen, meteorologists
+
+154
+00:10:32,240 --> 00:10:37,680
+use the North American Mesoscale model, which offers lower resolution than the HRRR, but
+
+155
+00:10:37,680 --> 00:10:41,800
+identifies patterns that forecast their paths out to 61 hours.
+
+156
+00:10:41,800 --> 00:10:46,860
+For an even broader picture, the NWS relies on the Global Forecast System, which again
+
+157
+00:10:46,860 --> 00:10:50,940
+takes a broader view than the NAM, but is able to interpret atmospheric patterns and
+
+158
+00:10:50,940 --> 00:10:55,940
+weather developments of global scale and to predict out to 10 days in the future—critical
+
+159
+00:10:55,940 --> 00:10:59,380
+in tracking the long developments of hurricanes, for instance.
+
+160
+00:10:59,380 --> 00:11:03,260
+Together, these models are incredibly powerful predictive tools.
+
+161
+00:11:03,260 --> 00:11:07,940
+Running all these models, in turn, requires incredibly powerful computers.
+
+162
+00:11:07,960 --> 00:11:12,760
+What makes all these models possible are two of the largest supercomputers in the US.
+
+163
+00:11:12,760 --> 00:11:17,280
+In the wake of the NWS's Global Forecast System failing to identify the dangerous potential
+
+164
+00:11:17,280 --> 00:11:21,440
+of Hurricane Sandy, Congress greenlit increased funding for NOAA.
+
+165
+00:11:21,440 --> 00:11:26,280
+The result was the 2016 announcement that NOAA had increased its computing power tenfold
+
+166
+00:11:26,280 --> 00:11:30,980
+with the introduction of two supercomputers in Reston, Virginia and Orlando, Florida.
+
+167
+00:11:30,980 --> 00:11:35,960
+The $45 million dollar addition put the 18th fastest computer in the US in the hands of
+
+168
+00:11:35,960 --> 00:11:41,540
+NOAA, which effectively evened the playing field between the NWS and its European counterpart.
+
+169
+00:11:41,540 --> 00:11:45,620
+Doubling down on the modernization effort, NOAA again invested in its supercomputers
+
+170
+00:11:45,620 --> 00:11:51,100
+in 2018, adding 60% more storage and more than doubling their computing capacity—moves
+
+171
+00:11:51,100 --> 00:11:56,220
+which made room for updates and improvements to its models, from the HRRR to the GFS.
+
+172
+00:11:56,220 --> 00:12:01,080
+Importantly, and further justifying such investment, these supercomputers are not only tasked to
+
+173
+00:12:01,080 --> 00:12:06,660
+run and re-run and re-run atmospheric models all day, every day, they're also tasked
+
+174
+00:12:06,660 --> 00:12:11,440
+with creating ensemble models—effectively running these same models time and time again
+
+175
+00:12:11,440 --> 00:12:16,020
+with the parameters slightly changed to reflect the random chance of real-world weather and
+
+176
+00:12:16,020 --> 00:12:20,260
+therefore give forecasters an idea of the degree of uncertainty for a given prediction.
+
+177
+00:12:20,260 --> 00:12:24,820
+If the forecast holds up despite the random chance thrown in by the ensemble model, it's
+
+178
+00:12:24,820 --> 00:12:26,780
+more certain, and vice versa.
+
+179
+00:12:26,800 --> 00:12:32,040
+Together, these various models and the supercomputers that run them non-stop are immensely complex
+
+180
+00:12:32,040 --> 00:12:33,440
+and extremely expensive.
+
+181
+00:12:33,440 --> 00:12:39,080
+In the past they have proven incredibly valuable when extreme weather arises, and in the future,
+
+182
+00:12:39,080 --> 00:12:44,520
+as far-flowing disparate signs of storms quietly develop, they'll prove critical to meteorologists
+
+183
+00:12:44,520 --> 00:12:46,160
+again.
+
+184
+00:12:46,160 --> 00:12:49,800
+Hours after the launch of a weather balloon in Minnesota, and a Buies upload off the coast
+
+185
+00:12:49,800 --> 00:12:54,800
+of Texas on an early March day, they're proving their worth again as GFS forecasts
+
+186
+00:12:54,820 --> 00:12:59,460
+and then ensemble GFS forecasts are beginning to project with higher confidence that a storm
+
+187
+00:12:59,460 --> 00:13:02,900
+of significant destructive potential may be brewing.
+
+188
+00:13:02,900 --> 00:13:07,720
+In the days prior, as millibars dropped over Texas, GFS models had identified the early
+
+189
+00:13:07,720 --> 00:13:11,420
+stages of what meteorologists call a Gulf Low.
+
+190
+00:13:11,420 --> 00:13:15,260
+Now with Buies proving such predictions correct, and with the concurrent development of a drop
+
+191
+00:13:15,260 --> 00:13:19,820
+in cold front, they can now predict its direction and potential severity.
+
+192
+00:13:19,820 --> 00:13:23,800
+While this Gulf Low seems to be mirroring historical patterns in that it too is primed
+
+193
+00:13:23,820 --> 00:13:28,020
+to move a mountain of moisture out of the Gulf of Mexico, this particular storm, thanks
+
+194
+00:13:28,020 --> 00:13:32,140
+to the deepening cold front and a U-shaped gulf stream, doesn't look like it will track
+
+195
+00:13:32,140 --> 00:13:36,320
+along the western edge of the Appalachians, but rather through some of the most densely
+
+196
+00:13:36,320 --> 00:13:39,420
+populated regions of the American East Coast.
+
+197
+00:13:39,420 --> 00:13:45,780
+According to GFS forecasting, snow, and a lot of it, is headed northeast.
+
+198
+00:13:45,780 --> 00:13:49,620
+Of course, forecasts are meaningless by themselves.
+
+199
+00:13:49,620 --> 00:13:53,960
+To avoid the disaster of an unprepared populace in the firing line of an impending winter
+
+200
+00:13:53,960 --> 00:13:59,080
+storm, plows still in the parking lot, stores without extra stock, kids still in school,
+
+201
+00:13:59,080 --> 00:14:03,880
+commuters on the road at the wrong time, the National Weather Service has to actually communicate
+
+202
+00:14:03,880 --> 00:14:05,440
+what's to come.
+
+203
+00:14:05,440 --> 00:14:11,520
+To achieve this, the agency has 122 weather forecast offices distributed across the 50
+
+204
+00:14:11,520 --> 00:14:16,620
+states, Puerto Rico, and Guam, each responsible for a dedicated zone of the country.
+
+205
+00:14:16,620 --> 00:14:21,380
+A couple dozen staff in each work 24-7 to interpret models and issue forecasts for their
+
+206
+00:14:21,380 --> 00:14:23,120
+surrounding region.
+
+207
+00:14:23,120 --> 00:14:26,880
+Perhaps most importantly, though, they monitor and issue alerts for the most localized and
+
+208
+00:14:26,880 --> 00:14:32,020
+often most dangerous threats—severe thunderstorm, flash flood, tornado warnings, and more all
+
+209
+00:14:32,020 --> 00:14:34,200
+come from local WFOs.
+
+210
+00:14:34,200 --> 00:14:38,460
+The on-the-ground presence also allows WFOs to tailor their activities to what's necessary
+
+211
+00:14:38,460 --> 00:14:40,140
+for the people they serve.
+
+212
+00:14:40,140 --> 00:14:45,620
+The Fairbanks, Alaska WFO issues a daily climbing weather forecast for nearby Denali, America's
+
+213
+00:14:45,620 --> 00:14:46,700
+tallest mountain.
+
+214
+00:14:46,700 --> 00:14:51,280
+The Dodge City, Kansas WFO, surrounded by hundreds of miles of wheat fields, reports
+
+215
+00:14:51,280 --> 00:14:54,680
+daily soil temperatures so farmers can optimize their yields.
+
+216
+00:14:54,680 --> 00:14:59,360
+The Grand Junction, Colorado WFO monitors and reports fire weather conditions, alerting
+
+217
+00:14:59,360 --> 00:15:03,260
+the wildfire-prone area it's responsible for to the daily risk of one starting and
+
+218
+00:15:03,260 --> 00:15:08,260
+spreading and therefore informing campfire bans, electric grid shutdowns, and more.
+
+219
+00:15:08,260 --> 00:15:13,700
+Like most WFOs in fire-prone areas, the Grand Junction office also staffs an incident meteorologist
+
+220
+00:15:13,700 --> 00:15:17,500
+who is prepared to quickly deploy to the field and embed in a wildfire camp to issue
+
+221
+00:15:17,500 --> 00:15:22,220
+highly specific forecasts used by aerial firefighting pilots, hotshot crews, and other firefighters
+
+222
+00:15:22,220 --> 00:15:24,620
+to safely approach and attack the burn.
+
+223
+00:15:24,620 --> 00:15:30,220
+Finally, the local WFOs are responsible for many of the NWS's on-the-ground operations,
+
+224
+00:15:30,220 --> 00:15:34,140
+from maintaining Doppler radars and automated surface observation stations, to running the
+
+225
+00:15:34,140 --> 00:15:37,900
+local NWS twitter account, and far, far more.
+
+226
+00:15:37,900 --> 00:15:43,560
+Ultimately, though, certain weather is just too big or otherworldly to be handled by small,
+
+227
+00:15:43,560 --> 00:15:44,900
+local WFOs.
+
+228
+00:15:44,900 --> 00:15:47,800
+For that, there are the national offices.
+
+229
+00:15:47,800 --> 00:15:48,800
+Some are straightforward.
+
+230
+00:15:48,800 --> 00:15:54,560
+Rivers, for example, run for hundreds or thousands of miles through countless WFO zones, so there's
+
+231
+00:15:54,560 --> 00:15:59,100
+an additional system of 13 river forecast centers that split up the lower 48 and Alaska
+
+232
+00:15:59,100 --> 00:16:04,460
+more or less based on watershed, issuing forecasts for their rivers' flows and, most importantly,
+
+233
+00:16:04,460 --> 00:16:05,920
+their flood risk.
+
+234
+00:16:05,920 --> 00:16:10,400
+Perhaps the best known of these national offices is the National Hurricane Center, based in
+
+235
+00:16:10,400 --> 00:16:14,560
+a bunker-like building in Miami, Florida that's designed and certified to survive
+
+236
+00:16:14,560 --> 00:16:18,740
+and operate through a category 5 hurricane—the most severe level.
+
+237
+00:16:18,740 --> 00:16:23,560
+They have the stressful task of predicting the paths and intensities of hurricanes.
+
+238
+00:16:23,560 --> 00:16:26,660
+If they get it right and people prepare, lives will be saved.
+
+239
+00:16:26,660 --> 00:16:31,280
+If they miss the forecast, lives will be lost, and they potentially do this all while a hurricane
+
+240
+00:16:31,280 --> 00:16:33,000
+passes directly over them.
+
+241
+00:16:33,000 --> 00:16:36,780
+For this reason, the system is structured so the National Weather Prediction Center
+
+242
+00:16:36,780 --> 00:16:40,660
+in College Park, Maryland is prepared to take over responsibilities in an instant if
+
+243
+00:16:40,660 --> 00:16:44,660
+the Miami Center goes offline during a storm, while there's also an additional office
+
+244
+00:16:44,660 --> 00:16:50,420
+in Honolulu, Hawaii that staffs up if a comparatively rare Central Pacific hurricane forms.
+
+245
+00:16:50,420 --> 00:16:54,500
+Most uniquely, the National Weather Service is also responsible for forecasting the weather
+
+246
+00:16:54,500 --> 00:16:58,860
+not only beyond the borders of the US, but beyond the borders of this world.
+
+247
+00:16:58,860 --> 00:17:02,940
+The NWUS's Space Weather Prediction Center in Boulder, Colorado takes in data from the
+
+248
+00:17:02,940 --> 00:17:07,780
+GOES satellites and terrestrial sensors to report current and forecast future solar radiation
+
+249
+00:17:07,780 --> 00:17:09,640
+and other space weather.
+
+250
+00:17:09,640 --> 00:17:13,900
+This isn't just for the novelty, as high solar radiation activity, for example, can
+
+251
+00:17:13,900 --> 00:17:15,740
+impact the human world.
+
+252
+00:17:15,740 --> 00:17:20,120
+High frequency radio gets disrupted during solar flares, so commercial aircraft can't
+
+253
+00:17:20,120 --> 00:17:23,500
+fly routes over the poles where they rely on it to talk to air traffic control if the
+
+254
+00:17:23,500 --> 00:17:28,480
+center is forecasted high levels of radiation—and that's just the very start of issues solar
+
+255
+00:17:28,480 --> 00:17:29,780
+flares can cause.
+
+256
+00:17:30,300 --> 00:17:34,800
+Ultimately, though, the totality of the National Weather Service's work, the thousands of
+
+257
+00:17:34,800 --> 00:17:39,060
+hourly observations from across the world and beyond, the full processing might of two
+
+258
+00:17:39,060 --> 00:17:44,460
+incredible supercomputers, the collective efforts of thousands of highly trained individuals,
+
+259
+00:17:44,460 --> 00:17:51,220
+all distills down to this—a couple-megabyte XML data feed updated every few minutes.
+
+260
+00:17:51,220 --> 00:17:55,780
+Generally, people don't get the weather directly from the National Weather Service—they
+
+261
+00:17:55,780 --> 00:17:59,620
+get it from the weather app on their phone, the TV meteorologist, or whatever's most
+
+262
+00:17:59,620 --> 00:18:01,340
+convenient for them.
+
+263
+00:18:01,340 --> 00:18:04,780
+Nearly every source of weather information in the US relies on the work of the National
+
+264
+00:18:04,780 --> 00:18:09,520
+Weather Service, even if it's repackaged and rebranded, so the NWUS works to make these
+
+265
+00:18:09,520 --> 00:18:13,700
+data abundantly accessible to those that get it to the end user.
+
+266
+00:18:13,700 --> 00:18:18,160
+These XML data feeds are a major source, providing a structured set of current conditions and
+
+267
+00:18:18,160 --> 00:18:22,380
+forecasts that can be quickly adapted and interpreted by software, and everyone, from
+
+268
+00:18:22,380 --> 00:18:27,320
+individuals to commercial companies, is legally allowed to use these data since, as a production
+
+269
+00:18:27,320 --> 00:18:32,220
+of the US government, it is not copyrighted and does not require a license.
+
+270
+00:18:32,220 --> 00:18:36,860
+Of course, the times when weather information is most important are often also the times
+
+271
+00:18:36,860 --> 00:18:41,660
+when communications are most difficult—the internet and TV might not be accessible when
+
+272
+00:18:41,660 --> 00:18:42,860
+it really matters.
+
+273
+00:18:42,860 --> 00:18:48,460
+Therefore, some 95% of the US population is within range of a NOAA weather radio station,
+
+274
+00:18:48,460 --> 00:18:53,260
+which automatically broadcasts a 24-7 feed of conditions and forecasts.
+
+275
+00:18:53,260 --> 00:18:57,900
+As a last resort, the National Weather Service also runs the Emergency Managers Weather Information
+
+276
+00:18:57,900 --> 00:19:02,220
+Network, which uses their GOES satellites to broadcast a data feed down to earth that
+
+277
+00:19:02,220 --> 00:19:06,540
+uniquely is accessible to anyone with a compatible satellite receiver.
+
+278
+00:19:06,540 --> 00:19:12,320
+This data feed, available at 1694.1 MHz, includes all the information of conditions and forecasts
+
+279
+00:19:12,320 --> 00:19:17,060
+for sites across the US, and even includes these visual forecasts, satellite imagery,
+
+280
+00:19:17,060 --> 00:19:21,580
+and other images for onward use—allowing TV stations, emergency managers, and others
+
+281
+00:19:21,580 --> 00:19:26,900
+to access this crucial information regardless of the condition of the world around them.
+
+282
+00:19:26,900 --> 00:19:32,440
+In sum, this is how the National Weather Service tells the East Coast a snowstorm is coming.
+
+283
+00:19:32,440 --> 00:19:37,140
+All it requires is a couple of satellites and supercomputers, hundreds of radars, observation
+
+284
+00:19:37,140 --> 00:19:41,640
+stations, buoys, weather balloons, aircraft, and weather forecast offices, and thousands
+
+285
+00:19:41,640 --> 00:19:47,240
+upon thousands of dedicated staff and volunteers.
+
+286
+00:19:47,240 --> 00:19:50,280
+Rather than do the normal style of ad, since given the fact that you're watching this
+
+287
+00:19:50,280 --> 00:19:54,760
+it hasn't convinced you yet, this time I'm going to count down the top ten of the many
+
+288
+00:19:54,760 --> 00:19:58,360
+reasons why you should sign up for the Nebula CuriosityStream bundle deal.
+
+289
+00:19:58,360 --> 00:20:02,720
+Ten, you can watch this and all of our regular videos without ads or sponsorships.
+
+290
+00:20:02,720 --> 00:20:07,680
+Nine, you can watch other channels like RealLifeLore, Notchish Bikes, Mustard, and far more also
+
+291
+00:20:07,680 --> 00:20:09,360
+ad and sponsorship free.
+
+292
+00:20:09,360 --> 00:20:13,000
+Eight, you can watch all of these different big-budget originals that we've made—we've
+
+293
+00:20:13,000 --> 00:20:15,520
+put a ton of work into each and I think they're all great.
+
+294
+00:20:15,520 --> 00:20:19,760
+Seven, you can watch every episode from our new channel, Jetlagged the Game, a full week
+
+295
+00:20:19,760 --> 00:20:20,760
+early.
+
+296
+00:20:20,760 --> 00:20:24,480
+Six, you can watch all sorts of originals by other independent creators—I'd recommend
+
+297
+00:20:24,480 --> 00:20:28,000
+Patrick Williams' Night of the Coconut, which is a feature-length multiverse film
+
+298
+00:20:28,000 --> 00:20:32,720
+about a genocidal coconut—it's tough to explain but it's so much fun and so well-made
+
+299
+00:20:32,720 --> 00:20:34,800
+and even includes a cameo by me.
+
+300
+00:20:34,800 --> 00:20:39,900
+Five, you can discover other fantastic channels, as Nebula only includes a curated group of
+
+301
+00:20:39,900 --> 00:20:42,480
+high-quality, thoughtful creators.
+
+302
+00:20:42,480 --> 00:20:46,200
+One that I love in a very different genre is Berm Peak, where Seth brings his audience
+
+303
+00:20:46,200 --> 00:20:50,940
+along to his unbelievable mountain bike trail-building projects in a way that even people with absolutely
+
+304
+00:20:50,940 --> 00:20:53,040
+no affinity for bikes enjoy.
+
+305
+00:20:53,040 --> 00:20:57,160
+Four, you can watch the smart, thoughtful content you clearly enjoy without an algorithm
+
+306
+00:20:57,160 --> 00:21:00,760
+surfacing other clickbaity videos to pull your attention away—it's just you and
+
+307
+00:21:00,760 --> 00:21:04,440
+the videos, without a platform designed to suck you in for as long as possible.
+
+308
+00:21:04,440 --> 00:21:08,360
+Three, by watching through Nebula, you'll support all these independent creators and
+
+309
+00:21:08,360 --> 00:21:12,440
+assure they make a stable income that helps them keep creating everything you love watching.
+
+310
+00:21:12,440 --> 00:21:17,280
+Two, by signing up through our link, CuriosityStream.com slash Wendover, you'll get the bundle deal
+
+311
+00:21:17,280 --> 00:21:21,520
+with CuriosityStream included, meaning you also get access to their fantastic catalog
+
+312
+00:21:21,520 --> 00:21:26,840
+of top-notch non-fiction shows and documentaries, like Containership XXL, about how the largest
+
+313
+00:21:26,840 --> 00:21:29,840
+container ship in existence was designed and built.
+
+314
+00:21:29,840 --> 00:21:36,600
+And number one, all of this costs just $14.79 for a year—that's less than you probably
+
+315
+00:21:36,600 --> 00:21:41,160
+pay for a month of the other streaming services you use, and this is two of them that you'll
+
+316
+00:21:41,160 --> 00:21:42,160
+actually use.
+
+317
+00:21:42,160 --> 00:21:45,720
+So, click the button on screen or head to CuriosityStream.com slash Wendover to sign
+
+318
+00:21:45,720 --> 00:21:48,880
+up for the bundle deal, and thanks in advance for your support.
+

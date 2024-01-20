@@ -1,0 +1,1096 @@
+1
+00:00:00,000 --> 00:00:07,480
+In 2013, Jeff Bezos introduced the world to a concept that promised to revolutionize delivery.
+
+2
+00:00:07,480 --> 00:00:12,840
+Bezos kept telling us that he did have a big surprise, something he wanted to unveil for
+
+3
+00:00:12,840 --> 00:00:14,080
+the first time.
+
+4
+00:00:14,080 --> 00:00:17,280
+But there's no reason that they can't be used as delivery vehicles.
+
+5
+00:00:17,280 --> 00:00:22,880
+Within a matter of years, autonomous drones would engulf cities, sweeping across skies,
+
+6
+00:00:22,880 --> 00:00:26,840
+delivering packages to front yards just 30 minutes after their order.
+
+7
+00:00:26,880 --> 00:00:31,880
+The announcement floored Charlie Rose and America alike, grabbing headlines for weeks
+
+8
+00:00:31,880 --> 00:00:36,640
+and setting off fiery debates over just how disruptive the disruptive technology would
+
+9
+00:00:36,640 --> 00:00:37,640
+be.
+
+10
+00:00:37,640 --> 00:00:42,480
+Drones would offer urban and suburban consumers a clean, quick, convenient delivery option
+
+11
+00:00:42,480 --> 00:00:47,480
+for food, medicine, or whatever else five pounds or less without burning fossil fuels,
+
+12
+00:00:47,480 --> 00:00:50,560
+without getting stuck in traffic, without making them wait.
+
+13
+00:00:50,560 --> 00:00:54,780
+The idea was far-fetched, it was exciting, it was the future arriving in front of our
+
+14
+00:00:54,780 --> 00:01:00,080
+very eyes, and it signaled that the race to take delivery drones to market was on.
+
+15
+00:01:00,080 --> 00:01:04,280
+By the time Amazon landed its first package, Zipline was already delivering medical supplies
+
+16
+00:01:04,280 --> 00:01:09,420
+in Rwanda, SkyDrop had flown a 7-Eleven Slurpee and a Domino's Pizza straight to consumers,
+
+17
+00:01:09,420 --> 00:01:13,020
+and Google's Project Wing had airdropped burritos to hungry college kids.
+
+18
+00:01:13,020 --> 00:01:18,140
+A wave of startups sent their maiden drone delivery skyward to much media fanfare, while
+
+19
+00:01:18,140 --> 00:01:24,020
+major parcel couriers—DHL, UPS, FedEx—substantiated the hype by partnering with the budding tech
+
+20
+00:01:24,020 --> 00:01:27,540
+companies set to help solve their last-mile problems.
+
+21
+00:01:27,540 --> 00:01:32,380
+Inventors, investors, eccentric billionaires, and the world's biggest companies were all
+
+22
+00:01:32,380 --> 00:01:34,180
+pulling the same rope.
+
+23
+00:01:34,180 --> 00:01:36,900
+Anything, anywhere, anytime.
+
+24
+00:01:36,900 --> 00:01:40,240
+The dark days of DoorDash and two-day delivery were over.
+
+25
+00:01:40,240 --> 00:01:43,800
+The drone delivery era was coming.
+
+26
+00:01:43,800 --> 00:01:44,800
+Or so it seemed.
+
+27
+00:01:44,800 --> 00:01:50,500
+It's now 2022, and save for the smallest fraction of a percent of people, it's not
+
+28
+00:01:50,500 --> 00:01:54,480
+automated drones dropping off your small packages and food orders.
+
+29
+00:01:54,480 --> 00:01:58,500
+Pizzas aren't falling from the sky, they're showing up in the hands of a high schooler.
+
+30
+00:01:58,500 --> 00:02:02,300
+Burritos aren't delicately dropped on your lawn from above, they're left on your doorstep
+
+31
+00:02:02,300 --> 00:02:03,820
+by a hustling gig worker.
+
+32
+00:02:03,820 --> 00:02:08,340
+Your Amazon order won't show up in 30 minutes, it probably won't even show up same day.
+
+33
+00:02:08,340 --> 00:02:14,100
+The world 60 Minutes introduced in 2013, the world that felt closer and closer to reality
+
+34
+00:02:14,100 --> 00:02:18,380
+with every inaugural delivery, just isn't here.
+
+35
+00:02:18,380 --> 00:02:22,360
+Fundamentally, the fast delivery niche still exists.
+
+36
+00:02:22,360 --> 00:02:27,040
+The last mile still accounts for around 40% of partial shipping costs, roads are still
+
+37
+00:02:27,040 --> 00:02:31,540
+increasingly clogged with traffic, green shipping alternatives are still desperately needed,
+
+38
+00:02:31,540 --> 00:02:35,580
+and consumers still want products as cheap and fast as possible.
+
+39
+00:02:35,580 --> 00:02:39,840
+Outside of a few specific locations, drone delivery has yet to take off, and in those
+
+40
+00:02:39,840 --> 00:02:43,740
+few specific locations, it's hardly more than a proof of concept.
+
+41
+00:02:43,740 --> 00:02:48,280
+Certainly, delays are understood, expected even, when it comes to the acceptance of a
+
+42
+00:02:48,280 --> 00:02:50,060
+disruptive technology.
+
+43
+00:02:50,060 --> 00:02:54,900
+Delayed acceptance, though, is at very most, only part of the story.
+
+44
+00:02:54,900 --> 00:03:00,640
+In 2021, Amazon fired staff and closed its prime-air offices in the UK.
+
+45
+00:03:00,640 --> 00:03:05,500
+From the former center of Amazon's drone project emerged stories of mismanagement and
+
+46
+00:03:05,500 --> 00:03:06,500
+disarray.
+
+47
+00:03:06,500 --> 00:03:11,540
+Employees drank beers at their desks, managers were given no direction, executives ignored
+
+48
+00:03:11,540 --> 00:03:14,660
+the stalling division aside from the occasional pizza party.
+
+49
+00:03:14,660 --> 00:03:18,980
+While the company responded to these reports with a statement affirming its continued investment
+
+50
+00:03:18,980 --> 00:03:23,380
+in drone delivery, Amazon hasn't released any promotional material for the project since
+
+51
+00:03:23,380 --> 00:03:28,260
+2016, and Prime Air's website doesn't seem to have been updated in years.
+
+52
+00:03:28,260 --> 00:03:33,060
+The most generous possible interpretation is that the Amazon project is definitively
+
+53
+00:03:33,060 --> 00:03:36,140
+on the backburner—others aren't even there.
+
+54
+00:03:36,460 --> 00:03:41,580
+While Amazon remains quiet on their future intentions, DHL announced in summer 2021 that
+
+55
+00:03:41,580 --> 00:03:47,060
+it was officially abandoning its Parcelcopter project nearly eight years after its maiden
+
+56
+00:03:47,060 --> 00:03:48,060
+flight.
+
+57
+00:03:48,060 --> 00:03:52,340
+So, two of the most important drone delivery companies put their programs on ice, few companies
+
+58
+00:03:52,340 --> 00:03:56,960
+are getting the investments they used to, and no company has yet realized the imminent
+
+59
+00:03:56,960 --> 00:04:01,060
+future of widespread operations laid out a decade ago.
+
+60
+00:04:01,060 --> 00:04:05,220
+So, what went so wrong with drone delivery?
+
+61
+00:04:06,580 --> 00:04:12,620
+Well, this is Phoenix—a sprawling desert metropolis home to five million people.
+
+62
+00:04:12,620 --> 00:04:17,540
+On first glance, Phoenix seems the perfect candidate for a drone delivery service.
+
+63
+00:04:17,540 --> 00:04:22,420
+Its year-round sunny, dry, still climate makes for easy, reliable flight conditions, its
+
+64
+00:04:22,420 --> 00:04:26,740
+autonomous innovation-friendly city and state governments would welcome them with open arms,
+
+65
+00:04:26,740 --> 00:04:31,020
+and its sprawling, low-density neighborhoods would make for countless hungry and impatient
+
+66
+00:04:31,020 --> 00:04:34,500
+residents lacking walkable dining and shopping options.
+
+67
+00:04:34,500 --> 00:04:40,440
+Surely, this is the low-hanging fruit—surely, a drone delivery company could come in, connect
+
+68
+00:04:40,440 --> 00:04:45,860
+any house with any product within minutes, and demand would immediately outstrip supply,
+
+69
+00:04:45,860 --> 00:04:46,860
+right?
+
+70
+00:04:46,860 --> 00:04:48,900
+Well, perhaps not.
+
+71
+00:04:48,900 --> 00:04:52,700
+Connecting any house with a drone delivery provider doesn't quite work, because in
+
+72
+00:04:52,700 --> 00:04:57,240
+the center of the city, right here, is Phoenix Sky Harbor International Airport.
+
+73
+00:04:57,240 --> 00:05:01,300
+In order to assure the safety of arriving and departing aircraft at the busy hub, the
+
+74
+00:05:01,300 --> 00:05:04,140
+FAA restricts the use of drones within this area.
+
+75
+00:05:04,180 --> 00:05:09,660
+So, a Phoenix drone delivery service probably just couldn't operate here, and here, in
+
+76
+00:05:09,660 --> 00:05:15,020
+the restricted airspace around Luke Air Force Base, and here, around Phoenix Goodyear Airport,
+
+77
+00:05:15,020 --> 00:05:18,580
+and here, and here, and here, here, and here.
+
+78
+00:05:18,580 --> 00:05:23,200
+It's not entirely impossible to operate drones within restricted airspace, but from
+
+79
+00:05:23,200 --> 00:05:28,740
+a legal perspective, it ranges from somewhat to extremely difficult—enough that it probably
+
+80
+00:05:28,740 --> 00:05:32,860
+wouldn't be worth pursuing for a drone delivery company at least at the start.
+
+81
+00:05:32,860 --> 00:05:35,940
+The rest of Phoenix, though, is fair game.
+
+82
+00:05:35,940 --> 00:05:36,940
+To an extent.
+
+83
+00:05:36,940 --> 00:05:40,460
+You see, drones need somewhere to deliver to, and it's gotta be safe.
+
+84
+00:05:40,460 --> 00:05:44,700
+When the concept was first introduced, the vision typically presented was of a drone
+
+85
+00:05:44,700 --> 00:05:50,540
+flying down, landing on one's lawn, releasing its delivery, then taking off and flying away.
+
+86
+00:05:50,540 --> 00:05:51,540
+That didn't work.
+
+87
+00:05:51,540 --> 00:05:53,500
+At least, not in reality.
+
+88
+00:05:53,500 --> 00:05:58,300
+Drone delivery is a novel technology, and, like any novel technology, the public views
+
+89
+00:05:58,300 --> 00:06:00,260
+it with an air of distrust.
+
+90
+00:06:00,260 --> 00:06:05,520
+The worst thing the industry could do is prove that distrust warranted with a series of high-profile
+
+91
+00:06:05,520 --> 00:06:07,180
+accidents at launch.
+
+92
+00:06:07,180 --> 00:06:11,960
+The first instance of a delivery drone injuring a customer will inevitably ignite a media
+
+93
+00:06:11,960 --> 00:06:17,320
+firestorm, which could lead to a legislative clampdown, so manufacturers naturally must
+
+94
+00:06:17,320 --> 00:06:19,900
+strive for perfection.
+
+95
+00:06:19,900 --> 00:06:22,100
+Perfection is tough to scale, though.
+
+96
+00:06:22,100 --> 00:06:25,900
+Delivery drones must act autonomously to be cost-effective, and autonomous operations
+
+97
+00:06:25,900 --> 00:06:30,660
+require computer vision and artificial intelligence able to reliably identify a clear landing
+
+98
+00:06:30,660 --> 00:06:31,660
+zone.
+
+99
+00:06:31,660 --> 00:06:35,740
+Determining whether someone is behind or in front of a window, noticing when a dog's
+
+100
+00:06:35,740 --> 00:06:39,620
+running towards the drone, knowing what's a pool and what's dry ground—these are
+
+101
+00:06:39,620 --> 00:06:44,060
+all challenging for a computer to tackle on its own, and so attaining perfection proves
+
+102
+00:06:44,060 --> 00:06:45,540
+rather difficult.
+
+103
+00:06:45,540 --> 00:06:50,540
+Therefore, whereas the logistics field generally considers the last mile of delivery the most
+
+104
+00:06:50,540 --> 00:06:55,440
+difficult, once the economies of scale are gone, drone delivery is a last-mile solution
+
+105
+00:06:55,480 --> 00:06:57,520
+with its own last foot problem.
+
+106
+00:06:57,520 --> 00:07:01,880
+It's fairly straightforward to get a drone to a couple dozen feet above the ground—getting
+
+107
+00:07:01,880 --> 00:07:05,880
+a package safely to the ground has proven more challenging.
+
+108
+00:07:05,880 --> 00:07:07,840
+Some solutions have emerged.
+
+109
+00:07:07,840 --> 00:07:12,620
+Zipline, focusing on longer-distance delivery to a set number of facilities with dedicated
+
+110
+00:07:12,620 --> 00:07:17,000
+delivery zones, drops its payload in a packaging with an attached parachute that carries it
+
+111
+00:07:17,000 --> 00:07:18,080
+to the ground.
+
+112
+00:07:18,080 --> 00:07:22,520
+MatterNet also uses dedicated zones for delivering to commercial facilities, while they've
+
+113
+00:07:22,520 --> 00:07:25,920
+developed a system of delivery stations for use by urban consumers.
+
+114
+00:07:25,920 --> 00:07:30,440
+Uber Eats, meanwhile, implemented a scrappy yet inefficient system where delivery drones
+
+115
+00:07:30,440 --> 00:07:34,680
+would land on top of delivery drivers' cars, then those delivery drivers would walk the
+
+116
+00:07:34,680 --> 00:07:36,640
+food to the customer's door.
+
+117
+00:07:36,640 --> 00:07:40,840
+Most solutions for the last foot problem, however, have gravitated towards one method.
+
+118
+00:07:40,840 --> 00:07:44,960
+Wing, Skydrop, Flytrek's Wingcopter, and others have developed systems where their
+
+119
+00:07:44,960 --> 00:07:48,940
+drones hover above the destination at a safe height and lower their payloads to the ground
+
+120
+00:07:48,940 --> 00:07:54,180
+using cords—far less risky than landing a heavy drone propelled by fast-moving rotors.
+
+121
+00:07:54,180 --> 00:07:59,620
+What all these solutions have in common is that they require a roomy, controlled, obstruction-free
+
+122
+00:07:59,620 --> 00:08:02,380
+area to make their final deliveries.
+
+123
+00:08:02,380 --> 00:08:07,020
+However, in the places where people actually live, that's hardly a given.
+
+124
+00:08:07,020 --> 00:08:10,980
+Yards are the best delivery zones that are widespread, but not everyone has a yard.
+
+125
+00:08:10,980 --> 00:08:15,220
+While it's a safe bet for single-family homes in an area like Phoenix, it can be hit
+
+126
+00:08:15,220 --> 00:08:19,580
+or miss whether multifamily homes and apartment buildings have a big enough yard, and even
+
+127
+00:08:19,580 --> 00:08:23,600
+when they do, their communal nature means that the customer couldn't necessarily guarantee
+
+128
+00:08:23,600 --> 00:08:27,140
+that their landing area would be free from obstructions as would be the case with their
+
+129
+00:08:27,140 --> 00:08:28,540
+own private yard.
+
+130
+00:08:28,540 --> 00:08:32,820
+So, at least for an early drone delivery service, it probably wouldn't work in restricted
+
+131
+00:08:32,820 --> 00:08:37,100
+airspace, and probably not for anything beyond single-family homes either.
+
+132
+00:08:37,100 --> 00:08:42,240
+These, and other legal, technological, and practical constraints mean that the scope
+
+133
+00:08:42,240 --> 00:08:45,400
+of what works in terms of drone delivery is narrow.
+
+134
+00:08:45,400 --> 00:08:51,280
+It's pretty easy to start crossing off cities—Boston's winter is too harsh, New York's density inhibits
+
+135
+00:08:51,280 --> 00:08:55,680
+yards, DC's airspace is too restricted, Pittsburgh's landscape is too hilly, this
+
+136
+00:08:55,680 --> 00:08:57,120
+could go on and on.
+
+137
+00:08:57,120 --> 00:09:00,980
+While it varies by company, most delivery drones tend to be able to fly to deliveries
+
+138
+00:09:00,980 --> 00:09:03,240
+as far as about six miles away.
+
+139
+00:09:03,240 --> 00:09:07,200
+So, assuming early operations would base out of a single location to capture economies
+
+140
+00:09:07,200 --> 00:09:10,920
+of scale, meaning their drones would have to return to said location to charge after
+
+141
+00:09:10,920 --> 00:09:15,600
+each delivery, that means a viable first delivery zone in Phoenix, optimizing for a
+
+142
+00:09:15,600 --> 00:09:23,600
+large area free of airspace restrictions centered on wealthier neighborhoods, would be this—310,987
+
+143
+00:09:23,600 --> 00:09:28,000
+people live in this zone—a small chunk of the metro area's 5 million.
+
+144
+00:09:28,000 --> 00:09:33,000
+However, in Phoenix, only 63.2% of housing units are single-family, which are likely
+
+145
+00:09:33,000 --> 00:09:38,420
+to have the private yard necessary for delivery, and only 92% are occupied, meaning, in this
+
+146
+00:09:38,420 --> 00:09:43,380
+prime zone, at least extrapolating using citywide data, which is the most precise available,
+
+147
+00:09:43,380 --> 00:09:49,540
+there are only 180,820 possible users of a drone delivery service.
+
+148
+00:09:49,540 --> 00:09:54,420
+This is clearly an imprecise methodology, but it's indicative of how the prospect
+
+149
+00:09:54,420 --> 00:09:59,940
+of drone delivery—the prospect of anything, anywhere, anytime—is getting diminished
+
+150
+00:09:59,940 --> 00:10:05,540
+and diminished and diminished down into a niche service for a lucky few.
+
+151
+00:10:05,660 --> 00:10:10,620
+A small system linking a strip mall to a neighborhood behind it, a fixed route flying COVID vaccines
+
+152
+00:10:10,620 --> 00:10:15,220
+from a distribution center to vaccination sites, six shops delivering to a small part
+
+153
+00:10:15,220 --> 00:10:20,020
+of a small town in Virginia—drone delivery has hardly moved beyond proof of concept,
+
+154
+00:10:20,020 --> 00:10:22,860
+and it's not even clear that they've proved the concept.
+
+155
+00:10:22,860 --> 00:10:28,540
+In 2016, when asked about same-day delivery, 70% of respondents said they were content
+
+156
+00:10:28,540 --> 00:10:34,140
+with the cheapest option, while just 23% of respondents said they'd pay more for same-day.
+
+157
+00:10:34,140 --> 00:10:39,020
+For drones to prove commercially viable, they need to decisively corner that quarter of
+
+158
+00:10:39,020 --> 00:10:43,940
+more willing customers, and to become ubiquitous, they'd likely need to operate at no extra
+
+159
+00:10:43,940 --> 00:10:46,780
+charge from ground delivery at all.
+
+160
+00:10:46,780 --> 00:10:51,220
+Most people, it turns out, are simply okay with waiting a day or two for their packages,
+
+161
+00:10:51,220 --> 00:10:55,540
+while all want them delivered as quickly and cheaply as possible.
+
+162
+00:10:55,540 --> 00:11:01,100
+When the drone delivery hype hit fewer pitch, one bit of nuance went overlooked.
+
+163
+00:11:01,100 --> 00:11:06,300
+Consumers simply don't care about how a package gets from B to C, so long as it's
+
+164
+00:11:06,300 --> 00:11:08,140
+quick, cost-efficient, and reliable.
+
+165
+00:11:08,140 --> 00:11:12,820
+They'd opt for a new technology once for the novelty, but by the 100th time, that wears
+
+166
+00:11:12,820 --> 00:11:13,820
+off.
+
+167
+00:11:13,820 --> 00:11:16,020
+Eventually, rationality will return.
+
+168
+00:11:16,020 --> 00:11:20,560
+In fact, when surveyed in 2020, consumers perceived drones to potentially threaten those
+
+169
+00:11:20,560 --> 00:11:22,540
+most important factors for them.
+
+170
+00:11:22,540 --> 00:11:26,420
+They said they were uncertain about drones' reliability, cost, and were worried about
+
+171
+00:11:26,420 --> 00:11:28,500
+the job loss they could incite.
+
+172
+00:11:28,500 --> 00:11:32,440
+Meanwhile, competitors have figured out a number of low-tech solutions that fulfill
+
+173
+00:11:32,440 --> 00:11:36,980
+these consumer desires—look no further than food delivery apps.
+
+174
+00:11:36,980 --> 00:11:42,600
+Since 2017, the very moment when drone delivery hype hit fever pitch, the food delivery industry
+
+175
+00:11:42,600 --> 00:11:48,400
+has tripled in size, ballooning into a $150 billion sector globally.
+
+176
+00:11:48,400 --> 00:11:53,040
+In this, speed matters and consumers expect to pay for the delivery cost—facts that
+
+177
+00:11:53,040 --> 00:11:55,560
+seemingly pave a lane for drone delivery.
+
+178
+00:11:55,560 --> 00:12:00,560
+But between Uber Eats, Grubhub, and DoorDash, the power players are already established,
+
+179
+00:12:00,560 --> 00:12:03,480
+and the competition is already fierce.
+
+180
+00:12:03,480 --> 00:12:07,640
+These comparatively low-tech companies don't even tell the consumer whether to expect their
+
+181
+00:12:07,640 --> 00:12:13,320
+burger to come by car, moped, bike, or foot—they just prioritize getting food to doors quickly,
+
+182
+00:12:13,320 --> 00:12:18,320
+pleasing the consumer regardless of method, and undercutting drone delivery in the process.
+
+183
+00:12:18,320 --> 00:12:23,480
+By and large, food delivery apps closely match the upside of drones within urban and suburban
+
+184
+00:12:23,480 --> 00:12:28,640
+areas without the hassle of complying with FAA guidelines and figuring out the last foot
+
+185
+00:12:28,640 --> 00:12:29,680
+problem.
+
+186
+00:12:29,680 --> 00:12:33,240
+Adding to the competitive problems facing drone startups, these companies and others
+
+187
+00:12:33,240 --> 00:12:37,320
+have since expanded into grocery, medicine, and goods deliveries.
+
+188
+00:12:37,320 --> 00:12:41,940
+Put simply, from the consumer perspective, the problem drone delivery was designed to
+
+189
+00:12:41,940 --> 00:12:47,440
+address has already been solved without building out a massively complicated aerial delivery
+
+190
+00:12:47,440 --> 00:12:48,440
+network.
+
+191
+00:12:48,440 --> 00:12:52,260
+The current low-tech gig economy model isn't perfect, though.
+
+192
+00:12:52,260 --> 00:12:56,860
+For consumers and restaurants alike, the usage fees are expensive, for those delivering the
+
+193
+00:12:56,860 --> 00:13:01,280
+pay is minimal, and for the big players, profit has proved elusive.
+
+194
+00:13:01,280 --> 00:13:04,020
+One partial solution is automation.
+
+195
+00:13:04,020 --> 00:13:07,460
+Here still, though, drones are likely to lose out.
+
+196
+00:13:07,460 --> 00:13:12,000
+Ground-based autonomous and semi-autonomous robotics have begun popping up in test markets
+
+197
+00:13:12,000 --> 00:13:15,340
+and partnering with the likes of Uber Eats and Grubhub to expand their reach.
+
+198
+00:13:15,340 --> 00:13:19,840
+While a recent partial ban on sidewalk wandering robots in San Francisco points to the hurdles
+
+199
+00:13:19,840 --> 00:13:25,600
+the technology faces, these hurdles just won't be as numerous as those facing drones.
+
+200
+00:13:25,600 --> 00:13:30,460
+Automation and technological advances may well help smooth out food and last-mile delivery.
+
+201
+00:13:30,460 --> 00:13:34,760
+In the near future, your prescription, your lunch order, or your afternoon coffee might
+
+202
+00:13:34,760 --> 00:13:38,300
+be showing up at your front door courtesy of an autonomous vehicle—you'll just need
+
+203
+00:13:38,300 --> 00:13:42,840
+to reach down and grab it from a robot instead of unclipping it from a drone above.
+
+204
+00:13:42,840 --> 00:13:47,760
+Now, many probably now look at drone delivery in retrospect and find it unsurprising that
+
+205
+00:13:47,760 --> 00:13:52,460
+the bombastic claims of the 2010s failed to pan out, but far fewer would have expressed
+
+206
+00:13:52,460 --> 00:13:55,560
+a dissenting opinion just five years ago.
+
+207
+00:13:55,560 --> 00:14:00,880
+That's because this is a rather classic story—that of a hype cycle.
+
+208
+00:14:00,880 --> 00:14:06,240
+A new idea comes around, a few early players start development, then something—a launch,
+
+209
+00:14:06,240 --> 00:14:12,320
+a demo, or even just a domino effect—sets off a media firestorm painting a rosy picture
+
+210
+00:14:12,320 --> 00:14:16,160
+of a future revolutionized by this new technology.
+
+211
+00:14:16,160 --> 00:14:21,260
+The story is so archetypal in tech that there's even a theoretical framework defining the
+
+212
+00:14:21,260 --> 00:14:23,680
+process—Gartner's hype cycle.
+
+213
+00:14:23,680 --> 00:14:29,420
+According to it, after that media firestorm, that peak of inflated expectations, results
+
+214
+00:14:29,420 --> 00:14:33,220
+slow and sentiment starts shifting downward.
+
+215
+00:14:33,220 --> 00:14:37,200
+Investors complain, and the public's memory fades, until the media begins coverage of
+
+216
+00:14:37,200 --> 00:14:38,660
+the purported failure.
+
+217
+00:14:38,660 --> 00:14:44,600
+The public grows disappointed, but then grows silent, and in the silence, first generations
+
+218
+00:14:44,600 --> 00:14:50,060
+are adapted into seconds, failures inform potential successes, and slowly, something
+
+219
+00:14:50,060 --> 00:14:55,680
+meaningful, albeit minor compared to the original vision, starts to work.
+
+220
+00:14:55,680 --> 00:14:56,680
+We are here.
+
+221
+00:14:56,680 --> 00:15:01,900
+While what's happening may be drowned out in the media by what's not, there are applications
+
+222
+00:15:01,900 --> 00:15:03,640
+that are starting to work.
+
+223
+00:15:03,640 --> 00:15:08,560
+Three years ago, Zipline was a small Silicon Valley startup operating a few dozen drone
+
+224
+00:15:08,560 --> 00:15:11,880
+delivery flights per day in one region of Rwanda.
+
+225
+00:15:11,880 --> 00:15:16,060
+They relied on the principle that many medical products are crucially important when used,
+
+226
+00:15:16,060 --> 00:15:21,060
+but not used regularly, and often have short shelf lives, making them tough to economically
+
+227
+00:15:21,060 --> 00:15:24,500
+and efficiently stock at smaller clinic operations.
+
+228
+00:15:24,500 --> 00:15:29,620
+In less developed regions, poor road infrastructure makes many remote clinics many hours or days
+
+229
+00:15:29,620 --> 00:15:34,280
+away from a distribution center, despite relative proximity as the crow flies.
+
+230
+00:15:34,280 --> 00:15:39,680
+Therefore, Zipline's drones acted as a quick, low-cost distribution system for necessary
+
+231
+00:15:39,680 --> 00:15:43,980
+medical products to remote areas, dotting Rwanda's rolling hills.
+
+232
+00:15:43,980 --> 00:15:48,000
+Far more places than Rwanda's southern province fit this description.
+
+233
+00:15:48,000 --> 00:15:52,100
+Nowadays, Zipline operates similar systems in the country's eastern province, four
+
+234
+00:15:52,100 --> 00:15:57,400
+regions in Ghana, the US, and a number of other locations are in active development.
+
+235
+00:15:57,400 --> 00:16:03,500
+Excitingly, the news of Zipline's impending expansion to the Ivory Coast hardly made news.
+
+236
+00:16:03,500 --> 00:16:07,520
+It wasn't written about in Wired, TechCrunch didn't publish an article about it, just
+
+237
+00:16:07,520 --> 00:16:11,440
+a simple press release and some industry and regional coverage.
+
+238
+00:16:11,440 --> 00:16:13,360
+This is progress.
+
+239
+00:16:13,360 --> 00:16:18,740
+This shows that Zipline's deployments aren't proofs of concepts, aren't publicity stunts—they're
+
+240
+00:16:18,740 --> 00:16:22,100
+actual, real, commercial implementations.
+
+241
+00:16:22,100 --> 00:16:26,740
+Crucially, Zipline didn't find a use case that drones could fulfill, they found a use
+
+242
+00:16:26,740 --> 00:16:29,720
+case that only drones could fulfill.
+
+243
+00:16:29,720 --> 00:16:35,500
+They found the healthcare use case, they found the low-hanging fruit, and other companies
+
+244
+00:16:35,500 --> 00:16:36,740
+are noticing.
+
+245
+00:16:36,760 --> 00:16:42,200
+Maternet and Wingcopter are now placing heavy emphasis on their medical potential as well.
+
+246
+00:16:42,200 --> 00:16:47,560
+As the early use case matures, cost will come down, acceptance will rise, and innovators
+
+247
+00:16:47,560 --> 00:16:51,600
+will find more uses that only the novel technology can fulfill.
+
+248
+00:16:51,600 --> 00:16:55,160
+Once one becomes clear, more must be possible.
+
+249
+00:16:55,160 --> 00:16:59,680
+Eventually, everything will creep closer to that idealistic vision first presented at
+
+250
+00:16:59,680 --> 00:17:04,560
+the peak of the hype and then, just slightly delayed behind expectations, the new technology
+
+251
+00:17:04,560 --> 00:17:09,400
+will finally have actually changed the world.
+
+252
+00:17:09,400 --> 00:17:14,300
+Unlike delivery drones, what I hope does live up to expectations is our brand new feature-length
+
+253
+00:17:14,300 --> 00:17:18,620
+documentary which came out today after almost a year of work.
+
+254
+00:17:18,620 --> 00:17:23,340
+It's called The Colorado Problem—A River in the Red, and rather than trying to describe
+
+255
+00:17:23,340 --> 00:17:27,400
+it, you're about to become one of the first people to see its trailer, but before, I need
+
+256
+00:17:27,400 --> 00:17:31,500
+to very quickly remind you that if you're not already a subscriber to CuriosityStream
+
+257
+00:17:31,500 --> 00:17:35,640
+or Nebula, the two sites where you can watch this doc, you can subscribe to them both for
+
+258
+00:17:35,640 --> 00:17:41,020
+less than $15 a year at CuriosityStream.com slash Wendover—lower than the monthly fee
+
+259
+00:17:41,020 --> 00:17:44,260
+for that big, red streaming site that just jacked up its price.
+
+260
+00:17:44,260 --> 00:17:48,740
+It's these exact subscriptions that enable us to do these big, ambitious documentary
+
+261
+00:17:48,740 --> 00:17:52,600
+projects, so a massive thank you to those of you already subscribed.
+
+262
+00:17:52,600 --> 00:17:56,720
+But now to the point, the trailer.
+
+263
+00:17:56,720 --> 00:18:00,420
+Things are worse than we're actually able to describe them right now because we just
+
+264
+00:18:00,420 --> 00:18:03,120
+don't have the language or the measurements to do that.
+
+265
+00:18:03,120 --> 00:18:04,980
+The water is essential.
+
+266
+00:18:04,980 --> 00:18:07,820
+Everything you see green out here is because of Colorado River water.
+
+267
+00:18:07,820 --> 00:18:11,180
+This would be a dry, desolate desert without this water.
+
+268
+00:18:11,180 --> 00:18:12,740
+The easy solutions are gone.
+
+269
+00:18:12,740 --> 00:18:14,540
+Their solution is our problem.
+
+270
+00:18:14,540 --> 00:18:16,840
+The stakes are high to get this right.
+
+271
+00:18:16,840 --> 00:18:26,520
+There is a plan B, and it's really ugly.
+
+272
+00:18:26,520 --> 00:18:30,860
+As a reminder, to watch this doc, click the button on screen or head to CuriosityStream.com
+
+273
+00:18:30,860 --> 00:18:35,080
+slash Wendover, and you'll get access to both CuriosityStream and Nebula for less than
+
+274
+00:18:35,080 --> 00:18:36,720
+$15 a year.
+

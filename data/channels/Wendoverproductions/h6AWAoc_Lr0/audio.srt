@@ -1,0 +1,380 @@
+1
+00:00:00,000 --> 00:00:07,440
+Today, we're going to talk about space law.
+
+2
+00:00:07,440 --> 00:00:11,840
+So back in ye old days, property owners had the rights to their land going up forever
+
+3
+00:00:11,840 --> 00:00:14,160
+and ever in perpetuity.
+
+4
+00:00:14,160 --> 00:00:17,720
+But then the airplane came around and smart people realized that you couldn't just go
+
+5
+00:00:17,720 --> 00:00:22,320
+around asking every property owner for permission to fly through their airspace.
+
+6
+00:00:22,320 --> 00:00:26,560
+So governments decided that they would own the air above a certain level.
+
+7
+00:00:26,560 --> 00:00:31,560
+In general, governments decided that property owners owned their land up to 500 feet above
+
+8
+00:00:31,560 --> 00:00:36,800
+ground level and then the air above that, going up infinitely, was to be owned and controlled
+
+9
+00:00:36,800 --> 00:00:38,460
+by the government.
+
+10
+00:00:38,460 --> 00:00:42,500
+This made life easier for airplanes, but then America invented space and that made things
+
+11
+00:00:42,500 --> 00:00:44,480
+a little more complicated.
+
+12
+00:00:44,480 --> 00:00:48,820
+In most cases, satellites and spacecraft orbit around the earth so it would be a logistical
+
+13
+00:00:48,820 --> 00:00:54,240
+nightmare to request permission to enter into the airspace of each nation in an orbit.
+
+14
+00:00:54,280 --> 00:00:57,920
+Once again, smart people got together and decided that those air rights that countries
+
+15
+00:00:57,920 --> 00:01:01,640
+had given themselves should end at a certain level.
+
+16
+00:01:01,640 --> 00:01:05,040
+Different countries say different things, but all of them agree that somewhere between
+
+17
+00:01:05,040 --> 00:01:09,880
+19 miles above earth, the altitude of the highest airplanes and balloons, and 99 miles
+
+18
+00:01:09,880 --> 00:01:14,720
+above earth, the altitude of the lowest orbiting satellites, a country's claim to sovereignty
+
+19
+00:01:14,720 --> 00:01:16,080
+stops.
+
+20
+00:01:16,080 --> 00:01:20,480
+So this begs the question, which laws apply in space?
+
+21
+00:01:20,480 --> 00:01:24,760
+So let's say an astronaut commits a small crime while in space, like, I don't know,
+
+22
+00:01:24,760 --> 00:01:27,640
+doing a line while on a spacecraft.
+
+23
+00:01:27,640 --> 00:01:31,760
+This isn't a huge crime against humanity, but they're going to have to be punished.
+
+24
+00:01:31,760 --> 00:01:35,640
+If the astronaut had those happy times while on the spacecraft of a specific country, it
+
+25
+00:01:35,640 --> 00:01:38,480
+would be clear which country it would prosecute.
+
+26
+00:01:38,480 --> 00:01:41,440
+If it was in a Soyuz capsule, Russia would prosecute.
+
+27
+00:01:41,440 --> 00:01:45,320
+If it was in a SpaceX capsule, the US would prosecute.
+
+28
+00:01:45,320 --> 00:01:49,960
+Much like with boats, the spacecraft is considered to be an extension of the sovereignty of that
+
+29
+00:01:50,440 --> 00:01:51,440
+country.
+
+30
+00:01:51,440 --> 00:01:55,700
+But, let's say Mr. Astronaut did his line while on the moon, who would prosecute then?
+
+31
+00:01:55,700 --> 00:02:00,960
+The Outer Space Treaty of 1967 says that no country can claim a section of space or a
+
+32
+00:02:00,960 --> 00:02:06,180
+celestial body as their territory, so this means that no country's laws apply universally
+
+33
+00:02:06,180 --> 00:02:07,180
+on the moon.
+
+34
+00:02:07,180 --> 00:02:12,720
+Well, this is where the idea of extraterritorial jurisdiction comes into play.
+
+35
+00:02:12,720 --> 00:02:17,720
+In almost every country, citizens are subject to the laws of their own country even if they
+
+36
+00:02:17,760 --> 00:02:20,240
+are outside of the country.
+
+37
+00:02:20,240 --> 00:02:24,240
+This doesn't apply when they are in other countries since the other country's laws
+
+38
+00:02:24,240 --> 00:02:29,080
+trump the extraterritorial jurisdiction, but when they aren't in any country, these laws
+
+39
+00:02:29,080 --> 00:02:30,600
+do apply.
+
+40
+00:02:30,600 --> 00:02:35,920
+This means that two people in the exact same place can be subject to different laws.
+
+41
+00:02:35,920 --> 00:02:40,560
+An 18 year old British astronaut could technically drink on the moon while an 18 year old American
+
+42
+00:02:40,560 --> 00:02:42,920
+astronaut could not.
+
+43
+00:02:42,920 --> 00:02:47,040
+Just to make things a little bit more complicated, the rules are different on the International
+
+44
+00:02:47,040 --> 00:02:48,720
+Space Station.
+
+45
+00:02:48,720 --> 00:02:53,660
+This space station agreement, the document that outlines the rules of the ISS, says that
+
+46
+00:02:53,660 --> 00:02:57,920
+in most cases extraterritorial jurisdiction applies.
+
+47
+00:02:57,920 --> 00:03:01,240
+Each astronaut is subject to the laws of their own country.
+
+48
+00:03:01,240 --> 00:03:07,180
+However, if for example an American astronaut say, punches a French one out of frustration,
+
+49
+00:03:07,180 --> 00:03:10,800
+France would be allowed to prosecute the American astronaut.
+
+50
+00:03:10,800 --> 00:03:12,840
+The same rule applies with property.
+
+51
+00:03:12,840 --> 00:03:17,160
+If a British astronaut smashes a Canadian astronaut's computer, Canada could prosecute
+
+52
+00:03:17,160 --> 00:03:18,800
+the Brit.
+
+53
+00:03:18,800 --> 00:03:23,980
+In addition, this agreement allows for the extradition of astronauts in all cases regardless
+
+54
+00:03:23,980 --> 00:03:27,320
+if the two countries have a normal extradition treaty.
+
+55
+00:03:27,320 --> 00:03:31,200
+This is actually pretty important because Russia doesn't have an extradition treaty
+
+56
+00:03:31,200 --> 00:03:32,600
+with the US.
+
+57
+00:03:32,600 --> 00:03:36,320
+This means that Russia doesn't have to give up individuals who have committed a crime
+
+58
+00:03:36,320 --> 00:03:39,280
+in which the US has the right to prosecute.
+
+59
+00:03:39,280 --> 00:03:43,840
+In the case that a Russian commits a crime against an American on the ISS, however, Russia
+
+60
+00:03:43,840 --> 00:03:47,600
+would be obliged to extradite that astronaut.
+
+61
+00:03:47,600 --> 00:03:52,620
+Another situation to look at is what would happen if a baby was born in space.
+
+62
+00:03:52,620 --> 00:03:56,680
+First off, this is a super hypothetical because it's unknown if it's even possible for
+
+63
+00:03:56,680 --> 00:04:01,800
+a baby to be born in zero gravity and, if they were, their bones would be so brittle
+
+64
+00:04:01,800 --> 00:04:05,440
+that they would crush under their own weight if they returned to gravity.
+
+65
+00:04:05,440 --> 00:04:09,960
+It's unlikely that any country would allow for an astronaut to have a baby in space because
+
+66
+00:04:09,960 --> 00:04:12,840
+that would be like super unethical.
+
+67
+00:04:12,840 --> 00:04:16,480
+But for the sake of argument, let's say there was a space baby.
+
+68
+00:04:16,480 --> 00:04:18,700
+What nationality would that baby be?
+
+69
+00:04:18,700 --> 00:04:21,440
+There is actually precedent for this question.
+
+70
+00:04:21,440 --> 00:04:27,800
+13 babies have been born in Antarctica where there is a similar treaty that disallows sovereignty.
+
+71
+00:04:27,800 --> 00:04:31,960
+While those babies were not born in their parents' countries, they took their parents'
+
+72
+00:04:31,960 --> 00:04:32,960
+nationalities.
+
+73
+00:04:33,000 --> 00:04:35,880
+The same policy applies in space.
+
+74
+00:04:35,880 --> 00:04:39,640
+There are countries, however, that don't give citizenship to babies born outside of
+
+75
+00:04:39,640 --> 00:04:40,840
+the country.
+
+76
+00:04:40,840 --> 00:04:45,240
+So in that case, the baby would take the citizenship of the country of the spacecraft they were
+
+77
+00:04:45,240 --> 00:04:46,600
+born in.
+
+78
+00:04:46,600 --> 00:04:50,920
+This is the same rule that applies when a baby is born on an airplane in flight.
+
+79
+00:04:50,920 --> 00:04:54,800
+They take the nationality of their parents and, if that's not possible, they take the
+
+80
+00:04:54,800 --> 00:04:58,560
+nationality of the country in which the aircraft is registered.
+
+81
+00:04:58,560 --> 00:05:02,320
+And what happens if the baby is born on the moon or Mars where there is no sovereignty?
+
+82
+00:05:02,320 --> 00:05:06,400
+Well, I don't know man, what do I look like, a lawyer?
+
+83
+00:05:06,400 --> 00:05:09,360
+But seriously, nobody really knows.
+
+84
+00:05:09,360 --> 00:05:13,520
+This is just one of many flaws in current space law.
+
+85
+00:05:13,520 --> 00:05:18,640
+Only 536 people have been to space and all of them were highly trained and were representing
+
+86
+00:05:18,640 --> 00:05:20,000
+their country.
+
+87
+00:05:20,000 --> 00:05:23,840
+They just aren't the type of people to commit crimes.
+
+88
+00:05:23,840 --> 00:05:28,540
+As commercial spaceflight and space tourism develop, all these laws will need to be made
+
+89
+00:05:28,540 --> 00:05:31,740
+more clear to prevent future problems.
+
+90
+00:05:31,740 --> 00:05:37,020
+Gone is the era when these laws can just be figured out when and if the time comes.
+
+91
+00:05:37,020 --> 00:05:41,620
+In the near future, we could be seeing space mining as well, and that will require economic
+
+92
+00:05:41,620 --> 00:05:44,820
+laws and environmental treaties.
+
+93
+00:05:44,820 --> 00:05:49,460
+The coming decades will be a fascinating time as we watch not only the development of commercial
+
+94
+00:05:49,460 --> 00:05:54,340
+space industries, but also as we lay out the legal and political groundwork needed for
+
+95
+00:05:54,340 --> 00:06:13,940
+the opening of the final frontier.
+

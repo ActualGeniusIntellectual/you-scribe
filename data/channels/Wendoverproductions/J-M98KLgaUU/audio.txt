@@ -1,0 +1,274 @@
+In 2013, Jeff Bezos introduced the world to a concept that promised to revolutionize delivery.
+Bezos kept telling us that he did have a big surprise, something he wanted to unveil for
+the first time.
+But there's no reason that they can't be used as delivery vehicles.
+Within a matter of years, autonomous drones would engulf cities, sweeping across skies,
+delivering packages to front yards just 30 minutes after their order.
+The announcement floored Charlie Rose and America alike, grabbing headlines for weeks
+and setting off fiery debates over just how disruptive the disruptive technology would
+be.
+Drones would offer urban and suburban consumers a clean, quick, convenient delivery option
+for food, medicine, or whatever else five pounds or less without burning fossil fuels,
+without getting stuck in traffic, without making them wait.
+The idea was far-fetched, it was exciting, it was the future arriving in front of our
+very eyes, and it signaled that the race to take delivery drones to market was on.
+By the time Amazon landed its first package, Zipline was already delivering medical supplies
+in Rwanda, SkyDrop had flown a 7-Eleven Slurpee and a Domino's Pizza straight to consumers,
+and Google's Project Wing had airdropped burritos to hungry college kids.
+A wave of startups sent their maiden drone delivery skyward to much media fanfare, while
+major parcel couriers—DHL, UPS, FedEx—substantiated the hype by partnering with the budding tech
+companies set to help solve their last-mile problems.
+Inventors, investors, eccentric billionaires, and the world's biggest companies were all
+pulling the same rope.
+Anything, anywhere, anytime.
+The dark days of DoorDash and two-day delivery were over.
+The drone delivery era was coming.
+Or so it seemed.
+It's now 2022, and save for the smallest fraction of a percent of people, it's not
+automated drones dropping off your small packages and food orders.
+Pizzas aren't falling from the sky, they're showing up in the hands of a high schooler.
+Burritos aren't delicately dropped on your lawn from above, they're left on your doorstep
+by a hustling gig worker.
+Your Amazon order won't show up in 30 minutes, it probably won't even show up same day.
+The world 60 Minutes introduced in 2013, the world that felt closer and closer to reality
+with every inaugural delivery, just isn't here.
+Fundamentally, the fast delivery niche still exists.
+The last mile still accounts for around 40% of partial shipping costs, roads are still
+increasingly clogged with traffic, green shipping alternatives are still desperately needed,
+and consumers still want products as cheap and fast as possible.
+Outside of a few specific locations, drone delivery has yet to take off, and in those
+few specific locations, it's hardly more than a proof of concept.
+Certainly, delays are understood, expected even, when it comes to the acceptance of a
+disruptive technology.
+Delayed acceptance, though, is at very most, only part of the story.
+In 2021, Amazon fired staff and closed its prime-air offices in the UK.
+From the former center of Amazon's drone project emerged stories of mismanagement and
+disarray.
+Employees drank beers at their desks, managers were given no direction, executives ignored
+the stalling division aside from the occasional pizza party.
+While the company responded to these reports with a statement affirming its continued investment
+in drone delivery, Amazon hasn't released any promotional material for the project since
+2016, and Prime Air's website doesn't seem to have been updated in years.
+The most generous possible interpretation is that the Amazon project is definitively
+on the backburner—others aren't even there.
+While Amazon remains quiet on their future intentions, DHL announced in summer 2021 that
+it was officially abandoning its Parcelcopter project nearly eight years after its maiden
+flight.
+So, two of the most important drone delivery companies put their programs on ice, few companies
+are getting the investments they used to, and no company has yet realized the imminent
+future of widespread operations laid out a decade ago.
+So, what went so wrong with drone delivery?
+Well, this is Phoenix—a sprawling desert metropolis home to five million people.
+On first glance, Phoenix seems the perfect candidate for a drone delivery service.
+Its year-round sunny, dry, still climate makes for easy, reliable flight conditions, its
+autonomous innovation-friendly city and state governments would welcome them with open arms,
+and its sprawling, low-density neighborhoods would make for countless hungry and impatient
+residents lacking walkable dining and shopping options.
+Surely, this is the low-hanging fruit—surely, a drone delivery company could come in, connect
+any house with any product within minutes, and demand would immediately outstrip supply,
+right?
+Well, perhaps not.
+Connecting any house with a drone delivery provider doesn't quite work, because in
+the center of the city, right here, is Phoenix Sky Harbor International Airport.
+In order to assure the safety of arriving and departing aircraft at the busy hub, the
+FAA restricts the use of drones within this area.
+So, a Phoenix drone delivery service probably just couldn't operate here, and here, in
+the restricted airspace around Luke Air Force Base, and here, around Phoenix Goodyear Airport,
+and here, and here, and here, here, and here.
+It's not entirely impossible to operate drones within restricted airspace, but from
+a legal perspective, it ranges from somewhat to extremely difficult—enough that it probably
+wouldn't be worth pursuing for a drone delivery company at least at the start.
+The rest of Phoenix, though, is fair game.
+To an extent.
+You see, drones need somewhere to deliver to, and it's gotta be safe.
+When the concept was first introduced, the vision typically presented was of a drone
+flying down, landing on one's lawn, releasing its delivery, then taking off and flying away.
+That didn't work.
+At least, not in reality.
+Drone delivery is a novel technology, and, like any novel technology, the public views
+it with an air of distrust.
+The worst thing the industry could do is prove that distrust warranted with a series of high-profile
+accidents at launch.
+The first instance of a delivery drone injuring a customer will inevitably ignite a media
+firestorm, which could lead to a legislative clampdown, so manufacturers naturally must
+strive for perfection.
+Perfection is tough to scale, though.
+Delivery drones must act autonomously to be cost-effective, and autonomous operations
+require computer vision and artificial intelligence able to reliably identify a clear landing
+zone.
+Determining whether someone is behind or in front of a window, noticing when a dog's
+running towards the drone, knowing what's a pool and what's dry ground—these are
+all challenging for a computer to tackle on its own, and so attaining perfection proves
+rather difficult.
+Therefore, whereas the logistics field generally considers the last mile of delivery the most
+difficult, once the economies of scale are gone, drone delivery is a last-mile solution
+with its own last foot problem.
+It's fairly straightforward to get a drone to a couple dozen feet above the ground—getting
+a package safely to the ground has proven more challenging.
+Some solutions have emerged.
+Zipline, focusing on longer-distance delivery to a set number of facilities with dedicated
+delivery zones, drops its payload in a packaging with an attached parachute that carries it
+to the ground.
+MatterNet also uses dedicated zones for delivering to commercial facilities, while they've
+developed a system of delivery stations for use by urban consumers.
+Uber Eats, meanwhile, implemented a scrappy yet inefficient system where delivery drones
+would land on top of delivery drivers' cars, then those delivery drivers would walk the
+food to the customer's door.
+Most solutions for the last foot problem, however, have gravitated towards one method.
+Wing, Skydrop, Flytrek's Wingcopter, and others have developed systems where their
+drones hover above the destination at a safe height and lower their payloads to the ground
+using cords—far less risky than landing a heavy drone propelled by fast-moving rotors.
+What all these solutions have in common is that they require a roomy, controlled, obstruction-free
+area to make their final deliveries.
+However, in the places where people actually live, that's hardly a given.
+Yards are the best delivery zones that are widespread, but not everyone has a yard.
+While it's a safe bet for single-family homes in an area like Phoenix, it can be hit
+or miss whether multifamily homes and apartment buildings have a big enough yard, and even
+when they do, their communal nature means that the customer couldn't necessarily guarantee
+that their landing area would be free from obstructions as would be the case with their
+own private yard.
+So, at least for an early drone delivery service, it probably wouldn't work in restricted
+airspace, and probably not for anything beyond single-family homes either.
+These, and other legal, technological, and practical constraints mean that the scope
+of what works in terms of drone delivery is narrow.
+It's pretty easy to start crossing off cities—Boston's winter is too harsh, New York's density inhibits
+yards, DC's airspace is too restricted, Pittsburgh's landscape is too hilly, this
+could go on and on.
+While it varies by company, most delivery drones tend to be able to fly to deliveries
+as far as about six miles away.
+So, assuming early operations would base out of a single location to capture economies
+of scale, meaning their drones would have to return to said location to charge after
+each delivery, that means a viable first delivery zone in Phoenix, optimizing for a
+large area free of airspace restrictions centered on wealthier neighborhoods, would be this—310,987
+people live in this zone—a small chunk of the metro area's 5 million.
+However, in Phoenix, only 63.2% of housing units are single-family, which are likely
+to have the private yard necessary for delivery, and only 92% are occupied, meaning, in this
+prime zone, at least extrapolating using citywide data, which is the most precise available,
+there are only 180,820 possible users of a drone delivery service.
+This is clearly an imprecise methodology, but it's indicative of how the prospect
+of drone delivery—the prospect of anything, anywhere, anytime—is getting diminished
+and diminished and diminished down into a niche service for a lucky few.
+A small system linking a strip mall to a neighborhood behind it, a fixed route flying COVID vaccines
+from a distribution center to vaccination sites, six shops delivering to a small part
+of a small town in Virginia—drone delivery has hardly moved beyond proof of concept,
+and it's not even clear that they've proved the concept.
+In 2016, when asked about same-day delivery, 70% of respondents said they were content
+with the cheapest option, while just 23% of respondents said they'd pay more for same-day.
+For drones to prove commercially viable, they need to decisively corner that quarter of
+more willing customers, and to become ubiquitous, they'd likely need to operate at no extra
+charge from ground delivery at all.
+Most people, it turns out, are simply okay with waiting a day or two for their packages,
+while all want them delivered as quickly and cheaply as possible.
+When the drone delivery hype hit fewer pitch, one bit of nuance went overlooked.
+Consumers simply don't care about how a package gets from B to C, so long as it's
+quick, cost-efficient, and reliable.
+They'd opt for a new technology once for the novelty, but by the 100th time, that wears
+off.
+Eventually, rationality will return.
+In fact, when surveyed in 2020, consumers perceived drones to potentially threaten those
+most important factors for them.
+They said they were uncertain about drones' reliability, cost, and were worried about
+the job loss they could incite.
+Meanwhile, competitors have figured out a number of low-tech solutions that fulfill
+these consumer desires—look no further than food delivery apps.
+Since 2017, the very moment when drone delivery hype hit fever pitch, the food delivery industry
+has tripled in size, ballooning into a $150 billion sector globally.
+In this, speed matters and consumers expect to pay for the delivery cost—facts that
+seemingly pave a lane for drone delivery.
+But between Uber Eats, Grubhub, and DoorDash, the power players are already established,
+and the competition is already fierce.
+These comparatively low-tech companies don't even tell the consumer whether to expect their
+burger to come by car, moped, bike, or foot—they just prioritize getting food to doors quickly,
+pleasing the consumer regardless of method, and undercutting drone delivery in the process.
+By and large, food delivery apps closely match the upside of drones within urban and suburban
+areas without the hassle of complying with FAA guidelines and figuring out the last foot
+problem.
+Adding to the competitive problems facing drone startups, these companies and others
+have since expanded into grocery, medicine, and goods deliveries.
+Put simply, from the consumer perspective, the problem drone delivery was designed to
+address has already been solved without building out a massively complicated aerial delivery
+network.
+The current low-tech gig economy model isn't perfect, though.
+For consumers and restaurants alike, the usage fees are expensive, for those delivering the
+pay is minimal, and for the big players, profit has proved elusive.
+One partial solution is automation.
+Here still, though, drones are likely to lose out.
+Ground-based autonomous and semi-autonomous robotics have begun popping up in test markets
+and partnering with the likes of Uber Eats and Grubhub to expand their reach.
+While a recent partial ban on sidewalk wandering robots in San Francisco points to the hurdles
+the technology faces, these hurdles just won't be as numerous as those facing drones.
+Automation and technological advances may well help smooth out food and last-mile delivery.
+In the near future, your prescription, your lunch order, or your afternoon coffee might
+be showing up at your front door courtesy of an autonomous vehicle—you'll just need
+to reach down and grab it from a robot instead of unclipping it from a drone above.
+Now, many probably now look at drone delivery in retrospect and find it unsurprising that
+the bombastic claims of the 2010s failed to pan out, but far fewer would have expressed
+a dissenting opinion just five years ago.
+That's because this is a rather classic story—that of a hype cycle.
+A new idea comes around, a few early players start development, then something—a launch,
+a demo, or even just a domino effect—sets off a media firestorm painting a rosy picture
+of a future revolutionized by this new technology.
+The story is so archetypal in tech that there's even a theoretical framework defining the
+process—Gartner's hype cycle.
+According to it, after that media firestorm, that peak of inflated expectations, results
+slow and sentiment starts shifting downward.
+Investors complain, and the public's memory fades, until the media begins coverage of
+the purported failure.
+The public grows disappointed, but then grows silent, and in the silence, first generations
+are adapted into seconds, failures inform potential successes, and slowly, something
+meaningful, albeit minor compared to the original vision, starts to work.
+We are here.
+While what's happening may be drowned out in the media by what's not, there are applications
+that are starting to work.
+Three years ago, Zipline was a small Silicon Valley startup operating a few dozen drone
+delivery flights per day in one region of Rwanda.
+They relied on the principle that many medical products are crucially important when used,
+but not used regularly, and often have short shelf lives, making them tough to economically
+and efficiently stock at smaller clinic operations.
+In less developed regions, poor road infrastructure makes many remote clinics many hours or days
+away from a distribution center, despite relative proximity as the crow flies.
+Therefore, Zipline's drones acted as a quick, low-cost distribution system for necessary
+medical products to remote areas, dotting Rwanda's rolling hills.
+Far more places than Rwanda's southern province fit this description.
+Nowadays, Zipline operates similar systems in the country's eastern province, four
+regions in Ghana, the US, and a number of other locations are in active development.
+Excitingly, the news of Zipline's impending expansion to the Ivory Coast hardly made news.
+It wasn't written about in Wired, TechCrunch didn't publish an article about it, just
+a simple press release and some industry and regional coverage.
+This is progress.
+This shows that Zipline's deployments aren't proofs of concepts, aren't publicity stunts—they're
+actual, real, commercial implementations.
+Crucially, Zipline didn't find a use case that drones could fulfill, they found a use
+case that only drones could fulfill.
+They found the healthcare use case, they found the low-hanging fruit, and other companies
+are noticing.
+Maternet and Wingcopter are now placing heavy emphasis on their medical potential as well.
+As the early use case matures, cost will come down, acceptance will rise, and innovators
+will find more uses that only the novel technology can fulfill.
+Once one becomes clear, more must be possible.
+Eventually, everything will creep closer to that idealistic vision first presented at
+the peak of the hype and then, just slightly delayed behind expectations, the new technology
+will finally have actually changed the world.
+Unlike delivery drones, what I hope does live up to expectations is our brand new feature-length
+documentary which came out today after almost a year of work.
+It's called The Colorado Problem—A River in the Red, and rather than trying to describe
+it, you're about to become one of the first people to see its trailer, but before, I need
+to very quickly remind you that if you're not already a subscriber to CuriosityStream
+or Nebula, the two sites where you can watch this doc, you can subscribe to them both for
+less than $15 a year at CuriosityStream.com slash Wendover—lower than the monthly fee
+for that big, red streaming site that just jacked up its price.
+It's these exact subscriptions that enable us to do these big, ambitious documentary
+projects, so a massive thank you to those of you already subscribed.
+But now to the point, the trailer.
+Things are worse than we're actually able to describe them right now because we just
+don't have the language or the measurements to do that.
+The water is essential.
+Everything you see green out here is because of Colorado River water.
+This would be a dry, desolate desert without this water.
+The easy solutions are gone.
+Their solution is our problem.
+The stakes are high to get this right.
+There is a plan B, and it's really ugly.
+As a reminder, to watch this doc, click the button on screen or head to CuriosityStream.com
+slash Wendover, and you'll get access to both CuriosityStream and Nebula for less than
+$15 a year.

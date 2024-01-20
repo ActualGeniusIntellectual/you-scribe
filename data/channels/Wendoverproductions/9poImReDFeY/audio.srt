@@ -1,0 +1,688 @@
+1
+00:00:00,000 --> 00:00:03,000
+This video was made possible by Skillshare.
+
+2
+00:00:03,000 --> 00:00:09,080
+Learn for free for two months by being one of the first 500 to sign up at skl.sh.wendover5.
+
+3
+00:00:09,080 --> 00:00:14,080
+If you look at the list of the world's twelve largest economies, there's a clear split.
+
+4
+00:00:14,080 --> 00:00:18,120
+Six are relatively small countries where one could never be more than a few hundred miles
+
+5
+00:00:18,120 --> 00:00:19,940
+or kilometers from the ocean.
+
+6
+00:00:19,940 --> 00:00:25,080
+The other six—the United States, China, India, Brazil, Canada, and Russia—are enormous
+
+7
+00:00:25,080 --> 00:00:29,720
+countries with spots more than a thousand miles or 1,600 kilometers from the ocean.
+
+8
+00:00:29,720 --> 00:00:34,680
+It's well known that ships are the main method of transport for freight globally thanks
+
+9
+00:00:34,680 --> 00:00:36,100
+to their low cost.
+
+10
+00:00:36,100 --> 00:00:39,480
+In fact, 90% of world trade goes by sea.
+
+11
+00:00:39,480 --> 00:00:43,760
+While most of the population lives relatively near the ocean, there are still plenty of
+
+12
+00:00:43,760 --> 00:00:49,200
+populated areas far inland that too need a method of low-cost freight transport.
+
+13
+00:00:49,200 --> 00:00:51,160
+For that, there's freight trains.
+
+14
+00:00:51,160 --> 00:00:55,780
+Most surprisingly, those six physically largest of the twelve largest economies are, rearranged
+
+15
+00:00:55,780 --> 00:00:59,520
+in order, the world's six top users of freight rail transport.
+
+16
+00:00:59,520 --> 00:01:02,880
+To understand the role of freight rail, you have to look at the numbers.
+
+17
+00:01:02,880 --> 00:01:07,440
+In the US it costs, on average, about 4 cents to move one ton of freight, the weight of
+
+18
+00:01:07,440 --> 00:01:10,120
+a small car, one mile on a freight train.
+
+19
+00:01:10,120 --> 00:01:12,880
+That's about 2.5 cents per ton kilometer.
+
+20
+00:01:12,880 --> 00:01:17,460
+What that means is that, on average, you could move one ton of freight coast to coast, from
+
+21
+00:01:17,460 --> 00:01:21,140
+New York to Los Angeles, on a train for about $100.
+
+22
+00:01:21,140 --> 00:01:26,640
+It's worth noting that freight rail prices in the US are among the lowest in the world.
+
+23
+00:01:26,640 --> 00:01:29,900
+In most European countries, for example, they're nearly double.
+
+24
+00:01:29,900 --> 00:01:35,780
+In comparison to those 4 cents per mile, air freight transport in the US costs about 121
+
+25
+00:01:35,780 --> 00:01:40,460
+cents per ton mile or 75 cents per ton kilometer but air freight is not truly a competitor
+
+26
+00:01:40,460 --> 00:01:41,860
+to the railways.
+
+27
+00:01:41,860 --> 00:01:45,400
+Planes will tend to carry time-sensitive or valuable goods while trains will carry lower
+
+28
+00:01:45,400 --> 00:01:47,740
+value or less time-sensitive goods.
+
+29
+00:01:47,740 --> 00:01:52,840
+The true competitor to trains are trucks which carry a ton a mile at a cost of around 20
+
+30
+00:01:52,840 --> 00:01:55,100
+cents or 13 cents per ton kilometer.
+
+31
+00:01:55,100 --> 00:01:59,120
+This is noticeably higher but trucks, of course, can go anywhere.
+
+32
+00:01:59,120 --> 00:02:01,120
+Trains can only go where there are tracks.
+
+33
+00:02:01,120 --> 00:02:06,040
+Now, the reason why trains are so cheap is because they are quite a bit more efficient
+
+34
+00:02:06,040 --> 00:02:07,040
+than trucks.
+
+35
+00:02:07,040 --> 00:02:13,840
+In 2017, Union Pacific Railroad, as an example, moved freight a total of 471 billion ton miles.
+
+36
+00:02:14,280 --> 00:02:18,400
+That's the total number of miles multiplied by the total number of tons moved.
+
+37
+00:02:18,400 --> 00:02:22,960
+To do that, they used just over 1 billion gallons of diesel fuel meaning it took, on
+
+38
+00:02:22,960 --> 00:02:29,040
+average, only one gallon of fuel to move one ton of freight 469 miles.
+
+39
+00:02:29,040 --> 00:02:31,520
+That's far more efficient than a truck.
+
+40
+00:02:31,520 --> 00:02:35,520
+The reason behind this is simple—trains encounter less resistance.
+
+41
+00:02:35,520 --> 00:02:39,500
+Their smooth steel wheels run over smooth steel tracks so there's very little friction
+
+42
+00:02:39,500 --> 00:02:42,280
+compared to rubber truck tires running over the road.
+
+43
+00:02:42,280 --> 00:02:46,580
+In addition, since the train's just one long line, there's much less wind resistance
+
+44
+00:02:46,580 --> 00:02:48,240
+per ton than a truck.
+
+45
+00:02:48,240 --> 00:02:53,480
+A single locomotive uses huge amounts of fuel but can have upwards of 6,000 horsepower and
+
+46
+00:02:53,480 --> 00:02:56,560
+can therefore pull a huge number of cars.
+
+47
+00:02:56,560 --> 00:03:01,640
+On average, in the US, freight trains are about 6,500 feet or 2,000 meters long.
+
+48
+00:03:01,640 --> 00:03:03,060
+They can get longer, though.
+
+49
+00:03:03,060 --> 00:03:09,580
+In Canada, Canadian National regularly runs 14,000 feet or 4,300 meter long trains.
+
+50
+00:03:09,580 --> 00:03:14,300
+It would take nearly an hour to walk from one end of this train to the other.
+
+51
+00:03:14,300 --> 00:03:19,140
+Typically, it only takes two people to run even these multi-mile long freight trains.
+
+52
+00:03:19,140 --> 00:03:22,860
+Considering that most trucks take one person to transport one container and these trains
+
+53
+00:03:22,860 --> 00:03:26,120
+can carry hundreds, it's easy to see the advantage.
+
+54
+00:03:26,120 --> 00:03:30,740
+In some cases, freight trains are even run by only one individual—the driver.
+
+55
+00:03:30,740 --> 00:03:34,480
+Of course there are plenty of safety concerns with that but railroads are increasingly doing
+
+56
+00:03:34,480 --> 00:03:36,740
+so as it cuts down on cost.
+
+57
+00:03:36,740 --> 00:03:41,200
+Overall, what this means is that freight trains are quite comparatively efficient both economically
+
+58
+00:03:41,200 --> 00:03:44,780
+and environmentally to other means of land transport.
+
+59
+00:03:44,780 --> 00:03:48,740
+Within the cab of a locomotive, there's generally not much other than the train controls,
+
+60
+00:03:48,740 --> 00:03:50,900
+a few seats, and a small lavatory.
+
+61
+00:03:50,900 --> 00:03:54,820
+There are no beds or other accommodations because crews don't stay on board for all
+
+62
+00:03:54,820 --> 00:03:56,000
+that long.
+
+63
+00:03:56,000 --> 00:04:00,300
+Every driver and conductor in a company works a defined territory along the overall train
+
+64
+00:04:00,300 --> 00:04:05,140
+route so for longer runs, such as BNSF's route from Seattle to Chicago, for example,
+
+65
+00:04:05,140 --> 00:04:07,740
+it takes ten different crews to make the trip.
+
+66
+00:04:07,740 --> 00:04:10,980
+The first takes the train from Seattle to Wenatchee, Washington, then switches with
+
+67
+00:04:10,980 --> 00:04:15,140
+another crew that takes us to Spokane, Washington, and then this crew swap process repeats itself
+
+68
+00:04:15,140 --> 00:04:20,460
+in Whitefish, Haver, Glasgow, Minot, East Dilworth, Northtown, and North La Crosse before
+
+69
+00:04:20,460 --> 00:04:22,360
+the train arrives in Chicago.
+
+70
+00:04:22,360 --> 00:04:26,460
+In most cases, crews will typically live at one end of their territory, work the train
+
+71
+00:04:26,460 --> 00:04:30,600
+to the other end, stay in a hotel overnight, then swap with an inbound crew to take command
+
+72
+00:04:30,600 --> 00:04:32,740
+of a train headed back to where they live.
+
+73
+00:04:32,740 --> 00:04:37,780
+Now, under US law, each crew is only allowed to work for up to 12 hours at a time before
+
+74
+00:04:37,780 --> 00:04:41,620
+needing a rest period and so these territories where crew work are designed to be able to
+
+75
+00:04:41,620 --> 00:04:43,880
+be completed in those 12 hours.
+
+76
+00:04:43,880 --> 00:04:49,580
+For longer sections, though, like the 276 mile, 444 kilometer section from Glasgow to
+
+77
+00:04:49,580 --> 00:04:52,980
+Minot, there's increased risk of timing out in case of slowdown.
+
+78
+00:04:52,980 --> 00:04:57,020
+If a train crew reaches 12 hours, they quite literally have to stop in their tracks and
+
+79
+00:04:57,020 --> 00:04:59,420
+wait until another crew arrives.
+
+80
+00:04:59,420 --> 00:05:03,440
+Eventually the railroad will drive out a relief crew from the next stop, in this case Minot,
+
+81
+00:05:03,440 --> 00:05:04,440
+to take over.
+
+82
+00:05:04,440 --> 00:05:10,060
+Now, there are two major types of cargo transported by rail—bulk and intermodal.
+
+83
+00:05:10,060 --> 00:05:13,980
+Bulk cargo is things like grain, stone, sand, oil, and coal.
+
+84
+00:05:13,980 --> 00:05:19,100
+Coal, along with most bulk cargo, is not a value-dense product, as in, it costs a little
+
+85
+00:05:19,100 --> 00:05:20,620
+to get a lot.
+
+86
+00:05:20,620 --> 00:05:25,420
+In the US, a ton of coal costs only $34 on average so of course you need to put it on
+
+87
+00:05:25,420 --> 00:05:29,740
+the lowest cost transport method possible which in many cases is trains.
+
+88
+00:05:29,740 --> 00:05:33,740
+Trains both serve to bring coal from the mine to their domestic destinations, mostly power
+
+89
+00:05:33,740 --> 00:05:37,660
+plants, and to coastal ports to be loaded on ships for international export.
+
+90
+00:05:37,660 --> 00:05:41,740
+The other major type of freight, intermodal, involves the carrying of shipping containers
+
+91
+00:05:41,740 --> 00:05:43,620
+to and from their destinations.
+
+92
+00:05:43,620 --> 00:05:47,820
+Generally, trains will carry these containers as only a step in their overall journey.
+
+93
+00:05:47,820 --> 00:05:51,780
+For example, a container might be picked up from a factory in Shenzhen, China, brought
+
+94
+00:05:51,780 --> 00:05:55,540
+by truck to the port of Shenzhen, loaded on a ship to Long Beach, California, moved
+
+95
+00:05:55,540 --> 00:05:59,720
+onto a train to Omaha, Nebraska, before being loaded again on a truck for its final journey
+
+96
+00:05:59,720 --> 00:06:01,220
+to Norfolk, Nebraska.
+
+97
+00:06:01,220 --> 00:06:05,140
+Generally, railroads will have their intermodal terminals, where containers are unloaded and
+
+98
+00:06:05,140 --> 00:06:10,100
+loaded, spread out about 300 to 500 miles or 500 to 800 kilometers apart from each other
+
+99
+00:06:10,100 --> 00:06:14,600
+so the greatest area can be reached within a day's truck drive from one of their terminals.
+
+100
+00:06:14,600 --> 00:06:18,620
+Given the lackluster nature of the US's passenger railways, it may surprise some that
+
+101
+00:06:18,620 --> 00:06:22,580
+the country's freight railway system is considered among the world's best.
+
+102
+00:06:22,580 --> 00:06:26,720
+The country is just in that sweet spot of economically busy and spread out that supports
+
+103
+00:06:26,720 --> 00:06:28,320
+the use of freight trains.
+
+104
+00:06:28,320 --> 00:06:32,660
+It therefore serves as a good example to examine to explain how freight trains work worldwide.
+
+105
+00:06:32,660 --> 00:06:35,620
+The US's network is quite extensive.
+
+106
+00:06:35,620 --> 00:06:40,700
+As an example, Kansas, whose entire passenger rail network consists of this, has a freight
+
+107
+00:06:40,700 --> 00:06:42,420
+rail network of this.
+
+108
+00:06:42,420 --> 00:06:46,380
+What helps is that in most countries the government builds tracks primarily for passenger train
+
+109
+00:06:46,380 --> 00:06:49,180
+usage and freight operators pay to use them.
+
+110
+00:06:49,180 --> 00:06:51,460
+In the US, though, it's the other way around.
+
+111
+00:06:51,460 --> 00:06:55,360
+In most cases, the track is owned by freight operators and the government pays them to
+
+112
+00:06:55,360 --> 00:06:57,720
+use it for passenger operations.
+
+113
+00:06:57,720 --> 00:07:01,460
+Through many years of consolidation, seven major freight railroads have emerged in North
+
+114
+00:07:01,460 --> 00:07:07,260
+America each with their own territory—Union Pacific, BNSF, CSX, Norfolk Southern, Canadian
+
+115
+00:07:07,260 --> 00:07:10,620
+National, Canadian Pacific, and Kansas City Southern.
+
+116
+00:07:10,620 --> 00:07:15,020
+With the exception of Canadian National, none operates coast to coast so for longer journeys,
+
+117
+00:07:15,020 --> 00:07:18,300
+a single operator could not get freight from start to finish.
+
+118
+00:07:18,300 --> 00:07:20,940
+Now, take a look at this BNSF train.
+
+119
+00:07:20,940 --> 00:07:25,100
+You'll notice at the end it's hauling a CSX car and a Union Pacific car.
+
+120
+00:07:25,100 --> 00:07:29,660
+That's because, since no one railroad covers the entire continent, different ones work
+
+121
+00:07:29,660 --> 00:07:32,300
+together to get freight to its final destination.
+
+122
+00:07:32,300 --> 00:07:36,660
+A container traveling from Oakland, California to Philadelphia, Pennsylvania, for example,
+
+123
+00:07:36,660 --> 00:07:40,220
+would be first brought to Lathrop, California where Union Pacific has a rail yard.
+
+124
+00:07:40,220 --> 00:07:43,700
+It would then be taken off the truck and loaded onto an eastbound train.
+
+125
+00:07:43,700 --> 00:07:47,180
+After passing through the western United States and arriving in Chicago, the container
+
+126
+00:07:47,180 --> 00:07:51,540
+would then be removed, hauled short distance from the Union Pacific to the CSX terminal,
+
+127
+00:07:51,540 --> 00:07:56,440
+and placed on a CSX train since Chicago is as far east as Union Pacific goes.
+
+128
+00:07:56,440 --> 00:07:59,700
+That train would then take it to Kearny, New Jersey, near New York City where it would
+
+129
+00:07:59,700 --> 00:08:03,980
+then be loaded on another truck to take it to its final destination in Philadelphia.
+
+130
+00:08:03,980 --> 00:08:07,060
+This is already complicated, but it can get even more.
+
+131
+00:08:07,060 --> 00:08:10,540
+Sometimes different railroads don't partner or won't allow for seamless transfers between
+
+132
+00:08:10,540 --> 00:08:12,500
+certain origin and destination pairs.
+
+133
+00:08:12,500 --> 00:08:16,940
+Chicago, for example, has dozens of different rail yards used by different railroads so
+
+134
+00:08:16,940 --> 00:08:21,380
+in order to get a container through one might have to book a spot on one train to the city,
+
+135
+00:08:21,380 --> 00:08:25,740
+then book a transfer by truck from one terminal to that of another railroad, then book separately
+
+136
+00:08:25,740 --> 00:08:27,900
+the next train out of the city.
+
+137
+00:08:27,900 --> 00:08:31,800
+This increases complexity enormously and it's often difficult to find truck drivers willing
+
+138
+00:08:31,800 --> 00:08:35,580
+to make the short cross-town trip especially given the current shortage of truck drivers
+
+139
+00:08:35,580 --> 00:08:37,020
+in the US.
+
+140
+00:08:37,020 --> 00:08:40,480
+Many of these complexities are handled by logistics companies hired by clients to manage
+
+141
+00:08:40,480 --> 00:08:43,920
+the movement of their freight, but these interchanges can still slow down shipping
+
+142
+00:08:43,920 --> 00:08:45,800
+times significantly.
+
+143
+00:08:45,800 --> 00:08:49,880
+There is this constant battle between the trucking and rail industry.
+
+144
+00:08:49,880 --> 00:08:53,700
+Hired rail lobbyists in the US constantly work against the trucking industry by dissuading
+
+145
+00:08:53,700 --> 00:08:56,680
+Congress from increasing weight and size limits of trucks.
+
+146
+00:08:56,680 --> 00:09:00,520
+With a nearly global shortage of truck drivers, though, railroads are at an advantage right
+
+147
+00:09:00,520 --> 00:09:02,680
+now and many are thriving.
+
+148
+00:09:02,680 --> 00:09:06,600
+New railroads are constantly under construction worldwide, especially in developing nations,
+
+149
+00:09:06,600 --> 00:09:08,600
+and the industry is growing.
+
+150
+00:09:08,600 --> 00:09:10,520
+It's not completely safe, though.
+
+151
+00:09:10,520 --> 00:09:14,240
+The advent of driverless trucks will surely reduce costs and increase capacity in the
+
+152
+00:09:14,240 --> 00:09:17,960
+trucking industry which could tilt favor over to the rubber tires.
+
+153
+00:09:17,960 --> 00:09:22,680
+In addition, coal is one of the most commonly carried goods by freight trains and, as the
+
+154
+00:09:22,680 --> 00:09:27,940
+world transitions towards renewable energy, there could be less demand for its transportation.
+
+155
+00:09:27,940 --> 00:09:31,880
+Overall though, at least until there's a monumental shift in technology, freight trains
+
+156
+00:09:31,880 --> 00:09:37,920
+will continue to be the proven method for moving freight long distances over land.
+
+157
+00:09:38,240 --> 00:09:41,840
+If you want to learn how to make videos just like this one There are a few things you'll
+
+158
+00:09:41,840 --> 00:09:42,840
+have to learn.
+
+159
+00:09:42,840 --> 00:09:45,200
+You'll have to learn how to write non-fiction effectively.
+
+160
+00:09:45,200 --> 00:09:46,720
+Skillshare has a class for that.
+
+161
+00:09:46,720 --> 00:09:48,920
+You'll have to learn how to record good audio.
+
+162
+00:09:48,920 --> 00:09:50,480
+Skillshare has a class for that.
+
+163
+00:09:50,480 --> 00:09:52,300
+You'll have to learn how to edit audio.
+
+164
+00:09:52,300 --> 00:09:53,840
+Skillshare has a class for that.
+
+165
+00:09:53,840 --> 00:09:55,600
+You'll have to learn how to animate.
+
+166
+00:09:55,600 --> 00:09:57,200
+Skillshare has a class for that.
+
+167
+00:09:57,200 --> 00:10:00,960
+In fact, if there's something you want to learn, there's a pretty decent chance that
+
+168
+00:10:00,960 --> 00:10:03,340
+Skillshare has a class for that.
+
+169
+00:10:03,340 --> 00:10:07,320
+You can take the classes on your computer, on your iOS or Android device... even offline
+
+170
+00:10:07,320 --> 00:10:10,880
+with their app so you can learn whatever, wherever, and whenever.
+
+171
+00:10:10,880 --> 00:10:14,820
+Best of all, you can start learning with Skillshare for free for two months by being one of the
+
+172
+00:10:14,820 --> 00:10:18,800
+first 500 to sign up at skl.sh slash wendover five.
+

@@ -1,0 +1,347 @@
+start	end	text
+0	3680	It seemed manageable at first.
+3680	8020	On the Monday before Christmas, as winter storm Elliott began to build, Southwest Airlines
+8020	11360	management huddled up to formulate a plan.
+11360	13820	The following day, it went into motion.
+13820	18280	After internal deliberation, and after informing the pilot's union, Southwest HQ began cancelling
+18280	20840	flights in advance of the strengthening storm.
+20840	24640	The notice first directed customers at these airports to check if their flight had been
+24640	25640	disrupted.
+25640	28880	Then, the list of airports began to grow.
+29200	33000	So, the airlines started the process of cancelling flights by the hundreds.
+33000	36000	As the winter storm worsened, that call proved worthwhile.
+36000	40400	In fact, with the benefit of hindsight, they didn't go far enough.
+40400	45060	But the assumption that undergirded the decision to cancel, that they could process the cancellations
+45060	49440	early enough for customers to pivot plans and crews to reposition for new routings,
+49440	53200	proved utterly, devastatingly wrong.
+53200	54680	You know the rest of the story.
+54680	59040	Temperatures plummeted, thermometers across Denver plunged 37 degrees in a single hour,
+59040	63720	foiled travel plans ruined holidays, 5,700 flights nationwide cancelled before Christmas,
+63720	67760	and while other carriers staggered along, Southwest crumbled into crisis, ultimately
+67760	74600	cancelling nearly 17,000 flights and losing out on an estimated $825 million in the final
+74600	75840	10 days of the year.
+75840	79000	It was the biggest meltdown of its kind.
+79000	83200	Some blamed the storm, others blamed the carriers' point-to-point model, while others still blamed
+83200	84600	the company's culture.
+84600	89600	But as time let the hot takes cool, a less exciting culprit came forward.
+89600	95180	A culprit that's hardly unique to Southwest—a culprit, in fact, that's less a bug and
+95180	98640	more an inherent flaw within the industry.
+98640	102720	While the biggest, the meltdown wasn't the first, and while an embarrassment to Southwest
+102720	108240	alone, it was hardly a crisis unique to the big, beloved, budget airline.
+108240	112920	For Southwest, winter storm Elliott may have set the stage for the meltdown, but it didn't
+112920	113920	cause it.
+114240	118680	As much as anything, Southwest's meltdown was a function of legacy.
+118680	121920	Southwest made its name as the pioneer of the low-cost business model through quick
+121920	124160	turnarounds and point-to-point route networks.
+124160	128320	While a typical airline will fly their plane out and right back into their hub, a given
+128320	132960	day for a Southwest aircraft might start in San Diego, then continue to Sacramento, Denver,
+132960	135600	and Nashville before finishing up in Tampa.
+135600	138860	Through this network structure, Southwest could offer non-stop flights where competitors
+138860	143560	only had one-stops, and by exploiting this niche, grew into the world's sixth largest
+143560	144560	airline.
+144560	148980	But while efficient in perfect conditions, the system becomes a liability in the event
+148980	153880	of a delay or cancellation—pilots time out, crews don't make it to their expected destination
+153880	158620	for the evening, and planes aren't positioned in the right place for the next day's flight.
+158620	163380	But weather and unforeseen circumstances, as they always have, exist.
+163380	168800	So Southwest has tools for these situations, one of which is a GE aeronautics system called
+168800	170280	SkySolver.
+170280	174840	Plug data into SkySolver on irregular operations, and its algorithms will, in the words of its
+174840	178200	brochure, execute flight schedule changes and cancellations, conduct aircraft routing
+178200	181360	and equipment swaps, and make fixes to crew assignments and pairings.
+181360	185180	That means that, if a developing storm was to roll over Denver and cause Southwest to
+185180	188960	cancel this inbound flight from Sacramento, on account of the risk that the plane and
+188960	192840	crew will stay grounded by the weather, it would call on SkySolver to effectively stem
+192840	196600	the bleeding, and make sure that problems don't cascade to impact the rest of the
+196600	197600	routing.
+197600	201020	Even in Sacramento, rather than heading to Denver, SkySolver might send this plane on
+201020	204800	a passenger-less deadhead to Nashville, where the crew now nearing the end of their workday
+204800	207860	could time out and hand the plane over to the next.
+207860	211880	Of course, that's only the beginning—while finding the most cost-efficient solution is
+211880	216080	simple in the context of this single routing, it becomes orders of magnitude more complicated
+216080	219920	when considering the hundreds of additional Southwest flights passing through.
+219920	223800	Like, where to reposition this 737 that normally would have been running in and out of Denver
+223800	228040	all afternoon that has both the space for the plane and can begin running services the
+228040	229040	following morning?
+229040	232800	Or, what to do with this 737 that is running flights between cities in the storm's path
+232800	236520	and thus is at risk of getting stuck in a snowed-in airport?
+236520	239520	And how to make sure the later legs of this routing get flown when the plane meant to
+239520	241880	run it won't make it out of Denver that morning?
+241880	246640	Now, SkySolver is powerful enough to run up to 300 batches of cancellations in 20 minutes,
+246640	248400	but it does have limitations.
+248400	252840	First, it creates solutions to cancellations on the assumption of a static baseline.
+252880	256000	However, to figure out viable alternatives if half of Denver's flights are canceled,
+256000	259880	it needs to know that the Sacramento to Denver flight has already been canceled, and if it
+259880	263520	doesn't, or if the flight is canceled while the system is running, SkySolver solutions
+263520	267120	become less tenable, requiring reruns or manual intervention.
+267120	271300	Second, SkySolver is also limited by the data input into the system.
+271300	275720	Some of this data comes from an internal tool of Southwests called the Baker.
+275720	279080	Dispatch processes delays and cancellations through the Baker to reconfigure routings
+279080	283280	for aircraft and passengers before the information is then plugged into SkySolver.
+283280	288040	Crucially, what the Baker's data lacks is crew information—who's available where,
+288040	291000	when, and for how long before they're timed out.
+291000	295220	Now, as the storm worsened and the number of cancellations increased, the limitations
+295220	299400	of Southwests' solver collided, resulting in a massive tailspin.
+299400	303480	With crews left out of the equation, the algorithm's output provided what it thought to be viable
+303480	306920	solutions, but solutions without pilots and attendants.
+306960	309920	Once these flights had to cancel close in to departure time when it became apparent
+309920	313940	that they only had half of crew, everything else unraveled, as these new cancellations
+313940	316360	altered SkySolver's baseline assumptions.
+316360	321120	Effectively, the software's blind spot transformed the expected difficulties of a winter storm—hundreds
+321120	326200	of flights canceled at least 24 hours out on the 20th and 21st—into a full-blown crisis
+326200	330560	where Southwest tools worsened problems that it then tried to fix, only to worsen things
+330560	331720	further.
+331720	335800	Through Christmas, cancellations occurred closer and closer to departure time as pilots
+335800	339360	arrived to planes with no flight attendants, while planes with no passengers deadheaded
+339360	344200	on circular, nonsensical routings like this as the software essentially panicked, positioning
+344200	349040	and repositioning planes only for the crew to time out and get stuck once again.
+349040	353760	Finally, blind as to where their own crews were, and with flawed programs providing flawed
+353760	358720	fixes, Southwest went manual, training volunteer staff at headquarters on how to process pilot
+358720	362320	and flight attendant forms and preparing for a hard reset.
+362320	367800	In the four days following Christmas, Southwest would cancel an incredible 10,700 flights,
+367800	371640	all because the airline failed to address a weak point that they had already identified.
+371640	376400	They had put too much pressure, and stacked up too much complexity, onto a fragile IT
+376400	380800	system that everyone already knew needed an overhaul.
+380800	385880	And yet, as the calendar flipped, as Southwest began to stabilize, and as more detailed reporting
+385880	390640	on the meltdown began to emerge, a new meltdown stole the spotlight.
+390640	394920	Now it was the FAA that issued a nationwide ground stop.
+394920	400160	For 90 minutes, no commercial flights took off, and for the first time since 9-11, American
+400160	405640	commercial aviation came to a complete standstill, all because a single software update went
+405640	409760	sideways, leading to important preflight safety communications having to be relayed manually
+409760	413760	until they could simply no longer keep up with the morning rush of flights.
+413760	418540	And the cycle began again—upset customers, outraged press, and promises that the old
+418540	421940	technology that everyone knew would fail would be looked into.
+421940	424660	And this pattern didn't start with Southwest, either.
+424660	430740	IT meltdowns hit British Airways in 2017, then in 2019, then again in 2022, they forced
+430740	435740	Delta to cancel thousands of flights in 2016 and 2017, they pushed American Airlines to
+435740	439140	cancel over 1,000 regional flights in 2018.
+439140	443860	All said they'd do better the next time, and yet all still rely on outdated, overstretched
+443860	448420	IT systems that were never designed to handle the volume of industry growth in the decades
+448420	450640	since their initial development.
+450640	454980	But the problems of old, overstacked IT systems don't stop at the back end.
+454980	459300	While customer-facing systems might look good on the surface, the most important one, the
+459300	464220	very system that makes it all possible, was created as close in time to the Wright brothers'
+464220	466180	first flight as to today.
+466180	471140	When a traveler sees this, it may look modern, but what they're actually looking at is
+471140	473700	a translation of this.
+473700	478820	In the scenes, Google Flights entered a query into the Global Distribution System, an interconnected
+478820	482740	set of softwares run by Amadeus, Sabre, or Travelport.
+482740	488500	In fact, specifically it entered this, AD, to initiate an availability lookup, 08FEB
+488500	494440	to indicate the date, then DENLHR to specify Denver as the origin and London as the destination.
+494440	499100	This initiates a query from the GDS system to another, OAG, which essentially acts as
+499100	502660	the definitive source of airline scheduling data worldwide.
+502660	508140	The GDS then comes back and spits out two options—one by British Airways, one by United.
+508140	512100	The strings of letters and numbers indicate availability across the different fare classes,
+512100	517060	then the Wright side provides most other data—departure time, arrival time, aircraft type, and flight
+517060	519460	duration—but the fare data is still missing.
+519460	523660	For that, Google Flights needs to pick a flight, pick a fare class, then enter another query
+523660	524660	for its price.
+524660	528740	But the GDS doesn't have that data itself—it seeks the answer from the airline tariff publishing
+528740	533740	company which, similarly to the OAG US scheduling, is the one-stop shop for pricing data used
+533740	536660	by essentially every major airline globally.
+536660	541500	So once again, the GDS will repackage their response into this, reiterating the flight
+541500	545540	schedule, then displaying the base fare, the carrier surcharge, US passenger facility charge,
+545540	551180	security fee, and international departure tax to give a total $630.20 one-way fare on
+551180	554540	the February 8th British Airways Denver to London flight.
+554540	558380	This entire process is repeated for the United option, which gives Google Flights all the
+558420	561580	information necessary to populate this screen.
+561580	565100	But next up is booking, and that's even more involved.
+565100	569240	Regardless of where a booking takes place, with some limited exceptions, the user interface
+569240	573460	is just a translation tool to input a string of commands into the GDS.
+573460	577900	This sequence initiates the process of creating a Passenger Name Record, or PNR, to which
+577900	581720	it will then input a phone number, the name of the person making the booking, then a precisely
+581720	585020	formatted description of the desired flight itinerary.
+585060	589460	After reconfirming availability and fare price, the GDS will then submit the PNR and return
+589460	592460	with this—the time limit for actually paying for the booking.
+592460	596980	At this point, the booking is confirmed—that seat is reserved, and will stay reserved unless
+596980	599680	that payment deadline passes without payment.
+599680	603940	While these days customers typically pay immediately, in the background it's rarely required, but
+603940	607980	this delayed deadline gives an online travel agency like Expedia, for example, time to
+607980	612600	process and verify payment from the customer before actually paying for the ticket themselves,
+612600	616360	at which point it might become nonrefundable, leaving the company in a tricky spot if a
+616360	617880	customer's credit card payment declines.
+617880	622300	But even before paying, Expedia will close out the transaction with the GDS, therefore
+622300	625920	sending the Passenger Name Record to the airline, which will respond with a modified version
+625920	629560	including a confirmation number, which is then extracted and sent to the customer in
+629560	632440	a flashy, well-formatted email.
+632440	637240	The GDS, and its associated systems, were revolutionary for the airline industry.
+637240	641980	Not only did they make reservations a far less labor-intensive process, they made essentially
+641980	645380	every airline reservation system interoperable with each other.
+645380	649740	These days it's fairly simple for airlines to sell tickets involving other airlines—they're
+649740	653700	all using the same GDS already, so the way United's internal systems interpret and
+653700	657020	modify a PNR is the same way Lufthansa's would.
+657020	661700	Theoretically, United could sell you an itinerary connecting onto an American Airlines flight—they
+661700	665380	wouldn't because they don't have a commercial partnership with the airline, but from a technical
+665380	669340	perspective there's nothing stopping them, and if something goes wrong and your United
+669340	674100	flight cancels, the airline can and occasionally will rebook flights onto American, Delta,
+674100	675780	and others using this system.
+675780	681100	But while the GDS was revolutionary, it hardly still is today.
+681100	685320	In fact, at airports around the world, when you step up to a reservations agent, chances
+685320	688620	are the other side of their screen looks like this.
+688620	694080	Still today, in 2023, the GDS has operated as a command-line interface, the way computers
+694080	698340	worked before graphical user interfaces were popularized in the 80s.
+698340	702620	American interfaces aren't in and of themselves an issue, but in context, the difficulty is
+702620	706460	that using them requires legitimate creativity and skill.
+706460	711220	Let's say, for example, a customer is here in Denver, headed to Zurich, and their 1.40
+711220	715340	pm flight to Chicago to connect onto the 7.10 overnight to Zurich just cancelled, meaning
+715340	717260	they won't make their connection.
+717260	721220	A rebooking agent would start by querying the GDS for the next available itinerary between
+721220	725420	the two cities, and they would see there's a viable one connecting onto a 7.20 pm Swiss
+725420	729380	Air flight out of LAX, but the problem is that the only two flights to LA that would
+729380	735420	make that, at 1.36 and 3.55, are already oversold, meaning there's no seat available for the
+735420	736660	stranded passenger.
+736660	741900	So, according to the GDS, it's impossible to get that passenger on their way to Zurich
+741900	743940	until the next day.
+743940	748640	But just because the GDS says it's impossible doesn't mean it actually is.
+748640	752500	For example, an experienced rebooking agent would know that United also flies to John
+752500	756780	Wayne Airport in Orange County, about an hour's drive from LAX, so if desperate,
+756780	760940	the passenger could fly to there, take a taxi to LAX, then make their overnight flight to
+760940	761940	Switzerland.
+761940	765940	The GDS can't offer this as an option because it's not one that the airline would sell,
+765940	769780	so it's not in the system, but with this knowledge, an agent could individually book
+769780	774380	seats for each leg, then string them together into an itinerary in the PNR.
+774380	780200	The GDS also would know that United's 11.45 am LAX-bound flight was delayed until 1.30,
+780200	783200	meaning this passenger could still take that and make the connection.
+783200	787180	It also wouldn't suggest taking American's 4.10 pm flight to LAX as an option because
+787180	791680	Swiss Air and American don't typically ticket together, but in this exceptional circumstance,
+791680	795540	United could buy the stranded passenger a ticket on American through the GDS to continue
+795540	797200	their journey on Swiss.
+797200	801240	And this is only the tip of the iceberg—there are endless tricks to working with the GDS
+801240	805920	to solve problems, but experience is needed to know the right technique.
+805920	811240	The horrible truth this presents, for both passengers and airlines, is that, constantly,
+811240	814760	passengers are getting stranded when they don't have to be—it's down to the luck
+814760	815820	of the draw.
+815820	818900	Is the rebooking agent you're walking up to one that's worked there for 30 years
+818900	823120	and knows the GDS like the back of their hand, or have they just finished the limited required
+823120	826120	training to complete those simplest tasks?
+826120	830640	For passengers, this increases the frequency of getting stranded on the road, and for airlines,
+830640	834440	this increases the cost borne from issuing meal vouchers, booking accommodation, and
+834440	839240	paying for delay compensation when passengers don't get to their destination on time.
+839240	844400	And the limitations of the GDS not only create additional costs, but also prevent potential
+844400	845400	revenue.
+845400	848920	For example, Air New Zealand developed an innovative product where three successive
+848920	854020	economy-class seats can be transformed into a short, lie-flat bed called skycouch.
+854020	859100	That means that those seats can be sold individually, as usual, or as a set of three to one or two
+859100	860520	passengers.
+860600	864960	This sort of optionality breaks the GDS—it doesn't have a way of properly communicating
+864960	869880	or reserving these sorts of transformable seats, so on the GDS, skycouch seats are just
+869880	873820	displayed as occupied, regardless of whether they actually are.
+873820	877240	In order to book them, one has to go directly to the Air New Zealand website.
+877240	881080	For the airline, this leaves plenty of potential revenue on the table.
+881080	885080	For example, a huge portion of the airline's traffic is ticketed through United, since
+885080	889800	United is a major partner that feeds inbound traffic from across the US to Air New Zealand's
+889800	893640	long-haul flights out of LA, San Francisco, Houston, and Chicago.
+893640	897840	Those passengers can book and check in exclusively with United, meaning they would never have
+897840	902000	even had the chance to pay Air New Zealand for a skycouch, and it's the same with passengers
+902000	905860	who booked through other airlines or online travel agencies.
+905860	909560	Airlines have been complaining about the GDS system for decades, and so there are an increasing
+909560	914200	number of technical solutions and workarounds to the GDS's constraints, but even those
+914200	915200	have their problems.
+915200	919780	For example, Iota introduced the New Distribution Capability Standard, which allows for more
+919780	924700	complex back-end communication, but rather than serving as the solution to the GDS's
+924700	929180	shortcomings, it more so demonstrates what's truly at the root of the problem.
+929180	934940	162 airlines, travel agencies, system providers, and others are certified by Iota as having
+934940	940220	properly integrated this new standard into their systems—or at least, part of it.
+940220	945540	The core functions have pretty good uptake—for example, 156 of those have incorporated the
+945540	950020	NDC standard that allows for shopping for flights—but then you get to the more novel
+950020	951020	functions.
+951020	955720	SHPAN2 is a standard that allows for the sale of increasingly common unbundled anciliaries
+955720	960780	like inflight Wi-Fi, lounge access, priority boarding, and more, meaning that, theoretically,
+960780	964320	it allows someone booking through Expedia to buy that inflight Wi-Fi right in their
+964320	965560	checkout flow.
+965560	970220	But only 51 of the 162 are certified on this capability.
+970220	974860	And then you get into the really specialized stuff—NDC has enabled airlines to have interoperable
+974860	979220	dynamic pricing systems, meaning, rather than working with the constraints of the GDS
+979220	983460	and ATP Co., which only allow for price updates a certain number of times per day, each fare
+983460	987740	would be customized for each individual consumer based on an algorithm's estimation of their
+987740	989180	price sensitivity.
+989180	994340	But to date, not a single airline is certified on this already-existing, revenue-generating
+994340	995840	standard.
+995840	998380	This is a familiar refrain.
+998380	1001820	Airlines ask for more advanced systems, more advanced systems are developed, then airlines
+1001820	1005060	don't use the more advanced systems because they decide the cost it would take to integrate
+1005060	1006860	them isn't worth it.
+1006860	1011500	And some airlines are going further, not only failing to implement new interoperable systems,
+1011500	1013260	but rejecting their use altogether.
+1013260	1017700	For example, if you search on Expedia for an itinerary between Denver and Long Beach,
+1017700	1021780	it'll tell you the best option is a one-stop trip through Phoenix on American, but there
+1021780	1025540	are actually three non-stop flights a day on that route.
+1025540	1030100	The problem, though, is that they're Southwest flights, and with limited exception, Southwest
+1030100	1034740	does not allow for booking through the GDS, meaning Expedia has no way to book a customer
+1034740	1036220	a ticket on the airline.
+1036220	1040200	Meanwhile, on Google Flights, which focuses on directing people where to book rather than
+1040200	1044700	booking itself, you can find Southwest schedules, which are filed with OAG, but you can't
+1044700	1049540	find fares—with no GDS sales, there's no reason to distribute fare information.
+1049540	1053940	This all means that nearly all Southwest bookings are done on Southwest's website, but the
+1053940	1058220	airline can customize and revenue-optimize the booking process as they wish.
+1058220	1062940	The upsells are everywhere, before confirming a fare when it gets a pop-up outlining the
+1062940	1065700	benefits of the next most expensive fare class.
+1065700	1069540	On the following screens, there's the same upsell again, an offer for a $200 credit in
+1069540	1073500	return for signing up for their credit card, and an option to pay for early check-in, guaranteeing
+1073500	1075920	one of the best boarding positions.
+1075920	1077880	These upsells matter.
+1077880	1082780	In 2021, ancillary fees made up more than $4 billion in revenue for Southwest, and that
+1082780	1087800	ancillary revenue is raised when customers book directly and are offered all the upsells.
+1087800	1092140	And in addition to increased revenue, direct booking costs less—no paying for developers
+1092140	1096040	to integrate their systems with others, no paying GDS fees, no paying commissions to
+1096040	1097820	Expedia and others.
+1097820	1102700	Following Southwest's lead, GDS non-participation by budget airlines is downright common these
+1102700	1107080	days, and the full-service network carriers are increasingly working around it to strike
+1107080	1111640	up direct business and system relationships with major sales channels and partners.
+1111640	1115040	But this is fragmenting the industry.
+1115040	1119100	Comments are innovating, which is exactly what the industry should be doing, but through
+1119100	1123720	this individual innovation, are losing the collective interoperability that has led to
+1123720	1127880	the globally seamless travel experience that customers have come to expect.
+1127880	1132120	It's almost analogous to a reverse tragedy of the commons.
+1132120	1136800	Each individual node in the system would grow their revenue by investing in better interoperable
+1136800	1139680	systems, but only if every other node did too.
+1139680	1143560	If only one node invests, they'll have spent money to create interoperability, but still
+1143560	1148600	lack partners to interoperate with, meaning no revenue impact and a negative cost impact.
+1148600	1153520	So, in this context, each node is actually incentivized to reduce interoperability to
+1153520	1158020	push consumers towards their own systems, which are better designed to increase per-customer
+1158020	1160200	revenue than the interoperable ones.
+1160200	1163380	It's a strategic stalemate.
+1163380	1168120	And this can explain the broader issue as well—there's a strategic IT stalemate.
+1168120	1172560	When every airline's IT is equally bad, there's little competitive incentive to
+1172560	1173720	improve it.
+1173720	1178240	Why invest to improve to a level that the public doesn't even know is possible?
+1178240	1184000	Globally, the airline industry has just settled on a culture of good enough.
+1184000	1188680	The problem, from our outside perspective, is that airlines essentially act as public
+1188680	1190200	utilities these days.
+1190200	1194620	They're the only practical means of long-haul travel, and are also the only practical means
+1194620	1200220	for medium-haul travel in areas of North America, Russia, Australia, and other larger, less-dense
+1200220	1201220	countries.
+1201260	1205860	Airlines slow down, people slow down, and therefore, economies slow down.
+1205860	1209820	The US recognizes this fact by subsidizing the construction and maintenance of airports,
+1209820	1214220	and even more strongly by subsidizing airlines to fly to rural and remote communities, under
+1214220	1218820	the thesis that a lack of air travel options would hold back their economies.
+1218820	1222560	And countries also recognize this preemptively, historically treating the earliest airlines
+1222560	1226660	as government services and running them as state-owned enterprises, but in the century
+1226660	1231460	sense, the trend has been thoroughly towards privatization, meaning the only real obligation
+1231460	1232900	is to the shareholder.
+1232900	1237460	So this is one of those all-too-common scenarios where there is a stark difference between
+1237460	1240820	what's good for the shareholder, and what's good for the world.
+1240820	1246060	Therefore, it's pretty simple—regulators need to decide whether airlines' IT antiquity
+1246060	1251820	is a problem for the public, and if so, do something about it.
+1251820	1256380	As many of you know, I travel constantly—I'm on the road more than I'm at home, and one
+1256420	1260220	thing that I've found is crucial to making that level of travel sustainable is having
+1260220	1264460	self-improvement routines that I can do both at home and on the road.
+1264460	1268060	That means going to the gym, on runs, and a less common one that I've really grown
+1268060	1271020	to love is using our sponsor, Brilliant.org.
+1271020	1274980	That's because Brilliant has these really interesting, well-designed courses on STEM
+1274980	1278340	subjects that probably seem way too hard to learn independently.
+1278340	1282320	Crucially, these courses are designed so you can move through them in bite-sized chunks,
+1282320	1285800	so while I'm at home, I might make some progress learning gravitational physics while
+1285800	1288940	waiting for a call to start, while on the road, you might find me doing the same while
+1288940	1290120	waiting for the plane to board.
+1290120	1294080	And what's amazing about it is that, if you just do that enough times, suddenly you
+1294080	1299720	understand how foundational and advanced math, or AI, data science, or neural networks work.
+1299720	1303240	Obviously, these subjects are complex, but Brilliant makes learning them straightforward
+1303240	1306800	by breaking them down into their intuitive principles, and by making it so you can learn
+1306800	1310300	anywhere and anytime thanks to their mobile app.
+1310300	1314200	And they have over 60 of these courses—few enough that you know they're really working
+1314200	1318440	on making each one amazing, while many enough that they feature all the major STEM subjects
+1318440	1319440	that you'd want to learn.
+1319440	1323360	I think it's so cool that you can learn such big, complex subjects independently at
+1323360	1327700	your own pace, so if you agree, you can try everything Brilliant has to offer, free, for
+1327700	1332320	a full 30 days by visiting Brilliant.org slash Wendover, or clicking the button on screen.
+1332320	1336920	The first 200 of you will get 20% off Brilliant's annual premium subscription.

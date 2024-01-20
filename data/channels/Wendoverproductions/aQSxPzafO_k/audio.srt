@@ -1,0 +1,596 @@
+1
+00:00:00,000 --> 00:00:05,000
+This is Wendover Productions, sponsored by the Great Courses Plus.
+
+2
+00:00:05,000 --> 00:00:07,040
+Here's an interesting question.
+
+3
+00:00:07,040 --> 00:00:12,120
+Which city do you think is more dense—Paris, France or New York, United States?
+
+4
+00:00:12,120 --> 00:00:19,280
+It probably seems obvious—New York, the land of skyscrapers, the Big Apple, right?
+
+5
+00:00:19,280 --> 00:00:20,640
+Wrong.
+
+6
+00:00:20,640 --> 00:00:25,400
+New York, in fact, has a population density of less than half that of Paris.
+
+7
+00:00:25,400 --> 00:00:31,680
+Paris's is 56,000 people per square mile while New York's is only 27,000 people per
+
+8
+00:00:31,680 --> 00:00:33,000
+square mile.
+
+9
+00:00:33,000 --> 00:00:37,780
+To find a European city with a comparable population density to New York's—the densest
+
+10
+00:00:37,780 --> 00:00:43,600
+American city—you have to go all the way down to number six on the list—Lyon, France.
+
+11
+00:00:43,600 --> 00:00:49,000
+New York, of course, has a super dense urban core, but then around it is miles and miles
+
+12
+00:00:49,000 --> 00:00:52,560
+of suburbia, just like almost every other American city.
+
+13
+00:00:52,560 --> 00:00:58,200
+Paris, on the other hand, packs almost its entire population into a compact urban core.
+
+14
+00:00:58,200 --> 00:01:02,200
+There's also another interesting pattern that differs between the two continents.
+
+15
+00:01:02,200 --> 00:01:04,600
+Rich Americans live outside the city.
+
+16
+00:01:04,600 --> 00:01:07,440
+Rich Europeans live city center.
+
+17
+00:01:07,440 --> 00:01:10,520
+Compare the income map of Paris to that of Philadelphia.
+
+18
+00:01:10,520 --> 00:01:14,240
+Of course it's not perfect, but you can definitely see a pattern.
+
+19
+00:01:14,240 --> 00:01:18,300
+The most commonly cited reason for both these trends is the difference in age.
+
+20
+00:01:18,300 --> 00:01:23,300
+Most European cities have existed for hundreds if not thousands of years while all but a
+
+21
+00:01:23,300 --> 00:01:27,980
+few American cities have only gathered enough population to be called cities in the past
+
+22
+00:01:27,980 --> 00:01:30,220
+one or two hundred years.
+
+23
+00:01:30,220 --> 00:01:34,500
+What that means is that European cities existed when all but the super rich had to commute
+
+24
+00:01:34,500 --> 00:01:35,900
+to work by foot.
+
+25
+00:01:35,900 --> 00:01:41,260
+In the middle ages, Paris had a population of two to three hundred thousand people, but
+
+26
+00:01:41,260 --> 00:01:45,120
+you could walk from one side to the other in 30 minutes.
+
+27
+00:01:45,120 --> 00:01:47,400
+It was incredibly densely populated.
+
+28
+00:01:47,400 --> 00:01:50,440
+You just had to live within walking distance of work.
+
+29
+00:01:50,440 --> 00:01:54,920
+Therefore, the rich paid more for the houses closest to the center of the city.
+
+30
+00:01:54,920 --> 00:01:59,700
+This is a similar reason to why in historic European hotels, you'll often see the nicest
+
+31
+00:01:59,700 --> 00:02:04,560
+and largest rooms on the lower floors—the opposite of what you'd see today.
+
+32
+00:02:04,560 --> 00:02:08,400
+Before elevators existed, the rich didn't want to have to walk up as many flights of
+
+33
+00:02:08,400 --> 00:02:09,740
+stairs.
+
+34
+00:02:09,740 --> 00:02:12,700
+Walking distance was not only important to big cities.
+
+35
+00:02:12,700 --> 00:02:17,980
+Small villages across Europe were almost always the same size because their population
+
+36
+00:02:17,980 --> 00:02:21,820
+was dictated by the walkability of the surrounding fields.
+
+37
+00:02:21,820 --> 00:02:26,660
+European farmers tended to live in small towns and walk to their fields during the day rather
+
+38
+00:02:26,660 --> 00:02:29,340
+than the homesteading approach used in America.
+
+39
+00:02:29,340 --> 00:02:33,140
+Therefore, villages would only be as large as the amount of people needed to work in
+
+40
+00:02:33,140 --> 00:02:36,260
+the fields within walking distance.
+
+41
+00:02:36,260 --> 00:02:40,700
+American cities, on the other hand, began their period of rapid growth in a more modern
+
+42
+00:02:40,700 --> 00:02:45,620
+era when decentralizing technologies were much more advanced.
+
+43
+00:02:45,620 --> 00:02:49,580
+By the time North American cities grew larger than the distance people could reasonably
+
+44
+00:02:49,580 --> 00:02:53,980
+walk, there was already the technological capability to create public transportation
+
+45
+00:02:53,980 --> 00:02:54,980
+systems.
+
+46
+00:02:54,980 --> 00:03:00,340
+The first major public transportation innovation was the steam train in the mid-19th century.
+
+47
+00:03:00,340 --> 00:03:04,700
+This was a very expensive means of transport and was therefore only for the super-rich.
+
+48
+00:03:04,700 --> 00:03:10,820
+Interestingly, because steam trains take an enormous amount of time to reach speed,
+
+49
+00:03:10,820 --> 00:03:15,220
+the towns that the rich commuted from, known as railroad suburbs, were generally not just
+
+50
+00:03:15,220 --> 00:03:20,980
+at the nearest bit of countryside, but separated from the city by a few miles of countryside.
+
+51
+00:03:20,980 --> 00:03:23,860
+The impact of railroad suburbs remains today.
+
+52
+00:03:23,860 --> 00:03:28,060
+On the tracks of the old Philadelphia mainline, there's a stretch of super-rich communities
+
+53
+00:03:28,060 --> 00:03:31,880
+with huge estates and country clubs from Ardmore to Malvern.
+
+54
+00:03:31,880 --> 00:03:35,980
+The demographics just never changed from the time of the railroad suburb.
+
+55
+00:03:35,980 --> 00:03:41,120
+A few decades later, streetcars emerged and quickly became an instrumental part of the
+
+56
+00:03:41,120 --> 00:03:42,660
+American commute.
+
+57
+00:03:42,660 --> 00:03:47,480
+Much like steam trains, streetcars also created new communities, this time with slightly less
+
+58
+00:03:47,480 --> 00:03:50,020
+rich, upper-middle class individuals.
+
+59
+00:03:50,020 --> 00:03:55,760
+In Washington DC, the wealthy suburbs of Tenleytown, Chevy Chase, Bethesda, McLean, Rockville,
+
+60
+00:03:55,760 --> 00:03:59,200
+and more all grew as a result of the streetcar.
+
+61
+00:03:59,200 --> 00:04:03,520
+But once again, walking distance influenced geography.
+
+62
+00:04:03,520 --> 00:04:07,880
+Streetcar commuters had to live within walking distance of a stop so naturally there would
+
+63
+00:04:07,880 --> 00:04:13,200
+be a radius of civilization around 20 or 30 minutes walking distance from a stop.
+
+64
+00:04:13,200 --> 00:04:15,580
+Then past that, nothing.
+
+65
+00:04:15,580 --> 00:04:19,840
+That meant that between the lines, there was all this open space where nobody could commute
+
+66
+00:04:19,840 --> 00:04:20,840
+from.
+
+67
+00:04:20,840 --> 00:04:22,700
+Enter the automobile.
+
+68
+00:04:22,700 --> 00:04:27,000
+At first the car was only for upper-class individuals, especially with the distraction
+
+69
+00:04:27,000 --> 00:04:29,280
+of the two world wars and Great Depression.
+
+70
+00:04:29,280 --> 00:04:34,660
+However, by the time young Americans returned from World War II, there had been enough technological
+
+71
+00:04:34,660 --> 00:04:38,340
+advances to make the automobile affordable for the middle class.
+
+72
+00:04:38,340 --> 00:04:41,940
+Over 50% of households had cars by 1950.
+
+73
+00:04:41,940 --> 00:04:46,280
+At the same time, the government was offering loans to returning veterans which significantly
+
+74
+00:04:46,280 --> 00:04:50,360
+increased the number of Americans who could afford to buy homes.
+
+75
+00:04:50,360 --> 00:04:55,080
+Instead of buying a small central city home, this generation opted to use their new cars
+
+76
+00:04:55,080 --> 00:04:59,080
+to commute from cheaper, nicer, and larger suburban homes.
+
+77
+00:04:59,080 --> 00:05:02,800
+The idea was that the working parents would go downtown each day while the rest of the
+
+78
+00:05:02,800 --> 00:05:05,240
+family would stay to enjoy the suburb.
+
+79
+00:05:05,240 --> 00:05:07,080
+It was the perfect deal.
+
+80
+00:05:07,080 --> 00:05:12,120
+So that whole history was absolutely true, but it doesn't entirely explain why European
+
+81
+00:05:12,120 --> 00:05:15,160
+cities didn't experience suburbanization as well.
+
+82
+00:05:15,160 --> 00:05:20,320
+In Germany, for example, many, if not most cities were bombed to rubble during World
+
+83
+00:05:20,320 --> 00:05:21,540
+War II.
+
+84
+00:05:21,540 --> 00:05:26,420
+They had the opportunity to rebuild in any way they wanted but then chose to keep their
+
+85
+00:05:26,420 --> 00:05:27,860
+compact design.
+
+86
+00:05:27,860 --> 00:05:33,020
+Today, the average metropolitan population density in Germany is four times higher than
+
+87
+00:05:33,020 --> 00:05:34,300
+the US is.
+
+88
+00:05:34,300 --> 00:05:38,940
+At the same time, other cities across Europe that survived the war experienced enormous
+
+89
+00:05:38,940 --> 00:05:44,360
+population influxes and still maintain their mammoth population densities.
+
+90
+00:05:44,360 --> 00:05:48,700
+Perhaps the least commonly cited reason for suburbanization in the US is crime.
+
+91
+00:05:48,860 --> 00:05:53,540
+It's a bit of an ugly period in American history that we sometimes forget, but crime
+
+92
+00:05:53,540 --> 00:05:58,720
+levels were absolutely insane in the 70s, 80s, and 90s.
+
+93
+00:05:58,720 --> 00:06:01,220
+There are a ton of different theories why this is.
+
+94
+00:06:01,220 --> 00:06:05,460
+Perhaps the most interesting being that the rise in gasoline emitted lead caused lower
+
+95
+00:06:05,460 --> 00:06:08,220
+IQs and higher aggressivity.
+
+96
+00:06:08,220 --> 00:06:14,940
+New York had an astronomical 2,245 murders in 1990.
+
+97
+00:06:15,140 --> 00:06:19,140
+London didn't even have that many in the entire 90s decade.
+
+98
+00:06:19,140 --> 00:06:24,740
+Violent crime rates are still consistently ten or more times higher in the US.
+
+99
+00:06:24,740 --> 00:06:30,540
+In 1992, a poll was conducted asking departing New Yorkers why they were moving to the suburbs
+
+100
+00:06:30,540 --> 00:06:34,900
+and the most commonly cited reason was crime at 47%.
+
+101
+00:06:34,900 --> 00:06:40,500
+Cost and quality of living were way down at lower than 10% each.
+
+102
+00:06:40,500 --> 00:06:45,340
+Crime rates are significantly lower in suburbs as they are typically havens for higher income
+
+103
+00:06:45,340 --> 00:06:46,340
+individuals.
+
+104
+00:06:46,340 --> 00:06:50,620
+Europeans don't have to worry as much about intercity crime so they are much more willing
+
+105
+00:06:50,620 --> 00:06:52,860
+to live downtown.
+
+106
+00:06:52,860 --> 00:06:57,240
+Land for suburban housing is also readily available in the US because farmers have always
+
+107
+00:06:57,240 --> 00:07:01,760
+been quick to sell their relatively unprofitable land to developers.
+
+108
+00:07:01,760 --> 00:07:07,620
+By contrast, in France, for example, agricultural subsidies are 12 times higher per acre of
+
+109
+00:07:07,620 --> 00:07:08,620
+land than the US.
+
+110
+00:07:08,660 --> 00:07:14,820
+That's a big reason why large European cities are still closely surrounded by small farms.
+
+111
+00:07:14,820 --> 00:07:19,620
+In many European cities, you can literally take the city bus to farms.
+
+112
+00:07:19,620 --> 00:07:23,660
+Lastly, all sorts of energy are cheaper in the US.
+
+113
+00:07:23,660 --> 00:07:29,580
+A gallon of gas costs as much as $7 in some parts of Europe compared to the US average
+
+114
+00:07:29,580 --> 00:07:31,180
+of $2.20.
+
+115
+00:07:31,180 --> 00:07:37,140
+It's significantly more expensive to commute by car in Europe so there's more motivation
+
+116
+00:07:37,180 --> 00:07:42,260
+to live closer to work where either the drive is shorter or you can take public transportation.
+
+117
+00:07:42,260 --> 00:07:47,540
+Also, big suburban homes aren't as attractive in Europe because electricity and heating
+
+118
+00:07:47,540 --> 00:07:49,580
+costs are higher.
+
+119
+00:07:49,580 --> 00:07:52,620
+Suburban life really didn't live up to expectations.
+
+120
+00:07:52,620 --> 00:07:58,100
+Americans now spend an average of 4 and a quarter hours per week sitting in cars, buses,
+
+121
+00:07:58,100 --> 00:08:00,700
+or trains traveling to or from work.
+
+122
+00:08:00,700 --> 00:08:04,300
+That's 2.5% of their entire lives.
+
+123
+00:08:04,300 --> 00:08:09,380
+It's also been scientifically proven that commuting from the suburbs is linked to higher
+
+124
+00:08:09,380 --> 00:08:14,300
+blood pressure, lower frustration tolerance, and higher rates of anxiety.
+
+125
+00:08:14,300 --> 00:08:18,740
+Also, the suburbs are no longer the countryside havens that they once were.
+
+126
+00:08:18,740 --> 00:08:21,940
+They're just a continuation of the urban sprawl.
+
+127
+00:08:21,940 --> 00:08:25,800
+Rich Americans are therefore beginning to return to the city.
+
+128
+00:08:25,800 --> 00:08:30,880
+With lower crime rates, higher fuel costs, and an overall shift in attitude, urban cores
+
+129
+00:08:30,880 --> 00:08:33,320
+are having a second renaissance.
+
+130
+00:08:33,320 --> 00:08:38,080
+So that's why we live where we do—it's a complicated, controversial, and surprisingly
+
+131
+00:08:38,080 --> 00:08:39,960
+political history.
+
+132
+00:08:39,960 --> 00:08:42,600
+I hope you enjoyed this Wendover Productions video.
+
+133
+00:08:42,600 --> 00:08:47,180
+I first need to thank my amazing sponsor, The Great Courses Plus.
+
+134
+00:08:47,180 --> 00:08:51,720
+The Great Courses Plus is a subscription on-demand video learning service where you can watch
+
+135
+00:08:51,720 --> 00:08:57,240
+unlimited top-notch courses from Ivy League professors, National Geographic scientists,
+
+136
+00:08:57,240 --> 00:09:02,800
+Culinary Institute of America's chefs, and hundreds more highly qualified individuals.
+
+137
+00:09:02,800 --> 00:09:07,320
+If you enjoyed this video, I highly recommend the course on cultural and human geography.
+
+138
+00:09:07,320 --> 00:09:12,280
+It's a super interesting topic and this course absolutely does it justice.
+
+139
+00:09:12,280 --> 00:09:17,440
+You can watch this or any other of the hundreds of courses for free when you sign up for a
+
+140
+00:09:17,440 --> 00:09:25,240
+30-day free trial using the link www.thegreatcoursesplus.com slash wendover or the link is also in the
+
+141
+00:09:25,240 --> 00:09:26,240
+description.
+
+142
+00:09:26,240 --> 00:09:30,160
+I also recently started a Patreon which you can go to by clicking here.
+
+143
+00:09:30,160 --> 00:09:35,480
+There are a bunch of great rewards like early access to videos, stickers, t-shirts, and
+
+144
+00:09:35,480 --> 00:09:40,020
+best of all, every dollar contributed there goes right back into the channel.
+
+145
+00:09:40,020 --> 00:09:44,300
+Aside from that, please follow me on twitter at wendoverpro.
+
+146
+00:09:44,300 --> 00:09:50,440
+Watch my last video on the story behind the 787 and A380 planes, check out my fan-moderated
+
+147
+00:09:50,440 --> 00:09:58,240
+subreddit at www.reddit.com slash wendoverproductions, and most of all subscribe to this channel.
+
+148
+00:09:58,240 --> 00:10:02,380
+Thanks again for watching and I'll see you in two weeks for another Wendover Productions
+
+149
+00:10:02,380 --> 00:10:02,880
+video.
+

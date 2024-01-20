@@ -1,0 +1,828 @@
+1
+00:00:00,000 --> 00:00:02,940
+This video was made possible by Brilliant.
+
+2
+00:00:02,940 --> 00:00:10,140
+Start learning complex STEM subjects simply by going to brilliant.org slash wendover.
+
+3
+00:00:10,140 --> 00:00:12,100
+The idea is simple.
+
+4
+00:00:12,100 --> 00:00:16,720
+You take what Southwest, Ryanair, Wizz Air, and countless other low-cost airlines have
+
+5
+00:00:16,720 --> 00:00:20,860
+done with short-haul flying, and apply it to the long-haul market.
+
+6
+00:00:20,860 --> 00:00:22,940
+You make long-haul flying cheap.
+
+7
+00:00:22,940 --> 00:00:27,640
+That's the concept behind low-cost, long-haul airlines.
+
+8
+00:00:27,640 --> 00:00:32,640
+To make that actually work, however, has proved a little more difficult.
+
+9
+00:00:32,640 --> 00:00:37,640
+Now, the underlying recipe behind low-cost short-haul airlines by the like of Ryanair
+
+10
+00:00:37,640 --> 00:00:42,980
+and low-cost long-haul airlines such as Norwegian Airlines looks the same on the surface—one
+
+11
+00:00:42,980 --> 00:00:47,920
+just flies longer routes than the other—but the result has been markedly different.
+
+12
+00:00:47,920 --> 00:00:53,080
+Ryanair is one of the most profitable airlines in the world—Norwegian has been operating
+
+13
+00:00:53,080 --> 00:00:56,080
+deeply in the red for years.
+
+14
+00:00:56,080 --> 00:01:01,080
+Low-cost short-haul airlines have upended the global aviation industry.
+
+15
+00:01:01,080 --> 00:01:05,840
+Low-cost long-haul airlines have failed, and failed, and failed again.
+
+16
+00:01:05,840 --> 00:01:12,040
+In 2019 alone, Wow Air, June, Églazur, Thomas Cook, and XL Airlines all went under, all
+
+17
+00:01:12,040 --> 00:01:14,920
+after operating under this business model.
+
+18
+00:01:14,920 --> 00:01:18,940
+In fact, globally, there are only about a dozen airlines currently operating using this
+
+19
+00:01:18,940 --> 00:01:23,880
+business model after scores more have tried over the decades.
+
+20
+00:01:23,880 --> 00:01:28,560
+These few survivors, though, are not all failures hanging on to their last fragments
+
+21
+00:01:28,560 --> 00:01:29,840
+of life.
+
+22
+00:01:29,840 --> 00:01:35,840
+Over the past five years, before the COVID-induced travel downturn, Condor, Cebu Pacific, Azul
+
+23
+00:01:35,840 --> 00:01:41,320
+Airlines, Jetstar, TUI, Scoot, and WestJet have each operated long-haul, low-cost flights
+
+24
+00:01:41,320 --> 00:01:44,240
+at varying levels, but earned a profit.
+
+25
+00:01:44,240 --> 00:01:50,480
+Meanwhile, though, AirAsia X, Norwegian Airlines, Eurowings, and countless now-bankrupt low-cost
+
+26
+00:01:50,480 --> 00:01:53,400
+long-haul airlines operated at a loss.
+
+27
+00:01:53,400 --> 00:01:57,000
+So, considering some can do it, why can't they all?
+
+28
+00:01:57,000 --> 00:02:02,560
+What's the secret sauce to a profitable, long-haul, low-cost airline?
+
+29
+00:02:02,560 --> 00:02:08,720
+Well, these are the 14 measurable characteristics that might impact the profitability of a given
+
+30
+00:02:08,720 --> 00:02:10,960
+long-haul, low-cost airline.
+
+31
+00:02:10,960 --> 00:02:15,400
+These are ten currently or recently operating long-haul, low-cost airlines that report independent
+
+32
+00:02:15,400 --> 00:02:20,320
+financial results, and these are each of those 14 characteristics quantified for each of
+
+33
+00:02:20,320 --> 00:02:24,720
+those ten airlines, based on data before the coronavirus pandemic started.
+
+34
+00:02:24,720 --> 00:02:30,160
+Now, for most of these characteristics, there's quite a lot of variability from airline to
+
+35
+00:02:30,160 --> 00:02:35,200
+airline—each company clearly has its own hypothesis for the correct formula that might
+
+36
+00:02:35,200 --> 00:02:38,120
+make low-cost long-haul travel possible.
+
+37
+00:02:38,120 --> 00:02:42,600
+For example, in terms of number of hubs, defined as the number of distinct origins their flights
+
+38
+00:02:42,600 --> 00:02:49,360
+operate from, TUI has 18 spread out across Europe, while AirAsia X has just one, Kuala
+
+39
+00:02:49,360 --> 00:02:50,360
+Lumpur.
+
+40
+00:02:50,360 --> 00:02:54,560
+Meanwhile, in the category of the average number of route competitors, defined as how
+
+41
+00:02:54,560 --> 00:02:59,200
+many other airlines operate the same long-haul routes as the subject airline, TUI had the
+
+42
+00:02:59,200 --> 00:03:03,640
+least, meaning that for almost all of their routes, they were the only airline to operate
+
+43
+00:03:03,640 --> 00:03:08,240
+it, while Cebu Pacific had the most, meaning that they typically had multiple competitors
+
+44
+00:03:08,240 --> 00:03:10,160
+on each of their routes.
+
+45
+00:03:10,160 --> 00:03:14,920
+Now, by performing regression analysis, the data suggests that most of these characteristics
+
+46
+00:03:14,920 --> 00:03:17,720
+have very little correlation to profitability.
+
+47
+00:03:17,720 --> 00:03:22,080
+For example, you might think, like many in the industry, that long-haul low-cost carriers
+
+48
+00:03:22,080 --> 00:03:26,160
+would benefit from having younger, more fuel-efficient aircraft.
+
+49
+00:03:26,160 --> 00:03:31,920
+Norwegian Airlines, though, has an average aircraft age of just 2.3 years, but it's
+
+50
+00:03:31,920 --> 00:03:36,680
+deeply unprofitable, while Condor, on the other hand, has an average aircraft age of
+
+51
+00:03:36,680 --> 00:03:40,840
+24 years, and yet it's the most profitable airline of these ten.
+
+52
+00:03:40,840 --> 00:03:45,360
+Of course, then there's Eurowings, with the second oldest fleet, and yet it's also
+
+53
+00:03:45,360 --> 00:03:46,680
+deeply unprofitable.
+
+54
+00:03:46,680 --> 00:03:51,440
+Essentially, the data suggest that aircraft age doesn't have a whole lot to do with
+
+55
+00:03:51,440 --> 00:03:54,280
+long-haul low-cost airline profitability.
+
+56
+00:03:54,280 --> 00:03:57,720
+There are reasons why a young fleet could help, like through lower fuel burn, but there
+
+57
+00:03:57,720 --> 00:04:02,000
+are also reasons why an older fleet could help, like through lower capital cost, so
+
+58
+00:04:02,000 --> 00:04:04,520
+it seems like it all evens out in the end.
+
+59
+00:04:04,520 --> 00:04:09,400
+It's a similar case with the average long-haul aircraft capacity, average origin country
+
+60
+00:04:09,400 --> 00:04:13,920
+GDP per capita, and average origin traffic coefficient of variation—essentially the
+
+61
+00:04:13,920 --> 00:04:16,560
+degree of seasonality for passenger demand.
+
+62
+00:04:16,560 --> 00:04:21,320
+Each of these factors showed very little correlation to profitability, and a few others demonstrated
+
+63
+00:04:21,320 --> 00:04:26,960
+results with higher, but still fairly statistically insignificant correlation, but then the three
+
+64
+00:04:26,960 --> 00:04:31,160
+characteristics with the highest degree of correlation to airline profitability start
+
+65
+00:04:31,160 --> 00:04:34,760
+to paint a pretty clear picture.
+
+66
+00:04:34,760 --> 00:04:39,920
+The third most correlated characteristic is the average number of route competitors.
+
+67
+00:04:39,920 --> 00:04:45,200
+Essentially, the data show that low-cost long-haul airlines with a smaller number of competitors
+
+68
+00:04:45,200 --> 00:04:48,480
+on their average long-haul route do better financially.
+
+69
+00:04:48,480 --> 00:04:53,420
+Then, the second strongest correlated characteristic is the average total weekly frequency of the
+
+70
+00:04:53,420 --> 00:04:57,700
+given airlines' long-haul routes—meaning how many total weekly flights are flown by
+
+71
+00:04:57,700 --> 00:05:00,660
+all airlines on each of their long-haul routes.
+
+72
+00:05:00,660 --> 00:05:05,020
+The less frequent their average route, the better they seem to do financially.
+
+73
+00:05:05,020 --> 00:05:11,180
+Then, the most strongly correlated characteristic by far is an airline's number of hubs—the
+
+74
+00:05:11,180 --> 00:05:14,380
+more hubs they have, the better they perform financially.
+
+75
+00:05:14,380 --> 00:05:21,320
+Now, each of these three factors have to do with one thing—network design.
+
+76
+00:05:21,320 --> 00:05:27,000
+They have to do with where and when the airlines fly, but not at all with how—these factors
+
+77
+00:05:27,000 --> 00:05:32,540
+have nothing to do with the cabins, the aircraft, the ground handling, or anything operational.
+
+78
+00:05:32,540 --> 00:05:35,800
+So, how do you interpret these data?
+
+79
+00:05:35,800 --> 00:05:36,800
+What do they mean?
+
+80
+00:05:36,800 --> 00:05:42,120
+Well, essentially, they suggest that only a very particular type of route network works
+
+81
+00:05:42,120 --> 00:05:46,940
+for long-haul low-cost flying, and that network is essentially the exact opposite of what
+
+82
+00:05:46,940 --> 00:05:50,500
+AirAsia X, for example, flies.
+
+83
+00:05:50,500 --> 00:05:55,140
+This is what their long-haul route map looks like, or rather looked like pre-COVID.
+
+84
+00:05:55,140 --> 00:05:59,180
+They're flying routes like Kuala Lumpur to Tokyo, competing against 44 flights per
+
+85
+00:05:59,180 --> 00:06:04,120
+week by Malaysia Airlines, Japan Airlines, and ANA, or Kuala Lumpur to Jeddah, competing
+
+86
+00:06:04,120 --> 00:06:08,020
+against 33 weekly frequencies by Malaysia Airlines and Saudi Arabia.
+
+87
+00:06:08,020 --> 00:06:12,580
+In fact, only five of their 19 long-haul routes are competition-free.
+
+88
+00:06:12,580 --> 00:06:17,060
+They also only have one hub, Kuala Lumpur, from which every single one of their flights,
+
+89
+00:06:17,060 --> 00:06:21,040
+with the sole exception of a route that continues on from Osaka to Honolulu, originates.
+
+90
+00:06:22,040 --> 00:06:26,740
+Essentially, they're doing everything the data say not to do and, as predicted, they're
+
+91
+00:06:26,740 --> 00:06:29,980
+losing tons of money while doing it.
+
+92
+00:06:29,980 --> 00:06:35,580
+From a data perspective, the exact antithesis of AirAsia X is TUI.
+
+93
+00:06:35,580 --> 00:06:38,920
+This is what their pre-COVID route network looked like.
+
+94
+00:06:38,920 --> 00:06:44,780
+Now, while AirAsia X flies high-competition, high-frequency routes from a single hub, TUI
+
+95
+00:06:44,780 --> 00:06:48,380
+flies low-competition, low-frequency routes from many hubs.
+
+96
+00:06:48,720 --> 00:06:53,220
+Out of more than 60 long-haul routes, only eight of theirs have direct competition, and
+
+97
+00:06:53,220 --> 00:06:58,940
+only one of those, Amsterdam to Paramaribo, is flown by two competing airlines.
+
+98
+00:06:58,940 --> 00:07:03,820
+Each of their routes is also extremely low-frequency, with an average of only three non-stop flights
+
+99
+00:07:03,820 --> 00:07:10,260
+per week, and, most uniquely, they fly these flights from 18 different hubs across Europe.
+
+100
+00:07:10,260 --> 00:07:16,480
+Now, these statistical differences are manifestations of the true, more fundamental difference between
+
+101
+00:07:16,480 --> 00:07:22,480
+AirAsia X and TUI, or Norwegian Airlines and Condor, or Wow Air and Azul Airlines.
+
+102
+00:07:22,480 --> 00:07:27,800
+What's actually different between these airlines and these airlines is how they deal
+
+103
+00:07:27,800 --> 00:07:29,320
+with demand.
+
+104
+00:07:29,320 --> 00:07:34,280
+AirAsia X, Norwegian Airlines, and Wow Air try to capture demand.
+
+105
+00:07:34,280 --> 00:07:38,400
+They're entering some of the busiest airline markets in the world, home to some of the
+
+106
+00:07:38,400 --> 00:07:43,120
+largest and most powerful airlines out there, and are trying to lure a large enough portion
+
+107
+00:07:43,120 --> 00:07:46,200
+of the passengers to fill their planes.
+
+108
+00:07:46,200 --> 00:07:51,860
+The difference is subtle, but TUI, Condor, and Azul Airlines don't as much try to capture
+
+109
+00:07:51,860 --> 00:07:55,760
+a market, but rather try to create it.
+
+110
+00:07:55,760 --> 00:08:01,540
+In fact, quite literally, the second line of the Azul Airlines Wikipedia page says exactly
+
+111
+00:08:01,540 --> 00:08:06,000
+this—the company's business model is to stimulate demand by providing frequent and
+
+112
+00:08:06,000 --> 00:08:09,580
+affordable air service to underserved markets throughout Brazil.
+
+113
+00:08:09,580 --> 00:08:14,320
+The reason why LATAM, Brazil's largest airline, doesn't have a flight from Recife to Orlando
+
+114
+00:08:14,320 --> 00:08:18,480
+is because they have the data and they know that the number of people who connect from
+
+115
+00:08:18,480 --> 00:08:23,760
+Recife to São Paulo to Orlando on their own flights is not enough to fill a plane non-stop
+
+116
+00:08:23,760 --> 00:08:28,680
+from Recife to Orlando—at least at their full service prices.
+
+117
+00:08:28,680 --> 00:08:33,320
+When Azul comes in and drops fares to a couple hundred dollars, some people might choose
+
+118
+00:08:33,320 --> 00:08:38,660
+to fly on Azul because the price is cheap and they were going there already, but crucially,
+
+119
+00:08:38,660 --> 00:08:43,200
+others will choose to fly this route because the price is so low.
+
+120
+00:08:43,200 --> 00:08:45,480
+They're creating demand.
+
+121
+00:08:45,480 --> 00:08:51,680
+Now, evidence of this phenomena can be found by looking at short-haul, low-cost carriers—the
+
+122
+00:08:51,680 --> 00:08:56,720
+ones who have been operating for decades profitably and undoubtedly know what they're doing.
+
+123
+00:08:56,720 --> 00:09:01,920
+You see, the busiest route in Europe, by scheduled seat capacity, is Barcelona to Madrid, and
+
+124
+00:09:01,920 --> 00:09:05,000
+Europe's largest low-cost airline is Ryanair.
+
+125
+00:09:05,000 --> 00:09:08,800
+Conspicuously, though, Ryanair does not operate this route.
+
+126
+00:09:09,160 --> 00:09:14,240
+They also don't operate from Paris to London, or Stockholm to Oslo, or Berlin to Frankfurt,
+
+127
+00:09:14,240 --> 00:09:18,300
+or countless other of the busiest passenger flows in Europe because they can make more
+
+128
+00:09:18,300 --> 00:09:25,160
+money by stimulating demand on low-competition, historically low-demand routes.
+
+129
+00:09:25,160 --> 00:09:30,240
+Across the board, the routes that work for short-haul, low-cost carriers are different
+
+130
+00:09:30,240 --> 00:09:33,440
+than those that work for full-service airlines.
+
+131
+00:09:33,440 --> 00:09:38,680
+When long-haul, low-cost airlines emerged en masse, many—including AirAsiaX, Norwegian
+
+132
+00:09:38,680 --> 00:09:43,160
+Airlines, and Wow Air—seemingly sought to emulate the route maps of their full-service
+
+133
+00:09:43,160 --> 00:09:44,160
+competitors.
+
+134
+00:09:44,160 --> 00:09:48,800
+Wow Air, for example, focused on connecting major US cities to major European cities via
+
+135
+00:09:48,800 --> 00:09:52,920
+Reykjavik, Norwegian did the same but with non-stop flights, while AirAsiaX worked to
+
+136
+00:09:52,920 --> 00:09:56,680
+complement their short-haul network by connecting Malaysia to the rest of Asia.
+
+137
+00:09:56,680 --> 00:10:02,700
+The problem is, short-haul budget airlines already proved that this was hardly viable,
+
+138
+00:10:02,700 --> 00:10:07,060
+and it's even less viable with low-cost long-haul airlines because they have even
+
+139
+00:10:07,060 --> 00:10:09,420
+less basis for cost differentiation.
+
+140
+00:10:09,420 --> 00:10:14,660
+That's because, the longer a flight is, the greater proportion of the overall cost
+
+141
+00:10:14,660 --> 00:10:19,880
+fuel takes up, and that's because, no matter the length of a flight, airlines always only
+
+142
+00:10:19,880 --> 00:10:25,060
+have to pay for one set of check-in agents, one gate, one cleaning crew, and one of everything
+
+143
+00:10:25,060 --> 00:10:29,760
+else a flight needs at the airport, but for every minute a flight is airborne, they have
+
+144
+00:10:29,760 --> 00:10:31,900
+to pay more for fuel.
+
+145
+00:10:31,900 --> 00:10:36,440
+What TUI, Condor, and Azul airlines have in common is that they look for routes where
+
+146
+00:10:36,440 --> 00:10:41,780
+people want to travel but choose not to because of the cost or time it takes to get there,
+
+147
+00:10:41,780 --> 00:10:44,220
+or because they haven't even considered it.
+
+148
+00:10:44,220 --> 00:10:48,820
+They pretty much ignore business travelers entirely and focus on the two other major
+
+149
+00:10:48,820 --> 00:10:53,620
+travel segments—people going on vacation, and people visiting friends and families.
+
+150
+00:10:53,620 --> 00:10:58,100
+It's certainly counterintuitive to think that TUI can turn a profit flying from Brussels
+
+151
+00:10:58,100 --> 00:11:02,740
+to Banjul in the Gambia, while Norwegian Airlines cannot while flying London to New
+
+152
+00:11:02,740 --> 00:11:08,540
+York, but this goes to show that what matters in this industry even more than demand is
+
+153
+00:11:08,540 --> 00:11:09,680
+competition.
+
+154
+00:11:09,680 --> 00:11:14,620
+There can be all the demand in the world, but if it all goes to a competitor, an airline
+
+155
+00:11:14,620 --> 00:11:16,580
+will not be viable.
+
+156
+00:11:16,580 --> 00:11:21,700
+Now, as always, there will certainly be exceptions to this rule, and it isn't to say that there
+
+157
+00:11:21,700 --> 00:11:25,940
+aren't other factors that influence the profitability of a given long-haul low-cost
+
+158
+00:11:25,940 --> 00:11:30,760
+airline, but it is to say that the easiest route to profitability seemingly starts with
+
+159
+00:11:30,760 --> 00:11:32,720
+stimulating demand.
+
+160
+00:11:32,720 --> 00:11:38,180
+If airlines like Norwegian, AirAsia X, Eurowings, and other unprofitable long-haul low-cost
+
+161
+00:11:38,180 --> 00:11:42,980
+carriers do make it out to the other end of the COVID-induced air travel downturn, they
+
+162
+00:11:42,980 --> 00:11:47,760
+will have an opportunity to rebuild their long-haul route networks from nothing, starting
+
+163
+00:11:47,760 --> 00:11:50,840
+with the ones that have historically worked best.
+
+164
+00:11:50,840 --> 00:11:54,700
+The data would suggest that the long-haul routes that should work best are ones like
+
+165
+00:11:54,700 --> 00:11:59,580
+Oslo to Fort Lauderdale or Bangkok—both of which are low-frequency routes with little
+
+166
+00:11:59,580 --> 00:12:03,280
+competition that also happened to be some of the first long-haul routes they launched
+
+167
+00:12:03,280 --> 00:12:05,320
+early in the 2010s.
+
+168
+00:12:05,320 --> 00:12:09,220
+While prior to the pandemic, these airlines were tremendously focused on capturing as
+
+169
+00:12:09,220 --> 00:12:13,540
+much of the market as possible as fast as possible, which likely led them to launching
+
+170
+00:12:13,540 --> 00:12:19,860
+unviable routes, the slow yet seemingly imminent restart to international long-haul travel
+
+171
+00:12:19,860 --> 00:12:25,080
+might act as a natural experiment regarding the viability of the business model.
+
+172
+00:12:25,080 --> 00:12:30,660
+Without any momentum to work off of, if these airlines—both the profitable and unprofitable
+
+173
+00:12:30,660 --> 00:12:35,380
+ones—are successfully able to stimulate demand once long-haul travel is once again
+
+174
+00:12:35,380 --> 00:12:43,320
+safe and possible, that will more or less prove that this is truly their secret sauce.
+
+175
+00:12:43,320 --> 00:12:48,220
+Following lockdowns in the US, Europe, and Asia, short-haul low-cost carriers outpaced
+
+176
+00:12:48,220 --> 00:12:51,340
+their full-service competitors in their recoveries.
+
+177
+00:12:51,340 --> 00:12:55,900
+This was largely because they were able to stimulate demand on leisure routes with cheap
+
+178
+00:12:55,900 --> 00:12:59,260
+fares and non-stop, point-to-point routes.
+
+179
+00:12:59,260 --> 00:13:04,400
+The long-haul recovery has barely started yet, but if we see the same happen—if we
+
+180
+00:13:04,400 --> 00:13:09,740
+see long-haul low-cost carriers lead with niche, low-frequency leisure routes, and if
+
+181
+00:13:09,740 --> 00:13:14,260
+this works and the recovery outpaces that of full-service airlines, then we'll have
+
+182
+00:13:14,260 --> 00:13:19,660
+further evidence that what makes low-cost carriers work is not so much their low operating
+
+183
+00:13:19,660 --> 00:13:22,540
+costs, but rather their route networks.
+
+184
+00:13:22,540 --> 00:13:28,760
+Then, if this is true, we know that the difference between Lufthansa and Condor Airlines, or
+
+185
+00:13:28,760 --> 00:13:34,940
+British Airways and TUI, or LATAM and Azul, is that one set of airlines captures demand,
+
+186
+00:13:34,940 --> 00:13:38,020
+and the other one creates it.
+
+187
+00:13:38,020 --> 00:13:42,140
+Earlier in this video, I mentioned that I ran regression models on the datasets I created
+
+188
+00:13:42,140 --> 00:13:46,180
+to research for this video, which might sound like some crazy scary math words to some of
+
+189
+00:13:46,180 --> 00:13:50,340
+you, and it certainly would if for me a few years ago, but regression analysis is actually
+
+190
+00:13:50,340 --> 00:13:53,780
+one of the simplest and most powerful tools in statistics.
+
+191
+00:13:53,780 --> 00:13:58,540
+I'm one of those people who hated math in high school and was terrible at it, but since
+
+192
+00:13:58,540 --> 00:14:02,820
+then, I've come to love statistics and found my knowledge of the subject quite useful for
+
+193
+00:14:02,820 --> 00:14:06,300
+both this, my job, and everyday applications.
+
+194
+00:14:06,300 --> 00:14:10,380
+What really helped me master the subject were brilliant statistics courses.
+
+195
+00:14:10,420 --> 00:14:14,540
+Specifically, their statistics fundamentals course helped me with regression analysis,
+
+196
+00:14:14,540 --> 00:14:18,020
+while the rest of the ones on the subject taught me things that I didn't even learn
+
+197
+00:14:18,020 --> 00:14:19,820
+when I took the course in college.
+
+198
+00:14:19,820 --> 00:14:24,120
+Now, an online course teaching more than a college course probably sounds scary, but
+
+199
+00:14:24,120 --> 00:14:28,900
+why Brilliant is so great is that they take these huge, complex subjects and break them
+
+200
+00:14:28,900 --> 00:14:33,460
+down into little chunks which they teach by explaining the intuitive fundamentals.
+
+201
+00:14:33,460 --> 00:14:37,640
+In the end, even if you're the opposite of a math expert, like me, you can finally
+
+202
+00:14:37,640 --> 00:14:41,400
+understand these subjects that you previously looked at in trepidation.
+
+203
+00:14:41,400 --> 00:14:45,680
+All in all, if you want to learn the subjects you hated in school, but actually enjoy the
+
+204
+00:14:45,680 --> 00:14:48,920
+process, Brilliant is the place for you.
+
+205
+00:14:48,920 --> 00:14:53,200
+By heading to brilliant.org slash wendover, you can sign up for free, and then, if you
+
+206
+00:14:53,200 --> 00:14:57,520
+decide to upgrade to premium, the first 200 people to go to that same link will get 20%
+
+207
+00:14:57,520 --> 00:15:00,840
+off, and you'll be supporting the channel while you're at it.
+

@@ -1,0 +1,155 @@
+This video was made possible by Hover.
+Buy your domain before it's gone for 10% off by going to hover.com slash wendover.
+Imagine a $2,000 car, or a $100 laptop, or a $70 iPhone, or imagine any product ten times
+cheaper than it was.
+Imagine the fundamental market change that would bring.
+Imagine the amount of demand there would be for that $2,000 car, or a $100 laptop,
+or a $70 iPhone.
+That's what Elon Musk imagined 15 years ago when he sat on a pile of $165 million.
+Elon Musk's businesses are all centered around some of the most basic principles of
+economics out there.
+When he starts a business, he's not necessarily trying to do something new, he's trying
+to do something right.
+Musk made most of his early fortune through his involvement with PayPal.
+In 1999 he founded a company called x.com which was quickly bought by Confinity, the
+creators of PayPal, so when PayPal was bought by eBay in 2002, Musk's 11.7% ownership
+of the company translated to $165 million.
+Elon Musk has always been deeply passionate about space exploration and, as anyone knows,
+public interest in space has been falling since the Apollo era.
+Therefore, Musk's plan with his newfound fortune was to launch a rocket to Mars carrying
+a small greenhouse that would grow plants on the surface of the red planet.
+Basically, he wanted to take all his money and put it into a big publicity stunt for
+space exploration, but he had a problem—it was too expensive.
+The cost of launches was absolutely immense and, even when Musk tried to buy decommissioned
+Russian ICBMs, he couldn't find a way to pull off the project, but he had discovered
+something—the space launch industry was ripe for disruption.
+Here's Joseph, the economics expert from RealLifeLore to explain why.
+The rocket development and space launch companies before SpaceX were essentially aggregators.
+They bought engines and guidance systems and all the other various components from other
+companies to cobble together one completed rocket.
+But all the different component suppliers also had their own component suppliers to
+make their product.
+The suppliers of the suppliers not only had to cover their development and manufacturing
+costs, they had to sell their components at a markup in order to make a profit.
+And then the next component manufacturer had to do the same, which means that by the time
+the component gets to the company that's assembling the rocket, it's expensive.
+Not only that, but the assembly company also has to pay for employees that work to actually
+figure out how to make all of the different pieces work together.
+SpaceX, however, works differently.
+It makes 85% of the components it uses itself, which allows it to make cheaper parts.
+For example, if SpaceX had bought their radios externally, they would be paying $50,000 to
+$100,000 each.
+But since they developed them internally, they only cost $5,000 each to build—a dramatic
+improvement in reducing cost.
+Joseph from RealLifeLore has a brand new book which includes two fantastic chapters explaining
+simple economic concepts like this that I'll link in the description, but let's talk
+Tesla.
+Tesla's economic strategy is fairly similar to SpaceX's.
+Tesla themselves makes about 80% of the 5,300 parts in a Tesla car, but for the most part
+it doesn't make these—the batteries, at least yet.
+Batteries are very difficult to make at a competitive price so very few companies do.
+The largest three manufacturers—Panasonic, BYD, and LG Chem—make a combined 63% of
+the world's batteries.
+Tesla, therefore, has historically just bought batteries from Panasonic at a cost of about
+$200 per kilowatt hour, but that means that Tesla's smallest battery pack—the 50 kilowatt
+hour version—costs $10,000 just in components.
+When you're trying to sell a $35,000 car and make a profit, that's a significant
+cost that can be reduced.
+Therefore, Tesla is attempting to reduce the cost of their batteries by 30% by building
+their own factory in a joint venture with Panasonic.
+Their long-term goal, however, is to drop the battery price below $100 per kilowatt
+hour which would either double the range or halve the price of that 50 kilowatt hour battery
+pack.
+But the vertical integration of Tesla and SpaceX isn't all useful.
+The companies basically have to learn and perfect each step in the manufacturing process
+and, if one step isn't working, no cars get made.
+For example, the Tesla Model 3, the low-cost Tesla, is built using steel instead of aluminum
+like the Model S and X.
+With this change, the manufacturer is having troubles properly welding the vehicle bodies
+together and so the entire production line is slowed down massively.
+But there's something else unique about SpaceX and Tesla's production lines—they're
+in the US.
+Now this probably seems counter-intuitive.
+Why would you put the production lines of two companies working to make the least expensive
+products on the market in one of the most expensive labor markets in the world?
+Almost every US company has relocated their production lines to cheaper labor markets
+in Asia and Africa but Musk has always had his in the US.
+Believe it or not, this isn't a PR move.
+It actually makes sense for the two companies.
+Tesla and SpaceX's production processes are constantly being tweaked and optimized
+as the companies learn to make their products.
+While China might be able to build Tesla cars at the same price by using cheaper human labor,
+Tesla's US factory is just miles away from its headquarters in Palo Alto meaning that
+the executive, development, and production staff are all heavily integrated and can make
+changes fast.
+SpaceX even takes this a step further—its offices and manufacturing lines are all under
+one roof.
+The Tesla factory in particular is also heavily automatized and the US excels in production
+line automation with its abundance of highly sealed workers.
+But just how much is Musk dropping the price on his products?
+The United Launch Alliance, which historically has won most of the highly lucrative US government
+launch contracts, is believed to charge more than $400 million dollars all in for a military
+satellite launch while SpaceX charges about $80 million dollars.
+So SpaceX is already at a fifth of the price but, as mentioned, Elon Musk wants that to
+fall to a tenth.
+Here's the key for that.
+The fuel used in the Falcon 9 rocket only costs about $200,000 per launch.
+It's practically a non-factor in the launch price.
+The real cost is of the rockets themselves so that's why SpaceX is making them reusable.
+The first stage of the rocket is now being designed to land back on earth and be put
+back into service with dozens of more launches.
+Once this system becomes reliable, it's believed that the cost savings will drop the
+launch price to $40 million dollars—a full ten times cheaper than the United Launch Alliance's
+military launch price.
+SpaceX's long-term goal is to get the launch price down to about $10 million dollars per
+launch.
+While this has already made a significant impact on the space industry, a launch price
+as low as this would fundamentally change what's possible in space.
+Real space tourism would become feasible, commercial satellites would become downright
+commonplace, and space would become closer than it's ever been.
+But SpaceX does have a bit of a problem.
+People aren't really buying more rocket launches even though prices are down.
+It's what's known as a price inelastic market.
+That's the opposite of Tesla and the electric vehicle market where lower prices lead to
+huge increases in sales.
+The problem with the space launch market is that it is not a consumer market.
+Normal people don't buy rocket launches.
+Governments buy rocket launches and they don't care about price nearly as much as people
+since it's not the decision maker's money.
+The US Air Force, for example, decides they need to launch a certain number of satellites
+each year for national security reasons and they'll pay whatever it takes.
+But Elon Musk's life goal is to get humanity to Mars.
+That's why SpaceX exists and he needs money to do it.
+Lots of money.
+So, SpaceX is getting into the internet business.
+The company is actively developing a satellite constellation that would provide high-speed
+internet to anywhere on earth.
+Thousands of small satellites would be put into low earth orbit and then anyone worldwide
+could hook into the network using an inexpensive ground receiver.
+If SpaceX got just 50 million users out of the 7 billion in its proposed service area,
+this business could bring in $30 billion a year.
+Since SpaceX would be building and launching the satellites themselves, costs would be
+dramatically lower than the competitions.
+The whole commercial aspect of SpaceX essentially exists to fund Musk's future space exploration
+projects.
+For that reason, SpaceX is not a public company like Tesla.
+Elon Musk does not want to make money with SpaceX.
+He wants to get to Mars.
+He does not want to be beholden to shareholders and profitability.
+Musk has therefore publicly said that SpaceX will not go public until the company achieves
+regular flights to and from Mars and thanks to the entrepreneur's understanding of basic
+economics, that might not be too far off.
+If you're looking to start a company, you'll need not only an understanding of basic economics
+but also a domain.
+Hover makes finding and purchasing your domain super simple.
+They have over 400 domain extensions that let you create unique domains like mine—Wendover.productions.
+It literally takes minutes to find and buy your domain but if you do ever have an issue
+they have amazing, best-in-class customer support that will help you with anything and
+everything.
+If you have a name for your business, your YouTube channel, or anything else, you should
+buy your domain now before it's gone.
+You can also set up custom, professional email addresses using those domains for very reasonable
+prices and what's best is that you can do all of this for 10% off by heading over to
+hover.com slash wendover and you'll be supporting the channel while you're at it.
+Hover is what I use for my domains since it just works and you should too by heading over
+to hover.com slash wendover.

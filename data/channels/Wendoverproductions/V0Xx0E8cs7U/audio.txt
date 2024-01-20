@@ -1,0 +1,318 @@
+It's 4.55am on a March day at the National Weather Service's Twin Cities Forecast Facility
+when the morning stillness is broken by the rattle of a garage door opening.
+As they do every single morning of every single day, a meteorologist working the station's
+public service desk is launching a helium and hydrogen-filled latex balloon connected
+to an expendable radio scone by 80 feet of string.
+At the very same time, meteorologists from the other 91 NWS radio scone stations across
+the US, along with hundreds from around the globe, are launching their own upper-air atmospheric
+soundings.
+In the next two hours, these balloons will climb up to 100,000 feet, or 300,000 meters
+into the atmosphere, drifting as far as 200 miles or 320 kilometers from their launch
+point while their payload, about the weight of a grapefruit, relays temperature, air pressure,
+and humidity data back to the station.
+The technology might be simple, but the readings from various altitudes captured every 12 hours
+are simply irreplaceable.
+These data, transmitted by radio frequency then scrubbed for errors by the meteorologists
+that launched the balloon in the first place, will get compiled and plugged into impossibly
+complex models in the National Centers for Environmental Prediction and then archived
+at the National Climate and Data Center, but that's later.
+Right now, as the Minneapolis meteorologists follow their highly standardized routine,
+one reading catches their eye.
+The barometer reads 1,017 millibars—a high-pressure front developing.
+For our meteorologists, an Arctic cold front means a few more freezing commutes and balloon
+launches.
+For the rest of the US, it might not mean much, or it might present a problem.
+That's not a conclusion the data from a single balloon can possibly offer.
+To fulfill their task of telling the public what's to come, the US's National Weather
+Service is going to need far, far more data.
+To start, the NWS operates 160 high-resolution Doppler weather radars, each dedicating seven
+seconds an hour to emitting quick bursts of energy, then the rest listening for its return
+to interpret what's present in the sky—water or air.
+The multi-million dollar installations are spread out across the 50 states, Puerto Rico,
+Guam, and uniquely, at one US military base in Okinawa, Japan, and two others in South
+Korea, putting the American National Weather Service in the exceptional position of maintaining
+near-complete weather radar coverage over a foreign country.
+In the US itself, most metro areas are covered, and the deployment of the system was credited
+with increasing average tornado warning times from four to eleven minutes, but still, meaningful
+gaps exist.
+While gaps over sparsely populated western states are inconvenient obstacles to accurate
+forecasts, the NWS lacks visibility into some slivers of the area known as Tornado Alley—an
+area that relies on these radars to give them the notice needed to get into shelters when
+a tornado does form.
+With these NEXRAD radars now out of production and every existing one in use, there is little
+opportunity for improvement short of a costly system-wide upgrade, but for the most part,
+these 160 radars get the job done and form the foundation of the agency's data collection
+mission.
+But as groundbreakingly effective radar technology is, it's a proxy for measurements actually
+taken in the sky.
+This is why the NWS goes through the effort to launch those hundreds of weather balloons
+daily, but of course, planes are already up there anyways.
+Not only that, but the typical commercial aircraft already has the instruments necessary
+to observe atmospheric conditions, so that's why the World Meteorological Organization
+set up the Aircraft Meteorological Data Relay System.
+Forty-three airlines around the world, including Alaska, American, Delta, FedEx, Hawaiian,
+Southwest, United, and UPS, have agreed to collect meteorological data in flight and
+transmit it to the WMO via satellite or VHF radio.
+Meteorologists describe these data as crucial to the accuracy of forecasts, since such frequency
+of atmospheric data cannot be inexpensively obtained through any other means.
+In fact, forecasts globally became meaningfully less accurate at the start of the COVID pandemic
+due to the loss of much of these data as air travel took a downturn.
+But as important high-altitude data is to predicting what's to come on the ground,
+the NWS still needs to know what's happening on the ground right now.
+For that, there are 900 automated surface observation systems, again spread out across
+the entire country, primarily at airports.
+These include a suite of sensors—temperature, air pressure, humidity, cloud coverage, and
+more—that automatically report data back to the NWS, and also automatically broadcast
+a radio frequency that pilots can use to gain valuable intel into conditions at their destination
+airport.
+Some observations, however, cannot be efficiently achieved through automated means.
+Some require the human touch.
+Precipitation, whether in rain, snow, or something in between, is largely measured by a horde
+of unpaid civilian volunteers donating their time to run 9,000 cooperative observer system
+sites across the country.
+Each follows strict protocol to provide the NWS with a daily precipitation measurement
+for their local area, which is the primary manner through which forecasters validate
+their forecasts—if they see that precipitation is constantly under their prediction in a
+given area, they'll adjust, and vice versa.
+These data are also crucial for establishing long-term trends.
+It was this program, for example, that observed that average precipitation in the US has grown
+7.8% since 1901 due to warming temperatures allowing the atmosphere to hold more water.
+A similar, even larger program exists called SkyWarn, where 350,000 trained volunteer weather
+spotters work with the NWS to act as their eyes on the ground.
+These volunteers, many of which are amateur radio enthusiasts that use their skills to
+communicate observations regardless of external conditions, track severe weather to both allow
+the NWS to alert others of what's to come, and help them validate their weather models
+and forecasts.
+But weather is global, and therefore in order to give Americans their forecast, the National
+Weather Service requires data from beyond the American states, territories, and few
+foreign radar sites.
+That's why the World Meteorological Organization exists.
+This specialized United Nations agency has myriad responsibilities, but perhaps the most
+pivotal centers around ensuring different national forecasters can and do cooperate.
+As of a few years ago, data sharing is mandatory among all WMO members, meaning the US's
+NWS gets meteorological data from its foreign counterparts, and vice versa, regardless of
+their geopolitical status, thus improving the quality of forecasts for all.
+As one of the world's preeminent meteorological organizations, the National Weather Service
+does, however, have some extra help in gathering data from the rest of the world—satellites.
+For decades now, a rotating cast of satellites have held two geostationary positions called
+GOES East and GOES West, streaming down a deluge of imagery and meteorological data
+to the agency's ground station on Wallops Island, Virginia.
+GOES East and West are currently operated by the GOES 16 and 17 satellites, respectively.
+In addition, the older GOES 15 satellite sits next to GOES 17 to provide redundant coverage,
+due to a reliability issue with 17, while GOES 14 sits powered down in a storage orbit
+in case an issue with another requires a quick replacement.
+Any gap in coverage from GOES East or West would impact forecast accuracy for hundreds
+of millions of Americans.
+Meanwhile, GOES 18 was launched in March 2022 and will soon replace GOES 17 to operate as
+GOES West.
+While these are focused on high-frequency, ongoing coverage of the US and its immediate
+surroundings, the agency also operates a non-geostationary satellite in a polar orbit to provide less
+frequent yet still important data and imagery of the rest of the world.
+A secondary function of these GOES satellites is to act as a means of communication for
+the most remote NWS observation stations on earth—BUIs.
+Stationed hundreds or thousands of miles offshore, weather BUIs provide a glimpse into areas
+of the earth entirely devoid of humans or civilization, but full of weather that could
+soon impact them.
+The network is run by NOAA's National Data Buoy Center, and each transmits near real-time
+conditions from the Great Lakes, Gulf of Mexico, Atlantic, and Pacific, including giving life-saving
+warning of potential impending tsunamis, for example.
+More typically, however, they provide the same data land-based stations offer, but in
+an area useful for giving coastal regions a heads-up of what's to come.
+On the hour, BUIs record temperature and pressure, which is subsequently relayed by the GOES
+satellites to the mainland and the supercomputers vacuuming up all possible data to help project
+an accurate weather model.
+The inclusion of these data may prove a good thing, too, as the same time that this weather
+balloon floating over Minnesota is picking up an inbound high-pressure front, this buoy,
+number 42019 off the coast of Texas, is reading an above-average air temperature and a below-average
+air pressure.
+For local forecasters, buoy station 42019, along with other readings, hint at a developing
+low-pressure front—some rain might be arriving along the gulf here soon.
+But as weather models render, taking into account both an arctic front descending across
+the Midwest and a warm, moisture-laden front developing across the gulf, a little rain
+might soon be the least of the NWS's worries.
+Weather develops at very different scales into very different consequences.
+To protect the individual, the thousands, and the millions, the NWS has to predict weather
+developments at varying scales.
+These predictions of all size and shape all largely emanate from here—the National Centers
+for Environmental Predictions Weather Prediction Center, where data from balloons, buoys, planes,
+and satellites the world over pours into various weather models.
+While the NWS produces a bevy of different models, they broadly all work the same.
+In each, numbers representing observed environmental conditions are plugged into a myriad of equations,
+the results of which, once overlaid on a map, offer both an approximate snapshot of the
+current atmospheric conditions and a simulated future that predicts how weather patterns
+will develop and move.
+While the same data, the same math, and the same laws of physics undergird all-weather
+modeling, it's a model's resolution and range that differentiates one from the next.
+The high-resolution rapid refresh model, for example, with its 2-mile, 3-kilometer resolution,
+its real-time visualizations, and its every-hour updating, offers unmatched detail and accuracy
+on the development of rapid-moving thunderstorms over the next hour, providing meteorologists
+more confidence in offering severe weather warnings.
+What it can't do is zoom out temporally or spatially to forecast nationwide developments
+even hours into the future—its scope is too focused.
+It can tell you to evacuate now, but can't help you decide to bring a rain jacket tomorrow.
+To help inform such important decisions between rain jackets or sunscreen, meteorologists
+use the North American Mesoscale model, which offers lower resolution than the HRRR, but
+identifies patterns that forecast their paths out to 61 hours.
+For an even broader picture, the NWS relies on the Global Forecast System, which again
+takes a broader view than the NAM, but is able to interpret atmospheric patterns and
+weather developments of global scale and to predict out to 10 days in the future—critical
+in tracking the long developments of hurricanes, for instance.
+Together, these models are incredibly powerful predictive tools.
+Running all these models, in turn, requires incredibly powerful computers.
+What makes all these models possible are two of the largest supercomputers in the US.
+In the wake of the NWS's Global Forecast System failing to identify the dangerous potential
+of Hurricane Sandy, Congress greenlit increased funding for NOAA.
+The result was the 2016 announcement that NOAA had increased its computing power tenfold
+with the introduction of two supercomputers in Reston, Virginia and Orlando, Florida.
+The $45 million dollar addition put the 18th fastest computer in the US in the hands of
+NOAA, which effectively evened the playing field between the NWS and its European counterpart.
+Doubling down on the modernization effort, NOAA again invested in its supercomputers
+in 2018, adding 60% more storage and more than doubling their computing capacity—moves
+which made room for updates and improvements to its models, from the HRRR to the GFS.
+Importantly, and further justifying such investment, these supercomputers are not only tasked to
+run and re-run and re-run atmospheric models all day, every day, they're also tasked
+with creating ensemble models—effectively running these same models time and time again
+with the parameters slightly changed to reflect the random chance of real-world weather and
+therefore give forecasters an idea of the degree of uncertainty for a given prediction.
+If the forecast holds up despite the random chance thrown in by the ensemble model, it's
+more certain, and vice versa.
+Together, these various models and the supercomputers that run them non-stop are immensely complex
+and extremely expensive.
+In the past they have proven incredibly valuable when extreme weather arises, and in the future,
+as far-flowing disparate signs of storms quietly develop, they'll prove critical to meteorologists
+again.
+Hours after the launch of a weather balloon in Minnesota, and a Buies upload off the coast
+of Texas on an early March day, they're proving their worth again as GFS forecasts
+and then ensemble GFS forecasts are beginning to project with higher confidence that a storm
+of significant destructive potential may be brewing.
+In the days prior, as millibars dropped over Texas, GFS models had identified the early
+stages of what meteorologists call a Gulf Low.
+Now with Buies proving such predictions correct, and with the concurrent development of a drop
+in cold front, they can now predict its direction and potential severity.
+While this Gulf Low seems to be mirroring historical patterns in that it too is primed
+to move a mountain of moisture out of the Gulf of Mexico, this particular storm, thanks
+to the deepening cold front and a U-shaped gulf stream, doesn't look like it will track
+along the western edge of the Appalachians, but rather through some of the most densely
+populated regions of the American East Coast.
+According to GFS forecasting, snow, and a lot of it, is headed northeast.
+Of course, forecasts are meaningless by themselves.
+To avoid the disaster of an unprepared populace in the firing line of an impending winter
+storm, plows still in the parking lot, stores without extra stock, kids still in school,
+commuters on the road at the wrong time, the National Weather Service has to actually communicate
+what's to come.
+To achieve this, the agency has 122 weather forecast offices distributed across the 50
+states, Puerto Rico, and Guam, each responsible for a dedicated zone of the country.
+A couple dozen staff in each work 24-7 to interpret models and issue forecasts for their
+surrounding region.
+Perhaps most importantly, though, they monitor and issue alerts for the most localized and
+often most dangerous threats—severe thunderstorm, flash flood, tornado warnings, and more all
+come from local WFOs.
+The on-the-ground presence also allows WFOs to tailor their activities to what's necessary
+for the people they serve.
+The Fairbanks, Alaska WFO issues a daily climbing weather forecast for nearby Denali, America's
+tallest mountain.
+The Dodge City, Kansas WFO, surrounded by hundreds of miles of wheat fields, reports
+daily soil temperatures so farmers can optimize their yields.
+The Grand Junction, Colorado WFO monitors and reports fire weather conditions, alerting
+the wildfire-prone area it's responsible for to the daily risk of one starting and
+spreading and therefore informing campfire bans, electric grid shutdowns, and more.
+Like most WFOs in fire-prone areas, the Grand Junction office also staffs an incident meteorologist
+who is prepared to quickly deploy to the field and embed in a wildfire camp to issue
+highly specific forecasts used by aerial firefighting pilots, hotshot crews, and other firefighters
+to safely approach and attack the burn.
+Finally, the local WFOs are responsible for many of the NWS's on-the-ground operations,
+from maintaining Doppler radars and automated surface observation stations, to running the
+local NWS twitter account, and far, far more.
+Ultimately, though, certain weather is just too big or otherworldly to be handled by small,
+local WFOs.
+For that, there are the national offices.
+Some are straightforward.
+Rivers, for example, run for hundreds or thousands of miles through countless WFO zones, so there's
+an additional system of 13 river forecast centers that split up the lower 48 and Alaska
+more or less based on watershed, issuing forecasts for their rivers' flows and, most importantly,
+their flood risk.
+Perhaps the best known of these national offices is the National Hurricane Center, based in
+a bunker-like building in Miami, Florida that's designed and certified to survive
+and operate through a category 5 hurricane—the most severe level.
+They have the stressful task of predicting the paths and intensities of hurricanes.
+If they get it right and people prepare, lives will be saved.
+If they miss the forecast, lives will be lost, and they potentially do this all while a hurricane
+passes directly over them.
+For this reason, the system is structured so the National Weather Prediction Center
+in College Park, Maryland is prepared to take over responsibilities in an instant if
+the Miami Center goes offline during a storm, while there's also an additional office
+in Honolulu, Hawaii that staffs up if a comparatively rare Central Pacific hurricane forms.
+Most uniquely, the National Weather Service is also responsible for forecasting the weather
+not only beyond the borders of the US, but beyond the borders of this world.
+The NWUS's Space Weather Prediction Center in Boulder, Colorado takes in data from the
+GOES satellites and terrestrial sensors to report current and forecast future solar radiation
+and other space weather.
+This isn't just for the novelty, as high solar radiation activity, for example, can
+impact the human world.
+High frequency radio gets disrupted during solar flares, so commercial aircraft can't
+fly routes over the poles where they rely on it to talk to air traffic control if the
+center is forecasted high levels of radiation—and that's just the very start of issues solar
+flares can cause.
+Ultimately, though, the totality of the National Weather Service's work, the thousands of
+hourly observations from across the world and beyond, the full processing might of two
+incredible supercomputers, the collective efforts of thousands of highly trained individuals,
+all distills down to this—a couple-megabyte XML data feed updated every few minutes.
+Generally, people don't get the weather directly from the National Weather Service—they
+get it from the weather app on their phone, the TV meteorologist, or whatever's most
+convenient for them.
+Nearly every source of weather information in the US relies on the work of the National
+Weather Service, even if it's repackaged and rebranded, so the NWUS works to make these
+data abundantly accessible to those that get it to the end user.
+These XML data feeds are a major source, providing a structured set of current conditions and
+forecasts that can be quickly adapted and interpreted by software, and everyone, from
+individuals to commercial companies, is legally allowed to use these data since, as a production
+of the US government, it is not copyrighted and does not require a license.
+Of course, the times when weather information is most important are often also the times
+when communications are most difficult—the internet and TV might not be accessible when
+it really matters.
+Therefore, some 95% of the US population is within range of a NOAA weather radio station,
+which automatically broadcasts a 24-7 feed of conditions and forecasts.
+As a last resort, the National Weather Service also runs the Emergency Managers Weather Information
+Network, which uses their GOES satellites to broadcast a data feed down to earth that
+uniquely is accessible to anyone with a compatible satellite receiver.
+This data feed, available at 1694.1 MHz, includes all the information of conditions and forecasts
+for sites across the US, and even includes these visual forecasts, satellite imagery,
+and other images for onward use—allowing TV stations, emergency managers, and others
+to access this crucial information regardless of the condition of the world around them.
+In sum, this is how the National Weather Service tells the East Coast a snowstorm is coming.
+All it requires is a couple of satellites and supercomputers, hundreds of radars, observation
+stations, buoys, weather balloons, aircraft, and weather forecast offices, and thousands
+upon thousands of dedicated staff and volunteers.
+Rather than do the normal style of ad, since given the fact that you're watching this
+it hasn't convinced you yet, this time I'm going to count down the top ten of the many
+reasons why you should sign up for the Nebula CuriosityStream bundle deal.
+Ten, you can watch this and all of our regular videos without ads or sponsorships.
+Nine, you can watch other channels like RealLifeLore, Notchish Bikes, Mustard, and far more also
+ad and sponsorship free.
+Eight, you can watch all of these different big-budget originals that we've made—we've
+put a ton of work into each and I think they're all great.
+Seven, you can watch every episode from our new channel, Jetlagged the Game, a full week
+early.
+Six, you can watch all sorts of originals by other independent creators—I'd recommend
+Patrick Williams' Night of the Coconut, which is a feature-length multiverse film
+about a genocidal coconut—it's tough to explain but it's so much fun and so well-made
+and even includes a cameo by me.
+Five, you can discover other fantastic channels, as Nebula only includes a curated group of
+high-quality, thoughtful creators.
+One that I love in a very different genre is Berm Peak, where Seth brings his audience
+along to his unbelievable mountain bike trail-building projects in a way that even people with absolutely
+no affinity for bikes enjoy.
+Four, you can watch the smart, thoughtful content you clearly enjoy without an algorithm
+surfacing other clickbaity videos to pull your attention away—it's just you and
+the videos, without a platform designed to suck you in for as long as possible.
+Three, by watching through Nebula, you'll support all these independent creators and
+assure they make a stable income that helps them keep creating everything you love watching.
+Two, by signing up through our link, CuriosityStream.com slash Wendover, you'll get the bundle deal
+with CuriosityStream included, meaning you also get access to their fantastic catalog
+of top-notch non-fiction shows and documentaries, like Containership XXL, about how the largest
+container ship in existence was designed and built.
+And number one, all of this costs just $14.79 for a year—that's less than you probably
+pay for a month of the other streaming services you use, and this is two of them that you'll
+actually use.
+So, click the button on screen or head to CuriosityStream.com slash Wendover to sign
+up for the bundle deal, and thanks in advance for your support.

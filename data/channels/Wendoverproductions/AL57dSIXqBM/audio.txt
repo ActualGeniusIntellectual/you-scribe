@@ -1,0 +1,216 @@
+This is Wixom Lake—home to a humble marina, a waterfront church camp, a lakeside campground,
+and a host of small neighborhoods where front yards connect to the road network and backyards
+connect to docks. But Wixom Lake isn't actually a lake. Rather, it's a river—the Tintabawassee
+River—whose flow happens to be suddenly upended by the Edenville Dam, creating a human-made
+reservoir. But whatever you call it—a lake, a river, a reservoir—this nondescript body of
+water in a nondescript section of central Michigan has real problems that start and will end with the
+dam. Edenville Dam is entirely unexceptional. Until 2020, even the most knowledgeable
+michigan d'heure would have a hard time placing it on a map. In fact, perhaps if anyone had heard
+of it, it was because of what the dam was no longer allowed to do—generate electricity.
+Its claim to fame was its lack of function. In the United States, there are some 91,000 dams.
+In Michigan, there are about 2,600. Each and every last one was built with a purpose, or,
+to further justify cost, multiple. The Hoover Dam would stop flooding in the Imperial Valley,
+as well as provide water storage and power. Grand Coulee would provide electricity and
+irrigation water. Glen Canyon, the thinking went, would air condition the southwest.
+A far humbler dam in comparison, Edenville has a purpose too. Composed not of concrete but of
+earth, a combination of clay, rock, and sand, running over 6,000 feet or 1,800 meters wide but
+standing only 52 feet or 18 meters tall at its highest point, it was built to provide electricity
+for its surrounding communities. With twin 2.4 megawatt generators, Edenville at its peak output
+can only provide around 0.36% of the power of Glen Canyon Dam, but that's still enough power
+to feasibly electrify the 34,000 households of Midland County, Michigan. Not bad for a dam built
+with private funds some century ago. But that core case for its existence quickly waned when
+its owner and operator, Boyce Hydropower LLC, received a federal order to shut down production
+in 2018 on account of its inability to meet federal regulations. In the ruling's wake,
+a power struggle between dam owners, lakeside property owners, and regulators had seen the
+lake's levels rise and fall as the dam let more or less water through, but generally,
+they sat below operating levels. Then, beginning on May 14th, 2020, and intensifying on the 18th,
+it rained. First, it was manageable—by midnight at the start of the 18th, the water level still
+sat below its lower operational limit—in other words, the water still hadn't reached the level
+that allowed for power generation, let alone flood levels—but that quickly changed the following
+day. As an incredible three inches or eight centimeters of rain fell,
+lake levels rose nearly two feet or 60 centimeters in the next 24 hours, then another foot in the
+next six hours, then another foot in the next six hours, then, along an unremarkable section
+of dam along its eastern edge, it went. Now a river unleashed, the waters overwhelmed the
+next dam down, flooding 2,500 structures, racking up nearly $200 million in damages,
+and causing 10,000 to evacuate. No one died, but a lake few knew of beforehand now made
+national news, and a dam long overlooked suddenly became the center of attention.
+As the water receded, the forensic investigation began. The findings were surprising—the dam
+hadn't overtopped. The water levels hadn't reached higher than the height of its lip.
+It hadn't eroded, either. Rather, it had become unstable—it had fallen victim to a phenomenon
+called static liquefaction—essentially, the process of progressive loading of the
+soil to the point that it no longer functions as a solid, but rather, a liquid. Dam failure
+due to static liquefaction is rare, and as engineers have readily admitted, it's not
+well understood nor well documented. In this way, then, the Enville Dam failure was rather singular—
+something rarely observed, something that's easier to understand as a freak accident rather
+than a systematic failure. But it'd be a mistake to chalk the collapse up to bad luck.
+Alternatively, the dam had real flaws of existential proportion that it seemed the
+Federal Energy Regulatory Commission revoke its license. Along with compliance issues and
+operational procedures, the major issue that federal regulators took with the Enville Dam
+was its inability to deal with heavy floodwater—that its spillways, the very structures
+present along practically every dam to protect it from flooding, were too small.
+While dams may not look it, they're incredibly fragile when water doesn't move through it,
+as designed. Capable of holding back millions of acre-feet, just the slightest of spillovers
+are disastrous. Even a couple extra inches of water height above a concrete dam will kick off
+a calamitous cascade of erosion eating away at the structure's backside and base. On an earthen dam,
+like Enville, water will seep into the structure and potentially erode it from the interior.
+Should it overtop a dam of any sort, the unexpected pressure and weight is likely to
+rip away at the structure. So, to ensure water stays at a low enough level,
+dams have spillways. These are essentially extra throughput capacity. While normally water routes
+through a dam's gates, spillways provide an extra route in case that's not enough to lower
+the reservoir at the same speed that it's rising due to rain. Now, to pass modern federal standards,
+Enville's two spillways would need to move enough water to avoid overtopping in the event of a
+probable maximum flood—a theoretical flood event calculated by forecasters that would represent the
+most severe combination of hydrological and weather conditions likely in the area—conditions
+not so dissimilar to the rainstorm that rolled over Michigan in May of 2020.
+Enville never actually overtopped, of course, but it may well have if not for its earlier failure.
+Water, after all, was rising. And while operators had opened the overmatched spillways, they could
+only safely raise the gates up to seven feet as any higher would endanger the structure and its
+staff. Perhaps, then, it was less the fault of bad luck, and more so an outcome made inevitable
+by the fact that the dam and its operators just couldn't keep up with the upkeep.
+Now, at first glance, one might not consider Enville a regulatory failure,
+as the Federal Energy Regulatory Commission attempted to get its owners to add spillway
+capacity in a way that might have mitigated the eventual collapse, but one must consider that
+such a story is far from unique. Across the nation, there are some 7,999 other dams that
+are considered deficient, either in design or in maintenance, and then of those, there are 403 that
+have the fatal pair. A condition rating of unsatisfactory, indicating that quote,
+a dam's safety deficiency is recognized that requires immediate or emergency remedial action
+for problem resolution, along with a hazard rating of high, meaning, in the event of failure,
+one or more fatalities is not only possible, but probable. Each of these 403 is in a situation like
+Lake Hodges Dam in San Diego, California. Here, the more than century-old structure is quite
+literally cracking and crumbling, while also threatened by a known lack of adequate spillway
+capacity for the maximum probable flood scenario. If the structure were to fail, it'd take less than
+two hours for this entire swath of land to get inundated with water as much as 23 feet or 7
+meters deep, leaving dangerously little evacuation time for the thousands of individuals living on
+both banks of the San Diogito River, informing the regulator's belief of the inevitability of
+fatality. Looking past the regulatory failures and design deficiencies and exceptional weather,
+what fundamentally makes these 403 dams so dangerous is the fact that they're just, simply,
+old. Age issues are always tricky as they only ever escalate, but, inconceivably, this isn't like
+any other age issue—it's worse. That's because, right now, there is a massive, disproportionate
+surge of dams getting to the age where age itself is an issue.
+The impetus of this surge was a dam-building boom that occurred some 50 or 70 years ago.
+Between 1960 and 1980 alone, some 31,000 of the structures were constructed in the United States,
+representing more than a third of those standing today. And this was hardly confined to the US.
+Around the world, dams were perceived as the perfect solution to provide copious quantities
+of cheap, reliable, geopolitically safe energy. The World Bank, in its role financing development-
+oriented infrastructure projects in low- and medium-income countries, was a major force in
+enabling the development of not just dams, but large dams around the world—the kind that would
+reshape entire regions. The thought was that a country would benefit from the employment created
+by the construction of such structures, then, once complete, they'd have so much cheap electricity
+that an industrial sector would pop up that would provide further employment. Meanwhile,
+dams could also help stabilize a water supply, mitigate floods, and help with agricultural
+irrigation, so with copious theoretical benefits, hundreds of millions of dollars flowed from World
+Bank coffers and they became the number one financier of large dams worldwide.
+But each time a dam is built, a geography is altered significantly. For example,
+when the Kariba Dam's gates were closed for the first time and the flow of the Zambezi restricted,
+that started the formation of what's now known as Lake Kariba. These reservoirs are a fundamental
+component of dams—they provide the pressure to turn a turbine for power, and they're the natural
+byproduct of stabilizing downstream flow—but they're also massive. Lake Kariba, in fact,
+is over twice the size of the nation of Luxembourg. Or put another way, the Kariba Dam removed more
+than two Luxembourgs worth of land from Zimbabwe and Zambia. 58,000 people lived on that riverside,
+but, as water levels rose, they had to leave the only homes they'd ever known to decamp to less
+familiar, less fertile land. Little to no compensation was given to these individuals,
+and it took 50 years for any sort of meaningful community rehabilitation efforts to start.
+This story was replicated essentially anywhere the World Bank developed a dam. In Guatemala,
+the Chixoy Dam deplaced 3,500, and 444 were murdered by the government for resisting their
+forced displacement. On the border between Argentina and Paraguay, the Yacreta Dam
+displaced upwards of 20,000, again without any meaningful compensation. And problems
+persist beyond just displacement—the Yacreta Dam propagated malaria and dengue fever by enlarging
+the mosquito habitat, and simultaneously led to the extinction of two species of snail
+due to habitat destruction. This is all to say, dams are not some simple device that
+effortlessly translates water into electricity—they have a colossal impact. On average, this impact is
+felt by poor rural communities, so governments and developers have long found their cries easy
+to ignore. But through the years, as the cases counted up, public pressure was mounting on the
+World Bank. In 1994, 2,000 NGOs signed the Manabelli Declaration calling for a full-scale
+moratorium on dam financing, citing the staggering statistic that 10 million people had been
+displaced from their homes by their actions. So, in response to this and other public pushback,
+the World Bank partnered with the International Union for Conservation of Nature to form the
+World Commission on Dams, a multidisciplinary panel of experts that would study past projects
+in order to develop a framework for future ones and answer, once and for all, how to build a good
+dam. The answer was perhaps not what the World Bank expected. What the report said, across 404
+pages, was that, in sum, historically, the benefits of dams had been overstated and the
+costs had been understated. That's to say, dams simply were not as good as previously thought.
+While this answer had been coming into focus for decades, this was the most definitive,
+official instance of it to date, and in response, both the World Bank and the world more broadly
+slowed down its dam development. This coincided with a naturally waning financial case for
+hydropower. It's far from the cheapest source of electricity in the US—multiple fossil fuel
+sources are cheaper, and even solar and wind now beat its prices. And it's not like its higher
+price can be strongly justified on environmental grounds—even ignoring habitat and home
+destruction, the creation of a reservoir leads to the death of all the plants it drowns out, which,
+in many cases, leads to as much or more greenhouse gas emissions in the first decade of operations
+as a coal-fired power plant producing the equivalent amount of electricity.
+So, in all, that era of rapid dam development is now bookended, leaving a huge quantity of
+aging dams that, perhaps most dangerously, are increasingly unprofitable. You see, the confluence
+between financial well-being and physical peril stems from the fact that 65% of dams in the US
+are owned not by governments, but by private entities. The failed Edenville Dam was one such
+example—after being passed around between companies for decades, in 2006 it ended up in
+the hands of Boyce Hydropower LLC. Boyce was a small company whose operations were limited to
+the ownership of a few area dams, and that was as intended—they operated more as an investment
+vehicle, in fact, than a company. That's because it was owned by the trust of William Dixon Boyce,
+the founder of the Boy Scouts of America, meaning, after his death, his wealth was put into this
+legal entity designed to manage it according to his wishes, and therefore the trust's managers
+made investments to maintain and grow the wealth, including, in this case, buying dams in Michigan.
+Theoretically, dams could be a good investment since they're assets with
+relatively low operational costs that provide stable, ongoing income through electricity
+production. In this case, however, Edenville was bought at a particularly low price since
+it was known from the start that it'd need some imminent and expensive upgrades. Nearly a century
+on from its construction, the structure no longer conformed to federal spillway capacity guidelines.
+After conducting hundreds of thousands of dollars of design work, Boyce finally determined that it
+would cost some $8 million to conform to federal standards, which the company said they simply
+could not afford. Therefore, they just didn't make the upgrades, and their operator's license
+was revoked. The wide-scale private ownership of these pieces of public infrastructure
+makes this situation far too feasible. Companies have assets that are becoming less and less
+valuable as their economic case wanes, and therefore willingness to maintain or upgrade
+them is low. So, there's an overwhelming surge of dams getting dangerously old with increasingly
+disinterested owners, meaning dams are becoming less equipped to deal with the worst-case flood
+scenarios. But the ultimate crux of the dam issue stems from the fact that global temperatures are
+rising. Warmer air holds more water vapor, meaning it creates stronger storms with more
+precipitation. The sixth IPCC report determined that the worst storms of a given decade in a
+given place are already 6.7% wetter, and if global temperatures rise by 2 degrees Celsius,
+as now seems all but inevitable, this intensity increase will be as much as 14%.
+And the intensity increase is even greater for the worst storms of a 50-year span, meaning,
+not only are bad storms getting wetter, but the maximum potential of the absolute worst storms
+is intensifying even faster. Dams were designed to handle the worst-case scenario from decades,
+even over a century ago, but now that worst-case scenario is rapidly and meaningfully escalated,
+and the dams are getting worse. The worst-case scenario has not happened
+recently, in the United States. There have not been recent dam failures resulting in major loss
+of life, but there have been warning shots. In 2017, the Oroville Dam had to use its spillway
+to reduce water levels during heavy rainfall, but its concrete bays quickly started to break apart.
+Operators had to keep sending water through to avoid overtopping the dam, but this and
+additional erosion from the emergency spillwater escalated and escalated and started to cut deeply
+into the hillside, marching further and further uphill, getting perilously close to eroding the
+very foundation of the dam, which likely would have led to collapse. Luckily, reservoir levels
+lowered soon enough that this did not occur, but had the rains kept coming, there's little that
+could have been done to stop the failure of this dam and the destruction of the heavily populated
+areas below. Every dam anywhere is like a loaded gun. It impounds a massive quantity of water,
+and water is perhaps one of the most powerful, dangerous forces on earth. The timescale of these
+structures means that many people live and die only having known the altered geography a dam
+creates, and therefore the altered geography starts to feel like the normal geography.
+People get comfortable. They build beneath the dams, they enjoy the shorelines of the reservoir,
+and a degree of complacency creeps in as the dam itself starts to feel equally permanent.
+That complacency is catching up with the world as perhaps best explained by this simple graph.
+Dam failures are rising, and the practical is matching perfectly with the theoretical.
+There's no big mystery behind this—most of these failed dams are just plain old.
+There is some action—it's not like the issue is going entirely ignored—but not nearly enough
+to match the enormous quantity of dams reaching beyond their intended lifespans and the rising
+frequency of those riskiest flood scenarios. So catastrophe will probably occur—at this point,
+it'd be an anomaly of probability for it not to. Then, once it's too late for change and the risk
+is solidified, complacency might finally wane and people might care about the wall of water
+sitting upstream, just waiting for one crack, one channel, one inch of overtopping to allow it to
+come crashing down, returning the river to its natural state, no matter what stands in the way.
+I used to have a huge issue with data privacy. My job is to make videos that are seen by a good
+number of people, and inevitably not everyone loves every video, so that's why it was so
+concerning to me that a ton of my private information had been scraped from public
+records and data breaches and published on data brokerage sites. This was a real safety
+risk and as much as I tried to go through and remove these records one by one, there was just
+always another site. The process was endless. So that's why I was so glad when I found this
+video's sponsor, Incogny. They handle your data privacy for you. All you do is sign up,
+give Incogny some of your personal data and grant them the legal right to work on your behalf,
+then they'll go through and find which sites have your data, then handle removal requests until
+it's done. Basically, you don't need to worry about whether your data is out there on some
+sites you don't even know about anymore. This is not only important for security,
+but these sites are where scammers and telemarketers often find your information,
+so Incogny can help reduce the frequency of those headaches. Knowing just how bad one
+security issue can be, I consider the cost of Incogny well worth it, especially since it's
+not that much and even less when you use code wendover at incogny.com slash wendover to get
+an exclusive 60% off an annual Incogny plan. You'll be supporting Wendover when you do,
+so thanks in advance.

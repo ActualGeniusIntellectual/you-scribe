@@ -1,0 +1,800 @@
+start	end	text
+0	3540	I remember exactly where I was.
+3540	5380	Sydney International Airport waded into board
+5380	6680	a 10-hour flight to Tokyo,
+6680	8340	followed by a 12-hour flight to Boston,
+8340	10580	then a one-hour one to D.C. to arrive home
+10580	12780	the day before Thanksgiving, 2018.
+12780	15380	My agent Dave said he had an idea he wanted to run past me,
+15380	16980	so he popped on a call.
+16980	19620	He had just talked to Vimeo, the video streaming platform.
+19620	21100	They were trying to persuade him to persuade
+21100	23420	one of his other clients to build a paywall streaming site
+23420	25300	for their videos using their tech.
+25300	27640	This, and infinite minor variations of this,
+27640	29900	was something we'd get pitched constantly as creators,
+29900	33100	but everyone recognized that it couldn't really work.
+33100	36300	In fact, it had a long history of not working.
+36300	38540	Perhaps the most flashy failure was Vessel.
+38540	39780	It launched in early 2015
+39780	41480	with the big-name creators of the time.
+41480	43180	Good Mythical Morning, Epic Meal Time,
+43180	45080	Shane Dawson, Linus Tech Tips.
+45080	46660	It was basically a YouTube replacement.
+46660	48680	Same content, same creators, same features,
+48680	51060	with the addition that users could pay $2.99 a month
+51060	53000	to watch videos 72 hours early.
+53000	54900	Combine that with their supposedly unique
+54900	57220	advertising ecosystem, and the pitch to creators
+57220	59300	was that they could earn dramatically more per view.
+59300	61400	This is always the core proposition
+61400	63040	with these alternate streaming services.
+63040	64200	More revenue per view,
+64200	67240	but they almost always have the same problem.
+67240	70880	The number of views is orders of magnitude lower.
+70880	73580	Platforms have to extract value from the audience somehow,
+73580	74840	whether through a paywall or through
+74840	76280	more intrusive advertising.
+76280	78120	So why would a viewer watch on your platform
+78120	80560	when they could watch the exact same content on YouTube
+80560	83420	for free and with less intrusive advertising?
+83420	85420	So creators signed on to platforms like Vessel,
+85420	86960	get menial views compared to YouTube,
+86960	88600	and before these platforms can grow enough
+88600	89760	to get to a point where it's worth it
+89760	91540	for creators beyond an initial test group,
+91540	93500	they run out of money and shut down.
+93500	96060	But we had some ideas on how we could fix that.
+96060	99040	We thought there was a chance that we had identified
+99040	102300	a magic formula that we were in a uniquely good position
+102300	105220	to undertake that could make this simple concept work
+105220	107680	where all others had failed.
+107680	111520	Four years later, well, not to brag, but we were right.
+111520	113820	Nebula has grown massively.
+113820	118020	Over 650,000 paying users, 100 staff members,
+118680	122320	a conservative overall valuation of over $150 million,
+122320	125580	and it did all of that with absolutely zero dollars
+125580	127320	of venture capital funding.
+127320	128760	So what did we do different?
+128760	131460	Why were we able to make this simple concept work
+131460	133520	when all others had failed?
+133520	136160	Clearly this video is going to be different.
+136160	138700	I'm not gonna be talking about logistics or geopolitics
+138700	140700	or infrastructure or another business.
+140700	142240	I'm talking about my business.
+142240	145140	So that's why, for the first time, I'm here.
+145140	146880	This was a tricky video to write.
+146900	149440	I'm trying to use my unique combination of positions
+149440	152280	as an owner of a now sizable business and as a creator
+152280	154200	to tell an intimate inside story
+154200	157680	of how you can grow an idea into an enterprise.
+157680	159180	There are a lot of things that can't be said
+159180	160640	for legal or practical reasons,
+160640	162920	and there are countless different stakeholders involved.
+162920	165560	So what follows is what I believe is the fullest story
+165560	168060	anyone can tell about the inside operations
+168060	169760	of a business of this size and nature,
+169760	171260	but there are, unfortunately,
+171260	173020	some things I just can't talk about.
+173020	176160	It's a long story, but it begins in a very small way.
+176180	177920	On July 27th, 2016,
+177920	181220	I got this DM from Philip Detmer of Curse Protect.
+181220	182820	Hey man, let's get right to it.
+182820	184980	So me and another big YouTuber might be starting something,
+184980	186860	but I can't really talk about it yet.
+186860	188960	We went back and forth for a month trying to schedule a call,
+188960	190100	then finally we talked.
+190100	192060	Basically, Philip was going to introduce me
+192060	193700	to the freelance sponsorship agent
+193700	196360	he and CGP Grey had been working with for years,
+196360	198960	and later that might turn into something bigger.
+198960	202200	That freelance sponsorship agent was Dave Whiskas.
+202200	203300	That's a name you'll want to remember.
+203300	204840	It's pretty relevant throughout.
+204860	206660	We talked, he promised better rates
+206660	208860	through a data-driven approach with an upfront commission.
+208860	210140	I somehow believed him,
+210140	213060	but eventually it turned out he was actually right.
+213060	214500	Some important context.
+214500	217800	The industry that had arisen around YouTube creators in 2016
+217800	220640	was chock full of liars, cheats, and thieves.
+220640	221860	It was only over the prior couple of years
+221860	223700	that people could start to make a living off of YouTube,
+223700	224820	and seemingly the first people
+224820	226420	that thought to insert themselves as middlemen
+226420	228480	were all glorified grifters.
+228480	231140	Getting sponsored is crucial to going full-time on YouTube.
+231140	232720	AdSense alone rarely cuts it,
+232720	234580	so at the time, the only deals I could land
+234580	236040	for my fledgling channel were ones
+236040	238980	that automatically locked me into six months of exclusivity
+238980	240460	with the agency I booked through
+240460	243680	without any guarantee they would actually fill video inventory
+243680	245460	and with undisclosed commissions.
+245460	247720	Undisclosed commissions in this context
+247720	250580	means they just told you exactly what you'd get paid,
+250580	252680	which sounds great in theory, but in practice,
+252680	254340	what it means is that they're selling the slot
+254340	255980	to the sponsor for one price,
+255980	259320	then paying you a completely different, lower price,
+259320	261020	and never telling you what the difference was.
+261020	262960	So just decide what they think you'll accept,
+262960	264320	but you have little leverage to say no,
+264320	267120	because once again, you're locked into exclusivity.
+267120	269480	You're only legally allowed to work with them.
+269480	270920	Oh, and also, contractually,
+270920	272840	they represented the sponsor, not the creator,
+272840	274320	so their incentives were to push the price
+274320	275440	as low as it could go.
+275440	277040	If you didn't like it and wanted to jump ship,
+277040	279000	you had to go without sponsorship for six months,
+279000	280760	which would kill your finances.
+280760	282840	I've seen hard evidence that this particular agency
+282840	285400	was taking a 50% undisclosed commission
+285400	286760	on certain creator sponsorships,
+286760	288560	so it's no wonder why Dave was able
+288560	289960	to immediately beat their rates
+289980	291660	and get sponsors to come back.
+291660	293280	They might have actually been paying less,
+293280	295900	but I, the creator, was getting more hit.
+295900	298140	By chance, Gray and Philip had also introduced Dave
+298140	299540	to Brian from Real Engineering.
+299540	301140	We had collaborated on a set of videos
+301140	302660	that turned out to be big viral hits
+302660	304700	that launched both of our channels into relevancy,
+304700	306740	so he was one of my first creator friends.
+306740	309060	The next one was Joseph from RealLifeLore.
+309060	311740	I had never met him in person, but we had talked plenty,
+311740	312960	so I convinced him to fly out
+312960	316380	to the inaugural VidCon Europe in Amsterdam in April 2017.
+316380	318140	Part of the reason was because I had been nagging Dave
+318140	319580	for months to work with Joseph,
+320120	322400	whose channel was exploding, and Dave would be there too,
+322400	324120	the perfect opportunity for them to meet.
+324120	325920	Joseph ended up having a nightmare weekend
+325920	328360	of travel delays, some snowstorm or something,
+328360	329340	so he didn't end up getting there
+329340	331240	until the afternoon of the last day,
+331240	333520	but I introduced everyone and we headed to a bar.
+333520	334720	We stayed there for hours.
+334720	335720	Everyone hit it off,
+335720	338040	and it capped off an exhilarating week out,
+338040	340740	the first time any of us had seen a physical manifestation
+340740	342920	of the industry we had inserted ourselves into.
+342920	345160	After working in isolation, it was eye-opening
+345160	346880	to see and talk to so many others
+346880	349520	doing the same thing as us, and according to Dave,
+350340	353060	in retrospect, this was the moment when he fully realized
+353060	356140	that this informal system of freelance sponsorship booking
+356140	358700	could grow into something more.
+358700	361080	It'd be called Standard, a purposely forgettable name
+361080	363380	for a company designed to exist in the background,
+363380	366220	making life easier for the creators on center stage,
+366220	367060	and it worked.
+367060	369280	Creators were simply just having a better experience
+369280	370460	working with Standard.
+370460	372740	The rates were strong, the experience was personal,
+372740	375460	the ethos ethical, in a landscape filled with grifters
+375460	377980	and cheats, the concept of a sponsorship agency
+377980	379680	simply doing its job fairly
+379680	382280	was enough to drive natural word-of-mouth growth.
+382280	384060	We added dozens of creators to the roster
+384060	386560	and started to be viewed as the go-to agency
+386560	387800	for educational YouTube.
+387800	389480	We hired staff, got an office,
+389480	391960	started throwing VidCon parties, it was all happening.
+391960	394480	Unbelievably, this part, the part that at the time
+394480	397080	felt like hard-earned yet incredible success,
+397080	399760	needs to get glossed over to get to the good part,
+399760	401920	November 27th, 2018.
+401920	403400	After a couple of days of back and forth
+403400	405000	with myself and a few other creators,
+405000	407440	that's when Dave emailed his full roster of creators
+407440	409580	the white paper, the initial concept
+409580	411540	laying out our vision for Nebula.
+411540	414380	This is that exact email.
+414380	415860	In some ways, it was close.
+415860	416880	How would this work?
+416880	419140	Standard creators post ad and sponsor-free versions
+419140	420620	of their videos, and occasionally
+420620	422420	the service premieres exclusive content.
+422420	425660	Let's say we charge users $5 per month for their service.
+425660	428300	All of this is still true to this day, even the price.
+428300	430420	In other ways, we were way off.
+430420	431780	How do we attract viewers?
+431780	434940	First, we can simply buy AdSense ads on Standard channels.
+434960	438200	Sponsoring our own creators feels wrong, at least for now.
+438200	440240	We can revisit it later if we think we can do it
+440240	441120	without looking dumb.
+441120	442960	This is about as wrong as it could be.
+442960	445360	We have never figured out how to make AdSense marketing
+445360	447640	for Nebula profitable, while sponsoring YouTube creators
+447640	449800	has been the driving growth force.
+449800	451200	We'll get to how we made that work.
+451200	453800	But the real key that we understood from day one
+453800	455520	was that opportunity cost.
+455520	457800	To Standard, but especially to creators,
+457800	461240	had to be as small as it could possibly be.
+461240	463720	Equivalents before us always raised a huge amount
+463740	466420	of venture capital funding, made a big splash at launch,
+466420	468180	and ran out of money before profitability,
+468180	470500	leaving creators embarrassed when they folded.
+470500	472540	We knew that creators were wary of aligning themselves
+472540	476380	to something so risky, so we needed to make a small splash.
+476380	479340	We needed to design Nebula to fail gracefully.
+479340	481540	We needed to make it so that if it did fail,
+481540	483940	it would have the smallest possible impact
+483940	486180	on reputation and finances.
+486180	488100	Essentially, we followed the most dramatic form
+488100	490580	of the minimum viable product model of innovation.
+490580	493140	We needed to get a super scrappy version of the product
+493680	495800	out into the public so that rather than us having to guess,
+495800	498360	they, the customers, would tell us what they wanted
+498360	499800	through how they acted.
+499800	502480	You watch consumer behavior in order to fulfill their wants.
+502480	504800	Luckily, a lot of the bones were already in place.
+504800	507240	Dave's prior life was in the iOS app development world,
+507240	509520	so he had a lot of experience in software.
+509520	511280	We actually had a few engineers on staff
+511280	513640	to work on the backend tool we use for sponsor billing
+513640	515160	and inventory management.
+515160	518080	The trickiest bit would be the actual streaming.
+518080	519720	The big platforms like YouTube and Netflix
+519720	522800	make it look easy, but it's quite a technical challenge
+523340	525740	to distribute high-quality video on low-quality internet
+525740	527700	all across the globe, and we didn't possibly
+527700	529320	have the money to build our own streaming tech.
+529320	531220	Of course, Vimeo originally approached us,
+531220	532580	but the problem with partnering with them
+532580	535100	was that they'd have owned the billing relationship.
+535100	536700	Basically, when someone signed up,
+536700	538700	Vimeo would keep their credit card details and info,
+538700	540220	and while we'd get the money,
+540220	541820	if we ever decided to split with them,
+541820	544300	there was no guarantee we'd keep the subscribers.
+544300	545500	So we'd rather decided to partner
+545500	547620	with another streaming provider called Zype.
+547620	549940	Therefore, all we had to build was a front end,
+549940	551700	a slick, flashy user interface
+551720	554200	to make it all look professional, and an iOS app.
+554200	555800	We barely even had a backend.
+555800	558140	We had Eric, who doubled as our podcast editor,
+558140	559580	who would take the videos creators added
+559580	561800	to a shared Dropbox folder, run them through the encoder,
+561800	564560	and post them in the right spot with the right metadata.
+564560	566640	All in all, it cost around $100,000
+566640	568080	to get Nebula ready for launch,
+568080	571200	an incredibly low sum for both the website and app,
+571200	574000	but there was still one key thing we were missing.
+574000	577400	You see, creators don't talk unless they're paid to.
+577400	580440	This is because creators are paid to talk.
+580460	581660	It's just pragmatic.
+581660	583660	You basically get one call to action per video.
+583660	585020	You're lucky to successfully get someone
+585020	586500	to listen to one call to action,
+586500	588980	so what the data shows is that if a creator, for example,
+588980	591220	runs a sponsor read, then promotes their Patreon,
+591220	592700	what they'll see on average
+592700	594200	is that they'll earn less overall
+594200	595940	than if they had just promoted the sponsor
+595940	598820	as the Patreon push cuts into performance more
+598820	600380	than it drives additional revenue.
+600380	601460	It's not always intuitive,
+601460	603060	but it's a quirk of audience behavior
+603060	604360	that we'd understood for years
+604360	605760	running sponsorships in standard.
+605760	608260	Therefore, we knew we couldn't just simply ask creators
+608260	610380	to promote Nebula out of the goodness of their arms.
+610380	611960	Not only would this hurt their revenue,
+611960	613280	which would mean they would stop working
+613280	614520	with Nebula in the long run,
+614520	616080	this would hurt standards revenue, too,
+616080	618360	since it came from commission on sponsorships.
+618360	619800	At the time, Standard and Nebula
+619800	621320	were literally the same company
+621320	623040	with zero legal separation,
+623040	625680	so weirdly, free promotion for Nebula
+625680	627040	would cut off the revenue source
+627040	629640	that we were using to build Nebula.
+629640	631980	We didn't immediately have a solution to this.
+631980	634560	In all honesty, this was the biggest flaw
+634560	636320	with the business model at launch.
+636320	638480	But again, the launch was designed to be an experiment,
+638480	640320	designed to be that minimum viable product.
+640320	642360	We didn't necessarily need a big marketing method
+642360	643900	at launch because the launch was designed
+643900	645140	to help us find that,
+645140	646660	so the last piece that we needed
+646660	649780	was for the creators to be emotionally invested.
+649780	651500	Everyone was excited by the concept,
+651500	653360	but to assure people would stay excited
+653360	655600	through the inevitably difficult early days,
+655600	658640	well, we figured they might as well be financially invested.
+658640	661620	So, through complex financial and legal wizardry,
+661620	664260	we developed a system where 50% of Nebula profits
+664260	667620	were distributed to creators, including, crucially,
+667620	669820	if the platform were ever to be sold.
+669840	671920	It means if one day the platform were to sell for,
+671920	673520	let's say, a billion dollars,
+673520	675160	the creators would get half of that.
+675160	676720	We split that pool based on watch time,
+676720	679200	meaning the more creators bring in and engage an audience,
+679200	680700	the bigger a share they're entitled to.
+680700	682280	In the short term, this would be a concept
+682280	684160	that would keep creators building for the future.
+684160	686320	In the medium term, this would allocate profit to creators
+686320	688680	based on how much they contributed to growing that profit.
+688680	691000	And in the long term, if Nebula were ever to sell,
+691000	693200	this would make that a scenario where everyone wins,
+693200	694760	rather than one where the platform wins
+694760	696200	off the hard work of creators.
+696200	698500	Not only would this directly tie platform success
+698520	700440	to creator success and vice versa,
+700440	702880	it would also keep everyone in that collaborative mindset,
+702880	705360	one where Nebula and its creators were business partners,
+705360	707360	rather than clients and servicers.
+707360	709520	We win together, and we lose together.
+709520	711360	Next, launch.
+711360	713040	We didn't have some massive plan.
+713040	714760	The website had been up and running for a bit
+714760	716760	as we squashed bugs, so what really marked
+716760	719120	the formal launch, if anything did,
+719120	721280	was the first public promotion of the platform.
+721280	722520	That came from Isaac Arthur.
+722520	725040	On the morning of Thursday, May 23rd, 2019,
+725040	727720	he released a video called Colonizing Black Holes,
+727740	730060	which ended with a push to his Nebula original,
+730060	732500	one of the first three called the Paperclip Maximizer.
+732500	734660	We also had originals that launched from real life lore,
+734660	736060	Second Thought, and Polyphonic,
+736060	737820	so we each released videos mentioning Nebula
+737820	739860	funded by a small and finite pool of money
+739860	741460	dedicated to launch promotion.
+741460	742620	This first weekend went better
+742620	744380	than we possibly could have hoped for.
+744380	746860	By Monday, we had over 4,500 signups.
+746860	748900	They were trial signups, plenty would cancel,
+748900	751220	but that gave us plenty enough data to work with
+751220	753140	to figure out how to make this all work.
+753140	755340	Better yet, we were getting buzz.
+755360	757200	A lot of it was negative.
+757200	758880	Almost everyone thought we'd get added
+758880	761400	to the long list of failed alternate streaming sites,
+761400	763600	but at the least, this told us that the idea
+763600	766460	was exciting enough that people cared to care about us.
+766460	767560	Over the following weeks and months,
+767560	768920	we used some of our cash on hand
+768920	771880	to run some very small additional marketing tests,
+771880	773880	basically seeing if we could pay creators
+773880	775720	a similar rate to their other sponsors
+775720	777380	and bring in enough subscribers
+777380	779080	to justify paying that much.
+779080	781480	The answers we got were promising.
+781480	783800	On one test we did on my podcast, Extremities,
+783820	787020	Nebula paid us $800 and got 200 signups,
+787020	789140	each of whom would pay $5 a month.
+789140	791820	The only problem, we didn't have cash.
+791820	793380	While we'd eventually generate cash
+793380	795540	with the monthly revenue these subscribers brought in,
+795540	797260	that'd be a very slow process,
+797260	798660	meaning it'd be quite a while
+798660	800900	until we could start sponsoring the larger YouTube channels
+800900	802900	and developing bigger Nebula originals.
+802900	804100	But we found a solution.
+804100	807460	Standard had long-run sponsorships for CuriosityStream.
+807460	809580	Another streaming service focused on documentary
+809580	812300	and non-fiction content founded by Jon Hendricks,
+812300	813200	the Discovery Channel.
+813260	815100	To their credit, they didn't get scared
+815100	817100	thinking creators were trying to replace them,
+817100	818900	but rather understood that we were appealing
+818900	821420	to a different, complementary market.
+821420	823780	So Dave went down to the offices just outside of DC
+823780	826300	and came out the other end with a win-win.
+826300	827380	We'd bundle.
+827380	829780	While I can't discuss the exact behind-the-scenes mechanics,
+829780	832140	we found a way to make it worthwhile for both companies
+832140	834620	so that when customers signed up for CuriosityStream
+834620	836540	through each creator's sponsorship links,
+836540	838980	they'd get access to Nebula for free.
+838980	840340	Nobody could really see a downside,
+840340	842740	so we negotiated details, signed a term sheet,
+843320	845320	and as of September 2019, every Nebula creator
+845320	846800	just started promoting the bundle
+846800	849120	in their already-booked CuriosityStream spots.
+849120	850800	In retrospect, it seems like a minor,
+850800	855040	ultimately easy change, but it yielded massive results.
+855040	857160	Personally, the bundle deal supercharged
+857160	858600	my sponsorship performance.
+858600	860600	It was clear that the offering of CuriosityStream
+860600	862480	and Nebula together was a more convincing sell
+862480	864400	to our audiences than any other sponsor
+864400	865300	we ran on the channel.
+865300	867140	Even better, we started to understand
+867140	868720	the marketing message that worked.
+868720	871040	Pushing to behind-the-scenes videos or extended cuts
+871060	872340	didn't really work.
+872340	874460	Pushing the idea of no ads or sponsorship
+874460	877460	on Nebula worked okay, but the thing that clearly created
+877460	880100	these performance multiples was full-length,
+880100	882860	high-budget, exclusive originals.
+882860	884500	Seeing that, CuriosityStream started
+884500	886460	to co-produce Nebula originals with us.
+886460	889060	In October 2019, to film our highest-budget,
+889060	891500	most ambitious one to date, I flew all the way
+891500	893580	to the remote Atlantic island of St. Helena
+893580	895860	to make the world's most useful airport.
+895860	898340	While I was there, we crossed 10,000 paying subscribers,
+898360	901240	then it took less than a month more to hit 20,000.
+901240	904040	By the end of the year, we had crossed 35,000,
+904040	907080	and in six short months, Nebula had transformed
+907080	910240	from an idea into a fast-growth startup.
+910240	911480	Now, through all this history,
+911480	914140	I was not actually an owner of Standard,
+914140	916400	just a highly involved long-term client,
+916400	918640	but it was clearly something I was interested in.
+918640	920960	I was there from the start, I had helped it grow,
+920960	923840	and I believed in it, and specifically Nebula's future.
+923840	926520	In 2020, an opportunity arose.
+926540	928860	Gray and Philip were less keen on Nebula.
+928860	930420	It seemed to make less sense to them,
+930420	932100	while the rest of the creator roster was,
+932100	933360	so they were looking for a way
+933360	934960	to end their involvement with the company.
+934960	936620	Therefore, Brian from Real Engineering,
+936620	938900	Alex from LowSpecGamer, Devin from Legal Eagle,
+938900	940380	Thomas Frank, and myself agreed
+940380	941940	to purchase their ownership stakes
+941940	943420	and divide it up amongst ourselves,
+943420	946140	and we were all extremely bullish on Nebula.
+946140	948900	By chance, that sale occurred in March 2020,
+948900	951520	the same month as the world's descent into lockdown.
+951520	954940	With everyone stuck at home, the streaming industry exploded.
+954960	957600	It's awkward to talk about in the context of a tragedy,
+957600	959840	but the honest truth is that our bundle promotion
+959840	961200	was selling faster than ever,
+961200	963120	and creators were earning a lot.
+963120	965120	CuriosityStream capitalized on industry momentum
+965120	967980	by listing on NASDAQ through a SPAC merger in October,
+967980	969480	which was initially a big success.
+969480	971320	Day one ended with an 11% gain,
+971320	973160	and they peaked in February 2021
+973160	975320	at nearly double their first day price.
+975320	978200	Through and through, the Nebula bundle was a win-win.
+978200	980400	It grew Nebula, it grew CuriosityStream,
+980400	982080	it grew creator sponsor payouts,
+982080	984120	and it was a worthwhile proposition for all.
+984140	985540	So we decided to double down
+985540	987380	on aligning the success of the two companies
+987380	991380	by, for the first time ever, accepting investment.
+991380	994280	Now, investment had long been something we were wary of.
+994280	996740	In our view, a big reason why similar business models
+996740	998820	had failed in the past was because investors
+998820	1000100	pressured the streaming platforms
+1000100	1002880	to squeeze more and more value out of creators.
+1002880	1005180	Basically, they did the thing that seemed right
+1005180	1006780	when you looked at it on a slide deck,
+1006780	1009300	take a bigger share of the revenue, make more money.
+1009300	1011420	But that fails to understand that the creators drive
+1011440	1014480	almost all of the value of a platform like Nebula.
+1014480	1015800	If they're making good money,
+1015800	1018160	they'll make more exclusive content for audiences,
+1018160	1019560	they'll bring their creator friends in,
+1019560	1021120	they'll keep promoting the platform.
+1021120	1023880	So it's really that if you take a smaller slice of the pie
+1023880	1025560	and give more to creators,
+1025560	1027720	the pie will grow so much in the long term
+1027720	1029860	that the platform will make more overall.
+1029860	1032160	Every dollar a streaming platform like Nebula makes
+1032160	1033520	is through the creators,
+1033520	1035920	so it's about creating that win-win scenario
+1035920	1037840	rather than trying to extract value
+1037840	1039400	from your business partners.
+1039400	1041400	We weren't confident that most investors,
+1042220	1043220	especially institutional investors,
+1043220	1045840	would understand that and the other nuanced dynamics
+1045840	1047880	of the creator industry in the long run,
+1047880	1050420	with one exception, CuriosityStream.
+1050420	1052660	Their people seemed to get it.
+1052660	1055340	They were also, by far, our biggest marketing partner,
+1055340	1056740	biggest production partner.
+1056740	1058900	We'd already aligned ourselves with them so deeply
+1058900	1061220	that investment seemed like a minor additional level
+1061220	1062860	that would yield a lot of cash
+1062860	1064580	to reinvest in growing Nebula.
+1064580	1067540	So after a unanimous vote by myself and the other owners,
+1067540	1071340	Nebula no longer was entirely ours.
+1072160	1073000	While the exact numbers are not public,
+1073000	1075720	what is is that they bought a significant minority stake
+1075720	1076840	that valued Nebula,
+1076840	1080080	the company that did not exist just three years prior,
+1080080	1082880	at over $50 million.
+1084080	1085660	Incredible.
+1085660	1086760	Driven by this funding,
+1086760	1089760	2022 was comprised of some of our fastest growth to date,
+1089760	1092220	especially as shows like Real Life Lore's Modern Conflicts
+1092220	1095040	and Our Jetlag the Game proved massively successful
+1095040	1097440	at driving huge numbers of subscriptions.
+1097440	1098600	Staff had count ballooned,
+1098600	1100160	especially in the engineering department,
+1100160	1102480	as they staffed up to build apps for new platforms
+1102480	1104300	like Roku and Samsung TV.
+1104300	1105780	We also finally had the money
+1105780	1107380	to build our own streaming tech,
+1107380	1109580	which freed us from some of the technical limitations
+1109580	1111020	of Zype's white label offering.
+1111020	1111940	And we geared up to produce
+1111940	1114100	our most ambitious slate of originals to date
+1114100	1117100	with the co-production funding CuriosityStream would provide.
+1117100	1120040	But this is a good chance to acknowledge failure.
+1120040	1122820	Now, failure is inevitable in business.
+1122820	1124540	It's truly part of the process.
+1124540	1126460	You try new things carefully,
+1126460	1128980	and success is defined by your batting average.
+1129000	1131440	If you win more than you lose, you're winning.
+1131440	1132840	Nebula classes, however,
+1132840	1135600	probably pulled down that batting average.
+1135600	1137920	It sounded like a great idea at the time.
+1137920	1140120	Through COVID, creators were earning massively
+1140120	1141600	by making online classes.
+1141600	1144220	We were constantly approached by various class platforms
+1144220	1145880	who wanted to sponsor our creators,
+1145880	1148280	and so rather than promoting their services,
+1148280	1149760	we thought it better to build it into Nebula
+1149760	1151400	so we could promote our own service
+1151400	1154040	and keep all the customer revenue in the ecosystem.
+1154040	1155960	In all honesty, we were trying to capitalize
+1155960	1158640	on a wave of popularity that was relatively aligned
+1158700	1159980	to what we were already doing.
+1159980	1161460	Unlike when we launched Nebula as a whole,
+1161460	1163740	we had a good amount of cash on hand to invest in this
+1163740	1165380	thanks to CuriosityStream's investment,
+1165380	1166860	so we wanted to launch strong.
+1166860	1168980	We built out a section of the website and apps for it,
+1168980	1171180	we built the backend tech to allow for multiple tiers
+1171180	1174700	of membership, and we invested a lot in content.
+1174700	1177580	We launched with six classes, and each was high quality,
+1177580	1178940	shot in a studio in New York,
+1178940	1181100	well-edited with motion graphics and everything.
+1181100	1183220	That's to say, they weren't cheap.
+1183220	1185400	We then planned to release a new one each week,
+1185400	1187980	which meant organizing a dense production schedule.
+1188000	1190520	It was a massively complex, large-scale undertaking,
+1190520	1192160	but the engineering and production staff
+1192160	1193960	made it all happen without a hitch.
+1193960	1195880	The problem was that the concept
+1195880	1198680	just wasn't resonating with customers.
+1198680	1200120	We initially sold Nebula classes
+1200120	1202680	as an additional tier above normal Nebula.
+1202680	1204520	It was $100 a year by itself,
+1204520	1207560	or a $5 a month upcharge for existing subscribers,
+1207560	1208920	which might seem like a lot,
+1208920	1210600	but was actually lower than competitors
+1210600	1211860	with similar production quality.
+1211860	1214440	We ran sponsorships on this and had some minor wins,
+1214440	1217080	but on average, there was clearly audience confusion
+1217100	1218820	as we also ran bundle sponsorships
+1218820	1221140	on the same channels at different times.
+1221140	1223100	We couldn't promote classes and bundle sponsorships
+1223100	1224620	as classes weren't part of the bundle,
+1224620	1229100	so in a way, we were competing against ourselves and losing.
+1229100	1230300	Some people were upgrading.
+1230300	1231940	It wasn't some massive failure,
+1231940	1234380	but hardly enough to justify our rate of production.
+1234380	1236540	Ultimately, creators could improve sponsorship performance
+1236540	1238140	more by making Nebula originals,
+1238140	1240260	so that's what they would do.
+1240260	1242420	It was also clear that by the time we launched,
+1242420	1245900	we were on the downslope of the online classes wave.
+1245920	1247800	We were far from the only class platform
+1247800	1250120	struggling to find product market fit,
+1250120	1253260	so ultimately, we decided it best to just have one Nebula.
+1253260	1254600	No upcharge for classes.
+1254600	1256400	We'd make it available to all subscribers
+1256400	1258640	and simply slow down our production calendar.
+1258640	1260200	It was an important experiment,
+1260200	1263160	and while not a direct, overwhelming success,
+1263160	1265600	in a way, the marketing test we did for it
+1265600	1267840	proved crucial for what was to come,
+1267840	1271560	our biggest, most existential experiment to date.
+1271560	1274680	Come late 2022, as indicated in their quarterly reports,
+1274700	1276940	CuriosityStream was looking to pull back their growth rate
+1276940	1278940	and orient more towards profitability.
+1278940	1281320	COVID was dying down, screen time was lowering,
+1281320	1283420	the streaming industry overall was weakening,
+1283420	1284900	and so it made every sense in the world
+1284900	1286780	for them to switch from a growth orientation
+1286780	1288300	to a profit orientation,
+1288300	1291780	as all growth-oriented companies that survive eventually do.
+1291780	1293100	I assume for these reasons we got
+1293100	1294940	were that they wanted to significantly pull back
+1294940	1297900	on marketing spend through Nebula bundle sponsorships.
+1297900	1300540	Clearly, this wasn't something we wanted.
+1300540	1302700	Not only would it slow Nebula's growth rate,
+1302720	1305260	but more crucially, it would reduce how much
+1305260	1307840	we could pay creators to talk about Nebula on YouTube.
+1307840	1309920	This was still the primary way
+1309920	1311520	creators were earning through Nebula.
+1311520	1314240	While watch time payouts and originals were significant,
+1314240	1316520	payouts for YouTube sponsorships about Nebula
+1316520	1317960	were far more so.
+1317960	1320240	So the natural next question to ask was,
+1320240	1322760	could we just do sponsorships ourselves?
+1322760	1324720	You'll notice that nearly everything advertised
+1324720	1326600	in a sponsorship at the end of a YouTube video
+1326600	1329520	is an online subscription-based service.
+1329520	1332640	For some reason or another, these are just what works best,
+1333460	1334340	and here's how those advertising campaigns
+1334340	1335900	work in the background.
+1335900	1338420	Let's say a service costs $10 a month.
+1338420	1340240	Every service has data on how long
+1340240	1342040	the average subscriber sticks around.
+1342040	1343780	Let's say it's 27 months.
+1343780	1347780	That means the average lifetime value of a signup is $270.
+1347780	1350800	It might actually cost, say, $5 a month to run that service,
+1350800	1353220	meaning per month there's $5 left.
+1353220	1355260	A good bit of that has to go to actually getting
+1355260	1357820	the customers in the first place, to marketing.
+1357820	1361180	Knowing there's $135 left in the average lifetime value,
+1361200	1362840	the company will decide on a target
+1362840	1364280	average cost per acquisition.
+1364280	1367660	Let's say it's $75, leaving $60 in lifetime value
+1367660	1370240	for profit that can be reinvested in platform growth
+1370240	1371800	or just taken as profit.
+1371800	1374280	Now that $75 target cost per acquisition
+1374280	1376680	acts as the central success metric for marketing,
+1376680	1378400	and when an agency designs a campaign
+1378400	1379740	with creators pushing the service,
+1379740	1381320	their payment will be designed in the background
+1381320	1382440	by this number.
+1382440	1385360	If, on average, they drive 100 signups per video,
+1385360	1388120	their pay will be roughly $7,500 per video,
+1388120	1390380	and either the agency or the service itself
+1390400	1392160	will evaluate spots as they run
+1392160	1393960	to make sure the long-term average cost
+1393960	1396400	ends up at or below $75.
+1396400	1398600	This works quite well.
+1398600	1403120	The only issue is when that $75 needs to get paid.
+1403120	1406240	Here, right when the customer signs up.
+1406240	1407560	But on the company's side,
+1407560	1409960	after the $5 in monthly operating expenses,
+1409960	1412040	it's going to take 15 months for them
+1412040	1414360	to capture that $75 back in revenue.
+1414360	1416420	You essentially need to spend $75
+1416420	1419400	to eventually earn that $60 in profits.
+1419420	1422220	Put another way, you need to invest it.
+1422220	1424740	This is the role of investors in these startups.
+1424740	1427220	Companies can have an entirely viable business model,
+1427220	1428780	but just need more cash in the bank
+1428780	1430900	to pay for the marketing that leads to growth.
+1430900	1432580	We didn't want to take more investments.
+1432580	1434500	We didn't want to give up more ownership of the company.
+1434500	1436060	So the question was,
+1436060	1438380	could we use the couple million we had in the bank
+1438380	1441060	to kickstart growth at a fast enough rate?
+1441060	1442780	We were sure we had a viable business model.
+1442780	1444800	We had years of proof that we could get a customer
+1444800	1445940	through YouTube sponsorship
+1445940	1448540	for less than their average lifetime value.
+1448560	1451680	The question was when that cost per acquisition
+1451680	1452680	was recaptured.
+1452680	1454760	If it was quick, in the first year or so,
+1454760	1456000	we were in business.
+1456000	1457540	The math worked out that we could maintain
+1457540	1459800	or even grow our monthly marketing spend
+1459800	1461680	if we would recapture revenue fast enough
+1461680	1463400	to reinvest it in new marketing.
+1463400	1464720	If it was slower,
+1464720	1466860	if we didn't recapture target cost per acquisition
+1466860	1468360	until far in the future,
+1468360	1470840	the careful balance that had made Nebula work
+1470840	1473120	or so many close equivalents failed,
+1473120	1476360	could all come crumbling down.
+1476360	1477520	Today, we're five months on
+1477540	1479300	from the switch to direct marketing ends.
+1479300	1480580	I won't breathe the lead.
+1480580	1483940	It went off better than our wildest expectations.
+1483940	1486820	Crucially, over 80% of signups are opting to pay
+1486820	1489500	for the annual subscription rather than the monthly one.
+1489500	1491620	Considering we pay creators for Nebula sponsorships
+1491620	1493220	the day after they go out,
+1493220	1495980	that means we actually get a year's worth of revenue
+1495980	1498100	before we even pay for the promotion.
+1498100	1500500	In this case, that entirely eliminated
+1500500	1501580	the cashflow constraint
+1501580	1504460	because we make more day one on an average signup
+1504460	1507180	than our average cost to acquire a new customer.
+1507720	1509320	Of course, that doesn't mean we turn a day one profit,
+1509320	1511400	we have operating costs beyond marketing,
+1511400	1513200	but it means we have a marketing strategy
+1513200	1516880	that could theoretically expand basically infinitely
+1516880	1518880	zero cashflow limitations.
+1518880	1520120	In just a few short months,
+1520120	1524560	we went from spending $0 to more than half a million dollars
+1524560	1525600	on marketing per month,
+1525600	1530120	and we are earning back more than that in the same month.
+1530120	1533440	I can't stress enough how incredible this is.
+1533440	1536840	We, the creators, are now entirely in control
+1537380	1538380	of our own future.
+1538380	1540380	With this, we're charting our most ambitious slate
+1540380	1543060	of originals to date, we're bringing in new creators,
+1543060	1544660	we're investing in our tech.
+1544660	1548620	There is so, so much that this big risk has unlocked.
+1548620	1550300	Right now, it feels like the last couple of years
+1550300	1551980	have been an overwhelming success,
+1551980	1554180	but I truly believe that, looking back,
+1554180	1557460	we'll consider 2023 much like we see 2019,
+1557460	1559260	the turning point that makes previous success
+1559260	1561180	the backstory you just have to get through
+1561180	1562300	to get to the good part.
+1562300	1564540	We have learned so much,
+1564560	1567040	so now we understand what people want
+1567040	1569880	and we have a company configured to offer that.
+1569880	1573440	I truly cannot wait to show you what we can do.
+1573440	1574920	Now I need to do thank yous.
+1574920	1576640	When describing Nebula's history like this,
+1576640	1579520	it feels like its success was defined by decisions.
+1579520	1580800	And while partially true,
+1580800	1583200	those decisions could only lead to anything
+1583200	1585880	thanks to the sum of small collective actions
+1585880	1588980	made by dozens, hundreds, thousands of people.
+1588980	1592240	First and foremost, the staff of Nebula and Standard.
+1592260	1595020	Unlike us creators, they do not get the public recognition
+1595020	1596100	for what they do.
+1596100	1599100	They pour their passion into servicing our passion,
+1599100	1601700	working day in and day out to build a system
+1601700	1604580	that allows us to do more of what we love to do.
+1604580	1606700	Nebula truly could not exist without them.
+1606700	1608820	Us creators could not exist without them.
+1608820	1611620	So I'm endlessly grateful for the work they do.
+1611620	1612980	Second, the creators.
+1612980	1615180	The community that has risen out of Nebula and Standard
+1615180	1616860	is just incredible.
+1616860	1618940	Every day we talk, celebrating our wins,
+1618940	1620260	commiserating our failures,
+1620260	1622320	searching for solutions to problems.
+1622320	1623600	We go to conferences together.
+1623600	1624840	We go on vacation together.
+1624840	1626120	We go to each other's weddings
+1626120	1627960	and we'll be at each other's funerals.
+1627960	1630000	I truly don't know if I could have navigated
+1630000	1632240	the stresses of life as a creator without them.
+1632240	1633880	And I know Nebula would have failed
+1633880	1636320	without our collective vision for a brighter future
+1636320	1637680	for the creator economy.
+1637680	1640160	Lastly, the subscribers.
+1640160	1642680	I could never have imagined that people would look at Nebula
+1642680	1644880	as anything more than a company,
+1644880	1648040	something trying to separate them from their dollars.
+1648040	1649160	But I was wrong.
+1649180	1651060	There is an unbelievable community of people
+1651060	1652740	who not only use Nebula,
+1652740	1655300	but have latched onto the same vision we have.
+1655300	1657260	They celebrate our wins and help show us
+1657260	1658820	where we can go stronger.
+1658820	1661900	I'm constantly in awe of how much forgiveness they gave us
+1661900	1664380	for scrappiness on our bootstrapped early days.
+1664380	1667300	And we could not have come to today without that.
+1667300	1669580	Thank you for taking a risk on us.
+1669580	1671040	I hope we proved it worthwhile.
+1671040	1672860	And I promise that we'll only work harder
+1672860	1675180	to make that even more so in the future.
+1675180	1676300	To close out,
+1676300	1678660	I had to pay for the production costs on this video somehow.
+1679160	1681000	And it kind of felt weird to make it feel even more
+1681000	1682240	like a big, long Nebula ad
+1682240	1684240	by putting a Nebula sponsorship at the end.
+1684240	1685360	And it felt even more weird
+1685360	1686960	to put another sponsor at the end.
+1686960	1688960	So I'm going to go with the less weird weird option,
+1688960	1690560	but keep it simple.
+1690560	1691840	If you aren't subscribed to Nebula,
+1691840	1694040	but want to check it out, use our link.
+1694040	1695720	Nebula.tv slash Wendover.
+1695720	1698080	You'll get $20 off an annual subscription,
+1698080	1701440	bringing the cost down to just $2 and 50 cents a month.
+1701440	1704400	Thank you for caring enough to listen to this story.
+1704400	1705320	It's a wild one.
+1705320	1706320	And I hope in a few years
+1706340	1708780	we have an even better one to tell you.
+1708780	1709620	Thanks to you.

@@ -1,0 +1,296 @@
+start	end	text
+0	6440	The world's new era of warfare started here, on the eighth floor of an innocuous office
+6440	9400	building in Minsk, Belarus.
+9400	15360	A small anti-virus developer based within these walls, Virus Blockada, received an inbound
+15360	16740	help request.
+16740	22120	Their client in Iran was experiencing random, repeated reboots of their industrial-control
+22120	23120	computers.
+23120	28040	It was probably a bug, they thought—a misconfiguration of Windows, or an issue of two programs not
+28040	29760	playing nice with each other.
+29760	34220	So, they reinstalled Windows, but the issue remained.
+34220	35600	This upped the stakes.
+35600	40360	This wasn't some mistake in Windows programming—this was something purposefully malicious.
+40360	46200	Soon, Sergei Ulasin, the company's researcher, found some suspicious files on the errant
+46200	47320	machine.
+47320	51640	As he combed through their code, he made a discovery—a discovery that shook the world
+51640	55400	of information security to its core.
+55400	60480	This code, when placed on a USB drive and plugged into a computer, could silently launch
+60480	64340	and execute a program simply by being viewed.
+64340	69280	This was a brand new exploit—a catastrophically capable exploit.
+69280	74420	All it took was one drive, simply plugged in, to infect one computer.
+74420	79240	This method of spread was mortifyingly efficient—it was something out of a movie.
+79240	83720	Recognizing that, the intuitive question was how far it had spread.
+83720	85720	The answer was chilling.
+85720	86720	58%.
+86720	92600	58% of devices in Iran were infected with this malicious code.
+92600	97880	58% of the country's computers were within the grips of some mystery developer so capable
+97880	101960	that they had identified an exploit of existential proportions.
+101960	106140	And what made this ominous development all that much more intimidating was that nobody
+106140	109740	knew what this code was intended to do.
+109740	115940	Nobody knew why a high-skilled hacker had spread a groundbreaking worm to 58% of Iran's
+115940	116940	computers.
+116940	121540	What became clear far quicker is that Virus Blocka does discovery did not gain prominence
+121540	126540	for the virus itself—it gained prominence because this small Belarusian antivirus company
+126540	130640	had discovered that the world had entered a new era.
+130640	138520	The world had entered the era of highly advanced, highly targeted, and highly capable cyber-warfare.
+138520	144140	This new era was made possible, and perhaps more importantly, made profitable by one single
+144140	147060	concept—the Zero Day.
+147060	152060	You see, in decades past, national intelligence agencies and nefarious independent operatives
+152060	155280	focused on gathering information in transit.
+155280	158540	Rather than sneaking into the embassy, you intercepted the courier.
+158540	161900	Rather than placing a bug in the phone, you tapped the transmission line.
+161900	166840	It was simply easier to capture information on the move than at its origin or destination.
+166840	171940	As the digital age awoke, this MO continued, but then the manufacturers caught up.
+171940	177640	Apple, Microsoft, Google, and others all started encrypting data as soon as it left devices.
+177640	183320	Shielding information behind complex mathematical systems, encryption, by this time, was, for
+183320	186020	all practical purposes, perfect.
+186020	190280	Therefore, the strategies behind digital espionage had to change.
+190280	193040	The snoops needed a new way to get in.
+193140	197180	While the math behind encryption may be infallible, people are not.
+197180	201980	The devices on which data is created and stored—phones, computers, servers, and more—are created
+201980	202980	by people.
+202980	205860	Therefore, the devices have holes.
+205860	209440	These holes are referred to as Zero Days.
+209440	211780	Any software has vulnerabilities.
+211780	215140	Most will be caught before release, some will be caught shortly after and quickly addressed
+215140	220560	with a patch, but a tiny minority will go unnoticed for weeks, months, or years.
+220580	225140	In the early 2000s, hobbyist hackers spent their evenings scrolling through code, looking
+225140	226700	for these bugs.
+226700	230020	Faced with hostility and legal threats when reporting vulnerabilities straight to its
+230020	234460	software's developers, many would post about their findings on online forums—earning
+234460	236520	little else than bragging rights.
+236520	240240	Early information security companies would repackage this information and include it
+240240	245160	in a digital threat alert system for companies and agencies—notifying them when their software
+245160	248100	might have holes not yet fixed by the developer.
+248120	254200	One such company, iDefense, found itself faltering in 2002 as they were selling the same information
+254200	259960	at the same time to the same customer base—they simply had zero competitive advantage.
+259960	262000	So, they created one.
+262000	264920	They decided to start paying for exploits.
+264920	268560	Hackers would come to them with a bug, and, in exchange for their silence, iDefense would
+268560	272480	pay anywhere between a couple hundred and a couple thousand dollars.
+272480	276520	iDefense would then alert their software's developer and its own customers before the
+276540	279260	competing information security companies could.
+279260	283360	With the information staying among more trusted hands, this also lowered the likelihood of
+283360	286520	a vulnerability being used for nefarious reasons.
+286520	291220	iDefense had created an ethical, profitable system that gave hackers a first opportunity
+291220	297600	to monetize their hobby, and so it was no surprise that it grew into a massive success.
+297600	304080	In mere months, the company went from weeks behind on payroll to a pioneer in the industry.
+304140	308980	But then the calls started coming, and the area codes were local.
+308980	314180	The Chantilly, Virginia-based company was fielding inquiries from around the DC Beltway.
+314180	317140	Government contractors wanted to buy their exploits.
+317140	322380	For the zero days that iDefense had paid three or four figures for, the callers were willing
+322380	327780	to pay six—as long as the company stayed quiet, as long as the buyer stayed the only
+327780	330220	one with knowledge of the zero day.
+330240	336160	iDefense said no, but they soon found themselves priced out of the very market they had created.
+336160	341000	Whereas their payouts might fund a vacation, the black market bounties paid for sports
+341000	344320	cars—they simply couldn't compete.
+344320	349360	On the other side of the equation, the American military machine had recognized the astonishing
+349360	353340	potential rising out of a single software susceptibility.
+353340	358600	Unperturbed by borders, rules of engagement, or mortality, cyberwarfare had the potential
+358600	364260	to silently achieve America's strategic goals so long as they, and only they, knew
+364260	366700	about these zero days.
+366700	372580	In the years since, the market has propagated into a staggering degree of scale and legitimacy.
+372580	376620	While a thriving black and gray market still exists, especially for sales to countries
+376620	380940	with concerning human rights records, Western players like the US source the zero day exploits
+380940	385460	upon which they build their cyberweapons from companies that hardly hide what they're
+385460	386460	doing.
+386460	391400	For this extreme example, zero day broker Zerodium publishes their price list.
+391400	395400	For an exploit capable of running a piece of code on a device or network without user
+395400	399720	interaction, remote code execution as it's known, the company is willing to pay up to
+399720	402040	$10,000 on router software.
+402040	407740	For the same capability, they'll pay up to $100,000 on WordPress, and up to a million
+407740	409440	dollars for Windows.
+409440	415000	Zerodium is even offering a temporarily higher $400,000 bounty for a remote code execution
+415000	420400	zero day on Microsoft Outlook—possibly indicating that someone, somewhere desperately
+420400	424360	needs that very exploit for a cyberweapon under development.
+424360	428580	Remote code execution exploits are the holy grail of zero days.
+428580	433200	Properly used, they can allow virtually unfettered access to another's machine.
+433200	438580	Of course, zero days become worthless essentially the instant they are discovered—nowadays,
+438580	441780	software developers will quickly patch the exploits upon notification.
+441840	446480	Therefore, the fact that this malicious code, quickly dubbed Stuxnet, included a remote
+446480	451000	code execution exploit that could have sold for hundreds of thousands of dollars, indicated
+451000	454360	that it was designed to do something equally valuable.
+454360	461000	However, it soon became clear that the .lnk exploit did not stand alone.
+461000	466460	Layered on top of it was another remote code execution exploit.
+466460	470700	Stuxnet was designed to embed itself into the file that communicates metadata to printers
+470700	476000	on a local network, however, with this zero day, that file would end up on all the other
+476000	481820	computers on that local network—silently and quickly spreading from a single machine
+481820	486320	to an entire office, university, factory, or other facility.
+486320	492340	Then, to complete the spread, the code used two Escalation of Privilege zero days, each
+492340	496760	for different versions of the operating system, allowing it, when installed on a single user
+496760	500900	account, to gain access to an entire machine.
+500900	505880	Four zero days, four exploits each worth life-changing amounts of money.
+505880	512220	This was, in the most literal sense, an unprecedented scale of hacking device.
+512220	517820	Never before had a piece of code so expertly intertwined four unknown exploits.
+517820	522940	Whoever was behind this had exhausted enormous resources onto this single, one megabyte piece
+522940	527540	of code, but even as it was being combed through by Virus Blockita—even as it set
+527540	532520	the information security industry ablaze, even as it propagated from machine to machine
+532520	538980	in Iran and beyond—the single most important question remained unanswered.
+538980	543060	What was Stuxnet designed to do?
+543060	548060	This is the Natanz nuclear facility, and while neither Iranian officials nor anyone in global
+548060	553060	information security knew it, by the middle of 2010, the complex had become ground zero
+553060	558180	for the implementation of the most advanced cyberweapon the world had ever seen.
+558180	561900	Hours away from Tehran by car, sitting on the border of the nation's central desert
+561900	567040	in the shadow of the carcass mountains, this uranium enrichment facility is purposefully
+567040	569060	geographically isolated.
+569060	574260	Its geographic isolation, however, pales in comparison to its digital isolation.
+574260	579300	Natanz, in response to an earlier, more rudimentary cyberattack, wasn't even connected to the
+579300	584060	internet as Iran had air-gapped the facility to protect important and notoriously fickle
+584060	586220	centrifuges from outside meddling.
+586220	590540	For the outside to meddle, then, a worm had to be planted manually.
+590540	596920	At some point in 2009, an unknowing employee at the plant, a spy, or a mole plugged a contaminated
+596920	600820	USB stick into a PC running Microsoft Windows.
+600820	604780	Having the malware past the air-gap, however, only marked the beginning.
+604780	610820	First, using the .lnk zero-day, the worm jumped from USB to computer without detection.
+610820	615540	Then, using the printer zero-day vulnerability, the worm gained access to the facility's
+615540	619140	local network and spread across the entire enrichment plant.
+619140	624900	Undetected, and inside the Natanz network, the malicious code still held on to its payload—continuing
+624900	628700	its search for a very particular target, as it went.
+628700	632020	Conceptually, cyberweapons are rather straightforward.
+632020	636940	Like most of their physical counterparts, these weapons consist of two primary components—the
+636940	638780	carrier and the payload.
+638780	643660	In other words, no matter the level of complexity, every cyberweapon is comprised of code that
+643660	648380	gains it access into a computer or network, and code that informs what the weapon does
+648380	649760	once it's inside.
+649760	653060	At this stage, the carrier had so far succeeded.
+653060	657180	Stuxnet had access to any and all things going on here, throughout the administrative and
+657180	663280	monitoring areas of the facility—effectively, the enrichment processes surrounding infrastructure.
+663280	667580	The code's payload and, by extension, the malware's authors, however, weren't interested
+667580	672300	in crashing the plant's communications network or delivering a one-off denial of service.
+672300	677020	Instead, they worked towards something more tangible and long-lasting.
+677020	683140	What the code wanted access to was buried underground here, where actual, physical centrifuges
+683140	689340	were using centrifugal force to tear away unwanted isotopes and create Uranium-235.
+689340	695580	Running these centrifuges, though, weren't PCs, but programmable logic controllers—industrial
+695580	699260	control equipment that provided yet another hurdle for the malware.
+699260	703580	Finally, using stolen security certificates than zero-day vulnerabilities identified in
+703580	709200	Siemens Software, a German manufacturer whose PLCs controlled 164 of the Iranian centrifuges
+709200	715640	each, the carrier had reached its target, completed its mission, and released its payload.
+715640	720600	Among the many genius and frightening potentials highlighted by this nefarious code, one troubling
+720600	725180	aspect lies not in what it did, but what it intended not to do.
+725180	730020	For days after gaining access to the PLCs controlling the Iranian centrifuges, the very
+730020	735920	core of the nation's nuclear program, the payload did nothing but monitor the machine's
+735920	736920	RPMs.
+736920	742760	Then, after nearly two weeks, the code would briefly speed the centrifuges up to 1400 Hz—well
+742760	746780	beyond their normal operating range of between 800 and 1100.
+746780	750920	Weeks after that, the code would momentarily slow them down to 2 Hz, leading to increased
+750920	753680	wear and tear, and thus failure.
+753680	758000	All the while, as the machines self-destructed at a slightly above average rate, the worm
+758000	762200	reported to monitors that the centrifuges were running at average RPMs—that there
+762200	764440	was nothing here to see.
+764440	769200	Essentially, had it not managed to unintentionally escape from the facility, Stuxnet could have
+769200	774360	potentially continued to cripple Iran's nuclear ambitions from within for years, perhaps
+774360	776880	even decades, before detection.
+776880	782880	Therefore, prior to June of 2010, the piece of code was simultaneously invisible and physically
+782880	788160	destructive—a cyberweapon experts couldn't identify, but one that was destroying hundreds
+788160	792680	upon hundreds of strategically invaluable Iranian centrifuges.
+792680	797520	It's been more than a decade since Stuxnet was first identified.
+797520	803100	Still, no one has officially claimed responsibility for this first-of-a-kind weapon.
+803100	807580	The code's scale, though—its sheer size and complexity—has created a consensus that
+807580	809920	this couldn't be the work of one person.
+809920	813480	While the world's most powerful hackers are likely to get their hands on a single
+813480	817800	zero day, Stuxnet employed a staggering four.
+817800	822400	Nor could this be the work of a group of activists, or even a minor nation-state, either.
+822400	827960	At a megabyte, Stuxnet was orders of magnitude larger than any malware discovered before
+827960	828960	it.
+828960	833520	And it wasn't just massive, either—it was incredibly precise, laying dormant in
+833520	838040	computers across the globe and only weaponizing its devious payload when connecting to Siemens
+838040	844000	Step 7 software linked to a PLC running exactly 164 centrifuges.
+844000	848440	Such size signaled that this was a weapon designed across years, while such clinical
+848440	853040	precision signaled the code was crafted with potential future lawsuits in mind.
+853040	858820	In short, just in the worm's design, experts the world over concluded it had to be crafted
+858820	863660	by a major world power, or multiple, with the time and resources to approach such an
+863660	868880	unprecedented undertaking, and it had to be a world power, or multiple, that wasn't
+868880	871400	so friendly with Iran.
+871400	875680	Information in the actual code and geopolitical context aren't our only clues as to who
+875680	877540	is behind this, though.
+877540	881940	The experts have conducted countless interviews on background and pored over troves of leaked
+881940	884540	documents since the worm appeared.
+884540	888980	What they found was that the development of Stuxnet was described as a third option, that
+888980	892900	existed somewhere between doing nothing to slow Iran's nuclear advance and launching
+892900	896080	airstrikes to destroy the enrichment facilities.
+896080	900860	As an alternative was how the weapon was first presented to President Bush, then to Israeli
+900860	906980	officials, then eventually to President Obama—all of whom supported its implementation.
+906980	911300	What the journalists revealed was that the US and Israel had ushered the world into a
+911300	916780	new era of state-led cyberoffensive that wreaked physical destruction.
+916780	921020	Before this point, nation-states—the US through the NSA and Israel through its unit
+921020	925340	8200—used cyberdivisions to defend and surveil.
+925340	928420	Now they were going on the offensive.
+928420	933440	By crossing the Rubicon, though, and getting caught, the actions of the US and Israel have
+933440	935860	opened Pandora's box.
+935860	942220	Though Iran denied involvement, in 2013, major American banks were hit with a concerted attack.
+942220	947040	American intelligence identified it as retaliation by Iranian, and a worrying lesson as to how
+947040	950620	quickly the rival's cyber capabilities were expanding.
+950620	956060	Holding up American banks in 2013, however, only marked the beginning.
+956060	961740	Once the US unleashed Duxnet, other nation-states have worked to close the cyberweapon gap—many
+961740	965860	of which the US has, at best, a tenuous relationship with.
+965860	970220	North Korea, largely through its state-backed hack organization the Lazarus Group, was able
+970220	975980	to infiltrate Sony Pictures in 2014, then in 2017, the country's WannaCry ransomware
+975980	980500	forced the UK's National Health Service to work off pen and paper.
+980500	985260	Every year, China's cyberwarfare division grows stronger from the talent-scouted and
+985260	990420	zero-days identified at the Tianfu Cup, where competitive hackers tear into Google, Microsoft,
+990420	991700	and Apple software.
+991700	997400	In 2017, Russian cyberattacks brought Ukrainian banks, utilities, and government agencies
+997400	998580	to their knees.
+998580	1003820	In 2021, ransomware software locked up the US's colonial pipeline.
+1003820	1007460	Increasing the speed at which the rest of the world catches up to the US is the fact
+1007460	1009780	that American weapons are spreading.
+1009780	1014420	The United States has long been considered a leader, if not the leader, in cyberwarfare,
+1014420	1019180	but a 2017 leak by a hacker group known as the Shadow Brokers unleashed the American
+1019180	1022740	NSA's hacking tools for the entire world to use.
+1022740	1026820	Today, experts have reached a concerning consensus.
+1026820	1032780	The capability for catastrophic cyberwarfare exists more acutely now than at any point
+1032780	1039420	before—changing the very landscape for current and future conflicts.
+1039420	1043060	Traditional weapons have consequences for the aggressors.
+1043060	1047140	If Russia were to deploy a nuclear weapon, mutually assured destruction would dictate
+1047140	1050020	a swift response by the target nation.
+1050020	1052140	Cyberweapons are different.
+1052140	1056660	It took years for major media organizations to start pointing towards the US and Israel
+1056660	1060800	as the forces behind Stuxnet, and much of the proof came from tacit acknowledgement
+1060800	1064180	by the American and Israeli government officials themselves.
+1064180	1068460	When the stakes get raised, so will the secrecy.
+1068460	1072420	Cyberwarfare has the potential for destruction without consequences.
+1072420	1077980	In this new battlefield, there are no rules of engagement, there are no Geneva Conventions,
+1077980	1082540	there are simply cutting edge aggressors and vulnerable targets who have not yet realized
+1082540	1085300	the doors they've left open.
+1085300	1089020	Experts believe that today represents a waiting period.
+1089020	1093300	The weapons exist, they've been developed, and they could even be out there already,
+1093300	1097580	embedded in the world's machines, laying dormant until the time comes for them to unleash
+1097580	1099340	their destructive potential.
+1099340	1103860	But by and large, that time has not yet come.
+1103860	1108020	Faced with the reality that each individual weapon can only be used once until vulnerabilities
+1108020	1112620	are patched, the nation-states and organizations behind these have yet to find the will to
+1112620	1117640	unleash a truly devastating attack on a major nation—an attack that will wake the world
+1117640	1122140	up to the truly existential nature of this new battlefield.
+1122140	1124440	But that time is coming.
+1124440	1126620	The big ones coming.
+1126620	1130880	Doctors will no longer be fought in far-off lands that can be ignored simply by turning
+1130880	1137180	off the TV—they will be fought in the technology that has come to envelop every moment of modern
+1137180	1139380	life.
+1139380	1143180	The US and Iran have had an incredibly tense relationship for the better part of the last
+1143180	1147420	century in the context of what led to Iran's nuclear program, and therefore what led to
+1147420	1151940	the US's development and deployment of Stuxnet stretches back into the 1950s.
+1151940	1156160	If you want to learn about that other side of this topic, I'd highly recommend you
+1156200	1161640	watch RealLifeLore's Modern Conflicts episode about US-Iranian relations on Nebula—that's
+1161640	1166020	exclusive to Nebula since YouTube content guidelines make it tricky to cover conflicts.
+1166020	1169320	This is just one of a huge number of exclusive videos on Nebula.
+1169320	1172880	If you're the type of person that endlessly scrolls through streaming platforms struggling
+1172880	1176760	to find something you want to watch, then Nebula is for you, because it's more stuff
+1176760	1179440	by the creators you already watch and love.
+1179440	1183080	After the Modern Conflicts episode, you can watch our feature-length doc on the crisis
+1183080	1187280	and conflict brewing in the American West with the drying up of the Colorado River,
+1187280	1190720	then watch Half as Interesting's travel-based game show where I'm chased across the country
+1190720	1194800	trying to break weird laws along the way, then watch Real Engineering's spectacularly
+1194800	1198720	produced series on the Battle of Britain, then watch Tom Scott's ingeniously designed
+1198720	1203120	game show Money featuring a much younger me, and I could keep going, but that's probably
+1203120	1206040	already a week's worth of content so you get the point.
+1206040	1210040	Amazingly, the cheapest way to get access to Nebula gets you access to a whole other
+1210040	1212760	streaming site, too—CuriosityStream.
+1212760	1216920	Here you can watch a huge catalog of non-fiction shows and documentaries, including The King
+1216920	1221560	of the Cruise—a captivating, quirky documentary about a Scottish baron who essentially lives
+1221560	1226200	on cruise ships, seeking attention while telling fantastical stories to other cruisers.
+1226200	1230340	CuriosityStream and Nebula have a bundle deal, so when you sign up for any subscription at
+1230340	1234000	CuriosityStream.com slash Wendover, you'll get access to both.
+1234000	1239840	And the price is unbelievably low—just $14.79 for the year for both.
+1239920	1243440	That's less than the monthly price of other sites that you probably use less, and you'll
+1243440	1246720	be supporting loads of independent creators while you're at it, so click the button
+1246720	1250760	on screen or head to CuriosityStream.com slash Wendover to sign up today.

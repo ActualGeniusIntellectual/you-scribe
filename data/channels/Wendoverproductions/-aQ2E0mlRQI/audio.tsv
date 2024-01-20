@@ -1,0 +1,114 @@
+start	end	text
+0	4480	If you've ever looked at a flight tracker sometime around 10 or 11 pm eastern, you might
+4480	9640	have noticed something—perfect lines of planes stretching all the way to Europe.
+9640	14320	These are just some of the over 2,000 daily flights that cross the northern Atlantic.
+14320	18080	With so many flights, there just has to be organization.
+18080	20600	This is the most direct route from New York to London.
+20600	25360	You may think it's this—a straight line—but that straight line isn't actually a straight
+25360	26360	line.
+26360	30760	This line is a straight line because, despite what some may think, the earth is curved.
+30760	34080	From New York to London the curve you see on a flat map isn't too extreme, but in
+34080	38240	the case of a longer flight, such as from New York to Bangkok, the most direct route
+38240	41960	is not this, but this—straight over the north pole.
+41960	45020	It makes a lot more sense if you look at a north pole oriented map.
+45020	48600	If you draw the most direct route between Atlanta and London, you'll see that it passes
+48600	51560	over every major east coast international airport.
+51560	55620	That means that planes from Atlanta to Europe travel on the exact same route as planes from
+55620	59780	Charlotte, Washington, Baltimore, Philadelphia, New York, and Boston.
+59780	64580	All these transatlantic planes typically leave between 6 and 8 pm eastern to time their arrival
+64580	66180	for early morning in Europe.
+66180	70020	That means that there are potentially hundreds of planes all going the exact same route at
+70020	71500	the exact same time.
+71500	74480	The north Atlantic also has something known as the jet stream.
+74480	79080	These easterly winds average around 110 miles per hour and if planes fly in them, they can
+79080	81260	cut hours off their travel time.
+81260	86620	However, the winds are only strongest in a line 3 miles high and 100 miles wide.
+86620	88680	That further concentrates the flights.
+88680	92820	On average, an eastbound transatlantic flight from New York to London takes about 6 hours
+92820	94180	and 15 minutes.
+94180	98280	Coming back against the jet stream, the same flight takes over 7 hours.
+98280	103340	Sometimes the winds can be even more active, such as on January 8th, 2015, when British
+103340	109140	Airways flight 114 flew from New York to London in only 5 hours and 16 minutes—a new record
+109140	111160	for a commercial subsonic plane.
+111160	116220	On that day, the jet stream was blowing over 200 miles per hour and the Boeing 777 reached
+116220	122500	a speed of 745 miles per hour—only 16 miles per hour below the sound barrier.
+122500	127340	So when winds can cut an hour off a flight and a 777 burns 2,700 gallons of fuel per
+127340	134020	hour and jet fuel costs $1.89 per gallon, that's a $5,103 difference between being
+134020	136020	in the right and the wrong winds.
+136020	138140	Hopefully you now see why this is important.
+138140	141600	So there are all these planes that are flying the exact same route, but usually that's
+141600	142600	no problem.
+142600	147440	The busiest route in North America—New York to Chicago—sees over 100 flights per day,
+147440	151300	leaving as frequently as every 5 minutes during the morning and evening rush, and these planes
+151300	153160	just fly the most efficient route.
+153160	157120	Before the flight, route planners file a plan with air traffic control and during the flight,
+157120	161180	they're just directed by air traffic control in a way that keeps them 5 nautical miles
+161180	162320	from other planes.
+162320	166480	The difference between New York to Chicago and New York to London is that, over the North
+166480	168660	Atlantic, there is no radar.
+168660	172680	You see, radar only extends about 250 miles offshore.
+172680	175860	Transatlantic planes can be more than 1,000 miles from shore.
+175860	180600	That's why every morning, the route planners at Gander Air Traffic Control Center in Gander,
+180600	183580	Newfoundland publish the day's North Atlantic tracks.
+183580	187460	The night before, every airline that will fly across the Atlantic the following day
+187460	192140	sends Gander a preferred route message indicating what they think the best route will be.
+192160	197480	For the most part, Gander Center follows these requests and creates a set of 10 or so routes.
+197480	201700	These tracks attempt to get the most amount of planes on the most efficient route to Europe.
+201700	206540	The tracks are labeled—Zulu being the southernmost route, Yankee being the second southernmost,
+206540	209440	then X-Ray, then Whiskey, and so on and so forth.
+209440	213080	Here's how a flight on the tracks works, and I'll warn you, this is when the video
+213080	214080	gets technical.
+214080	216500	Let's say we're going from New York to Paris.
+216500	220000	Around half an hour before scheduled departure, the captain talks to normal air traffic control
+220000	223080	to request clearance for the route up to around Newfoundland, Canada.
+223080	226600	In most cases, clearance is given, and soon after will take off.
+226600	229680	About when the plane crosses the Gulf of St. Lawrence, the pilot will request the North
+229680	231520	Atlantic track that he or she desires.
+231520	235240	Here's today's message describing the day's routes over the Atlantic.
+235240	238780	After looking over this, the pilot decides to request track Whiskey.
+238780	242580	That means that, at least for now, we'll head towards the Rafin Waypoint—our oceanic
+242580	243680	entry point.
+243680	246900	Waypoints are fixed spots that are used for flight navigation.
+246900	250300	These are much easier for air traffic control to communicate to pilots than map coordinates
+250300	251620	when speaking over radio.
+251620	254940	Occasionally, you'll see some creatively named waypoints.
+254940	258860	Just north of Lebanon, New Hampshire, there's Ham, Burger, and Fries.
+258860	263660	On approach to Kansas City Airport, there's Spicy, Barbecue, Turkey, Smoke, Ribs.
+263660	267860	Boston has two waypoints in support of their sports teams—the Cubs and Bears.
+267860	269620	Some waypoint names are more somber.
+269620	273660	On the northern approach route to Washington-Reagan National Airport, just miles away from where
+273660	279580	a plane hit the Pentagon on 9-11, the waypoints read, We Will Never Forget, September 11th.
+279580	283200	Since the North Atlantic tracks change every day, the modem just gives the entry and exit
+283200	285920	waypoints and then coordinates for the route in between.
+285920	289520	Since the track coordinates are pre-programmed into the autopilot before takeoff, there's
+289520	292800	no reason to name them as waypoints since they won't be given over radio.
+292800	296700	In the case of this flight, we're requesting track Whiskey and, more than likely, Gander
+296700	300480	Control Center will give us permission, although sometimes they'll tell us to take a different
+300480	303760	route, usually because we're closer to another plane than the minimum separation
+303760	304760	distance.
+304760	307600	Since it's much more difficult to know where planes are over the North Atlantic, they're
+307600	312440	required to be 15 minutes separated—about 140 miles, rather than the normal 5 miles
+312440	314400	in areas with radar coverage.
+314400	317160	Assuming we're granted clearance, we'll head towards the RAF and waypoint and make
+317160	319700	sure that our satellite communication systems are working.
+319700	323140	Then we'll check to see if our high frequency radio is working—a backup in case other
+323140	324960	communications go down.
+324960	329260	Minutes later, just after passing RAF and waypoint, the controller will say, Radar service
+329260	330420	is terminated.
+330420	331420	Have a good night.
+331420	333420	And, we're on our own.
+333420	336960	All the North Atlantic tracks are preloaded onto autopilot, so there's really nothing
+336960	338740	to do except wait.
+338740	342580	When we hit 30 degrees west, we'll enter the Shandwick airspace approaching Western
+342580	343580	Europe.
+343580	347780	We switch our radios to Shandwick's frequency and fly a few more hours to our oceanic exit
+347780	353060	point—Gunzo Waypoint—meaning we've successfully traversed the Northern Atlantic.
+353060	355620	I hope you enjoyed this Wendover Productions video.
+355620	358300	Make sure to check out my last video on Guam here.
+358300	360980	Please also subscribe to this channel by clicking here.
+360980	364580	If you're already subscribed and not following me on Twitter, congratulations, you're in
+364580	368880	the 98.7%, but help me make that percentage smaller by going and following me on Twitter
+368880	370140	at WendoverPro.
+370140	376260	There's also a fan-moderated subreddit for this channel which you can find at www.reddit.com
+376260	378820	slash r slash Wendover Productions.
+378820	382500	Thanks again for watching and I'll see you soon for another Wendover Productions video.

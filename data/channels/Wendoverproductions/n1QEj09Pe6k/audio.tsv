@@ -1,0 +1,166 @@
+start	end	text
+0	5360	This is a Wendover Productions video made possible by Audible.
+5360	9800	So I recently went down the rabbit hole of looking at old flight schedules.
+9800	14300	Airlines used to publish these physical brochures with their fares and flight times and when
+14300	19460	looking at this American Airlines one from 1967 I noticed something interesting.
+19460	25360	The flight between New York and LA was scheduled as 5 hours and 43 minutes long.
+25360	27040	That didn't seem right.
+27040	31200	American flight 3 was scheduled to leave JFK airport every day at 12 noon and arrive
+31200	33480	at LAX at 2.43 pm.
+33480	35880	There's 3 hours time difference.
+35880	41200	It turns out that nowadays American Airlines flight 3 still leaves JFK daily at noon, but
+41200	48000	the difference is that today, flight 3 is scheduled to arrive at LAX at 3.27 pm—44
+48000	50680	minutes later than in 1967.
+50680	53020	This has happened across the board.
+53020	57400	Almost every flight today takes longer than it did back in the 60's.
+57400	61720	In general the actual flight times—the time in the air—is the same, but with all the
+61720	67420	congestion and delays at airports the scheduled times now account for things going wrong.
+67420	71900	What this means though is that, overall, flying has slowed down.
+71900	77740	In 1967 we hadn't been to the moon and computers looked like this, but we were flying everywhere
+77740	81340	just as fast or even faster than we do today.
+81340	86700	What happened that caused this immense lack of progress in the last 50 years?
+86700	93540	There are three main types of aircraft engine—the turboprop, turbofan, and turbojet—and each
+93540	97100	of them has a range of speeds when they're most efficient.
+97100	101660	The turboprop is the kind of engine that you see on most propeller aircraft.
+101660	105420	Almost all of the thrust with turboprop engines comes from the propeller.
+105420	110060	The turbine, which spins the propeller, does intake and speed up some air, but the exhaust
+110060	115260	air is not at a very high speed so it only accounts for less than 10% of the overall
+115260	116260	thrust.
+116260	120940	These engines are generally inexpensive both to buy and operate so a lot of smaller commuter
+120940	123380	planes use turboprop engines.
+123380	125940	Of course there's a trade-off—they're not as fast.
+125940	132280	They're most efficient between about 325 and 375 miles per hour.
+132280	135700	Any faster than that and it's better to use a turbofan.
+135700	138860	Now these are the engines that you see everywhere.
+138860	142220	First every commercial aircraft is turbofan driven.
+142220	146300	With turbofans, the air is initially sped up by a fan—that's what you see when you
+146300	148340	look at the engine from the front.
+148340	152520	Then some of the air goes into the internal combustion chamber where the actual turbine
+152520	156220	that drives the fan is and the rest of it goes around the turbine.
+156220	160580	While air that bypasses the turbine is also sped up, the majority of the thrust comes
+160580	163580	from the air that passes through the turbine.
+163580	168100	Turbofans are most efficient at the speeds that you see most aircraft fly today—400
+168100	170180	to 620 miles per hour.
+170180	177040	If you want to go supersonic—above 767 miles per hour—you need a turbojet.
+177040	181740	Turbojets are very similar to turbofans except all the air goes through the turbine—no
+181740	183140	air is bypassed.
+183140	188420	This lets them achieve extremely high speeds, but they also require an immense amount of
+188420	189420	fuel.
+189700	194540	Engines are only really efficient between about 1,300 and 1,400 miles per hour.
+194540	199260	What really determines the efficiency of engines is something called the bypass ratio.
+199260	204260	That's the ratio of the amount of air that passes through the bypass duct to the amount
+204260	206300	that passes through the engine core.
+206300	211220	The thing is, it really doesn't take that much more energy to spin a larger fan.
+211220	215540	What requires a lot more fuel is to put more air through the engine core.
+215540	220340	That means that engines that accelerate more air through the bypass duct can get more thrust
+220340	222180	for the same amount of energy.
+222180	227740	So, as a rule, the higher the bypass ratio, the more efficient the engine.
+227740	230580	Take a look at this General Electric GenX engine.
+230580	235700	This is a relatively new, super-efficient engine used on both the 787 Dreamliner and
+235700	237540	the 747-8i.
+237540	241500	You can see that the fan is much larger than the turbine itself.
+241500	245620	That's because this engine has a bypass ratio of 10 to 1.
+245620	249060	Ten times more air goes around the turbine than through it.
+249060	254700	Compare that to the CFM International CFM56—an older and less efficient engine.
+254700	260000	You can see there's much less fan relative to the turbine so this engine only has a bypass
+260000	264460	ratio of 5.9 to 1, but that's still considered to be high.
+264460	268900	The difference is most striking when comparing either of those engines to the Pratt & Whitney
+268900	270260	JT8D.
+270260	276220	This engine has a bypass ratio of only .96 to 1 so it's astoundingly inefficient but
+276220	282220	it's still significantly more efficient than the Rolls-Royce Snecma Olympus 593.
+282220	284320	This engine is a turbojet.
+284320	288780	As I mentioned, these drive all the air the fan picks up through the turbine and that
+288780	291380	means that no air is bypassed.
+291380	298500	Therefore, it has a bypass ratio of 0 to 1 and is what's known as a zero-bypass engine.
+298500	302800	Since 100% of the air passing through the engine goes through the turbine, the fuel
+302800	310080	consumption is significantly higher than that of the Gen X, CFM56, or even the JT8D.
+310080	317300	The Concorde, using the zero-bypass Rolls-Royce Snecma Olympus 593, burned 46.85 pounds of
+317300	324020	fuel per mile flown while the 787 Dreamliner, using the 10 to 1 bypass ratio General Electric
+324020	327480	Gen X, uses 18.7 pounds per mile.
+327480	333000	But the Concorde was a tiny airplane even compared to the modestly sized 787.
+333000	339200	It seated only 100 passengers compared to 291 on the Dreamliner.
+339200	344100	That means that the per person fuel economy on the Concorde was just about 14 miles per
+344100	348400	gallon compared to 104 miles per gallon on the Dreamliner.
+348400	353080	In the end, Air France and British Airways, the only two Concorde operators, could not
+353080	355320	afford to keep flying the plane.
+355320	360040	Less than one third of the seats were actually occupied by paying customers.
+360040	364460	Others were filled by those using miles or those upgraded from first class on normal
+364460	365460	flights.
+365460	372200	After all, it cost at a minimum $7,500 of today's dollars to fly one way from London
+372200	378120	to New York in those three hours and that was to fly in seats that looked like this—not
+378120	381200	all that different than the economy seats of today.
+381200	385840	When the Concorde started flying, first class on other planes looked like this.
+385840	390560	While nice, these seats were just larger economy class seats and it wasn't incredibly easy
+390560	391800	to sleep in them.
+391800	397200	By the time the Concorde stopped flying in 2003, first class looked like this and the
+397200	399640	seats went fully flat into a bed.
+399640	404640	Many chose to spend a little less to pass seven hours in this rather than spending three
+404640	407120	hours in these cramped seats.
+407120	411920	British Airways even introduced the first fully flat business class seat in 2000 so
+411920	417020	for significantly less money than the Concorde, travelers could cross the Atlantic sleeping
+417020	418200	horizontally.
+418200	420640	This just wasn't luxury anymore.
+420640	425480	The whole idea of the Concorde was to create the most efficient way to cross the Atlantic
+425480	430040	for the business traveler, but with fully flat beds, those traveling towards Europe
+430040	434460	could leave the US in the evening, get their night's sleep on the plane, and wake up
+434460	437500	in Europe—essentially wasting no time.
+437500	442900	No longer luxurious or efficient, the Concorde flew its final commercial flight on October
+442900	448420	24th, 2003 thereby ending the era of commercial supersonic flight.
+448420	452960	Here's the thing about flying—speed really doesn't matter to airlines.
+452960	456020	It really only exists as a selling point for the consumer.
+456020	460840	The cost of the airplane is a relatively small part of the overall cost to fly so you'll
+460840	464780	never see an airline fly faster so they can use their planes more.
+464780	470080	Planes lifespans are generally rated in cycles—the number of times the plane takes off and lands.
+470080	475000	The Dreamliner is rated for 44,000 cycles and has a list price, which is often much
+475000	480040	higher than the actual sale price, of $224.6 million.
+480040	485260	That means that the cost of the airplane per flight is barely over $5,000 while the fuel
+485260	489760	cost for a flight from New York to London is well over $15,000.
+489760	495280	Therefore, airlines always just fly their airplanes at the most fuel-efficient speed.
+495280	501240	It turns out that that speed is just about always between 500 and 550 miles per hour.
+501240	507440	What's weird about this is that it's well below the speed of sound—767 miles per hour.
+507440	510400	Why don't planes fly just below the speed of sound?
+510400	514520	Well, this graph shows the drag on airplanes at different speeds.
+514520	519420	Between Mach 0.8 and Mach 1.2 is what's known as the transonic range.
+519420	524820	At these speeds, the airflow around an airplane is not fully subsonic or supersonic.
+524820	528660	Essentially, some air is subsonic and some is supersonic.
+528660	534740	So beginning at Mach 0.8, some airflow becomes supersonic which increases drag exponentially
+534740	539460	and destabilizes the aircraft so it's actually quite dangerous to fly right around the speed
+539460	540480	of sound.
+540480	543140	You either have to fly well above or below.
+543140	546420	You can actually see when an airplane is flying transonic.
+546420	551020	It's hard to see, but there are these lines that look like scratches on the camera lens
+551020	554500	but are actually mini supersonic shockwaves.
+554500	560060	Because of the disturbances in the airflow, flying between Mach 0.8 and Mach 1.2 actually
+560060	567500	requires more fuel than flying above Mach 1.2 so that's why we have this number—613.8
+567500	568500	miles per hour.
+568500	572580	That's the speed limit for commercially viable subsonic jets.
+572580	577260	While supersonic flight and crossing the Atlantic in three hours is flashy and exciting,
+577260	583320	what's truly impressive is hopping the pond for $100 or $200 on an airline that's actually
+583320	587320	making a profit and that's becoming more of a reality today.
+587320	593540	With current speeds, airplanes are able to fly anywhere on earth in 24 hours and that's
+593540	595720	fast enough for almost everyone.
+595720	601700	The barrier to travel for most people is cost, not speed, so manufacturers and airlines will
+601700	607020	continue to focus their efforts on driving down the cost of travel, not the time.
+607020	610520	In the end, time is the enemy of the privileged few.
+610520	613780	Cost is the enemy of the masses.
+613780	616340	This video was made possible by Audible.
+616340	620480	Audible is the leading online audiobook provider, but I'm sure you already know that.
+620480	622260	What I'll tell you is how I use Audible.
+622260	626140	I love reading, but there are a lot of times when I just can't read a paper book—when
+626140	628920	working out, doing dishes, even when editing a video.
+628920	633600	So I download tons of audiobooks through Audible so I can learn no matter what I'm doing.
+633600	637960	If you listen when doing tasks, like me, you're turning what is normally something boring
+637960	639320	into something fun.
+639320	644860	I recently started listening to Skyfaring, a book by 747 pilot Mark van Hunacker.
+644860	648200	It gives a glimpse into the pilot side of flying, but it's written much more like
+648200	651460	a novel or memoir than a heavy duty non-fiction book.
+651460	655300	The great thing is that you can listen to this book for free thanks to Audible with
+655300	660620	a 30 day free trial you get by signing up using the link audible.com slash wendover.
+660620	665700	It's a fantastic book and Audible is a fantastic site so please do at least give them a look
+665700	668660	over at audible.com slash wendover.
+668660	673680	Other than that you can support Wendover Productions at patreon.com slash wendoverproductions, follow
+673680	679260	me on twitter at wendoverpro, watch my last video about how the president travels here,
+679260	683300	check out my fan moderated subreddit here, and most of all subscribe to this channel
+683300	686420	to receive all my future videos right when they come out.
+686420	690340	Thanks again for watching and I'll see you in two weeks for another Wendover Productions
+690340	690900	video.

@@ -1,0 +1,332 @@
+This is the disaster scenario.
+It's Black Friday.
+An electronics store has acquired a massive supply of scarce 9th generation game consoles,
+and to generate buzz, they're selling them at a massive discount—offering buyers an
+immediate arbitrage opportunity if they sell the devices on.
+With a three-per-person limit, people can effectively earn hundreds of dollars just
+by standing in line.
+But there's not really a line.
+Rather, it's more of a mass, filling out the width of the pedestrian mall, growing
+and growing in advance of its 9am opening time.
+The contracted security only arrives at 8am—they're able to push through to the entrance and get
+on a megaphone to say, we need you to form an orderly line.
+There are only 500 consoles, we will not be able to accommodate everyone, so we need you
+to form an orderly line this way.
+The crowd does not comply.
+The minutes count down, and upon opening time, the security team decides to carefully let
+small groups in from the front of the crowd, assuring that the store and its staff does
+not get stormed.
+Fast forward 30 minutes, and this will lead to a crowd crush.
+It's entirely predictable—the back of the crowd, concerned about the fast dwindling
+supply of consoles, will each individually, almost subconsciously push forward.
+The core of the crowd will get compacted down, individuals will no longer have the ability
+to move freely, and an unlucky few will get asphyxiated—they quite literally will get
+crushed so hard that they're unable to adequately breathe.
+Their closest way out is into the store, leading to a further push forward, but the security,
+tasked with keeping the mass out of the store, will brush off the police for entry as an
+inevitable dynamic of a greedy, disorderly crowd.
+That's to say, each of these three groups have different incentives—the back of the
+crowd to get the consoles, the security to keep the crowd out, and the core of the crowd
+to simply survive, but they'll all lead to the same result—an ever-escalating crush.
+But the absolute, overwhelming majority of crowds do not end up crushing themselves,
+so what is it about this rather innocuous, all-too-believable situation that makes it
+so theoretically dangerous?
+Well, it starts with who the people are.
+You see, there's an antiquated view that mass gatherings of people almost inevitably
+devolve into a mindless state—that the participation in the collective dehumanizes the individual
+and makes them more willing to act in a disruptive, dangerous way, but more recent research has
+started to dispel that notion.
+Interestingly, in the exact situation where you'd expect people to disengage from the
+collective good, panic, and work selfishly, in emergencies, people tend to do the exact
+opposite.
+If a fire were to start in an overcrowded building, you might expect people to rush
+the exits, to mindlessly push those in front just to get away from the threat, but that
+happens remarkably rarely.
+Of the 21 major crowd crushes to have occurred so far this decade, just two involve people
+running away from a deadly threat—one in Yemen spurred by an electrical explosion,
+and one in Egypt where worshippers fled to escape a church fire.
+This is entirely counterintuitive.
+Running away from a fire is clearly a stronger incentive than gaining the right to buy a
+console, so researchers were curious as to why the frequency of crushes was so much lower
+in the direction with lower incentive.
+Consider a common anecdote—on a normal flight, people barely talk.
+They'll sit shoulder to shoulder with their fellow traveler for four or five hours without
+even acknowledging their presence once, but as soon as a flight gets delayed, that changes.
+People start talking, they start problem solving, they get friendly, they'll even share food.
+If the flight gets cancelled, this cooperation often extends further, and those that were
+complete strangers just minutes before might decide to work together and share a rental
+car to drive to their destination instead.
+Some psychologists have noticed the pervasiveness of this anecdote, and they think they have
+an explanation.
+It's all about identity.
+When ambling around the airport, there is little shared identity beyond traveler, which
+is weak since it is shared by so many, but when a flight gets delayed, the identity shifts
+and concentrates.
+Now, it's distressed traveler—a unique identity shared only by the unlucky few.
+What researchers have found is that the greater the degree of shared identity, the greater
+the degree of cooperation among a crowd.
+They're even able to test this—for example, in a simulated evacuation of a London Underground
+station, study participants were more likely to help a distressed person if that person
+was wearing the jersey of a football team the participant was a fan of.
+Conveniently, most events involve a shared identity.
+People amass as fans of a team, followers of a religion, protesters for a cause—there
+is almost always a shared identity that justifies the assembly, which helps to keep order even
+when tens or hundreds of thousands of people gather.
+And this can help to explain the infrequency of evacuation-based crushes—on a normal
+day in the London Underground, the mass' only shared identity is commuter.
+But then there's an explosion.
+In that moment, identity immediately concentrates and strengthens—now everyone is a victim
+of the same rare disaster.
+In the 2005 London Underground bombings, researchers interviewing victims observed a through-line
+of perceived unity among the victims in the moment, and countless examples of selfless,
+cooperative behavior even at the risk of personal peril.
+This is observed in almost any disaster—there is always a high degree of crowd cooperation,
+far beyond what might often be portrayed in fiction, that typically leads to rather orderly,
+crush-free evacuations.
+But another curious anomaly in crowd-crush statistics is that it is quite rare for them
+to occur during civil unrest—during the very activity that defines mob mentality.
+The only major crush to occur during a riot this decade was 2022's Kanjurahan Stadium
+disaster in Indonesia, but that was caused by a mass of field-invading football fans
+fleeing from police-fired tear gas—not the riot itself.
+The last major riot-related crush before that was also caused by police intervention during
+2016 protests in Ethiopia.
+As rare as it is to find a crush during a riot, it is yet rarer to find one where police
+intervention is not the cause.
+This is strange—according to traditional theories, people lose their sense of self
+during such activities, they act savagely, feeding off the energy of the masses, and
+yet somehow, the very crowd in which one would expect the highest degree of disorder is able
+to avoid the worst better than the football or concert or ritual-going masses.
+An explanation comes from the inverse—the annual Hajj pilgrimage, one of the world's
+largest events where more than two million Muslims descend on Mecca to visit the spiritual
+center of the world's second-largest religion.
+This is exactly the kind of event where one would expect to see high crowd cooperativeness—after
+all, compounding the strong shared identities of Muslim and pilgrim, all two or three million
+are expected to be in a state of iran, or ritualistic purity of the body and mind to
+the extent that they're not even allowed to break branches from trees, and yet, this
+pilgrimage was home to both the 20th and 21st century's most deadly, crowd-crushed tragedies,
+each counting, well, over a thousand dead.
+Considering the history, researchers have long used the Hajj as a source of study of
+crowd psychology, and one important conclusion came from the very center of the Muslim world—the
+Kaaba.
+This stone structure is said to be the House of Allah, the single holiest site in Islam,
+so one of the most significant elements of the Hajj is prayer in the Grand Mosque of
+Mecca facing the Kaaba.
+There are two main areas in which one can do this—the circular plaza, directly surrounding
+the Kaaba, or on the balconies above.
+The plaza is probably the best spot since it has an unobstructed view of the Kaaba,
+whereas the balconies have these pillars that obstruct the view for some.
+Researchers questioned how this might impact that all-important crowd cooperativeness,
+and therefore surveyed more than a thousand pilgrims to find out.
+As they expected, the balconies—the area where there is a more variable experience,
+and experience improved by how much one pushes and shoves to get that best spot—saw a lower
+degree of crowd cooperativeness.
+That's to say, as competitiveness goes up, cooperativeness goes down.
+In riots, though, there is little competitiveness—there is not a particular something to be gained
+or lost, and therefore there is little incentive to push and shove.
+Not only that, but there is typically a strong shared identity—before tensions escalated,
+a group of people gathered together in support of a particular cause.
+Therefore, riots feature two of the strongest predictors of lowered crowd-crush potential,
+explaining how some of the least organized events managed to avoid the worst.
+Meanwhile, there's a particular situation at far more organized events that time and
+time again has led to the worst.
+A group of people have spent a good bit of money buying tickets and a good bit of time
+getting to a stadium to watch a concert, or a sporting match, or something, but with massive
+crowds and limited entry throughput, the event is starting, and they're still outside.
+This exact competitive dynamic led to a 2023 crowd-crush in San Salvador, El Salvador,
+a 2022 crush in Yaounde, Cameroon, a 2019 one in Antananarivo, Madagascar, 2017 in Luange,
+Malawi, 2017 in Uengue, Angola—it is perhaps the most predictable crush scenario that still
+occurs.
+But you don't need to look for examples in developing countries for this particular
+situation—just look at concerts.
+What makes a good concert, according to most, is also what makes it dangerous, and that's
+unassigned seating.
+In a festival setting, unassigned seating is the norm, as seats of any sort are a rarity,
+and VIP tickets, as opposed to general admission tickets, often only provide benefits in the
+form of easier access and a less dense crowd.
+In tighter indoor and enclosed facilities, from small local venues to massive arenas
+and stadiums, there's often a split in ticket options—seated tickets and floor
+tickets.
+While seated tickets are easier on organizers and crowd experts, they're seen by concert
+goers and touring bands alike as boring, overly clinical, just low-energy, lifeless experiences.
+Because of this, bands and band fans insist on unassigned floor seating, where energy
+is high and crowd interaction is more dynamic.
+And yet, despite all its appeal to everyone but the organizers, general admission seating
+in the city of Cincinnati was entirely banned from 1979 to 2004.
+The 24 and a half year ban dates back to a Who concert on December 3, 1979.
+A much-anticipated show, and one that easily sold out the 18,348 unassigned seats available
+at Cincinnati's Riverfront Stadium, the concert was supposed to be a celebration,
+not a watershed moment in crowd control and live event policy the world over.
+Of course, in any unassigned seating environment, there's inherent competition—for the best
+view, people push their way to the front.
+In this particular situation, this competition only compounded.
+In order to get in the best position to push their way to the front, thousands had lined
+up outside the venue.
+Afternoon then gave way to evening, the crowd grew cold waiting, and once the venue finally
+opened, those at the front were surprised to see only two meager doors swing wide to
+welcome nearly 20,000.
+When patience grew, and tensions rose across the crowd with the delay in entry.
+Then, at the sound of a late soundcheck confused as the beginning of the concert, the dam broke.
+The push began from the back, far outside the venue, but the compounding pressure was
+felt at the front, where people poured through the two open doors with scratches, torn shirt,
+and without shoes while others ripped at the countless other doors still closed, not to
+cut in line, but to release the building pressure.
+At the entrance, the crowd collapsed, then it crushed, leaving 11 dead and dozens injured.
+In the tragedy's wake, much was made of the character of those involved—their motives,
+the substances they had taken, and the rock and roll culture that they had ascribed to.
+This much, in the aftermath of crowd-related tragedies, is a recurrent theme.
+At sporting matches, it's hooliganism, at concerts and festivals, it's youth culture,
+at religious events, it's fanaticism.
+At that base, it's all bad design.
+What blaming a selfish, crazed crowd doesn't account for is the disconnect between overmatched
+and understaffed security ushering nearly 20,000 people through only two doors.
+It doesn't account for people rushing those doors, not to get the best spot, but to find
+enough room to breathe.
+It doesn't account for those at the back shuffling forward, not out of ill will, but
+a lack of understanding as to the pressure they're exerting on the front.
+Blaming the crowd also fails to account for the fact that once crowd density begins to
+reach dangerous levels, individual agency goes out the window.
+In fact, at crowd densities that reach higher than 5 people per square meter, a mark that's
+considered high-risk for fall and trampling, individuals lose the ability to control their
+own movement and are instead at the whim of shockwaves rippling through the crowd.
+At this point, the principles defining crowd movement are closer to fluid dynamics than
+anything else.
+It was the culmination of such factors—the disconnect between security, the front of
+the crowd, and the back of the crowd—along with inability once caught in the crush to
+do anything but move with the shockwaves, that ultimately informed what's now known
+as the WHO disaster—factors that were out of the crowd's control, and factors that
+stemmed from a poorly prepared venue and overmatched staff.
+And it was these factors and their causes that event organizers began to consider in
+the disaster's wake.
+While Cincinnati went the furthest with an outright ban on general admission concerts,
+entities across the US began adopting stricter regulation requirements for crowded events.
+The National Fire Protection Association, a non-profit institution that authors model
+safety codes for municipal and state-level adoption, entirely rethought aspects of its
+life safety code to better account for crowd dynamics.
+Since the WHO disaster, the landscape of live concert and events has fundamentally changed.
+Today, most seats are assigned, and those that aren't are heavily monitored by crowd
+managers and security.
+European exit strategies, meanwhile, are no longer assumed, intuitive processes, but heavily
+planned out, redundant, practice points of emphasis in event planning.
+But crowd crush on account of entrance issues and unassigned seating has yet to be solved.
+In London at the 2020 European Football Championship Final, videos of massive, unmanageable crowds
+from outside the famed Wembley Stadium began surfacing on social media.
+Ticketless England fans, it turned out, had shown up en masse for the final with the idea
+of storming gates and overwhelming security.
+Many were successful, as 2,000 forced their way into the stadium.
+More importantly though, while crowds reached dangerous densities in the surge, there were
+no casualties.
+But it was close, as findings from a following investigation reported that there were some
+6,000 additional fans ready to charge the stadium had England pulled off the victory,
+and that the whole event hosted at one of Europe's finest sporting venues was on the
+razor's edge of turning to a deadly disaster.
+More recently, in January of 2023, north of London and east of Manchester, travelling
+football fans of a more ruly disposition arrived at Sheffield Wednesday for an important playoff
+game only to find themselves hopelessly packed into two narrow concourses in the stadium's
+visitor end.
+Following safety protocol, the turnstiles were even opened 30 minutes early to relieve
+pressure at the gates, but once inside, the delay of fans identifying and navigating to
+their seats, and the fact that some seats were covered, resulted in people piling in
+the concourses, and hoisting crying kids in the air to relieve the mounting pressure.
+It's been more than close calls, too—while the blame for the ten deaths and hundreds
+of injuries at the 2021 Astroworld Festival in Houston, Texas has circulated between the
+artist Travis Scott, the promoting company Live Nation, and the Austin-based organizer
+Scormore in the courts of law and public opinion, one factor that's rather irrefutable was
+bad venue design.
+The ill-fated festival took place at the Energy Park.
+Home to the NFL's Houston Texans, this 350-acre complex was designed for events capable of
+hosting up to 200,000 people.
+For the Astroworld Festival, though, this number was lowered by the Houston Fire Chief
+to a maximum capacity of 50,000, but the issue here was not the size of the crowd, but the
+layout of the venue.
+Broken into two stages, it was expected that crowds would disperse between the secondary
+and primary stages throughout the event, which they did.
+But then the music ended on the second stage, and Travis Scott delayed his start on the
+primary.
+As the headliner, the anticipation was high, and the crowd was unruly to begin with, and
+with a delay, the crowd began to grow as festival goers shifted from the west stage to the north.
+Because of the location of barricades that were protecting operation tents and sound
+systems though, this additional thrust of people wasn't able to dissipate through
+the crowd, but instead it pushed an already dense crowd into what became effectively a
+corral.
+Tellingly, all the deaths occurred in this quadrant of the crowd—a function of bad
+timing and bad barricade configuration.
+Of course, with the benefit of hindsight, the design flaws that turn an unruly, competitive
+crowd, a poorly managed event, and a largely unregulated aspect of everyday life into horrific,
+deadly traps is easy to identify.
+But bad design is easier to identify than to fix.
+Take this bridge complex, for example.
+This bridge has existed in some form since the 1960s as the sole conduit that moves Muslim
+pilgrims by the millions who are staying in the tent city of Mina to the Jamarat pillars
+for the sacred practice of stoning the devil.
+With only three pillars to stone though, and as of this century, over two million Muslims
+a year making the trek to Mecca to take part in this Hajj ritual, this has been the site
+of many deadly crowd crushes.
+In 2004, 251 pilgrims died in a crush at the pillars.
+In response, the Saudi government altered the shape of the pillars' walls to allow
+for better crowd flow.
+It helped, but didn't solve the problem.
+In 2006, another 345 died in a crush on the bridge's entry ramp.
+Small fixes, it appeared, just weren't working, so the Saudi government decided to reconfigure
+the entire complex.
+For $1 billion, the bridge was widened by 260 feet, or 80 meters, and atop it were now
+four additional floors and a massive awning to protect from the sun.
+The project was simply gigantic, signaling in no uncertain terms Saudi Arabia's investment
+in crowd management for one of the world's single largest annual events.
+With the ability to handle more than half a million pilgrims an hour, nearly two decades
+on since its completion, the bridge has proved more than capable of accommodating ever-growing
+crowds.
+And yet, for as magnificent and expensive the complex is, it hasn't solved Saudi Arabia's
+crowdcrush problems.
+Just down the road from this complex, where pedestrian street 206 intersects with street
+223 before then running into a simple T-intersection with street 204, Saudi Arabia in 2015 saw
+its worst crowdcrush in the century, and likely ever, with an estimated 2,400 pilgrims dying
+at an overlooked chokepoint between two commuter routes within eyeshot of the nation's most
+impressive crowd control infrastructure.
+In just hours, a problem that seemed fixed had taken a different shape, relocated at
+the infrastructure's nearest weak point.
+With the Hajj, or Astroworld, or the Who concert, or really any incident, the cause of the crush
+always feels just so predictable.
+They're all a perfect varying mix of an uncooperative crowd, competitive dynamics,
+constrained architecture, and a bit of bad luck.
+But of course, prediction is always easier in retrospect.
+For every deadly festival crush, there are countless rowdy mosh pits having the times
+of their lives.
+For every doorbuster sale gone wrong, there are far more whose staggering numbers bring
+the attention the retailer desires.
+It is effectively impossible to completely eliminate all risky situations, because people
+love these risky situations.
+What ultimately makes the difference is rather simple, and rather boring—proper planning
+to mitigate crush potential, knowledge of the risk factors, and the ability to identify
+and respond when things get out of control.
+Almost every incident involves the failure of one of those three steps, and therefore,
+while the exact moments when a crush occurs might not be as predictable as it may seem,
+the culpability for why they occur almost inevitably is.
+Saudi Arabia's crowd control failures at the Hajj escalated to a point where they were
+a legitimate geopolitical problem for the nation.
+In the aftermath of the 2,400-fatality 2015 Mina stampede, Saudi-Iranian relations deteriorated
+significantly due to the number of Iranian nationals killed.
+After a long history of incidents, Saudi Arabia finally realized they had to get a grip on
+the event, and invested a huge amount of money into designing a safer, more efficient Hajj
+system.
+Combining infrastructure, technology, psychology, and more, the modern Hajj is perhaps the most
+organized event in the world, and has run accident-free since the 2015 crush.
+As much as we wanted to cover how this works in this video, there simply wasn't time,
+so rather we made a whole episode of our series Logistics of X about the logistics
+of Hajj.
+Like all the episodes of this series, that's exclusive to Nebula, the creator-founded and
+creator-run streaming service that's designed to be the best home to the stuff we make.
+We all upload our videos to there early and ad-free, and we use the subscription fees
+to fund big-budget Nebula originals like the Logistics of X.
+The concept is rather simple—digital creators know how to make stuff that people enjoy watching
+on a tight budget, so when you give them a more generous budget, they make even better
+stuff.
+Our data proves that Nebula isn't just another streaming service that people sign up for
+and then forget about—a far higher percentage of subscribers log in each day than with any
+of the major, more expensive streamers, and subscribers stick around for longer as they
+find the price worthwhile.
+Over 50,000 Wendover viewers have subscribed so far, and if you want to see why, and watch
+the Logistics of X, you can use our link, nebula.tv slash wendover, and you'll get
+40% off an annual subscription, which brings the cost down to under $3 a month.
+Not only that, but by using that link we'll get a portion of your subscription fee for
+as long as you stay subscribed, which helps provide stable monthly income that we can
+reinvest into the videos, so thanks in advance for your support.

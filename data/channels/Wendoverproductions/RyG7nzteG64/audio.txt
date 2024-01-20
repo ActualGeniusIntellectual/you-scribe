@@ -1,0 +1,150 @@
+This video was made possible by Dashlane.
+Browse the internet faster and easier by signing up for free at dashlane.com slash wendover.
+On November 3rd, 2020, hundreds of millions of Americans will all make their way to their
+local polling stations to cast their votes—deciding who will be the next President of the United
+States of America.
+That day will be the accumulation of a multi-year, multi-billion dollar election process, but
+before that all truly ends, the votes need to be counted and the winner has to be declared.
+As soon as the first polls close at 6 PM Eastern Time, there begins a massive overnight exercise
+to count hundreds of millions of votes and, typically, declare who will next lead the
+country by the early hours of the following morning.
+While the true effort doesn't start until the early evening of voting day, the first
+results come in the early morning of election day, before most polls have even opened.
+A few small towns on the East Coast, most famously Dixville Notch, New Hampshire, all
+compete to be the first precinct in the US to report results.
+New Hampshire state law allows polling places in the state to close early as long as all
+registered voters have cast their ballots.
+Given that the town only has a dozen or so registered voters, this process is typically
+finished in minutes or seconds.
+In front of a cluster of cameras from nearly every major news organization, the votes are
+read out and tallied.
+The process of counting a dozen or so paper ballots in a small town is not tough, but
+a few hours later, the rest of the country's polling places will open, each of which eventually
+has to accurately count up to thousands of votes.
+What makes the US election so difficult to conduct right is that there are over 178,000
+individual voting precincts, each of which can and does do things in a slightly different
+way.
+Some use paper ballots that have to be read and interpreted manually, some use paper ballots
+that are scanned by a machine, some use electronic voting machines, and some even allow for absentee
+voting over the internet.
+The selection of a voting method is a difficult balancing act.
+Handwritten paper ballots are simple and cheap, which means that a polling station can process
+loads of voters at once, but they're much more difficult to count.
+Electronic voting machines are expensive and complicated, meaning they're often in short
+supply, leading to longer lines, but counting and reporting the votes happen almost instantaneously.
+Also a major concern in the selection of voting method is security.
+The most secure ballot is no doubt a handwritten paper one, as submitting a fraudulent vote
+involves physically acquiring and submitting a ballot—something that can't be easily
+done at a large scale.
+Arguably the least secure method is electronic voting machines, as anything electronic can
+be hacked.
+Almost every voting machine out there has been hacked in some way or another in controlled
+experiments at hacker conventions such as Defcon.
+In the real world, it's impossible to know for sure how often voting security has been
+compromised, but we do know that these machines can be hacked which is why still today much
+of the US votes the same way it did hundreds of years ago—on paper ballots.
+First to close their polling places will be parts of Indiana and Kentucky at 6 PM Eastern.
+The second that happens, everything shifts into counting mode.
+Both states use a mix of optical scan and direct record electronic voting machines.
+For example, the majority of Kentucky's machines are Hart Intracivic e-scans.
+These are those optical scan electronic machines where a voter physically fills out a paper
+ballot, shading in bubbles for their preferred candidates, then feeds the sheet into a machine
+which scans their responses, and then records and tallies the votes.
+In Indiana, however, the majority of their machines are micro-vote infinities which are
+examples of direct record electronic machines.
+These are fully electronic machines where the voter selects their candidates of choice
+on the screen before pressing a button to cast their votes.
+Once 6 PM rolls around, though, the machines' voting modes will be turned off, they will
+print out a physical paper backup displaying the tally of votes for each candidate, and
+the poll workers will remove a sort of memory device that stores the totals.
+Every step of this process has to be witnessed by multiple people, usually of different political
+parties.
+These papers and memory devices are all then packed up in sealed envelopes and gathered
+together.
+From there, the votes need to make it to a central vote-counting location.
+Usually, they're driven there by the county's police to assure there is no interference.
+That works in most places, but not all.
+For example, anyone who's been in Los Angeles in the early evening, when their polls close,
+knows that it would take hours to get a vehicle from Gorman, on the northern end of Los Angeles
+County, to Norwalk, where votes are tallied.
+Therefore, the county uses helicopters to fly voting records to Norwalk from across
+the county, and therefore ends up spending many millions of dollars on each election
+day.
+Traffic is less of a concern in Indiana and Kentucky, though, and so, not long after 6
+PM eastern, votes will start arriving at their central counting locations where all the memory
+devices will be plugged in to a tabulating computer that will record the results.
+They'll also add in the results from early and absentee voting as well.
+Given the electronic nature of this count, when votes have physically arrived at the
+site, the process doesn't take long, but throughout it all, it will be observed by
+a bipartisan grouping of poll workers and officials.
+Of course, the way the world hears about the results of the election is not via the government
+itself, but rather through the media.
+Almost always, the media tells the public who will win the election before all the votes
+have come in, and they make this call based off two key pieces of information.
+The first is election day polling.
+There are two competing systems of polling.
+The first is the Associated Press' vote cast system—a relatively new method where
+voters are polled at home via the internet and phone in the days leading up to election
+day—and the second is the National Election Pool system used by ABC, CBS, CNN, and NBC.
+This system uses the more traditional exit poll method where individuals leaving polling
+stations are asked who they voted for in an attempt to gather a representative sample.
+Both of these systems give media organizations an idea of how voters are leaning on election
+day and help them know where the results are likely to swing.
+The second major data point used to project election results are the results themselves.
+A small sampling of results from a county should be roughly representative of the county's
+results overall.
+The Associated Press stations about 4,000 of its reporters in vote counting centers
+all across the country, and as soon as these counties report results, the reporters call
+them in to the AP's office in Spokane, Washington.
+There, one of hundreds of data entry personnel will answer the phone and put the information
+into the AP's system.
+These data, which may at the time of entry be unofficial, are used by news organizations
+all around the world.
+Throughout the night, results will come in precinct by precinct and the AP will call
+the results precinct by precinct.
+The last polls close at 1 am eastern time in Alaska, however, more than likely, the
+country will already know who has won the election by that time.
+The AP's DC Bureau is in charge of calling the race.
+They'll one by one declare each state one for one candidate or the other.
+Some states they'll know from the second polls close which way they'll go.
+For example, in 2016, the highly Democratic states of Massachusetts, New Jersey, Delaware,
+and Maryland, along with the District of Columbia, were all called for Clinton by the AP the
+very minute polls closed in those places at 8 pm eastern.
+The AP just knew, off of historical voting trends and exit polling, that they would certainly
+go blue.
+Meanwhile, battleground states, with a fairly even mix of Democrats and Republicans, tend
+to be trickier to call and require a good proportion of actual results to come in.
+For example, Minnesota's results in 2016 weren't called until 11.09 am eastern and
+Alaska's not until 11.58 am eastern on the day after the election.
+Far before the last state is called, though, the combination of electoral votes designated
+to the called states will exceed the required majority, 270, and at that time, the AP will
+send out what they call a flash.
+These are the very highest tier of AP alerts reserved for, as they describe it, events
+they expect to be one of the very top stories of the year.
+The AP averages less than two flashes a year, and such an alert has been used for events
+like the killing of Osama bin Laden, the resignation of Pope Benedict, and the death of Nelson
+Mandela.
+It is not always the AP who is first to call the race, but more often than not, they are
+the first major news organization to declare a winner.
+Historically, this tends to happen between 9 and 11 pm eastern, but sometimes much later
+and sometimes much earlier.
+From there, tradition kicks in and the loser calls the winner, the winner throws a party,
+and the next day the sitting president calls the president-elect.
+The true, official results might not come in for days or weeks as states work to tally
+every vote, not reliant on probability.
+The moment that happens, though, the clocks reset, and the US and world again begins the
+four-year process leading up to the election of the next American president.
+When evaluating products I might use, like everyone, I'm always looking for a vote
+of confidence and for Dashlane, their 11 million users, their top rating on the App Store,
+and their endorsement by the New York Times, Wall Street Journal, Forbes, and more, tells
+me that it's a product worth using.
+What everyone sees in Dashlane, myself included, is that it's a simple way to make browsing
+the internet faster, safer, and more efficient.
+Dashlane securely stores things like passwords, addresses, frequent flyer numbers, passport
+numbers, and plenty more, and then autofills them when they're needed so that everything
+happens faster.
+It syncs all this information across devices, no matter if it's Mac, PC, iOS, or Android,
+so it's always there when you need it.
+You can make your internet experience faster for free for 31 days by going to dashlane.com
+slash wendover.
+After that, by using the code wendover, you'll get 10% off upgrading to Dashlane Premium.

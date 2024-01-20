@@ -1,0 +1,273 @@
+start	end	text
+0	5800	This video was made possible by Hover—professionalize your web presence with a custom domain and
+5800	11020	email address for 10% off at hover.com slash wendover.
+11020	16620	About 13 million times per day, someone clicks the order button on Amazon.com.
+16620	21840	Some days later, all, or at least almost all, of those 13 million orders arrive at their
+21840	22960	destination.
+22960	26040	But, what happens in between?
+26040	29000	How does Amazon get a package to you?
+29000	32000	Well, it depends—a lot.
+32000	37480	In fact, Amazon's fulfillment system, their shipping system, is more complicated and convoluted
+37480	43840	than that of almost any logistics company—it's far more complicated than that of UPS or FedEx
+43840	47360	or DHL or any other major delivery company.
+47360	52440	In a counterintuitive way, this complicated and convoluted fulfillment system is a crucial
+52440	56800	component of this secret sauce that's driving Amazon's success.
+56800	62240	They're striving to make the consumer experience simple through behind-the-scenes complexity.
+62240	66140	So, back to the question, how does an Amazon package get to you?
+66140	67200	And the answer?
+67200	68200	It depends.
+68200	72940	It depends first on who's fulfilling the package—Amazon or the seller.
+72940	77460	About one-fourth of sales in the US are fulfilled directly by the seller, as most products on
+77460	81960	Amazon are listed there by a third party, which can send packages directly through UPS,
+81960	86680	FedEx, the Postal Service, or another consumer delivery company if they choose.
+86680	90740	Amazon has nothing to do with the fulfillment of those orders, and the process looks largely
+90740	93680	the same as with any other e-commerce company.
+93680	99280	What's different is how the other three-quarters of Amazon packages in the US get to you—the
+99280	102000	ones that are fulfilled directly by Amazon.
+102000	106720	The path that these take depends first on how big the package is.
+106720	112160	You see, Amazon's fulfillment centers are more or less split into three categories—small
+112160	115600	sortable, large sortable, and large non-sortable.
+115600	121120	That first category, small sortable, represents the bread and butter of Amazon's business.
+121120	126560	These are items that are less than 12 by 16 by 6 inches or 30 by 40 by 15 centimeters
+126560	130780	in size, and about 25 pounds or 11 kilograms in weight.
+130780	135220	The next category, large sortable, is basically anything larger than this up to a weight of
+135220	137760	about 60 pounds or 27 kilograms.
+137760	142740	Now, the reasons for the split between large and small is because the fulfillment operations
+142740	148600	of smaller items is much easier to automate—they can fit on conveyor belts and automated robots
+148600	152140	and other tools that lower the company's reliance on humans.
+152140	157020	For example, Amazon uses a robot called the Kiva which fundamentally changed the way the
+157020	162060	job of the company's pickers—the people who find and grab an item out of storage—worked.
+162060	167540	Previously, pickers would walk some 10 to 12 miles or 16 to 19 kilometers a day through
+167540	169580	cavernous rows of shelves.
+169580	174980	Now, at least in their most advanced fulfillment centers, a robot picks up an entire mobile
+174980	179820	shelf on which a required product is located and transports it to the picker who picks
+179820	180820	it.
+180820	185580	Essentially, rather than the picker going to the shelf, the shelf goes to the picker.
+185580	191760	With these robots, one person can pick 300 to 400 items an hour rather than the 100 or
+191760	193780	so that was possible on foot.
+193780	197800	Of course, fewer humans in the mix is good for Amazon, given the amount of criticism
+197800	202360	it receives for its treatment of workers, and because humans, even low-paid ones, are
+202360	203700	expensive.
+203700	208160	The fulfillment process for larger items, though, is just tougher to automate cheaply,
+208160	212680	so the company chooses to segment the two processes out, and runs a far more manual
+212680	215840	and distinct fulfillment system for larger items.
+215840	221760	However, in most but not all cases, the fulfillment centers for large and small items are under
+221760	225560	the same roof, even if they're operated completely independently.
+225560	229760	Of course, the ideal scenario for Amazon would be to have every single item they sell
+229760	233360	in every single warehouse, but that's not realistic.
+233360	238560	Therefore, they use predictive modeling to try to put items closest to those who are
+238560	240200	likely to buy them.
+240200	245520	The US is far from homogeneous, so demand for different products varies from place to
+245520	246520	place.
+246520	251320	For example, in Miami, people probably aren't looking to buy many ice scrapers for their
+251320	252320	cars.
+252320	257200	Meanwhile, in Fargo, North Dakota, demand for this item is almost certainly quite high.
+257200	262000	It's therefore no wonder why that, if you look at the data, the colder the city, the
+262000	265400	faster you can get an ice scraper on Amazon.
+265400	268280	That is Amazon's predictive stocking at work.
+268280	273740	While most examples of this system are far more nuanced and far less intuitive, the concept
+273740	277620	is simple—their algorithms put products closest to the consumers most likely to buy
+277620	282720	them—something only possible at this scale thanks to modern big data analytics.
+282720	288620	Of course, there's then that third category of products—large non-sortable.
+288620	292820	The distinction here is because Amazon likes to aggregate products together into as few
+292820	297900	packages as possible—unsurprisingly, fewer packages equals lower costs.
+297900	303060	So, both these sortable categories include anything that could possibly be packaged together
+303060	304680	in a single box.
+304680	310460	The largest items, say a 70-pound beanbag, for example, are shipped from the large, non-sortable
+310460	312140	fulfillment centers.
+312140	316520	These facilities are even less automated than the large, sortable ones, and even include
+316520	320340	workers who create custom boxes for odd-sized items.
+320340	325420	In Colorado, for example, this is a completely separate facility, located in Aurora, from
+325420	327940	the sortable fulfillment center in Thornton.
+327940	332860	Now, some large items will go directly into the system of a third-party provider, typically
+332860	337800	XPL Logistics, which would deliver these bulky items to their final destination, while
+337800	340860	others will continue on in Amazon's system.
+340860	345980	The portion of large, non-sortable items not sent to a third-party logistics provider plus
+345980	350540	all the large and small sortable packages would next be sent to a regional sortation
+350540	351540	center.
+351540	356060	In Colorado, those two fulfillment centers send their packages to a single sortation
+356060	360380	center, located just minutes away from the Aurora fulfillment center.
+360380	365700	This is a massive facility, almost half a million square feet in size, with robots running
+365700	370380	around, dropping packages into different chutes, which each represent a different grouping
+370380	371500	of zip codes.
+371500	378020	Now, not all the sortation centers are quite so automated, but each outputs the same thing—pallets
+378020	381540	of packages going to roughly the same place.
+381540	385300	What happens next, though, once again, depends.
+385300	389720	A package heading to Miami, for example, would end up on a pallet with other packages for
+389760	394440	Miami, which itself would end up on a truck carrying pallets for Tampa, North Carolina,
+394440	399520	Houston, Baltimore, New York City, Connecticut, and a few other cities and states to the east.
+399520	404980	This truck would then drive the 15 minutes to a waiting 767 cargo plane at Denver International
+404980	407960	Airport, branded in Prime Air livery.
+407960	414640	Now, Amazon Air started in 2015 with its lease of about 20 aircraft from Air Transport International,
+414640	419200	and has since grown to almost 70 aircraft—all leased from other airlines.
+419200	423920	However, the company recently announced the purchase of their first 11 aircraft, also
+423920	429320	767, bought from Delta and WestJet, meaning they'll soon both own and operate their
+429320	430980	own aircraft.
+430980	435380	Those eastbound pallets would all be loaded around 4 AM, before the aircraft's scheduled
+435380	437880	departure time of 4.54 AM.
+437880	443740	Now, anyone familiar with UPS or FedEx's operations will know why this departure time
+443740	445120	is strange.
+445120	449480	If UPS was transporting this package to Miami, at least at its fastest speed, it would have
+449480	454260	departed on an aircraft the previous night at 9.40 PM, been flown to Louisville, sorted
+454260	458520	through the company's hub, then flown to Miami, arriving at 5.50 AM.
+458520	461560	FedEx would have done roughly the same, just through Memphis instead.
+461560	466540	That's because FedEx, UPS, and most other major delivery companies are oriented towards
+466540	470560	overnight delivery—they make a big chunk of their money charging big rates to take
+470560	475240	a package from one part of the US one day, and deliver it to another the next day.
+475240	480680	Amazon, meanwhile, built their prime brand off the promise of two-day delivery—ordering
+480680	483800	a package on a Monday and getting it on a Wednesday, for example.
+483800	488560	While they've sent straight from the rigidness of that system, the fastest shipping they'll
+488560	493340	offer for an item not stocked at a local fulfillment center is two days, meaning they don't have
+493340	496840	to worry about being able to get a package from Denver to Miami overnight.
+497320	501760	That's why UPS and FedEx's planes take off in the evening, while Amazon's leave
+501760	502760	in the morning.
+502760	508480	So, that means it's about 9 AM by the time that Amazon Airplane from Denver gets to Cincinnati
+508480	510500	Airport each day.
+510500	515120	Through the morning hours, a dozen or so aircraft land in Cincinnati, and this timing gives
+515120	518120	the company a major advantage.
+518120	523680	Cincinnati Airport is also home to DHL's main America's hub, but DHL, like FedEx
+523680	529040	and UPS, conducts its operations primarily overnight starting at around midnight, when
+529040	533400	dozens of their aircraft from around the world land and unload.
+533400	538360	Over the next few hours, packages and pallets are sorted and unloaded onto other aircraft,
+538360	540780	which all tend to take off by 8 AM.
+540780	546320	That means DHL only really uses their facility during the overnight hours, so Amazon leases
+546320	548360	it for daytime use.
+548360	553320	While Amazon is building their own, larger facility at Cincinnati Airport, this partnership
+553320	555760	gave them a huge head start.
+555760	561600	So, each day, between 8 AM and 4 PM, Amazon's there, turning their planes around, and sorting
+561600	566400	pallets from where they come from, like Denver, to where they need to go, like Miami.
+566400	571340	That Miami flight takes off each weekday at 2.15 PM, and then it lands in Florida just
+571340	573880	before 5 PM Eastern Time.
+573880	578520	Now, not every Amazon Air itinerary looks like this.
+578520	582860	In fact, while UPS and FedEx route almost all of their flights through their Louisville
+582900	587140	and Memphis super hubs, or through some of their secondary hubs across the country, only
+587140	591540	20% of Amazon Air's flights go through their main Cincinnati hub.
+591540	596940	That's because, with their orientation towards two-day delivery versus one, they just have
+596940	598660	more time.
+598660	603300	The more time means that, in order to service the entirety of Florida, Amazon only needs
+603300	607620	to fly to three destinations—Miami, Tampa, and Lakeland.
+607620	612380	That's because Amazon's flights to these airports typically land by 5 PM, meaning there's
+612900	618580	12 hours before packages have to be at the local delivery center for the final destination.
+618580	623500	The entirety of Florida is within an eight-hour drive of Lakeland, meaning Amazon can deliver
+623500	629300	to all of Florida by only serving effectively one, but in practice three, airports.
+629300	634540	Meanwhile, FedEx, for example, flies from Memphis to Fort Lauderdale, Fort Myers, Jacksonville,
+634540	638720	Tallahassee, Tampa, and Palm Beach, then from Fort Lauderdale it operates feeder flights
+638720	641460	on smaller aircraft to Key West and Marathon.
+641540	647940	So, in summary, in order to serve all of Florida, this is what FedEx has to do, and this is
+647940	649900	what Amazon has to do.
+649900	654900	The required number of destinations for full coverage is greatly reduced by orienting for
+654900	659260	two-day delivery, and this also means that Amazon doesn't have to route every flight
+659260	661660	via one main hub.
+661660	666660	Because they operate to far fewer destinations, it's much easier for Amazon to fill a plane
+666660	671180	from California, for example, exclusively with packages destined for Florida, since
+671180	676340	while a given UPS or FedEx flight carries packages from or to just one city, a given
+676340	681900	Amazon Air flight likely carries packages from or to a whole state or region.
+681900	687260	Therefore, Amazon Air has flights from all these airports to Lakeland, meaning that,
+687260	691340	while a package from Denver would have to route via Cincinnati, one from Los Angeles
+691340	695220	or Dallas or Chicago could fly direct.
+695220	699600	With a full hub-and-spoke strategy, like that of UPS or FedEx, a package would have
+699600	705020	to be loaded and unloaded from aircraft twice, and sometimes more, while Amazon Air's non-stop
+705020	710140	flights only require loading and unloading once, which reduces cost, and can fly packages
+710140	712780	direct, which also reduces cost.
+712780	718700	This is how Amazon can transport packages by air more efficiently than UPS or FedEx.
+718700	723900	The airplane, however, is just one of five routes that an Amazon package could take onwards
+723900	726300	from the Denver Sortation Center.
+726300	730240	For those that are to be delivered locally, in the Denver area, they'll be driven to
+730240	732780	one of four delivery stations for Denver.
+732780	737280	There, they'll be loaded into smaller delivery vans, operated by independent companies or
+737280	742580	individuals contracted by Amazon, which will take the packages to their final destinations.
+742580	747760	This is the one and only case in which an Amazon package is handled by Amazon Logistics
+747760	751820	from start to finish, and it's generally how their packages are delivered within major
+751820	754220	urban and suburban areas.
+754220	758600	Only a slim majority of their overall package volume is delivered this way, though, as when
+758600	763260	you leave major urban areas, things get a bit more complicated.
+763260	768460	Now, a package heading outside the Denver area with a later delivery date, or with a
+768460	773980	destination within the greater Rockies region, would end up on an Amazon-branded but independently
+773980	775940	operated semi-truck.
+775940	781360	For example, packages to the Aspen area, about a three to four hour drive into the mountains,
+781360	783600	arrive at around 1 AM each night.
+783600	788000	Early in the morning, however, at around 5 AM, they arrive at the local post office and
+788000	792320	from there, they're fully transferred into the United States Postal Service system for
+792320	793940	final delivery.
+793940	798300	You see, in less populous areas, like the mountains of Colorado, it just doesn't make
+798300	801720	sense for Amazon to operate their own last-mile delivery.
+801720	806280	They need a certain amount of scale for that to be cheaper than the alternative, and at
+806280	810520	least right now, that scale is only possible in major metro areas.
+810520	816340	Therefore, they need alternatives for smaller cities, towns, and rural areas, and that alternative
+816340	818560	is more often than not the USPS.
+818560	823520	That's because the Postal Service charges very low rates for last-mile delivery, assuming
+823520	827720	Amazon transports the packages to the local post offices themselves.
+827720	833060	While exact numbers aren't publicly known, estimates indicate the USPS charges Amazon
+833060	838280	about $2 per package for last-mile delivery—about half of what other delivery companies would
+838280	840160	for the same service.
+840160	845720	After all, the USPS services every address in America, so wherever Amazon needs to deliver,
+845720	848080	the USPS is going there anyways.
+848080	853600	That's why, for smaller places that still have a decent volume of packages, like mid-sized
+853600	859160	towns and cities, USPS delivery is often the cheapest option for Amazon.
+859160	865560	But then, there's that next step down—the most rural places in America.
+865560	870040	Anything that can't be cheaply delivered by Amazon or the USPS, typically because they're
+870040	874020	destined for low-density areas where you couldn't even fill a truck to send to the local post
+874020	879080	office, or because of capacity or speed reasons, is sent through UPS.
+879080	883680	Right now, it's believed that about 20% of Amazon's packages end up delivered by
+883680	884680	UPS.
+884680	889340	In Colorado, a package destined for the most rural areas, like the western edge of San
+889340	892920	Miguel County, for example, would take this route.
+892920	896560	It would cost Amazon far more, and they'd likely end up losing money on the cheapest
+896560	900960	items, but it's what's required for them to be able to service every address in the
+900960	902900	US quickly.
+902900	907540	No matter which of these routes a package takes, the end result is, at least hopefully,
+907540	908540	the same.
+908540	913760	UPS, the USPS, or Amazon itself drops off a package at its final destinations after
+913760	916000	a few days of travel across the US.
+916000	921560	It's a very simple process from a consumer perspective, but the behind-the-scenes is
+921560	923360	incredibly complex.
+923360	928080	The complexity is what's needed, though, for a business whose whole value proposition
+928080	931740	is to get anything to your door quickly and cheaply.
+931740	938140	The core of Amazon—their competitive advantage—is now logistics, to the point where many experts
+938140	942520	believe that the company will start offering delivery as a service to other companies in
+942520	943520	the coming years.
+943520	946840	They believe that they've perfected their system enough that they're going to take
+946840	949460	on UPS and FedEx.
+949460	954060	Of course, Amazon still has competitors, which are going after the company as aggressively
+954060	955060	as ever.
+955060	960040	Target, for example, has been able to build a delivery system with similar speed through
+960040	963500	completely different means—ones that are far simpler.
+963500	968440	They've essentially turned each of their 1,900 stores across every US state into a
+968440	974360	fulfillment center—they send employees out into the aisles who pick, pack, and ship online
+974360	975560	orders.
+975560	979800	That means that their packages never have to travel very far at all, and so they can
+979800	985040	take advantage of cheap and quick ground shipping from UPS, FedEx, and other more traditional
+985040	986200	providers.
+986200	991160	Some 80% of the company's orders are fulfilled directly from its stores, and now Walmart
+991160	995680	is also adapting this direct-from-store fulfillment system as well.
+995680	1000380	So far, though, Amazon believes in their system of simplicity through complexity, and they're
+1000380	1004640	making moves to further expand the system within the US, and emulate it in Europe, where
+1004640	1008680	they recently opened their first airhub in Leipzig and put their first two freight aircraft
+1008680	1010560	online in November 2020.
+1010560	1016600	UPS, FedEx, and the other major consumer delivery companies are already well aware of just how
+1016600	1019500	big a threat Amazon poses to them.
+1019500	1024540	Amazon has managed to build a 21st century logistics network using 21st century techniques
+1024540	1028840	and technologies, and, of course, part of the threat comes from the company's market
+1028840	1034500	dominance, but most is because Amazon is innovating in a way others aren't.
+1034500	1040060	The way FedEx and UPS moved packages today is largely the same way they did decades ago,
+1040060	1044560	but Amazon's system is only possible through innovations that allow them to manage such
+1044560	1048040	a massive, complex, and convoluted system.
+1048040	1052680	This is all to say, if you're worried about Amazon's growing position as the one-stop
+1052680	1059020	shop for the world, be worried, because they're only getting better at it.
+1059020	1063840	What Amazon's rise proves more than anything is that, like it or not, online is the new
+1063840	1065000	Main Street.
+1065000	1069700	Therefore, just as you'd be concerned with what your storefront looks like on Main Street,
+1069700	1072840	you should be concerned about how your web presence looks.
+1072840	1078360	Now, in the case of email, having a non-custom address is the equivalent of having a dirty
+1078360	1080920	sign—it works, but it's not pretty.
+1080920	1085760	That's why you'll notice that most professionals use custom email addresses—something that
+1085760	1087840	ends in something like "@wendover.productions."
+1087840	1093400	That's a domain that I bought through Hover, made possible thanks to their over 400 unique
+1093400	1098240	domain extensions that let you go way beyond .com, .org, or .net.
+1098240	1102000	After getting that domain, it took about two minutes to set up a custom email address for
+1102000	1104640	myself and everyone else who works on the channel.
+1104640	1109240	I can't count the number of times when someone has complimented our email address, as weird
+1109240	1113760	as that sounds, and so whether you run a business, or just want a better email for yourself,
+1113760	1116720	it's worth getting a custom one with Hover.
+1116720	1121920	So, head to hover.com slash wendover to get 10% off your first purchase of a custom domain
+1121920	1125920	or email address, and you'll be supporting the channel while you're at it.

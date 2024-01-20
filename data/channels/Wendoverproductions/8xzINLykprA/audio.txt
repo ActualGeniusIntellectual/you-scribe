@@ -1,0 +1,264 @@
+Let's say I had an apple, and you had an orange, and I wanted an orange, and you wanted
+an apple. We could trade, and both of us would end up happier than when we started.
+But now let's say I had an apple tree, and you had an orange tree, and the apples from
+the apple tree were ready, but the oranges wouldn't ripen for another month. I could
+give you an apple now, and you could promise to give me an orange in a month, when they're
+ready, and both of us would end up happier than when we started.
+Although, maybe you didn't want an apple. Maybe you wanted a pear. But all I had to
+give was my apple, and I still wanted your orange. Well, maybe there was a third guy,
+a pear-laden guy, and he wanted an apple. So I give him my apple, he gives you his pear,
+and you promise to give me your orange in a month, and we all end up happier than when
+we started.
+But then maybe we start to trade bigger quantities, and maybe we add more people with different
+fruits on different harvest schedules, and maybe we decide that certain popular fruits
+are worth more, and two of one equals one of the other, and one of the other equals
+three of the third, and it all starts to get just a little bit complicated.
+So, we simplify. Instead of trading physical fruit for physical fruit, we trade physical
+fruit for fruit credits—clay balls with a generic fruit symbol carved into them. If
+I trade an apple into the system, I get a credit, and when I want that orange, I trade
+the credit in—nobody has to keep track of what I'm owed.
+Now that we have this system going, we might as well add vegetables into the mix. Sure,
+it's not fruit, but we want veggie sometimes, and the veggie farmers want fruit too, so
+the system still works.
+Naturally, as the system develops and develops with more and more items and more and more
+complexity, we start to feel that these fruit credits have value, even though they merely
+represent theoretical value. But that theoretical value can be turned into real value, and so
+in a way, the clay balls—the representation of theoretical value that translates into
+real value—hold real value in and of themselves.
+So, someone starts a business where they'll keep your fruit credits safe for you, free
+of charge. Better yet, they'll pay you to keep your credits safe. It sounds like a scam,
+and maybe it is, but you take the risk and deposit a thousand credits.
+Elsewhere, in order to grow more watermelons this year, and therefore earn more fruit credits,
+a watermelon farmer needs more credits than she has to exchange for an irrigation system.
+So, this new credit storage business offers to give her 7,500 credits if she promises
+to give 9,000 back in a year. This seems like a safe bet since she's already a successful
+watermelon farmer, and it's worth it for her since she'll get the new irrigation
+system, and worth it to this new fruit credit safeguarding business since they'll get
+more credits, and everyone ends up happier than when they started.
+Meanwhile, you're told that you can take your credits out at any time, and you can,
+even if they only kept 250 of them on hand. That's because there are nine more farmers
+that deposited their thousand credits too, and even if the safeguarding business only
+kept a quarter of them, a quarter of all deposits is much more than your thousand,
+and the chances of everyone wanting their credits at the same time is negligibly low.
+So, this is a free money machine. You make money, the bank makes money, and the watermelon
+farmer makes money. Everyone makes money. But wait, everyone makes money? You, the bank,
+and the watermelon farmer end up with more money than when you started, so where did
+it come from?
+If we turn this into a closed loop, where no money enters or exits the system, we can
+track down the source. So, ten people with 10,000 credits each deposit a thousand, meaning
+the bank now has 10,000. The bank lends those 7,500 out to the watermelon farmer, meaning
+it now holds 2,500. She pays that 7,500 to one of the ten depositors for an irrigation
+system they're selling. One growing season later, the farmer has 9,000 watermelons that
+she brings to the market, and sells 900 of them to each of the same group of ten that
+put their money into the bank. They now each have 9,100 credits, a thousand of which sit
+in the bank. Meanwhile, the farmer has 9,000 what she gives to the bank, meaning it now
+holds 11,500 credits. So, the farmer has nothing, the ten individuals have 98,500 total, and
+the bank has 11,500, meaning there are now 110,000 credits in the system. Once again,
+money has appeared out of thin air.
+So, its source. In the very first step, 10,000 credit deposits go into the bank, but the
+ten individuals still each have $10,000. It's just that 1,000 of it's in the bank. That's
+not the bank's money, so the 10,000 sitting in their vault isn't theirs, which means
+the money is created exactly… now. The moment that loan goes out, new money has appeared.
+The original depositors still have their 100,000 credits, because with the way the fractional
+reserve banking system works, they can all, on an individual level, withdraw their 10,000.
+But simultaneously, the watermelon farmer has 7,500 very real credits. If you have a
+roommate that you agree to share your blender with, only one blender physically exists,
+but two blenders' worth of value is being extracted from it, because you're both using
+it just as much as you'd use your own, dedicated blender. That's essentially what's happening
+with money, except that with money, we track the per person value, rather than the per
+blender value. Now, it'd be easy to argue that we can't consider the bank to have
+created 10,000 credits, and that's fair, because the system wouldn't work if it lent
+10,000, because it couldn't give the original depositors their money back. But it does work
+when they give away 7,500—a 25% reserve ratio is very typical in a fractional reserve
+banking system—so we can at least say 7,500 was created. You could still argue that the
+7,500 isn't actually money since it's eventually owed back to the depositors, except
+that, if you trust and engage in the global financial system, that's not what you believe.
+When you receive a loan, you can take out that money in cash, and when you deposit money
+in a bank account, you can take out that money in cash—it is very real money, representing
+very real value. This is exactly why answering the question of how much money exists is so
+tough. There are at least six different commonly accepted definitions, incorporating different
+combinations of currency, demand deposits, traveler's checks, time deposits, and more,
+and this means of money creation is one of the primary activities that central banks
+like the Federal Reserve, Bank of England, or Bank of Japan seek to administer and regulate.
+They're in charge of telling banks how much money they have to keep in reserves, which
+throttles how much money appears out of thin air through banks' lending process.
+Of course, the aspect to take note of is the fact that money is created when it moves—money
+is never created while it's sitting still. So, back in 1867, when moving money was tough
+and banks were rudimentary, physical currency still pretty well correlated to the total
+supply of money—most dollars were represented by a physical bill or coin—but since then,
+well, things have changed. Abstraction helps money move. Adding paper
+stand-ins for precious, rare minerals speeds up the transportation of funds and transactions.
+Abstraction helps money grow, too, as a bank's ability to loan money provides its customers
+the assets to then create value. Abstraction, however, doesn't alone move money from one
+bank to the next, one town to the next, one state to the next, or one country to the next
+like it does today. That required standardization. Before the Civil War, there were thousands
+of different types of paper money backed by all sorts of private and public institutions
+in the US. Say, for example, a watchmaker from Waltham, Massachusetts in 1857 went into
+their bank to withdraw this $20 bill to buy some machinery down in Brookline. This isn't
+the $20 bill anyone today is used to—this is a Waltham Bank $20 bill, redeemable in
+gold at only the Waltham Bank but of uncertain value to anyone outside of the Waltham Bank.
+Now, while the watchmaker's not taking on the risk or inconvenience of carrying $20
+worth of gold, there's also no guarantee that the merchant in Brookline will take the
+note from a bank so far out of their way. Perhaps, because of the distance, they'll
+tack on a fee for the inconvenience of cashing the note, and say the machinery is now $23.
+Or perhaps the watchmaker gets lucky, and they are only one of many business relations
+the Brookline merchant keeps in the Waltham area, then maybe the merchant will accept
+the Waltham dollars knowing they'll be able to use the bill in the future.
+Regardless of the fate of the Waltham watchmaker, what their predicament underscores is that
+money, when in many different forms from many different places, was hard to move, hard to
+transact with, and hard to transfer outside of one's immediate community.
+All this changed with the National Currency Acts of the 1860s. Out went thousands of separately
+backed private bank notes, in came nationally chartered banks, and so began a new era of
+money moving with a new means with which to do it—the modern check.
+Under the new rules, all nationally chartered banks had to carry about 25% of their liabilities
+in reserve—in other words, of all the money they were good for, a quarter of that needed
+to be held in gold in the basement. Crucially, though, the smaller banks, or country banks,
+could hold these reserves in the central reserve cities, or the few big banks.
+Effectively, the two banks were now connected—someone could now take a check from their local bank,
+head into the city and buy supplies, and that check could then be settled at the larger
+correspondent bank without any gold having to move outside the vault. And not only were
+these two banks connected, countless small banks were now all linked together through
+that correspondent bank functioning as a hub.
+This simple connection had major consequences—it allowed a customer to move money regionally
+without the hassle of navigating a maze of domestic exchange rates, thus stimulating
+growth, and without the slow and risky necessity of moving actual coins or cash from bank to
+bank, making the process quicker.
+In this environment, armed with a Waltham check rather than Waltham dollars, a watchmaker
+could pay for their supplies, the merchant could deposit their check at the Brookline
+bank, and the Brookline bank, in turn, assuming because of their proximity they share a correspondent
+bank, would send the check to the correspondent which then would balance each bank's funds
+by moving money across the basement.
+Now, this process at the time was far from efficient—especially when banks didn't
+share immediate correspondent banks. When a check moved money between banks without
+a direct link, they had to find a third-party bank, or in some cases multiple banks, to
+bridge the gap and connect them with a correspondent, racking up fees, delays, and postage all along
+the way. Take for example this check from 1898 for $43.56, which was deposited at the
+Second National Bank of Hoboken, New Jersey, before Second National then sent it to Harvey
+Fisk & Sons, who sent it to the Globe National Bank of Boston, who sent it to the First National
+Bank of Tonawanda, who sent it to the National Exchange Bank of Albany, who then sent it
+to a bank in Port Jefferson, who then sent it here, who then sent it here, who then sent
+it here, who then sent it here, who then sent it here, where it was finally drawn.
+Still, while inefficient, these early checks were a critical stepping stone in standardizing
+and moving an increasingly abstract form of money—bank account totals denoted in dollars,
+not gold. The use of checks, and the ease of their accounting, took a major step forward
+with the Federal Reserve Act of 1913, which split the nation into 12 separate regions,
+and tasked each regional Federal Reserve Bank with filling the role of clearinghouse for
+all regional checks. This centralization streamlined processing, as the bank could now credit a
+merchant's account and know exactly which Federal Reserve Bank to send it to. It also
+codified a critically important function that would allow money to move farther, and become
+increasingly abstract in the decades to come—rigorous accounting.
+In the early 1900s, checks were still rather rare, and their use remained mostly regional.
+Then came the 50s. Now, Americans were making more money than ever, spending more money
+than ever, and had more bank accounts than ever. From 1943 to 1952, national check use
+doubled from $4 to $8 billion a year, and through multi-step proofing and processing,
+American banks were wading through some 69 million checks every day.
+Banks were drowning under the pressure. Branches closed at two in the afternoon to shift all
+work to matching signatures, running the adding machine, double-checking the math, and packaging
+the checks for shipping to the Federal Reserve. The work was grueling—most clerical staff
+at banks quit within a year—but it was absolutely necessary. With more money passing through
+their hands than ever before, they had to be as accurate as humanly possible.
+Relief, though, came in the form of a computer the size of a room designed by the Stanford
+Research Institute, funded by the Bank of America, and built by IBM. They called it
+the Electronic Recording Machine Accounting, or IRMA, and it transformed banking. Before
+IRMA, checks were processed at every bank branch, they came in all sizes, and they weren't
+identified by bank account numbers. To move the process of sorting checks to the computer,
+they'd need to be the same size, and they'd need numbers rather than names to be organized
+by. Once those standards were adopted, checks were entered into the computer, which read
+the magnetic ink, and if the account belonged to a Bank of America branch, IRMA would access
+the account stored in its 16x20 inch magnetic drum memory, check for any account holds,
+make sure the balance in the account was positive, draw the amount, tally the total, save the
+new balance, and print the new record. Were human eyes misread, and human hands mistyped,
+IRMA didn't, as the computer even went so far as to check the routing number by plugging
+the digits into this algorithm to ensure the checks' legitimacy.
+Now, the paper processing crisis that began in the 1950s was not solely a Bank of America
+problem—it was structural. From monthly insurance bills to tax returns to social security
+checks, no matter how many sorting machines were added to the system, if every transaction
+took the form of a flimsy paper check that needed to physically pass from person to bank
+to fed to bank, then the paper avalanche simply couldn't be contained. So, payment systems
+went electronic, and the Automated Clearinghouse Network revolutionized the domestic movement
+of money when adopted in the 1970s. Where thousands of checks once poured into reserve
+banks and private clearinghouses every day, the ACH network now allowed for direct deposits,
+automatic payments, and ATM transactions. Now someone looking to pay their insurance
+premium could hand over their bank account information to the insurance company, the
+company's bank would then create an ACH entry requesting to withdraw money, the request
+would be processed by the ACH's operator, and the money would be debited from one account,
+and credited to the other, no check required.
+Of course, security and the ability to uphold accurate accounting were of paramount concern
+in an era before the internet. Companies adopted microdeposits as a means to verify bank accounts,
+Federal Reserve officials helped form a regulatory body called NATCHA, and in 1978 Congress passed
+the Electronic Fund Transfer Act to limit customer liability and protect them against
+wrong or fraudulent charges. The measures successfully erased consumer fears. Today,
+the ACH network moves over $50 trillion across 23 billion transfers a year.
+While ACH securely moves mountains of money stateside, its role ends where the US does.
+For international transfers, there's the Society for Worldwide Interbank Financial
+Telecommunications, or SWIFT, which, like ACH, was established in the 70s to streamline payments,
+but at the international scale. SWIFT doesn't actually move money, but instead provides
+its 11,000 member banks a secure network and a standardized messaging format to send
+payment orders. Prior to SWIFT, international transfers lacked standardization, security,
+and accuracy. So, SWIFT started from scratch, organizing its member banks in a manner similar
+to the routing numbers on a check, assigning each an 8-to-11 character code that denotes
+bank name, country, location, and branch. The program also standardized how payments
+were communicated. They start with a bank code, but the payment instructions are outlined
+in an MT-103 document, which, as they're processed, can be tracked by the bank and,
+once the transaction is complete, will function as a receipt. Now, if someone's wiring money
+from the US, through, say, Bank of America, to Germany, through Deutsche Bank, rather
+than actually sending money, the MT-103 will tell Deutsche Bank how many dollars to pull
+from Bank of America's Nostra account held at Deutsche Bank, and convert them to Euros
+to be deposited into the recipient's account. Like correspondent banks settling checks in
+the early 1900s without taking the risk of shipping gold coins in the mail, SWIFT members
+are able to fulfill international transactions without actually moving money across oceans.
+Through its simplicity relative to programs before it, once a SWIFT transfer is initiated
+and then communicated through SWIFTnet's encrypted message system, a transfer is usually
+completed within 24 to 48 hours, with more complicated and multi-bank transactions accounting
+for some transfers taking longer. Still, even though SWIFT functions as a member-owned cooperative
+and therefore doesn't maximize profit, it's neither cheap nor easy to manage a
+global network capable of securely passing along more than 40 million messages a day.
+This cost is felt by member banks who pay to enter SWIFT, then pay SWIFT by the message—costs
+that add up and costs that trickle down, too. Today, each international transfer, be it
+part of everyday business or someone sending money to their family back home, usually gets
+tagged with a fee likely starting in the $40 range.
+Given the cost and complexity of transferring money, some have identified the opportunity
+of layering a simpler system on top of it. Wwise, for example, is one of the world's
+hottest fintech startups, focusing primarily on remittances. There are loads of low-to-medium
+income people working outside of their home country who pay those huge fees to send money
+to their families back home, but Wwise designed a system that almost entirely circumvents
+those intermediaries. Essentially, if someone in the US is sending $1,000 to someone in
+Australia, they actually transfer money into Wwise's American account, then the company
+instructs its Australian account to send the equivalent amount, minus fees, to the recipient.
+They're essentially a private market equivalent of SWIFT—it's a dead simple system that
+leads to the same end result, but with far less cost and complexity.
+Banks can't do this. You see, if Wwise messes up and sends the recipient money without debiting
+the sender, the company is out $1,000. If a bank messes up and gives the recipient $1,000
+without the sender being debited, $1,000 just appears out of nowhere. So that can't
+happen. It just simply can't. If it does, money breaks, our trust breaks, the system
+breaks. If money erroneously appears outside of the context in which we allow it to appear,
+then it's not functioning like its physical counterpart would.
+Money really is just a means of accounting. It's accounting for the fact that you owe
+me an orange, but if you give me the orange and I don't give you the fruit credit, then
+the system didn't work—the accounting failed. For the modern digital financial system
+to function at all, the process of transfer has to be as infallible as the process of
+handing a clay ball from one person to the next. Simulating physicality in a digital
+network as vast and distributed as the global financial system is incredibly complex, considering
+how complex this system itself is. These expensive, burdensome middlemen are the institutions
+that protect that simulated physicality, so without them, money is worthless.
+Alternatives are arising, most notably the blockchain, and central banks like the Federal
+Reserve are studying whether to introduce blockchain-based digital currencies, but for
+now, the world still runs on money, and money's value is all in the system's ability to
+account for it.
+Few things in the digital world are as finite as money, with one notable exception—domains.
+There is only one wendoverproductions.com, for example. That scarcity means domains have
+real value, and they especially have real value to you if you start a business, or a
+YouTube channel, or something where having the corresponding domain name matters.
+Hover can help with that. They're the domain marketplace that I've used to buy all of
+my domains, because they have fair and transparent pricing, a super quick purchasing process,
+and absolutely excellent customer support. Quite literally the moment we landed on Jetlag
+the Game as the name for our new channel, for example, I went on Hover and bought Jetlag
+the Game dot com, and if the dot com domain you want is already taken, Hover can still
+help because they offer over 400 unique domain extensions, allowing you to create combinations
+like our wendover.productions domain. And to top it all off, you can set up an email
+using your new domain in less than a minute, allowing you to drop the at gmail or at iCloud
+a bit for something of your own.
+All in all, Hover is just simply the best place to buy domains online, and it's made
+even better by the fact that clicking the button on screen or heading to hover.com slash
+wendover will get you 10% off your first purchase, and help support the channel while you're
+at it.

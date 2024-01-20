@@ -1,0 +1,316 @@
+In a matter of three weeks, the Russian aviation industry slid back three decades.
+With one rambling justification, and a subsequent brazen invasion, came a cascading series of
+implications that brought the golden era of global aviation cooperation to a screeching
+halt.
+As a 21st century Iron Curtain fell across Eastern Europe, Russian commercial aviation
+began reverting to a bygone era—an era marked by tension, by distrust bordering on paranoia,
+and by extreme and utter isolation.
+Throughout the Soviet era, the nation's aviation industry was defined by stark insularity.
+While air traffic controllers and pilots around the world spoke English, those in the USSR
+spoke Russian.
+While Western countries benefited from innovation born out of competition between private aerospace
+companies, technological advances in the USSR fell entirely on the state.
+Soviet planes, like the Tupolev 104, equivalent to the de Havilland Comet, and the Tupolev
+154, equivalent to the Boeing 707, were the intellectual output of a centrally planned
+OKB, or an Experimental Design Bureau, while their construction, maintenance, regulation,
+and certification all fell under the purview of the centralized Ministry of Aviation Industry.
+While much of the rest of the world's aviation industry coalesced around a sprawling set
+of standards, a host of trusted aerospace companies and carriers, and a spattering of
+supranational organizations like the International Civil Aviation Organization, the Soviet Union,
+turned inward.
+Domestic flights dominated Soviet commercial aviation—flights from Soviet capitals, regional
+hubs, and vacation spots composed much of state-run Aeroflot's routes.
+Across the post-Stalin era, Russians travelled increasingly by air for business and pleasure,
+but rarely did they leave the confines of the USSR.
+Though Aeroflot at its height serviced over 100 countries, only select Soviets—diplomats,
+athletes, scientists, and artists—saw the outside world with any regularity.
+For the business traveler, international trips hinged on their ability to prove the travel
+was absolutely necessary, and the ability to pass extensive background checks.
+For the average Moscow resident with a hint of wanderlust, well, there was Sochi, or Odessa,
+or Dombe.
+Of course, strict rules over what went out also informed what went in.
+Inbound international flights, when allowed, were bound to specific, sometimes suspiciously
+circuitous routings, incoming visitors were given strict travel itineraries, and closed
+airspace was closely monitored—in the case of Korean Airlines Flight 7, to tragic consequences.
+Closed airspace built walls in the sky—walls which created a world of separated worlds.
+One where cities like Anchorage became international hubs—one where the Soviet aviation industry
+and Soviet travelers existed separate from the rest.
+One that current events have us poised to return to.
+Just hours after Russian missiles began tearing across Ukrainian skies, it became apparent
+that it wouldn't only be Ukrainian airspace taking on a new atmosphere of hostility.
+The same day the invasion began, the UK Department for Transport banned all civilian Russian
+aircraft from its airspace.
+Direct aeroflot flights from Moscow to Heathrow would be no more.
+If Western powers weren't going to directly intervene, they'd lay sanctions.
+And as during the Cold War, Western powers again identified commercial aviation as a
+means of inflicting economic pain on the aggressor.
+In the following days, the European Union, Canada, then the United States, among others,
+banned Russian flights from their airspace.
+Russia, for its part, responded in kind, closing its airspace to the 30-plus unfriendly countries
+in a tit-for-tat move.
+Walls went up, in an era of unprecedented peacetime mobility, slammed shut.
+Aeroflot, which just days before had operated international flights as far east as Tokyo
+and as far west as Los Angeles, announced on March 5th that its only international service
+would be into the capital city of Minsk in allied Belarus.
+Russian and American carriers began diverting routes so as to avoid Russian airspace—Russian
+airspace that US airlines typically crossed an average of 1,400 times a week.
+Flights like Lufthansa's LH716 from Frankfurt to Tokyo once arched over Siberia, but now
+cut south through Central Asia.
+In the most indicative example of the rapid backslide into Soviet-era aviation norms,
+Thin Air announced it was dusting the cobwebs off the circuitous route from Helsinki to
+Tokyo—one last flown in the late 80s—adding more than three hours of flight time, but
+avoiding Russia entirely.
+When, if ever, these walls go down is anyone's guess.
+What is certain, though, is that redirected flight patterns and a return to an almost
+exclusively domestic route network marks only the tip of the iceberg as to the long-term
+impact of Russia's invasion on Russian aviation.
+Beyond the growing divide between Russian and global skies, the country's aviation
+industry is also experiencing a new, digital divide.
+You see, whether it be a hotel in Zanzibar, a rental car company in Jeju, or a regional
+airline in Guatemala, the entire world of travel is all connected by the global distribution
+system—the GDS.
+At the simplest level, the GDS is a common, connected way to communicate and book inventory
+between travel providers.
+This and other back-end communication is crucial for airlines in particular since they rely
+so heavily on bookings originating from third-party online travel agencies like Google Flights,
+Expedia, or Skyscanner, and also on selling tickets that include flights operated by other
+airlines.
+When a passenger flights Delta from Seattle to Amsterdam, then connects on KLM to Athens,
+Delta and KLM's systems need to communicate.
+If they didn't, the passenger wouldn't be able to get their KLM boarding pass when
+checking in in Seattle, they wouldn't be able to check their bag all the way through
+to Athens, they wouldn't be able to get help from KLM if a Delta delay led to a misconnection,
+back-end communication is crucial for the cohesive travel experience from airline to
+airline.
+Now, GDS software is essentially run by three companies—Amadeus, Sabre, and Travelport—combined,
+they hold the market outright.
+Therefore, the announcement that all three GDS providers were suspending Aeroflot's
+access was considered a death blow for the airline.
+This decision was guided by the fact that Aeroflot is a majority state-owned airline,
+and so Aeroflot revenue would go directly to the very entity funding the deadly invasion
+of Ukraine.
+Now, without access to the GDS, Aeroflot flights no longer appear on Google Flights, Expedia,
+Skyscanner, or any other online travel agency—to book, one must go directly to Aeroflot's
+website.
+In addition, and perhaps more crucially, Aeroflot flights can no longer be booked as part of
+itineraries with other airlines.
+While most international airlines have suspended service to Russia, Middle Eastern carriers,
+namely Turkish, Qatar, Etihad, and Emirates, have emerged as a crucial air bridge for the
+country—one of the few convenient ways in or out, especially when heading to western
+destinations.
+Etihad in particular used to co-chair with Aeroflot, allowing a passenger to book a ticket
+from Abu Dhabi to Moscow, then seamlessly connect onwards on Aeroflot to Sochi, for example.
+Without GDS, this is no longer possible.
+Therefore, there's no easy way to travel from outside of Russia to anywhere beyond
+the destinations of those few inbound international flights—essentially anywhere but Moscow.
+While privately owned airlines in Russia have yet to be removed from the GDS, all restrictions
+combined mean that Russia's relative distance to the world has now dramatically increased.
+Traveling from London to Murmansk, for example, used to be thoroughly simple—a three-hour
+Aeroflot flight from Heathrow to Moscow, a one-hour connection, then a two-hour flight
+north to the Arctic city.
+Now, however, the most efficient way of that journey is likely a full ten-hour travel day
+on Turkish airlines from London to Istanbul to Moscow, an overnight at an airport hotel,
+then a morning flight the next day on Aeroflot to finally arrive in Murmansk.
+That's to say, the fastest way to get between two cities a mere 1,600 miles or 2,600 kilometers
+apart now takes longer than flying from London to Sydney.
+But even for those flights that can operate for those passengers who are able to book,
+there's an open question as to whether there's going to be the aircraft to fly
+them.
+You see, while many might perceive aircraft as a product, as something sold from manufacturer
+to airline, increasingly they're a service.
+A majority of the world's commercial aircraft fleet is now made up of leased aircraft—those
+owned by an outside company, but rented to airlines for a term of a few years.
+Rather than getting on a years-long waiting list to spend a huge amount of working capital
+on a single aircraft, airlines have come to enjoy the flexibility of shorter-term lease
+agreements.
+It allows them to grow and shrink their fleets more easily in response to shifts in demand,
+and pay for aircraft as revenue comes in rather than before.
+Of Russia's 980 passenger aircraft, 777 are leased.
+Of those, two-thirds, or 515, are leased from companies based outside of the country.
+Nearly all of those foreign companies are now either required to terminate their lease
+agreements due to sanctions imposed by their home country, or have chosen to due to a lack
+of faith in Russian Airlines' ability to continue paying due to the collapse of the
+ruble and the decimation of international route networks.
+Now, as aircraft leasing gained prominence in the early 2000s, a number of nations came
+together to sign the Cape Town Treaty.
+Like ships, for example, aircraft often spend much or most of their service lives outside
+of the country in which they're registered, so an Irish leasing company like AirCap, for
+example, can't rely on Irish law to give it the right to repossess an aircraft for
+non-payment if it was leased to a foreign airline and located outside of Ireland.
+Therefore, the Cape Town Convention made aircraft leases, and especially aircraft repossessions,
+enforceable by international law.
+It meant that AirCap had a legal right to ask the Russian authorities to help it seize
+an Aeroflot aircraft for non-payment or lease termination.
+That's, of course, because Russia is a signatory of the Cape Town Treaty.
+However, in this case, facing the loss of the majority of its civil aviation fleet,
+the nation just decided to ignore it.
+In fact, not only did they ignore it, but instead, Russia began a state-sanctioned theft
+of billions upon billions of dollars worth of aircraft.
+You see, the majority of the aircraft owned by major international leasing companies are
+registered in either Ireland or Bermuda, mostly due to tax advantages.
+Therefore, when those two countries revoked the certificates of airworthiness for aircraft
+logged on their registries but leased to Russian airlines, that meant that nearly all of those
+515 aircraft were no longer legally able to fly and that the lessors wanted them back.
+However, in response, Putin signed a law allowing Russia's airlines to re-register these aircraft
+as Russian, as if they were their own property.
+Essentially, Russia is telling its airlines to just keep the planes.
+As long as they don't leave the country, they'll stay in their hands.
+That means going forward, these aircraft will likely only operate domestic routes, while
+fully owned or Russian leased aircraft will operate any international routes.
+However, even that could become difficult.
+To retain their legal and practical ability to fly, aircraft are continuously subjugated
+to an extensive maintenance and inspection schedule.
+But now, both Boeing and Airbus have suspended all maintenance support to Russian airlines,
+leaving them few options for sourcing legitimate parts.
+Without legitimate parts, even legitimately owned aircraft could lose the right to fly
+internationally.
+And then on top of that, even the Russian-made Sukhoi Superjet, the most common domestic-made
+aircraft, faces maintenance issues too as its official part supplier is Lufthansa Technik,
+which is based in Germany—a country that has enacted sanctions preventing the company
+from supplying parts to Russian airlines.
+Now, there is precedent for this situation—Iran's aviation industry operated under similarly
+severe sanctions from 2007 to 2015.
+This resulted in them holding onto the aircraft they had prior to the sanctions long past
+their typical service lives.
+When an aircraft part went faulty, focus was placed on repairing it, rather than replacing
+it, since nearly all parts replacement required cannibalizing from grounded aircraft.
+As time went on, more and more aircraft had to be grounded to supply parts to the flying
+airlines, and the country's skies became some of the most dangerous in the world as
+safety standards grew increasingly relaxed.
+Russia is likely to operate under a similar system—assuming it continues to hold onto
+all 980 of its commercial aircraft, it'll have an oversupply due to its airlines'
+inability to operate most in-demand international routes.
+But, the longer the sanctions stretch on, the more planes will have to be dedicated
+to cannibalization, and the fewer there will be that can actually fly.
+Beyond the obvious—the absolute destruction of the progress Russian airlines have made
+over the past three decades building themselves up into legitimate, safe, respected global
+carriers—the near-total disconnection between the Russian and global aviation industries
+could actually accelerate progress for certain others.
+To start, between Sukhoi and Irkut, Russia has been attempting to revitalize its storied
+aircraft manufacturing industry—so far with little success as their aircraft have not
+been competitive with those of Western manufacturers.
+However, without the competition, these domestic manufacturers will become one of the only
+sources for new aircraft.
+This could also have a spillover effect for China as their state-owned aircraft manufacturer
+COMAC is nearing first deliveries of its C919 aircraft—roughly equivalent to an A320
+or 737.
+If it's able to make a version free of parts from countries that have sanctioned Russia
+or China, which is a big if, COMAC could capture demand from Russia that could not be fulfilled
+by COMAC's primary competitors—Boeing and Airbus.
+But the implications go further than that.
+While the impact of Russia's airspace closure was dulled by weak international travel demand
+to and from Asia, with most of the continent's borders still closed in response to the pandemic,
+as this demand grows in step with COVID's fade, this could have broad, long-term implications
+on the global aviation industry.
+Thin Air, based in Helsinki, for example, has long taken advantage of their position
+in the northeast of Europe, on the direct path between most major European and Asian
+cities, to offer some of the quickest connecting itineraries between the two continents.
+In fact, prior to the pandemic, they were the only major European airline which flew
+the majority of their long-haul routes to Asia, rather than North America or elsewhere.
+However, when Asian travel demand's return started to lag behind the rest of the world's,
+Thin Air announced that it would begin flying long-haul routes to destinations in the US
+and Thailand from Stockholm—a new, secondary hub to complement its primary one in Helsinki.
+In retrospect, that seems an extremely prudent move, and it's likely the airline will
+continue on a similar strategic path—reallocating its resources westward in response to its
+quick-flip from best-to-worst position for Europe-to-Asia flying.
+But as one airport falls, another rises.
+Elsewhere in the northern latitudes, Anchorage Airport might regain its strategic status
+for Europe-to-Asia flying.
+During the Cold War, Anchorage was home to one of the most cosmopolitan airports in the
+world as European and Asian airlines used it as refueling stop—avoiding Soviet airspace.
+Routing a flight from Tokyo to London via Anchorage does add about four hours to flight
+time, but it is essentially the fastest route when overflying Russia isn't an option.
+In fact, Japan Airlines flights on that route have already started flying over Anchorage,
+although without stopping for fuel since aircraft now have longer ranges than in decades past.
+However, the more fuel you add to an aircraft, the heavier it is, and therefore the more
+fuel you have to use to carry the added fuel weight.
+Essentially, as flight distance increases, average fuel burn per mile increases.
+Of course, packages, unlike passengers, don't care about stops, so cargo airlines have long
+used Anchorage as a refueling hub on flights between North America and Asia.
+Now, however, it's become advantageous to use Anchorage as a stop on their flights between
+Asia and Europe as well.
+When upon cargo airlines' route from Tokyo to Amsterdam used to fly non-stop in a quick
+11.5 hours, the closure of Russian airspace has now made that entirely infeasible.
+Instead, it flies northeast for 6.5 hours towards Anchorage, stops for refueling, then
+continues nine hours onward to Amsterdam.
+Compared to before, this requires four hours of additional flight time, but it's certainly
+better than the alternative.
+FedEx is route from Osaka to Paris, for example, normally flying a similar distance between
+similarly located cities, now flies 11.5 hours first to Dubai, then 7.5 to Paris—19
+hours of flying for a route that previously took less than 12.
+If these airspace closures prolong, the airline might opt to route the flight through Anchorage—an
+itinerary that could save them two hours over Dubai.
+FedEx and UPS already have major operations at Anchorage, so it's very possible they'll
+start to expand the model that's worked for Asia to North America flying to Europe
+as well in this new reality.
+Passenger airlines, however, are likely to take advantage of modern aircraft's incredible
+range to continue to run flights to Asia non-stop, even if they physically route over Alaska.
+However, one start-up airline is likely quietly celebrating the new inaccessibility of Russian
+skies.
+Northern Pacific Airways has announced its intention to start flights from Anchorage
+to both North America and Asia in 2022, with the goal of creating a connecting hub for
+Trans-Pacific travel.
+Essentially, they want to become the Iceland air of the Pacific.
+This start-up does, however, face an uphill battle.
+Transatlantic fares are some of the highest priced long-haul flights out there on a per-mile
+basis despite strong competition—the market can sustain it since it's connecting one
+wealthy area to another.
+Trans-Pacific fares, meanwhile, are some of the least expensive on a per-mile basis thanks
+to fierce competition from Asian airlines that enjoy low operating costs and strong
+state support.
+Therefore, Northern Pacific Airways is unlikely to be able to offer as strong a cost advantage
+relative to the market as Iceland air.
+However, especially for itineraries from the eastern half of North America or to the western
+parts of Asia, Anchorage has gone from a detour to directly on the route.
+Delta's flight from Detroit to Seoul, for example, used to take a 13-hour path over
+flying Russia, but is now having to route via a more southern 14-hour path over flying
+Anchorage.
+A passenger originating in Boston flying via Detroit to Seoul on this flight now has a
+roughly 19-hour itinerary.
+Northern Pacific, with eight hours from Boston to Anchorage, an hour for a connection, then
+nine hours onward to Seoul, will now be able to beat Delta by an hour—and even better,
+by operating two medium-length flights rather than one long and one short flight, their
+fuel burn per passenger will likely be lower, meaning they might be able to offer lower
+fares.
+Not only that, but they could now potentially expand their business model to Europe as well.
+A flight from Anchorage to London, Amsterdam, or Paris only takes nine hours, so coupled
+with a six-and-a-half-hour flight from Tokyo to Anchorage, this 17-and-a-half-hour total
+itinerary would only be two hours longer than the new, circuitous non-stops from western
+Europe to Asia, and would likely sell at a much lower cost.
+In comparison to an itinerary connecting from Paris to London to Tokyo, Northern Pacific's
+itinerary would likely be faster.
+Now, a European expansion for this as-yet-unlaunched airline is unlikely in the near-term, as their
+fleet will initially be composed of 757s that cannot confidently reach the major European
+airports, but if this new reality entrenches into the long-term, it's certainly an option.
+At the very least, though, this has raised the business model's status from one met
+with resounding skepticism among experts to one now considered potentially feasible.
+Now, the short of all these compounding implications is that, across the board really, from western
+travelers to all strata of Russian society, these changes are going to hurt.
+The decisions of a few, and the world's response to those decisions, have ensured
+we'll all feel the squeeze of closed airspace and aviation sanctions.
+Beyond the economics, though, February 24th, 2022 marks the end of a period of mostly sustained,
+mostly stable peace between world powers that allowed for unprecedented efficiency
+and standardization in the skies, and unmatched mobility and convenience for the traveler.
+The three decades of uniquely open and accessible airways are over.
+When, or more accurately if we're to return to such a time, at this point, is anyone's
+guess.
+If you're anything like me, you typically struggle to decide what to do at dinnertime.
+Should I have unhealthy freezer food, expensive take-out, or a time-consuming home-cooked
+meal?
+Of course, I no longer have to make this decision since, for the past two years, I've used
+HelloFresh.
+That's because it's simultaneously healthy, affordable, and quick.
+Each week, I select the meals I want on their app, then the next, a box arrives on my doorstep
+with all the ingredients needed in exactly the right quantities needed.
+This cuts out all your shopping time and a lot of your prep time so you get straight
+to the fun part—cooking.
+For example, I made this delicious buffalo spice chicken in under 30 minutes.
+Also, HelloFresh is a more sustainable choice.
+Unlike the grocery store, they offset all their emissions, their packaging is made out
+of recycled content, and a University of Michigan study found that the pre-portioned ingredients
+lower food waste by 25% compared to grocery shopping.
+All around, HelloFresh just makes mealtime better, and that's why I've been using
+them since long before they sponsored the channel.
+I recommend you try them out as well, which you can do with an insanely good deal when
+you click the button on screen or go to HelloFresh.com and use code WENDOWFOR16 for up to 16 free
+meals and three surprise gifts.

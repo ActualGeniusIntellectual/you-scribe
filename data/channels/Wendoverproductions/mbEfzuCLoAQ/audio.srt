@@ -1,0 +1,556 @@
+1
+00:00:00,000 --> 00:00:03,640
+Let's face it, trains kinda suck in America.
+
+2
+00:00:03,640 --> 00:00:08,380
+They're slow, expensive, and just don't exist in many parts of the country.
+
+3
+00:00:08,380 --> 00:00:12,280
+The simple reason for this is because the US is so sparsely populated.
+
+4
+00:00:12,280 --> 00:00:17,040
+Aside from here, here, and here, cities just aren't close enough together to make train
+
+5
+00:00:17,040 --> 00:00:20,040
+travel faster or cheaper than plane travel.
+
+6
+00:00:20,040 --> 00:00:23,920
+When cities are within 200 to 300 miles of each other, it's often faster to take a
+
+7
+00:00:23,920 --> 00:00:28,720
+train from downtown to downtown rather than driving to an airport, checking in, going
+
+8
+00:00:28,720 --> 00:00:31,400
+through security, flying, than driving downtown.
+
+9
+00:00:31,400 --> 00:00:35,900
+However, as I mentioned, there definitely are regions in the US with cities this distance
+
+10
+00:00:35,900 --> 00:00:38,800
+away from each other, so why do trains still suck?
+
+11
+00:00:38,800 --> 00:00:43,160
+The United States has the geography to support trains in certain areas and yet a train from
+
+12
+00:00:43,160 --> 00:00:49,540
+DC to New York costs at least $49 and takes 3 hours and 29 minutes, only 30 minutes less
+
+13
+00:00:49,540 --> 00:00:50,540
+than driving.
+
+14
+00:00:50,540 --> 00:00:55,980
+A train from Rennes to Paris, France, a very similar distance, costs 27 euros, the equivalent
+
+15
+00:00:55,980 --> 00:00:59,780
+of $30, and takes only 2 hours and 4 minutes.
+
+16
+00:00:59,780 --> 00:01:05,020
+The US does have one high speed train, the Acela Express, but it costs at least $120
+
+17
+00:01:05,020 --> 00:01:09,380
+for a ride from DC to New York and still takes 2 hours and 50 minutes.
+
+18
+00:01:09,380 --> 00:01:14,700
+Turkey, Poland, and Uzbekistan all have trains that travel faster than America's fastest
+
+19
+00:01:14,700 --> 00:01:15,700
+train.
+
+20
+00:01:15,700 --> 00:01:19,560
+Alright, so understanding the whole issue requires a bit of background knowledge.
+
+21
+00:01:19,560 --> 00:01:23,660
+Back in their heyday, railroads in America were… amazing.
+
+22
+00:01:23,660 --> 00:01:30,800
+We built our first in 1826 and had a transcontinental line by 1869, only 19 years after California
+
+23
+00:01:30,800 --> 00:01:32,480
+even became a state.
+
+24
+00:01:32,480 --> 00:01:37,020
+Trains traveled almost everywhere and most historians agree that the development of railroads
+
+25
+00:01:37,020 --> 00:01:42,520
+was an absolutely crucial catalyst to the American industrialization period from 1843
+
+26
+00:01:42,520 --> 00:01:43,520
+to 1860.
+
+27
+00:01:43,520 --> 00:01:48,040
+They even prompted the US to create one of the world's first standardized time systems
+
+28
+00:01:48,040 --> 00:01:51,560
+as discussed in an old video of mine which you can find here.
+
+29
+00:01:51,560 --> 00:01:55,060
+While passenger trains could sometimes be profitable, freight services were where the
+
+30
+00:01:55,060 --> 00:01:56,280
+real money was.
+
+31
+00:01:56,280 --> 00:02:00,540
+So most rail companies basically ran passenger services as a mobile advertisement for their
+
+32
+00:02:00,540 --> 00:02:04,640
+freight services to the executives that would decide which company to ship goods on.
+
+33
+00:02:04,640 --> 00:02:08,180
+Trains were, after all, the most glamorous and efficient way to travel.
+
+34
+00:02:08,180 --> 00:02:12,820
+However, as cars became popular in the 30s and planes became popular in the 50s, there
+
+35
+00:02:12,820 --> 00:02:16,940
+was little purpose anymore to set up passenger services as advertisements to executives who
+
+36
+00:02:16,940 --> 00:02:20,000
+would be taking the more trendy car or plane instead.
+
+37
+00:02:20,000 --> 00:02:23,880
+At this point, the few profitable passenger services only made money because of their
+
+38
+00:02:23,880 --> 00:02:26,540
+contracts with the US postal service.
+
+39
+00:02:26,540 --> 00:02:30,320
+Most trains would have one car that served as the railroad post office, an office on
+
+40
+00:02:30,320 --> 00:02:34,660
+wheels where workers would sort letters in route to the destination to save time.
+
+41
+00:02:34,660 --> 00:02:39,420
+In the 1960s, mail sorting was mechanized, trucks and planes began to transport letters,
+
+42
+00:02:39,420 --> 00:02:42,100
+and railroad post offices were discontinued.
+
+43
+00:02:42,100 --> 00:02:45,600
+It became essentially impossible to make money with a passenger railroad.
+
+44
+00:02:45,600 --> 00:02:49,960
+By the end of the 1960s, the only thing keeping the few passenger routes alive was illegal
+
+45
+00:02:49,960 --> 00:02:54,000
+obligation by the Interstate Commerce Commission for the train companies to keep running those
+
+46
+00:02:54,000 --> 00:02:55,000
+routes.
+
+47
+00:02:55,000 --> 00:02:56,740
+But then Amtrak came along.
+
+48
+00:02:56,740 --> 00:03:01,540
+In 1970, President Nixon signed into law the Rail Passenger Service Act which formed the
+
+49
+00:03:01,540 --> 00:03:06,160
+federally funded National Rail Company that promised to save and make great again passenger
+
+50
+00:03:06,160 --> 00:03:07,760
+rail travel.
+
+51
+00:03:07,760 --> 00:03:09,040
+Except it didn't.
+
+52
+00:03:09,040 --> 00:03:15,240
+In the United States, a nation of 319 million people, Amtrak operates a mere 300 train journeys
+
+53
+00:03:15,240 --> 00:03:16,240
+a day.
+
+54
+00:03:16,240 --> 00:03:22,200
+While in France, a nation of 66 million people, the Société Nationale de Chemin de Fer français,
+
+55
+00:03:22,200 --> 00:03:29,440
+also known as SNCF, operates 14,000 trips every single day, 800 of which are high speed.
+
+56
+00:03:29,440 --> 00:03:32,520
+One common criticism of Amtrak is its unreliability.
+
+57
+00:03:32,520 --> 00:03:36,600
+On average, only 72% of Amtrak's trains arrive on time.
+
+58
+00:03:36,600 --> 00:03:41,040
+The California-Zephyr route from Chicago to San Francisco even arrived on time a paltry
+
+59
+00:03:41,040 --> 00:03:44,840
+31% in June of 2016.
+
+60
+00:03:44,840 --> 00:03:47,080
+So what does Amtrak blame the delays on?
+
+61
+00:03:47,080 --> 00:03:48,120
+Freight trains.
+
+62
+00:03:48,120 --> 00:03:54,600
+You see, Amtrak only owns 730 miles of the 21,300 miles of track it operates on.
+
+63
+00:03:54,600 --> 00:03:59,240
+On the California-Zephyr route, Union Pacific owns about half the track and BNSF owns the
+
+64
+00:03:59,240 --> 00:04:00,320
+other half.
+
+65
+00:04:00,320 --> 00:04:04,900
+According to Amtrak, only 1.4% of all delays on this route were their fault.
+
+66
+00:04:04,900 --> 00:04:09,800
+The other 98.6% were reportedly the fault of the rail companies who owned the track.
+
+67
+00:04:09,800 --> 00:04:14,640
+BNSF will naturally lend priority to their own trains on their tracks instead of Amtrak's
+
+68
+00:04:14,640 --> 00:04:18,040
+so Amtrak trains are often told to wait to let a freight train pass.
+
+69
+00:04:18,040 --> 00:04:22,220
+After all, it's not like Amtrak can go and use competing tracks so there's little incentive
+
+70
+00:04:22,220 --> 00:04:24,480
+to give priority to passenger trains.
+
+71
+00:04:24,480 --> 00:04:27,200
+Most rail operators in Europe don't have this problem.
+
+72
+00:04:27,200 --> 00:04:31,480
+In France, for example, the National Rail Company owns all the track so priority can
+
+73
+00:04:31,480 --> 00:04:33,200
+be given to passenger trains.
+
+74
+00:04:33,200 --> 00:04:39,320
+Also, only 8% of freight in Europe is moved by rail compared to 38% in the United States
+
+75
+00:04:39,320 --> 00:04:42,320
+so there are far fewer freight trains congesting the tracks.
+
+76
+00:04:42,320 --> 00:04:46,020
+Since Amtrak is so young, they never got the opportunity to build their own tracks.
+
+77
+00:04:46,020 --> 00:04:49,620
+The Northeast Corridor, which is absolutely perfectly shaped to have a high-speed rail
+
+78
+00:04:49,620 --> 00:04:54,240
+network with five major urban centers located on a straight line, built up its rail system
+
+79
+00:04:54,240 --> 00:04:58,640
+in the 1800s and the railroad had such an impact that towns and people flocked to the
+
+80
+00:04:58,640 --> 00:04:59,780
+area around it.
+
+81
+00:04:59,780 --> 00:05:04,480
+For that reason, this area is incredibly densely populated and there truly is no open space
+
+82
+00:05:04,480 --> 00:05:05,720
+between the cities.
+
+83
+00:05:05,720 --> 00:05:09,880
+Consequentially, it would be unbelievably expensive to raze a bunch of houses and build
+
+84
+00:05:09,880 --> 00:05:13,360
+a new, straighter route of high-speed tracks from DC to New York.
+
+85
+00:05:13,360 --> 00:05:18,240
+Amtrak says it would cost an estimated $151 billion dollars to build tracks up to the
+
+86
+00:05:18,240 --> 00:05:21,760
+spec of France's high-speed rail network in the Northeast Corridor.
+
+87
+00:05:21,760 --> 00:05:25,720
+Since the Northeast Regional, the train running between DC, Baltimore, Philadelphia, New York
+
+88
+00:05:25,720 --> 00:05:29,320
+and Boston, is one of the few routes that makes money, there's little incentive for
+
+89
+00:05:29,320 --> 00:05:32,520
+Amtrak to sink a lot of funds into upgrading the tracks.
+
+90
+00:05:32,520 --> 00:05:36,600
+Additionally, American cities just aren't built like many European cities.
+
+91
+00:05:36,640 --> 00:05:41,160
+With population densities averaging lower than 15,000 people per square mile, cities
+
+92
+00:05:41,160 --> 00:05:45,040
+in the United States are far less walkable than their European counterparts which can
+
+93
+00:05:45,040 --> 00:05:48,320
+have as many as 55,000 people per square mile.
+
+94
+00:05:48,320 --> 00:05:53,240
+Due to their ancient roots, European cities naturally develop compact urban cores since
+
+95
+00:05:53,240 --> 00:05:56,760
+for all but the rich there was no option but to walk everywhere.
+
+96
+00:05:56,760 --> 00:06:00,260
+Given that, it's much easier to walk to your destination from a train station in a
+
+97
+00:06:00,260 --> 00:06:02,800
+European city than it is in an American city.
+
+98
+00:06:02,800 --> 00:06:06,320
+It's believed that since most Americans have to take another form of transport to
+
+99
+00:06:06,360 --> 00:06:10,240
+get to their destination after taking the train in America, they see the train as not
+
+100
+00:06:10,240 --> 00:06:14,220
+that much more convenient than the plane where you also have to take another form of transport
+
+101
+00:06:14,220 --> 00:06:16,080
+to get to your final destination.
+
+102
+00:06:16,080 --> 00:06:17,400
+So what's the solution?
+
+103
+00:06:17,400 --> 00:06:19,080
+How should America fix its rails?
+
+104
+00:06:19,080 --> 00:06:22,960
+Well, unfortunately, we'll probably never get a big network of fancy high-speed lines
+
+105
+00:06:22,960 --> 00:06:24,600
+like in France or Germany.
+
+106
+00:06:24,600 --> 00:06:28,640
+There are dozens of plans in the US to build high-speed rail lines, however, few of them
+
+107
+00:06:28,640 --> 00:06:30,460
+will likely come to fruition.
+
+108
+00:06:30,460 --> 00:06:34,260
+There is a high-speed rail line currently being built between Miami and Orlando by a
+
+109
+00:06:34,300 --> 00:06:36,460
+private company called All Aboard Florida.
+
+110
+00:06:36,460 --> 00:06:41,060
+However, with a top speed of 125 miles per hour, the service will only be slightly faster
+
+111
+00:06:41,060 --> 00:06:44,300
+than driving due to speed restrictions on many parts of the route.
+
+112
+00:06:44,300 --> 00:06:48,040
+The state of California is also building a high-speed rail line between San Francisco
+
+113
+00:06:48,040 --> 00:06:52,460
+and Anaheim with an estimated transit time of 2 hours and 40 minutes, which would be
+
+114
+00:06:52,460 --> 00:06:55,220
+less than half the driving time between the two cities.
+
+115
+00:06:55,220 --> 00:06:58,820
+Despite construction already beginning, phase one of the project isn't estimated to be
+
+116
+00:06:58,820 --> 00:07:03,060
+completed until 2029 and public support is diminishing.
+
+117
+00:07:03,060 --> 00:07:06,580
+Many have proposed that America shouldn't be concerned with building a flashy high-speed
+
+118
+00:07:06,580 --> 00:07:07,580
+network.
+
+119
+00:07:07,580 --> 00:07:12,740
+Amtrak's $151 billion proposal for a true high-speed Northeast Corridor system divides
+
+120
+00:07:12,740 --> 00:07:19,260
+down to $320 million per mile or $60,000 per foot of high-speed track.
+
+121
+00:07:19,260 --> 00:07:22,940
+What would be far more efficient would be to upgrade current track to allow trains to
+
+122
+00:07:22,940 --> 00:07:24,760
+operate at their top speeds.
+
+123
+00:07:24,760 --> 00:07:29,740
+On the Northeast Regional Route, trains reach a top speed of 125 miles per hour briefly,
+
+124
+00:07:29,740 --> 00:07:33,460
+and if they operated at that speed for all of the DC to New York leg, the trip would
+
+125
+00:07:33,460 --> 00:07:35,920
+take only slightly longer than 2 hours.
+
+126
+00:07:35,920 --> 00:07:39,660
+Small improvements can cut minutes from the journey time, which can add up to hours.
+
+127
+00:07:39,660 --> 00:07:43,720
+Unfortunately, Amtrak is stuck in a rut where they have no money to improve anything, which
+
+128
+00:07:43,720 --> 00:07:47,420
+causes low ridership which worsens the problem of no money.
+
+129
+00:07:47,420 --> 00:07:52,340
+SNCF in France is so great because taxpayers pay for about half of the operating cost of
+
+130
+00:07:52,340 --> 00:07:56,620
+every journey, while Amtrak is designed to be a for-profit yet government-subsidized
+
+131
+00:07:56,620 --> 00:07:57,900
+corporation.
+
+132
+00:07:57,900 --> 00:08:01,980
+Right now, Amtrak is kind of like the neglected little brother in the U.S. transit family
+
+133
+00:08:01,980 --> 00:08:06,140
+who doesn't get any money, and until that changes, we're still going to have our slow,
+
+134
+00:08:06,140 --> 00:08:08,020
+expensive trains.
+
+135
+00:08:08,020 --> 00:08:09,220
+Thank you for watching.
+
+136
+00:08:09,220 --> 00:08:12,040
+Make sure to click here to subscribe to Wendover Productions.
+
+137
+00:08:12,040 --> 00:08:16,680
+You can also follow me on Twitter at WendoverPro for behind-the-scenes updates between videos.
+
+138
+00:08:16,680 --> 00:08:20,580
+Aside from that, make sure to check out my last video on maritime law here.
+
+139
+00:08:20,580 --> 00:08:23,940
+Thanks again, and I'll see you soon for another Wendover Productions video.
+

@@ -1,0 +1,190 @@
+This video was made possible by Brilliant.
+Learn complex topics simply for 20% off by being one of the first 200 to sign up at brilliant.org.
+This is one block, in one city, in one state, of the United States.
+The US Constitution's Article I, Section 2 prescribes something that must happen, on
+this block.
+Representatives and direct taxes shall be apportioned among the several states which
+may be included within this union according to their respective numbers.
+The actual enumeration shall be made within three years after the first meeting of the
+Congress of the United States, and within every subsequent term of ten years, in such
+a manner as they shall by law direct.
+What that means is that every ten years, the US government must determine how many people
+live on this block, in addition to how many people live on every other block in every
+other city in every other state and territory of the United States.
+They must determine the population of the country—a straightforward task, but one
+that thousands of US Census Bureau employees spend a decade preparing for and a year and
+$15.6 billion executing.
+It turns out that counting more than 300 million people isn't exactly easy.
+Instead of looking at how the census counts every one of those hundreds of millions, let's
+rather look at how they count the couple dozen people living on this one city block.
+The Bureau started preparing for the 2020 census on November 1st, 2011.
+They have a staff of about 4,000 who plan and coordinate each census, along with their
+other programs, and then, every ten years, when it comes time to actually conduct the
+census, they employ more than half a million other individuals temporarily.
+The 4,000 full-time employees, though, spend much of the decade forming their operational
+plan, the first draft of which was done in late 2015.
+They then spend the next three years refining that.
+A significant element of this plan includes deciding where the census's field offices
+will be located.
+You see, the census divides the country up into six regions which are headquartered with
+permanent offices in Los Angeles, Denver, Chicago, Atlanta, Philadelphia, and New York
+City.
+Then, within those regions, the census opens up 248 temporary field offices to conduct
+local operations.
+These field offices are distributed based on density so Colorado, for example, only
+has four, while New York, on the other hand, has 21.
+Each of these offices has to hire hundreds or thousands of enumerators to go out into
+the streets and conduct the census.
+Finding half a million temporary workers is of course incredibly difficult, and it's
+even more difficult for the 2020 census given that the country currently has the lowest
+unemployment rate in recent history.
+In order to attract those half million people, they do have to account for the drastically
+different wage conditions across the country.
+Workers in Mesa County, Colorado, where our block is located, for example, are paid $16
+per hour which, for this area, is a pretty decent hourly wage, especially for a low-skilled
+job requiring few qualifications.
+Of course, if you offer that pay in New York City, on the other hand, it would be far less
+attractive so the pay there is up to between $25 and $28 an hour.
+Despite this decent pay, though, the census still always has enormous difficulty filling
+all their positions so they spend years teeing up all these workers.
+The first of the temporary hires for the 2020 census happened in mid-2018.
+That's because, before the census can go and ask every household on this block how
+many people live there, they have to figure out where each of these households is.
+In the past ten years, new houses could have been built, structures could have been subdivided,
+and plenty more could have changed, so this is a crucial step for accuracy.
+In addition, if a homeless person is living in this alley, if someone's living in a
+motor home in someone's driveway, or if there are any other abnormal residences, this
+too needs to be counted.
+Previously, the census would have sent someone to walk this block, in addition to every other
+block in the country, and mark down where each residence is, which clearly took an enormous
+amount of person hours.
+With the 2020 census, though, they're shifting technique to use more and more satellite imagery
+to identify residences.
+Of course, that's not perfect.
+For example, it's hard to tell if this is one residence or two, so for any areas that
+they're not sure about, they'll still send people to check in person.
+At the conclusion of this process, at least in theory, they should have a list of every
+single place where people live in the US.
+Also, in 2018, the Census Bureau had to submit to Congress the questions they planned to
+ask the American public.
+The census is incredibly simple—after all, it has to be if they expect everyone to answer
+it.
+It asks four background questions, five about the primary resident, and seven about every
+other resident of a given household.
+Despite this, the Bureau spends an enormous amount of time debating how to ask these questions.
+Question selection is so complex that they published a 98-page document explaining how
+they selected the 2020 questions and their wording.
+For example, in question three, for the non-primary residents, they added specification on whether
+their relation to the primary resident was as a same-sex or opposite-sex couple.
+In the past, there was the option to mark the relation as a spouse or unmarried partner,
+but there was no distinction between same-sex or opposite-sex.
+They did, however, calculate what percentage of couples were same-sex based on how they
+responded to the question asking if they were male or female.
+There was an issue with that, though.
+Say there's a married couple living in this house consisting of one man and one woman.
+If the woman accidentally marked her sex as male and also marked her relationship as a
+spouse, they would be counted as a same-sex married couple.
+Given that the overall proportion of census-surveyed couples who are same-sex is small, these mistakes
+could significantly skew the data.
+With the redesign of this question, it acts as a failsafe so that even if the woman in
+the house marks her sex as male, they'll still be counted as an opposite-sex couple.
+These are the tiny details the Bureau has to think about for each and every question
+and change.
+They have to think about how to best structure them to get the best possible accuracy.
+Once they have their questions, one of the final things the census needs to figure out
+is how they're actually going to ask for responses.
+Our block is located in Grand Junction, Colorado, which is a small city, so it, along with most
+of the country, simply receives a mailed invitation instructing the recipient to complete the
+census online.
+This works well for most of this relatively urban area, but not for all of it.
+For example, residences in this small section of Grand Junction will receive both an invitation
+to complete the census online and a paper census form.
+That's because it's home to a number of assisted living facilities and therefore a
+number of older individuals who are far less likely to respond online.
+About 22% of the country is classified by the census as areas where individuals are
+less likely to respond online and therefore receive paper census forms as well.
+There are, though, areas where both of these options won't work.
+Nearby Eagle County, for example, has a population where one-third are of Hispanic origin and
+plenty of that population has limited or no English language skills.
+Therefore, residences here receive a bilingual invitation to complete the census online.
+There's then one more category, used in areas like Costilla County where there is
+a large Spanish population and limited internet access, where bilingual paper census forms
+are sent out.
+The census classifies the entirety of the country into one of these four categories
+in order to have the best possible chance of getting an answer.
+Once offices are opened, employees are hired, residences are logged, questions are written,
+and letters are planned, it's finally time for the census to start in earnest.
+The first census responses cannot happen until 2020 starts, and all responses must be in
+by the time 2020 finishes.
+They have exactly 366 days to count every single person in the US and deliver that count
+to the US Congress.
+Our block, in Grand Junction, is far from the first place to be counted, though.
+That happens in Tuksuk Bay, Alaska.
+Census workers arrive there in late January, 2020.
+Tuksuk Bay, along with 200 or so other rural Alaskan towns, are exceptions in the overall
+timeline of the census count as, in midwinter, when the water and ground are frozen, one
+can get around relatively easily on snowmobile whereas, later on, when most of the country's
+census counting is done, it's very tough to travel when the ice and snow are melting.
+Down in the lower 48, the seasons are far less of a concern so in mid-March, 95% of
+American households receive a mailed invitation to fill in the census online.
+That includes our block, but if the earlier investigation found someone living in a mobile
+home in someone's driveway there, they would likely get their invitation hand-delivered.
+Mobile homes, residences in areas with recent natural disasters, or households that use
+PO boxes, don't get mail delivered to their door so that's when the census uses this
+hand-delivery technique which is used in about 4% of cases.
+A small other proportion, less than 1%, is visited and surveyed in-person from the first
+instance, mostly in the most remote areas of Alaska and Maine, in addition to on some
+American Indian reservations.
+On our block, like most others, if households don't respond to the first invitation, they'll
+get a reminder letter, then a reminder postcard, then a reminder letter with a paper questionnaire,
+then one more reminder postcard before the census gives up on the household responding
+by internet, mail, or phone.
+Typically, about a third of the houses on this block will not have responded on time,
+even though it's a legal requirement.
+Non-respondent residences on our block will get a visit from an enumerator, but they might
+not be the first to get visited.
+In-person visits are prioritized strategically.
+For example, knowing that college students will start to move out from their dorms and
+student housing starting in mid-May, they send enumerators to non-respondents at college
+campuses first.
+Each of our houses will get three visits, then if they don't respond on the fourth,
+they'll also try to ask neighbors if they know the details of the residence of the given
+household.
+They'll try both the household and the neighbors again for the fifth and sixth try, but then,
+if the household doesn't respond after five mailings, six visits, and three knocks on
+the neighbors' doors, then the census finally decides that the residence must be uninhabited.
+Of course, in addition to counting everyone in every household, they'll also have to
+count people who don't live in a household.
+For example, to count homeless people, the census will set up at shelters, soup kitchens,
+food vans, in addition to just going out into the streets.
+Another challenge is counting people who live and work on American ships who don't have
+a permanent residence.
+The census runs a special program for this, the Maritime and Military Vessel Enumeration,
+where ships are sent census kits including customized forms with different questions
+targeted at seafarers.
+These are all then sent back to the census to be included in the count, and a variety
+of techniques are used to assure that nobody is double-counted.
+Throughout the second half of 2020, in-person visits will finish up, special operations
+will conclude, and the census will get into a huge number-crunching operation to figure
+out, with as much accuracy as possible, what the final count is.
+They not only have to give that total number, but they also have to break it down by state,
+by county, by town, by race, by age, by relationship status, and by much, much more.
+It takes some time, but there's a very, very specific deadline—December 31st, 2020.
+The US Congress needs to know the count by then in order to reallocate seats in the House
+of Representatives proportionally to the population of the states.
+In the 2010 census, 308,745,538 people were counted as living in the US.
+In 2020, the number is expected to be around 330 million, but, to know for sure, we'll
+just have to wait for December 31st, 2020.
+One of the big jobs at the Census Bureau is as a math statistician and for that, according
+to their job listing, you need to be adept at things like number theory, statistics,
+probability, algebra, and calculus—all of which you can learn or brush up on with Brilliant.
+Each of their courses for each of those subjects is interactive, wonderfully designed, and
+helps you learn complex topics like calculus, not through rote memorization, but rather
+through breaking down the concepts into small, intuitive chunks and then building it all
+back together.
+This is how you can truly understand calculus or number theory or statistics, rather than
+just learning the process to solve problems.
+If math isn't your thing, they also have dozens of amazing other courses on subjects
+like scientific thinking, quantum mechanics, computer science, and plenty more.
+To support Wendover Productions and learn more about Brilliant, head over to brilliant.org-slash-Wendover
+and, the first 200 to sign up there will also get 20% off.

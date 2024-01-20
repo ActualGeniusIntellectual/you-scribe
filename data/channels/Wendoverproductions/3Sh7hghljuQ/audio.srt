@@ -1,0 +1,772 @@
+1
+00:00:00,000 --> 00:00:02,860
+This video was made possible by CuriosityStream.
+
+2
+00:00:02,860 --> 00:00:06,200
+When you sign up at the link in the description you'll also get access to Nebula, the streaming
+
+3
+00:00:06,200 --> 00:00:09,240
+video platform that Wendover is a part of.
+
+4
+00:00:09,240 --> 00:00:15,760
+The Wuhan coronavirus began, like all new viruses, with a remarkably ordinary moment.
+
+5
+00:00:15,760 --> 00:00:22,680
+In late November, 2019, someone—it is not yet known who—ate a wild animal that, by
+
+6
+00:00:22,680 --> 00:00:27,720
+chance, carried the novel coronavirus and days later, started to feel the symptoms of
+
+7
+00:00:27,720 --> 00:00:30,840
+what initially seemed like a bad cold.
+
+8
+00:00:30,840 --> 00:00:35,500
+From there, more individuals were infected—at first through the consumption of other wild
+
+9
+00:00:35,500 --> 00:00:38,960
+animals, but later through direct human-to-human transmission.
+
+10
+00:00:38,960 --> 00:00:45,100
+For the entire month of December, the virus was there, in Wuhan, spreading, but nobody
+
+11
+00:00:45,100 --> 00:00:46,100
+knew it.
+
+12
+00:00:46,100 --> 00:00:50,480
+The cases, presenting as pneumonia, were at first considered to be caused by any one of
+
+13
+00:00:50,480 --> 00:00:55,240
+the countless other viruses that can create such symptoms, but eventually, the escalation
+
+14
+00:00:55,240 --> 00:01:00,300
+in cases, and the fact that almost all the first patients had bought food at one particular
+
+15
+00:01:00,300 --> 00:01:04,900
+wild animal market, caught the Wuhan city government's attention.
+
+16
+00:01:04,900 --> 00:01:09,280
+The first official confirmation that something was up came on New Year's Eve, December
+
+17
+00:01:09,280 --> 00:01:13,520
+31st, when the Municipal Health Commission published a press release acknowledging the
+
+18
+00:01:13,520 --> 00:01:17,320
+situation, over a month after the first transmission.
+
+19
+00:01:17,320 --> 00:01:23,120
+At the time, this was small local news—only a few dozen cases of pneumonia in a city of
+
+20
+00:01:23,120 --> 00:01:26,280
+millions in a country of a billion.
+
+21
+00:01:26,280 --> 00:01:30,660
+But then came the news that this was not one of the many pre-existing pneumonia-causing
+
+22
+00:01:30,660 --> 00:01:32,200
+viruses.
+
+23
+00:01:32,200 --> 00:01:34,760
+This was something new.
+
+24
+00:01:34,760 --> 00:01:39,360
+Western media first reported on the novel coronavirus around January 8th.
+
+25
+00:01:39,360 --> 00:01:43,980
+The New York Times, forebodingly, wrote, there is no evidence that the new virus is readily
+
+26
+00:01:43,980 --> 00:01:48,400
+spread by humans and it has not been tied to any deaths.
+
+27
+00:01:48,400 --> 00:01:49,880
+That would soon change.
+
+28
+00:01:49,880 --> 00:01:54,480
+On January 21st, when the World Health Organization started tracking the outbreak, there were
+
+29
+00:01:54,480 --> 00:01:56,960
+282 cases.
+
+30
+00:01:56,960 --> 00:01:59,360
+The next day, 314.
+
+31
+00:01:59,360 --> 00:02:01,480
+The next, 581.
+
+32
+00:02:01,480 --> 00:02:03,920
+Then 846.
+
+33
+00:02:03,920 --> 00:02:06,440
+Then 1,320.
+
+34
+00:02:06,440 --> 00:02:08,560
+Then 2,014.
+
+35
+00:02:08,560 --> 00:02:13,720
+And by the start of the week of January 26th, it was clear that this would not be a quick
+
+36
+00:02:13,720 --> 00:02:15,440
+and painless virus.
+
+37
+00:02:15,440 --> 00:02:18,960
+This would be one for the history books, and it was going to get a lot worse before it
+
+38
+00:02:19,040 --> 00:02:21,280
+got any better.
+
+39
+00:02:21,280 --> 00:02:24,040
+Drastic circumstances called for drastic action.
+
+40
+00:02:24,040 --> 00:02:28,840
+It was clear, given the trends, that Wuhan's hospitals would soon be overwhelmed by patients
+
+41
+00:02:28,840 --> 00:02:34,200
+and, in the case of highly infectious viruses like coronavirus, that makes a bad situation
+
+42
+00:02:34,200 --> 00:02:38,960
+worse as infected individuals will try to recover at home, where the virus can more
+
+43
+00:02:38,960 --> 00:02:40,200
+easily spread.
+
+44
+00:02:40,200 --> 00:02:45,920
+Therefore, the decision was made, on January 23rd, to build a brand new facility capable
+
+45
+00:02:45,920 --> 00:02:50,520
+of treating 1,000 patients at once—Woshenshun Hospital.
+
+46
+00:02:50,520 --> 00:02:56,480
+It was announced that this would be done, fully constructed, by February 2nd, just ten
+
+47
+00:02:56,480 --> 00:02:58,560
+days later.
+
+48
+00:02:58,560 --> 00:03:01,560
+China has experience with such a feat.
+
+49
+00:03:01,560 --> 00:03:07,280
+In 2003, the country suffered an outbreak of severe acute respiratory syndrome, or SARS,
+
+50
+00:03:07,280 --> 00:03:10,160
+which is also caused by a form of coronavirus.
+
+51
+00:03:10,160 --> 00:03:15,080
+Much like with the novel coronavirus, hospitals were overwhelmed and many had to turn away
+
+52
+00:03:15,080 --> 00:03:16,080
+from this.
+
+53
+00:03:16,080 --> 00:03:19,780
+In response, the government decided to build a new hospital.
+
+54
+00:03:19,780 --> 00:03:25,100
+Over six days, 7,000 construction workers brought the Xiaotongshan Hospital into reality
+
+55
+00:03:25,100 --> 00:03:29,560
+and it quickly began accepting patients and relieving the overstressed medical system.
+
+56
+00:03:29,560 --> 00:03:33,800
+Once the outbreak settled down, the Xiaotongshan Hospital was hailed as a massive success by
+
+57
+00:03:33,800 --> 00:03:37,120
+both the country itself and the World Health Organization.
+
+58
+00:03:37,120 --> 00:03:39,200
+The statistics speak for themselves.
+
+59
+00:03:39,200 --> 00:03:42,760
+Overall, SARS had a fatality rate of 9.6%.
+
+60
+00:03:42,760 --> 00:03:49,360
+At the Xiaotongshan Hospital, just 1.2% of patients died and not a single staff member
+
+61
+00:03:49,360 --> 00:03:50,360
+was infected.
+
+62
+00:03:50,360 --> 00:03:55,060
+It's no wonder why China wanted to replicate this and therefore Xiaotongshan was the model
+
+63
+00:03:55,060 --> 00:03:59,200
+for the new coronavirus hospital, but this time would be different.
+
+64
+00:03:59,200 --> 00:04:04,320
+The 2003 hospital began construction over six months after the beginning of the outbreak.
+
+65
+00:04:04,320 --> 00:04:09,320
+The 2020 hospital started construction less than two months after the first case and just
+
+66
+00:04:09,320 --> 00:04:12,960
+days after the seriousness of the outbreak became clear.
+
+67
+00:04:12,960 --> 00:04:16,020
+There was far less time for planning and design.
+
+68
+00:04:16,020 --> 00:04:20,180
+The orders came and then it was immediately time to start.
+
+69
+00:04:20,180 --> 00:04:23,280
+Step one was finding a place to put the hospital.
+
+70
+00:04:23,280 --> 00:04:28,220
+The location selected was previously just an open field about 14 miles or 22 kilometers
+
+71
+00:04:28,220 --> 00:04:29,680
+from central Wuhan.
+
+72
+00:04:29,680 --> 00:04:34,100
+This kept it away from the dense urban core, where further transmission might be easier,
+
+73
+00:04:34,100 --> 00:04:39,140
+and the field in question was also right off a large pre-existing road which made access
+
+74
+00:04:39,140 --> 00:04:40,340
+easy.
+
+75
+00:04:40,340 --> 00:04:44,740
+That road was quickly shut down and turned into, essentially, a parking lot and staging
+
+76
+00:04:44,740 --> 00:04:46,240
+area for the project.
+
+77
+00:04:46,240 --> 00:04:50,260
+The contract for this project was given to China Construction Third Engineering Bureau
+
+78
+00:04:50,260 --> 00:04:55,380
+Company—a subsidiary of the state-owned China State Construction Engineering Corporation.
+
+79
+00:04:55,380 --> 00:04:59,400
+By revenue, this is the world's largest construction company and it has experience
+
+80
+00:04:59,400 --> 00:05:04,280
+in enormous projects like Beijing's new airport, Egypt's new capital city, and Tesla's
+
+81
+00:05:04,280 --> 00:05:05,780
+Shanghai Gigafactory.
+
+82
+00:05:05,780 --> 00:05:09,000
+If anyone was going to pull this off, it was them.
+
+83
+00:05:09,000 --> 00:05:13,980
+To begin construction in earnest, they first needed to prepare the selected site.
+
+84
+00:05:13,980 --> 00:05:18,480
+That involved, first, cutting down all the trees and shrubbery and then perfectly levelling
+
+85
+00:05:18,480 --> 00:05:19,680
+the ground.
+
+86
+00:05:19,680 --> 00:05:25,440
+Out of the 10-day construction timeline, this took longer than one might think—about 48
+
+87
+00:05:25,440 --> 00:05:26,440
+hours.
+
+88
+00:05:26,480 --> 00:05:29,920
+This was due in part to the fact that the project was significantly understaffed in
+
+89
+00:05:29,920 --> 00:05:34,260
+its first few days as they scrambled to find workers, especially as its start coincided
+
+90
+00:05:34,260 --> 00:05:36,040
+with Chinese New Year's.
+
+91
+00:05:36,040 --> 00:05:40,040
+Once the land was leveled, though, they moved on to constructing the building foundations
+
+92
+00:05:40,040 --> 00:05:42,340
+by Sunday, January 26th.
+
+93
+00:05:42,340 --> 00:05:44,960
+For this, they used a layered system.
+
+94
+00:05:44,960 --> 00:05:49,640
+On the bottom, an 8 inch or 20 centimeter layer of sand was placed, then what's referred
+
+95
+00:05:49,640 --> 00:05:55,020
+to as a geotextile layer, a form of fabric, then a layer of waterproof plastic, then another
+
+96
+00:05:55,020 --> 00:05:58,520
+geotextile layer, then another layer of sand.
+
+97
+00:05:58,520 --> 00:06:02,900
+On that, they then poured concrete, which dried over a few days.
+
+98
+00:06:02,900 --> 00:06:09,040
+But then came the truly impressive element—constructing the buildings themselves in a matter of days.
+
+99
+00:06:09,040 --> 00:06:13,100
+What made this possible was the use of prefabricated elements.
+
+100
+00:06:13,100 --> 00:06:16,260
+Modular construction such as this has been on the rise recently.
+
+101
+00:06:16,260 --> 00:06:21,820
+It's now a well-established technique for the construction of buildings large and small.
+
+102
+00:06:21,820 --> 00:06:26,860
+The idea is, simply, that somewhere off-site a number of identical building elements are
+
+103
+00:06:26,860 --> 00:06:27,860
+built.
+
+104
+00:06:27,860 --> 00:06:31,540
+Then, they're shipped to the construction site and put together.
+
+105
+00:06:31,540 --> 00:06:34,300
+This has plenty of advantages.
+
+106
+00:06:34,300 --> 00:06:39,000
+First and foremost, the use of identical elements, built in a factory system, to construct a
+
+107
+00:06:39,000 --> 00:06:42,460
+larger building lowers costs through economies of scale.
+
+108
+00:06:42,460 --> 00:06:46,800
+Then, when you actually get to putting the building together, on-site construction time
+
+109
+00:06:46,800 --> 00:06:50,520
+is significantly less, which once again lowers cost.
+
+110
+00:06:50,520 --> 00:06:56,280
+In this case, though, cost was not the primary concern—speed was—and modular construction
+
+111
+00:06:56,280 --> 00:06:59,080
+is the fastest way to build.
+
+112
+00:06:59,080 --> 00:07:03,680
+Most of the site used a type of prefabricated modular construction common with temporary
+
+113
+00:07:03,680 --> 00:07:04,680
+buildings.
+
+114
+00:07:04,680 --> 00:07:08,240
+While it's not clear which company produced the prefabricated components, it is clear
+
+115
+00:07:08,240 --> 00:07:10,840
+that they existed before the project started.
+
+116
+00:07:10,840 --> 00:07:15,400
+The first building elements started coming together on Monday, January 27th—just four
+
+117
+00:07:15,400 --> 00:07:18,000
+days after the project broke ground.
+
+118
+00:07:18,000 --> 00:07:21,520
+They began by building the skeleton of the modular units.
+
+119
+00:07:21,520 --> 00:07:25,760
+Each of these units was about the shape and size of a 20-foot shipping container and this
+
+120
+00:07:25,760 --> 00:07:30,600
+skeleton form included just the floor, ceiling, and structural supports at each corner.
+
+121
+00:07:30,600 --> 00:07:34,480
+Throughout this all, separate teams, out of the thousands of workers there, started to
+
+122
+00:07:34,480 --> 00:07:38,960
+hook the site up to utilities like sewage, water, electricity, and internet.
+
+123
+00:07:38,960 --> 00:07:43,200
+Much of this just involved bringing in the state-owned companies responsible for these,
+
+124
+00:07:43,200 --> 00:07:47,400
+but for internet, and the subsequent building out of an IT system, private companies like
+
+125
+00:07:47,440 --> 00:07:49,880
+Huawei and Lenovo got involved.
+
+126
+00:07:49,880 --> 00:07:53,840
+This was, no doubt, partially because the construction of this hospital drew considerable
+
+127
+00:07:53,840 --> 00:07:55,800
+public attention in China.
+
+128
+00:07:55,800 --> 00:08:00,080
+It came to represent the physical manifestation of the country's response to the crisis
+
+129
+00:08:00,080 --> 00:08:02,880
+and also of China's engineering might.
+
+130
+00:08:02,880 --> 00:08:06,760
+The construction process itself was streamed by state-owned broadcasting companies and
+
+131
+00:08:06,760 --> 00:08:10,720
+up to 18 million concurrent viewers watched the process.
+
+132
+00:08:10,720 --> 00:08:14,920
+Nearly every major broadcaster in China reported from the site, publishing footage like what
+
+133
+00:08:14,920 --> 00:08:19,080
+you're seeing now, although very few Western broadcasters were there.
+
+134
+00:08:19,080 --> 00:08:23,340
+This is part of the reason limited detailed information and footage of the construction
+
+135
+00:08:23,340 --> 00:08:28,120
+exists outside of China's state-owned broadcasters—where the government can manage the story and what
+
+136
+00:08:28,120 --> 00:08:29,120
+gets out.
+
+137
+00:08:29,120 --> 00:08:33,360
+It was, no doubt, viewed as an opportunity by the Chinese government in a time when it
+
+138
+00:08:33,360 --> 00:08:37,480
+faced intense criticism for its initial response to the outbreak.
+
+139
+00:08:37,480 --> 00:08:42,220
+But of course, to gain that praise, the project needed to be successful.
+
+140
+00:08:42,220 --> 00:08:47,080
+On Tuesday, January 28th, significant portions of the first building were completed while
+
+141
+00:08:47,080 --> 00:08:50,180
+the rest of the complex's foundations were finishing up.
+
+142
+00:08:50,180 --> 00:08:55,180
+Over the 29th and 30th, more of the overall structure came to be as the walls were installed
+
+143
+00:08:55,180 --> 00:08:59,800
+on and in the skeletons of buildings and work then began on turning these empty buildings
+
+144
+00:08:59,800 --> 00:09:01,200
+into a hospital.
+
+145
+00:09:01,200 --> 00:09:05,980
+Each patient room was outfitted with two beds, some medical equipment, and a bathroom.
+
+146
+00:09:05,980 --> 00:09:10,580
+Considering the hospital is built with quarantine in mind, there are some unique aspects to
+
+147
+00:09:10,580 --> 00:09:12,460
+the design of these rooms.
+
+148
+00:09:12,460 --> 00:09:17,420
+For one, the ventilation system is built to keep negative pressure in all quarantine areas
+
+149
+00:09:17,420 --> 00:09:21,460
+so that air will go out through an exhaust system rather than out under the door into
+
+150
+00:09:21,460 --> 00:09:22,780
+the rest of the hospital.
+
+151
+00:09:22,780 --> 00:09:27,020
+While at the time of writing it's not entirely known to what extent this coronavirus can
+
+152
+00:09:27,020 --> 00:09:32,140
+spread through airborne transmission, a ventilation system like this is standard practice for
+
+153
+00:09:32,140 --> 00:09:34,060
+any quarantine ward.
+
+154
+00:09:34,060 --> 00:09:38,700
+In addition to individual patient rooms, separate areas were designed for patient processing,
+
+155
+00:09:38,700 --> 00:09:43,500
+diagnostic tools like CT scanners were installed, and other crucial aspects like offices, break
+
+156
+00:09:43,500 --> 00:09:45,740
+rooms, and canteens were built in.
+
+157
+00:09:45,740 --> 00:09:50,820
+Over the 31st of January and 1st and 2nd of February, the final areas of the complex were
+
+158
+00:09:50,820 --> 00:09:55,600
+built up, the interior installation was ramped up, and all the systems were tested to assure
+
+159
+00:09:55,600 --> 00:09:58,140
+that the hospital was ready to bring in patients.
+
+160
+00:09:58,140 --> 00:10:02,620
+Meanwhile, eight People's Liberation Army transport planes landed at Wuhan Airport carrying
+
+161
+00:10:02,620 --> 00:10:05,260
+the military medical staff who would staff the hospital.
+
+162
+00:10:05,320 --> 00:10:09,700
+They moved into the facility throughout the same day, February 2nd, then throughout the
+
+163
+00:10:09,700 --> 00:10:13,980
+night, workers put the finishing touches onto the hundreds of rooms.
+
+164
+00:10:13,980 --> 00:10:19,800
+Then, the next morning, the moment that ten days prior seemed impossible arrived.
+
+165
+00:10:19,800 --> 00:10:23,920
+The first patients, transferred from other facilities, were wheeled into Huoshenshan
+
+166
+00:10:23,920 --> 00:10:27,020
+Hospital and thus marked the beginning of its operations.
+
+167
+00:10:27,020 --> 00:10:31,860
+They started with just a few dozen patients, but in a matter of days this ballooned to
+
+168
+00:10:31,860 --> 00:10:32,860
+hundreds.
+
+169
+00:10:32,940 --> 00:10:37,700
+Huoshenshan Hospital was only the start of China's plan to ramp up the number of available
+
+170
+00:10:37,700 --> 00:10:39,500
+beds in Wuhan.
+
+171
+00:10:39,500 --> 00:10:44,420
+Just three days after Huoshenshan's opening, another, even larger hospital called Leishunshan
+
+172
+00:10:44,420 --> 00:10:45,420
+opened.
+
+173
+00:10:45,420 --> 00:10:50,580
+Its 1,600 beds and 32 wards were built in just 12 days.
+
+174
+00:10:50,580 --> 00:10:54,900
+Meanwhile, other hospitals were converted to isolate and treat coronavirus patients,
+
+175
+00:10:54,900 --> 00:10:58,940
+and stadiums and exhibition centers were turned into hospitals as well.
+
+176
+00:10:58,940 --> 00:11:03,920
+Still, though, even with this swift, decisive action, reports indicate that many of those
+
+177
+00:11:03,920 --> 00:11:09,180
+with milder cases of coronavirus are getting turned away from hospitals in Wuhan.
+
+178
+00:11:09,180 --> 00:11:14,660
+It unfortunately seems that coronavirus, with its tremendous severity, is one of the few
+
+179
+00:11:14,660 --> 00:11:18,640
+things that can outpace China.
+
+180
+00:11:18,640 --> 00:11:23,620
+If you want to learn more about how viruses such as this work from a biological perspective,
+
+181
+00:11:23,620 --> 00:11:29,260
+CuriosityStream has a fascinating short documentary on one previous epidemic—the Zika virus.
+
+182
+00:11:29,260 --> 00:11:33,140
+There's plenty in there that applies to the current coronavirus outbreak, and this
+
+183
+00:11:33,140 --> 00:11:39,580
+is just one of thousands of top-quality non-fiction shows and documentaries you can watch on CuriosityStream.
+
+184
+00:11:39,580 --> 00:11:44,740
+Of course, the library you get through a CuriosityStream subscription is now much larger thanks to
+
+185
+00:11:44,740 --> 00:11:49,460
+their bundle deal with Nebula—the streaming platform created by myself and loads of other
+
+186
+00:11:49,460 --> 00:11:51,220
+educational creators.
+
+187
+00:11:51,220 --> 00:11:55,100
+We made Nebula to be the home of our big, ambitious projects.
+
+188
+00:11:55,100 --> 00:12:00,180
+My next Nebula Original, a TV-length documentary, is being filmed right as this video comes
+
+189
+00:12:00,180 --> 00:12:03,660
+out and will release exclusively on Nebula very soon.
+
+190
+00:12:03,660 --> 00:12:08,100
+To make sure you get to see that, along with all the other great originals by other creators,
+
+191
+00:12:08,100 --> 00:12:12,940
+sign up for the CuriosityStream-Nebula bundle deal at CuriosityStream.com slash Wendover.
+
+192
+00:12:12,940 --> 00:12:18,380
+It's super simple—any subscription there comes with Nebula, and at only $20 a year,
+
+193
+00:12:18,380 --> 00:12:20,900
+this is the best deal in the streaming world.
+

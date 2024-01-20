@@ -1,0 +1,808 @@
+1
+00:00:00,000 --> 00:00:02,700
+This video was made possible by CuriosityStream.
+
+2
+00:00:02,700 --> 00:00:07,220
+When you sign up at CuriosityStream.com slash Wendover, you'll also get access to Nebula,
+
+3
+00:00:07,220 --> 00:00:10,060
+the streaming site that Wendover is a part of.
+
+4
+00:00:10,060 --> 00:00:12,980
+COVID-19 is a devious disease.
+
+5
+00:00:12,980 --> 00:00:18,400
+It's not deadly enough to kill a large proportion of its hosts, so they go on to spread it to
+
+6
+00:00:18,400 --> 00:00:23,460
+an incredible number of individuals, meaning its fairly low mortality rate has already
+
+7
+00:00:23,460 --> 00:00:25,980
+killed hundreds of thousands.
+
+8
+00:00:25,980 --> 00:00:31,440
+It disguises itself, presenting like a common cold, yet can escalate to something far more
+
+9
+00:00:31,440 --> 00:00:32,500
+worrisome.
+
+10
+00:00:32,500 --> 00:00:36,940
+It also hides, with the possibility of being spread by someone who does not exhibit any
+
+11
+00:00:36,940 --> 00:00:38,620
+symptoms whatsoever.
+
+12
+00:00:38,620 --> 00:00:44,960
+Altogether, this leads to one simple truth—until there is an effective treatment, a vaccine,
+
+13
+00:00:44,960 --> 00:00:49,660
+or herd immunity, perhaps the most important thing a healthcare system itself can do to
+
+14
+00:00:49,660 --> 00:00:53,420
+minimize the number of cases and deaths is test.
+
+15
+00:00:53,420 --> 00:00:58,880
+Worldwide, diagnostic testing for COVID-19 has ramped up incredibly fast.
+
+16
+00:00:58,880 --> 00:01:03,400
+The first genetic sequence of the virus was published on January 5th, and within days,
+
+17
+00:01:03,400 --> 00:01:06,480
+the first testing protocols were published by researchers.
+
+18
+00:01:06,480 --> 00:01:10,820
+In the second half of January, the world was testing hundreds of individuals per day.
+
+19
+00:01:10,820 --> 00:01:16,080
+By February, they were testing thousands per day, then in March, hundreds of thousands,
+
+20
+00:01:16,080 --> 00:01:22,000
+and now, in July 2020, millions of coronavirus tests are performed and processed each and
+
+21
+00:01:22,000 --> 00:01:23,520
+every day.
+
+22
+00:01:23,520 --> 00:01:27,020
+Believe it or not, though, this is not enough.
+
+23
+00:01:27,020 --> 00:01:31,640
+The process has been mired in issues and, to get to the point where testing can actually
+
+24
+00:01:31,640 --> 00:01:37,600
+minimize the damage, rather than just quantify it, we need to rethink the system itself.
+
+25
+00:01:37,600 --> 00:01:43,800
+The core of any COVID test is a laboratory method known as a polymerase chain reaction.
+
+26
+00:01:43,800 --> 00:01:49,000
+This is a commonly used procedure that copies DNA, or, through reverse transcription, RNA,
+
+27
+00:01:49,000 --> 00:01:50,560
+enough so that it can be studied.
+
+28
+00:01:50,560 --> 00:01:55,660
+The various steps in the process—denaturation, annealing, and elongation—require various
+
+29
+00:01:55,660 --> 00:02:00,460
+specific temperatures and so performing this process requires a machine called a thermal
+
+30
+00:02:00,460 --> 00:02:01,460
+cycler.
+
+31
+00:02:01,460 --> 00:02:05,980
+These thermal cyclers can reach precise temperatures incredibly quickly and accurately, but it
+
+32
+00:02:05,980 --> 00:02:07,780
+comes at a cost.
+
+33
+00:02:07,780 --> 00:02:12,100
+The cheapest thermal cyclers are priced in the thousands of dollars, but the high-throughput
+
+34
+00:02:12,100 --> 00:02:17,560
+ones used to process COVID tests often cost in the many tens of thousands of dollars.
+
+35
+00:02:17,560 --> 00:02:22,720
+Therefore, at this time, it is not practical for every doctor's office to have one, especially
+
+36
+00:02:22,720 --> 00:02:26,860
+as many less-ordinated variants require trained technicians to operate.
+
+37
+00:02:26,860 --> 00:02:30,900
+There are some faster point-of-care tests hitting the market, but they tend to be less
+
+38
+00:02:30,900 --> 00:02:35,120
+accurate, more expensive, and can process fewer tests at a time.
+
+39
+00:02:35,120 --> 00:02:40,000
+Therefore, while samples can be collected almost anywhere, processing them is a greater
+
+40
+00:02:40,000 --> 00:02:41,340
+challenge.
+
+41
+00:02:41,340 --> 00:02:46,540
+One of the largest testing providers in the US is a company called Quest Diagnostics.
+
+42
+00:02:46,540 --> 00:02:52,100
+At the time of writing, they have processed about 17% of all tests performed in the US
+
+43
+00:02:52,100 --> 00:02:55,780
+and have the capacity for 130,000 each day.
+
+44
+00:02:55,780 --> 00:03:00,380
+They carry out this work in one of their 28 labs spread out across the United States.
+
+45
+00:03:00,380 --> 00:03:05,380
+Of course, it's easy to see that there are wide swaths of the country without a lab nearby,
+
+46
+00:03:05,380 --> 00:03:09,560
+so to get samples from where they're collected to where they're processed, they rely on
+
+47
+00:03:09,560 --> 00:03:12,420
+their own small logistics network.
+
+48
+00:03:12,420 --> 00:03:17,440
+This system involves plenty of ground transportation, but also, in order to quickly transport samples
+
+49
+00:03:17,440 --> 00:03:21,340
+from far away areas to the lab, they use airplanes.
+
+50
+00:03:21,340 --> 00:03:25,980
+Each night, after the day samples have been collected around the country, Quest Diagnostics'
+
+51
+00:03:25,980 --> 00:03:29,740
+fleet of airplanes get to the sky starting at around 7 PM.
+
+52
+00:03:29,740 --> 00:03:34,060
+These 20 or so aircraft are primarily based in Redding, Pennsylvania and Lawrenceville,
+
+53
+00:03:34,060 --> 00:03:35,060
+Georgia.
+
+54
+00:03:35,060 --> 00:03:42,220
+As an example, on July 16th, 2020, one aircraft—a Pilatus PC-12 registered as M338QD—took
+
+55
+00:03:42,220 --> 00:03:48,060
+off at 8.45 PM from Redding, Pennsylvania and flew to Elmira, Syracuse, Rochester, Niagara
+
+56
+00:03:48,060 --> 00:03:52,400
+Falls, Allegheny County, Manassas, and Baltimore where samples were trucked to a lab a few
+
+57
+00:03:52,400 --> 00:03:54,380
+miles from BWI Airport.
+
+58
+00:03:54,380 --> 00:03:58,440
+The aircraft then returned to Redding, Pennsylvania by 3.30 AM.
+
+59
+00:03:58,440 --> 00:04:02,540
+On that night, the majority of their aircraft focused their flights on the American South,
+
+60
+00:04:02,540 --> 00:04:03,540
+though.
+
+61
+00:04:03,540 --> 00:04:08,560
+This is a region without many Quest Diagnostics labs and a surge of cases at that time.
+
+62
+00:04:08,560 --> 00:04:13,240
+Another PC-12, for example, flew from Lawrenceville, Georgia to Jacksonville, Gainesville, Tampa,
+
+63
+00:04:13,240 --> 00:04:17,640
+Orlando, Valdosta, Lawrenceville, Roanoke, Manassas, and Greensboro before returning
+
+64
+00:04:17,640 --> 00:04:20,240
+to Lawrenceville all in one night.
+
+65
+00:04:20,240 --> 00:04:23,960
+Filling in the rest of the routes, you can see just how much ground this small airline
+
+66
+00:04:23,960 --> 00:04:28,600
+covered in one night—stopping at a large number of cities and towns, going to just
+
+67
+00:04:28,600 --> 00:04:30,080
+a few labs.
+
+68
+00:04:30,080 --> 00:04:35,440
+Now, in theory, a system like this, bringing a whole country's worth of samples to a
+
+69
+00:04:35,440 --> 00:04:41,600
+few central sites, should provide economies and efficiencies of scale and, to an extent,
+
+70
+00:04:41,600 --> 00:04:47,880
+it does, however, other economic concepts have simultaneously decreased its effectiveness.
+
+71
+00:04:47,880 --> 00:04:53,320
+To start with, there's a heavy supply and demand imbalance for crucial equipment.
+
+72
+00:04:53,320 --> 00:04:58,800
+To perform a test, about 20 different consumable supplies are needed, including nasal swabs,
+
+73
+00:04:58,800 --> 00:05:02,040
+transport tubes, reagents, and other equipment.
+
+74
+00:05:02,040 --> 00:05:07,000
+Without any of these 20 items, a test cannot be performed so a bottleneck in any one of
+
+75
+00:05:07,000 --> 00:05:10,000
+those 20 supply chains stops testing.
+
+76
+00:05:10,000 --> 00:05:14,720
+In addition, economic forces are actually decreasing overall efficiency.
+
+77
+00:05:14,720 --> 00:05:18,840
+Particularly in a country like the US, where testing is overwhelmingly conducted by private
+
+78
+00:05:18,840 --> 00:05:23,300
+organizations rather than the government, thousands of providers are each bidding against
+
+79
+00:05:23,300 --> 00:05:25,120
+each other for equipment.
+
+80
+00:05:25,120 --> 00:05:29,820
+In conventional economics, one typically wants to avoid monopolies and oligopolies because
+
+81
+00:05:29,820 --> 00:05:33,180
+a few number of players have too much power.
+
+82
+00:05:33,180 --> 00:05:37,980
+This is why, in countries like the UK, for example, where 75% of the grocery market is
+
+83
+00:05:37,980 --> 00:05:43,780
+cornered by four firms, products like milk are sold for just about what it costs to produce—farmers
+
+84
+00:05:43,780 --> 00:05:45,180
+barely turn a profit.
+
+85
+00:05:45,180 --> 00:05:49,820
+That's because, if a farmer can't sell their milk to Tesco, Sainsbury's, Asda,
+
+86
+00:05:49,820 --> 00:05:53,900
+or Morrison's, they don't really have another option so they'll take any price
+
+87
+00:05:53,900 --> 00:05:58,620
+they can get and meanwhile, there are plenty of farmers so the grocery stores have plenty
+
+88
+00:05:58,620 --> 00:06:01,780
+of options if one says no to their low price.
+
+89
+00:06:01,780 --> 00:06:07,220
+Meanwhile, in the COVID test supply market, the producers have thousands upon thousands
+
+90
+00:06:07,220 --> 00:06:12,760
+of potential customers—the testing providers—so if one customer won't accept a high price,
+
+91
+00:06:12,760 --> 00:06:17,020
+there are plenty of others and one that most desperately needs the supplies inevitably
+
+92
+00:06:17,020 --> 00:06:18,020
+will.
+
+93
+00:06:18,020 --> 00:06:22,180
+If, for example, the federal government was the only customer in the US, or just the largest
+
+94
+00:06:22,180 --> 00:06:26,580
+one by far, the supply producers would just have to accept what the government paid because
+
+95
+00:06:26,580 --> 00:06:28,020
+there would be no alternatives.
+
+96
+00:06:28,420 --> 00:06:33,860
+Now, resources might not be allocated as efficiently using a centrally planned system, but it would
+
+97
+00:06:33,860 --> 00:06:36,140
+at least come at a lower cost.
+
+98
+00:06:36,140 --> 00:06:41,080
+In the real world, the larger providers like LabCorp and Quest Diagnostics do have higher
+
+99
+00:06:41,080 --> 00:06:45,300
+buying power, processing more tests per day than most countries, but they still have to
+
+100
+00:06:45,300 --> 00:06:50,620
+compete against the rest of the world in procuring supplies which increases cost.
+
+101
+00:06:50,620 --> 00:06:54,860
+In recent weeks, Quest Diagnostics, and other major testing providers, have been able to
+
+102
+00:06:54,860 --> 00:06:59,240
+collect far more samples than they have been able to process, and tests now take up to
+
+103
+00:06:59,240 --> 00:07:02,820
+two weeks, or sometimes more, to come back.
+
+104
+00:07:02,820 --> 00:07:08,020
+Tests that take so long to return are of little use since many asymptomatic or mildly symptomatic
+
+105
+00:07:08,020 --> 00:07:12,260
+patients might not quarantine for that full period while waiting for results.
+
+106
+00:07:12,260 --> 00:07:17,940
+Therefore, major focus has been placed on how to increase the efficiency of testing.
+
+107
+00:07:17,940 --> 00:07:23,140
+For this, Quest Diagnostics received the first emergency use authorization in the US from
+
+108
+00:07:23,140 --> 00:07:26,980
+the FDA to implement a technique known as pooled testing.
+
+109
+00:07:26,980 --> 00:07:31,780
+With this, up to four samples will be combined and tested together.
+
+110
+00:07:31,780 --> 00:07:36,980
+If they generate a negative result, then all four tests are considered negative.
+
+111
+00:07:36,980 --> 00:07:40,740
+If the group tests positive, then they are separated and tested individually.
+
+112
+00:07:40,740 --> 00:07:46,100
+Now, if 100 people are tested traditionally, 100 tests will have to be processed, but let's
+
+113
+00:07:46,100 --> 00:07:49,500
+say that 100 people are tested using pooled testing.
+
+114
+00:07:49,500 --> 00:07:54,740
+In the US, on average, about 8% of tests currently come back positive, so with 100
+
+115
+00:07:54,740 --> 00:07:59,620
+tests, grouped into 25 pools of four, you would expect about 32% of those to come back
+
+116
+00:07:59,620 --> 00:08:00,680
+positive.
+
+117
+00:08:00,680 --> 00:08:05,820
+For those positive pools, you'd then process each test individually, so you will have processed
+
+118
+00:08:05,820 --> 00:08:08,380
+five times for four results.
+
+119
+00:08:08,380 --> 00:08:13,940
+For the 17 pools that came back negative, you only processed once, meaning that altogether,
+
+120
+00:08:13,940 --> 00:08:19,600
+this pooled testing technique used 57 processing slots to generate 100 results, effectively
+
+121
+00:08:19,600 --> 00:08:21,980
+almost doubling capacity.
+
+122
+00:08:21,980 --> 00:08:26,220
+This pooled testing technique, though, only works if testing is widespread enough that
+
+123
+00:08:26,220 --> 00:08:29,840
+only a small portion of results come back positive.
+
+124
+00:08:29,840 --> 00:08:34,260
+If an average of 20% of results came back positive, as was the case in the US in early
+
+125
+00:08:34,260 --> 00:08:37,220
+April, the efficiency would diminish quickly.
+
+126
+00:08:37,220 --> 00:08:42,420
+In that case, you'd expect to have to retest 20 of the 25 pools meaning that, overall,
+
+127
+00:08:42,420 --> 00:08:47,820
+you'd use 105 processing slots to generate 100 results—more than if you just tested
+
+128
+00:08:47,820 --> 00:08:50,220
+them all individually, therefore.
+
+129
+00:08:50,220 --> 00:08:55,020
+This technique does not work as well for testing in hotspots, where positivity rates are far
+
+130
+00:08:55,020 --> 00:08:56,020
+higher.
+
+131
+00:08:56,020 --> 00:09:01,140
+Conversely, though, if positivity rates are quite low, the efficiency of pooled testing
+
+132
+00:09:01,140 --> 00:09:07,340
+can increase as one could efficiently group 8 or 12 or 16 or more tests together.
+
+133
+00:09:07,340 --> 00:09:11,460
+Lower positivity rates can be achieved through collecting more samples, so pooled sampling
+
+134
+00:09:11,500 --> 00:09:16,020
+can increase testing capacity, therefore increasing its own efficiency.
+
+135
+00:09:16,020 --> 00:09:21,980
+But no matter how fast PCR testing itself is, it is always a lagging indicator.
+
+136
+00:09:21,980 --> 00:09:26,460
+That is because it takes a number of days for people to develop symptoms after exposure,
+
+137
+00:09:26,460 --> 00:09:31,300
+then more days for them to decide to get tested, then more days for the test to come back.
+
+138
+00:09:31,300 --> 00:09:35,860
+That means that, realistically, it will take weeks for significant upticks in transmission
+
+139
+00:09:35,860 --> 00:09:37,460
+to show in the data.
+
+140
+00:09:37,460 --> 00:09:43,360
+Therefore, some focus has been placed on developing a more real-time indicator for COVID transmission.
+
+141
+00:09:43,360 --> 00:09:46,140
+The solution for that is sewage.
+
+142
+00:09:46,140 --> 00:09:50,400
+Sewage is naturally aggregated into a few processing plants, so by testing it for the
+
+143
+00:09:50,400 --> 00:09:54,820
+presence of COVID's genetic signature, one can gain a more accurate picture of how a
+
+144
+00:09:54,820 --> 00:09:59,580
+whole area is doing without the potential sampling biases of clinical testing.
+
+145
+00:09:59,580 --> 00:10:04,420
+This technique can show if an area has coronavirus transmission, but it can also give a big picture
+
+146
+00:10:04,420 --> 00:10:06,360
+view of how much.
+
+147
+00:10:06,360 --> 00:10:11,540
+Not only that, but in research tests, sewage testing indicates spikes about a week before
+
+148
+00:10:11,540 --> 00:10:15,560
+clinical testing, meaning it can help tell governments if they should increase restrictions
+
+149
+00:10:15,560 --> 00:10:18,820
+before it's potentially too late to make an impact.
+
+150
+00:10:18,820 --> 00:10:21,560
+But let's go back to the pooled testing.
+
+151
+00:10:21,560 --> 00:10:26,600
+Using sewage testing, you can know the relative chance of a single person from a given area
+
+152
+00:10:26,600 --> 00:10:31,420
+of having coronavirus, so imagine if you could combine the sewage testing and clinical pooled
+
+153
+00:10:31,420 --> 00:10:34,140
+testing into one cohesive system.
+
+154
+00:10:34,140 --> 00:10:37,420
+This technique was proposed by a group of researchers from Berkeley.
+
+155
+00:10:37,420 --> 00:10:41,940
+If you know that, say, there was a 25% chance of a test from Florida coming back positive,
+
+156
+00:10:41,940 --> 00:10:45,980
+you would know that it would be more efficient to test that on its own, however, if you knew
+
+157
+00:10:45,980 --> 00:10:49,700
+that there was a 1% chance that a test from North Dakota came back positive, you could
+
+158
+00:10:49,700 --> 00:10:55,440
+pool that test with a large group of other low-risk tests and save processing slots.
+
+159
+00:10:55,440 --> 00:11:00,300
+You could also, for example, know that a sample from a healthcare or retail worker would have
+
+160
+00:11:00,300 --> 00:11:04,420
+a much higher chance of coming back positive than a test of a businessperson working from
+
+161
+00:11:04,420 --> 00:11:05,420
+home.
+
+162
+00:11:05,420 --> 00:11:10,080
+The Berkeley research proposes a system of machine learning to scale pooled testing sizes
+
+163
+00:11:10,080 --> 00:11:12,420
+based on risk factors.
+
+164
+00:11:12,420 --> 00:11:16,920
+Lower risk samples would be grouped into large pools and high risk samples would be grouped
+
+165
+00:11:16,920 --> 00:11:21,680
+into smaller pools or tested alone so that pooled testing never leads to an efficiency
+
+166
+00:11:21,680 --> 00:11:24,720
+disadvantage, no longer the positivity rate.
+
+167
+00:11:24,720 --> 00:11:30,480
+The true genius of pooled testing is that efficiency increases as test numbers increase
+
+168
+00:11:30,480 --> 00:11:35,240
+so it only takes twice the resources to test a population once daily as it does to test
+
+169
+00:11:35,240 --> 00:11:36,600
+once monthly.
+
+170
+00:11:36,600 --> 00:11:41,120
+Hypothetically, a pooled testing system designed by machine learning could lower the cost of
+
+171
+00:11:41,120 --> 00:11:46,680
+a test to just $3 to $5, meaning the frequency of testing could increase dramatically.
+
+172
+00:11:46,680 --> 00:11:52,900
+Now, we already know when the crunch time will be for testing—fall 2020.
+
+173
+00:11:53,080 --> 00:11:57,780
+Sometime between October and December, each year, there begins a massive increase in the
+
+174
+00:11:57,780 --> 00:12:01,100
+number of people catching the flu, which is highly seasonal.
+
+175
+00:12:01,100 --> 00:12:05,920
+COVID-19's symptoms closely mirror those of the flu, therefore there will be a massive
+
+176
+00:12:05,920 --> 00:12:09,080
+increase in people exhibiting COVID symptoms.
+
+177
+00:12:09,080 --> 00:12:13,220
+Those people will want to get tested to rule out the possibility of coronavirus, which
+
+178
+00:12:13,220 --> 00:12:18,260
+means demand will be higher than ever for testing even if real infection numbers are
+
+179
+00:12:18,260 --> 00:12:19,260
+lower.
+
+180
+00:12:19,260 --> 00:12:23,580
+While supplies for testing produce now are being used now, there is no stash being built
+
+181
+00:12:23,580 --> 00:12:28,600
+up, which means testing providers and healthcare systems worldwide have a hefty task at hand
+
+182
+00:12:28,600 --> 00:12:34,920
+if there is to be any hope of testing capacity matching demand in the coming winter.
+
+183
+00:12:34,920 --> 00:12:40,000
+Like so many things going on right now, COVID testing logistics and its issues are strongly
+
+184
+00:12:40,000 --> 00:12:44,180
+rooted in economic theory and there's plenty more I could talk about, but this video was
+
+185
+00:12:44,180 --> 00:12:48,160
+getting a little too long to still appease the YouTube algorithm so I've posted an
+
+186
+00:12:48,160 --> 00:12:52,780
+extended cut of this video on Nebula including discussion of exactly that.
+
+187
+00:12:52,780 --> 00:12:57,620
+Nebula is, of course, the streaming site that myself and a bunch of other of the internet's
+
+188
+00:12:57,620 --> 00:13:00,380
+top educational creators teamed up to create.
+
+189
+00:13:00,380 --> 00:13:04,340
+Instead of this ad right now, you could be watching the extended cut of this video, or
+
+190
+00:13:04,340 --> 00:13:10,000
+any of our other videos early and ad-free, or some of our special Nebula exclusive projects.
+
+191
+00:13:10,000 --> 00:13:14,540
+In fact, there's a brand new Nebula original going out tomorrow from our other channel,
+
+192
+00:13:14,540 --> 00:13:17,920
+if that stuff is interesting, or you could watch Tom Scott's game show, Money, which
+
+193
+00:13:17,920 --> 00:13:18,920
+I'm in.
+
+194
+00:13:18,920 --> 00:13:22,920
+We're also super excited that Nebula is teamed up with CuriosityStream, which is another
+
+195
+00:13:22,920 --> 00:13:26,940
+of the internet's best streaming sites, home to thousands of fantastic documentaries
+
+196
+00:13:26,940 --> 00:13:31,880
+and non-fiction shows like their one on Gander International Airport—specifically, on how
+
+197
+00:13:31,880 --> 00:13:36,440
+it and the town reinvented itself as it shifted from being one of the most important airports
+
+198
+00:13:36,440 --> 00:13:39,680
+in the world to just another small Canadian airfield.
+
+199
+00:13:39,680 --> 00:13:43,980
+Together, Nebula and CuriosityStream are offering an amazing deal.
+
+200
+00:13:43,980 --> 00:13:49,760
+For a limited time, CuriosityStream and Nebula are bundled together for less than $15 a year.
+
+201
+00:13:49,760 --> 00:13:54,080
+I'm confident in saying that that is the best deal in streaming, and it's available
+
+202
+00:13:54,080 --> 00:13:57,520
+only by going to curiositystream.com slash Wendover.
+

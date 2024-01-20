@@ -1,0 +1,648 @@
+1
+00:00:00,000 --> 00:00:02,200
+Flying is expensive.
+
+2
+00:00:02,200 --> 00:00:03,200
+Why is this?
+
+3
+00:00:03,200 --> 00:00:07,520
+Well, most would say it's because of the cost of fuel, but that's not entirely true.
+
+4
+00:00:07,520 --> 00:00:14,760
+The Airbus A320neo can carry 6,400 gallons of fuel—that's the equivalent of 376 fully
+
+5
+00:00:14,760 --> 00:00:16,560
+tanked Toyota Camrys.
+
+6
+00:00:16,560 --> 00:00:21,880
+For every mile that the A320 flies, it burns 1.5 gallons of jet fuel.
+
+7
+00:00:21,880 --> 00:00:25,600
+That works out to a paltry .67 miles per gallon.
+
+8
+00:00:25,600 --> 00:00:30,000
+An A320 could barely fly from the Empire State Building to Grand Central Terminal on that
+
+9
+00:00:30,000 --> 00:00:31,340
+gallon of fuel.
+
+10
+00:00:31,340 --> 00:00:38,520
+To fly that 213 miles from New York to DC, that A320 needs 317 gallons of fuel.
+
+11
+00:00:38,520 --> 00:00:45,080
+With that amount, our Toyota Camry could drive from New York to LA 49 times, but we do have
+
+12
+00:00:45,080 --> 00:00:51,320
+to consider that a Camry only seats 5, an A320 seats 154.
+
+13
+00:00:51,320 --> 00:00:57,560
+So, assuming that our plane is fully loaded, it now has a per person fuel efficiency of
+
+14
+00:00:57,560 --> 00:01:00,720
+104.7 miles per gallon.
+
+15
+00:01:00,720 --> 00:01:02,320
+That's amazing.
+
+16
+00:01:02,320 --> 00:01:08,480
+According to the Bureau of Transport Statistics, airlines pay on average only $1.24 per gallon
+
+17
+00:01:08,480 --> 00:01:09,480
+of fuel.
+
+18
+00:01:09,480 --> 00:01:16,440
+So, flying from New York to DC, you personally only use $2.50 worth of fuel, so why do these
+
+19
+00:01:16,440 --> 00:01:18,440
+tickets cost upwards of $80?
+
+20
+00:01:18,440 --> 00:01:23,040
+Well, there's so much more that goes into your ticket price than fuel.
+
+21
+00:01:23,040 --> 00:01:26,720
+Before we start, I'll quickly mention that these are all rough estimates.
+
+22
+00:01:26,720 --> 00:01:30,000
+Many of these prices will vary widely through time and there are certainly ways that airlines
+
+23
+00:01:30,000 --> 00:01:33,820
+reduce these costs, but this will give you a general idea of what actually makes flying
+
+24
+00:01:33,820 --> 00:01:35,460
+so expensive.
+
+25
+00:01:35,460 --> 00:01:38,840
+The first thing we can add to our ticket price is crew costs.
+
+26
+00:01:38,840 --> 00:01:45,280
+A pilot makes on average around $79,000 a year which works out to about $44 per flight
+
+27
+00:01:45,280 --> 00:01:46,280
+hour.
+
+28
+00:01:46,280 --> 00:01:52,120
+We have two pilots so for our hour long flight from New York to DC, that's $88 to the pilots.
+
+29
+00:01:52,120 --> 00:01:57,360
+A fully loaded A320 requires four flight attendants who are each paid around $38 per
+
+30
+00:01:57,360 --> 00:02:03,400
+flight hour for a total of $152 bringing our crew costs up to $240.
+
+31
+00:02:03,400 --> 00:02:10,560
+So, with our 154 seats, that works out to just about $1.50 per person in crew costs.
+
+32
+00:02:10,560 --> 00:02:13,680
+Alright, now we're at $4.
+
+33
+00:02:13,680 --> 00:02:15,880
+Next we gotta pay the airports.
+
+34
+00:02:15,880 --> 00:02:22,040
+New York's John F. Kennedy Airport charges $6.33 per thousand pounds of airplane taking
+
+35
+00:02:22,040 --> 00:02:26,480
+off and our A320 weighs 172,000 pounds.
+
+36
+00:02:26,480 --> 00:02:32,220
+That means that we have to give $1,089 to JFK or $7 per person.
+
+37
+00:02:32,220 --> 00:02:35,560
+Dulles Airport doesn't publish their landing fees, but we'll assume it's about the
+
+38
+00:02:35,560 --> 00:02:42,300
+same as JFK's landing fees at $1,005 for a now 170,000 pound airplane.
+
+39
+00:02:42,300 --> 00:02:47,160
+These fees generally include the cost of using gates, porters, and other airport resources
+
+40
+00:02:47,160 --> 00:02:50,760
+and divide down to $13.50 per person.
+
+41
+00:02:50,760 --> 00:02:54,280
+Our total is now at $17.50.
+
+42
+00:02:54,280 --> 00:02:56,080
+Now we get to the fun part—taxes.
+
+43
+00:02:56,080 --> 00:03:00,440
+There's a litany of different taxes and they all vary by country so for the sake of
+
+44
+00:03:00,440 --> 00:03:03,220
+simplicity we'll just cover the ones for the US.
+
+45
+00:03:03,220 --> 00:03:09,560
+The simplest tax is the domestic passenger ticket tax at 7.5% of the ticket price.
+
+46
+00:03:09,560 --> 00:03:11,260
+That money goes to the FAA.
+
+47
+00:03:11,260 --> 00:03:15,680
+If you land or take off at a rural airport, which is defined as, an airport with less
+
+48
+00:03:15,680 --> 00:03:18,800
+than 100,000 appointments during the second preceding calendar year and either one is
+
+49
+00:03:18,800 --> 00:03:23,000
+not located within 75 miles of another airport with 100,000 appointments per year, 2 is receiving
+
+50
+00:03:23,000 --> 00:03:27,020
+central air service subsidies, or 3 is not connected by paved roads to another airport,
+
+51
+00:03:27,020 --> 00:03:29,360
+they also tack on another 7.5%.
+
+52
+00:03:29,360 --> 00:03:33,000
+That, of course, doesn't apply to either of our airports.
+
+53
+00:03:33,000 --> 00:03:38,560
+The FAA also charges $4 flat for any flight within the US, unless you go to Hawaii or
+
+54
+00:03:38,560 --> 00:03:39,620
+Alaska.
+
+55
+00:03:39,620 --> 00:03:42,160
+Then they charge $8.70.
+
+56
+00:03:42,160 --> 00:03:48,080
+The TSA then adds a $5.60 tax called the 9-11 security fee that goes to fund the heightened
+
+57
+00:03:48,080 --> 00:03:50,280
+security since 9-11.
+
+58
+00:03:50,280 --> 00:03:52,200
+Those are only just for domestic flights.
+
+59
+00:03:52,200 --> 00:03:57,460
+If we were flying from New York to Paris, we would also have to add $17.70 for the international
+
+60
+00:03:57,460 --> 00:04:04,260
+transportation tax, $5.50 for the US customs user fee, $5 for the US animal and plant health
+
+61
+00:04:04,260 --> 00:04:10,280
+inspection service fee, $7 for the US immigration and naturalization fee, and $14 for the French
+
+62
+00:04:10,280 --> 00:04:12,220
+civil aviation tax.
+
+63
+00:04:12,220 --> 00:04:17,920
+So with all the taxes and fees that apply to this short flight, we're now at $33 total.
+
+64
+00:04:17,920 --> 00:04:21,400
+Now, let's remember that airplanes are expensive.
+
+65
+00:04:21,400 --> 00:04:24,840
+Our A320 costs $107 million.
+
+66
+00:04:24,840 --> 00:04:29,200
+The service life for airplanes is not actually determined by flying time, it's determined
+
+67
+00:04:29,200 --> 00:04:33,960
+by something called flight cycles which is basically a fancy word for one flight.
+
+68
+00:04:33,960 --> 00:04:38,200
+It doesn't really matter how long an airplane flies in its service life, what matters is
+
+69
+00:04:38,200 --> 00:04:40,760
+how many times it's pressurized.
+
+70
+00:04:40,760 --> 00:04:44,920
+This is because every time it's pressurized, micro cracks develop around the rivets that
+
+71
+00:04:44,920 --> 00:04:48,040
+connect the metal plates that make up the fuselage.
+
+72
+00:04:48,040 --> 00:04:51,940
+No matter if a plane goes on a thirty minute flight or a nine hour flight, the wear and
+
+73
+00:04:51,940 --> 00:04:54,320
+tear to the plane will be the same.
+
+74
+00:04:54,320 --> 00:04:57,720
+This is why large, long haul airplanes are often older.
+
+75
+00:04:57,720 --> 00:05:01,640
+They might only go through one flight cycle per day while small regional jets could go
+
+76
+00:05:01,640 --> 00:05:03,040
+through eight or ten.
+
+77
+00:05:03,040 --> 00:05:05,260
+So, back to our A320.
+
+78
+00:05:05,260 --> 00:05:07,880
+Our plane is actually a pretty durable aircraft.
+
+79
+00:05:07,880 --> 00:05:10,620
+It can fly up to 60,000 cycles.
+
+80
+00:05:10,620 --> 00:05:15,100
+So if we divide the total price of our plane by the maximum number of flight cycles, we
+
+81
+00:05:15,100 --> 00:05:21,680
+get that $1,783 per flight must be devoted towards paying off the initial price of the
+
+82
+00:05:21,680 --> 00:05:22,680
+airplane.
+
+83
+00:05:22,680 --> 00:05:25,460
+Per person, that works out to $11.50.
+
+84
+00:05:25,460 --> 00:05:29,260
+We're now at $44.50.
+
+85
+00:05:29,260 --> 00:05:33,660
+To keep this plane safe, airlines have to also perform regular maintenance.
+
+86
+00:05:33,660 --> 00:05:39,820
+For our hour long flight, an airline has to do maintenance that'll cost $646 in labor,
+
+87
+00:05:39,820 --> 00:05:48,260
+$296 in parts, $603 in inspections and component overhauls, and another $596 in engine restoration.
+
+88
+00:05:48,260 --> 00:05:53,220
+That's $2,121 total or $14 per person.
+
+89
+00:05:53,220 --> 00:05:56,900
+We're now at $58.50.
+
+90
+00:05:56,900 --> 00:06:00,540
+We also have to consider the non-flying part of flying.
+
+91
+00:06:00,540 --> 00:06:05,300
+Overseeing any flight is an airline which is a business that has costs in and of itself.
+
+92
+00:06:05,300 --> 00:06:09,900
+They need to pay administrators, executives, software engineers, marketers, consultants,
+
+93
+00:06:09,900 --> 00:06:14,820
+customer service personnel, public relations agents, janitors, along with rent, benefits,
+
+94
+00:06:14,820 --> 00:06:16,660
+travel costs, utilities, and more.
+
+95
+00:06:16,660 --> 00:06:21,220
+It's hard to put an exact number on how much per person this works out to, but we'll
+
+96
+00:06:21,220 --> 00:06:23,780
+make a conservative estimate of $10.
+
+97
+00:06:23,780 --> 00:06:27,500
+We're up to $68.50.
+
+98
+00:06:27,500 --> 00:06:33,500
+An airline will pay about $106,500 per year for insurance for an A320 and assuming our
+
+99
+00:06:33,500 --> 00:06:38,580
+plane spends 8 hours per day in the air, $36 of this insurance is for this hour long
+
+100
+00:06:38,580 --> 00:06:41,480
+flight or about $0.25 per person.
+
+101
+00:06:41,480 --> 00:06:44,780
+Our very rough grand total is $68.75.
+
+102
+00:06:44,780 --> 00:06:49,840
+We'll round this up to $70 since there are various small things I didn't cover such
+
+103
+00:06:49,840 --> 00:06:55,860
+as hotel costs for crew members, plane storage, APU rental, liability insurance, etc.
+
+104
+00:06:55,860 --> 00:07:00,700
+That means that $10 of our plane ticket is profit, but keep in mind that all my estimates
+
+105
+00:07:00,700 --> 00:07:05,020
+were on the conservative end and it's all assuming a fully loaded airplane.
+
+106
+00:07:05,020 --> 00:07:08,460
+In the end, not a ton of money actually goes to the airline.
+
+107
+00:07:08,460 --> 00:07:11,380
+Back to my first line, flying is expensive.
+
+108
+00:07:11,380 --> 00:07:14,540
+Well, it really isn't and it's getting cheaper.
+
+109
+00:07:14,540 --> 00:07:19,420
+To fly in the Magic Metal Bird across the country from New York to LA in 6 hours costs
+
+110
+00:07:19,420 --> 00:07:22,100
+around $340 round trip.
+
+111
+00:07:22,100 --> 00:07:27,060
+To drive in our very fuel efficient Toyota Camry across the country in 40 hours costs
+
+112
+00:07:27,060 --> 00:07:33,020
+$340 just in fuel than an additional $300 in estimated maintenance and depreciation
+
+113
+00:07:33,020 --> 00:07:34,020
+costs.
+
+114
+00:07:34,020 --> 00:07:39,580
+In the past 30 years, the average inflation adjusted airfare has dropped by 50% and it's
+
+115
+00:07:39,580 --> 00:07:40,660
+still dropping.
+
+116
+00:07:40,660 --> 00:07:46,180
+In 1974, it was actually illegal for airlines to offer a flight between New York and LA
+
+117
+00:07:46,180 --> 00:07:50,540
+for less than $1,442 inflation adjusted dollars.
+
+118
+00:07:50,540 --> 00:07:54,940
+And now, you can sometimes find these flights for less than $200 round trip.
+
+119
+00:07:54,940 --> 00:07:59,580
+One of the reasons for this drop in prices is the rise of efficient airplanes.
+
+120
+00:07:59,580 --> 00:08:05,220
+Certain innovations such as composite construction, better aerodynamics, more efficient engines,
+
+121
+00:08:05,220 --> 00:08:10,020
+and perhaps most notably, winglets has driven down the cost of flying.
+
+122
+00:08:10,020 --> 00:08:13,720
+Here's the one and only Real Engineering to explain winglets.
+
+123
+00:08:13,720 --> 00:08:18,180
+As you said, the airline industry is constantly finding ways to drive down their fuel consumption.
+
+124
+00:08:18,180 --> 00:08:22,980
+In the early 70's fuel prices skyrocketed and engineers were forced to find ways of
+
+125
+00:08:22,980 --> 00:08:24,700
+making their planes more efficient.
+
+126
+00:08:24,700 --> 00:08:27,980
+One way they found was with winglets, which are those little curly bits at the end of
+
+127
+00:08:27,980 --> 00:08:28,980
+the wing.
+
+128
+00:08:28,980 --> 00:08:30,900
+Let's have a quick look at how they work.
+
+129
+00:08:30,900 --> 00:08:34,620
+Winglets were introduced to decrease induced drag, which occurs when high pressure air
+
+130
+00:08:34,620 --> 00:08:39,320
+below the wing begins to bleed over the edge into the low pressure air above.
+
+131
+00:08:39,320 --> 00:08:43,780
+This flow creates vortices off the tips of the wing that create drag and reduce lift,
+
+132
+00:08:43,780 --> 00:08:46,500
+which reduces the fuel economy of the plane.
+
+133
+00:08:46,500 --> 00:08:50,580
+Winglets act to reduce these vortices by reducing the airflow over the edge of the wing.
+
+134
+00:08:50,580 --> 00:08:54,660
+For a full explanation and a look at the history behind winglets head over to my channel and
+
+135
+00:08:54,660 --> 00:08:59,760
+watch my new video, which features a special guest appearance from Wendover Productions.
+
+136
+00:08:59,760 --> 00:09:01,340
+Thanks Real Engineering.
+
+137
+00:09:01,340 --> 00:09:04,960
+Be sure to go check out and subscribe to Real Engineering's channel.
+
+138
+00:09:04,960 --> 00:09:08,260
+If you like this channel, I guarantee you'll enjoy his.
+
+139
+00:09:08,260 --> 00:09:12,900
+I'll leave you with the real reason specific airfares are expensive, but also a reason
+
+140
+00:09:12,900 --> 00:09:15,740
+why they're getting cheaper—competition.
+
+141
+00:09:15,740 --> 00:09:19,260
+The airline industry is one with very little competition.
+
+142
+00:09:19,260 --> 00:09:23,020
+Airfares from New York to LA are cheap because there's a lot of demand and there's a
+
+143
+00:09:23,020 --> 00:09:25,820
+relatively high amount of competition.
+
+144
+00:09:25,820 --> 00:09:31,460
+Five different airlines fly direct from New York to LA, two of which are budget airlines.
+
+145
+00:09:31,460 --> 00:09:33,920
+People don't care that much which airline they fly.
+
+146
+00:09:33,920 --> 00:09:38,900
+They care about the price, so airlines will try to match the price of budget airlines.
+
+147
+00:09:38,900 --> 00:09:42,460
+Compare this to a route like Denver to Gunnison County Airport.
+
+148
+00:09:42,460 --> 00:09:47,380
+Largely because only United makes this flight, you'll often pay more than $500 for this
+
+149
+00:09:47,380 --> 00:09:49,460
+130 mile flight.
+
+150
+00:09:49,460 --> 00:09:52,580
+So that's why your plane tickets cost so much.
+
+151
+00:09:52,580 --> 00:09:56,100
+Next time you book your travel, you'll know why you're paying so much and also
+
+152
+00:09:56,100 --> 00:09:59,740
+how little of that actually goes to airlines.
+
+153
+00:09:59,740 --> 00:10:01,100
+Thank you for watching.
+
+154
+00:10:01,100 --> 00:10:04,140
+If you enjoyed this video, make sure to click subscribe.
+
+155
+00:10:04,140 --> 00:10:07,740
+You can also click here to be taken to Real Engineering's channel.
+
+156
+00:10:07,740 --> 00:10:12,660
+If you enjoyed this video, please share it on Twitter, Reddit, Facebook, StumbleUpon,
+
+157
+00:10:12,660 --> 00:10:14,940
+Digg, whatever website you like.
+
+158
+00:10:14,940 --> 00:10:18,620
+You can check out last week's video on an illegal number here.
+
+159
+00:10:18,620 --> 00:10:21,940
+Also, please follow me on Twitter at WendoverPro.
+
+160
+00:10:21,980 --> 00:10:26,300
+Lastly, I'd like to thank you all for your support and welcome all the new subscribers
+
+161
+00:10:26,300 --> 00:10:28,100
+from the past few weeks.
+
+162
+00:10:28,100 --> 00:10:31,540
+Next week, I'll be back to my normal series—that Wikipedia list.
+

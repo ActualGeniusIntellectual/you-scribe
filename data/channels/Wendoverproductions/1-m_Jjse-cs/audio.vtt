@@ -1,0 +1,1040 @@
+WEBVTT
+
+00:00.000 --> 00:03.680
+It seemed manageable at first.
+
+00:03.680 --> 00:08.020
+On the Monday before Christmas, as winter storm Elliott began to build, Southwest Airlines
+
+00:08.020 --> 00:11.360
+management huddled up to formulate a plan.
+
+00:11.360 --> 00:13.820
+The following day, it went into motion.
+
+00:13.820 --> 00:18.280
+After internal deliberation, and after informing the pilot's union, Southwest HQ began cancelling
+
+00:18.280 --> 00:20.840
+flights in advance of the strengthening storm.
+
+00:20.840 --> 00:24.640
+The notice first directed customers at these airports to check if their flight had been
+
+00:24.640 --> 00:25.640
+disrupted.
+
+00:25.640 --> 00:28.880
+Then, the list of airports began to grow.
+
+00:29.200 --> 00:33.000
+So, the airlines started the process of cancelling flights by the hundreds.
+
+00:33.000 --> 00:36.000
+As the winter storm worsened, that call proved worthwhile.
+
+00:36.000 --> 00:40.400
+In fact, with the benefit of hindsight, they didn't go far enough.
+
+00:40.400 --> 00:45.060
+But the assumption that undergirded the decision to cancel, that they could process the cancellations
+
+00:45.060 --> 00:49.440
+early enough for customers to pivot plans and crews to reposition for new routings,
+
+00:49.440 --> 00:53.200
+proved utterly, devastatingly wrong.
+
+00:53.200 --> 00:54.680
+You know the rest of the story.
+
+00:54.680 --> 00:59.040
+Temperatures plummeted, thermometers across Denver plunged 37 degrees in a single hour,
+
+00:59.040 --> 01:03.720
+foiled travel plans ruined holidays, 5,700 flights nationwide cancelled before Christmas,
+
+01:03.720 --> 01:07.760
+and while other carriers staggered along, Southwest crumbled into crisis, ultimately
+
+01:07.760 --> 01:14.600
+cancelling nearly 17,000 flights and losing out on an estimated $825 million in the final
+
+01:14.600 --> 01:15.840
+10 days of the year.
+
+01:15.840 --> 01:19.000
+It was the biggest meltdown of its kind.
+
+01:19.000 --> 01:23.200
+Some blamed the storm, others blamed the carriers' point-to-point model, while others still blamed
+
+01:23.200 --> 01:24.600
+the company's culture.
+
+01:24.600 --> 01:29.600
+But as time let the hot takes cool, a less exciting culprit came forward.
+
+01:29.600 --> 01:35.180
+A culprit that's hardly unique to Southwest—a culprit, in fact, that's less a bug and
+
+01:35.180 --> 01:38.640
+more an inherent flaw within the industry.
+
+01:38.640 --> 01:42.720
+While the biggest, the meltdown wasn't the first, and while an embarrassment to Southwest
+
+01:42.720 --> 01:48.240
+alone, it was hardly a crisis unique to the big, beloved, budget airline.
+
+01:48.240 --> 01:52.920
+For Southwest, winter storm Elliott may have set the stage for the meltdown, but it didn't
+
+01:52.920 --> 01:53.920
+cause it.
+
+01:54.240 --> 01:58.680
+As much as anything, Southwest's meltdown was a function of legacy.
+
+01:58.680 --> 02:01.920
+Southwest made its name as the pioneer of the low-cost business model through quick
+
+02:01.920 --> 02:04.160
+turnarounds and point-to-point route networks.
+
+02:04.160 --> 02:08.320
+While a typical airline will fly their plane out and right back into their hub, a given
+
+02:08.320 --> 02:12.960
+day for a Southwest aircraft might start in San Diego, then continue to Sacramento, Denver,
+
+02:12.960 --> 02:15.600
+and Nashville before finishing up in Tampa.
+
+02:15.600 --> 02:18.860
+Through this network structure, Southwest could offer non-stop flights where competitors
+
+02:18.860 --> 02:23.560
+only had one-stops, and by exploiting this niche, grew into the world's sixth largest
+
+02:23.560 --> 02:24.560
+airline.
+
+02:24.560 --> 02:28.980
+But while efficient in perfect conditions, the system becomes a liability in the event
+
+02:28.980 --> 02:33.880
+of a delay or cancellation—pilots time out, crews don't make it to their expected destination
+
+02:33.880 --> 02:38.620
+for the evening, and planes aren't positioned in the right place for the next day's flight.
+
+02:38.620 --> 02:43.380
+But weather and unforeseen circumstances, as they always have, exist.
+
+02:43.380 --> 02:48.800
+So Southwest has tools for these situations, one of which is a GE aeronautics system called
+
+02:48.800 --> 02:50.280
+SkySolver.
+
+02:50.280 --> 02:54.840
+Plug data into SkySolver on irregular operations, and its algorithms will, in the words of its
+
+02:54.840 --> 02:58.200
+brochure, execute flight schedule changes and cancellations, conduct aircraft routing
+
+02:58.200 --> 03:01.360
+and equipment swaps, and make fixes to crew assignments and pairings.
+
+03:01.360 --> 03:05.180
+That means that, if a developing storm was to roll over Denver and cause Southwest to
+
+03:05.180 --> 03:08.960
+cancel this inbound flight from Sacramento, on account of the risk that the plane and
+
+03:08.960 --> 03:12.840
+crew will stay grounded by the weather, it would call on SkySolver to effectively stem
+
+03:12.840 --> 03:16.600
+the bleeding, and make sure that problems don't cascade to impact the rest of the
+
+03:16.600 --> 03:17.600
+routing.
+
+03:17.600 --> 03:21.020
+Even in Sacramento, rather than heading to Denver, SkySolver might send this plane on
+
+03:21.020 --> 03:24.800
+a passenger-less deadhead to Nashville, where the crew now nearing the end of their workday
+
+03:24.800 --> 03:27.860
+could time out and hand the plane over to the next.
+
+03:27.860 --> 03:31.880
+Of course, that's only the beginning—while finding the most cost-efficient solution is
+
+03:31.880 --> 03:36.080
+simple in the context of this single routing, it becomes orders of magnitude more complicated
+
+03:36.080 --> 03:39.920
+when considering the hundreds of additional Southwest flights passing through.
+
+03:39.920 --> 03:43.800
+Like, where to reposition this 737 that normally would have been running in and out of Denver
+
+03:43.800 --> 03:48.040
+all afternoon that has both the space for the plane and can begin running services the
+
+03:48.040 --> 03:49.040
+following morning?
+
+03:49.040 --> 03:52.800
+Or, what to do with this 737 that is running flights between cities in the storm's path
+
+03:52.800 --> 03:56.520
+and thus is at risk of getting stuck in a snowed-in airport?
+
+03:56.520 --> 03:59.520
+And how to make sure the later legs of this routing get flown when the plane meant to
+
+03:59.520 --> 04:01.880
+run it won't make it out of Denver that morning?
+
+04:01.880 --> 04:06.640
+Now, SkySolver is powerful enough to run up to 300 batches of cancellations in 20 minutes,
+
+04:06.640 --> 04:08.400
+but it does have limitations.
+
+04:08.400 --> 04:12.840
+First, it creates solutions to cancellations on the assumption of a static baseline.
+
+04:12.880 --> 04:16.000
+However, to figure out viable alternatives if half of Denver's flights are canceled,
+
+04:16.000 --> 04:19.880
+it needs to know that the Sacramento to Denver flight has already been canceled, and if it
+
+04:19.880 --> 04:23.520
+doesn't, or if the flight is canceled while the system is running, SkySolver solutions
+
+04:23.520 --> 04:27.120
+become less tenable, requiring reruns or manual intervention.
+
+04:27.120 --> 04:31.300
+Second, SkySolver is also limited by the data input into the system.
+
+04:31.300 --> 04:35.720
+Some of this data comes from an internal tool of Southwests called the Baker.
+
+04:35.720 --> 04:39.080
+Dispatch processes delays and cancellations through the Baker to reconfigure routings
+
+04:39.080 --> 04:43.280
+for aircraft and passengers before the information is then plugged into SkySolver.
+
+04:43.280 --> 04:48.040
+Crucially, what the Baker's data lacks is crew information—who's available where,
+
+04:48.040 --> 04:51.000
+when, and for how long before they're timed out.
+
+04:51.000 --> 04:55.220
+Now, as the storm worsened and the number of cancellations increased, the limitations
+
+04:55.220 --> 04:59.400
+of Southwests' solver collided, resulting in a massive tailspin.
+
+04:59.400 --> 05:03.480
+With crews left out of the equation, the algorithm's output provided what it thought to be viable
+
+05:03.480 --> 05:06.920
+solutions, but solutions without pilots and attendants.
+
+05:06.960 --> 05:09.920
+Once these flights had to cancel close in to departure time when it became apparent
+
+05:09.920 --> 05:13.940
+that they only had half of crew, everything else unraveled, as these new cancellations
+
+05:13.940 --> 05:16.360
+altered SkySolver's baseline assumptions.
+
+05:16.360 --> 05:21.120
+Effectively, the software's blind spot transformed the expected difficulties of a winter storm—hundreds
+
+05:21.120 --> 05:26.200
+of flights canceled at least 24 hours out on the 20th and 21st—into a full-blown crisis
+
+05:26.200 --> 05:30.560
+where Southwest tools worsened problems that it then tried to fix, only to worsen things
+
+05:30.560 --> 05:31.720
+further.
+
+05:31.720 --> 05:35.800
+Through Christmas, cancellations occurred closer and closer to departure time as pilots
+
+05:35.800 --> 05:39.360
+arrived to planes with no flight attendants, while planes with no passengers deadheaded
+
+05:39.360 --> 05:44.200
+on circular, nonsensical routings like this as the software essentially panicked, positioning
+
+05:44.200 --> 05:49.040
+and repositioning planes only for the crew to time out and get stuck once again.
+
+05:49.040 --> 05:53.760
+Finally, blind as to where their own crews were, and with flawed programs providing flawed
+
+05:53.760 --> 05:58.720
+fixes, Southwest went manual, training volunteer staff at headquarters on how to process pilot
+
+05:58.720 --> 06:02.320
+and flight attendant forms and preparing for a hard reset.
+
+06:02.320 --> 06:07.800
+In the four days following Christmas, Southwest would cancel an incredible 10,700 flights,
+
+06:07.800 --> 06:11.640
+all because the airline failed to address a weak point that they had already identified.
+
+06:11.640 --> 06:16.400
+They had put too much pressure, and stacked up too much complexity, onto a fragile IT
+
+06:16.400 --> 06:20.800
+system that everyone already knew needed an overhaul.
+
+06:20.800 --> 06:25.880
+And yet, as the calendar flipped, as Southwest began to stabilize, and as more detailed reporting
+
+06:25.880 --> 06:30.640
+on the meltdown began to emerge, a new meltdown stole the spotlight.
+
+06:30.640 --> 06:34.920
+Now it was the FAA that issued a nationwide ground stop.
+
+06:34.920 --> 06:40.160
+For 90 minutes, no commercial flights took off, and for the first time since 9-11, American
+
+06:40.160 --> 06:45.640
+commercial aviation came to a complete standstill, all because a single software update went
+
+06:45.640 --> 06:49.760
+sideways, leading to important preflight safety communications having to be relayed manually
+
+06:49.760 --> 06:53.760
+until they could simply no longer keep up with the morning rush of flights.
+
+06:53.760 --> 06:58.540
+And the cycle began again—upset customers, outraged press, and promises that the old
+
+06:58.540 --> 07:01.940
+technology that everyone knew would fail would be looked into.
+
+07:01.940 --> 07:04.660
+And this pattern didn't start with Southwest, either.
+
+07:04.660 --> 07:10.740
+IT meltdowns hit British Airways in 2017, then in 2019, then again in 2022, they forced
+
+07:10.740 --> 07:15.740
+Delta to cancel thousands of flights in 2016 and 2017, they pushed American Airlines to
+
+07:15.740 --> 07:19.140
+cancel over 1,000 regional flights in 2018.
+
+07:19.140 --> 07:23.860
+All said they'd do better the next time, and yet all still rely on outdated, overstretched
+
+07:23.860 --> 07:28.420
+IT systems that were never designed to handle the volume of industry growth in the decades
+
+07:28.420 --> 07:30.640
+since their initial development.
+
+07:30.640 --> 07:34.980
+But the problems of old, overstacked IT systems don't stop at the back end.
+
+07:34.980 --> 07:39.300
+While customer-facing systems might look good on the surface, the most important one, the
+
+07:39.300 --> 07:44.220
+very system that makes it all possible, was created as close in time to the Wright brothers'
+
+07:44.220 --> 07:46.180
+first flight as to today.
+
+07:46.180 --> 07:51.140
+When a traveler sees this, it may look modern, but what they're actually looking at is
+
+07:51.140 --> 07:53.700
+a translation of this.
+
+07:53.700 --> 07:58.820
+In the scenes, Google Flights entered a query into the Global Distribution System, an interconnected
+
+07:58.820 --> 08:02.740
+set of softwares run by Amadeus, Sabre, or Travelport.
+
+08:02.740 --> 08:08.500
+In fact, specifically it entered this, AD, to initiate an availability lookup, 08FEB
+
+08:08.500 --> 08:14.440
+to indicate the date, then DENLHR to specify Denver as the origin and London as the destination.
+
+08:14.440 --> 08:19.100
+This initiates a query from the GDS system to another, OAG, which essentially acts as
+
+08:19.100 --> 08:22.660
+the definitive source of airline scheduling data worldwide.
+
+08:22.660 --> 08:28.140
+The GDS then comes back and spits out two options—one by British Airways, one by United.
+
+08:28.140 --> 08:32.100
+The strings of letters and numbers indicate availability across the different fare classes,
+
+08:32.100 --> 08:37.060
+then the Wright side provides most other data—departure time, arrival time, aircraft type, and flight
+
+08:37.060 --> 08:39.460
+duration—but the fare data is still missing.
+
+08:39.460 --> 08:43.660
+For that, Google Flights needs to pick a flight, pick a fare class, then enter another query
+
+08:43.660 --> 08:44.660
+for its price.
+
+08:44.660 --> 08:48.740
+But the GDS doesn't have that data itself—it seeks the answer from the airline tariff publishing
+
+08:48.740 --> 08:53.740
+company which, similarly to the OAG US scheduling, is the one-stop shop for pricing data used
+
+08:53.740 --> 08:56.660
+by essentially every major airline globally.
+
+08:56.660 --> 09:01.500
+So once again, the GDS will repackage their response into this, reiterating the flight
+
+09:01.500 --> 09:05.540
+schedule, then displaying the base fare, the carrier surcharge, US passenger facility charge,
+
+09:05.540 --> 09:11.180
+security fee, and international departure tax to give a total $630.20 one-way fare on
+
+09:11.180 --> 09:14.540
+the February 8th British Airways Denver to London flight.
+
+09:14.540 --> 09:18.380
+This entire process is repeated for the United option, which gives Google Flights all the
+
+09:18.420 --> 09:21.580
+information necessary to populate this screen.
+
+09:21.580 --> 09:25.100
+But next up is booking, and that's even more involved.
+
+09:25.100 --> 09:29.240
+Regardless of where a booking takes place, with some limited exceptions, the user interface
+
+09:29.240 --> 09:33.460
+is just a translation tool to input a string of commands into the GDS.
+
+09:33.460 --> 09:37.900
+This sequence initiates the process of creating a Passenger Name Record, or PNR, to which
+
+09:37.900 --> 09:41.720
+it will then input a phone number, the name of the person making the booking, then a precisely
+
+09:41.720 --> 09:45.020
+formatted description of the desired flight itinerary.
+
+09:45.060 --> 09:49.460
+After reconfirming availability and fare price, the GDS will then submit the PNR and return
+
+09:49.460 --> 09:52.460
+with this—the time limit for actually paying for the booking.
+
+09:52.460 --> 09:56.980
+At this point, the booking is confirmed—that seat is reserved, and will stay reserved unless
+
+09:56.980 --> 09:59.680
+that payment deadline passes without payment.
+
+09:59.680 --> 10:03.940
+While these days customers typically pay immediately, in the background it's rarely required, but
+
+10:03.940 --> 10:07.980
+this delayed deadline gives an online travel agency like Expedia, for example, time to
+
+10:07.980 --> 10:12.600
+process and verify payment from the customer before actually paying for the ticket themselves,
+
+10:12.600 --> 10:16.360
+at which point it might become nonrefundable, leaving the company in a tricky spot if a
+
+10:16.360 --> 10:17.880
+customer's credit card payment declines.
+
+10:17.880 --> 10:22.300
+But even before paying, Expedia will close out the transaction with the GDS, therefore
+
+10:22.300 --> 10:25.920
+sending the Passenger Name Record to the airline, which will respond with a modified version
+
+10:25.920 --> 10:29.560
+including a confirmation number, which is then extracted and sent to the customer in
+
+10:29.560 --> 10:32.440
+a flashy, well-formatted email.
+
+10:32.440 --> 10:37.240
+The GDS, and its associated systems, were revolutionary for the airline industry.
+
+10:37.240 --> 10:41.980
+Not only did they make reservations a far less labor-intensive process, they made essentially
+
+10:41.980 --> 10:45.380
+every airline reservation system interoperable with each other.
+
+10:45.380 --> 10:49.740
+These days it's fairly simple for airlines to sell tickets involving other airlines—they're
+
+10:49.740 --> 10:53.700
+all using the same GDS already, so the way United's internal systems interpret and
+
+10:53.700 --> 10:57.020
+modify a PNR is the same way Lufthansa's would.
+
+10:57.020 --> 11:01.700
+Theoretically, United could sell you an itinerary connecting onto an American Airlines flight—they
+
+11:01.700 --> 11:05.380
+wouldn't because they don't have a commercial partnership with the airline, but from a technical
+
+11:05.380 --> 11:09.340
+perspective there's nothing stopping them, and if something goes wrong and your United
+
+11:09.340 --> 11:14.100
+flight cancels, the airline can and occasionally will rebook flights onto American, Delta,
+
+11:14.100 --> 11:15.780
+and others using this system.
+
+11:15.780 --> 11:21.100
+But while the GDS was revolutionary, it hardly still is today.
+
+11:21.100 --> 11:25.320
+In fact, at airports around the world, when you step up to a reservations agent, chances
+
+11:25.320 --> 11:28.620
+are the other side of their screen looks like this.
+
+11:28.620 --> 11:34.080
+Still today, in 2023, the GDS has operated as a command-line interface, the way computers
+
+11:34.080 --> 11:38.340
+worked before graphical user interfaces were popularized in the 80s.
+
+11:38.340 --> 11:42.620
+American interfaces aren't in and of themselves an issue, but in context, the difficulty is
+
+11:42.620 --> 11:46.460
+that using them requires legitimate creativity and skill.
+
+11:46.460 --> 11:51.220
+Let's say, for example, a customer is here in Denver, headed to Zurich, and their 1.40
+
+11:51.220 --> 11:55.340
+pm flight to Chicago to connect onto the 7.10 overnight to Zurich just cancelled, meaning
+
+11:55.340 --> 11:57.260
+they won't make their connection.
+
+11:57.260 --> 12:01.220
+A rebooking agent would start by querying the GDS for the next available itinerary between
+
+12:01.220 --> 12:05.420
+the two cities, and they would see there's a viable one connecting onto a 7.20 pm Swiss
+
+12:05.420 --> 12:09.380
+Air flight out of LAX, but the problem is that the only two flights to LA that would
+
+12:09.380 --> 12:15.420
+make that, at 1.36 and 3.55, are already oversold, meaning there's no seat available for the
+
+12:15.420 --> 12:16.660
+stranded passenger.
+
+12:16.660 --> 12:21.900
+So, according to the GDS, it's impossible to get that passenger on their way to Zurich
+
+12:21.900 --> 12:23.940
+until the next day.
+
+12:23.940 --> 12:28.640
+But just because the GDS says it's impossible doesn't mean it actually is.
+
+12:28.640 --> 12:32.500
+For example, an experienced rebooking agent would know that United also flies to John
+
+12:32.500 --> 12:36.780
+Wayne Airport in Orange County, about an hour's drive from LAX, so if desperate,
+
+12:36.780 --> 12:40.940
+the passenger could fly to there, take a taxi to LAX, then make their overnight flight to
+
+12:40.940 --> 12:41.940
+Switzerland.
+
+12:41.940 --> 12:45.940
+The GDS can't offer this as an option because it's not one that the airline would sell,
+
+12:45.940 --> 12:49.780
+so it's not in the system, but with this knowledge, an agent could individually book
+
+12:49.780 --> 12:54.380
+seats for each leg, then string them together into an itinerary in the PNR.
+
+12:54.380 --> 13:00.200
+The GDS also would know that United's 11.45 am LAX-bound flight was delayed until 1.30,
+
+13:00.200 --> 13:03.200
+meaning this passenger could still take that and make the connection.
+
+13:03.200 --> 13:07.180
+It also wouldn't suggest taking American's 4.10 pm flight to LAX as an option because
+
+13:07.180 --> 13:11.680
+Swiss Air and American don't typically ticket together, but in this exceptional circumstance,
+
+13:11.680 --> 13:15.540
+United could buy the stranded passenger a ticket on American through the GDS to continue
+
+13:15.540 --> 13:17.200
+their journey on Swiss.
+
+13:17.200 --> 13:21.240
+And this is only the tip of the iceberg—there are endless tricks to working with the GDS
+
+13:21.240 --> 13:25.920
+to solve problems, but experience is needed to know the right technique.
+
+13:25.920 --> 13:31.240
+The horrible truth this presents, for both passengers and airlines, is that, constantly,
+
+13:31.240 --> 13:34.760
+passengers are getting stranded when they don't have to be—it's down to the luck
+
+13:34.760 --> 13:35.820
+of the draw.
+
+13:35.820 --> 13:38.900
+Is the rebooking agent you're walking up to one that's worked there for 30 years
+
+13:38.900 --> 13:43.120
+and knows the GDS like the back of their hand, or have they just finished the limited required
+
+13:43.120 --> 13:46.120
+training to complete those simplest tasks?
+
+13:46.120 --> 13:50.640
+For passengers, this increases the frequency of getting stranded on the road, and for airlines,
+
+13:50.640 --> 13:54.440
+this increases the cost borne from issuing meal vouchers, booking accommodation, and
+
+13:54.440 --> 13:59.240
+paying for delay compensation when passengers don't get to their destination on time.
+
+13:59.240 --> 14:04.400
+And the limitations of the GDS not only create additional costs, but also prevent potential
+
+14:04.400 --> 14:05.400
+revenue.
+
+14:05.400 --> 14:08.920
+For example, Air New Zealand developed an innovative product where three successive
+
+14:08.920 --> 14:14.020
+economy-class seats can be transformed into a short, lie-flat bed called skycouch.
+
+14:14.020 --> 14:19.100
+That means that those seats can be sold individually, as usual, or as a set of three to one or two
+
+14:19.100 --> 14:20.520
+passengers.
+
+14:20.600 --> 14:24.960
+This sort of optionality breaks the GDS—it doesn't have a way of properly communicating
+
+14:24.960 --> 14:29.880
+or reserving these sorts of transformable seats, so on the GDS, skycouch seats are just
+
+14:29.880 --> 14:33.820
+displayed as occupied, regardless of whether they actually are.
+
+14:33.820 --> 14:37.240
+In order to book them, one has to go directly to the Air New Zealand website.
+
+14:37.240 --> 14:41.080
+For the airline, this leaves plenty of potential revenue on the table.
+
+14:41.080 --> 14:45.080
+For example, a huge portion of the airline's traffic is ticketed through United, since
+
+14:45.080 --> 14:49.800
+United is a major partner that feeds inbound traffic from across the US to Air New Zealand's
+
+14:49.800 --> 14:53.640
+long-haul flights out of LA, San Francisco, Houston, and Chicago.
+
+14:53.640 --> 14:57.840
+Those passengers can book and check in exclusively with United, meaning they would never have
+
+14:57.840 --> 15:02.000
+even had the chance to pay Air New Zealand for a skycouch, and it's the same with passengers
+
+15:02.000 --> 15:05.860
+who booked through other airlines or online travel agencies.
+
+15:05.860 --> 15:09.560
+Airlines have been complaining about the GDS system for decades, and so there are an increasing
+
+15:09.560 --> 15:14.200
+number of technical solutions and workarounds to the GDS's constraints, but even those
+
+15:14.200 --> 15:15.200
+have their problems.
+
+15:15.200 --> 15:19.780
+For example, Iota introduced the New Distribution Capability Standard, which allows for more
+
+15:19.780 --> 15:24.700
+complex back-end communication, but rather than serving as the solution to the GDS's
+
+15:24.700 --> 15:29.180
+shortcomings, it more so demonstrates what's truly at the root of the problem.
+
+15:29.180 --> 15:34.940
+162 airlines, travel agencies, system providers, and others are certified by Iota as having
+
+15:34.940 --> 15:40.220
+properly integrated this new standard into their systems—or at least, part of it.
+
+15:40.220 --> 15:45.540
+The core functions have pretty good uptake—for example, 156 of those have incorporated the
+
+15:45.540 --> 15:50.020
+NDC standard that allows for shopping for flights—but then you get to the more novel
+
+15:50.020 --> 15:51.020
+functions.
+
+15:51.020 --> 15:55.720
+SHPAN2 is a standard that allows for the sale of increasingly common unbundled anciliaries
+
+15:55.720 --> 16:00.780
+like inflight Wi-Fi, lounge access, priority boarding, and more, meaning that, theoretically,
+
+16:00.780 --> 16:04.320
+it allows someone booking through Expedia to buy that inflight Wi-Fi right in their
+
+16:04.320 --> 16:05.560
+checkout flow.
+
+16:05.560 --> 16:10.220
+But only 51 of the 162 are certified on this capability.
+
+16:10.220 --> 16:14.860
+And then you get into the really specialized stuff—NDC has enabled airlines to have interoperable
+
+16:14.860 --> 16:19.220
+dynamic pricing systems, meaning, rather than working with the constraints of the GDS
+
+16:19.220 --> 16:23.460
+and ATP Co., which only allow for price updates a certain number of times per day, each fare
+
+16:23.460 --> 16:27.740
+would be customized for each individual consumer based on an algorithm's estimation of their
+
+16:27.740 --> 16:29.180
+price sensitivity.
+
+16:29.180 --> 16:34.340
+But to date, not a single airline is certified on this already-existing, revenue-generating
+
+16:34.340 --> 16:35.840
+standard.
+
+16:35.840 --> 16:38.380
+This is a familiar refrain.
+
+16:38.380 --> 16:41.820
+Airlines ask for more advanced systems, more advanced systems are developed, then airlines
+
+16:41.820 --> 16:45.060
+don't use the more advanced systems because they decide the cost it would take to integrate
+
+16:45.060 --> 16:46.860
+them isn't worth it.
+
+16:46.860 --> 16:51.500
+And some airlines are going further, not only failing to implement new interoperable systems,
+
+16:51.500 --> 16:53.260
+but rejecting their use altogether.
+
+16:53.260 --> 16:57.700
+For example, if you search on Expedia for an itinerary between Denver and Long Beach,
+
+16:57.700 --> 17:01.780
+it'll tell you the best option is a one-stop trip through Phoenix on American, but there
+
+17:01.780 --> 17:05.540
+are actually three non-stop flights a day on that route.
+
+17:05.540 --> 17:10.100
+The problem, though, is that they're Southwest flights, and with limited exception, Southwest
+
+17:10.100 --> 17:14.740
+does not allow for booking through the GDS, meaning Expedia has no way to book a customer
+
+17:14.740 --> 17:16.220
+a ticket on the airline.
+
+17:16.220 --> 17:20.200
+Meanwhile, on Google Flights, which focuses on directing people where to book rather than
+
+17:20.200 --> 17:24.700
+booking itself, you can find Southwest schedules, which are filed with OAG, but you can't
+
+17:24.700 --> 17:29.540
+find fares—with no GDS sales, there's no reason to distribute fare information.
+
+17:29.540 --> 17:33.940
+This all means that nearly all Southwest bookings are done on Southwest's website, but the
+
+17:33.940 --> 17:38.220
+airline can customize and revenue-optimize the booking process as they wish.
+
+17:38.220 --> 17:42.940
+The upsells are everywhere, before confirming a fare when it gets a pop-up outlining the
+
+17:42.940 --> 17:45.700
+benefits of the next most expensive fare class.
+
+17:45.700 --> 17:49.540
+On the following screens, there's the same upsell again, an offer for a $200 credit in
+
+17:49.540 --> 17:53.500
+return for signing up for their credit card, and an option to pay for early check-in, guaranteeing
+
+17:53.500 --> 17:55.920
+one of the best boarding positions.
+
+17:55.920 --> 17:57.880
+These upsells matter.
+
+17:57.880 --> 18:02.780
+In 2021, ancillary fees made up more than $4 billion in revenue for Southwest, and that
+
+18:02.780 --> 18:07.800
+ancillary revenue is raised when customers book directly and are offered all the upsells.
+
+18:07.800 --> 18:12.140
+And in addition to increased revenue, direct booking costs less—no paying for developers
+
+18:12.140 --> 18:16.040
+to integrate their systems with others, no paying GDS fees, no paying commissions to
+
+18:16.040 --> 18:17.820
+Expedia and others.
+
+18:17.820 --> 18:22.700
+Following Southwest's lead, GDS non-participation by budget airlines is downright common these
+
+18:22.700 --> 18:27.080
+days, and the full-service network carriers are increasingly working around it to strike
+
+18:27.080 --> 18:31.640
+up direct business and system relationships with major sales channels and partners.
+
+18:31.640 --> 18:35.040
+But this is fragmenting the industry.
+
+18:35.040 --> 18:39.100
+Comments are innovating, which is exactly what the industry should be doing, but through
+
+18:39.100 --> 18:43.720
+this individual innovation, are losing the collective interoperability that has led to
+
+18:43.720 --> 18:47.880
+the globally seamless travel experience that customers have come to expect.
+
+18:47.880 --> 18:52.120
+It's almost analogous to a reverse tragedy of the commons.
+
+18:52.120 --> 18:56.800
+Each individual node in the system would grow their revenue by investing in better interoperable
+
+18:56.800 --> 18:59.680
+systems, but only if every other node did too.
+
+18:59.680 --> 19:03.560
+If only one node invests, they'll have spent money to create interoperability, but still
+
+19:03.560 --> 19:08.600
+lack partners to interoperate with, meaning no revenue impact and a negative cost impact.
+
+19:08.600 --> 19:13.520
+So, in this context, each node is actually incentivized to reduce interoperability to
+
+19:13.520 --> 19:18.020
+push consumers towards their own systems, which are better designed to increase per-customer
+
+19:18.020 --> 19:20.200
+revenue than the interoperable ones.
+
+19:20.200 --> 19:23.380
+It's a strategic stalemate.
+
+19:23.380 --> 19:28.120
+And this can explain the broader issue as well—there's a strategic IT stalemate.
+
+19:28.120 --> 19:32.560
+When every airline's IT is equally bad, there's little competitive incentive to
+
+19:32.560 --> 19:33.720
+improve it.
+
+19:33.720 --> 19:38.240
+Why invest to improve to a level that the public doesn't even know is possible?
+
+19:38.240 --> 19:44.000
+Globally, the airline industry has just settled on a culture of good enough.
+
+19:44.000 --> 19:48.680
+The problem, from our outside perspective, is that airlines essentially act as public
+
+19:48.680 --> 19:50.200
+utilities these days.
+
+19:50.200 --> 19:54.620
+They're the only practical means of long-haul travel, and are also the only practical means
+
+19:54.620 --> 20:00.220
+for medium-haul travel in areas of North America, Russia, Australia, and other larger, less-dense
+
+20:00.220 --> 20:01.220
+countries.
+
+20:01.260 --> 20:05.860
+Airlines slow down, people slow down, and therefore, economies slow down.
+
+20:05.860 --> 20:09.820
+The US recognizes this fact by subsidizing the construction and maintenance of airports,
+
+20:09.820 --> 20:14.220
+and even more strongly by subsidizing airlines to fly to rural and remote communities, under
+
+20:14.220 --> 20:18.820
+the thesis that a lack of air travel options would hold back their economies.
+
+20:18.820 --> 20:22.560
+And countries also recognize this preemptively, historically treating the earliest airlines
+
+20:22.560 --> 20:26.660
+as government services and running them as state-owned enterprises, but in the century
+
+20:26.660 --> 20:31.460
+sense, the trend has been thoroughly towards privatization, meaning the only real obligation
+
+20:31.460 --> 20:32.900
+is to the shareholder.
+
+20:32.900 --> 20:37.460
+So this is one of those all-too-common scenarios where there is a stark difference between
+
+20:37.460 --> 20:40.820
+what's good for the shareholder, and what's good for the world.
+
+20:40.820 --> 20:46.060
+Therefore, it's pretty simple—regulators need to decide whether airlines' IT antiquity
+
+20:46.060 --> 20:51.820
+is a problem for the public, and if so, do something about it.
+
+20:51.820 --> 20:56.380
+As many of you know, I travel constantly—I'm on the road more than I'm at home, and one
+
+20:56.420 --> 21:00.220
+thing that I've found is crucial to making that level of travel sustainable is having
+
+21:00.220 --> 21:04.460
+self-improvement routines that I can do both at home and on the road.
+
+21:04.460 --> 21:08.060
+That means going to the gym, on runs, and a less common one that I've really grown
+
+21:08.060 --> 21:11.020
+to love is using our sponsor, Brilliant.org.
+
+21:11.020 --> 21:14.980
+That's because Brilliant has these really interesting, well-designed courses on STEM
+
+21:14.980 --> 21:18.340
+subjects that probably seem way too hard to learn independently.
+
+21:18.340 --> 21:22.320
+Crucially, these courses are designed so you can move through them in bite-sized chunks,
+
+21:22.320 --> 21:25.800
+so while I'm at home, I might make some progress learning gravitational physics while
+
+21:25.800 --> 21:28.940
+waiting for a call to start, while on the road, you might find me doing the same while
+
+21:28.940 --> 21:30.120
+waiting for the plane to board.
+
+21:30.120 --> 21:34.080
+And what's amazing about it is that, if you just do that enough times, suddenly you
+
+21:34.080 --> 21:39.720
+understand how foundational and advanced math, or AI, data science, or neural networks work.
+
+21:39.720 --> 21:43.240
+Obviously, these subjects are complex, but Brilliant makes learning them straightforward
+
+21:43.240 --> 21:46.800
+by breaking them down into their intuitive principles, and by making it so you can learn
+
+21:46.800 --> 21:50.300
+anywhere and anytime thanks to their mobile app.
+
+21:50.300 --> 21:54.200
+And they have over 60 of these courses—few enough that you know they're really working
+
+21:54.200 --> 21:58.440
+on making each one amazing, while many enough that they feature all the major STEM subjects
+
+21:58.440 --> 21:59.440
+that you'd want to learn.
+
+21:59.440 --> 22:03.360
+I think it's so cool that you can learn such big, complex subjects independently at
+
+22:03.360 --> 22:07.700
+your own pace, so if you agree, you can try everything Brilliant has to offer, free, for
+
+22:07.700 --> 22:12.320
+a full 30 days by visiting Brilliant.org slash Wendover, or clicking the button on screen.
+
+22:12.320 --> 22:16.920
+The first 200 of you will get 20% off Brilliant's annual premium subscription.
+

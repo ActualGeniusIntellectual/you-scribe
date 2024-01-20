@@ -1,0 +1,240 @@
+start	end	text
+0	5280	This video was made possible by CuriosityStream—sign up for the CuriosityStream-Nebula bundle deal
+5280	10080	to watch the extended cut of this video with everything we cut for time at CuriosityStream.com
+10080	13240	slash Wendover.
+13240	16860	Supermarkets are a marvel obscured by banality.
+16860	22520	Nearly everyone in the developed world uses them regularly, so we have no basis of comparison—we
+22520	25160	just don't know a world without supermarkets.
+25960	30200	We don't know how it was a century ago, when grocery stores took the form of small
+30200	34040	storefronts found every few blocks throughout towns and cities.
+34040	38480	You'd hand the clerk a list, indicating you wanted, among other things, apples.
+38480	43440	They'd then gather you apples—assuming they were in season and in stock.
+43440	47880	Nowadays, however, you are confronted by an aisle rivaling the size of those historic
+47880	53680	grocery stores, displaying a tantalizing, sprawling selection of honeycrisps, fujis,
+53680	61040	Granny Smiths, Galas, Braeburns, and more—all the varieties always in stock all year long.
+61040	66880	They sit next to pineapples from Costa Rica, avocados from Mexico, and mangoes from Brazil.
+66880	71120	Further on, there's beef from an entirely different hemisphere, and fish that was alive
+71120	74680	in the ocean thousands of miles away just days ago.
+74680	79820	A century ago, you could certainly buy a jar of peanut butter, but now, you can buy regular
+79820	84820	peanut butter, or chunky peanut butter, or smooth peanut butter, or organic peanut butter,
+84820	86300	and it doesn't stop there.
+86300	91460	You can get the chunky Jif brand, or the chunky Smokers brand, or the Skippy brand, the store
+91460	94700	brand, or one of so many more.
+94700	99620	You have dozens upon dozens of choices of peanut butter, dozens of choices of other
+99620	105260	nut butter, dozens of choices of other sandwich spreads, and all of that is just one part
+105260	107240	of one aisle.
+107240	113140	Put together, the stability and variety of choice in modern supermarkets is incredible.
+113140	119720	In big cities and small towns alike, American supermarkets offer an average of some 30,000
+119720	125600	different product choices, which stay in stock about 92% of the time.
+125600	130240	While the concept of the modern supermarket first appeared in the US, it's since proliferated
+130240	133280	across the entire developed world.
+133280	139100	The fact that this has become not only normal, but expected globally is the greatest indicator
+139100	144760	of the robustness of the modern global supply chain, but that's not to say that it's
+144760	145760	easy.
+145760	150520	For consumers, it's simple—we can get everything we want, any time, from a single
+150520	155720	store, but the complexity behind that is truly stunning.
+155720	161800	This is a typical American supermarket—a city market brand store in Glenwood Springs,
+161800	162800	Colorado.
+163320	167760	The brand is small, it's part of the larger King Soopers brand, which itself is part of
+167760	171440	Kroger's—the largest American supermarket company.
+171440	176280	The entire American supermarket landscape is incredibly consolidated, with the top four
+176280	182100	companies holding 45% of the market, which certainly has massively negative consequences,
+182100	188460	but this market concentration has led to the huge scale and complexity of our current food
+188460	189880	supply chain.
+189880	194700	Even independent grocers now tend to rely on gigantic cooperatives to amass buying
+194700	201400	power and supply their shelves, so industry-wide, scale, and complexity is the norm.
+201400	207100	Now, supermarkets like this are involved with a perpetual balancing act—keeping items
+207100	210160	in stock is of paramount financial concern.
+210160	214320	Research into the matter has found that on the third instance of a desired item being
+214320	219700	out of stock, consumers will go to an alternate store 70% of the time.
+219700	224140	Being located just five minutes from a Walmart, this store can't afford to go out of stock
+224140	229380	of a single item, push a customer to a competitor, and lose out on thousands of dollars in annual
+229380	232580	sales because they decide they like Walmart more.
+232580	237580	Therefore, the task is to keep everything in stock, as much as possible, while having
+237580	240220	as little extra product as possible.
+240220	245420	So, the way this Glenwood Springs city market, along with essentially any grocery store,
+245420	250420	keeps those 30,000 products continuously on its shelves is simple, at least on the
+250420	251420	surface.
+251420	255500	You see, every item in a supermarket is labeled with a barcode.
+255500	260440	Usually that code is standardized industry-wide, except with some white-label products.
+260440	265300	When products arrive at the store, they are checked in to its inventory management software.
+265300	267040	From there, it's simple math.
+267040	271060	As products are checked out and paid for, they're subtracted from the inventory count,
+271060	275020	and as that count gets low, the store knows it's time to reorder.
+275020	280260	It's a straightforward concept—except when you actually implement it in the real
+280260	281260	world.
+281260	287060	There's more than one way a product can leave a store—it can get stolen, go bad,
+287060	289060	get damaged, or more.
+289060	295020	That means there's always a slight disparity between how many items there are on paper
+295020	296580	and in reality.
+296580	299920	Inventory management software can account for some of that, assuming employees feed
+299920	304840	it accurate data, but stores also conduct a manual count every month or two to determine
+304840	306740	the actual disparity.
+306740	311540	This is most important for financial reporting reasons—the retailer can't know how profitable
+311540	316660	it actually is until it knows how much product it lost, but it can also be used to tell the
+316660	320900	inventory management software how much it's typically off, and correct for that in the
+320900	324040	future to make sure reorders happen on time.
+324040	326460	Then, there are other factors.
+326460	330860	For example, if a supermarket runs a sale on a given item, that product will likely
+330860	335540	sell more, so inventory management software needs to account for that in its ordering
+335540	340100	process to make sure that it correspondingly ramps inventory up.
+340100	345620	Then, incoming unseasonably warm weather could mean that barbecue charcoal sales, for example,
+345620	350420	are about to increase, while hot chocolate sales will decrease, so more complex inventory
+350420	355020	management software can account for external factors like these and make ordering decisions
+355020	356580	based upon them.
+356580	360060	Now, some products are simple to keep in stock.
+360060	364680	Oreos, for example, have a long shelf life and come from a massive manufacturer with
+364680	367860	multiple production facilities spread out across the world.
+367860	371940	There's plenty of slack and flexibility in that system.
+371940	374740	That's not the case with all foods.
+374740	377500	Take, for example, grapes.
+377500	382260	Table grapes are quite difficult to keep in stock—if there's a sudden surge in demand
+382260	385800	for grapes, you can't just order more from the factory.
+385800	390460	Their global inventory levels are essentially decided years before, as growers decide whether
+390460	393140	to add or subtract vines from their vineyards.
+393140	399140	What's more, grapes are highly seasonal—they don't ripen off the vine, so they have to
+399140	403480	be picked exactly when they're best for eating—effectively meaning growers have
+403480	408040	a one- or two-week window to get a given vineyard harvested.
+408040	413620	Of course, grapes are found in grocery stores for far more than two weeks a year.
+413620	416000	In fact, they're almost always available.
+416000	422800	What makes that possible is a massive production cycle spanning across the entire western hemisphere.
+422800	427560	Now, the easy part of the year for the Glenwood Springs city markets to get its grapes is
+427560	428560	late summer.
+428560	432720	That's because California's Central Valley, where the vast majority of the country's
+432720	438040	grapes are grown, has its natural harvest season between mid-August and late September.
+438040	443660	That's extended earlier into July by ultra-early season varieties of grapes, such as Chardra
+443660	448680	UA, and then later into November by late season varieties such as the Autumn King.
+448680	453540	Therefore, there's about a four-month window when the entire country's grape supply is
+453540	456240	largely fueled by California.
+456240	460960	Once that ends, though, things get trickier, but the industry has learned to take advantage
+460960	463000	of global climate patterns.
+463000	469120	Peru, thanks to its fairly equatorial climate, begins its harvest just when California's
+469120	474320	ends, early December, and saturates the market until mid-February when Chile, with its more
+474320	476640	seasonal climate, takes over.
+476640	481120	They essentially act as the southern hemisphere equivalent of California, also using early
+481120	485880	and late season varieties to stretch their massive harvest all the way until May.
+485880	491280	Next, California's Imperial and Coachella Valleys, as well as various locations in Mexico,
+491280	493200	fire up their harvests.
+493200	497800	These areas have year-round warm weather that allows for a year-round growing season, but
+497800	502720	time their vineyards specifically to line up with this gap in the market until mid-July
+502720	507480	when California's more seasonal Central Valley begins its harvest, starting the cycle
+507480	508480	once again.
+508480	513520	While the overall path a given food product takes varies dramatically, the one constant
+513520	518800	is that every item that ends up on the Glenwood Springs City Market's shelves comes via
+518800	521840	here—the distribution center.
+521840	527000	Now, how distribution centers work on the surface level is fairly standard—they bring
+527000	531440	in pallets of a single product, break them down to the box level, and create pallets
+531440	535160	with smaller quantities of everything a store needs.
+535160	539640	How each distribution center accomplishes that, however, differs.
+539640	544920	Kroger's Aurora facility, operated by a company called Windigo Logistics, uses a fairly
+544920	547360	high degree of automation.
+547360	552080	Trucks arrive from all across North America, delivering pallets worth of product from Kroger's
+552080	553620	different vendors.
+553620	558320	For example, a truck might arrive from Nabisco's plant in Chicago carrying pallets worth of
+558320	559380	Oreos.
+559380	564300	These pallets are immediately placed on an induction conveyor belt, where a scanner determines
+564300	566360	what they actually are.
+566360	569800	Without information, the warehousing software determines whether it thinks it will need
+569800	573240	more Oreos in its system in the next three days or later.
+573240	578120	If the answer's later, the pallets will just make a quick stop at a pallet exchanger
+578120	583280	machine, which swaps each onto a fresh storage pallet before the conveyor belt takes them
+583280	587680	to an automated longer-term storage system in a separate part of the warehouse.
+587680	592000	If one pallet's worth of Oreos is needed sooner, though, it will go to a depalletizing
+592000	596620	machine, which breaks them down to the box level, each of which carries dozens of units
+596620	598360	of the actual product.
+598360	602880	Those boxes are injected into a network of conveyor belts, which takes them to a machine
+602880	605640	that places each onto an individual tray.
+605640	610400	That tray is then automatically stored somewhere in a cavernous hall of shelving—essentially
+610400	612120	a massive vending machine.
+612120	616400	Sometime in the next three days, some King Soopers or city market store will place a
+616400	621520	reorder indicating that they need Oreos, and so the warehousing software will automatically
+622040	626360	remove some trays of Oreos from the shelving and place them on another conveyor belt, which
+626360	630640	will take them to a smaller automated shelving system closer to the palletizing area, which
+630640	634600	acts as interim storage, keeping items no more than a few hours.
+634600	639540	Then, when it comes time to build an actual pallet worth of product for a given store,
+639540	642760	the trays are removed from the shelving in a specific order.
+642760	646900	You see, the system knows the composition of the shelves of each of their stores, so
+646900	649240	it knows what order to build a pallet in.
+649240	654000	They'll put items for one side of a store aisle at the bottom of a pallet, items for
+654000	658420	the middle of that aisle in the middle, and items for the other end, at the top.
+658420	662680	That way, the stockers in the store can break down a pallet and put things immediately on
+662680	665580	the shelves in the most efficient manner.
+665580	670480	At the distribution center, this palletizing process is still completely automated, and
+670480	674920	in the end, the system will deliver completed pallets to humans responsible for loading
+674920	676200	outbound trucks.
+676200	681500	Finally, once that's all completed, a truck will take the three-hour journey west to Glenwood
+681500	687080	Springs' city market, where an overnight crew restocks the shelves with fresh product.
+687080	693440	Now, even as automation is making significant inroads, plenty of grocery distribution centers
+693440	696960	still use a far more manual approach.
+696960	701900	That process is essentially the same—pallets are taken in, stored, and outbound pallets
+701900	706000	are built with smaller quantities of each product, but each step is just completed by
+706000	708260	humans instead of machines.
+708260	713140	However, both the automated and manual processes are not perfect.
+713140	719580	Specifically, they present an issue for what's referred to as slow-moving inventory.
+719580	723900	You see, grocery distribution centers are traditionally configured to work by the pallet
+723900	728900	load—it just isn't efficient to take in a smaller amount—but sometimes, products
+728900	731060	just aren't that popular.
+731060	737560	However, unpopular products are actually crucial to the business strategies of modern supermarkets.
+737560	742180	The reason why they might have dozens upon dozens of types of salsas is that some niche
+742180	747320	brand on the bottom shelf is probably at least one person's favorite.
+747320	751780	The city market in Glenwood Springs might carry that salsa, but the Walmart or Target
+751780	752900	might not.
+752900	757100	Even if one consumer can get everything else they need at one of the competitors, they're
+757100	762220	going to keep coming back to the city market because they know they can get that one niche
+762220	764920	product that they love.
+764920	769860	Supermarkets view niche, slow-moving products as key differentiators, and key to customer
+769860	774660	retention, so they're certainly willing to sell these products even at a loss.
+774660	780260	In fact, Walmart experimented with reducing its product variety by 11%, but quickly reversed
+780260	785860	course as it became clear that this ultimately had a negative impact on their bottom line—even
+785860	788780	if it simplified their distribution logistics.
+788780	793540	On the warehouse side, though, if each store that sells that niche salsa only sells a dozen
+793540	798240	of them per week, it's going to take quite a while for even the entire company to work
+798240	800580	their way through a single pallet.
+800580	805100	In the distribution center, though, a single pallet in the picking area takes the space
+805100	810260	of a single pallet, regardless of whether it's used up in a day or a month.
+810260	814660	Therefore, every additional niche product stocked increases the amount of storage space
+814660	819140	needed, and increases the overall distance that pickers have to travel to assemble an
+819140	823240	average pallet, even in the case of manual warehouses.
+823240	827800	To mitigate these effects, while still maintaining their offerings of niche products, some supermarket
+827800	833440	chains, including Kroger's and H-E-B, have set up entire, dedicated distribution centers
+833440	835820	for slow-moving inventory.
+835820	839720	By setting up these facilities, they can ship out less than box-load shipments of certain
+839720	844900	products and stock them without slowing down the process for fast-moving inventory.
+844900	849440	Of course, this process does still require a certain amount of scale to work better than
+849440	850440	the alternative.
+850440	855280	While Kroger's has set it up in densely populated areas of the US East Coast, it is
+855280	859620	yet to do so in the more sparsely populated Rockies region, home to their King Soopers
+859620	861520	and City Market brands.
+861520	866480	There just isn't enough demand in the region to justify a dedicated setup.
+866480	871920	The pure scale at which the supermarket industry operates is what has led to this level of
+871920	874240	supply chain complexity.
+874240	879200	When a single facility is responsible for distributing a sizable portion of a state's
+879200	885880	food supply, tiny, incremental efficiency improvements can lead to huge savings for
+885880	886880	companies.
+886880	891520	While such commoditization and consolidation of food supply is viewed as problematic by
+891520	897280	many people, ultimately, the average consumer just wants a wide variety of food at a low
+897280	898280	cost.
+898280	904280	That's what this system provides—any modern supply chain is molded into what leads to
+904280	908120	commercial success, and as long as people continue to view the convenience of having
+908120	913480	30,000 options of what to eat at a moment's notice as paramount, this is how the developed
+913480	917720	world will continue to get their food.
+917720	921240	So anyone who's stayed to this point in the video probably enjoys watching Wendover
+921240	926480	videos and would enjoy watching as much of them as possible, but unfortunately, the YouTube
+926480	929100	algorithm doesn't feel the same.
+929100	934440	For any channel, there's a sweet spot of video length—for us it's about 15 minutes—and
+934440	939040	whenever we do anything longer than that, the algorithm actually punishes us.
+939040	943000	We always have to cut for time, but in order to not feel like that work was for nothing,
+943000	948280	we've started to upload extended cuts of our videos, including this one, to Nebula—the
+948280	953640	streaming site home to all your favorite educational creators, founded by those same creators.
+953640	958120	In addition, their unique business model allows for big-budget projects, of which we've
+958120	961160	made plenty across HAI and Wendover.
+961160	965680	Of course, the best way to get access to Nebula makes it even better—signing up through
+965680	969920	CuriosityStream's bundle deal means you also get access to CuriosityStream, which
+969920	975280	is a fantastic streaming site that I regularly use—home to a huge selection of non-fiction
+975280	980400	TV shows and documentaries, such as this one about the barcode and how it shaped our modern
+980400	981400	economy.
+981400	986080	If this video, about the supermarket industry, was interesting to you, this short documentary
+986080	990800	is a fantastic addendum diving deep into how modern retail works.
+990800	995640	Best of all, signing up for this bundle deal helps independent creators like us stay independent.
+995640	1001280	It can all be had, both streaming sites, for the rather crazy price of less than $15
+1001280	1006360	a year with the current sale at CuriosityStream.com slash Wendover.

@@ -1,0 +1,784 @@
+1
+00:00:00,000 --> 00:00:03,240
+This video was made possible by Squarespace.
+
+2
+00:00:03,240 --> 00:00:08,240
+Build your beautiful website for 10% off at squarespace.com-slash-wendover.
+
+3
+00:00:08,240 --> 00:00:14,460
+Imagine a train that took you from Washington DC to Dallas, Texas in nine hours, or Paris,
+
+4
+00:00:14,460 --> 00:00:19,820
+France to Athens, Greece in nine hours, or Adelaide, South Australia to Perth, Western
+
+5
+00:00:19,820 --> 00:00:21,860
+Australia in nine hours.
+
+6
+00:00:21,860 --> 00:00:27,200
+These train trips actually take 44 hours, 44 hours, and 41 hours respectively so the
+
+7
+00:00:27,200 --> 00:00:32,560
+idea of making any of these trips by train in nine hours seems almost absurd.
+
+8
+00:00:32,560 --> 00:00:34,760
+In China, though, that's reality.
+
+9
+00:00:34,760 --> 00:00:39,740
+In September, 2018, the country opened up a brand new high-speed rail route with direct
+
+10
+00:00:39,740 --> 00:00:42,200
+trains from Hong Kong to Beijing.
+
+11
+00:00:42,200 --> 00:00:47,260
+This is about the same distance as DC to Dallas, Paris to Athens, or Adelaide to Perth and
+
+12
+00:00:47,260 --> 00:00:51,800
+yet these trains make the trip in only 8 hours and 56 minutes.
+
+13
+00:00:51,800 --> 00:00:56,040
+What makes this even more impressive is that ten years ago, in 2008, at the time of the
+
+14
+00:00:56,040 --> 00:01:00,200
+Beijing Olympics, China's high-speed rail network consisted of this.
+
+15
+00:01:00,200 --> 00:01:04,320
+We'll have to zoom in because the extent of the network was one 19 mile long maglev
+
+16
+00:01:04,320 --> 00:01:08,420
+train from Shanghai airport to the outskirts of Shanghai and a traditional high-speed rail
+
+17
+00:01:08,420 --> 00:01:11,160
+line from Beijing to the coastal city of Tianjin.
+
+18
+00:01:11,160 --> 00:01:15,960
+Today, ten years later, that network has expanded into this.
+
+19
+00:01:15,960 --> 00:01:21,040
+China has 8 times as much high-speed track as France, 10 times as much as Japan, 20 times
+
+20
+00:01:21,040 --> 00:01:25,260
+as much as the UK, and 500 times as much as the US.
+
+21
+00:01:25,260 --> 00:01:30,260
+In fact, China has as much high-speed rail track as the rest of the world combined.
+
+22
+00:01:30,260 --> 00:01:36,060
+It is staggering the amount of progress they have made in such a short amount of time.
+
+23
+00:01:36,060 --> 00:01:40,420
+Traditionally, high-speed rail exists in small countries with rich populations by the likes
+
+24
+00:01:40,420 --> 00:01:42,660
+of Germany, France, and Japan.
+
+25
+00:01:42,660 --> 00:01:44,440
+China is neither of these things.
+
+26
+00:01:44,440 --> 00:01:49,620
+The country is enormous—about the same size as the US—and is also not rich.
+
+27
+00:01:49,620 --> 00:01:53,740
+While no longer poor, China is definitively a middle-income country.
+
+28
+00:01:53,740 --> 00:01:57,180
+It's about as rich as Mexico, Thailand, or Brazil.
+
+29
+00:01:57,180 --> 00:02:01,380
+In fact, despite being the country with the most high-speed rail in the world, China is
+
+30
+00:02:01,380 --> 00:02:05,380
+also the poorest country in the world to have any high-speed rail.
+
+31
+00:02:05,380 --> 00:02:09,900
+Despite the country's vast size, China's huge population makes it very dense especially
+
+32
+00:02:09,900 --> 00:02:11,300
+in the east half.
+
+33
+00:02:11,300 --> 00:02:14,980
+This means that China does have large cities close enough together where it makes sense
+
+34
+00:02:14,980 --> 00:02:17,420
+to take the train rather than the plane.
+
+35
+00:02:17,420 --> 00:02:22,380
+Trips like Guangzhou to Changsha, a distance of 350 miles, take an hour by plane or two
+
+36
+00:02:22,380 --> 00:02:24,580
+hours and twenty minutes by train.
+
+37
+00:02:24,580 --> 00:02:28,620
+When factoring in the time it takes to check in, go through security, and board, it absolutely
+
+38
+00:02:28,620 --> 00:02:32,820
+makes sense to go by train when traveling between these two cities even without considering
+
+39
+00:02:32,820 --> 00:02:35,960
+that the high-speed train is cheaper than flying.
+
+40
+00:02:35,960 --> 00:02:39,700
+High-speed rail even makes sense in China on longer routes where it wouldn't in other
+
+41
+00:02:39,700 --> 00:02:40,700
+countries.
+
+42
+00:02:40,700 --> 00:02:44,420
+Beijing and Shanghai, for example, are about 650 miles apart.
+
+43
+00:02:44,420 --> 00:02:48,020
+Normally, that would be too far for high-speed rail to make sense.
+
+44
+00:02:48,020 --> 00:02:53,100
+Paris and Barcelona, for example, are 500 miles apart—closer than Beijing and Shanghai—but
+
+45
+00:02:53,100 --> 00:02:58,360
+only two high-speed trains a day run between the two cities compared to about 20 flights.
+
+46
+00:02:58,360 --> 00:03:02,540
+Between Beijing and Shanghai, on the other hand, about 50 flights run per day compared
+
+47
+00:03:02,540 --> 00:03:04,540
+to 41 trains.
+
+48
+00:03:04,540 --> 00:03:08,420
+Considering the trains carry far more people each—up to 1,200—trains are therefore
+
+49
+00:03:08,420 --> 00:03:12,000
+the dominant means of transport between these two cities.
+
+50
+00:03:12,000 --> 00:03:14,700
+There are a few differences between these two routes.
+
+51
+00:03:14,700 --> 00:03:19,820
+For one, while Beijing-Shanghai by train takes 4 hours and 28 minutes, Paris-Barcelona, despite
+
+52
+00:03:19,820 --> 00:03:23,880
+being a shorter distance, takes a longer 6 hours and 25 minutes.
+
+53
+00:03:23,880 --> 00:03:26,540
+The other factor, though, is about the competition.
+
+54
+00:03:26,540 --> 00:03:30,800
+Europe has an efficient air transport network dominated by budget airlines that are often
+
+55
+00:03:30,800 --> 00:03:32,540
+far cheaper than trains.
+
+56
+00:03:32,540 --> 00:03:37,020
+You can find tickets for flights between Paris and Barcelona for as little as $12 while the
+
+57
+00:03:37,020 --> 00:03:40,640
+cheapest Beijing-Shanghai flights go for $74.
+
+58
+00:03:40,640 --> 00:03:43,860
+Air travel within China is also far from efficient.
+
+59
+00:03:43,860 --> 00:03:48,220
+China Southern, China Eastern, and Air China, the three largest Chinese airlines, arrive
+
+60
+00:03:48,220 --> 00:03:53,500
+on time an average of 67, 66, and 63% of the time respectively.
+
+61
+00:03:53,500 --> 00:03:57,720
+A big reason for this is that there's just not enough room in the skies.
+
+62
+00:03:57,720 --> 00:04:01,720
+A majority of China's airspace is military controlled meaning that there are just these
+
+63
+00:04:01,720 --> 00:04:06,980
+narrow flight corridors that account for 30% of airspace where civilian planes can fly.
+
+64
+00:04:06,980 --> 00:04:11,380
+With tons of planes and not much room to fly, planes are frequently delayed by air traffic
+
+65
+00:04:11,380 --> 00:04:15,360
+control to wait for the airspace to clear up which leads to the abysmal on-time readings
+
+66
+00:04:15,360 --> 00:04:17,080
+of the country's airlines.
+
+67
+00:04:17,080 --> 00:04:21,320
+While the Beijing-Shanghai flight takes only two hours, the potential of delays, along
+
+68
+00:04:21,320 --> 00:04:25,700
+with all the other factors that make air travel slower, help make the train the popular means
+
+69
+00:04:25,700 --> 00:04:28,300
+of transport on this longer route.
+
+70
+00:04:28,300 --> 00:04:31,120
+Other train routes in China, though, make less sense.
+
+71
+00:04:31,120 --> 00:04:36,580
+For example, in 2014, the new high-speed train line opened between Langzhou and Irimchi.
+
+72
+00:04:36,580 --> 00:04:39,700
+These two cities are relatively small by China standards.
+
+73
+00:04:39,700 --> 00:04:44,380
+They both have a population of 3.5 million and between them are only small towns.
+
+74
+00:04:44,380 --> 00:04:48,940
+They're also not close—about 1,000 miles separate them.
+
+75
+00:04:48,940 --> 00:04:52,580
+This project could therefore be compared to building a high-speed train from Denver to
+
+76
+00:04:52,580 --> 00:04:57,640
+Seattle—they're modestly sized cities a long ways apart with nothing big in between.
+
+77
+00:04:57,640 --> 00:05:01,280
+Some people would use it, but it wouldn't make any financial sense.
+
+78
+00:05:01,280 --> 00:05:05,600
+In China, Langzhou and Irimchi are not small cities but there's really nothing big in
+
+79
+00:05:05,600 --> 00:05:09,700
+between and, at that distance, there's no sense not flying.
+
+80
+00:05:09,700 --> 00:05:14,920
+The Langzhou-Irimchi high-speed train takes 11 hours compared to the 2.5 hour flight and
+
+81
+00:05:14,920 --> 00:05:20,280
+the construction cost of that line was $20 billion meaning that, if every seat on every
+
+82
+00:05:20,280 --> 00:05:24,880
+train was filled tickets would still have to cost $400 each way just to make back the
+
+83
+00:05:24,880 --> 00:05:27,520
+construction cost in 30 years.
+
+84
+00:05:27,520 --> 00:05:32,760
+In reality, tickets cost about $80 and trains are far from full meaning that this rail line
+
+85
+00:05:32,760 --> 00:05:35,720
+is just insanely far from profitable.
+
+86
+00:05:35,720 --> 00:05:39,780
+The ticket revenues from these trains reportedly don't even cover the cost of electricity
+
+87
+00:05:39,780 --> 00:05:43,520
+for the line let alone construction and other operating costs.
+
+88
+00:05:43,520 --> 00:05:47,820
+So why would the Chinese government sink so much money into something that has no prospects
+
+89
+00:05:47,820 --> 00:05:49,880
+of really ever making money?
+
+90
+00:05:49,880 --> 00:05:51,480
+Well, politics.
+
+91
+00:05:51,480 --> 00:05:54,360
+Irimchi is the capital of the Xinjiang province.
+
+92
+00:05:54,360 --> 00:06:00,080
+While 92% of China's population is Han Chinese, the Xinjiang province is primarily Uyghur—one
+
+93
+00:06:00,080 --> 00:06:04,220
+of the minority ethnic groups of China—and there has been an ongoing, fairly strong separatist
+
+94
+00:06:04,220 --> 00:06:08,080
+movement by the Uyghurs from China that has often turned violent.
+
+95
+00:06:08,080 --> 00:06:12,000
+The central government in Beijing, however, wants the Xinjiang province to be just as
+
+96
+00:06:12,000 --> 00:06:15,920
+integrated as the rest of the country and has tried a variety of methods to force this
+
+97
+00:06:15,920 --> 00:06:20,560
+including moving Han Chinese into the region and the imprisonment of Uyghurs in so-called
+
+98
+00:06:20,560 --> 00:06:22,100
+re-education camps.
+
+99
+00:06:22,100 --> 00:06:26,320
+The high-speed train is just the most recent tactic to bring Xinjiang closer to Beijing
+
+100
+00:06:26,320 --> 00:06:27,980
+and this is no secret.
+
+101
+00:06:27,980 --> 00:06:31,620
+The central government is fully upfront in saying that the line was built to promote,
+
+102
+00:06:31,620 --> 00:06:33,940
+as they call it, ethnic unity.
+
+103
+00:06:33,940 --> 00:06:38,340
+This isn't the first time that they've used this tactic of railroad politics—Tibet,
+
+104
+00:06:38,340 --> 00:06:42,700
+a region even better known than Xinjiang for its independence movement, was the last region
+
+105
+00:06:42,700 --> 00:06:46,900
+in China not to have a railway due to its small population and intense terrain.
+
+106
+00:06:46,900 --> 00:06:50,580
+The central government still wanted to build one, though, to bring it closer to the rest
+
+107
+00:06:50,580 --> 00:06:53,080
+of the country and so they did.
+
+108
+00:06:53,080 --> 00:06:57,900
+Trains now run directly from Beijing to Lhasa, Tibet in 47 hours on the highest elevation
+
+109
+00:06:57,900 --> 00:06:59,920
+rail line in the world.
+
+110
+00:06:59,920 --> 00:07:05,460
+These trains reach an elevation of 16,640 feet—so high that passengers have to use
+
+111
+00:07:05,460 --> 00:07:07,540
+direct oxygen supply.
+
+112
+00:07:07,540 --> 00:07:11,100
+Even the train to Hong Kong serves the central government's goal of further integrating
+
+113
+00:07:11,100 --> 00:07:15,540
+Hong Kong, which is an autonomous special administrative region, into mainland China.
+
+114
+00:07:15,540 --> 00:07:19,620
+While high-speed trains to Hong Kong certainly do make a lot more sense than trains to the
+
+115
+00:07:19,620 --> 00:07:23,660
+Xinjiang province, many Hong Kongers have not greeted the new service kindly as they
+
+116
+00:07:23,660 --> 00:07:28,020
+view it as an encroachment on the autonomy guaranteed to them by Hong Kong basic law.
+
+117
+00:07:28,020 --> 00:07:31,340
+The most controversial part has not been the fact that there's a train but rather that
+
+118
+00:07:31,340 --> 00:07:35,340
+the station in Hong Kong includes an area that is effectively now part of mainland China
+
+119
+00:07:35,340 --> 00:07:39,460
+since people pass through border controls before boarding the train in Hong Kong.
+
+120
+00:07:39,460 --> 00:07:43,820
+Just like any country, what having a high-speed, efficient rail network in China is doing is
+
+121
+00:07:43,820 --> 00:07:47,240
+bringing the country together and making it stronger even if it's bringing together
+
+122
+00:07:47,240 --> 00:07:49,500
+people that want to stay apart.
+
+123
+00:07:49,500 --> 00:07:53,480
+No matter their motives, it's clear that China is building their high-speed rail network
+
+124
+00:07:53,480 --> 00:07:55,840
+more efficiently than any other country.
+
+125
+00:07:55,840 --> 00:08:00,040
+To compare, this is the plan for California's high-speed rail line from San Francisco to
+
+126
+00:08:00,040 --> 00:08:01,280
+the Los Angeles area.
+
+127
+00:08:01,280 --> 00:08:06,720
+It's currently in very early phases of construction and is expected to open by 2029.
+
+128
+00:08:06,720 --> 00:08:09,960
+Of course, that means that the time it will take for California's high-speed rail network
+
+129
+00:08:09,960 --> 00:08:13,580
+to go from this to this is the same as the time it took China's high-speed rail network
+
+130
+00:08:13,580 --> 00:08:17,800
+to go from this to this but, the main thing to look at is cost.
+
+131
+00:08:17,800 --> 00:08:23,320
+This California network is expected to cost $77 billion and is 520 miles long meaning
+
+132
+00:08:23,320 --> 00:08:27,200
+that it will cost $148 million per mile to build.
+
+133
+00:08:27,200 --> 00:08:31,700
+China, on the other hand, is building their network at a cost of only $30 million per
+
+134
+00:08:31,700 --> 00:08:32,700
+mile.
+
+135
+00:08:32,700 --> 00:08:36,120
+Of course, labor costs are lower in China and their network crosses more rural areas
+
+136
+00:08:36,120 --> 00:08:40,240
+where land acquisition costs are lower but, what's more meaningful is that they've
+
+137
+00:08:40,240 --> 00:08:43,980
+turned building high-speed rail into almost an assembly line process where they can mass
+
+138
+00:08:43,980 --> 00:08:47,820
+produce even the most expensive elements like viaducts and tunnels.
+
+139
+00:08:47,820 --> 00:08:52,340
+In true Chinese fashion, with scale they're making high-speed cheaper.
+
+140
+00:08:52,340 --> 00:08:55,780
+The big difference between China and a lot of the western world, particularly countries
+
+141
+00:08:55,780 --> 00:09:00,320
+like the US, Canada, Australia, New Zealand, and the UK, is that high-speed rail is at
+
+142
+00:09:00,320 --> 00:09:02,500
+the top of the government's priorities.
+
+143
+00:09:02,500 --> 00:09:07,260
+Unsurprisingly given their government structure, in many ways, China has placed social benefit,
+
+144
+00:09:07,260 --> 00:09:11,140
+at least by the definition of the central government, ahead of profitability when developing
+
+145
+00:09:11,140 --> 00:09:13,100
+their high-speed rail network.
+
+146
+00:09:13,100 --> 00:09:17,440
+High-speed rail lines just aren't as profitable as other means of transport like planes but
+
+147
+00:09:17,440 --> 00:09:21,780
+they are undoubtedly better for countries so you have to consider the social benefit
+
+148
+00:09:21,780 --> 00:09:23,820
+when looking at their overall profitability.
+
+149
+00:09:23,820 --> 00:09:28,260
+For the San Francisco to LA high-speed rail route, for example, one study found that the
+
+150
+00:09:28,260 --> 00:09:33,300
+social benefit derived from lower carbon emissions, higher worker productivity, and reduced casualties
+
+151
+00:09:33,300 --> 00:09:38,400
+from fewer people on the road would be equivalent to about $440 million per year.
+
+152
+00:09:38,400 --> 00:09:42,460
+As it turns out, this is almost the exact amount that the state will have to subsidize
+
+153
+00:09:42,460 --> 00:09:44,220
+the line for it to break even.
+
+154
+00:09:44,220 --> 00:09:48,580
+The China Railway Corporation, a state-owned enterprise, is actually slightly profitable
+
+155
+00:09:48,580 --> 00:09:52,440
+although it does have huge amounts of debts and is helped by government subsidies.
+
+156
+00:09:52,440 --> 00:09:55,380
+The benefit to the Chinese people, though, is huge.
+
+157
+00:09:55,380 --> 00:09:59,020
+The high-speed rail allows those who can't afford to live in the most expensive cities
+
+158
+00:09:59,020 --> 00:10:03,580
+like Beijing, Shanghai, and Guangzhou to easily commute from cheaper suburbs by high-speed
+
+159
+00:10:03,580 --> 00:10:04,580
+rail.
+
+160
+00:10:04,580 --> 00:10:09,340
+Thanks to the high-speed rail, there are now 75 million people who can commute to Shanghai
+
+161
+00:10:09,340 --> 00:10:10,340
+in under an hour.
+
+162
+00:10:10,340 --> 00:10:15,220
+It is growing what are already some of the largest cities and, when it comes to cities,
+
+163
+00:10:15,220 --> 00:10:16,860
+size is strength.
+
+164
+00:10:16,860 --> 00:10:20,540
+These lines connecting the east's largest cities are some of the most profitable rail
+
+165
+00:10:20,540 --> 00:10:25,020
+lines in the world and they're making living and working in China easier but the question
+
+166
+00:10:25,020 --> 00:10:29,140
+is, when we look back decades from now, whether the high-speed trains to smaller cities will
+
+167
+00:10:29,140 --> 00:10:30,400
+have made sense.
+
+168
+00:10:30,400 --> 00:10:34,320
+Out of a desire to keep the lines going straight between the big cities, the stops for smaller
+
+169
+00:10:34,320 --> 00:10:38,580
+cities are often out in the countryside dozens of miles away from the city core.
+
+170
+00:10:38,580 --> 00:10:42,740
+The high-speed station for Hanyang, for example, a smaller city of only a million, is about
+
+171
+00:10:42,740 --> 00:10:45,780
+a 45 minute drive east of the city center.
+
+172
+00:10:45,780 --> 00:10:50,140
+The hope is that new development will spring up around the stations but this network structure,
+
+173
+00:10:50,140 --> 00:10:54,640
+even if it saves time on the train, wastes time before and after which degrades the benefit
+
+174
+00:10:54,640 --> 00:10:56,300
+of high-speed rail.
+
+175
+00:10:56,300 --> 00:11:00,700
+In all, China is really the first country to have experimented with long-distance, high-speed
+
+176
+00:11:00,700 --> 00:11:03,200
+rail through less dense areas in its west.
+
+177
+00:11:03,200 --> 00:11:07,440
+In the east, though, these trains are enlarging the country's economic power—it's just
+
+178
+00:11:07,440 --> 00:11:12,240
+one of the many factors speeding up China's catch-up with the world's richest countries.
+
+179
+00:11:12,240 --> 00:11:15,720
+Even though China is building these trains for less and innovating on the construction
+
+180
+00:11:15,720 --> 00:11:20,280
+of high-speed rail, the real reason why China is so good at building railways is because
+
+181
+00:11:20,280 --> 00:11:25,000
+they have the one thing that almost every other country lacks—the political will for
+
+182
+00:11:25,000 --> 00:11:27,400
+high-speed trains.
+
+183
+00:11:27,400 --> 00:11:30,280
+Whenever I'm looking to launch something new, one of the first things I think about
+
+184
+00:11:30,280 --> 00:11:31,980
+is how to present it online.
+
+185
+00:11:31,980 --> 00:11:37,660
+I think about domain names, emails, websites, and where I always go to do all that is Squarespace.
+
+186
+00:11:37,660 --> 00:11:41,260
+As you probably know by now, Squarespace is the all-in-one solution to building a web
+
+187
+00:11:41,260 --> 00:11:43,500
+presence for whatever you do.
+
+188
+00:11:43,500 --> 00:11:47,320
+Being in the internet age, it's incredibly important to present yourself well online
+
+189
+00:11:47,320 --> 00:11:52,280
+and Squarespace's beautiful designer templates, customizable website builder, and 24-7 award-winning
+
+190
+00:11:52,280 --> 00:11:56,020
+customer support help you do all that for a reasonable monthly cost.
+
+191
+00:11:56,020 --> 00:12:00,380
+It's a much better solution than learning how to code a website or paying someone thousands
+
+192
+00:12:00,380 --> 00:12:01,380
+to do it.
+
+193
+00:12:01,380 --> 00:12:04,960
+It is also, of course, made easier by the fact that you can get 10% off by going to
+
+194
+00:12:04,960 --> 00:12:09,300
+Squarespace.com slash Wendover and you'll be supporting the show by using that link.
+
+195
+00:12:11,260 --> 00:12:12,260
+Thank you.
+
+196
+00:12:12,260 --> 00:12:12,280
+Thank you.
+

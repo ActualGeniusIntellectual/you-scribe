@@ -1,0 +1,226 @@
+This video was made possible by Hover.
+Buy your domain before it's gone for 10% off by going to hover.com slash wendover.
+This is Heathrow Airport—Britain's busiest.
+Each day, about 650 flights take off from one of its two runways.
+At the busiest times, this represents one aircraft every 45 seconds.
+Of those 650, about 20 flights daily head to Frankfurt.
+During British Airways and Lufthansa, flights on this route depart more than hourly throughout
+the daytime.
+This makes Frankfurt one of Heathrow's most frequently served destinations.
+Despite the unremarkable nature of such a flight, the complexity of even this one hour
+hop is enormous.
+It takes dozens of people spread out all across the continent to coordinate and navigate just
+one of these flights safely to its destination.
+This is everything that happens within the 90 minutes it takes for a plane to get from
+its gate at Heathrow to its gate in Frankfurt.
+Hours before the flight is scheduled to take off, British Airways will have sent a flight
+plan to HERE—Eurocontrol's Network Manager Operation Center in Brussels.
+Now, Eurocontrol is an intergovernmental air traffic management organization.
+Well Eurocontrol is an intergovernmental organization of 43 states—Eurocontrol and beyond—and
+we do air traffic management service transversal.
+What that means is that Eurocontrol deals with a variety of different aspects of the
+job of managing air traffic in Europe.
+One element of that is what's called network management.
+This function essentially involves, from this room, making sure that flights make their
+way through Europe as safely and smoothly as possible.
+That field is headed up by Sopo Prisinati—Eurocontrol's Director of Network Management.
+So, here you see that's our operational room.
+The scope is to provide services to 43 air navigation service providers, to provide services
+to more than 500 airports, and to provide services to more than 1,000 airlines over
+the network.
+One corner of this room is devoted to checking those flight plans that airlines send in.
+Now, what they need to check is that these plans are following the rules.
+You see, two aircraft, the sky does not look like this, but rather this.
+At least in most of Europe, there are thousands upon thousands of predefined airways each
+with their own rules on directionality and routes and more so aircraft not only need
+to fly on these roads but they also need to follow the rules of the roads.
+Looking at this map, you can see why, for example, you won't see many planes flying
+over this area in the east of England—there just aren't many airways there.
+Eurocontrol sends the flight plans through a program to check that they follow these
+rules but if the computer rejects it, then it goes to these people in about 2% of cases
+who coordinate with the airline to fix it manually.
+From there, they'll distribute the flight plans to all the air traffic control centers
+that each aircraft is expected to fly over.
+That process happens before the flight has even taken off.
+Going back to that British Airways Heathrow to Frankfurt flight, once their plan is approved,
+the plane is fueled, loaded, and ready to go, the pilot will get approval from British
+Airways' flight dispatcher, and Heathrow's ground control to push back.
+Ground control is responsible for navigating all the vehicles and planes safely across
+the apron until when they reach the runway.
+The moment an aircraft gets to the runway, they are then the responsibility of tower
+control which, assuming all is well, clears them for takeoff.
+As the plane reaches altitude, it will be passed off to the London Terminal Control
+Center located here near Southampton which navigates aircraft through the complex London
+area airspace until they reach 24,500 feet or flight level 245 which for this flight
+should be just about when it reaches the coast.
+From there, they'll be transferred to the London Area Control Center, which is physically
+located in the same building, to navigate them across the channel.
+Once they reach about halfway across, however, they leave the UK's airspace and enter Belgium's.
+With that, they are now the responsibility of the Maastricht Upper Area Control Center,
+also managed by Eurocontrol.
+We are a European nonprofit cross-border military-civil air navigation service provider and our job
+is that we handle safely and in an efficient and performant way all traffic above flight
+level 245, 24,500 feet.
+To reiterate, they handle traffic across this whole area, above 24,500 feet or 7,500 meters.
+So we manage what more or less 1.9 million of movements per year so between 5,000-5,700
+movements depending on the season and the day per day.
+It's one of the busiest and most complex airspaces in Europe especially as it receives
+a significant amount of traffic climbing from or descending into four of Europe's
+five busiest airports—Heathrow, Schiphol, Frankfurt, and Paris Charles de Gaulle.
+Every single one of those flights, as long as it's between flight level 245 and 660,
+is in contact with the people in this room.
+Now, the Maastricht Control Center's airspace is divided into three sector groups—the
+Brussels, Hanover, and Deco sector groups.
+Each sector group is staffed by their own set of controllers who only work on their
+group.
+A Brussels sector group controller would very rarely switch over to the Hanover group, for
+example.
+Many controllers spend their entire careers working at one control center within one sector
+group.
+This allows them to really learn the design of their airspace in depth.
+Each of these sector groups is then divided into sectors themselves.
+Now, sectors can be divided both horizontally and vertically.
+For example, there's the Luxembourg sector, between flight level 245 and 355, and also
+the Luxembourg High sector, above flight level 355.
+At the very busiest times, each sector will have its own dedicated set of controllers.
+At less busy times, though, they can and do combine the upper and lower sectors together
+so they're staffed by one set of controllers.
+At the least busy times, such as in the middle of night, they'll often combine a number
+of sectors.
+For example, the entirety of Belgian airspace is typically controlled by one set of controllers
+in the dead of night.
+In charge of each sector are two controllers working as a team.
+One is in charge of talking to pilots, the other is in charge of talking to their counterparts
+at other sectors to coordinate handovers.
+Now, in practice, for that London to Frankfurt flight, before it enters Maastricht airspace
+in the Coxie sector, they'll receive info on where and at which flight level it will
+arrive.
+They'll also get info from the flight plan on where it's supposed to exit their sector.
+An aircraft might also enter at one altitude and be planned to exit at another.
+The task is then to safely navigate the aircraft from the entry point to exit point and deliver
+it to the next sector at the desired altitude.
+Now, assuming no added obstruction such as weather or airspace closures, the main obstacles
+planes need to avoid at this altitude are other planes.
+There are rules about how close a plane can be to another in order to avoid any chance
+of mid-air collision and the controller's job is to make sure that these rules are not
+broken or, if they are, to get to the correct level of separation as soon as possible.
+An aircraft must be either vertically or horizontally separated from all others at any given time.
+What this means is that typically, a commercial aircraft cruising at this altitude can be
+as little as 1,000 vertical feet or 300 vertical meters away from another.
+That's vertical separation.
+Alternatively, an aircraft can be horizontally separated.
+They have to be at least five nautical miles, six miles, or nine kilometers apart if they're
+within 1,000 feet vertically.
+Now, in order to achieve the goals of getting the aircraft to its exit point without breaking
+minimum separation, there are three factors that the controller can instruct the pilot
+to change—speed, altitude, and direction.
+That is essentially what a controller spends most of their time doing—determining where
+the aircraft needs to go, how to get it there, and communicating that to the pilot.
+Soon enough, after just a few minutes, as the aircraft reaches its exit point from the
+sector, it will be passed onto the controller of the next sector.
+In this case, it'll go into Nikki sector, then Olno sector, then it will move onto airspace
+beyond what the Maastricht upper area control center manages.
+As the plane starts to descend, it will be passed onto controllers dealing with lower
+airspace, then approach in tower control to guide it into landing.
+All told, on just this hour-long flight, more than a dozen air traffic controllers will
+have dealt with this aircraft.
+But that's what happens when absolutely everything is going right, which is rarely
+the case.
+You see, back at Eurocontrol's network manager room, the second thing they do with the flight
+plans they receive is to make sure that once an aircraft gets flying, there are actually
+enough air traffic controllers to manage it.
+So air traffic controllers, they decide on their capacity, i.e. how many flights can
+safely be handed in one piece of airspace by one air traffic controller.
+That's their decision based on their staffing, based on their infrastructure, their tools,
+and that is communicated to us.
+So there's a limited number of flights a single air traffic controller can handle,
+but there's also a limited number of air traffic controllers.
+It's no secret that Europe, along with much of the world, is suffering through an air
+traffic controller shortage right now.
+Simultaneously, along with much of the world, Europe has been experiencing a tremendous
+increase in its number of flights.
+This supply and demand mismatch has consequences.
+In 2018, 60% of all in-route delays, as in while the aircraft is actually flying, were
+because of not having enough air traffic control capacity.
+Part of Eurocontrol's job, therefore, is to utilize the limited resources in the most
+effective way possible.
+Often, they'll reduce overall delays by delaying flights.
+Sometimes it's just for a few minutes, sometimes it's for longer, but if you're flying
+in Europe and you hear that your flight is delayed for air traffic control reasons, that
+decision was probably made in this room.
+It's just like a ramp meter on a highway—they let a manageable number of flights fly at
+any given time when there are capacity constraints.
+Now, when a flight receives a delay by Eurocontrol, the airline essentially has two choices—accept
+the delay and wait it out or fly a different route.
+Airlines have access to Eurocontrol's system to help them make this decision.
+For instance, here's a flight—it's a Thomas Cook flight from Manchester going to
+Antalya in Turkey—and they have planned this blue route here.
+This is the route that Thomas Cook has decided is best for them—it's the least expensive
+considering fuel costs, overflight costs, and everything.
+Given that it flies through capacity constrained areas, though, to fly this route, they would
+have to sit through a delay.
+Through our system now they can look at to see, okay, where are routes that do not give
+them delay?
+Those are all the blue routes you can see here.
+And actually then there's a gray route here which is the shortest of the blue.
+So system says if you want to avoid your route which has delay, you can take blue routes
+or the shortest blue which is the gray and it's up to you.
+The airline can then go and decide whether it's worth it to them to fly the alternate
+route or wait out the delay.
+Europe's network management role is really most applicable on the worst days for flying
+in Europe.
+Their job is to make the bad days as okay as possible.
+An example of a really bad day for flying was Thursday, May 9th, 2019.
+The main issue was a large-scale French air traffic controller strike meaning there was
+little air traffic control capacity in French airspace—one of the busiest areas.
+If you look at this map, that shows the magnitude of the impact on the sectors that the color
+red means that there were delays in the order of 45 minutes or above per flight.
+On days such as this, many airlines will choose to fly around France as to be less delayed
+but, of course, the ATC centers in the surrounding countries need to be able to cope with demand.
+Starting from three to four days before this event is confirmed, we would coordinate with
+Spain, North African countries, Algeria, Tunisia, we would coordinate with Switzerland, Italy,
+Germany, Calgary, we would coordinate with Maastricht and UK to be able to get extra
+capacity for all those who have to go out.
+So, one alternative route from UK to go down to south of Spain and a continuation on that,
+what we call tango.
+Tango route takes planes way out west into oceanic airspace to take a wide curve around
+French airspace and is commonly flown when French airspace is restricted.
+It is, of course, not efficient.
+A flight from Alicante to London, for example, which normally takes just two hours, would
+take over three by using tango route but, overall, it would typically arrive earlier
+than if they waited for approval to fly through French airspace.
+What made the 9th of May even worse is that drones were spotted at Frankfurt airport meaning
+all arrivals and departures were stopped.
+What we do, we immediately get in contact with all the airports around, if you like.
+Eurocontrol will get information from the surrounding airports on how many diverted
+aircraft they can handle and passes this information on airlines so they can quickly book a diversion
+slot for their aircraft.
+All told, there were over 300,000 minutes of delays on May 9th but initial calculations
+determined that there was the potential for over 1 million minutes of delays which means
+that Eurocontrol likely succeeded in their task of improving the day.
+Eurocontrol's network manager room is expected to be quite busy in the coming months.
+Right now, in early June, they already know summer 2019 is going to be messy.
+It's the busiest period of the year for flights and there's actually less air traffic
+control capacity than there was in summer 2018 when they had 26 million minutes of delays.
+They fear this summer could be worse but, they made their action plan months ago and
+will be here non-stop through the coming months to make the summer travel season as smooth
+as it can be.
+Overall, this room, air traffic control centers, and the rest of the world's air traffic
+management infrastructure are crucial tools to make sure that routine, uneventful flights
+like London to Frankfurt stay uneventful.
+One thing that aviation loves is checklists.
+They make sure you complete crucial steps and that's why, when I launch something
+new, I have my own checklist of crucial steps.
+One of the first steps, after coming up with a name, is buying the domain name.
+That's because I know that domains go fast and, if you wait too long, someone else might
+take your perfect domain.
+I recently launched a podcast, for example, and immediately bought the domain extremitiespodcast.com
+through Hover.
+I haven't even set up a website yet but, considering the low price, it was worth it
+to me to sit on the domain and, for now, I took about 30 seconds to set up the domain
+to redirect to the podcast download page.
+No matter what you're doing, whether it be a YouTube channel, a podcast, a business,
+or anything else, you should get your domain now before it's gone and Hover makes that
+absurdly simple.
+First of all, by going to hover.com slash wendover, you will get 10% off your first
+domain.

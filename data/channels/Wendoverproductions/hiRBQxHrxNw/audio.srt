@@ -1,0 +1,1628 @@
+1
+00:00:00,000 --> 00:00:03,300
+This video was made possible by Away.
+
+2
+00:00:03,300 --> 00:00:08,760
+Get $20 off your Away suitcase by going to awaytravel.com slash wendover and using the
+
+3
+00:00:08,760 --> 00:00:10,860
+code wendover at checkout.
+
+4
+00:00:10,860 --> 00:00:14,940
+And quickly, once you've finished this video there are two others to watch—a behind-the-scenes
+
+5
+00:00:14,940 --> 00:00:19,340
+video on my brand new personal channel and my appearance on StarTalk where I appear on
+
+6
+00:00:19,340 --> 00:00:21,140
+camera for the first time.
+
+7
+00:00:21,140 --> 00:00:22,620
+Both are linked in the description.
+
+8
+00:00:22,620 --> 00:00:28,580
+Suppose we're in a cave right now, this is a cave, and there's maybe ten of us.
+
+9
+00:00:28,580 --> 00:00:31,300
+We have a mini family tribe.
+
+10
+00:00:31,300 --> 00:00:35,120
+And I say, you know, I want to go out and see what's on the other side of that mountain.
+
+11
+00:00:35,120 --> 00:00:36,840
+We can see it from here.
+
+12
+00:00:36,840 --> 00:00:41,060
+And then you say, no, no, we have cave problems you have to fix first.
+
+13
+00:00:41,060 --> 00:00:45,220
+Fix all the cave problems first, then you can go out on the mountain.
+
+14
+00:00:45,220 --> 00:00:50,180
+And that's what it sounds like to me when I hear people say, we have problems on Earth,
+
+15
+00:00:50,460 --> 00:00:52,860
+let's fix those before we go into space.
+
+16
+00:00:52,860 --> 00:00:59,700
+And here's Earth, this speck of dirt orbiting an ordinary star and there's this vastness
+
+17
+00:00:59,700 --> 00:01:04,700
+of the universe that is waiting for us.
+
+18
+00:01:04,700 --> 00:01:06,700
+It beckons.
+
+19
+00:01:11,740 --> 00:01:14,180
+The commercial space industry is heating up.
+
+20
+00:01:14,180 --> 00:01:18,460
+Fifty years ago, outer space was reserved for the most powerful of nations—the most
+
+21
+00:01:18,460 --> 00:01:19,460
+dominant governments.
+
+22
+00:01:19,740 --> 00:01:23,180
+But today, there's a democratization of space.
+
+23
+00:01:23,180 --> 00:01:27,060
+Commercial industry is inching us closer to the cosmos, and in the process, there's
+
+24
+00:01:27,060 --> 00:01:31,420
+a growing interdependence between what's happening hundreds of miles up in space and
+
+25
+00:01:31,420 --> 00:01:33,080
+down below on Earth.
+
+26
+00:01:33,080 --> 00:01:37,900
+The commercial space industry—using multi-million dollar satellites and rockets—is increasingly
+
+27
+00:01:37,900 --> 00:01:40,260
+playing a part in our everyday lives.
+
+28
+00:01:40,260 --> 00:01:42,980
+You may think of this industry as a new phenomenon.
+
+29
+00:01:42,980 --> 00:01:47,900
+You may have only started hearing about profit-seeking space enterprise in the past few years, but
+
+30
+00:01:48,340 --> 00:01:51,340
+in reality, this has been going on for decades.
+
+31
+00:01:56,340 --> 00:02:01,460
+Our founder, Walter Scott, founded the company in his garage in Palo Alto twenty-five years
+
+32
+00:02:01,460 --> 00:02:02,460
+ago.
+
+33
+00:02:02,460 --> 00:02:03,460
+This is Dan Jablonski.
+
+34
+00:02:03,460 --> 00:02:07,460
+He's president of one of the commercial space companies that you might not have heard
+
+35
+00:02:07,460 --> 00:02:09,140
+of—Digital Globe.
+
+36
+00:02:09,140 --> 00:02:13,380
+They might not be as flashy as SpaceX or as exciting as Virgin Galactic, but they've
+
+37
+00:02:13,380 --> 00:02:17,840
+been flying satellites since before Elon Musk even graduated college.
+
+38
+00:02:18,780 --> 00:02:22,620
+In fact, they were the very first American company to be granted a license to take high
+
+39
+00:02:22,620 --> 00:02:28,380
+resolution pictures from space and that is essentially what they do—they take pictures
+
+40
+00:02:28,380 --> 00:02:32,040
+from space, but it's a lot more complicated than it sounds.
+
+41
+00:02:32,040 --> 00:02:36,880
+To take those images from space, you need satellites and Digital Globe has five of them.
+
+42
+00:02:36,880 --> 00:02:42,000
+So the five satellites we have on orbit are GOI-1, Worldview-1, Worldview-2, Worldview-3,
+
+43
+00:02:42,000 --> 00:02:44,520
+and you're noticing a trend here, Worldview-4.
+
+44
+00:02:44,520 --> 00:02:47,480
+The first of those was launched in 2007.
+
+45
+00:02:47,480 --> 00:02:52,760
+The most recent was launched in 2016 and they have an expected life of over ten years
+
+46
+00:02:52,760 --> 00:02:53,760
+each.
+
+47
+00:02:53,760 --> 00:02:56,160
+And these are really good satellites.
+
+48
+00:02:56,160 --> 00:03:01,980
+Worldview-4, for example, Digital Globe's newest satellite, has a pixel size of 12 inches.
+
+49
+00:03:01,980 --> 00:03:08,300
+That means that this satellite, orbiting 383 miles above earth, can clearly see a single
+
+50
+00:03:08,300 --> 00:03:10,720
+sheet of paper placed in a parking lot.
+
+51
+00:03:10,720 --> 00:03:15,040
+Horizontally, that's like if a camera in Toronto took a picture that could clearly
+
+52
+00:03:15,040 --> 00:03:19,440
+identify the individual eyes of the Statue of Liberty in New York.
+
+53
+00:03:19,440 --> 00:03:22,600
+It is insanely high resolution.
+
+54
+00:03:22,600 --> 00:03:26,200
+With a 30 centimeter pixel you can actually pick up road markings.
+
+55
+00:03:26,200 --> 00:03:29,160
+You can see the lines on the road whether they're straight or dashed lines.
+
+56
+00:03:29,160 --> 00:03:33,520
+You can see whether there are turn arrows there, whether there's a stop word on the
+
+57
+00:03:33,520 --> 00:03:34,520
+road markings.
+
+58
+00:03:34,520 --> 00:03:38,060
+You can even pick up some of the traffic signs and traffic light sizes.
+
+59
+00:03:38,060 --> 00:03:43,600
+The potential uses of such high quality imagery are endless, but how do the satellites even
+
+60
+00:03:43,600 --> 00:03:44,600
+work?
+
+61
+00:03:45,040 --> 00:03:48,280
+It's good to know that our satellites are in a low earth orbit which means that they
+
+62
+00:03:48,280 --> 00:03:52,080
+actually don't—they're not like a geo-satellite that sits up in a fixed orbit and stays over
+
+63
+00:03:52,080 --> 00:03:53,200
+one place on the planet.
+
+64
+00:03:53,200 --> 00:03:57,360
+Some satellites are specifically designed to stay directly over one position for their
+
+65
+00:03:57,360 --> 00:03:59,100
+whole service lives.
+
+66
+00:03:59,100 --> 00:04:03,640
+Their orbits are significantly higher above earth so the time it takes for them to complete
+
+67
+00:04:03,640 --> 00:04:09,360
+an orbit is exactly the same as the time it takes the earth to make a full rotation so,
+
+68
+00:04:09,360 --> 00:04:12,960
+relative to earth, the satellite doesn't move at all.
+
+69
+00:04:12,960 --> 00:04:16,680
+This is incredibly useful for certain uses like communications.
+
+70
+00:04:16,680 --> 00:04:22,500
+When a communications company launches a satellite to broadcast TV or radio or internet, they
+
+71
+00:04:22,500 --> 00:04:26,360
+want that satellite to stay over their particular service area.
+
+72
+00:04:26,360 --> 00:04:31,040
+DirecTV, for example, the American satellite TV company, want their satellites to stay
+
+73
+00:04:31,040 --> 00:04:34,480
+over the US because that's their service area.
+
+74
+00:04:34,480 --> 00:04:38,260
+If they weren't able to put their satellites into geo-synchronous orbit, they would have
+
+75
+00:04:38,260 --> 00:04:43,340
+to launch enough satellites to cover the entire world even if they were only broadcasting
+
+76
+00:04:43,340 --> 00:04:44,340
+to the US.
+
+77
+00:04:44,340 --> 00:04:49,700
+So, DirecTV want their satellites to stay over one area because they're broadcasting
+
+78
+00:04:49,700 --> 00:04:55,100
+to one area, but Digital Globe, on the other hand, want their satellites to move because
+
+79
+00:04:55,100 --> 00:04:58,100
+they're imaging the entire world.
+
+80
+00:04:58,100 --> 00:05:01,660
+Each of our satellites right now are in sun synchronous orbits.
+
+81
+00:05:01,660 --> 00:05:05,600
+So what that means is that the orbital plane that the satellite is flying around in stays
+
+82
+00:05:05,600 --> 00:05:09,600
+in the same orientation relative to the sun all the time.
+
+83
+00:05:09,600 --> 00:05:14,280
+Simplified, that means that any given satellite passes over any given location on earth at
+
+84
+00:05:14,280 --> 00:05:16,800
+the exact same time every day.
+
+85
+00:05:16,800 --> 00:05:22,160
+Worldview 3, for example, always orbits above the points on earth where it's 1030 AM.
+
+86
+00:05:22,160 --> 00:05:26,760
+When it passes over Denver it's 1030 in Denver, when it passes over Paris it's 1030
+
+87
+00:05:26,760 --> 00:05:31,000
+in Paris, and when it passes over Tokyo it's 1030 in Tokyo.
+
+88
+00:05:31,000 --> 00:05:35,520
+How this works is that essentially, with each pass over the light side of earth, the orbit
+
+89
+00:05:35,520 --> 00:05:40,460
+advances relative to the earth at the same rate as the sunlight advances.
+
+90
+00:05:40,460 --> 00:05:45,840
+This orbit type is crucial because a lot of what satellite imaging is about is detecting
+
+91
+00:05:45,840 --> 00:05:51,920
+change from day to day, month to month, or year to year, and an image taken at 1030 AM
+
+92
+00:05:51,920 --> 00:05:55,760
+is going to look very different than one taken at 6 PM.
+
+93
+00:05:55,760 --> 00:06:01,000
+This orbit type allows the satellite to pass over the entirety of earth once per day at
+
+94
+00:06:01,000 --> 00:06:04,640
+the same time so the light conditions look the same.
+
+95
+00:06:04,640 --> 00:06:09,320
+The satellites do, of course, need to be told what to do and that all comes down to four
+
+96
+00:06:09,320 --> 00:06:11,420
+people in one room.
+
+97
+00:06:11,420 --> 00:06:15,080
+So this is our mission operations control center.
+
+98
+00:06:15,080 --> 00:06:19,720
+This is where we fly the five satellites on orbit and really inside this room is what
+
+99
+00:06:19,720 --> 00:06:25,620
+we consider our time-dominant, real-time activities from choosing, making the final choices of
+
+100
+00:06:25,620 --> 00:06:31,000
+what images we're going to collect in the next several minutes to the next several hours.
+
+101
+00:06:31,000 --> 00:06:35,540
+These four individuals are controlling billions of dollars worth of satellites.
+
+102
+00:06:35,540 --> 00:06:41,000
+This whole company—the thousands of employees and hundreds of millions of dollars in revenue—all
+
+103
+00:06:41,000 --> 00:06:46,620
+exist to organize and fund what these four individuals are doing—sitting and piloting
+
+104
+00:06:46,620 --> 00:06:48,840
+the satellites above in space.
+
+105
+00:06:48,840 --> 00:06:53,960
+The mission operations center is, of course, staffed 24-7 since, while it's nighttime
+
+106
+00:06:53,960 --> 00:06:57,360
+in the US, it's daytime in Asia and Australia.
+
+107
+00:06:57,360 --> 00:07:01,720
+The satellite vehicle operator's main task is to load plans onto the satellites of which
+
+108
+00:07:01,720 --> 00:07:06,320
+images to take when, to monitor that the satellites are operating correctly, and to assure that
+
+109
+00:07:06,320 --> 00:07:09,820
+the satellites won't collide with other satellites or space junk.
+
+110
+00:07:09,820 --> 00:07:14,000
+The central screens at the front show the current locations of each of the five satellites
+
+111
+00:07:14,000 --> 00:07:18,780
+while the one to the left displays other information such as the total number of times each satellite
+
+112
+00:07:18,780 --> 00:07:23,580
+has orbited around the earth and how much time they have until the satellite loses signal.
+
+113
+00:07:23,580 --> 00:07:27,900
+You see, in order for satellites to function, they need to be able to communicate with the
+
+114
+00:07:27,900 --> 00:07:31,420
+ground and that's done with ground stations.
+
+115
+00:07:31,420 --> 00:07:36,220
+These antennas communicate to satellites using what are essentially super high-powered wifi
+
+116
+00:07:36,220 --> 00:07:37,220
+signals.
+
+117
+00:07:37,220 --> 00:07:41,740
+The ground station's digital globe users are able to receive about a gigabyte of information
+
+118
+00:07:41,740 --> 00:07:44,220
+every second from the satellites.
+
+119
+00:07:44,220 --> 00:07:47,940
+Each of those antennas around the world see each satellite several times a day and so
+
+120
+00:07:47,940 --> 00:07:53,660
+is that, as we go through the day, we accumulate about 7 terabytes of raw imagery off the satellites
+
+121
+00:07:53,660 --> 00:07:56,060
+through that gigabit connection.
+
+122
+00:07:56,060 --> 00:07:59,780
+Satellites can only communicate with the ground stations while they have a line of sight with
+
+123
+00:07:59,780 --> 00:08:05,220
+the antenna so, due to the curvature of the earth, in the view of any given ground station,
+
+124
+00:08:05,220 --> 00:08:07,980
+the satellite will eventually dip below the horizon.
+
+125
+00:08:07,980 --> 00:08:12,600
+Therefore, each ground station only has a limited operating range.
+
+126
+00:08:12,600 --> 00:08:16,620
+The exact locations of ground stations are, understandably, kept secret, but if there
+
+127
+00:08:16,620 --> 00:08:20,600
+was one in Germany, for example, it would communicate with the digital globe satellites
+
+128
+00:08:20,600 --> 00:08:23,540
+exclusively while they passed over Europe.
+
+129
+00:08:23,540 --> 00:08:28,300
+The fact that these satellites have to, by nature, pass over the entire world is actually,
+
+130
+00:08:28,300 --> 00:08:30,140
+however, quite useful.
+
+131
+00:08:30,140 --> 00:08:34,820
+Not only does this let digital globe map the entire world, but they also use the extra
+
+132
+00:08:34,820 --> 00:08:37,340
+capacity for humanitarian efforts.
+
+133
+00:08:37,340 --> 00:08:42,420
+It's actually easier for us on the humanitarian global development side because we have much
+
+134
+00:08:42,420 --> 00:08:45,300
+more capacity over a lot of these areas.
+
+135
+00:08:45,300 --> 00:08:50,740
+There's a lot more demand for our satellites over developed countries, for instance, right?
+
+136
+00:08:50,740 --> 00:08:56,060
+So people are typically, for commercial applications, much more interested in the U.S. or Europe
+
+137
+00:08:56,060 --> 00:09:01,500
+or some of these more developed areas versus sub-Saharan Africa where we, just generally
+
+138
+00:09:01,500 --> 00:09:06,460
+speaking, have much more ability to task the constellation and to collect those imagery.
+
+139
+00:09:06,460 --> 00:09:11,980
+So it's actually an opportunity for us to support those use cases much more than others.
+
+140
+00:09:11,980 --> 00:09:16,080
+For instance, Digital Globe partners with the Gates Foundation to map every single building
+
+141
+00:09:16,080 --> 00:09:21,220
+structure in rural Zambia so aid workers now know things like how many bed nets, vaccines,
+
+142
+00:09:21,220 --> 00:09:24,860
+or food to bring to communities that were previously unmapped.
+
+143
+00:09:24,860 --> 00:09:30,780
+There are few companies the size of commercial space companies that rely on so few assets.
+
+144
+00:09:30,780 --> 00:09:35,980
+What makes Digital Globe, for example, run are those five satellites and to get those
+
+145
+00:09:35,980 --> 00:09:40,640
+to space, to the place where they make money, they had to put them on rockets which tend
+
+146
+00:09:40,640 --> 00:09:43,120
+to, from time to time, blow up.
+
+147
+00:09:43,120 --> 00:09:46,640
+It's always a little bit of a nail biter as you come up to a launch.
+
+148
+00:09:46,640 --> 00:09:51,880
+We put an enormous capital investment into the satellites and the launch vehicle and
+
+149
+00:09:51,880 --> 00:09:56,320
+it all comes down to a one hour event—lifting off from the ground and going into orbit and
+
+150
+00:09:56,320 --> 00:10:00,040
+that's a, that can be a little bit of a nerve-wracking period but certainly very exciting
+
+151
+00:10:00,040 --> 00:10:01,600
+at the same time.
+
+152
+00:10:01,600 --> 00:10:07,240
+An average of one in twenty rocket launches fail and then, on top of that, some satellites
+
+153
+00:10:07,240 --> 00:10:11,360
+fail once they reach orbit which makes the space business risky.
+
+154
+00:10:11,360 --> 00:10:15,680
+Companies like Digital Globe will therefore purchase enormously expensive insurance policies
+
+155
+00:10:15,680 --> 00:10:19,960
+on their satellites in case the launch or the satellite itself fails.
+
+156
+00:10:19,960 --> 00:10:24,280
+If they didn't, one bad launch could spell the end for the company.
+
+157
+00:10:24,280 --> 00:10:28,280
+Of course, some launch providers are much more reliable than others.
+
+158
+00:10:28,280 --> 00:10:31,840
+United Launch Alliance, the launch provider that Digital Globe used for their current
+
+159
+00:10:31,840 --> 00:10:36,560
+five satellites, has not had a launch failure in its eleven year history.
+
+160
+00:10:36,560 --> 00:10:40,880
+Insurance rates for ULA would be relatively low while insurance rates for a newer launch
+
+161
+00:10:40,880 --> 00:10:45,160
+provider, such as Orbital ATK or Blue Origin, would be comparatively high.
+
+162
+00:10:45,160 --> 00:10:50,160
+Nonetheless, the cost of newer launch providers with insurance included is now often less
+
+163
+00:10:50,160 --> 00:10:52,800
+than the older, more reliable launch companies.
+
+164
+00:10:52,800 --> 00:10:55,500
+But how does Digital Globe fund their exploits?
+
+165
+00:10:55,500 --> 00:10:57,580
+What keeps those satellites flying?
+
+166
+00:10:57,580 --> 00:10:59,560
+How do they make their money?
+
+167
+00:10:59,560 --> 00:11:02,800
+Our largest customer is the US government and we've been very proud to be their mission
+
+168
+00:11:02,800 --> 00:11:06,760
+partner for over a decade and a half coming up on two decades now.
+
+169
+00:11:06,760 --> 00:11:12,360
+It used to be that the commercial satellite industry was essentially focused on one major
+
+170
+00:11:12,360 --> 00:11:14,180
+customer—governments.
+
+171
+00:11:14,180 --> 00:11:19,060
+In the past, the US government has been the single largest customer of the few commercial
+
+172
+00:11:19,060 --> 00:11:23,440
+space companies that there were thanks to its enormous defense spending, but today as
+
+173
+00:11:23,440 --> 00:11:29,060
+commercial customers contract commercial space companies, the business is spreading globally.
+
+174
+00:11:29,060 --> 00:11:34,820
+Over the past decade, the customer base has become more international and more diversified.
+
+175
+00:11:34,820 --> 00:11:41,240
+Our other customers are international customers who may be US allies or maybe technology companies
+
+176
+00:11:41,240 --> 00:11:42,700
+across the world.
+
+177
+00:11:42,700 --> 00:11:48,220
+We go deep in the telecommunications infrastructure, online mapping, energy industries, mining
+
+178
+00:11:48,220 --> 00:11:50,380
+industries, forestry applications.
+
+179
+00:11:50,380 --> 00:11:55,500
+There's really a huge variety of customers, but the most obvious ones are those mapping
+
+180
+00:11:55,500 --> 00:11:56,500
+companies.
+
+181
+00:11:56,500 --> 00:11:59,400
+If you've ever used Google maps, you're using our imagery.
+
+182
+00:11:59,400 --> 00:12:02,860
+If you've ever used Apple maps, you're using our imagery.
+
+183
+00:12:02,860 --> 00:12:07,620
+If you ever look and do a crowdsourcing project in OpenStreetMap, you're using our imagery
+
+184
+00:12:07,620 --> 00:12:08,780
+as well.
+
+185
+00:12:08,780 --> 00:12:14,340
+But perhaps the single most promising use of earth imagery is with autonomous vehicles.
+
+186
+00:12:14,340 --> 00:12:20,140
+Having good, solid, current satellite imagery is an integral part of how autonomous vehicles
+
+187
+00:12:20,140 --> 00:12:21,140
+work.
+
+188
+00:12:21,140 --> 00:12:25,940
+These vehicles can't just rely on their internal sensors to understand their surroundings—they
+
+189
+00:12:25,940 --> 00:12:28,040
+get a view from above.
+
+190
+00:12:28,040 --> 00:12:34,100
+As we think about autonomous vehicles, it's not okay to update the image once a quarter,
+
+191
+00:12:34,100 --> 00:12:37,900
+once a year, even once a week.
+
+192
+00:12:37,900 --> 00:12:42,540
+They really need imagery that's coming in much, much faster than that to deal with changes
+
+193
+00:12:42,540 --> 00:12:46,980
+in traffic conditions, changes in roads, crashes, etc.
+
+194
+00:12:46,980 --> 00:12:51,360
+Uber, which is developing autonomous cars, is already a customer of Digital Globe for
+
+195
+00:12:51,360 --> 00:12:55,720
+navigation purposes and as more and more companies move into the autonomous vehicle
+
+196
+00:12:55,720 --> 00:13:00,240
+race, the competition between earth observation companies for their business is likely to
+
+197
+00:13:00,240 --> 00:13:01,240
+heat up.
+
+198
+00:13:01,240 --> 00:13:05,840
+There are plenty of other emerging uses as well which, as an ensemble, are growing the
+
+199
+00:13:05,840 --> 00:13:08,360
+demand for earth imagery day by day.
+
+200
+00:13:08,360 --> 00:13:12,160
+It is a tremendously fast growing industry.
+
+201
+00:13:12,160 --> 00:13:15,560
+But satellite imagery by itself really isn't worth much.
+
+202
+00:13:15,560 --> 00:13:17,120
+You need something more.
+
+203
+00:13:17,120 --> 00:13:24,000
+I would say that our customers are demanding more actionable information faster than ever.
+
+204
+00:13:24,000 --> 00:13:26,560
+Translation—customers want data.
+
+205
+00:13:26,560 --> 00:13:30,400
+They want the information embedded in the images.
+
+206
+00:13:30,400 --> 00:13:33,560
+For that, there's another company—Radiant Solutions.
+
+207
+00:13:33,560 --> 00:13:39,800
+So today customers, the big challenge is around where it used to be more of a, hey we just
+
+208
+00:13:39,800 --> 00:13:45,080
+need to get an answer, now it's more of how do we deal with all of this data and how
+
+209
+00:13:45,080 --> 00:13:49,200
+do we answer the more complex questions because they are getting more complex and they're
+
+210
+00:13:49,200 --> 00:13:53,560
+getting even harder to answer now by virtue of being inundated with data.
+
+211
+00:13:53,560 --> 00:13:57,920
+Radiant Solutions would describe themselves as a geospatial analytics company.
+
+212
+00:13:57,920 --> 00:14:01,200
+They take satellite imagery and translate it into information.
+
+213
+00:14:01,200 --> 00:14:06,440
+We're able to take in vast amounts of data and make sense of it to produce insight.
+
+214
+00:14:06,440 --> 00:14:08,200
+They answer big questions.
+
+215
+00:14:08,200 --> 00:14:12,720
+A logging company might ask a question like, what's the density of trees in this particular
+
+216
+00:14:12,720 --> 00:14:17,880
+region of Canada before purchasing new land and Radiant would be able to look at hundreds
+
+217
+00:14:17,880 --> 00:14:22,540
+or thousands or millions of square miles of imagery to tell them how many trees there
+
+218
+00:14:22,540 --> 00:14:23,540
+are.
+
+219
+00:14:23,540 --> 00:14:28,920
+Now, with so much imagery and such a big world, you can't just do this all by hand—at
+
+220
+00:14:28,920 --> 00:14:30,400
+least economically.
+
+221
+00:14:30,400 --> 00:14:34,640
+For that reason, there's been a huge shift in the geospatial analytics business toward
+
+222
+00:14:34,640 --> 00:14:36,920
+using artificial intelligence.
+
+223
+00:14:36,920 --> 00:14:40,200
+We hear more and more now that data is kind of like the new oil.
+
+224
+00:14:40,200 --> 00:14:45,000
+Well that's sort of true but the data has to be reliable, there has to be high confidence
+
+225
+00:14:45,000 --> 00:14:46,000
+in the data.
+
+226
+00:14:46,000 --> 00:14:48,000
+So the AI has to be good.
+
+227
+00:14:48,000 --> 00:14:52,240
+To train a machine to find a red car, for example, you need to show it thousands or
+
+228
+00:14:52,240 --> 00:14:56,400
+millions of examples of what a red car looks like, but…
+
+229
+00:14:56,400 --> 00:15:00,280
+It's very different for a machine to look for a red car in an urban environment as it
+
+230
+00:15:00,280 --> 00:15:02,380
+is to find a red car in snow.
+
+231
+00:15:02,380 --> 00:15:07,520
+So not only are you training the models to look for that object, but you also have to
+
+232
+00:15:07,520 --> 00:15:09,960
+train it on where to find it regionally.
+
+233
+00:15:09,960 --> 00:15:16,360
+It is hugely complicated, but that's why these guys are in business—to answer complicated
+
+234
+00:15:16,360 --> 00:15:17,500
+questions.
+
+235
+00:15:17,500 --> 00:15:20,840
+Some data, however, isn't in the visual spectrum.
+
+236
+00:15:20,840 --> 00:15:25,840
+Some data is hidden, but luckily there's a special satellite just for that.
+
+237
+00:15:25,840 --> 00:15:30,400
+In the old days, it was just please get me good, solid image pixels to use and I'll
+
+238
+00:15:30,400 --> 00:15:32,280
+go figure out how to use them.
+
+239
+00:15:32,280 --> 00:15:37,500
+Today, particularly in the commercial space, it's all about information.
+
+240
+00:15:37,500 --> 00:15:40,900
+That's Paul Kennedy—Vice President of Ground Systems at MDA.
+
+241
+00:15:40,900 --> 00:15:44,500
+They've been in business since 1969.
+
+242
+00:15:44,500 --> 00:15:48,860
+Their most visible project was on developing the Canadarm for the space shuttles and International
+
+243
+00:15:48,860 --> 00:15:49,980
+Space Station.
+
+244
+00:15:49,980 --> 00:15:54,380
+As a long-time player in the industry, they serve a variety of functions from developing
+
+245
+00:15:54,380 --> 00:15:59,480
+space robotics to building satellite ground stations, but one of their most valuable assets
+
+246
+00:15:59,480 --> 00:16:02,820
+is that special satellite—Radarsat-2.
+
+247
+00:16:02,820 --> 00:16:07,380
+While most earth observation satellites image using the visual spectrum, what we can see
+
+248
+00:16:07,380 --> 00:16:11,260
+with our own eyes, Radarsat-2 uses radar.
+
+249
+00:16:11,260 --> 00:16:13,600
+Radar is an active pulse.
+
+250
+00:16:13,600 --> 00:16:22,300
+So the satellite actually sends a beam of energy to the ground and reads back what it
+
+251
+00:16:22,300 --> 00:16:29,800
+gets back from the earth and that gives us a couple of interesting advantages in SAR.
+
+252
+00:16:29,800 --> 00:16:33,300
+For one, radar can see through clouds and darkness.
+
+253
+00:16:33,300 --> 00:16:38,140
+It doesn't matter what the light and weather conditions are, it's all the same for Radarsat-2.
+
+254
+00:16:38,140 --> 00:16:44,240
+Now, MDA is a Canadian company and it's no coincidence that a Canadian company operates
+
+255
+00:16:44,240 --> 00:16:45,540
+this satellite.
+
+256
+00:16:45,540 --> 00:16:50,100
+Just like the US government is a major customer of Digital Globe, the Canadian government
+
+257
+00:16:50,100 --> 00:16:55,540
+is a major customer of MDA and here's the thing about Canada—the weather is terrible
+
+258
+00:16:55,540 --> 00:16:57,060
+and it's always dark.
+
+259
+00:16:57,060 --> 00:17:01,660
+Quite literally in northern Canada where the sun stays down for the entire winter.
+
+260
+00:17:01,660 --> 00:17:05,940
+It's no coincidence that the company that works so closely with the Canadian government
+
+261
+00:17:05,940 --> 00:17:09,540
+operates the satellite that can see through clouds and night.
+
+262
+00:17:09,540 --> 00:17:13,980
+Without Radarsat-2, the Canadian government would be blind—they would have no way of
+
+263
+00:17:13,980 --> 00:17:19,460
+monitoring huge swaths of their territory in the high arctic for months out of the year.
+
+264
+00:17:19,460 --> 00:17:24,140
+With new launch providers emerging such as Blue Origin and Rocket Lab and SpaceX, the
+
+265
+00:17:24,140 --> 00:17:27,540
+cost of launching material into space is plummeting.
+
+266
+00:17:27,540 --> 00:17:32,220
+Now, this is useful to these companies, at least in some ways.
+
+267
+00:17:32,220 --> 00:17:36,660
+With lower launch costs, Digital Globe and MDA can launch more satellites which means
+
+268
+00:17:36,660 --> 00:17:41,980
+more data for radiant solutions, but that also makes it easier for competitors to launch
+
+269
+00:17:41,980 --> 00:17:42,980
+satellites.
+
+270
+00:17:42,980 --> 00:17:47,080
+The earth imagery business is growing but so is the competition.
+
+271
+00:17:47,080 --> 00:17:52,820
+The best known earth imagery startup, Planet, is launching a constellation of small satellites.
+
+272
+00:17:52,820 --> 00:17:57,060
+While Digital Globe's satellites are the size of a bus, Planet's smallest are the
+
+273
+00:17:57,060 --> 00:17:59,100
+size of a toaster.
+
+274
+00:17:59,100 --> 00:18:02,780
+With the smaller size, development and launch costs are lower.
+
+275
+00:18:02,780 --> 00:18:07,400
+While in the past starting a space imagery company required hundreds of millions or billions
+
+276
+00:18:07,400 --> 00:18:12,960
+of dollars in funding, the emergence of smallsats means that it's enormously easier to break
+
+277
+00:18:12,960 --> 00:18:15,840
+into the satellite imagery business nowadays.
+
+278
+00:18:15,840 --> 00:18:19,600
+But there is a key difference between these two companies.
+
+279
+00:18:19,600 --> 00:18:24,600
+Digital Globe's satellites capture imagery with a pixel size of 12 inches while Planet's
+
+280
+00:18:24,600 --> 00:18:30,060
+primary satellite constellation captures imagery with a pixel size of 10-15 feet at a much
+
+281
+00:18:30,060 --> 00:18:31,340
+lower cost.
+
+282
+00:18:31,340 --> 00:18:35,560
+There are certain uses for high-resolution imagery and there are certain other uses for
+
+283
+00:18:35,560 --> 00:18:41,120
+low-cost imagery so in some ways, these two companies aren't even direct competitors.
+
+284
+00:18:41,120 --> 00:18:46,360
+Nonetheless, the space industry is changing, growing, and becoming more competitive so
+
+285
+00:18:46,360 --> 00:18:49,140
+the established companies need to adapt.
+
+286
+00:18:49,140 --> 00:18:54,180
+United Launch Alliance knows that, Airbus knows that, Arianespace knows that, and Digital
+
+287
+00:18:54,180 --> 00:18:58,860
+Globe, MDA, and Radiant know that too, so they made a change.
+
+288
+00:18:58,860 --> 00:19:01,060
+These three companies are now one.
+
+289
+00:19:01,060 --> 00:19:04,980
+Along with a fourth company, a spacecraft manufacturing company called SSL that will
+
+290
+00:19:04,980 --> 00:19:10,140
+be covered in a future video, these are the entities that make up the newest powerhouse
+
+291
+00:19:10,140 --> 00:19:12,500
+in the space technology business.
+
+292
+00:19:12,500 --> 00:19:16,900
+This merger wasn't necessarily in response to heavy competition but rather, at least
+
+293
+00:19:16,900 --> 00:19:22,000
+from an outsider's perspective, a preemptive strike to establish themselves as a major
+
+294
+00:19:22,000 --> 00:19:26,940
+international player before the commercial space industry truly lifts off.
+
+295
+00:19:26,940 --> 00:19:33,140
+Increasingly, the more traditional aerospace and defense companies that have been supplying
+
+296
+00:19:33,140 --> 00:19:41,140
+technology in space have been able to provide the performance but the cost has been extremely
+
+297
+00:19:41,140 --> 00:19:42,140
+high.
+
+298
+00:19:42,140 --> 00:19:45,660
+Maxar is now a fully vertically integrated company.
+
+299
+00:19:45,660 --> 00:19:49,760
+In the earth imagery space, for example, they'll do everything from building satellites to
+
+300
+00:19:49,760 --> 00:19:52,680
+operating them to extracting data from imagery.
+
+301
+00:19:52,680 --> 00:19:57,260
+By performing all the steps in this process internally, Maxar lowers its costs and this
+
+302
+00:19:57,260 --> 00:20:02,500
+also puts them in the same league as Airbus as one of the very few end-to-end integrated
+
+303
+00:20:02,500 --> 00:20:04,380
+space companies.
+
+304
+00:20:04,380 --> 00:20:09,460
+The commercial space industry as a whole is doing a phenomenal job of making access to
+
+305
+00:20:09,460 --> 00:20:11,760
+orbital space commonplace.
+
+306
+00:20:12,280 --> 00:20:21,060
+The routine steps of space activities are slowly being ceded to private enterprise that
+
+307
+00:20:21,060 --> 00:20:22,640
+could do it faster, better, cheaper.
+
+308
+00:20:22,640 --> 00:20:27,120
+We're now at a place where launching a satellite to low earth orbit is unexceptional.
+
+309
+00:20:27,120 --> 00:20:32,640
+That's exactly what we want—easy access to space—and for near space, that exists
+
+310
+00:20:32,640 --> 00:20:33,960
+right now.
+
+311
+00:20:33,960 --> 00:20:39,480
+Getting beyond earth's orbit, though, outside our cosmic neighborhood, into deep space,
+
+312
+00:20:39,480 --> 00:20:41,260
+that's still tough.
+
+313
+00:20:41,260 --> 00:20:46,740
+The problem is that private enterprise, by its very nature, needs to make money.
+
+314
+00:20:46,740 --> 00:20:50,260
+Companies and their leaders are beholden to their investors to make money.
+
+315
+00:20:50,260 --> 00:20:52,900
+If they're not, then they're not a company.
+
+316
+00:20:52,900 --> 00:20:57,260
+Companies can and do make money with deep space but only through developing and building
+
+317
+00:20:57,260 --> 00:21:00,780
+technologies for NASA and other government agencies.
+
+318
+00:21:00,780 --> 00:21:05,460
+There is zero commercial demand for deep space technology today.
+
+319
+00:21:05,460 --> 00:21:11,620
+Going to new planets, to new solar systems, exploring space, that really doesn't make
+
+320
+00:21:11,620 --> 00:21:12,980
+money.
+
+321
+00:21:12,980 --> 00:21:17,440
+Many people who think about commercial space, I think they're over-predicting what their
+
+322
+00:21:17,440 --> 00:21:18,440
+role will be.
+
+323
+00:21:18,440 --> 00:21:22,060
+They're imagining commercial space leading a space frontier.
+
+324
+00:21:22,060 --> 00:21:28,120
+But to lead a space frontier is expensive and it's not an obvious return on the investment.
+
+325
+00:21:28,120 --> 00:21:29,580
+You might do it as a vanity project.
+
+326
+00:21:29,580 --> 00:21:33,300
+If there are enough billionaires in the world, they could all pool their money.
+
+327
+00:21:33,300 --> 00:21:38,300
+Jeff Bezos, Bill Gates, Elon Musk.
+
+328
+00:21:38,300 --> 00:21:42,100
+They could do a vanity project and send humans to Mars, let's say.
+
+329
+00:21:42,100 --> 00:21:47,220
+But that's not a business model and it would get a lot of attention but is that something
+
+330
+00:21:47,220 --> 00:21:48,220
+you can sustain?
+
+331
+00:21:48,220 --> 00:21:49,220
+No.
+
+332
+00:21:49,220 --> 00:21:51,100
+It would be a one-off.
+
+333
+00:21:51,100 --> 00:21:56,560
+When people imagine a future of space and industry, they're imagining a sustained
+
+334
+00:21:56,560 --> 00:21:58,060
+business case.
+
+335
+00:21:58,060 --> 00:22:02,600
+Of course, you could have said the same thing about the space race 60 years ago.
+
+336
+00:22:02,600 --> 00:22:08,220
+That was exploration, however, in the long term, it was an investment that paid off because
+
+337
+00:22:08,220 --> 00:22:11,600
+space now makes money.
+
+338
+00:22:11,600 --> 00:22:17,000
+Space today is an integral part of what we know and what we can do on the surface of
+
+339
+00:22:17,000 --> 00:22:19,000
+the planet.
+
+340
+00:22:19,000 --> 00:22:27,920
+Communications, imagery, climate science, defense and intelligence and security applications,
+
+341
+00:22:27,920 --> 00:22:34,880
+all of those are seamlessly enabled by space technologies without most of us who go through
+
+342
+00:22:34,880 --> 00:22:38,800
+our daily lives not even thinking about it.
+
+343
+00:22:38,800 --> 00:22:43,160
+The difference between commercial enterprise and governments is time.
+
+344
+00:22:43,160 --> 00:22:47,520
+Commercial enterprises need to think about investments that pay off within the lifetime
+
+345
+00:22:47,520 --> 00:22:48,520
+of their shareholders.
+
+346
+00:22:48,520 --> 00:22:53,880
+So you're always thinking about what is the return on the investment you're making?
+
+347
+00:22:53,880 --> 00:22:58,560
+How long will it take you to achieve the returns on the investment?
+
+348
+00:22:58,560 --> 00:23:04,200
+And what's the probability that the R&D you're putting in will be successful?
+
+349
+00:23:04,200 --> 00:23:08,600
+While companies look at investments in terms of years, governments can look at investments
+
+350
+00:23:08,600 --> 00:23:14,260
+in terms of decades or centuries because governments transcend generations.
+
+351
+00:23:14,260 --> 00:23:18,640
+The innovation that will occur by bringing humans to Mars and beyond will absolutely
+
+352
+00:23:18,640 --> 00:23:20,640
+make money in the very long term.
+
+353
+00:23:20,640 --> 00:23:26,300
+But right now, it would take an enormous amount of money that few people want to risk.
+
+354
+00:23:26,300 --> 00:23:30,760
+You could point to Elon Musk as an exception to this rule—he more than anyone understands
+
+355
+00:23:30,760 --> 00:23:35,920
+the value of super long-term investments like going to Mars—but he also understands that
+
+356
+00:23:35,920 --> 00:23:37,760
+he's alone in that.
+
+357
+00:23:37,760 --> 00:23:42,160
+Individuals don't want to invest in something that won't make money until after they're
+
+358
+00:23:42,160 --> 00:23:43,160
+dead.
+
+359
+00:23:43,160 --> 00:23:48,120
+Musk has stated that he has no plans to take SpaceX public until after a successful mission
+
+360
+00:23:48,120 --> 00:23:53,960
+to Mars which means that, for the moment, the company is almost acting more as an organization.
+
+361
+00:23:53,960 --> 00:23:58,920
+He's funneling the money from launches, which make money, into exploration, which
+
+362
+00:23:58,920 --> 00:23:59,920
+doesn't.
+
+363
+00:23:59,920 --> 00:24:05,280
+Governments need to lead the way because they have the longer time horizons that they can
+
+364
+00:24:05,280 --> 00:24:08,600
+think about and monetize.
+
+365
+00:24:08,600 --> 00:24:14,740
+When they do that, once they lead the way they have now quantified the risks and you
+
+366
+00:24:14,740 --> 00:24:20,280
+know the costs and where the friendlies are and the hostels and whatever are the things
+
+367
+00:24:20,280 --> 00:24:24,900
+that would compromise your mission, they've already figured this out.
+
+368
+00:24:24,900 --> 00:24:28,700
+Then if they do it right, you then hand that to private industry that then makes a buck
+
+369
+00:24:28,700 --> 00:24:32,540
+off of it, then the government can tax that if they so choose.
+
+370
+00:24:32,540 --> 00:24:37,480
+Maxar Technologies and its four businesses meanwhile absolutely innovate including in
+
+371
+00:24:37,480 --> 00:24:41,900
+deep space technologies, but they're not going to put the pieces together to go to
+
+372
+00:24:41,900 --> 00:24:46,320
+Mars by themselves because that's not a good investment.
+
+373
+00:24:46,320 --> 00:24:50,760
+One should be careful to realize that this coming era of commercialized space does not
+
+374
+00:24:50,760 --> 00:24:54,940
+necessarily translate into a renaissance of space exploration.
+
+375
+00:24:54,940 --> 00:25:01,140
+Commercial industry is not a substitute for NASA or the ESA or any other government institution.
+
+376
+00:25:01,140 --> 00:25:02,660
+They are collaborators.
+
+377
+00:25:02,660 --> 00:25:07,180
+They can make the government's job easier and cheaper, but they cannot replace those
+
+378
+00:25:07,180 --> 00:25:10,760
+whose jobs are to go where no human has gone before.
+
+379
+00:25:10,760 --> 00:25:17,000
+The next few decades and centuries can be the era of space exploration but for that,
+
+380
+00:25:17,000 --> 00:25:21,900
+you need a public, you need an electorate that understands that anything good, anything
+
+381
+00:25:21,900 --> 00:25:27,120
+truly worthwhile, takes time.
+
+382
+00:25:27,120 --> 00:25:32,080
+There are so many thanks I have to give for help with this video but one is to Away, not
+
+383
+00:25:32,080 --> 00:25:36,400
+only for making this video possible through sponsorship, but also for literally carrying
+
+384
+00:25:36,400 --> 00:25:42,000
+my possessions over the 15,000 miles I traveled while making this video, and unfortunately
+
+385
+00:25:42,000 --> 00:25:43,280
+that number is not a mistake.
+
+386
+00:25:43,280 --> 00:25:47,980
+I've now owned my Away suitcase for almost a year, have traveled all over the world with
+
+387
+00:25:47,980 --> 00:25:49,640
+it, and I love it.
+
+388
+00:25:49,640 --> 00:25:54,480
+The suitcase is just solidly built, you can feel it, and it has a built-in yet removable
+
+389
+00:25:54,480 --> 00:25:59,440
+battery, a laundry bag, a laptop sleeve, and a compression system so you can pack more
+
+390
+00:25:59,440 --> 00:26:01,340
+into a smaller space.
+
+391
+00:26:01,340 --> 00:26:06,040
+Best of all, for how good it is, the Away suitcase is sold for an amazing price and
+
+392
+00:26:06,040 --> 00:26:11,260
+it's at an even more amazing price if you go to awaytravel.com slash wendover and use
+
+393
+00:26:11,260 --> 00:26:15,600
+the code wendover at checkout to get $20 off your Away suitcase.
+
+394
+00:26:15,600 --> 00:26:19,880
+They're so confident that you'll love the product that all Away suitcases have a
+
+395
+00:26:19,880 --> 00:26:23,920
+lifetime warranty and a 100-day unconditional return policy.
+
+396
+00:26:23,920 --> 00:26:29,160
+It's quite literally no risk and they made this enormous video possible so if you need
+
+397
+00:26:29,160 --> 00:26:34,760
+a suitcase for life, check out awaytravel.com slash wendover and use the code wendover at
+
+398
+00:26:34,760 --> 00:26:35,760
+checkout.
+
+399
+00:26:35,760 --> 00:26:40,440
+I also have to give a huge thanks to Maxar Technologies, especially Kristen Karringer
+
+400
+00:26:40,440 --> 00:26:45,440
+and Turner Brinton, for letting me film this video as it takes an enormous amount of work
+
+401
+00:26:45,440 --> 00:26:48,800
+to allow cameras into such a high-security environment.
+
+402
+00:26:48,800 --> 00:26:52,800
+Lastly, as I mentioned at the beginning, I appeared on Neil deGrasse Tyson's show Star
+
+403
+00:26:52,800 --> 00:26:57,360
+Talk and also launched a new personal channel where I made a behind-the-scenes video for
+
+404
+00:26:57,360 --> 00:26:58,360
+that appearance.
+
+405
+00:26:58,360 --> 00:27:01,660
+Both are linked in the description and on screen now.
+
+406
+00:27:01,660 --> 00:27:05,280
+Thanks again for watching and I'll see you again in three weeks for another Wendover
+
+407
+00:27:05,280 --> 00:27:06,460
+Productions video.
+

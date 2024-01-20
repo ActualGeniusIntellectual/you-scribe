@@ -1,0 +1,104 @@
+So, there's this fantastic Wikipedia list descriptively titled Wikipedia colon unusual
+articles.
+I just remember it as that Wikipedia list.
+It's a collection of hundreds of articles about unusual, unexpected, and unbelievable
+subjects.
+No matter what link you click, it's bound to be interesting.
+For that reason, every week I'm going to click on a new link and teach you a little
+bit more about our amazing world.
+Today we're going to take a trip.
+We're going to slip the surly bonds of earth up into the heavens.
+We're traveling through the galaxy to learn about timekeeping on the red planet—Mars.
+But before we can understand timekeeping on Mars, we first have to understand timekeeping
+on earth.
+Dammit.
+Can we turn this thing around?
+Alright so this is the Greenwich Observatory in England.
+Greenwich is known for being the site of the prime meridian.
+For all intents and purposes, this is the longitudinal center of earth.
+For simplicity's sake, we'll say that time is determined based on the sun.
+This isn't exactly true though, so I have a whole other video that explains time in
+more detail.
+When the sun is highest in the sky at any given location, we call that noon and the
+rest of the day's time is relative to this.
+So now let's go south to the intersection between the equator and the prime meridian.
+We find ourselves in the middle of the Gulf of Guinea.
+Similar to how the prime meridian is the longitudinal center of the earth, the equator
+is the latitudinal center of the earth.
+At this point of 0 degrees longitude and 0 degrees latitude, it's noon because the
+sun is at its highest point in the sky.
+Great, now if we go 1,035 miles east we find ourselves in the lovely village of Atumbi
+in the Republic of the Congo.
+In Atumbi, the time is 1 pm because the sun reached its highest point an hour ago.
+This is why we have time zones.
+Since the earth rotates once every 24 hours, there are 24 time zones.
+But wait, I lied.
+It doesn't take 24 hours for the earth to rotate once, it takes 23 hours 56 minutes
+and 4.0916 seconds.
+That's because there are really two definitions of a day.
+The conventional definition is a solar day—the time between two noons when the sun is highest
+in the sky.
+The more scientific definition is a sidereal day.
+That's the time it takes for the earth to rotate 360 degrees around its axis and therefore
+the time it takes for the same star to appear in the same spot in the sky from one day to
+the next.
+There's a difference between sidereal days and solar days because the earth rotates both
+on its axis and around the sun.
+So watch this.
+Let's put a marker on a spot on the earth and fast forward one sidereal day.
+You'll notice that the same spot is not yet the closest point on earth to the sun
+because the earth also rotated around the sun.
+To bring the marker closest to the sun, we'll need to advance four minutes forward and now
+we're at one solar day.
+Those four minutes add up conveniently to just about 24 hours over one year so that
+means that there's one more sidereal day per year than solar day.
+Alright, now we can go to Mars.
+That was quick.
+So Mars is a pretty similar planet to earth and time works in a pretty similar way.
+It has a prime meridian right here.
+Strangely, astronomers chose this prime meridian before earth was chosen.
+Using the mean solar time at the prime meridian, there's a coordinated martian time known
+as MTC but, for the most part, any rovers on Mars just set their clocks using the solar
+time of their landing site.
+This is actually pretty similar to how towns on earth set their time before coordinated
+time zones were created.
+Each town on earth set their time based on their own solar noon but this created difficulties
+when rapid transit between places was invented since no one really knew what time it was.
+If you want to learn more about this, you can, once again, go check out my other video
+on time.
+Since there have only ever been 11 operational spacecrafts on Mars, having different time
+standards based on solar time hasn't yet caused any problems.
+It does mean, however, that even the seconds aren't coordinated between different rovers.
+What does cause a bit of a problem though is that a martian day is slightly longer than
+an earth day.
+Anyone who's watched the martian knows that a solar day on Mars is called a sol.
+One sol is equal to 24 hours, 39 minutes, and 35.244 seconds.
+Rovers on Mars generally only work during the day, partially because some are solar
+powered and partially because much of the work is based on observation from cameras
+which need light.
+Therefore, the teams on earth controlling rovers have to live their lives based on martian
+time.
+Their work shift essentially moves forward 40 minutes every day to coordinate with the
+time that it's light on Mars.
+Deborah Bass, a scientist from the Jet Propulsion Laboratory who worked in the Spirit and Opportunity
+programs said that,
+You're always jet-lagged.
+It's only a little bit, because an hour, who cares, that's off so bad.
+But it starts to take a toll.
+Scientists who work on rovers sometimes wear two watches—one for martian time and one
+for earth time.
+So if we do go colonize Mars, we'll want to create time zones and actually use the
+standardized time.
+Using different time standards at different places always creates problems especially
+for computers and communications.
+This, of course, is just one of many details that we'll have to figure out before we
+go live on the red planet.
+I hope you enjoyed this week's episode.
+It was far more educational than last week's episode about toilet paper orientation which
+you can find right here.
+You can also subscribe to this channel by clicking here.
+Also, before you go, this is my formal plea for you guys to go follow me on Twitter.
+I have 13 followers and while those 13 seem like really cool guys, I would love to have
+more people to talk to.
+My username is at WendoverPro.
+Thanks for watching and come back next week for more of That Wikipedia List.

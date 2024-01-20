@@ -1,0 +1,1180 @@
+1
+00:00:00,000 --> 00:00:06,440
+The world's new era of warfare started here, on the eighth floor of an innocuous office
+
+2
+00:00:06,440 --> 00:00:09,400
+building in Minsk, Belarus.
+
+3
+00:00:09,400 --> 00:00:15,360
+A small anti-virus developer based within these walls, Virus Blockada, received an inbound
+
+4
+00:00:15,360 --> 00:00:16,740
+help request.
+
+5
+00:00:16,740 --> 00:00:22,120
+Their client in Iran was experiencing random, repeated reboots of their industrial-control
+
+6
+00:00:22,120 --> 00:00:23,120
+computers.
+
+7
+00:00:23,120 --> 00:00:28,040
+It was probably a bug, they thought—a misconfiguration of Windows, or an issue of two programs not
+
+8
+00:00:28,040 --> 00:00:29,760
+playing nice with each other.
+
+9
+00:00:29,760 --> 00:00:34,220
+So, they reinstalled Windows, but the issue remained.
+
+10
+00:00:34,220 --> 00:00:35,600
+This upped the stakes.
+
+11
+00:00:35,600 --> 00:00:40,360
+This wasn't some mistake in Windows programming—this was something purposefully malicious.
+
+12
+00:00:40,360 --> 00:00:46,200
+Soon, Sergei Ulasin, the company's researcher, found some suspicious files on the errant
+
+13
+00:00:46,200 --> 00:00:47,320
+machine.
+
+14
+00:00:47,320 --> 00:00:51,640
+As he combed through their code, he made a discovery—a discovery that shook the world
+
+15
+00:00:51,640 --> 00:00:55,400
+of information security to its core.
+
+16
+00:00:55,400 --> 00:01:00,480
+This code, when placed on a USB drive and plugged into a computer, could silently launch
+
+17
+00:01:00,480 --> 00:01:04,340
+and execute a program simply by being viewed.
+
+18
+00:01:04,340 --> 00:01:09,280
+This was a brand new exploit—a catastrophically capable exploit.
+
+19
+00:01:09,280 --> 00:01:14,420
+All it took was one drive, simply plugged in, to infect one computer.
+
+20
+00:01:14,420 --> 00:01:19,240
+This method of spread was mortifyingly efficient—it was something out of a movie.
+
+21
+00:01:19,240 --> 00:01:23,720
+Recognizing that, the intuitive question was how far it had spread.
+
+22
+00:01:23,720 --> 00:01:25,720
+The answer was chilling.
+
+23
+00:01:25,720 --> 00:01:26,720
+58%.
+
+24
+00:01:26,720 --> 00:01:32,600
+58% of devices in Iran were infected with this malicious code.
+
+25
+00:01:32,600 --> 00:01:37,880
+58% of the country's computers were within the grips of some mystery developer so capable
+
+26
+00:01:37,880 --> 00:01:41,960
+that they had identified an exploit of existential proportions.
+
+27
+00:01:41,960 --> 00:01:46,140
+And what made this ominous development all that much more intimidating was that nobody
+
+28
+00:01:46,140 --> 00:01:49,740
+knew what this code was intended to do.
+
+29
+00:01:49,740 --> 00:01:55,940
+Nobody knew why a high-skilled hacker had spread a groundbreaking worm to 58% of Iran's
+
+30
+00:01:55,940 --> 00:01:56,940
+computers.
+
+31
+00:01:56,940 --> 00:02:01,540
+What became clear far quicker is that Virus Blocka does discovery did not gain prominence
+
+32
+00:02:01,540 --> 00:02:06,540
+for the virus itself—it gained prominence because this small Belarusian antivirus company
+
+33
+00:02:06,540 --> 00:02:10,640
+had discovered that the world had entered a new era.
+
+34
+00:02:10,640 --> 00:02:18,520
+The world had entered the era of highly advanced, highly targeted, and highly capable cyber-warfare.
+
+35
+00:02:18,520 --> 00:02:24,140
+This new era was made possible, and perhaps more importantly, made profitable by one single
+
+36
+00:02:24,140 --> 00:02:27,060
+concept—the Zero Day.
+
+37
+00:02:27,060 --> 00:02:32,060
+You see, in decades past, national intelligence agencies and nefarious independent operatives
+
+38
+00:02:32,060 --> 00:02:35,280
+focused on gathering information in transit.
+
+39
+00:02:35,280 --> 00:02:38,540
+Rather than sneaking into the embassy, you intercepted the courier.
+
+40
+00:02:38,540 --> 00:02:41,900
+Rather than placing a bug in the phone, you tapped the transmission line.
+
+41
+00:02:41,900 --> 00:02:46,840
+It was simply easier to capture information on the move than at its origin or destination.
+
+42
+00:02:46,840 --> 00:02:51,940
+As the digital age awoke, this MO continued, but then the manufacturers caught up.
+
+43
+00:02:51,940 --> 00:02:57,640
+Apple, Microsoft, Google, and others all started encrypting data as soon as it left devices.
+
+44
+00:02:57,640 --> 00:03:03,320
+Shielding information behind complex mathematical systems, encryption, by this time, was, for
+
+45
+00:03:03,320 --> 00:03:06,020
+all practical purposes, perfect.
+
+46
+00:03:06,020 --> 00:03:10,280
+Therefore, the strategies behind digital espionage had to change.
+
+47
+00:03:10,280 --> 00:03:13,040
+The snoops needed a new way to get in.
+
+48
+00:03:13,140 --> 00:03:17,180
+While the math behind encryption may be infallible, people are not.
+
+49
+00:03:17,180 --> 00:03:21,980
+The devices on which data is created and stored—phones, computers, servers, and more—are created
+
+50
+00:03:21,980 --> 00:03:22,980
+by people.
+
+51
+00:03:22,980 --> 00:03:25,860
+Therefore, the devices have holes.
+
+52
+00:03:25,860 --> 00:03:29,440
+These holes are referred to as Zero Days.
+
+53
+00:03:29,440 --> 00:03:31,780
+Any software has vulnerabilities.
+
+54
+00:03:31,780 --> 00:03:35,140
+Most will be caught before release, some will be caught shortly after and quickly addressed
+
+55
+00:03:35,140 --> 00:03:40,560
+with a patch, but a tiny minority will go unnoticed for weeks, months, or years.
+
+56
+00:03:40,580 --> 00:03:45,140
+In the early 2000s, hobbyist hackers spent their evenings scrolling through code, looking
+
+57
+00:03:45,140 --> 00:03:46,700
+for these bugs.
+
+58
+00:03:46,700 --> 00:03:50,020
+Faced with hostility and legal threats when reporting vulnerabilities straight to its
+
+59
+00:03:50,020 --> 00:03:54,460
+software's developers, many would post about their findings on online forums—earning
+
+60
+00:03:54,460 --> 00:03:56,520
+little else than bragging rights.
+
+61
+00:03:56,520 --> 00:04:00,240
+Early information security companies would repackage this information and include it
+
+62
+00:04:00,240 --> 00:04:05,160
+in a digital threat alert system for companies and agencies—notifying them when their software
+
+63
+00:04:05,160 --> 00:04:08,100
+might have holes not yet fixed by the developer.
+
+64
+00:04:08,120 --> 00:04:14,200
+One such company, iDefense, found itself faltering in 2002 as they were selling the same information
+
+65
+00:04:14,200 --> 00:04:19,960
+at the same time to the same customer base—they simply had zero competitive advantage.
+
+66
+00:04:19,960 --> 00:04:22,000
+So, they created one.
+
+67
+00:04:22,000 --> 00:04:24,920
+They decided to start paying for exploits.
+
+68
+00:04:24,920 --> 00:04:28,560
+Hackers would come to them with a bug, and, in exchange for their silence, iDefense would
+
+69
+00:04:28,560 --> 00:04:32,480
+pay anywhere between a couple hundred and a couple thousand dollars.
+
+70
+00:04:32,480 --> 00:04:36,520
+iDefense would then alert their software's developer and its own customers before the
+
+71
+00:04:36,540 --> 00:04:39,260
+competing information security companies could.
+
+72
+00:04:39,260 --> 00:04:43,360
+With the information staying among more trusted hands, this also lowered the likelihood of
+
+73
+00:04:43,360 --> 00:04:46,520
+a vulnerability being used for nefarious reasons.
+
+74
+00:04:46,520 --> 00:04:51,220
+iDefense had created an ethical, profitable system that gave hackers a first opportunity
+
+75
+00:04:51,220 --> 00:04:57,600
+to monetize their hobby, and so it was no surprise that it grew into a massive success.
+
+76
+00:04:57,600 --> 00:05:04,080
+In mere months, the company went from weeks behind on payroll to a pioneer in the industry.
+
+77
+00:05:04,140 --> 00:05:08,980
+But then the calls started coming, and the area codes were local.
+
+78
+00:05:08,980 --> 00:05:14,180
+The Chantilly, Virginia-based company was fielding inquiries from around the DC Beltway.
+
+79
+00:05:14,180 --> 00:05:17,140
+Government contractors wanted to buy their exploits.
+
+80
+00:05:17,140 --> 00:05:22,380
+For the zero days that iDefense had paid three or four figures for, the callers were willing
+
+81
+00:05:22,380 --> 00:05:27,780
+to pay six—as long as the company stayed quiet, as long as the buyer stayed the only
+
+82
+00:05:27,780 --> 00:05:30,220
+one with knowledge of the zero day.
+
+83
+00:05:30,240 --> 00:05:36,160
+iDefense said no, but they soon found themselves priced out of the very market they had created.
+
+84
+00:05:36,160 --> 00:05:41,000
+Whereas their payouts might fund a vacation, the black market bounties paid for sports
+
+85
+00:05:41,000 --> 00:05:44,320
+cars—they simply couldn't compete.
+
+86
+00:05:44,320 --> 00:05:49,360
+On the other side of the equation, the American military machine had recognized the astonishing
+
+87
+00:05:49,360 --> 00:05:53,340
+potential rising out of a single software susceptibility.
+
+88
+00:05:53,340 --> 00:05:58,600
+Unperturbed by borders, rules of engagement, or mortality, cyberwarfare had the potential
+
+89
+00:05:58,600 --> 00:06:04,260
+to silently achieve America's strategic goals so long as they, and only they, knew
+
+90
+00:06:04,260 --> 00:06:06,700
+about these zero days.
+
+91
+00:06:06,700 --> 00:06:12,580
+In the years since, the market has propagated into a staggering degree of scale and legitimacy.
+
+92
+00:06:12,580 --> 00:06:16,620
+While a thriving black and gray market still exists, especially for sales to countries
+
+93
+00:06:16,620 --> 00:06:20,940
+with concerning human rights records, Western players like the US source the zero day exploits
+
+94
+00:06:20,940 --> 00:06:25,460
+upon which they build their cyberweapons from companies that hardly hide what they're
+
+95
+00:06:25,460 --> 00:06:26,460
+doing.
+
+96
+00:06:26,460 --> 00:06:31,400
+For this extreme example, zero day broker Zerodium publishes their price list.
+
+97
+00:06:31,400 --> 00:06:35,400
+For an exploit capable of running a piece of code on a device or network without user
+
+98
+00:06:35,400 --> 00:06:39,720
+interaction, remote code execution as it's known, the company is willing to pay up to
+
+99
+00:06:39,720 --> 00:06:42,040
+$10,000 on router software.
+
+100
+00:06:42,040 --> 00:06:47,740
+For the same capability, they'll pay up to $100,000 on WordPress, and up to a million
+
+101
+00:06:47,740 --> 00:06:49,440
+dollars for Windows.
+
+102
+00:06:49,440 --> 00:06:55,000
+Zerodium is even offering a temporarily higher $400,000 bounty for a remote code execution
+
+103
+00:06:55,000 --> 00:07:00,400
+zero day on Microsoft Outlook—possibly indicating that someone, somewhere desperately
+
+104
+00:07:00,400 --> 00:07:04,360
+needs that very exploit for a cyberweapon under development.
+
+105
+00:07:04,360 --> 00:07:08,580
+Remote code execution exploits are the holy grail of zero days.
+
+106
+00:07:08,580 --> 00:07:13,200
+Properly used, they can allow virtually unfettered access to another's machine.
+
+107
+00:07:13,200 --> 00:07:18,580
+Of course, zero days become worthless essentially the instant they are discovered—nowadays,
+
+108
+00:07:18,580 --> 00:07:21,780
+software developers will quickly patch the exploits upon notification.
+
+109
+00:07:21,840 --> 00:07:26,480
+Therefore, the fact that this malicious code, quickly dubbed Stuxnet, included a remote
+
+110
+00:07:26,480 --> 00:07:31,000
+code execution exploit that could have sold for hundreds of thousands of dollars, indicated
+
+111
+00:07:31,000 --> 00:07:34,360
+that it was designed to do something equally valuable.
+
+112
+00:07:34,360 --> 00:07:41,000
+However, it soon became clear that the .lnk exploit did not stand alone.
+
+113
+00:07:41,000 --> 00:07:46,460
+Layered on top of it was another remote code execution exploit.
+
+114
+00:07:46,460 --> 00:07:50,700
+Stuxnet was designed to embed itself into the file that communicates metadata to printers
+
+115
+00:07:50,700 --> 00:07:56,000
+on a local network, however, with this zero day, that file would end up on all the other
+
+116
+00:07:56,000 --> 00:08:01,820
+computers on that local network—silently and quickly spreading from a single machine
+
+117
+00:08:01,820 --> 00:08:06,320
+to an entire office, university, factory, or other facility.
+
+118
+00:08:06,320 --> 00:08:12,340
+Then, to complete the spread, the code used two Escalation of Privilege zero days, each
+
+119
+00:08:12,340 --> 00:08:16,760
+for different versions of the operating system, allowing it, when installed on a single user
+
+120
+00:08:16,760 --> 00:08:20,900
+account, to gain access to an entire machine.
+
+121
+00:08:20,900 --> 00:08:25,880
+Four zero days, four exploits each worth life-changing amounts of money.
+
+122
+00:08:25,880 --> 00:08:32,220
+This was, in the most literal sense, an unprecedented scale of hacking device.
+
+123
+00:08:32,220 --> 00:08:37,820
+Never before had a piece of code so expertly intertwined four unknown exploits.
+
+124
+00:08:37,820 --> 00:08:42,940
+Whoever was behind this had exhausted enormous resources onto this single, one megabyte piece
+
+125
+00:08:42,940 --> 00:08:47,540
+of code, but even as it was being combed through by Virus Blockita—even as it set
+
+126
+00:08:47,540 --> 00:08:52,520
+the information security industry ablaze, even as it propagated from machine to machine
+
+127
+00:08:52,520 --> 00:08:58,980
+in Iran and beyond—the single most important question remained unanswered.
+
+128
+00:08:58,980 --> 00:09:03,060
+What was Stuxnet designed to do?
+
+129
+00:09:03,060 --> 00:09:08,060
+This is the Natanz nuclear facility, and while neither Iranian officials nor anyone in global
+
+130
+00:09:08,060 --> 00:09:13,060
+information security knew it, by the middle of 2010, the complex had become ground zero
+
+131
+00:09:13,060 --> 00:09:18,180
+for the implementation of the most advanced cyberweapon the world had ever seen.
+
+132
+00:09:18,180 --> 00:09:21,900
+Hours away from Tehran by car, sitting on the border of the nation's central desert
+
+133
+00:09:21,900 --> 00:09:27,040
+in the shadow of the carcass mountains, this uranium enrichment facility is purposefully
+
+134
+00:09:27,040 --> 00:09:29,060
+geographically isolated.
+
+135
+00:09:29,060 --> 00:09:34,260
+Its geographic isolation, however, pales in comparison to its digital isolation.
+
+136
+00:09:34,260 --> 00:09:39,300
+Natanz, in response to an earlier, more rudimentary cyberattack, wasn't even connected to the
+
+137
+00:09:39,300 --> 00:09:44,060
+internet as Iran had air-gapped the facility to protect important and notoriously fickle
+
+138
+00:09:44,060 --> 00:09:46,220
+centrifuges from outside meddling.
+
+139
+00:09:46,220 --> 00:09:50,540
+For the outside to meddle, then, a worm had to be planted manually.
+
+140
+00:09:50,540 --> 00:09:56,920
+At some point in 2009, an unknowing employee at the plant, a spy, or a mole plugged a contaminated
+
+141
+00:09:56,920 --> 00:10:00,820
+USB stick into a PC running Microsoft Windows.
+
+142
+00:10:00,820 --> 00:10:04,780
+Having the malware past the air-gap, however, only marked the beginning.
+
+143
+00:10:04,780 --> 00:10:10,820
+First, using the .lnk zero-day, the worm jumped from USB to computer without detection.
+
+144
+00:10:10,820 --> 00:10:15,540
+Then, using the printer zero-day vulnerability, the worm gained access to the facility's
+
+145
+00:10:15,540 --> 00:10:19,140
+local network and spread across the entire enrichment plant.
+
+146
+00:10:19,140 --> 00:10:24,900
+Undetected, and inside the Natanz network, the malicious code still held on to its payload—continuing
+
+147
+00:10:24,900 --> 00:10:28,700
+its search for a very particular target, as it went.
+
+148
+00:10:28,700 --> 00:10:32,020
+Conceptually, cyberweapons are rather straightforward.
+
+149
+00:10:32,020 --> 00:10:36,940
+Like most of their physical counterparts, these weapons consist of two primary components—the
+
+150
+00:10:36,940 --> 00:10:38,780
+carrier and the payload.
+
+151
+00:10:38,780 --> 00:10:43,660
+In other words, no matter the level of complexity, every cyberweapon is comprised of code that
+
+152
+00:10:43,660 --> 00:10:48,380
+gains it access into a computer or network, and code that informs what the weapon does
+
+153
+00:10:48,380 --> 00:10:49,760
+once it's inside.
+
+154
+00:10:49,760 --> 00:10:53,060
+At this stage, the carrier had so far succeeded.
+
+155
+00:10:53,060 --> 00:10:57,180
+Stuxnet had access to any and all things going on here, throughout the administrative and
+
+156
+00:10:57,180 --> 00:11:03,280
+monitoring areas of the facility—effectively, the enrichment processes surrounding infrastructure.
+
+157
+00:11:03,280 --> 00:11:07,580
+The code's payload and, by extension, the malware's authors, however, weren't interested
+
+158
+00:11:07,580 --> 00:11:12,300
+in crashing the plant's communications network or delivering a one-off denial of service.
+
+159
+00:11:12,300 --> 00:11:17,020
+Instead, they worked towards something more tangible and long-lasting.
+
+160
+00:11:17,020 --> 00:11:23,140
+What the code wanted access to was buried underground here, where actual, physical centrifuges
+
+161
+00:11:23,140 --> 00:11:29,340
+were using centrifugal force to tear away unwanted isotopes and create Uranium-235.
+
+162
+00:11:29,340 --> 00:11:35,580
+Running these centrifuges, though, weren't PCs, but programmable logic controllers—industrial
+
+163
+00:11:35,580 --> 00:11:39,260
+control equipment that provided yet another hurdle for the malware.
+
+164
+00:11:39,260 --> 00:11:43,580
+Finally, using stolen security certificates than zero-day vulnerabilities identified in
+
+165
+00:11:43,580 --> 00:11:49,200
+Siemens Software, a German manufacturer whose PLCs controlled 164 of the Iranian centrifuges
+
+166
+00:11:49,200 --> 00:11:55,640
+each, the carrier had reached its target, completed its mission, and released its payload.
+
+167
+00:11:55,640 --> 00:12:00,600
+Among the many genius and frightening potentials highlighted by this nefarious code, one troubling
+
+168
+00:12:00,600 --> 00:12:05,180
+aspect lies not in what it did, but what it intended not to do.
+
+169
+00:12:05,180 --> 00:12:10,020
+For days after gaining access to the PLCs controlling the Iranian centrifuges, the very
+
+170
+00:12:10,020 --> 00:12:15,920
+core of the nation's nuclear program, the payload did nothing but monitor the machine's
+
+171
+00:12:15,920 --> 00:12:16,920
+RPMs.
+
+172
+00:12:16,920 --> 00:12:22,760
+Then, after nearly two weeks, the code would briefly speed the centrifuges up to 1400 Hz—well
+
+173
+00:12:22,760 --> 00:12:26,780
+beyond their normal operating range of between 800 and 1100.
+
+174
+00:12:26,780 --> 00:12:30,920
+Weeks after that, the code would momentarily slow them down to 2 Hz, leading to increased
+
+175
+00:12:30,920 --> 00:12:33,680
+wear and tear, and thus failure.
+
+176
+00:12:33,680 --> 00:12:38,000
+All the while, as the machines self-destructed at a slightly above average rate, the worm
+
+177
+00:12:38,000 --> 00:12:42,200
+reported to monitors that the centrifuges were running at average RPMs—that there
+
+178
+00:12:42,200 --> 00:12:44,440
+was nothing here to see.
+
+179
+00:12:44,440 --> 00:12:49,200
+Essentially, had it not managed to unintentionally escape from the facility, Stuxnet could have
+
+180
+00:12:49,200 --> 00:12:54,360
+potentially continued to cripple Iran's nuclear ambitions from within for years, perhaps
+
+181
+00:12:54,360 --> 00:12:56,880
+even decades, before detection.
+
+182
+00:12:56,880 --> 00:13:02,880
+Therefore, prior to June of 2010, the piece of code was simultaneously invisible and physically
+
+183
+00:13:02,880 --> 00:13:08,160
+destructive—a cyberweapon experts couldn't identify, but one that was destroying hundreds
+
+184
+00:13:08,160 --> 00:13:12,680
+upon hundreds of strategically invaluable Iranian centrifuges.
+
+185
+00:13:12,680 --> 00:13:17,520
+It's been more than a decade since Stuxnet was first identified.
+
+186
+00:13:17,520 --> 00:13:23,100
+Still, no one has officially claimed responsibility for this first-of-a-kind weapon.
+
+187
+00:13:23,100 --> 00:13:27,580
+The code's scale, though—its sheer size and complexity—has created a consensus that
+
+188
+00:13:27,580 --> 00:13:29,920
+this couldn't be the work of one person.
+
+189
+00:13:29,920 --> 00:13:33,480
+While the world's most powerful hackers are likely to get their hands on a single
+
+190
+00:13:33,480 --> 00:13:37,800
+zero day, Stuxnet employed a staggering four.
+
+191
+00:13:37,800 --> 00:13:42,400
+Nor could this be the work of a group of activists, or even a minor nation-state, either.
+
+192
+00:13:42,400 --> 00:13:47,960
+At a megabyte, Stuxnet was orders of magnitude larger than any malware discovered before
+
+193
+00:13:47,960 --> 00:13:48,960
+it.
+
+194
+00:13:48,960 --> 00:13:53,520
+And it wasn't just massive, either—it was incredibly precise, laying dormant in
+
+195
+00:13:53,520 --> 00:13:58,040
+computers across the globe and only weaponizing its devious payload when connecting to Siemens
+
+196
+00:13:58,040 --> 00:14:04,000
+Step 7 software linked to a PLC running exactly 164 centrifuges.
+
+197
+00:14:04,000 --> 00:14:08,440
+Such size signaled that this was a weapon designed across years, while such clinical
+
+198
+00:14:08,440 --> 00:14:13,040
+precision signaled the code was crafted with potential future lawsuits in mind.
+
+199
+00:14:13,040 --> 00:14:18,820
+In short, just in the worm's design, experts the world over concluded it had to be crafted
+
+200
+00:14:18,820 --> 00:14:23,660
+by a major world power, or multiple, with the time and resources to approach such an
+
+201
+00:14:23,660 --> 00:14:28,880
+unprecedented undertaking, and it had to be a world power, or multiple, that wasn't
+
+202
+00:14:28,880 --> 00:14:31,400
+so friendly with Iran.
+
+203
+00:14:31,400 --> 00:14:35,680
+Information in the actual code and geopolitical context aren't our only clues as to who
+
+204
+00:14:35,680 --> 00:14:37,540
+is behind this, though.
+
+205
+00:14:37,540 --> 00:14:41,940
+The experts have conducted countless interviews on background and pored over troves of leaked
+
+206
+00:14:41,940 --> 00:14:44,540
+documents since the worm appeared.
+
+207
+00:14:44,540 --> 00:14:48,980
+What they found was that the development of Stuxnet was described as a third option, that
+
+208
+00:14:48,980 --> 00:14:52,900
+existed somewhere between doing nothing to slow Iran's nuclear advance and launching
+
+209
+00:14:52,900 --> 00:14:56,080
+airstrikes to destroy the enrichment facilities.
+
+210
+00:14:56,080 --> 00:15:00,860
+As an alternative was how the weapon was first presented to President Bush, then to Israeli
+
+211
+00:15:00,860 --> 00:15:06,980
+officials, then eventually to President Obama—all of whom supported its implementation.
+
+212
+00:15:06,980 --> 00:15:11,300
+What the journalists revealed was that the US and Israel had ushered the world into a
+
+213
+00:15:11,300 --> 00:15:16,780
+new era of state-led cyberoffensive that wreaked physical destruction.
+
+214
+00:15:16,780 --> 00:15:21,020
+Before this point, nation-states—the US through the NSA and Israel through its unit
+
+215
+00:15:21,020 --> 00:15:25,340
+8200—used cyberdivisions to defend and surveil.
+
+216
+00:15:25,340 --> 00:15:28,420
+Now they were going on the offensive.
+
+217
+00:15:28,420 --> 00:15:33,440
+By crossing the Rubicon, though, and getting caught, the actions of the US and Israel have
+
+218
+00:15:33,440 --> 00:15:35,860
+opened Pandora's box.
+
+219
+00:15:35,860 --> 00:15:42,220
+Though Iran denied involvement, in 2013, major American banks were hit with a concerted attack.
+
+220
+00:15:42,220 --> 00:15:47,040
+American intelligence identified it as retaliation by Iranian, and a worrying lesson as to how
+
+221
+00:15:47,040 --> 00:15:50,620
+quickly the rival's cyber capabilities were expanding.
+
+222
+00:15:50,620 --> 00:15:56,060
+Holding up American banks in 2013, however, only marked the beginning.
+
+223
+00:15:56,060 --> 00:16:01,740
+Once the US unleashed Duxnet, other nation-states have worked to close the cyberweapon gap—many
+
+224
+00:16:01,740 --> 00:16:05,860
+of which the US has, at best, a tenuous relationship with.
+
+225
+00:16:05,860 --> 00:16:10,220
+North Korea, largely through its state-backed hack organization the Lazarus Group, was able
+
+226
+00:16:10,220 --> 00:16:15,980
+to infiltrate Sony Pictures in 2014, then in 2017, the country's WannaCry ransomware
+
+227
+00:16:15,980 --> 00:16:20,500
+forced the UK's National Health Service to work off pen and paper.
+
+228
+00:16:20,500 --> 00:16:25,260
+Every year, China's cyberwarfare division grows stronger from the talent-scouted and
+
+229
+00:16:25,260 --> 00:16:30,420
+zero-days identified at the Tianfu Cup, where competitive hackers tear into Google, Microsoft,
+
+230
+00:16:30,420 --> 00:16:31,700
+and Apple software.
+
+231
+00:16:31,700 --> 00:16:37,400
+In 2017, Russian cyberattacks brought Ukrainian banks, utilities, and government agencies
+
+232
+00:16:37,400 --> 00:16:38,580
+to their knees.
+
+233
+00:16:38,580 --> 00:16:43,820
+In 2021, ransomware software locked up the US's colonial pipeline.
+
+234
+00:16:43,820 --> 00:16:47,460
+Increasing the speed at which the rest of the world catches up to the US is the fact
+
+235
+00:16:47,460 --> 00:16:49,780
+that American weapons are spreading.
+
+236
+00:16:49,780 --> 00:16:54,420
+The United States has long been considered a leader, if not the leader, in cyberwarfare,
+
+237
+00:16:54,420 --> 00:16:59,180
+but a 2017 leak by a hacker group known as the Shadow Brokers unleashed the American
+
+238
+00:16:59,180 --> 00:17:02,740
+NSA's hacking tools for the entire world to use.
+
+239
+00:17:02,740 --> 00:17:06,820
+Today, experts have reached a concerning consensus.
+
+240
+00:17:06,820 --> 00:17:12,780
+The capability for catastrophic cyberwarfare exists more acutely now than at any point
+
+241
+00:17:12,780 --> 00:17:19,420
+before—changing the very landscape for current and future conflicts.
+
+242
+00:17:19,420 --> 00:17:23,060
+Traditional weapons have consequences for the aggressors.
+
+243
+00:17:23,060 --> 00:17:27,140
+If Russia were to deploy a nuclear weapon, mutually assured destruction would dictate
+
+244
+00:17:27,140 --> 00:17:30,020
+a swift response by the target nation.
+
+245
+00:17:30,020 --> 00:17:32,140
+Cyberweapons are different.
+
+246
+00:17:32,140 --> 00:17:36,660
+It took years for major media organizations to start pointing towards the US and Israel
+
+247
+00:17:36,660 --> 00:17:40,800
+as the forces behind Stuxnet, and much of the proof came from tacit acknowledgement
+
+248
+00:17:40,800 --> 00:17:44,180
+by the American and Israeli government officials themselves.
+
+249
+00:17:44,180 --> 00:17:48,460
+When the stakes get raised, so will the secrecy.
+
+250
+00:17:48,460 --> 00:17:52,420
+Cyberwarfare has the potential for destruction without consequences.
+
+251
+00:17:52,420 --> 00:17:57,980
+In this new battlefield, there are no rules of engagement, there are no Geneva Conventions,
+
+252
+00:17:57,980 --> 00:18:02,540
+there are simply cutting edge aggressors and vulnerable targets who have not yet realized
+
+253
+00:18:02,540 --> 00:18:05,300
+the doors they've left open.
+
+254
+00:18:05,300 --> 00:18:09,020
+Experts believe that today represents a waiting period.
+
+255
+00:18:09,020 --> 00:18:13,300
+The weapons exist, they've been developed, and they could even be out there already,
+
+256
+00:18:13,300 --> 00:18:17,580
+embedded in the world's machines, laying dormant until the time comes for them to unleash
+
+257
+00:18:17,580 --> 00:18:19,340
+their destructive potential.
+
+258
+00:18:19,340 --> 00:18:23,860
+But by and large, that time has not yet come.
+
+259
+00:18:23,860 --> 00:18:28,020
+Faced with the reality that each individual weapon can only be used once until vulnerabilities
+
+260
+00:18:28,020 --> 00:18:32,620
+are patched, the nation-states and organizations behind these have yet to find the will to
+
+261
+00:18:32,620 --> 00:18:37,640
+unleash a truly devastating attack on a major nation—an attack that will wake the world
+
+262
+00:18:37,640 --> 00:18:42,140
+up to the truly existential nature of this new battlefield.
+
+263
+00:18:42,140 --> 00:18:44,440
+But that time is coming.
+
+264
+00:18:44,440 --> 00:18:46,620
+The big ones coming.
+
+265
+00:18:46,620 --> 00:18:50,880
+Doctors will no longer be fought in far-off lands that can be ignored simply by turning
+
+266
+00:18:50,880 --> 00:18:57,180
+off the TV—they will be fought in the technology that has come to envelop every moment of modern
+
+267
+00:18:57,180 --> 00:18:59,380
+life.
+
+268
+00:18:59,380 --> 00:19:03,180
+The US and Iran have had an incredibly tense relationship for the better part of the last
+
+269
+00:19:03,180 --> 00:19:07,420
+century in the context of what led to Iran's nuclear program, and therefore what led to
+
+270
+00:19:07,420 --> 00:19:11,940
+the US's development and deployment of Stuxnet stretches back into the 1950s.
+
+271
+00:19:11,940 --> 00:19:16,160
+If you want to learn about that other side of this topic, I'd highly recommend you
+
+272
+00:19:16,200 --> 00:19:21,640
+watch RealLifeLore's Modern Conflicts episode about US-Iranian relations on Nebula—that's
+
+273
+00:19:21,640 --> 00:19:26,020
+exclusive to Nebula since YouTube content guidelines make it tricky to cover conflicts.
+
+274
+00:19:26,020 --> 00:19:29,320
+This is just one of a huge number of exclusive videos on Nebula.
+
+275
+00:19:29,320 --> 00:19:32,880
+If you're the type of person that endlessly scrolls through streaming platforms struggling
+
+276
+00:19:32,880 --> 00:19:36,760
+to find something you want to watch, then Nebula is for you, because it's more stuff
+
+277
+00:19:36,760 --> 00:19:39,440
+by the creators you already watch and love.
+
+278
+00:19:39,440 --> 00:19:43,080
+After the Modern Conflicts episode, you can watch our feature-length doc on the crisis
+
+279
+00:19:43,080 --> 00:19:47,280
+and conflict brewing in the American West with the drying up of the Colorado River,
+
+280
+00:19:47,280 --> 00:19:50,720
+then watch Half as Interesting's travel-based game show where I'm chased across the country
+
+281
+00:19:50,720 --> 00:19:54,800
+trying to break weird laws along the way, then watch Real Engineering's spectacularly
+
+282
+00:19:54,800 --> 00:19:58,720
+produced series on the Battle of Britain, then watch Tom Scott's ingeniously designed
+
+283
+00:19:58,720 --> 00:20:03,120
+game show Money featuring a much younger me, and I could keep going, but that's probably
+
+284
+00:20:03,120 --> 00:20:06,040
+already a week's worth of content so you get the point.
+
+285
+00:20:06,040 --> 00:20:10,040
+Amazingly, the cheapest way to get access to Nebula gets you access to a whole other
+
+286
+00:20:10,040 --> 00:20:12,760
+streaming site, too—CuriosityStream.
+
+287
+00:20:12,760 --> 00:20:16,920
+Here you can watch a huge catalog of non-fiction shows and documentaries, including The King
+
+288
+00:20:16,920 --> 00:20:21,560
+of the Cruise—a captivating, quirky documentary about a Scottish baron who essentially lives
+
+289
+00:20:21,560 --> 00:20:26,200
+on cruise ships, seeking attention while telling fantastical stories to other cruisers.
+
+290
+00:20:26,200 --> 00:20:30,340
+CuriosityStream and Nebula have a bundle deal, so when you sign up for any subscription at
+
+291
+00:20:30,340 --> 00:20:34,000
+CuriosityStream.com slash Wendover, you'll get access to both.
+
+292
+00:20:34,000 --> 00:20:39,840
+And the price is unbelievably low—just $14.79 for the year for both.
+
+293
+00:20:39,920 --> 00:20:43,440
+That's less than the monthly price of other sites that you probably use less, and you'll
+
+294
+00:20:43,440 --> 00:20:46,720
+be supporting loads of independent creators while you're at it, so click the button
+
+295
+00:20:46,720 --> 00:20:50,760
+on screen or head to CuriosityStream.com slash Wendover to sign up today.
+

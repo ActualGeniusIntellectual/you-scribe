@@ -1,0 +1,240 @@
+start	end	text
+0	4600	This is a Wendover Productions video made possible by Squarespace.
+4600	8520	Make your next move with a beautiful website from Squarespace.
+8520	14200	The Cumberland Valley is home to six towns lying between Hagerstown, Maryland and Harrisburg,
+14200	19600	Pennsylvania—Greencastle, Chambersburg, Shippensburg, Newville, Carlisle, and Mechanicsburg.
+19600	24560	What's exceptional about these small Pennsylvania towns is that they're each almost exactly
+24560	26320	ten miles from each other.
+26320	30640	The distances deviate by no more than a mile from this rule.
+30640	33440	This isn't a coincidence and this isn't planned.
+33440	38760	Drawing equal sized radii around each town shows you their spheres of influence.
+38760	43840	Assuming each town has the exact same shops and services, rational people will go to whichever
+43840	47220	town is closest to buy or sell goods.
+47220	52020	Towns ten miles apart mean that nobody has to travel more than five miles to reach a
+52020	53020	town.
+53020	57140	Each of these towns was founded before the formation of the United States so that means
+57140	62020	that, of course, nobody had cars and pretty much everybody walked everywhere.
+62020	67100	Ten miles, or five miles each way, is about the distance a person can comfortably walk
+67100	71580	in a day with enough time to buy or sell goods at a central market.
+71580	76140	Back in this era before cars, a five mile radius was essentially the largest possible
+76140	81640	commuter zone to small agricultural towns and therefore having towns ten miles apart
+81640	85260	was the most efficient possible use of rural land.
+85260	89920	When you get the chance, take a look at a map of a rural area that existed before cars.
+89920	94800	You'll see that the distance between medium sized towns is almost always somewhere between
+94800	97600	about ten to fifteen miles.
+97600	102320	Because the Cumberland Valley is a valley, towns really could only develop in a line,
+102320	105680	but in most cases towns develop in all directions.
+105680	109360	This is what the ten mile rule looks like when going out in all directions.
+109360	113740	Each of these points is a town and the hexagon around it is the area from which people will
+113740	115160	go to the town.
+115160	120320	In the real world, each of these towns probably has a small grocery store, a pharmacy, a bank,
+120320	121680	and maybe a restaurant.
+121680	126400	Since everybody uses these services, there doesn't have to be many people in a town's
+126400	129780	sphere of influence in order to sustain these shops.
+129780	133360	But where do you put something more specialized, like a mechanic?
+133360	137160	People only need to go to the mechanic every once in a while so you need more people to
+137160	140320	sustain one mechanic shop than one grocery store.
+140320	145120	Well, some of these small towns develop into larger towns with more people that can support
+145120	147980	more specialized shops and services.
+147980	152560	Putting these larger towns with more specialized shops closer together would be unsustainable
+152560	156400	since there wouldn't be enough people going to those shops, but putting them farther apart
+156400	160660	would be inefficient since there's land that people would not go to a city from.
+160660	163960	This happens once or twice more until you have cities.
+163960	168520	These cities have the largest spheres of influence and the most specialized shops.
+168520	172720	You of course still have grocery stores and pharmacies in cities, but you also have things
+172720	176740	like luxury car dealerships, brain surgery centers, and airports.
+176740	182280	The city's sphere of influence is enormous because people will travel hundreds of miles
+182280	186920	to buy an expensive car or get brain surgery or fly from an airport.
+186920	188400	Think about it within a city.
+188400	191540	How far would you walk to buy a latte?
+191540	195700	Probably only a few blocks, and that's why you see Starbucks or other coffee shops
+195700	197520	on almost every block.
+197520	202200	Since almost everyone buys coffee, you only need a few blocks of people to sustain one
+202200	203580	coffee shop.
+203580	206120	But how far would you walk to buy a MacBook?
+206120	209900	Probably quite far since it's an infrequent and substantial purchase.
+209900	213780	That's why Apple stores are rather rare even in cities.
+213780	218940	You need an enormous amount of people to sustain one Apple store and we can actually figure
+218940	220620	out roughly how many.
+220620	225180	In Connecticut, the Trumbull Apple Store is about 20 miles away from the New Haven store
+225180	228180	to the northeast and the Stanford store to the southwest.
+228180	231940	In the 10 mile radius around the Trumbull Apple Store, there are about half a million
+231940	237140	inhabitants, which tells us that you need about half a million people to sustain one
+237140	238180	Apple store.
+238180	242340	We can compare that to the Starbucks's of lower Manhattan which are spread out at an
+242340	244920	average distance of about 600 feet.
+244920	251420	Drawing a 300 foot radius around one Starbucks in lower Manhattan covers about 6,000 people
+251420	255680	which means that one Starbucks needs 6,000 people to sustain it.
+255680	259920	Of course, both Connecticut and New York are places with higher than average incomes which
+259920	263840	means that less people are needed to sustain one Starbucks or Apple store.
+263840	268420	The numbers would be very different in, say, rural Kansas, but since each store generally
+268420	272960	only builds in areas with higher than average incomes, this gives a good sense of how many
+273000	277520	people Apple and Starbucks look for in an area before opening up a store.
+277520	283180	So, our model shows where cities should be, but it's not like this in reality.
+283180	285620	This is the most efficient spread of cities.
+285620	290920	If you're assuming that cities are on a perfectly flat plain with no geographic features,
+290920	296300	no social influences, no variability of income, equal distribution of resources, essentially
+296300	300620	assuming the world is one homogeneous place, which it's not.
+300620	306740	In reality, of course, our world has an enormous effect on where and why cities develop.
+306740	311900	To start out, let's cut this down to one city on a flat, featureless plain for simplicity.
+311900	315380	What affects the location of cities more than anything is water.
+315380	320380	If we put an ocean on one side of our isotropic plain, our city will almost certainly locate
+320380	321580	near it.
+321580	324820	Oceans have always been and still are what connects the world.
+324820	329620	There's no other means of transport that can move such enormous amounts of cargo for
+329620	330900	so little.
+330900	335860	Any city needs to be economically efficient to grow and it will cost more to bring goods
+335860	340620	to a city that's a thousand miles inland than one right by the ocean.
+340620	341820	Just look at Europe.
+341820	346820	Six of the ten largest European cities are within 100 miles of the coast, but oceans
+346820	349800	aren't the only bodies of water to affect cities.
+349800	353180	Rivers are just as or perhaps even more influential.
+353180	358540	Milan, the 19th largest European city, is the largest to not be either directly on the
+358540	364100	ocean or on a river and even then it's only 15 miles from a river and 75 miles from
+364100	365100	the ocean.
+365100	370320	Until the last century or so, cities could not survive without direct water access.
+370320	375540	If you need more proof, 14 of the 15 largest cities in the world are within a few dozen
+375540	377360	miles of the ocean.
+377360	382120	Perhaps the most obvious attractor for cities is resources so going back to our isotropic
+382120	387020	plain, putting natural resources anywhere on this map will draw cities near it.
+387020	392040	Cities that existed before the last century or so generally sprung up right near the resources,
+392040	397700	much like Pittsburgh since they acted as manufacturing and transportation hubs for those resources,
+397700	402100	but more recently, new resource-dependent cities don't need to be as close to the
+402100	403720	resources themselves.
+403720	408020	New transportation technologies can bring the resources from their source.
+408020	409300	Just look at Dubai.
+409300	413980	Of course the UAE has enormous oil deposits, but they're much closer to Abu Dhabi and
+413980	416340	the southwest than Dubai.
+416340	422580	In 1900, Dubai had 10,000 residents—less than half that of Carlisle, Pennsylvania,
+422580	425300	one of the farming towns we talked about at the beginning.
+425300	432940	That only grew to 40,000 by 1960, but today it's known worldwide and has more than 2.5
+432940	433940	million residents.
+433940	439180	It was able to grow at this enormous rate, even faster than Abu Dhabi, since it cemented
+439180	444380	itself as the economic and administrative hub for the oil industries of the region.
+444420	447660	Another geographic feature that we can add to the plane is mountains.
+447660	452180	Now, mountains don't always have a uniform effect on cities.
+452180	459100	Mexico City, Bogota, and Addis Ababa are all enormous cities at elevations above 7,000
+459100	460100	feet.
+460100	464860	Mountains do make transport and trade difficult, but they also provide protection.
+464860	469380	Many ancient cities grew in these locations since they were easy to protect which left
+469380	474660	more time to focus on growing the city, but mountains can also hinder development.
+474660	479240	For quite a while, the United States could not develop west of the Appalachian Mountains.
+479240	482100	They just served as an enormous barrier.
+482100	488060	In 1800, the average center of population for the entire United States was here even
+488060	491740	though the US had sovereignty over this entire area.
+491740	495860	Of course technology eventually conquered this barrier and moved the mean population
+495860	500340	center all the way out to Missouri today, but if the Appalachian Mountains didn't
+500340	504760	exist, American history and geography would be completely different.
+504760	508740	We would have seen urban development much earlier in the midwest, but mountains can
+508740	510580	also have another effect.
+510580	516300	You see, coal, silver, gold, and other mineral deposits are all often located in mountainous
+516300	521180	regions, and, just like Dubai, cities can develop in less hospitable and easy places
+521180	522680	due to resources.
+522680	527600	The economic advantage of exploiting the resources overpowers the economic disadvantage
+527600	530200	of being in an inhospitable location.
+530200	537360	Denver, Colorado grew 650% between 1870 and 1880 with the opening of a railroad branch
+537360	539960	connecting with a transcontinental railroad.
+539960	544560	It served as an access point to transportation to the gold miners in the Rockies.
+544560	549360	So, mountains can either push cities away or bring them nearer—it really just depends
+549360	550360	on the circumstance.
+550880	554080	Let's exchange our isotropic plane for a world map.
+554080	555760	Where should cities be on here?
+555760	562360	Well, our world's cities are not necessarily in all the most geographically efficient locations.
+562360	566400	While there is a certain level of natural selection that grows the efficiently placed
+566400	570720	cities and shrinks the inefficiently placed cities, humans are not always able to put
+570720	573360	cities in the most efficient locations.
+573360	578540	Let's put up the 224 cities in the world with a population over 2 million.
+578540	580820	You can immediately see some patterns.
+580820	584100	Putting up the equator, you can see there's a clear divide.
+584100	587900	Only 32 of these cities lie in the southern hemisphere.
+587900	592540	One might think that this is because there is so much more land in the northern hemisphere,
+592540	594400	but that's not entirely true.
+594400	600560	You see, the southern hemisphere still has 32% of the world's land, but only has 14%
+600560	602180	of the world's large cities.
+602180	606540	There's clearly a higher density of cities in the northern hemisphere.
+606540	609700	You can pretty much trace this all back to Europe and Asia.
+609700	614360	The first large civilizations and empires were on these two continents even though the
+614360	617260	human race likely originated in Africa.
+617260	621740	There's hundreds of different theories on why civilizations succeeded in some places
+621740	625900	and failed in others, but one of the more plausible and interesting theories is that
+625900	629800	Europe and Asia succeeded because they're wide instead of tall.
+629800	634060	The very shape of continents may have changed the course of human history.
+634060	639900	You see, when a continent is wide, you have a ton of land with roughly the same climate.
+639900	643980	Climate tends to change when you go north and south rather than east and west as a nature
+643980	646560	of how the earth rotates around the sun.
+646560	650940	Much of the success of early civilizations had to do with the domestication of plants
+650940	653580	and animals and the corresponding technology.
+653580	657700	When expanding horizontally, the climate is similar enough that an empire can use the
+657700	663160	same successful plants and animals while expanding vertically requires the domestication of new
+663160	664880	plants and animals.
+664880	669680	If a civilization started in Central America, for example, there would be very little land
+669680	674820	on the continent with a similar climate and their expansion would be severely limited.
+674820	680180	In Europe and Asia, on the other hand, there's thousands upon thousands of miles of similar
+680180	684340	climate that can be reached just by traveling east or west.
+684340	689200	Just look at the maps of the four largest early empires—the Qing Dynasty, the Abbasid
+689200	692900	Caliphate, the Umayyad Caliphate, and the Mongol Empire.
+692900	696940	They were all in Eurasia and they all expanded horizontally.
+696940	702620	When some of the more modern empires expanded, they had the technology to do so overseas.
+702620	707380	The three major modern empires were the British, Spanish, and French empires, each of which
+707380	709660	came from relatively similar climates.
+709660	715300	A major reason why America was able to succeed is because all the agriculture from Europe
+715300	716620	worked there.
+716620	720340	Climactically, Europe and America are nearly identical.
+720340	724600	The majority of developed colonized countries are in the northern hemisphere just because
+724600	729660	they were closest to Europe, but formerly British countries like South Africa, Australia,
+729660	733380	and New Zealand are all highly developed and in the southern hemisphere.
+733380	737840	Their success over more northern countries in the southern hemisphere can also be partially
+737840	741100	attributed to their greater climate similarity to Europe.
+741100	743500	Let's ask one more question.
+743500	747900	If our world only had one city, where would it logically be?
+747900	752940	Well, if you take the location of every person in the world and average it out, you come
+752940	755060	to south-central Asia.
+755060	760440	That means that this general region is the optimum place to live on the planet, but where
+760440	763860	more specifically should our world city go?
+763860	768900	Well, this region is already in the northern hemisphere and in Eurasia so we've already
+768900	771120	covered those two criteria.
+771120	776760	We want a place within 100 or so miles of the ocean, on a navigable river, near mountains
+776760	778760	with rich mineral deposits.
+778760	784480	The single best place for a city on earth just might be Dhaka, Bangladesh.
+784480	789920	Every geographic model and theory says that there is no better place on earth to put a
+789920	791240	city than here.
+791240	793120	There's evidence to back this up.
+793120	798280	Dhaka is between the 4th and the 18th largest metropolitan area on earth depending on how
+798280	803600	you define metropolitan area and Bangladesh is the 6th densest country on earth.
+803600	810260	There are 161 million people living in an area of about the size of England.
+810260	814800	History has affected geography enough that the largest and most advanced civilizations
+814800	819980	are not all in south-central Asia, but if we started all over again, did humanity a
+819980	826400	second time, every geographic model says that this region could be the origin and central
+826400	829560	point of human civilization.
+829560	832920	I hope you enjoyed this Wendover Productions video.
+832920	838480	This video was made possible by my amazing, brand new sponsor, Squarespace.
+838480	843400	Squarespace is an all-in-one platform to make your beautiful, professional website.
+843400	847920	Months before Squarespace signed on to sponsor Wendover Productions, I used them to make
+847920	850960	my website—WendoverProductions.com.
+850960	854440	Now I wasn't looking for anything fancy, I just wanted to make sure that nobody else
+854440	859000	could get their hands on the WendoverProductions.com domain and also to create a great looking
+859000	860280	landing page.
+860280	864520	This way I could give people one link that goes to all my different social accounts.
+864520	868960	I know that most of you guys are smart, upstart, entrepreneurial people that want to make your
+868960	873280	mark and what's so much more professional than a LinkedIn or Twitter or Facebook account
+873280	877000	is a standalone website and it's cheaper than you'd think.
+877000	881140	Especially because if you sign up using the link Squarespace.com slash Wendover and use
+881140	885060	the code WENDOVER in your order, you'll get 10% off.
+885060	888720	This is hopefully the beginning of a long and prosperous relationship between Wendover
+888720	890120	Productions and Squarespace.
+890120	894880	They're really committed to helping independent creators like me and perhaps you make great
+894880	898600	things, so definitely take a look at what they have to offer and make your next move
+898600	899880	with Squarespace.
+899880	904920	You can support Wendover Productions by contributing on Patreon where 100% of the funds go right
+904920	906320	back into the channel.
+906320	909440	I even release expense reports at the end of each month.
+909440	914400	You can also get great rewards over there like early access to videos, stickers, handwritten
+914400	916760	letters, and most recently, t-shirts.
+916760	921280	You can also order a t-shirt by itself for only $20 through DFTBA.
+921280	923900	The link is here and also in the description.
+923900	928160	Other than that, please make sure to follow me on Twitter at WendoverPro, watch my last
+928160	933120	video on every country in the world here, check out my fan-moderated subreddit here,
+933120	937060	and most of all, subscribe to this channel to receive all my future videos right when
+937060	938060	they come out.
+938060	942200	Thanks again for watching and I'll see you in two weeks for another Wendover Productions
+942200	942700	video.

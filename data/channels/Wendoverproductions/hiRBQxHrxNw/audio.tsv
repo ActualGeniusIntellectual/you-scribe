@@ -1,0 +1,408 @@
+start	end	text
+0	3300	This video was made possible by Away.
+3300	8760	Get $20 off your Away suitcase by going to awaytravel.com slash wendover and using the
+8760	10860	code wendover at checkout.
+10860	14940	And quickly, once you've finished this video there are two others to watch—a behind-the-scenes
+14940	19340	video on my brand new personal channel and my appearance on StarTalk where I appear on
+19340	21140	camera for the first time.
+21140	22620	Both are linked in the description.
+22620	28580	Suppose we're in a cave right now, this is a cave, and there's maybe ten of us.
+28580	31300	We have a mini family tribe.
+31300	35120	And I say, you know, I want to go out and see what's on the other side of that mountain.
+35120	36840	We can see it from here.
+36840	41060	And then you say, no, no, we have cave problems you have to fix first.
+41060	45220	Fix all the cave problems first, then you can go out on the mountain.
+45220	50180	And that's what it sounds like to me when I hear people say, we have problems on Earth,
+50460	52860	let's fix those before we go into space.
+52860	59700	And here's Earth, this speck of dirt orbiting an ordinary star and there's this vastness
+59700	64700	of the universe that is waiting for us.
+64700	66700	It beckons.
+71740	74180	The commercial space industry is heating up.
+74180	78460	Fifty years ago, outer space was reserved for the most powerful of nations—the most
+78460	79460	dominant governments.
+79740	83180	But today, there's a democratization of space.
+83180	87060	Commercial industry is inching us closer to the cosmos, and in the process, there's
+87060	91420	a growing interdependence between what's happening hundreds of miles up in space and
+91420	93080	down below on Earth.
+93080	97900	The commercial space industry—using multi-million dollar satellites and rockets—is increasingly
+97900	100260	playing a part in our everyday lives.
+100260	102980	You may think of this industry as a new phenomenon.
+102980	107900	You may have only started hearing about profit-seeking space enterprise in the past few years, but
+108340	111340	in reality, this has been going on for decades.
+116340	121460	Our founder, Walter Scott, founded the company in his garage in Palo Alto twenty-five years
+121460	122460	ago.
+122460	123460	This is Dan Jablonski.
+123460	127460	He's president of one of the commercial space companies that you might not have heard
+127460	129140	of—Digital Globe.
+129140	133380	They might not be as flashy as SpaceX or as exciting as Virgin Galactic, but they've
+133380	137840	been flying satellites since before Elon Musk even graduated college.
+138780	142620	In fact, they were the very first American company to be granted a license to take high
+142620	148380	resolution pictures from space and that is essentially what they do—they take pictures
+148380	152040	from space, but it's a lot more complicated than it sounds.
+152040	156880	To take those images from space, you need satellites and Digital Globe has five of them.
+156880	162000	So the five satellites we have on orbit are GOI-1, Worldview-1, Worldview-2, Worldview-3,
+162000	164520	and you're noticing a trend here, Worldview-4.
+164520	167480	The first of those was launched in 2007.
+167480	172760	The most recent was launched in 2016 and they have an expected life of over ten years
+172760	173760	each.
+173760	176160	And these are really good satellites.
+176160	181980	Worldview-4, for example, Digital Globe's newest satellite, has a pixel size of 12 inches.
+181980	188300	That means that this satellite, orbiting 383 miles above earth, can clearly see a single
+188300	190720	sheet of paper placed in a parking lot.
+190720	195040	Horizontally, that's like if a camera in Toronto took a picture that could clearly
+195040	199440	identify the individual eyes of the Statue of Liberty in New York.
+199440	202600	It is insanely high resolution.
+202600	206200	With a 30 centimeter pixel you can actually pick up road markings.
+206200	209160	You can see the lines on the road whether they're straight or dashed lines.
+209160	213520	You can see whether there are turn arrows there, whether there's a stop word on the
+213520	214520	road markings.
+214520	218060	You can even pick up some of the traffic signs and traffic light sizes.
+218060	223600	The potential uses of such high quality imagery are endless, but how do the satellites even
+223600	224600	work?
+225040	228280	It's good to know that our satellites are in a low earth orbit which means that they
+228280	232080	actually don't—they're not like a geo-satellite that sits up in a fixed orbit and stays over
+232080	233200	one place on the planet.
+233200	237360	Some satellites are specifically designed to stay directly over one position for their
+237360	239100	whole service lives.
+239100	243640	Their orbits are significantly higher above earth so the time it takes for them to complete
+243640	249360	an orbit is exactly the same as the time it takes the earth to make a full rotation so,
+249360	252960	relative to earth, the satellite doesn't move at all.
+252960	256680	This is incredibly useful for certain uses like communications.
+256680	262500	When a communications company launches a satellite to broadcast TV or radio or internet, they
+262500	266360	want that satellite to stay over their particular service area.
+266360	271040	DirecTV, for example, the American satellite TV company, want their satellites to stay
+271040	274480	over the US because that's their service area.
+274480	278260	If they weren't able to put their satellites into geo-synchronous orbit, they would have
+278260	283340	to launch enough satellites to cover the entire world even if they were only broadcasting
+283340	284340	to the US.
+284340	289700	So, DirecTV want their satellites to stay over one area because they're broadcasting
+289700	295100	to one area, but Digital Globe, on the other hand, want their satellites to move because
+295100	298100	they're imaging the entire world.
+298100	301660	Each of our satellites right now are in sun synchronous orbits.
+301660	305600	So what that means is that the orbital plane that the satellite is flying around in stays
+305600	309600	in the same orientation relative to the sun all the time.
+309600	314280	Simplified, that means that any given satellite passes over any given location on earth at
+314280	316800	the exact same time every day.
+316800	322160	Worldview 3, for example, always orbits above the points on earth where it's 1030 AM.
+322160	326760	When it passes over Denver it's 1030 in Denver, when it passes over Paris it's 1030
+326760	331000	in Paris, and when it passes over Tokyo it's 1030 in Tokyo.
+331000	335520	How this works is that essentially, with each pass over the light side of earth, the orbit
+335520	340460	advances relative to the earth at the same rate as the sunlight advances.
+340460	345840	This orbit type is crucial because a lot of what satellite imaging is about is detecting
+345840	351920	change from day to day, month to month, or year to year, and an image taken at 1030 AM
+351920	355760	is going to look very different than one taken at 6 PM.
+355760	361000	This orbit type allows the satellite to pass over the entirety of earth once per day at
+361000	364640	the same time so the light conditions look the same.
+364640	369320	The satellites do, of course, need to be told what to do and that all comes down to four
+369320	371420	people in one room.
+371420	375080	So this is our mission operations control center.
+375080	379720	This is where we fly the five satellites on orbit and really inside this room is what
+379720	385620	we consider our time-dominant, real-time activities from choosing, making the final choices of
+385620	391000	what images we're going to collect in the next several minutes to the next several hours.
+391000	395540	These four individuals are controlling billions of dollars worth of satellites.
+395540	401000	This whole company—the thousands of employees and hundreds of millions of dollars in revenue—all
+401000	406620	exist to organize and fund what these four individuals are doing—sitting and piloting
+406620	408840	the satellites above in space.
+408840	413960	The mission operations center is, of course, staffed 24-7 since, while it's nighttime
+413960	417360	in the US, it's daytime in Asia and Australia.
+417360	421720	The satellite vehicle operator's main task is to load plans onto the satellites of which
+421720	426320	images to take when, to monitor that the satellites are operating correctly, and to assure that
+426320	429820	the satellites won't collide with other satellites or space junk.
+429820	434000	The central screens at the front show the current locations of each of the five satellites
+434000	438780	while the one to the left displays other information such as the total number of times each satellite
+438780	443580	has orbited around the earth and how much time they have until the satellite loses signal.
+443580	447900	You see, in order for satellites to function, they need to be able to communicate with the
+447900	451420	ground and that's done with ground stations.
+451420	456220	These antennas communicate to satellites using what are essentially super high-powered wifi
+456220	457220	signals.
+457220	461740	The ground station's digital globe users are able to receive about a gigabyte of information
+461740	464220	every second from the satellites.
+464220	467940	Each of those antennas around the world see each satellite several times a day and so
+467940	473660	is that, as we go through the day, we accumulate about 7 terabytes of raw imagery off the satellites
+473660	476060	through that gigabit connection.
+476060	479780	Satellites can only communicate with the ground stations while they have a line of sight with
+479780	485220	the antenna so, due to the curvature of the earth, in the view of any given ground station,
+485220	487980	the satellite will eventually dip below the horizon.
+487980	492600	Therefore, each ground station only has a limited operating range.
+492600	496620	The exact locations of ground stations are, understandably, kept secret, but if there
+496620	500600	was one in Germany, for example, it would communicate with the digital globe satellites
+500600	503540	exclusively while they passed over Europe.
+503540	508300	The fact that these satellites have to, by nature, pass over the entire world is actually,
+508300	510140	however, quite useful.
+510140	514820	Not only does this let digital globe map the entire world, but they also use the extra
+514820	517340	capacity for humanitarian efforts.
+517340	522420	It's actually easier for us on the humanitarian global development side because we have much
+522420	525300	more capacity over a lot of these areas.
+525300	530740	There's a lot more demand for our satellites over developed countries, for instance, right?
+530740	536060	So people are typically, for commercial applications, much more interested in the U.S. or Europe
+536060	541500	or some of these more developed areas versus sub-Saharan Africa where we, just generally
+541500	546460	speaking, have much more ability to task the constellation and to collect those imagery.
+546460	551980	So it's actually an opportunity for us to support those use cases much more than others.
+551980	556080	For instance, Digital Globe partners with the Gates Foundation to map every single building
+556080	561220	structure in rural Zambia so aid workers now know things like how many bed nets, vaccines,
+561220	564860	or food to bring to communities that were previously unmapped.
+564860	570780	There are few companies the size of commercial space companies that rely on so few assets.
+570780	575980	What makes Digital Globe, for example, run are those five satellites and to get those
+575980	580640	to space, to the place where they make money, they had to put them on rockets which tend
+580640	583120	to, from time to time, blow up.
+583120	586640	It's always a little bit of a nail biter as you come up to a launch.
+586640	591880	We put an enormous capital investment into the satellites and the launch vehicle and
+591880	596320	it all comes down to a one hour event—lifting off from the ground and going into orbit and
+596320	600040	that's a, that can be a little bit of a nerve-wracking period but certainly very exciting
+600040	601600	at the same time.
+601600	607240	An average of one in twenty rocket launches fail and then, on top of that, some satellites
+607240	611360	fail once they reach orbit which makes the space business risky.
+611360	615680	Companies like Digital Globe will therefore purchase enormously expensive insurance policies
+615680	619960	on their satellites in case the launch or the satellite itself fails.
+619960	624280	If they didn't, one bad launch could spell the end for the company.
+624280	628280	Of course, some launch providers are much more reliable than others.
+628280	631840	United Launch Alliance, the launch provider that Digital Globe used for their current
+631840	636560	five satellites, has not had a launch failure in its eleven year history.
+636560	640880	Insurance rates for ULA would be relatively low while insurance rates for a newer launch
+640880	645160	provider, such as Orbital ATK or Blue Origin, would be comparatively high.
+645160	650160	Nonetheless, the cost of newer launch providers with insurance included is now often less
+650160	652800	than the older, more reliable launch companies.
+652800	655500	But how does Digital Globe fund their exploits?
+655500	657580	What keeps those satellites flying?
+657580	659560	How do they make their money?
+659560	662800	Our largest customer is the US government and we've been very proud to be their mission
+662800	666760	partner for over a decade and a half coming up on two decades now.
+666760	672360	It used to be that the commercial satellite industry was essentially focused on one major
+672360	674180	customer—governments.
+674180	679060	In the past, the US government has been the single largest customer of the few commercial
+679060	683440	space companies that there were thanks to its enormous defense spending, but today as
+683440	689060	commercial customers contract commercial space companies, the business is spreading globally.
+689060	694820	Over the past decade, the customer base has become more international and more diversified.
+694820	701240	Our other customers are international customers who may be US allies or maybe technology companies
+701240	702700	across the world.
+702700	708220	We go deep in the telecommunications infrastructure, online mapping, energy industries, mining
+708220	710380	industries, forestry applications.
+710380	715500	There's really a huge variety of customers, but the most obvious ones are those mapping
+715500	716500	companies.
+716500	719400	If you've ever used Google maps, you're using our imagery.
+719400	722860	If you've ever used Apple maps, you're using our imagery.
+722860	727620	If you ever look and do a crowdsourcing project in OpenStreetMap, you're using our imagery
+727620	728780	as well.
+728780	734340	But perhaps the single most promising use of earth imagery is with autonomous vehicles.
+734340	740140	Having good, solid, current satellite imagery is an integral part of how autonomous vehicles
+740140	741140	work.
+741140	745940	These vehicles can't just rely on their internal sensors to understand their surroundings—they
+745940	748040	get a view from above.
+748040	754100	As we think about autonomous vehicles, it's not okay to update the image once a quarter,
+754100	757900	once a year, even once a week.
+757900	762540	They really need imagery that's coming in much, much faster than that to deal with changes
+762540	766980	in traffic conditions, changes in roads, crashes, etc.
+766980	771360	Uber, which is developing autonomous cars, is already a customer of Digital Globe for
+771360	775720	navigation purposes and as more and more companies move into the autonomous vehicle
+775720	780240	race, the competition between earth observation companies for their business is likely to
+780240	781240	heat up.
+781240	785840	There are plenty of other emerging uses as well which, as an ensemble, are growing the
+785840	788360	demand for earth imagery day by day.
+788360	792160	It is a tremendously fast growing industry.
+792160	795560	But satellite imagery by itself really isn't worth much.
+795560	797120	You need something more.
+797120	804000	I would say that our customers are demanding more actionable information faster than ever.
+804000	806560	Translation—customers want data.
+806560	810400	They want the information embedded in the images.
+810400	813560	For that, there's another company—Radiant Solutions.
+813560	819800	So today customers, the big challenge is around where it used to be more of a, hey we just
+819800	825080	need to get an answer, now it's more of how do we deal with all of this data and how
+825080	829200	do we answer the more complex questions because they are getting more complex and they're
+829200	833560	getting even harder to answer now by virtue of being inundated with data.
+833560	837920	Radiant Solutions would describe themselves as a geospatial analytics company.
+837920	841200	They take satellite imagery and translate it into information.
+841200	846440	We're able to take in vast amounts of data and make sense of it to produce insight.
+846440	848200	They answer big questions.
+848200	852720	A logging company might ask a question like, what's the density of trees in this particular
+852720	857880	region of Canada before purchasing new land and Radiant would be able to look at hundreds
+857880	862540	or thousands or millions of square miles of imagery to tell them how many trees there
+862540	863540	are.
+863540	868920	Now, with so much imagery and such a big world, you can't just do this all by hand—at
+868920	870400	least economically.
+870400	874640	For that reason, there's been a huge shift in the geospatial analytics business toward
+874640	876920	using artificial intelligence.
+876920	880200	We hear more and more now that data is kind of like the new oil.
+880200	885000	Well that's sort of true but the data has to be reliable, there has to be high confidence
+885000	886000	in the data.
+886000	888000	So the AI has to be good.
+888000	892240	To train a machine to find a red car, for example, you need to show it thousands or
+892240	896400	millions of examples of what a red car looks like, but…
+896400	900280	It's very different for a machine to look for a red car in an urban environment as it
+900280	902380	is to find a red car in snow.
+902380	907520	So not only are you training the models to look for that object, but you also have to
+907520	909960	train it on where to find it regionally.
+909960	916360	It is hugely complicated, but that's why these guys are in business—to answer complicated
+916360	917500	questions.
+917500	920840	Some data, however, isn't in the visual spectrum.
+920840	925840	Some data is hidden, but luckily there's a special satellite just for that.
+925840	930400	In the old days, it was just please get me good, solid image pixels to use and I'll
+930400	932280	go figure out how to use them.
+932280	937500	Today, particularly in the commercial space, it's all about information.
+937500	940900	That's Paul Kennedy—Vice President of Ground Systems at MDA.
+940900	944500	They've been in business since 1969.
+944500	948860	Their most visible project was on developing the Canadarm for the space shuttles and International
+948860	949980	Space Station.
+949980	954380	As a long-time player in the industry, they serve a variety of functions from developing
+954380	959480	space robotics to building satellite ground stations, but one of their most valuable assets
+959480	962820	is that special satellite—Radarsat-2.
+962820	967380	While most earth observation satellites image using the visual spectrum, what we can see
+967380	971260	with our own eyes, Radarsat-2 uses radar.
+971260	973600	Radar is an active pulse.
+973600	982300	So the satellite actually sends a beam of energy to the ground and reads back what it
+982300	989800	gets back from the earth and that gives us a couple of interesting advantages in SAR.
+989800	993300	For one, radar can see through clouds and darkness.
+993300	998140	It doesn't matter what the light and weather conditions are, it's all the same for Radarsat-2.
+998140	1004240	Now, MDA is a Canadian company and it's no coincidence that a Canadian company operates
+1004240	1005540	this satellite.
+1005540	1010100	Just like the US government is a major customer of Digital Globe, the Canadian government
+1010100	1015540	is a major customer of MDA and here's the thing about Canada—the weather is terrible
+1015540	1017060	and it's always dark.
+1017060	1021660	Quite literally in northern Canada where the sun stays down for the entire winter.
+1021660	1025940	It's no coincidence that the company that works so closely with the Canadian government
+1025940	1029540	operates the satellite that can see through clouds and night.
+1029540	1033980	Without Radarsat-2, the Canadian government would be blind—they would have no way of
+1033980	1039460	monitoring huge swaths of their territory in the high arctic for months out of the year.
+1039460	1044140	With new launch providers emerging such as Blue Origin and Rocket Lab and SpaceX, the
+1044140	1047540	cost of launching material into space is plummeting.
+1047540	1052220	Now, this is useful to these companies, at least in some ways.
+1052220	1056660	With lower launch costs, Digital Globe and MDA can launch more satellites which means
+1056660	1061980	more data for radiant solutions, but that also makes it easier for competitors to launch
+1061980	1062980	satellites.
+1062980	1067080	The earth imagery business is growing but so is the competition.
+1067080	1072820	The best known earth imagery startup, Planet, is launching a constellation of small satellites.
+1072820	1077060	While Digital Globe's satellites are the size of a bus, Planet's smallest are the
+1077060	1079100	size of a toaster.
+1079100	1082780	With the smaller size, development and launch costs are lower.
+1082780	1087400	While in the past starting a space imagery company required hundreds of millions or billions
+1087400	1092960	of dollars in funding, the emergence of smallsats means that it's enormously easier to break
+1092960	1095840	into the satellite imagery business nowadays.
+1095840	1099600	But there is a key difference between these two companies.
+1099600	1104600	Digital Globe's satellites capture imagery with a pixel size of 12 inches while Planet's
+1104600	1110060	primary satellite constellation captures imagery with a pixel size of 10-15 feet at a much
+1110060	1111340	lower cost.
+1111340	1115560	There are certain uses for high-resolution imagery and there are certain other uses for
+1115560	1121120	low-cost imagery so in some ways, these two companies aren't even direct competitors.
+1121120	1126360	Nonetheless, the space industry is changing, growing, and becoming more competitive so
+1126360	1129140	the established companies need to adapt.
+1129140	1134180	United Launch Alliance knows that, Airbus knows that, Arianespace knows that, and Digital
+1134180	1138860	Globe, MDA, and Radiant know that too, so they made a change.
+1138860	1141060	These three companies are now one.
+1141060	1144980	Along with a fourth company, a spacecraft manufacturing company called SSL that will
+1144980	1150140	be covered in a future video, these are the entities that make up the newest powerhouse
+1150140	1152500	in the space technology business.
+1152500	1156900	This merger wasn't necessarily in response to heavy competition but rather, at least
+1156900	1162000	from an outsider's perspective, a preemptive strike to establish themselves as a major
+1162000	1166940	international player before the commercial space industry truly lifts off.
+1166940	1173140	Increasingly, the more traditional aerospace and defense companies that have been supplying
+1173140	1181140	technology in space have been able to provide the performance but the cost has been extremely
+1181140	1182140	high.
+1182140	1185660	Maxar is now a fully vertically integrated company.
+1185660	1189760	In the earth imagery space, for example, they'll do everything from building satellites to
+1189760	1192680	operating them to extracting data from imagery.
+1192680	1197260	By performing all the steps in this process internally, Maxar lowers its costs and this
+1197260	1202500	also puts them in the same league as Airbus as one of the very few end-to-end integrated
+1202500	1204380	space companies.
+1204380	1209460	The commercial space industry as a whole is doing a phenomenal job of making access to
+1209460	1211760	orbital space commonplace.
+1212280	1221060	The routine steps of space activities are slowly being ceded to private enterprise that
+1221060	1222640	could do it faster, better, cheaper.
+1222640	1227120	We're now at a place where launching a satellite to low earth orbit is unexceptional.
+1227120	1232640	That's exactly what we want—easy access to space—and for near space, that exists
+1232640	1233960	right now.
+1233960	1239480	Getting beyond earth's orbit, though, outside our cosmic neighborhood, into deep space,
+1239480	1241260	that's still tough.
+1241260	1246740	The problem is that private enterprise, by its very nature, needs to make money.
+1246740	1250260	Companies and their leaders are beholden to their investors to make money.
+1250260	1252900	If they're not, then they're not a company.
+1252900	1257260	Companies can and do make money with deep space but only through developing and building
+1257260	1260780	technologies for NASA and other government agencies.
+1260780	1265460	There is zero commercial demand for deep space technology today.
+1265460	1271620	Going to new planets, to new solar systems, exploring space, that really doesn't make
+1271620	1272980	money.
+1272980	1277440	Many people who think about commercial space, I think they're over-predicting what their
+1277440	1278440	role will be.
+1278440	1282060	They're imagining commercial space leading a space frontier.
+1282060	1288120	But to lead a space frontier is expensive and it's not an obvious return on the investment.
+1288120	1289580	You might do it as a vanity project.
+1289580	1293300	If there are enough billionaires in the world, they could all pool their money.
+1293300	1298300	Jeff Bezos, Bill Gates, Elon Musk.
+1298300	1302100	They could do a vanity project and send humans to Mars, let's say.
+1302100	1307220	But that's not a business model and it would get a lot of attention but is that something
+1307220	1308220	you can sustain?
+1308220	1309220	No.
+1309220	1311100	It would be a one-off.
+1311100	1316560	When people imagine a future of space and industry, they're imagining a sustained
+1316560	1318060	business case.
+1318060	1322600	Of course, you could have said the same thing about the space race 60 years ago.
+1322600	1328220	That was exploration, however, in the long term, it was an investment that paid off because
+1328220	1331600	space now makes money.
+1331600	1337000	Space today is an integral part of what we know and what we can do on the surface of
+1337000	1339000	the planet.
+1339000	1347920	Communications, imagery, climate science, defense and intelligence and security applications,
+1347920	1354880	all of those are seamlessly enabled by space technologies without most of us who go through
+1354880	1358800	our daily lives not even thinking about it.
+1358800	1363160	The difference between commercial enterprise and governments is time.
+1363160	1367520	Commercial enterprises need to think about investments that pay off within the lifetime
+1367520	1368520	of their shareholders.
+1368520	1373880	So you're always thinking about what is the return on the investment you're making?
+1373880	1378560	How long will it take you to achieve the returns on the investment?
+1378560	1384200	And what's the probability that the R&D you're putting in will be successful?
+1384200	1388600	While companies look at investments in terms of years, governments can look at investments
+1388600	1394260	in terms of decades or centuries because governments transcend generations.
+1394260	1398640	The innovation that will occur by bringing humans to Mars and beyond will absolutely
+1398640	1400640	make money in the very long term.
+1400640	1406300	But right now, it would take an enormous amount of money that few people want to risk.
+1406300	1410760	You could point to Elon Musk as an exception to this rule—he more than anyone understands
+1410760	1415920	the value of super long-term investments like going to Mars—but he also understands that
+1415920	1417760	he's alone in that.
+1417760	1422160	Individuals don't want to invest in something that won't make money until after they're
+1422160	1423160	dead.
+1423160	1428120	Musk has stated that he has no plans to take SpaceX public until after a successful mission
+1428120	1433960	to Mars which means that, for the moment, the company is almost acting more as an organization.
+1433960	1438920	He's funneling the money from launches, which make money, into exploration, which
+1438920	1439920	doesn't.
+1439920	1445280	Governments need to lead the way because they have the longer time horizons that they can
+1445280	1448600	think about and monetize.
+1448600	1454740	When they do that, once they lead the way they have now quantified the risks and you
+1454740	1460280	know the costs and where the friendlies are and the hostels and whatever are the things
+1460280	1464900	that would compromise your mission, they've already figured this out.
+1464900	1468700	Then if they do it right, you then hand that to private industry that then makes a buck
+1468700	1472540	off of it, then the government can tax that if they so choose.
+1472540	1477480	Maxar Technologies and its four businesses meanwhile absolutely innovate including in
+1477480	1481900	deep space technologies, but they're not going to put the pieces together to go to
+1481900	1486320	Mars by themselves because that's not a good investment.
+1486320	1490760	One should be careful to realize that this coming era of commercialized space does not
+1490760	1494940	necessarily translate into a renaissance of space exploration.
+1494940	1501140	Commercial industry is not a substitute for NASA or the ESA or any other government institution.
+1501140	1502660	They are collaborators.
+1502660	1507180	They can make the government's job easier and cheaper, but they cannot replace those
+1507180	1510760	whose jobs are to go where no human has gone before.
+1510760	1517000	The next few decades and centuries can be the era of space exploration but for that,
+1517000	1521900	you need a public, you need an electorate that understands that anything good, anything
+1521900	1527120	truly worthwhile, takes time.
+1527120	1532080	There are so many thanks I have to give for help with this video but one is to Away, not
+1532080	1536400	only for making this video possible through sponsorship, but also for literally carrying
+1536400	1542000	my possessions over the 15,000 miles I traveled while making this video, and unfortunately
+1542000	1543280	that number is not a mistake.
+1543280	1547980	I've now owned my Away suitcase for almost a year, have traveled all over the world with
+1547980	1549640	it, and I love it.
+1549640	1554480	The suitcase is just solidly built, you can feel it, and it has a built-in yet removable
+1554480	1559440	battery, a laundry bag, a laptop sleeve, and a compression system so you can pack more
+1559440	1561340	into a smaller space.
+1561340	1566040	Best of all, for how good it is, the Away suitcase is sold for an amazing price and
+1566040	1571260	it's at an even more amazing price if you go to awaytravel.com slash wendover and use
+1571260	1575600	the code wendover at checkout to get $20 off your Away suitcase.
+1575600	1579880	They're so confident that you'll love the product that all Away suitcases have a
+1579880	1583920	lifetime warranty and a 100-day unconditional return policy.
+1583920	1589160	It's quite literally no risk and they made this enormous video possible so if you need
+1589160	1594760	a suitcase for life, check out awaytravel.com slash wendover and use the code wendover at
+1594760	1595760	checkout.
+1595760	1600440	I also have to give a huge thanks to Maxar Technologies, especially Kristen Karringer
+1600440	1605440	and Turner Brinton, for letting me film this video as it takes an enormous amount of work
+1605440	1608800	to allow cameras into such a high-security environment.
+1608800	1612800	Lastly, as I mentioned at the beginning, I appeared on Neil deGrasse Tyson's show Star
+1612800	1617360	Talk and also launched a new personal channel where I made a behind-the-scenes video for
+1617360	1618360	that appearance.
+1618360	1621660	Both are linked in the description and on screen now.
+1621660	1625280	Thanks again for watching and I'll see you again in three weeks for another Wendover
+1625280	1626460	Productions video.

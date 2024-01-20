@@ -1,0 +1,892 @@
+1
+00:00:00,000 --> 00:00:03,680
+This video was made possible by CuriosityStream.
+
+2
+00:00:03,680 --> 00:00:08,920
+Get the CuriosityStream-Nebula bundle deal, on sale now for $15 a year, to watch our brand
+
+3
+00:00:08,920 --> 00:00:15,500
+new Nebula Original documentary at CuriosityStream.com slash Wendover.
+
+4
+00:00:15,500 --> 00:00:20,600
+In March, 2020, the cruise industry shut down.
+
+5
+00:00:20,600 --> 00:00:23,000
+There are no qualifiers to that sentence.
+
+6
+00:00:23,000 --> 00:00:28,280
+It's not that certain ships from certain companies in certain countries shut down—it's
+
+7
+00:00:28,280 --> 00:00:34,840
+that every ship, from every company, in every country stopped accepting passengers in March
+
+8
+00:00:34,840 --> 00:00:36,840
+2020.
+
+9
+00:00:36,840 --> 00:00:40,240
+That's… unprecedented.
+
+10
+00:00:40,240 --> 00:00:46,060
+Never before in modern times has there been such a complete global shutdown of an industry
+
+11
+00:00:46,060 --> 00:00:47,560
+of this size.
+
+12
+00:00:47,560 --> 00:00:52,040
+This isn't like airlines or restaurants or movie theatres—they couldn't keep operating
+
+13
+00:00:52,040 --> 00:00:56,780
+at a certain level, or with certain precautions, or in certain geographies.
+
+14
+00:00:56,780 --> 00:01:00,140
+Every single cruise ship shut down.
+
+15
+00:01:00,140 --> 00:01:04,220
+The second that happened, though, time started ticking.
+
+16
+00:01:04,220 --> 00:01:08,680
+Cruise lines were on the clock with the biggest challenge they might ever face—they had
+
+17
+00:01:08,680 --> 00:01:14,380
+to survive as organizations with no revenue, no passengers, and little to no government
+
+18
+00:01:14,380 --> 00:01:19,020
+support until it was safe and legal to sail again.
+
+19
+00:01:19,020 --> 00:01:25,700
+As it turns out, doing nothing, as a company, is actually quite a lot of work.
+
+20
+00:01:25,700 --> 00:01:30,020
+After ships dropped off their last loads of passengers, thousands of people remained
+
+21
+00:01:30,020 --> 00:01:32,380
+on board—the crew.
+
+22
+00:01:32,380 --> 00:01:35,960
+Naturally, management started to wonder what they should do with them.
+
+23
+00:01:35,960 --> 00:01:38,660
+At first, the answer was nothing.
+
+24
+00:01:38,660 --> 00:01:43,940
+You see, as the shutdown started, much of the global cruise fleet was in the Caribbean,
+
+25
+00:01:43,940 --> 00:01:47,540
+finishing up the peak season before crossing the Atlantic for the summer Mediterranean
+
+26
+00:01:47,540 --> 00:01:48,720
+cruise season.
+
+27
+00:01:48,720 --> 00:01:53,540
+As most Caribbean cruises leave from the US, that meant that the American CDC's March
+
+28
+00:01:53,540 --> 00:01:58,620
+14th no-sail order was what officially prevented them from sailing, even if in practice most
+
+29
+00:01:58,620 --> 00:02:00,460
+shut down voluntarily.
+
+30
+00:02:00,460 --> 00:02:05,440
+That no-sail order, however, was initially slated to expire after just 30 days, so most
+
+31
+00:02:05,440 --> 00:02:09,380
+cruise lines decided to leave their ships staffed and wait it out under the hope that
+
+32
+00:02:09,380 --> 00:02:11,960
+they could salvage their summer seasons.
+
+33
+00:02:11,960 --> 00:02:18,480
+On April 9th, though, the CDC extended the order for 100 days until July 24th, making
+
+34
+00:02:18,480 --> 00:02:23,440
+it very clear that this would not be a short-term stoppage.
+
+35
+00:02:23,440 --> 00:02:27,600
+In most cases, cruise lines are subject to the laws of the countries in which they're
+
+36
+00:02:27,600 --> 00:02:31,560
+registered, which means that most cruise lines register their vessels in countries with loose
+
+37
+00:02:31,560 --> 00:02:35,280
+labor laws like Panama, the Bahamas, or Malta.
+
+38
+00:02:35,280 --> 00:02:39,920
+That typically lets them hire from anywhere, which in practice gives them access to low-wage
+
+39
+00:02:39,920 --> 00:02:43,480
+labor pools from places like Eastern Europe or the Philippines.
+
+40
+00:02:43,480 --> 00:02:49,000
+Now, cruise ships are, of course, massive, and correspondently need a massive number
+
+41
+00:02:49,000 --> 00:02:50,860
+of staff to run.
+
+42
+00:02:50,860 --> 00:02:56,860
+The Carnival Panorama, for example, has a crew size of 1,450 people, and Carnival, its
+
+43
+00:02:56,860 --> 00:03:00,240
+owner, has some 23 ships.
+
+44
+00:03:00,240 --> 00:03:05,100
+That meant that, once they decided to officially pull the plug in April 2020, they had some
+
+45
+00:03:05,100 --> 00:03:11,460
+26,000 staff members from all around the world who each needed to get home.
+
+46
+00:03:11,460 --> 00:03:16,140
+In the era of paired-back flight schedules, border closures, and complex testing and quarantine
+
+47
+00:03:16,140 --> 00:03:22,900
+protocols, it soon became very clear that finding 26,000 flight itineraries for 26,000
+
+48
+00:03:22,900 --> 00:03:27,780
+stranded crew members would not be a quick and simple exercise.
+
+49
+00:03:27,780 --> 00:03:35,940
+So, rather than 26,000 itineraries, they cut it back to just about seven.
+
+50
+00:03:35,940 --> 00:03:40,980
+In late April, 18 of Carnival's 23 ships started sailing to a spot off the coast of
+
+51
+00:03:40,980 --> 00:03:42,620
+Grand Bahama Island.
+
+52
+00:03:42,620 --> 00:03:48,720
+Then, once together, over a few days in early May, some 10,000 crew members shuffled between
+
+53
+00:03:48,720 --> 00:03:51,020
+the various ships using tenders.
+
+54
+00:03:51,020 --> 00:03:55,580
+The task entailed more or less grouping the crew into geographic regions—South East
+
+55
+00:03:55,580 --> 00:04:00,260
+Asian crew boarded the Carnival Conquest, South Asian crew boarded the Ecstasy, Eastern
+
+56
+00:04:00,260 --> 00:04:04,020
+European crew boarded the Magic, and so on and so forth.
+
+57
+00:04:04,020 --> 00:04:09,820
+Once the crew transfer was completed, on May 4th, seven ships—the Liberty, Dream, Magic,
+
+58
+00:04:09,820 --> 00:04:13,220
+Breeze, Ecstasy, Conquest, and Glory—left.
+
+59
+00:04:13,220 --> 00:04:17,620
+The Carnival Glory had the shortest journey of them all—tasked with repatriating many
+
+60
+00:04:17,620 --> 00:04:20,540
+of the Caribbean crew members to their homes.
+
+61
+00:04:20,540 --> 00:04:24,780
+Just five days after departing, it docked in St. Lucia, then the next day in St. Vincent
+
+62
+00:04:24,780 --> 00:04:30,220
+and the Grenadines, then St. George's, Barbados, and so on and so forth, completing a multi-week
+
+63
+00:04:30,220 --> 00:04:32,800
+milk run of the West Indies.
+
+64
+00:04:32,800 --> 00:04:37,100
+Next to complete its mission was the Carnival Breeze, dropping British crew off in Southampton,
+
+65
+00:04:37,100 --> 00:04:41,700
+while the Carnival Magic made a quick stop in Gibraltar before arriving in Dubrovnik,
+
+66
+00:04:41,700 --> 00:04:45,300
+Croatia to repatriate much of Carnival's Eastern European crew.
+
+67
+00:04:45,300 --> 00:04:50,760
+Meanwhile, the journeys of the Liberty, Dream, Conquest, and Ecstasy were just getting started,
+
+68
+00:04:50,760 --> 00:04:55,720
+as they each stopped at various South African ports to restock, refuel, and drop off African
+
+69
+00:04:55,720 --> 00:04:56,960
+crew members.
+
+70
+00:04:56,960 --> 00:05:01,140
+After two weeks of sailing the Indian Ocean, the Dream and Conquest arrived in the waters
+
+71
+00:05:01,140 --> 00:05:05,640
+off the coast of Denpasar to bring many of the Indonesian crew home, while the Liberty
+
+72
+00:05:05,640 --> 00:05:07,840
+arrived in Mumbai, India.
+
+73
+00:05:07,840 --> 00:05:11,840
+The Dream then made a quick journey west to Jakarta to drop off more of its Indonesian
+
+74
+00:05:11,840 --> 00:05:17,680
+crew, just as the Ecstasy made it to Mumbai as well, carrying even more Indian crew members.
+
+75
+00:05:17,680 --> 00:05:22,400
+Then, as soon as the Conquest met the Dream in Jakarta, the two sailed together to Manila
+
+76
+00:05:22,400 --> 00:05:27,360
+to drop off a huge number of Philippine staff members, while the Liberty and Ecstasy sailed
+
+77
+00:05:27,360 --> 00:05:31,600
+south to anchor off the coast of Colombo and drop off Sri Lankan crew.
+
+78
+00:05:31,600 --> 00:05:36,760
+With that, as June turned into July, this repatriation mission was complete, with some
+
+79
+00:05:36,760 --> 00:05:42,880
+crew having spent two months sailing from the Bahamas to get back home.
+
+80
+00:05:42,880 --> 00:05:47,400
+While getting these 26,000 crew members off their boats and off their payroll was a major
+
+81
+00:05:47,400 --> 00:05:52,040
+concern of management at Carnival once the long-term nature of the shutdown became clear,
+
+82
+00:05:52,040 --> 00:05:57,200
+attention, among all cruise line management teams, quickly refocused onto how to actually
+
+83
+00:05:57,200 --> 00:06:01,340
+survive as a business when there's no business to be made.
+
+84
+00:06:01,340 --> 00:06:06,660
+In the third quarter of 2019, each of the three largest cruise companies earned billions
+
+85
+00:06:06,660 --> 00:06:07,660
+in revenue.
+
+86
+00:06:07,660 --> 00:06:13,620
+In the same quarter one year later, Carnival earned $31 million in revenue, Norwegian $6.5
+
+87
+00:06:13,620 --> 00:06:19,420
+million, and Royal Caribbean managed to earn negative $33 million in revenue—something
+
+88
+00:06:19,420 --> 00:06:22,020
+almost unheard of among large companies.
+
+89
+00:06:22,020 --> 00:06:29,340
+So, how do you survive as a company when you quite literally have no way to make money?
+
+90
+00:06:29,340 --> 00:06:34,220
+Well, cruise lines did have one thing going for them.
+
+91
+00:06:34,220 --> 00:06:42,040
+Prior to COVID, they were highly, highly profitable—in fact, many often pocketed hundreds of dollars
+
+92
+00:06:42,040 --> 00:06:44,680
+in profit per passenger.
+
+93
+00:06:44,680 --> 00:06:48,820
+In addition, cruising is a highly cyclical industry.
+
+94
+00:06:48,820 --> 00:06:54,060
+What that means is that when the overall economy is good, the cruise business is quite good,
+
+95
+00:06:54,060 --> 00:06:58,140
+while when the overall economy is bad, the cruise business is quite bad.
+
+96
+00:06:58,140 --> 00:07:03,940
+That's because, when money gets tight for a person, one of the first things to go is
+
+97
+00:07:03,940 --> 00:07:04,940
+vacation.
+
+98
+00:07:04,940 --> 00:07:09,620
+Therefore, cruise lines are used to weathering out leaner times, so they traditionally keep
+
+99
+00:07:09,620 --> 00:07:12,780
+quite a lot of money in their war chests.
+
+100
+00:07:12,780 --> 00:07:17,380
+At the end of the third financial quarter of 2020, by which time the companies had unlocked
+
+101
+00:07:17,380 --> 00:07:21,580
+more liquid assets and passed the initial shock phase of the shutdown, Norwegian Cruise
+
+102
+00:07:21,580 --> 00:07:27,700
+Line Holdings, the third largest cruise conglomerate in the world, had some $2.4 billion in the
+
+103
+00:07:27,700 --> 00:07:28,700
+bank.
+
+104
+00:07:28,700 --> 00:07:34,260
+Meanwhile, the Royal Caribbean Group had about $3 billion in cash, while the Carnival Corporation,
+
+105
+00:07:34,260 --> 00:07:39,660
+by far the largest cruise company in the world, held about $8.2 billion in cash.
+
+106
+00:07:39,660 --> 00:07:44,740
+That's what's referred to as their runway, and the task was to get their burn rate—how
+
+107
+00:07:44,740 --> 00:07:50,200
+much they spend per day to stay in existence—to its lowest possible level.
+
+108
+00:07:50,200 --> 00:07:54,880
+In the case of Carnival, if they spent $50 million per day, for example, they would only
+
+109
+00:07:54,880 --> 00:07:58,320
+survive some 164 days without revenue.
+
+110
+00:07:58,320 --> 00:08:04,140
+If they were able to get that down to only $25 million a day, though, they'd have 328
+
+111
+00:08:04,140 --> 00:08:07,440
+days—almost a year—of runway.
+
+112
+00:08:07,440 --> 00:08:12,160
+Once the long-term nature of the shutdown became clear, furloughing or firing almost
+
+113
+00:08:12,160 --> 00:08:17,880
+all on-ship staff and a sizable chunk of onshore staff was an easy decision for cruise ship
+
+114
+00:08:17,880 --> 00:08:19,120
+management.
+
+115
+00:08:19,120 --> 00:08:24,840
+One of the tougher decisions was what to do with their key assets—the ships.
+
+116
+00:08:24,840 --> 00:08:27,740
+Unlike people, they couldn't just let them go.
+
+117
+00:08:27,740 --> 00:08:33,760
+In the case of Carnival, their oldest, smallest, and cheapest ship, the Ecstasy, cost some
+
+118
+00:08:33,760 --> 00:08:38,840
+$275 million to build back in 1991.
+
+119
+00:08:38,840 --> 00:08:45,320
+Nowadays, they're building $780 million ships like the Carnival Panorama.
+
+120
+00:08:45,320 --> 00:08:50,520
+And altogether, this means a cruise line's fleet is incredibly valuable, and since the
+
+121
+00:08:50,520 --> 00:08:55,720
+ships weren't carrying passengers around the world, they had to put them somewhere.
+
+122
+00:08:55,720 --> 00:09:01,080
+However, as it turns out, both the world's cruise ports and the world's cruise ships
+
+123
+00:09:01,080 --> 00:09:05,740
+weren't built with a total industry shutdown in mind.
+
+124
+00:09:05,740 --> 00:09:09,840
+First of all, you can't just turn off a cruise ship, tie it up, and lock the door
+
+125
+00:09:09,840 --> 00:09:10,960
+behind you.
+
+126
+00:09:10,960 --> 00:09:16,000
+With very little exception, from the moment a ship enters service to the moment it's
+
+127
+00:09:16,000 --> 00:09:20,680
+decommissioned, there are people on board as these massive machines require constant
+
+128
+00:09:20,680 --> 00:09:24,240
+monitoring and maintenance to stay in working order.
+
+129
+00:09:24,240 --> 00:09:28,600
+In addition, cruise ports were built to suit the need, and since the early days of the
+
+130
+00:09:28,600 --> 00:09:33,960
+industry, the need has been for ships to stop every week or so to unload passengers, restock,
+
+131
+00:09:33,960 --> 00:09:34,960
+and load back up.
+
+132
+00:09:34,960 --> 00:09:39,400
+They're designed for the majority of ships to be at sea, which historically was fine,
+
+133
+00:09:39,400 --> 00:09:42,080
+because the majority of ships were always at sea.
+
+134
+00:09:42,080 --> 00:09:46,760
+Now, however, that means there just isn't enough space in the world's cruise ports
+
+135
+00:09:46,760 --> 00:09:50,280
+for every cruise ship to tie up and wait things out.
+
+136
+00:09:50,280 --> 00:09:55,420
+In fact, there's not even close to enough space, and most ports charge ships tens of
+
+137
+00:09:55,420 --> 00:10:00,400
+thousands of dollars per day to tie up, so the vast majority of the world's cruise
+
+138
+00:10:00,400 --> 00:10:03,320
+fleet is out at sea, floating around.
+
+139
+00:10:03,320 --> 00:10:08,600
+They each now carry an average of about 100 crew members—a fraction of their normal
+
+140
+00:10:08,600 --> 00:10:14,320
+staffing levels—performing the most essential functions—navigation, maintenance, engineering,
+
+141
+00:10:14,320 --> 00:10:16,840
+food preparation, medical care, and more.
+
+142
+00:10:16,840 --> 00:10:21,560
+In the case of Carnival, 15 of their 23 ships are currently anchored off the coast of the
+
+143
+00:10:21,560 --> 00:10:26,520
+Bahamas, and about once a week, one of them will sail to Miami to pick up food, mail,
+
+144
+00:10:26,520 --> 00:10:30,800
+and other supplies, which they then transfer between the ships upon return.
+
+145
+00:10:30,800 --> 00:10:35,400
+Most lines are operating with some version of this floating-cluster approach, as it's
+
+146
+00:10:35,400 --> 00:10:40,000
+clearly one of the lowest-cost methods for storage that keeps ships in an adequate state
+
+147
+00:10:40,000 --> 00:10:43,720
+of readiness for when cruising finally returns.
+
+148
+00:10:43,720 --> 00:10:50,720
+And that's the key question right now—when will it be possible for cruising to return?
+
+149
+00:10:50,720 --> 00:10:54,960
+In summer 2020, some thought the answer was then.
+
+150
+00:10:54,960 --> 00:10:59,180
+Particularly in Europe, which had a robust summer travel season, quite a few smaller
+
+151
+00:10:59,180 --> 00:11:05,040
+cruise ships and even some larger ones brought passengers back on board with precautions.
+
+152
+00:11:05,040 --> 00:11:10,440
+In general, this meant the ships were capacity-capped and passengers had to be tested before boarding,
+
+153
+00:11:10,440 --> 00:11:14,520
+were subject to temperature checks, were required to wear a mask in communal areas, and could
+
+154
+00:11:14,520 --> 00:11:17,360
+only go ashore on managed excursions.
+
+155
+00:11:17,360 --> 00:11:21,060
+With these and other rules, cruise companies thought they might have cracked the code of
+
+156
+00:11:21,060 --> 00:11:27,640
+sailing safely and profitably during a pandemic, but then reality hit.
+
+157
+00:11:27,640 --> 00:11:32,380
+On the MS Roald Amundsen, an expedition cruise ship that typically carries 500 or so passengers
+
+158
+00:11:32,380 --> 00:11:38,260
+through the Arctic or Antarctic, 62 people tested positive for COVID after a trip around
+
+159
+00:11:38,260 --> 00:11:43,100
+Svalbard, putting stress on the contact tracing system of northern Norway.
+
+160
+00:11:43,100 --> 00:11:47,820
+Elsewhere in Norway, the Seadream 1 had to cancel a cruise after a positive COVID test,
+
+161
+00:11:47,820 --> 00:11:53,160
+and then a few months later, the very same ship left Barbados on the very first cruise
+
+162
+00:11:53,160 --> 00:11:57,700
+in the Caribbean since the start of the pandemic, which soon had to be cancelled due to nine
+
+163
+00:11:57,700 --> 00:12:00,660
+passengers and crew testing positive.
+
+164
+00:12:00,660 --> 00:12:05,300
+On the other side of the continent, UnCruise Adventures left Juneau in early August on
+
+165
+00:12:05,300 --> 00:12:09,980
+the very first cruise with passengers from an American port since March, 2020, until
+
+166
+00:12:09,980 --> 00:12:14,280
+a passenger's test came back positive, forcing them to return to port, put all passengers
+
+167
+00:12:14,280 --> 00:12:18,340
+under quarantine, and cancel the rest of the season.
+
+168
+00:12:18,340 --> 00:12:22,220
+This is the reality of cruising during a pandemic.
+
+169
+00:12:22,220 --> 00:12:26,460
+As long as passengers are originating from a place with rampant community spread, no
+
+170
+00:12:26,460 --> 00:12:31,140
+matter how many precautions are taken, it doesn't work from a public health perspective,
+
+171
+00:12:31,140 --> 00:12:35,900
+it doesn't work from a business perspective, it just simply doesn't work.
+
+172
+00:12:35,900 --> 00:12:39,980
+Therefore, for the most part, even in the cases where governments weren't stopping
+
+173
+00:12:39,980 --> 00:12:43,180
+them, cruise lines stopped trying.
+
+174
+00:12:43,180 --> 00:12:50,140
+Nowadays, however, in spring 2021, tens of millions of COVID vaccines are entering people's
+
+175
+00:12:50,140 --> 00:12:55,440
+arms every day around the world, and a solution has arisen.
+
+176
+00:12:55,440 --> 00:12:59,560
+Instead of trying to prevent COVID from spreading on their ships, the cruise lines are simply
+
+177
+00:12:59,560 --> 00:13:04,060
+going to prevent people who could have COVID from getting on their ships.
+
+178
+00:13:04,060 --> 00:13:08,640
+Many of the major players, including Royal Caribbean, are requiring all adult passengers
+
+179
+00:13:08,640 --> 00:13:11,280
+to be fully vaccinated before boarding.
+
+180
+00:13:11,280 --> 00:13:16,760
+Even though no vaccine is 100% effective, having a fully vaccinated ship means that
+
+181
+00:13:16,760 --> 00:13:22,240
+even if someone does board with COVID, this will not set off a chain reaction of community
+
+182
+00:13:22,240 --> 00:13:25,240
+spread throughout the entire vessel.
+
+183
+00:13:25,240 --> 00:13:29,200
+Given these new policies, cruise lines are reworking their schedules to center their
+
+184
+00:13:29,200 --> 00:13:33,280
+business on the places where vaccines are rolling out the fastest.
+
+185
+00:13:33,280 --> 00:13:37,640
+For example, with less than two months notice, Royal Caribbean announced that it would be
+
+186
+00:13:37,640 --> 00:13:41,940
+sailing from Israel, home of the world's fastest vaccination campaign, for the first
+
+187
+00:13:41,940 --> 00:13:46,820
+time ever with one of the largest cruise ships in the world—the Odyssey of the Seas.
+
+188
+00:13:46,820 --> 00:13:51,320
+In addition, while the summer cruise season is traditionally centered on the Mediterranean,
+
+189
+00:13:51,320 --> 00:13:56,480
+in 2021, many of the first cruises to restart will be based out of the Caribbean, in close
+
+190
+00:13:56,480 --> 00:14:02,200
+proximity to the US, which has also had one of the world's fastest vaccination campaigns.
+
+191
+00:14:02,200 --> 00:14:06,840
+Cruise lines have, for the most part, succeeded with their grand challenge.
+
+192
+00:14:06,840 --> 00:14:14,360
+At the end of 2020, Royal Caribbean, for example, still had $3.6 billion in the bank, as runway,
+
+193
+00:14:14,360 --> 00:14:19,100
+and had pushed their burn rate down to $270 million a month.
+
+194
+00:14:19,100 --> 00:14:24,660
+That means they can survive without revenue until at least February 9th, 2022.
+
+195
+00:14:24,660 --> 00:14:30,380
+Norwegian Cruise Line, meanwhile, had enough to make it until April 25th, 2022, while Carnival
+
+196
+00:14:30,380 --> 00:14:34,060
+had enough to last till June 9th, 2022.
+
+197
+00:14:34,060 --> 00:14:36,880
+The cruise lines will be fine.
+
+198
+00:14:36,880 --> 00:14:40,140
+But there is another side to the equation.
+
+199
+00:14:40,140 --> 00:14:46,060
+While cruise lines are typically massive global enterprises, they rely on the places they
+
+200
+00:14:46,060 --> 00:14:47,060
+visit.
+
+201
+00:14:47,060 --> 00:14:51,380
+They rely on all the small businesses that operate tours and excursions for passengers
+
+202
+00:14:51,380 --> 00:14:57,860
+at each port of call—specifically, they rely on places like Ketchikan, Alaska.
+
+203
+00:14:57,860 --> 00:15:02,380
+Last summer, under strict COVID protocols, I traveled there with a film crew to document
+
+204
+00:15:02,380 --> 00:15:08,060
+a summer like no other—a summer where the 1.2 million annual cruise tourists that keep
+
+205
+00:15:08,060 --> 00:15:13,300
+the economy of this small town of 8,000 alive just didn't show up.
+
+206
+00:15:13,300 --> 00:15:18,180
+Two summers ago, Ketchikan was one of the most sought-after cruise destinations in the
+
+207
+00:15:18,180 --> 00:15:22,920
+world—they would quite literally run out of space on the docks.
+
+208
+00:15:22,920 --> 00:15:28,420
+Last summer, they were experiencing the most acute form of economic ruin.
+
+209
+00:15:28,420 --> 00:15:33,500
+The documentary I made, profiling this, is out now, exclusively on Nebula.
+
+210
+00:15:33,500 --> 00:15:38,380
+It's the first on-location project we've released in almost a year, and I think you'll
+
+211
+00:15:38,380 --> 00:15:40,740
+find it quite interesting.
+
+212
+00:15:40,740 --> 00:15:46,340
+Of course, as any long-time Wendover viewer knows, the best and cheapest way to get access
+
+213
+00:15:46,340 --> 00:15:52,580
+to Nebula is with the CuriosityStream-Nebula bundle deal—available on sale for $15 a
+
+214
+00:15:52,580 --> 00:15:56,860
+year right now at CuriosityStream.com slash Wendover.
+
+215
+00:15:56,860 --> 00:16:02,680
+This gets you access to both Nebula and CuriosityStream, where you can watch thousands of great non-fiction
+
+216
+00:16:02,680 --> 00:16:08,060
+shows and documentaries like China's Last Little Train, which profiles the last working
+
+217
+00:16:08,060 --> 00:16:13,580
+narrow-gauge steam railway in China, connecting an area without cars, buses, or even roads
+
+218
+00:16:13,580 --> 00:16:15,220
+to the outside world.
+
+219
+00:16:15,220 --> 00:16:20,020
+Of course, these subscriptions are what goes to fund the great Nebula originals that many
+
+220
+00:16:20,020 --> 00:16:25,220
+of you have come to enjoy, and they help independent creators like us stay independent.
+
+221
+00:16:25,220 --> 00:16:30,740
+So, get a year's worth of education and entertainment, with access to both CuriosityStream
+
+222
+00:16:30,740 --> 00:16:36,020
+and Nebula, where you can watch our brand new documentary, for just $15 a year with
+
+223
+00:16:36,020 --> 00:16:39,740
+the current sale, at CuriosityStream.com slash Wendover.
+

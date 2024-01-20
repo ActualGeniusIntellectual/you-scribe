@@ -1,0 +1,740 @@
+1
+00:00:00,000 --> 00:00:04,920
+This is a Wendover Productions video made possible by VideoBlox.
+
+2
+00:00:04,920 --> 00:00:10,520
+Get an exclusive 7-day free trial of VideoBlox with up to 140 free stock footage clips for
+
+3
+00:00:10,520 --> 00:00:14,720
+your videos by using the link videoblox.com slash future.
+
+4
+00:00:14,720 --> 00:00:18,760
+Before I start, I want to quickly mention that I started a podcast with Brian from Real
+
+5
+00:00:18,760 --> 00:00:20,600
+Engineering called Showmakers.
+
+6
+00:00:20,600 --> 00:00:24,560
+In the very first episode, which is out now, we chat with none other than Hank Green.
+
+7
+00:00:24,560 --> 00:00:29,560
+I'd really appreciate it if you give it a try and the link is down in the description.
+
+8
+00:00:29,920 --> 00:00:31,440
+Trains are expensive.
+
+9
+00:00:31,440 --> 00:00:36,080
+So expensive, in fact, that on three of the most traveled routes in three countries—New
+
+10
+00:00:36,080 --> 00:00:42,000
+York to Washington in the US, Edinburgh to London in the UK, and Paris to Lyon in France—they're
+
+11
+00:00:42,000 --> 00:00:44,280
+pretty much the same price as the plane.
+
+12
+00:00:44,280 --> 00:00:50,240
+These routes start at $49, 30 pounds, and 30 euros respectively on the train and $52,
+
+13
+00:00:50,240 --> 00:00:53,720
+13 pounds, and 53 euros on the plane.
+
+14
+00:00:53,720 --> 00:00:57,840
+On a longer route like New York to Chicago, the difference is even more pronounced.
+
+15
+00:00:57,840 --> 00:01:02,000
+$59 for the plane, $108 for the train.
+
+16
+00:01:02,000 --> 00:01:06,320
+And that's keeping in mind that trains are subsidized or government run in almost every
+
+17
+00:01:06,320 --> 00:01:10,880
+country while airlines are highly profitable commercial enterprises.
+
+18
+00:01:10,880 --> 00:01:16,500
+The planes flying between DC and New York are $49 million machines while the trains
+
+19
+00:01:16,500 --> 00:01:20,260
+traveling the route cost no more than $10 million total.
+
+20
+00:01:20,260 --> 00:01:25,940
+The plane has to burn 1.7 gallons of fuel per mile flown while the train relies on clean
+
+21
+00:01:25,940 --> 00:01:27,240
+electric power.
+
+22
+00:01:27,240 --> 00:01:31,200
+All this therefore begs the question, why are trains so expensive?
+
+23
+00:01:31,200 --> 00:01:37,120
+Now, I mentioned that fares between DC and New York start at $49, but that's far from
+
+24
+00:01:37,120 --> 00:01:38,760
+the average price—$73.
+
+25
+00:01:38,760 --> 00:01:42,760
+Let's look at the expenses that go into that fare.
+
+26
+00:01:42,760 --> 00:01:46,960
+The single largest expense for Amtrak is staffing.
+
+27
+00:01:46,960 --> 00:01:50,400
+Trains require a lot of people to operate.
+
+28
+00:01:50,400 --> 00:01:57,040
+85,000 passengers journey on Amtrak daily, but for that Amtrak employs 20,000 people.
+
+29
+00:01:57,480 --> 00:02:02,800
+Meaning that, daily, Amtrak requires one employee for every four passengers.
+
+30
+00:02:02,800 --> 00:02:07,820
+On top of that, the majority of those working for Amtrak are highly specialized, unionized
+
+31
+00:02:07,820 --> 00:02:10,600
+workers who demand high salaries.
+
+32
+00:02:10,600 --> 00:02:16,440
+Amtrak's financial reports tell us that they spend $105,000 per employee, but that's
+
+33
+00:02:16,440 --> 00:02:19,680
+not to say that everyone at Amtrak is making six figures.
+
+34
+00:02:19,680 --> 00:02:25,720
+Taxes and benefits typically cost an employer 30-40% of a salary so the actual average salary
+
+35
+00:02:25,720 --> 00:02:29,360
+for an Amtrak employee is around $75,000.
+
+36
+00:02:29,360 --> 00:02:34,640
+These salary costs are so high that they account for over a third of the ticket price between
+
+37
+00:02:34,640 --> 00:02:38,620
+DC and New York—$25.82 total.
+
+38
+00:02:38,620 --> 00:02:44,480
+The cost of employees is so high for train operators largely because trains are so slow.
+
+39
+00:02:44,480 --> 00:02:49,120
+For a flight from DC to New York, an airline would only have to pay employees for an hour
+
+40
+00:02:49,120 --> 00:02:53,780
+of work while Amtrak has to pay their employees for three and a half hours of work.
+
+41
+00:02:53,780 --> 00:02:57,900
+The difference is even more striking on the long-haul routes—Chicago to Los Angeles,
+
+42
+00:02:57,900 --> 00:02:58,900
+for example.
+
+43
+00:02:58,900 --> 00:03:04,100
+An airline would have to pay for four hours of work while Amtrak pays for 44 hours of
+
+44
+00:03:04,100 --> 00:03:05,100
+work.
+
+45
+00:03:05,100 --> 00:03:10,740
+In addition, trains have physical infrastructure to maintain along the journey—the rails.
+
+46
+00:03:10,740 --> 00:03:15,260
+Airlines also have infrastructure to pay for on each end—the airports—but between those
+
+47
+00:03:15,260 --> 00:03:17,680
+they just use the sky, which is free.
+
+48
+00:03:17,680 --> 00:03:24,900
+Amtrak only owns 730 miles of those 21,000 miles of track they use, but they still indirectly
+
+49
+00:03:24,900 --> 00:03:30,020
+pay for the employees who maintain those 20,000 miles of rented track through the fees charged
+
+50
+00:03:30,020 --> 00:03:32,200
+by the track owners for their use.
+
+51
+00:03:32,200 --> 00:03:36,320
+The next largest cost for train operators is that of the trains themselves.
+
+52
+00:03:36,320 --> 00:03:40,480
+Trains aren't that expensive compared to airplanes, but they still cost millions of
+
+53
+00:03:40,480 --> 00:03:41,480
+dollars.
+
+54
+00:03:41,480 --> 00:03:46,440
+The locomotive pulling the train from DC to New York costs $6.5 million and then each
+
+55
+00:03:46,440 --> 00:03:50,640
+one of the passenger cars costs an additional $400,000.
+
+56
+00:03:50,640 --> 00:03:57,020
+With a seven car train, that works out to $9.4 million which accounts for $9.67 on this
+
+57
+00:03:57,020 --> 00:03:58,500
+particular ticket.
+
+58
+00:03:58,500 --> 00:04:05,720
+The other part of infrastructure, rails, costs Amtrak an additional $3.66 on this ticket.
+
+59
+00:04:05,720 --> 00:04:10,480
+Railroad tracks are extraordinarily expensive to build, typically more than $1 million per
+
+60
+00:04:10,480 --> 00:04:15,980
+mile, but on routes like DC to New York they're just used so much that the per train or per
+
+61
+00:04:16,020 --> 00:04:18,700
+ticket cost is negligible.
+
+62
+00:04:18,700 --> 00:04:22,420
+Amtrak is a business so it also needs to pay to run the business.
+
+63
+00:04:22,420 --> 00:04:29,580
+$2.15 of this ticket goes to administrative costs and then another $1.31 to advertising.
+
+64
+00:04:29,580 --> 00:04:34,420
+Moving on, trains are extremely safe compared to cars, but you're still more than three
+
+65
+00:04:34,420 --> 00:04:38,740
+times as likely to be killed on or by a train than a plane.
+
+66
+00:04:38,740 --> 00:04:42,260
+Trains do occasionally crash and they also crash into people.
+
+67
+00:04:42,260 --> 00:04:47,180
+When this happens, Amtrak often has to pay a settlement to the victims and the fees associated
+
+68
+00:04:47,180 --> 00:04:51,560
+with that account for $0.79 on the DC to New York ticket.
+
+69
+00:04:51,560 --> 00:04:56,060
+That does mean that when traveling between DC and New York, in essence, you're paying
+
+70
+00:04:56,060 --> 00:05:00,020
+$0.79 in order for Amtrak to kill or injure people.
+
+71
+00:05:00,020 --> 00:05:05,380
+Those were all the major costs to run a train, but there's still another $5.91 on that
+
+72
+00:05:05,380 --> 00:05:08,780
+ticket that just represents other minor costs.
+
+73
+00:05:08,820 --> 00:05:14,020
+So, the total expense for Amtrak to run that train is $50.14.
+
+74
+00:05:14,020 --> 00:05:18,260
+The remaining $22.86 is pure profit.
+
+75
+00:05:18,260 --> 00:05:23,300
+You see, the train from DC to New York, the Northeast Regional, is one of the few Amtrak
+
+76
+00:05:23,300 --> 00:05:24,980
+routes to make a profit.
+
+77
+00:05:24,980 --> 00:05:30,700
+The demand, speed, and frequency of the train helps it succeed financially where other routes
+
+78
+00:05:30,700 --> 00:05:31,700
+fail.
+
+79
+00:05:31,700 --> 00:05:36,740
+Per passenger per mile, Amtrak makes 8 cents of profit on the Northeast Regional, the low
+
+80
+00:05:36,740 --> 00:05:42,620
+speed train, and 29 cents per passenger mile on the Acela Express, the high speed train.
+
+81
+00:05:42,620 --> 00:05:47,380
+These profitable routes help pay for Amtrak's unprofitable routes and there are a lot of
+
+82
+00:05:47,380 --> 00:05:48,380
+them.
+
+83
+00:05:48,380 --> 00:05:53,020
+Some routes, like the Sunset Limited between New Orleans and Los Angeles, lose as many
+
+84
+00:05:53,020 --> 00:05:59,780
+as 21.7 cents per passenger per mile and when passengers can travel 2,000 miles on that
+
+85
+00:05:59,780 --> 00:06:01,820
+route, that's a lot of loss.
+
+86
+00:06:01,820 --> 00:06:07,500
+As I mentioned, that $49 fare is not the average ticket price to travel between DC and New
+
+87
+00:06:07,500 --> 00:06:08,500
+York.
+
+88
+00:06:08,500 --> 00:06:13,080
+The $49 fare is the price at which Amtrak starts selling tickets, but as the date of
+
+89
+00:06:13,080 --> 00:06:17,020
+travel nears, the price can increase to hundreds of dollars.
+
+90
+00:06:17,020 --> 00:06:21,140
+That might seem like price gouging, but it's actually a way to make sure everyone can afford
+
+91
+00:06:21,140 --> 00:06:22,140
+a ticket.
+
+92
+00:06:22,140 --> 00:06:25,760
+That's not to say Amtrak and other train companies are these altruistic organizations
+
+93
+00:06:25,760 --> 00:06:27,880
+trying to bring travel to the masses.
+
+94
+00:06:27,880 --> 00:06:29,760
+It just makes more money.
+
+95
+00:06:29,760 --> 00:06:33,880
+Especially with trains where it costs the operator roughly the same to transport five
+
+96
+00:06:33,880 --> 00:06:39,540
+passengers as it does to transport 500, the operator always wants to have as many seats
+
+97
+00:06:39,540 --> 00:06:42,560
+as possible filled even if that means selling cheap tickets.
+
+98
+00:06:42,560 --> 00:06:46,720
+In a perfect world for the operator, they could ask every potential passenger what the
+
+99
+00:06:46,720 --> 00:06:50,020
+maximum amount they'd be willing to pay for the journey is.
+
+100
+00:06:50,020 --> 00:06:55,000
+If they adapt the ticket price to every passenger's maximum price then they can fill each seat
+
+101
+00:06:55,000 --> 00:06:57,960
+with passengers paying the highest possible amount.
+
+102
+00:06:57,960 --> 00:07:02,960
+However, in practice, nobody would ever answer the question truthfully so it would never
+
+103
+00:07:02,960 --> 00:07:03,960
+work.
+
+104
+00:07:03,960 --> 00:07:08,140
+Ticketing systems, however, try to ask this question subliminally.
+
+105
+00:07:08,140 --> 00:07:12,960
+Going back to that route from Edinburgh to London, the operator, Virgin Trains East Coast,
+
+106
+00:07:12,960 --> 00:07:17,580
+sells three types of tickets—advance, off-peak, and anytime.
+
+107
+00:07:17,580 --> 00:07:22,760
+The advance tickets range anywhere from 30 pounds to 140 pounds, the off-peak fares cost
+
+108
+00:07:22,760 --> 00:07:28,400
+137 pounds, and the anytime fares cost 148.5 pounds.
+
+109
+00:07:28,400 --> 00:07:32,620
+For the advance fares, there are a certain unknown number of tickets at different price
+
+110
+00:07:32,620 --> 00:07:35,800
+levels on sale and once they're gone, they're gone.
+
+111
+00:07:35,800 --> 00:07:40,120
+For example, there might be 15 tickets at 30 pounds and once they're sold, the price
+
+112
+00:07:40,120 --> 00:07:45,760
+increases to 35, then 40, 45, and so on and so forth.
+
+113
+00:07:45,760 --> 00:07:48,800
+That encourages those who can buy early to buy early.
+
+114
+00:07:48,800 --> 00:07:51,200
+Normally, that means tourists.
+
+115
+00:07:51,200 --> 00:07:55,240
+Travelers tend to plan far in advance and are more budget conscious since they're
+
+116
+00:07:55,240 --> 00:07:56,560
+paying for their own costs.
+
+117
+00:07:56,560 --> 00:08:00,800
+They're also more likely to travel down to London on the often cheaper plane since
+
+118
+00:08:00,800 --> 00:08:03,880
+they're less attracted by the convenience of the train.
+
+119
+00:08:03,880 --> 00:08:08,640
+These advance fares are only valid for the exact route, day, and time bought which is
+
+120
+00:08:08,640 --> 00:08:13,860
+fine for leisure travelers, but business travelers typically want more flexibility.
+
+121
+00:08:13,860 --> 00:08:17,580
+Buying advance fares often doesn't work for business travelers since their plans are
+
+122
+00:08:17,580 --> 00:08:22,620
+only made a few weeks or days in advance and, since they don't personally pay for
+
+123
+00:08:22,620 --> 00:08:27,140
+their tickets, it's no problem for them to pay for the convenience of taking the train
+
+124
+00:08:27,140 --> 00:08:28,380
+on a flexible ticket.
+
+125
+00:08:28,380 --> 00:08:33,180
+That's why they often pay 148.5 pounds for an anytime ticket.
+
+126
+00:08:33,180 --> 00:08:35,740
+With these, you can just hop on a train whenever.
+
+127
+00:08:35,740 --> 00:08:39,100
+It doesn't matter if it's in ten minutes or ten days.
+
+128
+00:08:39,100 --> 00:08:41,280
+You just step on the train and take a seat.
+
+129
+00:08:41,280 --> 00:08:45,380
+The middle ground between those two is the off-peak single which lets you take any train
+
+130
+00:08:45,380 --> 00:08:49,460
+that arrives in London after 11.17 am or is on the weekend.
+
+131
+00:08:49,460 --> 00:08:53,940
+These fares are still geared towards business travelers but by restricting against the early
+
+132
+00:08:53,940 --> 00:08:59,560
+morning trains, they give a discount for those who can avoid the busiest morning trains.
+
+133
+00:08:59,560 --> 00:09:02,780
+For each of these fares there are equivalents in first class.
+
+134
+00:09:02,780 --> 00:09:07,640
+On top of that, young, disabled, and elderly people get up to one third off their fares
+
+135
+00:09:07,640 --> 00:09:09,000
+with a railcard.
+
+136
+00:09:09,000 --> 00:09:13,220
+That all means that there are essentially twelve different types of tickets for sale
+
+137
+00:09:13,220 --> 00:09:17,220
+and that one person heading to London might be paying 20 pounds while the person sitting
+
+138
+00:09:17,220 --> 00:09:21,980
+right next to them is paying 200, but what they're really paying for is convenience.
+
+139
+00:09:21,980 --> 00:09:28,140
+Now, back in the US, if Amtrak only operated profitable routes, their route map would look
+
+140
+00:09:28,140 --> 00:09:32,260
+like this, but the routes that don't make money are the ones that really matter.
+
+141
+00:09:32,260 --> 00:09:38,380
+Amtrak serves over 500 destinations in 46 states, many of which are small towns with
+
+142
+00:09:38,380 --> 00:09:41,020
+no other means of public transportation.
+
+143
+00:09:41,020 --> 00:09:45,320
+While trains are normally the more expensive means of transport, they are less expensive
+
+144
+00:09:45,320 --> 00:09:48,080
+than planes to service small communities.
+
+145
+00:09:48,080 --> 00:09:53,600
+The small airports in the rural parts of America are extraordinarily expensive to operate.
+
+146
+00:09:53,600 --> 00:09:57,580
+Even if there are just two or three flights a day, they still need a runway, terminal,
+
+147
+00:09:57,580 --> 00:10:02,960
+security, and air traffic control while a rural train station needs barely any infrastructure
+
+148
+00:10:02,960 --> 00:10:04,420
+or maintenance.
+
+149
+00:10:04,420 --> 00:10:10,300
+In fact, it's cheaper to fly from Chicago to London than it is to fly from Haver, Montana
+
+150
+00:10:10,300 --> 00:10:15,740
+to Chicago whereas Amtrak brings passengers from Haver to Chicago for only a few hundred
+
+151
+00:10:15,740 --> 00:10:21,780
+dollars—much more in budget for the average resident of Haver who makes only $22,000 per
+
+152
+00:10:21,780 --> 00:10:22,780
+year.
+
+153
+00:10:22,780 --> 00:10:26,860
+Of course this is a political issue, but a part of why trains are so expensive is to
+
+154
+00:10:26,860 --> 00:10:32,140
+allow train operators to fulfill obligations to serve small communities who need solid
+
+155
+00:10:32,140 --> 00:10:33,460
+transport links.
+
+156
+00:10:33,460 --> 00:10:38,580
+Research has shown that ease of access to transport has a stronger influence on whether
+
+157
+00:10:38,580 --> 00:10:42,580
+someone will earn more than their parents did, than the level of crime in their area,
+
+158
+00:10:42,580 --> 00:10:47,420
+or whether they grew up in a two-parent household and so keeping trains running through rural
+
+159
+00:10:47,420 --> 00:10:50,100
+America is incredibly important.
+
+160
+00:10:50,100 --> 00:10:56,260
+Next time you take the train from DC to New York, just keep in mind that that $22.86 a
+
+161
+00:10:56,260 --> 00:11:00,940
+profit goes to making sure that someone from Haver can get to Chicago for less than you
+
+162
+00:11:00,940 --> 00:11:07,620
+can fly to Europe.
+
+163
+00:11:07,660 --> 00:11:08,780
+So you see this number?
+
+164
+00:11:08,780 --> 00:11:13,540
+That's how much these last few seconds would cost if I were buying footage from a traditional
+
+165
+00:11:13,540 --> 00:11:15,100
+stock footage provider.
+
+166
+00:11:15,100 --> 00:11:20,220
+Luckily, I get my footage from Videoblocks where with their membership you can use as
+
+167
+00:11:20,220 --> 00:11:25,700
+many of the 115,000 clips in their unlimited library as you want.
+
+168
+00:11:25,700 --> 00:11:31,460
+Since I started Wendover Productions, I've used 686 clips from Videoblocks.
+
+169
+00:11:31,460 --> 00:11:35,660
+Almost every piece of footage you see in my videos is from them and that means I've
+
+170
+00:11:35,660 --> 00:11:41,980
+saved $54,194 with my Videoblocks subscription.
+
+171
+00:11:41,980 --> 00:11:45,900
+Without Videoblocks, there's no way that my videos would look as professional.
+
+172
+00:11:45,900 --> 00:11:50,100
+I simply would not be able to afford it and whether you already have a YouTube channel
+
+173
+00:11:50,100 --> 00:11:54,940
+or plan to start one, Videoblocks will do amazing things for your production value.
+
+174
+00:11:54,940 --> 00:11:59,180
+I can honestly say that it's one of the best purchases I've ever made and I've
+
+175
+00:11:59,180 --> 00:12:01,340
+used Videoblocks since day one.
+
+176
+00:12:01,340 --> 00:12:06,860
+You can try out Videoblocks exclusively for seven days with the link videoblocks.com slash
+
+177
+00:12:06,860 --> 00:12:07,860
+future.
+
+178
+00:12:07,860 --> 00:12:11,660
+That is not a publicly available trial so please go try them out.
+
+179
+00:12:11,660 --> 00:12:15,700
+Not only is that a great way to help Wendover Productions make more videos, you'll also
+
+180
+00:12:15,700 --> 00:12:19,560
+get a chance to use what is truly an amazing service.
+
+181
+00:12:19,560 --> 00:12:25,300
+You can also support Wendover Productions on Patreon here, follow me on Twitter at WendoverPro,
+
+182
+00:12:25,300 --> 00:12:30,980
+watch my last video here, check out my fan-moderated subreddit here, and lastly, subscribe to this
+
+183
+00:12:31,020 --> 00:12:32,540
+channel by clicking here.
+
+184
+00:12:32,540 --> 00:12:37,140
+Thanks again for watching and I'll see you in two weeks for another Wendover Productions
+
+185
+00:12:37,140 --> 00:12:37,740
+video.
+

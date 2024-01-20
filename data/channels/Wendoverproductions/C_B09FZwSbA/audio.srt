@@ -1,0 +1,1328 @@
+1
+00:00:00,000 --> 00:00:03,240
+This is the disaster scenario.
+
+2
+00:00:03,240 --> 00:00:04,960
+It's Black Friday.
+
+3
+00:00:04,960 --> 00:00:09,920
+An electronics store has acquired a massive supply of scarce 9th generation game consoles,
+
+4
+00:00:09,920 --> 00:00:14,720
+and to generate buzz, they're selling them at a massive discount—offering buyers an
+
+5
+00:00:14,720 --> 00:00:18,880
+immediate arbitrage opportunity if they sell the devices on.
+
+6
+00:00:18,880 --> 00:00:23,540
+With a three-per-person limit, people can effectively earn hundreds of dollars just
+
+7
+00:00:23,540 --> 00:00:25,480
+by standing in line.
+
+8
+00:00:25,480 --> 00:00:27,400
+But there's not really a line.
+
+9
+00:00:27,880 --> 00:00:32,040
+Rather, it's more of a mass, filling out the width of the pedestrian mall, growing
+
+10
+00:00:32,040 --> 00:00:35,320
+and growing in advance of its 9am opening time.
+
+11
+00:00:35,320 --> 00:00:39,920
+The contracted security only arrives at 8am—they're able to push through to the entrance and get
+
+12
+00:00:39,920 --> 00:00:43,480
+on a megaphone to say, we need you to form an orderly line.
+
+13
+00:00:43,480 --> 00:00:47,880
+There are only 500 consoles, we will not be able to accommodate everyone, so we need you
+
+14
+00:00:47,880 --> 00:00:50,600
+to form an orderly line this way.
+
+15
+00:00:50,600 --> 00:00:52,880
+The crowd does not comply.
+
+16
+00:00:52,880 --> 00:00:57,380
+The minutes count down, and upon opening time, the security team decides to carefully let
+
+17
+00:00:57,380 --> 00:01:01,560
+small groups in from the front of the crowd, assuring that the store and its staff does
+
+18
+00:01:01,560 --> 00:01:03,760
+not get stormed.
+
+19
+00:01:03,760 --> 00:01:07,500
+Fast forward 30 minutes, and this will lead to a crowd crush.
+
+20
+00:01:07,500 --> 00:01:11,840
+It's entirely predictable—the back of the crowd, concerned about the fast dwindling
+
+21
+00:01:11,840 --> 00:01:16,460
+supply of consoles, will each individually, almost subconsciously push forward.
+
+22
+00:01:16,460 --> 00:01:20,440
+The core of the crowd will get compacted down, individuals will no longer have the ability
+
+23
+00:01:20,440 --> 00:01:25,760
+to move freely, and an unlucky few will get asphyxiated—they quite literally will get
+
+24
+00:01:25,760 --> 00:01:30,140
+crushed so hard that they're unable to adequately breathe.
+
+25
+00:01:30,140 --> 00:01:34,800
+Their closest way out is into the store, leading to a further push forward, but the security,
+
+26
+00:01:34,800 --> 00:01:38,480
+tasked with keeping the mass out of the store, will brush off the police for entry as an
+
+27
+00:01:38,480 --> 00:01:41,640
+inevitable dynamic of a greedy, disorderly crowd.
+
+28
+00:01:41,640 --> 00:01:45,960
+That's to say, each of these three groups have different incentives—the back of the
+
+29
+00:01:45,960 --> 00:01:49,680
+crowd to get the consoles, the security to keep the crowd out, and the core of the crowd
+
+30
+00:01:49,680 --> 00:01:55,960
+to simply survive, but they'll all lead to the same result—an ever-escalating crush.
+
+31
+00:01:55,960 --> 00:02:01,080
+But the absolute, overwhelming majority of crowds do not end up crushing themselves,
+
+32
+00:02:01,080 --> 00:02:05,360
+so what is it about this rather innocuous, all-too-believable situation that makes it
+
+33
+00:02:05,360 --> 00:02:07,480
+so theoretically dangerous?
+
+34
+00:02:07,480 --> 00:02:10,280
+Well, it starts with who the people are.
+
+35
+00:02:10,280 --> 00:02:14,360
+You see, there's an antiquated view that mass gatherings of people almost inevitably
+
+36
+00:02:14,360 --> 00:02:19,480
+devolve into a mindless state—that the participation in the collective dehumanizes the individual
+
+37
+00:02:19,480 --> 00:02:23,780
+and makes them more willing to act in a disruptive, dangerous way, but more recent research has
+
+38
+00:02:23,780 --> 00:02:25,600
+started to dispel that notion.
+
+39
+00:02:25,600 --> 00:02:29,440
+Interestingly, in the exact situation where you'd expect people to disengage from the
+
+40
+00:02:29,440 --> 00:02:34,440
+collective good, panic, and work selfishly, in emergencies, people tend to do the exact
+
+41
+00:02:34,440 --> 00:02:35,860
+opposite.
+
+42
+00:02:35,860 --> 00:02:39,080
+If a fire were to start in an overcrowded building, you might expect people to rush
+
+43
+00:02:39,080 --> 00:02:43,040
+the exits, to mindlessly push those in front just to get away from the threat, but that
+
+44
+00:02:43,040 --> 00:02:45,620
+happens remarkably rarely.
+
+45
+00:02:45,620 --> 00:02:50,320
+Of the 21 major crowd crushes to have occurred so far this decade, just two involve people
+
+46
+00:02:50,320 --> 00:02:54,640
+running away from a deadly threat—one in Yemen spurred by an electrical explosion,
+
+47
+00:02:54,640 --> 00:02:58,240
+and one in Egypt where worshippers fled to escape a church fire.
+
+48
+00:02:58,240 --> 00:03:01,220
+This is entirely counterintuitive.
+
+49
+00:03:01,220 --> 00:03:05,380
+Running away from a fire is clearly a stronger incentive than gaining the right to buy a
+
+50
+00:03:05,380 --> 00:03:10,580
+console, so researchers were curious as to why the frequency of crushes was so much lower
+
+51
+00:03:10,580 --> 00:03:13,900
+in the direction with lower incentive.
+
+52
+00:03:13,900 --> 00:03:18,100
+Consider a common anecdote—on a normal flight, people barely talk.
+
+53
+00:03:18,100 --> 00:03:22,500
+They'll sit shoulder to shoulder with their fellow traveler for four or five hours without
+
+54
+00:03:22,500 --> 00:03:28,220
+even acknowledging their presence once, but as soon as a flight gets delayed, that changes.
+
+55
+00:03:28,220 --> 00:03:32,620
+People start talking, they start problem solving, they get friendly, they'll even share food.
+
+56
+00:03:32,620 --> 00:03:36,400
+If the flight gets cancelled, this cooperation often extends further, and those that were
+
+57
+00:03:36,400 --> 00:03:40,260
+complete strangers just minutes before might decide to work together and share a rental
+
+58
+00:03:40,260 --> 00:03:43,320
+car to drive to their destination instead.
+
+59
+00:03:43,340 --> 00:03:47,680
+Some psychologists have noticed the pervasiveness of this anecdote, and they think they have
+
+60
+00:03:47,680 --> 00:03:48,680
+an explanation.
+
+61
+00:03:48,680 --> 00:03:51,560
+It's all about identity.
+
+62
+00:03:51,560 --> 00:03:55,140
+When ambling around the airport, there is little shared identity beyond traveler, which
+
+63
+00:03:55,140 --> 00:04:00,160
+is weak since it is shared by so many, but when a flight gets delayed, the identity shifts
+
+64
+00:04:00,160 --> 00:04:01,160
+and concentrates.
+
+65
+00:04:01,160 --> 00:04:07,320
+Now, it's distressed traveler—a unique identity shared only by the unlucky few.
+
+66
+00:04:07,320 --> 00:04:11,660
+What researchers have found is that the greater the degree of shared identity, the greater
+
+67
+00:04:11,660 --> 00:04:13,860
+the degree of cooperation among a crowd.
+
+68
+00:04:13,860 --> 00:04:18,540
+They're even able to test this—for example, in a simulated evacuation of a London Underground
+
+69
+00:04:18,540 --> 00:04:22,340
+station, study participants were more likely to help a distressed person if that person
+
+70
+00:04:22,340 --> 00:04:26,220
+was wearing the jersey of a football team the participant was a fan of.
+
+71
+00:04:26,220 --> 00:04:29,840
+Conveniently, most events involve a shared identity.
+
+72
+00:04:29,840 --> 00:04:34,340
+People amass as fans of a team, followers of a religion, protesters for a cause—there
+
+73
+00:04:34,340 --> 00:04:39,020
+is almost always a shared identity that justifies the assembly, which helps to keep order even
+
+74
+00:04:39,020 --> 00:04:41,740
+when tens or hundreds of thousands of people gather.
+
+75
+00:04:41,740 --> 00:04:47,000
+And this can help to explain the infrequency of evacuation-based crushes—on a normal
+
+76
+00:04:47,000 --> 00:04:51,380
+day in the London Underground, the mass' only shared identity is commuter.
+
+77
+00:04:51,380 --> 00:04:53,780
+But then there's an explosion.
+
+78
+00:04:53,780 --> 00:04:59,260
+In that moment, identity immediately concentrates and strengthens—now everyone is a victim
+
+79
+00:04:59,260 --> 00:05:01,900
+of the same rare disaster.
+
+80
+00:05:01,900 --> 00:05:06,400
+In the 2005 London Underground bombings, researchers interviewing victims observed a through-line
+
+81
+00:05:06,400 --> 00:05:10,600
+of perceived unity among the victims in the moment, and countless examples of selfless,
+
+82
+00:05:10,600 --> 00:05:13,880
+cooperative behavior even at the risk of personal peril.
+
+83
+00:05:13,880 --> 00:05:19,720
+This is observed in almost any disaster—there is always a high degree of crowd cooperation,
+
+84
+00:05:19,720 --> 00:05:24,040
+far beyond what might often be portrayed in fiction, that typically leads to rather orderly,
+
+85
+00:05:24,040 --> 00:05:26,200
+crush-free evacuations.
+
+86
+00:05:26,200 --> 00:05:30,480
+But another curious anomaly in crowd-crush statistics is that it is quite rare for them
+
+87
+00:05:30,480 --> 00:05:36,420
+to occur during civil unrest—during the very activity that defines mob mentality.
+
+88
+00:05:36,420 --> 00:05:41,040
+The only major crush to occur during a riot this decade was 2022's Kanjurahan Stadium
+
+89
+00:05:41,040 --> 00:05:45,520
+disaster in Indonesia, but that was caused by a mass of field-invading football fans
+
+90
+00:05:45,520 --> 00:05:49,720
+fleeing from police-fired tear gas—not the riot itself.
+
+91
+00:05:49,720 --> 00:05:54,280
+The last major riot-related crush before that was also caused by police intervention during
+
+92
+00:05:54,280 --> 00:05:56,720
+2016 protests in Ethiopia.
+
+93
+00:05:56,720 --> 00:06:01,160
+As rare as it is to find a crush during a riot, it is yet rarer to find one where police
+
+94
+00:06:01,160 --> 00:06:03,600
+intervention is not the cause.
+
+95
+00:06:03,600 --> 00:06:08,780
+This is strange—according to traditional theories, people lose their sense of self
+
+96
+00:06:08,780 --> 00:06:13,200
+during such activities, they act savagely, feeding off the energy of the masses, and
+
+97
+00:06:13,200 --> 00:06:18,620
+yet somehow, the very crowd in which one would expect the highest degree of disorder is able
+
+98
+00:06:18,620 --> 00:06:24,640
+to avoid the worst better than the football or concert or ritual-going masses.
+
+99
+00:06:24,640 --> 00:06:29,880
+An explanation comes from the inverse—the annual Hajj pilgrimage, one of the world's
+
+100
+00:06:29,880 --> 00:06:33,620
+largest events where more than two million Muslims descend on Mecca to visit the spiritual
+
+101
+00:06:33,620 --> 00:06:36,480
+center of the world's second-largest religion.
+
+102
+00:06:36,480 --> 00:06:40,880
+This is exactly the kind of event where one would expect to see high crowd cooperativeness—after
+
+103
+00:06:40,880 --> 00:06:46,020
+all, compounding the strong shared identities of Muslim and pilgrim, all two or three million
+
+104
+00:06:46,020 --> 00:06:50,320
+are expected to be in a state of iran, or ritualistic purity of the body and mind to
+
+105
+00:06:50,320 --> 00:06:54,020
+the extent that they're not even allowed to break branches from trees, and yet, this
+
+106
+00:06:54,060 --> 00:07:00,180
+pilgrimage was home to both the 20th and 21st century's most deadly, crowd-crushed tragedies,
+
+107
+00:07:00,180 --> 00:07:04,180
+each counting, well, over a thousand dead.
+
+108
+00:07:04,180 --> 00:07:07,540
+Considering the history, researchers have long used the Hajj as a source of study of
+
+109
+00:07:07,540 --> 00:07:13,420
+crowd psychology, and one important conclusion came from the very center of the Muslim world—the
+
+110
+00:07:13,420 --> 00:07:14,420
+Kaaba.
+
+111
+00:07:14,420 --> 00:07:18,820
+This stone structure is said to be the House of Allah, the single holiest site in Islam,
+
+112
+00:07:18,820 --> 00:07:22,500
+so one of the most significant elements of the Hajj is prayer in the Grand Mosque of
+
+113
+00:07:22,500 --> 00:07:24,440
+Mecca facing the Kaaba.
+
+114
+00:07:24,440 --> 00:07:28,740
+There are two main areas in which one can do this—the circular plaza, directly surrounding
+
+115
+00:07:28,740 --> 00:07:31,540
+the Kaaba, or on the balconies above.
+
+116
+00:07:31,540 --> 00:07:35,780
+The plaza is probably the best spot since it has an unobstructed view of the Kaaba,
+
+117
+00:07:35,780 --> 00:07:39,740
+whereas the balconies have these pillars that obstruct the view for some.
+
+118
+00:07:39,740 --> 00:07:43,620
+Researchers questioned how this might impact that all-important crowd cooperativeness,
+
+119
+00:07:43,620 --> 00:07:47,200
+and therefore surveyed more than a thousand pilgrims to find out.
+
+120
+00:07:47,200 --> 00:07:51,580
+As they expected, the balconies—the area where there is a more variable experience,
+
+121
+00:07:51,580 --> 00:07:56,660
+and experience improved by how much one pushes and shoves to get that best spot—saw a lower
+
+122
+00:07:56,660 --> 00:07:58,420
+degree of crowd cooperativeness.
+
+123
+00:07:58,420 --> 00:08:04,640
+That's to say, as competitiveness goes up, cooperativeness goes down.
+
+124
+00:08:04,640 --> 00:08:09,540
+In riots, though, there is little competitiveness—there is not a particular something to be gained
+
+125
+00:08:09,540 --> 00:08:13,380
+or lost, and therefore there is little incentive to push and shove.
+
+126
+00:08:13,380 --> 00:08:18,220
+Not only that, but there is typically a strong shared identity—before tensions escalated,
+
+127
+00:08:18,220 --> 00:08:21,860
+a group of people gathered together in support of a particular cause.
+
+128
+00:08:21,860 --> 00:08:27,260
+Therefore, riots feature two of the strongest predictors of lowered crowd-crush potential,
+
+129
+00:08:27,260 --> 00:08:31,500
+explaining how some of the least organized events managed to avoid the worst.
+
+130
+00:08:31,500 --> 00:08:36,500
+Meanwhile, there's a particular situation at far more organized events that time and
+
+131
+00:08:36,500 --> 00:08:38,580
+time again has led to the worst.
+
+132
+00:08:38,580 --> 00:08:42,240
+A group of people have spent a good bit of money buying tickets and a good bit of time
+
+133
+00:08:42,240 --> 00:08:46,860
+getting to a stadium to watch a concert, or a sporting match, or something, but with massive
+
+134
+00:08:46,860 --> 00:08:52,300
+crowds and limited entry throughput, the event is starting, and they're still outside.
+
+135
+00:08:52,300 --> 00:08:57,300
+This exact competitive dynamic led to a 2023 crowd-crush in San Salvador, El Salvador,
+
+136
+00:08:57,300 --> 00:09:04,260
+a 2022 crush in Yaounde, Cameroon, a 2019 one in Antananarivo, Madagascar, 2017 in Luange,
+
+137
+00:09:04,260 --> 00:09:09,720
+Malawi, 2017 in Uengue, Angola—it is perhaps the most predictable crush scenario that still
+
+138
+00:09:09,720 --> 00:09:10,720
+occurs.
+
+139
+00:09:10,720 --> 00:09:14,460
+But you don't need to look for examples in developing countries for this particular
+
+140
+00:09:14,460 --> 00:09:17,820
+situation—just look at concerts.
+
+141
+00:09:17,820 --> 00:09:22,700
+What makes a good concert, according to most, is also what makes it dangerous, and that's
+
+142
+00:09:22,700 --> 00:09:23,700
+unassigned seating.
+
+143
+00:09:23,700 --> 00:09:28,700
+In a festival setting, unassigned seating is the norm, as seats of any sort are a rarity,
+
+144
+00:09:28,700 --> 00:09:32,940
+and VIP tickets, as opposed to general admission tickets, often only provide benefits in the
+
+145
+00:09:32,940 --> 00:09:36,300
+form of easier access and a less dense crowd.
+
+146
+00:09:36,300 --> 00:09:40,540
+In tighter indoor and enclosed facilities, from small local venues to massive arenas
+
+147
+00:09:40,540 --> 00:09:45,220
+and stadiums, there's often a split in ticket options—seated tickets and floor
+
+148
+00:09:45,220 --> 00:09:46,220
+tickets.
+
+149
+00:09:46,220 --> 00:09:49,540
+While seated tickets are easier on organizers and crowd experts, they're seen by concert
+
+150
+00:09:49,540 --> 00:09:55,540
+goers and touring bands alike as boring, overly clinical, just low-energy, lifeless experiences.
+
+151
+00:09:55,540 --> 00:10:00,420
+Because of this, bands and band fans insist on unassigned floor seating, where energy
+
+152
+00:10:00,420 --> 00:10:03,520
+is high and crowd interaction is more dynamic.
+
+153
+00:10:03,520 --> 00:10:07,540
+And yet, despite all its appeal to everyone but the organizers, general admission seating
+
+154
+00:10:07,540 --> 00:10:14,020
+in the city of Cincinnati was entirely banned from 1979 to 2004.
+
+155
+00:10:14,020 --> 00:10:19,240
+The 24 and a half year ban dates back to a Who concert on December 3, 1979.
+
+156
+00:10:19,240 --> 00:10:24,860
+A much-anticipated show, and one that easily sold out the 18,348 unassigned seats available
+
+157
+00:10:24,860 --> 00:10:29,300
+at Cincinnati's Riverfront Stadium, the concert was supposed to be a celebration,
+
+158
+00:10:29,300 --> 00:10:34,340
+not a watershed moment in crowd control and live event policy the world over.
+
+159
+00:10:34,340 --> 00:10:39,100
+Of course, in any unassigned seating environment, there's inherent competition—for the best
+
+160
+00:10:39,100 --> 00:10:41,760
+view, people push their way to the front.
+
+161
+00:10:41,760 --> 00:10:45,740
+In this particular situation, this competition only compounded.
+
+162
+00:10:45,740 --> 00:10:49,380
+In order to get in the best position to push their way to the front, thousands had lined
+
+163
+00:10:49,380 --> 00:10:51,380
+up outside the venue.
+
+164
+00:10:51,380 --> 00:10:55,580
+Afternoon then gave way to evening, the crowd grew cold waiting, and once the venue finally
+
+165
+00:10:55,580 --> 00:10:59,780
+opened, those at the front were surprised to see only two meager doors swing wide to
+
+166
+00:10:59,780 --> 00:11:02,900
+welcome nearly 20,000.
+
+167
+00:11:02,900 --> 00:11:06,940
+When patience grew, and tensions rose across the crowd with the delay in entry.
+
+168
+00:11:06,940 --> 00:11:12,340
+Then, at the sound of a late soundcheck confused as the beginning of the concert, the dam broke.
+
+169
+00:11:12,340 --> 00:11:15,940
+The push began from the back, far outside the venue, but the compounding pressure was
+
+170
+00:11:15,940 --> 00:11:20,100
+felt at the front, where people poured through the two open doors with scratches, torn shirt,
+
+171
+00:11:20,100 --> 00:11:23,860
+and without shoes while others ripped at the countless other doors still closed, not to
+
+172
+00:11:23,860 --> 00:11:27,460
+cut in line, but to release the building pressure.
+
+173
+00:11:27,460 --> 00:11:34,500
+At the entrance, the crowd collapsed, then it crushed, leaving 11 dead and dozens injured.
+
+174
+00:11:34,500 --> 00:11:39,280
+In the tragedy's wake, much was made of the character of those involved—their motives,
+
+175
+00:11:39,280 --> 00:11:43,740
+the substances they had taken, and the rock and roll culture that they had ascribed to.
+
+176
+00:11:43,740 --> 00:11:48,020
+This much, in the aftermath of crowd-related tragedies, is a recurrent theme.
+
+177
+00:11:48,020 --> 00:11:52,160
+At sporting matches, it's hooliganism, at concerts and festivals, it's youth culture,
+
+178
+00:11:52,160 --> 00:11:54,580
+at religious events, it's fanaticism.
+
+179
+00:11:54,700 --> 00:11:58,340
+At that base, it's all bad design.
+
+180
+00:11:58,340 --> 00:12:03,020
+What blaming a selfish, crazed crowd doesn't account for is the disconnect between overmatched
+
+181
+00:12:03,020 --> 00:12:07,060
+and understaffed security ushering nearly 20,000 people through only two doors.
+
+182
+00:12:07,060 --> 00:12:10,820
+It doesn't account for people rushing those doors, not to get the best spot, but to find
+
+183
+00:12:10,820 --> 00:12:11,820
+enough room to breathe.
+
+184
+00:12:11,820 --> 00:12:15,420
+It doesn't account for those at the back shuffling forward, not out of ill will, but
+
+185
+00:12:15,420 --> 00:12:19,260
+a lack of understanding as to the pressure they're exerting on the front.
+
+186
+00:12:19,260 --> 00:12:22,940
+Blaming the crowd also fails to account for the fact that once crowd density begins to
+
+187
+00:12:22,940 --> 00:12:27,640
+reach dangerous levels, individual agency goes out the window.
+
+188
+00:12:27,640 --> 00:12:32,060
+In fact, at crowd densities that reach higher than 5 people per square meter, a mark that's
+
+189
+00:12:32,060 --> 00:12:36,460
+considered high-risk for fall and trampling, individuals lose the ability to control their
+
+190
+00:12:36,460 --> 00:12:41,000
+own movement and are instead at the whim of shockwaves rippling through the crowd.
+
+191
+00:12:41,000 --> 00:12:45,740
+At this point, the principles defining crowd movement are closer to fluid dynamics than
+
+192
+00:12:45,740 --> 00:12:46,740
+anything else.
+
+193
+00:12:46,740 --> 00:12:51,220
+It was the culmination of such factors—the disconnect between security, the front of
+
+194
+00:12:51,220 --> 00:12:54,620
+the crowd, and the back of the crowd—along with inability once caught in the crush to
+
+195
+00:12:54,620 --> 00:12:58,880
+do anything but move with the shockwaves, that ultimately informed what's now known
+
+196
+00:12:58,880 --> 00:13:03,060
+as the WHO disaster—factors that were out of the crowd's control, and factors that
+
+197
+00:13:03,060 --> 00:13:06,580
+stemmed from a poorly prepared venue and overmatched staff.
+
+198
+00:13:06,580 --> 00:13:11,060
+And it was these factors and their causes that event organizers began to consider in
+
+199
+00:13:11,060 --> 00:13:12,580
+the disaster's wake.
+
+200
+00:13:12,580 --> 00:13:16,540
+While Cincinnati went the furthest with an outright ban on general admission concerts,
+
+201
+00:13:16,540 --> 00:13:21,540
+entities across the US began adopting stricter regulation requirements for crowded events.
+
+202
+00:13:21,540 --> 00:13:25,540
+The National Fire Protection Association, a non-profit institution that authors model
+
+203
+00:13:25,540 --> 00:13:29,860
+safety codes for municipal and state-level adoption, entirely rethought aspects of its
+
+204
+00:13:29,860 --> 00:13:33,820
+life safety code to better account for crowd dynamics.
+
+205
+00:13:33,820 --> 00:13:38,700
+Since the WHO disaster, the landscape of live concert and events has fundamentally changed.
+
+206
+00:13:38,700 --> 00:13:42,860
+Today, most seats are assigned, and those that aren't are heavily monitored by crowd
+
+207
+00:13:42,860 --> 00:13:44,820
+managers and security.
+
+208
+00:13:44,880 --> 00:13:49,380
+European exit strategies, meanwhile, are no longer assumed, intuitive processes, but heavily
+
+209
+00:13:49,380 --> 00:13:53,500
+planned out, redundant, practice points of emphasis in event planning.
+
+210
+00:13:53,500 --> 00:13:58,500
+But crowd crush on account of entrance issues and unassigned seating has yet to be solved.
+
+211
+00:13:58,500 --> 00:14:03,600
+In London at the 2020 European Football Championship Final, videos of massive, unmanageable crowds
+
+212
+00:14:03,600 --> 00:14:07,820
+from outside the famed Wembley Stadium began surfacing on social media.
+
+213
+00:14:07,820 --> 00:14:11,940
+Ticketless England fans, it turned out, had shown up en masse for the final with the idea
+
+214
+00:14:11,940 --> 00:14:15,020
+of storming gates and overwhelming security.
+
+215
+00:14:15,020 --> 00:14:19,860
+Many were successful, as 2,000 forced their way into the stadium.
+
+216
+00:14:19,860 --> 00:14:23,620
+More importantly though, while crowds reached dangerous densities in the surge, there were
+
+217
+00:14:23,620 --> 00:14:25,220
+no casualties.
+
+218
+00:14:25,220 --> 00:14:29,400
+But it was close, as findings from a following investigation reported that there were some
+
+219
+00:14:29,400 --> 00:14:33,880
+6,000 additional fans ready to charge the stadium had England pulled off the victory,
+
+220
+00:14:33,880 --> 00:14:37,460
+and that the whole event hosted at one of Europe's finest sporting venues was on the
+
+221
+00:14:37,460 --> 00:14:42,000
+razor's edge of turning to a deadly disaster.
+
+222
+00:14:42,000 --> 00:14:46,880
+More recently, in January of 2023, north of London and east of Manchester, travelling
+
+223
+00:14:46,880 --> 00:14:51,500
+football fans of a more ruly disposition arrived at Sheffield Wednesday for an important playoff
+
+224
+00:14:51,500 --> 00:14:56,500
+game only to find themselves hopelessly packed into two narrow concourses in the stadium's
+
+225
+00:14:56,500 --> 00:14:57,720
+visitor end.
+
+226
+00:14:57,720 --> 00:15:01,140
+Following safety protocol, the turnstiles were even opened 30 minutes early to relieve
+
+227
+00:15:01,140 --> 00:15:05,840
+pressure at the gates, but once inside, the delay of fans identifying and navigating to
+
+228
+00:15:05,840 --> 00:15:09,480
+their seats, and the fact that some seats were covered, resulted in people piling in
+
+229
+00:15:09,480 --> 00:15:14,240
+the concourses, and hoisting crying kids in the air to relieve the mounting pressure.
+
+230
+00:15:14,240 --> 00:15:19,160
+It's been more than close calls, too—while the blame for the ten deaths and hundreds
+
+231
+00:15:19,160 --> 00:15:23,600
+of injuries at the 2021 Astroworld Festival in Houston, Texas has circulated between the
+
+232
+00:15:23,600 --> 00:15:27,480
+artist Travis Scott, the promoting company Live Nation, and the Austin-based organizer
+
+233
+00:15:27,480 --> 00:15:32,520
+Scormore in the courts of law and public opinion, one factor that's rather irrefutable was
+
+234
+00:15:32,520 --> 00:15:34,940
+bad venue design.
+
+235
+00:15:34,940 --> 00:15:37,980
+The ill-fated festival took place at the Energy Park.
+
+236
+00:15:37,980 --> 00:15:42,780
+Home to the NFL's Houston Texans, this 350-acre complex was designed for events capable of
+
+237
+00:15:42,780 --> 00:15:44,900
+hosting up to 200,000 people.
+
+238
+00:15:44,900 --> 00:15:48,880
+For the Astroworld Festival, though, this number was lowered by the Houston Fire Chief
+
+239
+00:15:48,880 --> 00:15:54,300
+to a maximum capacity of 50,000, but the issue here was not the size of the crowd, but the
+
+240
+00:15:54,300 --> 00:15:56,100
+layout of the venue.
+
+241
+00:15:56,100 --> 00:16:00,080
+Broken into two stages, it was expected that crowds would disperse between the secondary
+
+242
+00:16:00,080 --> 00:16:03,740
+and primary stages throughout the event, which they did.
+
+243
+00:16:03,940 --> 00:16:08,100
+But then the music ended on the second stage, and Travis Scott delayed his start on the
+
+244
+00:16:08,100 --> 00:16:09,100
+primary.
+
+245
+00:16:09,100 --> 00:16:13,940
+As the headliner, the anticipation was high, and the crowd was unruly to begin with, and
+
+246
+00:16:13,940 --> 00:16:19,540
+with a delay, the crowd began to grow as festival goers shifted from the west stage to the north.
+
+247
+00:16:19,540 --> 00:16:22,780
+Because of the location of barricades that were protecting operation tents and sound
+
+248
+00:16:22,780 --> 00:16:26,380
+systems though, this additional thrust of people wasn't able to dissipate through
+
+249
+00:16:26,380 --> 00:16:31,300
+the crowd, but instead it pushed an already dense crowd into what became effectively a
+
+250
+00:16:31,300 --> 00:16:32,300
+corral.
+
+251
+00:16:32,340 --> 00:16:37,060
+Tellingly, all the deaths occurred in this quadrant of the crowd—a function of bad
+
+252
+00:16:37,060 --> 00:16:40,620
+timing and bad barricade configuration.
+
+253
+00:16:40,620 --> 00:16:45,180
+Of course, with the benefit of hindsight, the design flaws that turn an unruly, competitive
+
+254
+00:16:45,180 --> 00:16:50,660
+crowd, a poorly managed event, and a largely unregulated aspect of everyday life into horrific,
+
+255
+00:16:50,660 --> 00:16:53,180
+deadly traps is easy to identify.
+
+256
+00:16:53,180 --> 00:16:57,280
+But bad design is easier to identify than to fix.
+
+257
+00:16:57,280 --> 00:17:00,000
+Take this bridge complex, for example.
+
+258
+00:17:00,000 --> 00:17:05,200
+This bridge has existed in some form since the 1960s as the sole conduit that moves Muslim
+
+259
+00:17:05,200 --> 00:17:09,400
+pilgrims by the millions who are staying in the tent city of Mina to the Jamarat pillars
+
+260
+00:17:09,400 --> 00:17:12,040
+for the sacred practice of stoning the devil.
+
+261
+00:17:12,040 --> 00:17:16,280
+With only three pillars to stone though, and as of this century, over two million Muslims
+
+262
+00:17:16,280 --> 00:17:20,440
+a year making the trek to Mecca to take part in this Hajj ritual, this has been the site
+
+263
+00:17:20,440 --> 00:17:23,640
+of many deadly crowd crushes.
+
+264
+00:17:23,640 --> 00:17:28,400
+In 2004, 251 pilgrims died in a crush at the pillars.
+
+265
+00:17:28,400 --> 00:17:31,840
+In response, the Saudi government altered the shape of the pillars' walls to allow
+
+266
+00:17:31,840 --> 00:17:33,840
+for better crowd flow.
+
+267
+00:17:33,840 --> 00:17:36,200
+It helped, but didn't solve the problem.
+
+268
+00:17:36,200 --> 00:17:42,560
+In 2006, another 345 died in a crush on the bridge's entry ramp.
+
+269
+00:17:42,560 --> 00:17:47,360
+Small fixes, it appeared, just weren't working, so the Saudi government decided to reconfigure
+
+270
+00:17:47,360 --> 00:17:49,400
+the entire complex.
+
+271
+00:17:49,400 --> 00:17:54,560
+For $1 billion, the bridge was widened by 260 feet, or 80 meters, and atop it were now
+
+272
+00:17:54,560 --> 00:17:58,980
+four additional floors and a massive awning to protect from the sun.
+
+273
+00:17:58,980 --> 00:18:04,320
+The project was simply gigantic, signaling in no uncertain terms Saudi Arabia's investment
+
+274
+00:18:04,320 --> 00:18:08,320
+in crowd management for one of the world's single largest annual events.
+
+275
+00:18:08,320 --> 00:18:12,320
+With the ability to handle more than half a million pilgrims an hour, nearly two decades
+
+276
+00:18:12,320 --> 00:18:17,120
+on since its completion, the bridge has proved more than capable of accommodating ever-growing
+
+277
+00:18:17,120 --> 00:18:18,120
+crowds.
+
+278
+00:18:18,120 --> 00:18:23,120
+And yet, for as magnificent and expensive the complex is, it hasn't solved Saudi Arabia's
+
+279
+00:18:23,120 --> 00:18:24,680
+crowdcrush problems.
+
+280
+00:18:24,680 --> 00:18:28,440
+Just down the road from this complex, where pedestrian street 206 intersects with street
+
+281
+00:18:28,440 --> 00:18:34,320
+223 before then running into a simple T-intersection with street 204, Saudi Arabia in 2015 saw
+
+282
+00:18:34,320 --> 00:18:41,960
+its worst crowdcrush in the century, and likely ever, with an estimated 2,400 pilgrims dying
+
+283
+00:18:41,960 --> 00:18:46,180
+at an overlooked chokepoint between two commuter routes within eyeshot of the nation's most
+
+284
+00:18:46,180 --> 00:18:49,020
+impressive crowd control infrastructure.
+
+285
+00:18:49,020 --> 00:18:54,060
+In just hours, a problem that seemed fixed had taken a different shape, relocated at
+
+286
+00:18:54,060 --> 00:18:57,300
+the infrastructure's nearest weak point.
+
+287
+00:18:57,300 --> 00:19:02,400
+With the Hajj, or Astroworld, or the Who concert, or really any incident, the cause of the crush
+
+288
+00:19:02,400 --> 00:19:05,140
+always feels just so predictable.
+
+289
+00:19:05,140 --> 00:19:10,460
+They're all a perfect varying mix of an uncooperative crowd, competitive dynamics,
+
+290
+00:19:10,460 --> 00:19:14,380
+constrained architecture, and a bit of bad luck.
+
+291
+00:19:14,380 --> 00:19:18,480
+But of course, prediction is always easier in retrospect.
+
+292
+00:19:18,480 --> 00:19:22,200
+For every deadly festival crush, there are countless rowdy mosh pits having the times
+
+293
+00:19:22,200 --> 00:19:23,560
+of their lives.
+
+294
+00:19:23,560 --> 00:19:27,680
+For every doorbuster sale gone wrong, there are far more whose staggering numbers bring
+
+295
+00:19:27,680 --> 00:19:29,440
+the attention the retailer desires.
+
+296
+00:19:29,440 --> 00:19:34,560
+It is effectively impossible to completely eliminate all risky situations, because people
+
+297
+00:19:34,560 --> 00:19:37,760
+love these risky situations.
+
+298
+00:19:37,760 --> 00:19:42,240
+What ultimately makes the difference is rather simple, and rather boring—proper planning
+
+299
+00:19:42,240 --> 00:19:46,280
+to mitigate crush potential, knowledge of the risk factors, and the ability to identify
+
+300
+00:19:46,280 --> 00:19:49,600
+and respond when things get out of control.
+
+301
+00:19:49,600 --> 00:19:54,000
+Almost every incident involves the failure of one of those three steps, and therefore,
+
+302
+00:19:54,000 --> 00:19:57,980
+while the exact moments when a crush occurs might not be as predictable as it may seem,
+
+303
+00:19:57,980 --> 00:20:04,000
+the culpability for why they occur almost inevitably is.
+
+304
+00:20:04,000 --> 00:20:07,560
+Saudi Arabia's crowd control failures at the Hajj escalated to a point where they were
+
+305
+00:20:07,560 --> 00:20:10,360
+a legitimate geopolitical problem for the nation.
+
+306
+00:20:10,360 --> 00:20:16,120
+In the aftermath of the 2,400-fatality 2015 Mina stampede, Saudi-Iranian relations deteriorated
+
+307
+00:20:16,120 --> 00:20:19,800
+significantly due to the number of Iranian nationals killed.
+
+308
+00:20:19,800 --> 00:20:24,520
+After a long history of incidents, Saudi Arabia finally realized they had to get a grip on
+
+309
+00:20:24,520 --> 00:20:29,800
+the event, and invested a huge amount of money into designing a safer, more efficient Hajj
+
+310
+00:20:29,800 --> 00:20:31,120
+system.
+
+311
+00:20:31,120 --> 00:20:35,840
+Combining infrastructure, technology, psychology, and more, the modern Hajj is perhaps the most
+
+312
+00:20:35,840 --> 00:20:40,980
+organized event in the world, and has run accident-free since the 2015 crush.
+
+313
+00:20:40,980 --> 00:20:45,020
+As much as we wanted to cover how this works in this video, there simply wasn't time,
+
+314
+00:20:45,020 --> 00:20:49,180
+so rather we made a whole episode of our series Logistics of X about the logistics
+
+315
+00:20:49,180 --> 00:20:50,320
+of Hajj.
+
+316
+00:20:50,320 --> 00:20:54,560
+Like all the episodes of this series, that's exclusive to Nebula, the creator-founded and
+
+317
+00:20:54,560 --> 00:20:58,860
+creator-run streaming service that's designed to be the best home to the stuff we make.
+
+318
+00:20:58,860 --> 00:21:02,620
+We all upload our videos to there early and ad-free, and we use the subscription fees
+
+319
+00:21:02,620 --> 00:21:06,440
+to fund big-budget Nebula originals like the Logistics of X.
+
+320
+00:21:06,440 --> 00:21:10,380
+The concept is rather simple—digital creators know how to make stuff that people enjoy watching
+
+321
+00:21:10,380 --> 00:21:14,060
+on a tight budget, so when you give them a more generous budget, they make even better
+
+322
+00:21:14,060 --> 00:21:15,240
+stuff.
+
+323
+00:21:15,240 --> 00:21:18,540
+Our data proves that Nebula isn't just another streaming service that people sign up for
+
+324
+00:21:18,540 --> 00:21:23,220
+and then forget about—a far higher percentage of subscribers log in each day than with any
+
+325
+00:21:23,220 --> 00:21:27,040
+of the major, more expensive streamers, and subscribers stick around for longer as they
+
+326
+00:21:27,040 --> 00:21:29,060
+find the price worthwhile.
+
+327
+00:21:29,060 --> 00:21:33,200
+Over 50,000 Wendover viewers have subscribed so far, and if you want to see why, and watch
+
+328
+00:21:33,200 --> 00:21:37,640
+the Logistics of X, you can use our link, nebula.tv slash wendover, and you'll get
+
+329
+00:21:37,640 --> 00:21:43,000
+40% off an annual subscription, which brings the cost down to under $3 a month.
+
+330
+00:21:43,000 --> 00:21:46,600
+Not only that, but by using that link we'll get a portion of your subscription fee for
+
+331
+00:21:46,600 --> 00:21:50,640
+as long as you stay subscribed, which helps provide stable monthly income that we can
+
+332
+00:21:50,640 --> 00:21:54,480
+reinvest into the videos, so thanks in advance for your support.
+

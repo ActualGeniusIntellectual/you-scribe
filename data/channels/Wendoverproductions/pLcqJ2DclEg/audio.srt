@@ -1,0 +1,1008 @@
+1
+00:00:00,000 --> 00:00:03,520
+This video was made possible by CuriosityStream.
+
+2
+00:00:03,520 --> 00:00:07,680
+Watch an exclusive companion video to this on Nebula, which you can access by signing
+
+3
+00:00:07,680 --> 00:00:15,580
+up for the CuriosityStream-Nebula bundle deal for $15 a year at CuriosityStream.com-slash-Wendover.
+
+4
+00:00:15,580 --> 00:00:19,460
+With any disruptive technology, there's a tipping point.
+
+5
+00:00:19,460 --> 00:00:24,440
+There is a point in time when its path towards market dominance is a certainty.
+
+6
+00:00:24,440 --> 00:00:28,640
+Now, electric vehicles are almost certainly a disruptive technology.
+
+7
+00:00:29,080 --> 00:00:33,720
+They're almost certainly a technology that will, with time, become dominant over their
+
+8
+00:00:33,720 --> 00:00:34,720
+predecessor.
+
+9
+00:00:34,720 --> 00:00:39,680
+In this case, the predecessor is the internal combustion car that you, yourself, almost
+
+10
+00:00:39,680 --> 00:00:41,400
+certainly use.
+
+11
+00:00:41,400 --> 00:00:46,320
+Chances are, though, when asked, you'd say that your next car will not be electric, and
+
+12
+00:00:46,320 --> 00:00:51,340
+you're right—the average consumer, according to surveys, would not even consider purchasing
+
+13
+00:00:51,340 --> 00:00:56,120
+an electric vehicle, demonstrating that the technology is not yet at the tipping point
+
+14
+00:00:56,120 --> 00:00:58,800
+where it's on a certain path towards market dominance.
+
+15
+00:00:58,800 --> 00:01:03,280
+But again, that path is almost certain.
+
+16
+00:01:03,280 --> 00:01:08,720
+EVs are not there yet—right now they're too expensive, too short-range, and too slow
+
+17
+00:01:08,720 --> 00:01:11,240
+to charge—but they're close.
+
+18
+00:01:11,240 --> 00:01:15,120
+In fact, research can quantify just how close they are.
+
+19
+00:01:15,120 --> 00:01:20,000
+It's been shown that the tipping point price for EVs—the price that will lead to mainstream
+
+20
+00:01:20,000 --> 00:01:25,200
+adoption and eventual disruption—is $36,000.
+
+21
+00:01:25,280 --> 00:01:29,680
+Taking a look at the prices of the base models of three of the world's best-selling electric
+
+22
+00:01:29,680 --> 00:01:34,200
+vehicles, they're already roughly there, so we know that that's not what's holding
+
+23
+00:01:34,200 --> 00:01:36,640
+mass-market consumers back.
+
+24
+00:01:36,640 --> 00:01:39,760
+What also matters is range.
+
+25
+00:01:39,760 --> 00:01:47,280
+Consumers say they need 291 miles or 469 kilometers of it before the cars can go mass-market.
+
+26
+00:01:47,280 --> 00:01:53,080
+Two of the best-selling EVs—the Tesla Model 3 and the Chevy Volt EV—are not far from
+
+27
+00:01:53,080 --> 00:01:56,060
+different, while the Nissan Leaf lags behind.
+
+28
+00:01:56,060 --> 00:02:00,120
+Range and cost are closely linked, and you can essentially trade one off for the other,
+
+29
+00:02:00,120 --> 00:02:03,600
+as the battery is the single largest cost of an EV.
+
+30
+00:02:03,600 --> 00:02:08,840
+That's why the industry is so focused on innovating and scaling to lower the component
+
+31
+00:02:08,840 --> 00:02:12,080
+cost of EV batteries, and it's working.
+
+32
+00:02:12,080 --> 00:02:19,040
+In 2013, the average price per kilowatt-hour of an EV battery was $668, meaning the base
+
+33
+00:02:19,040 --> 00:02:25,440
+model Tesla Model 3's 50 kilowatt-hour battery would cost $22,400—two-thirds of what the
+
+34
+00:02:25,440 --> 00:02:26,960
+vehicle sells for.
+
+35
+00:02:26,960 --> 00:02:32,940
+Nowadays, the average price per kilowatt-hour is all the way down to $137, meaning that
+
+36
+00:02:32,940 --> 00:02:38,680
+same battery pack would cost just $6,850, and this price per kilowatt-hour is expected
+
+37
+00:02:38,680 --> 00:02:41,320
+to lower to $100 by 2023.
+
+38
+00:02:41,320 --> 00:02:46,280
+It's getting more and more possible for manufacturers to sell an EV for the magic
+
+39
+00:02:46,280 --> 00:02:50,520
+$36,000 price with the magic 291-mile range.
+
+40
+00:02:50,520 --> 00:02:56,000
+While EVs are not quite there yet, they're really not far, and will be there in the next
+
+41
+00:02:56,000 --> 00:02:57,160
+few years.
+
+42
+00:02:57,160 --> 00:03:02,760
+So, range is not what's significantly holding mass-market consumers back, and it won't
+
+43
+00:03:02,760 --> 00:03:05,540
+be at all within a few years.
+
+44
+00:03:05,540 --> 00:03:08,080
+What is, though, is charging.
+
+45
+00:03:08,080 --> 00:03:11,800
+The research shows that consumers want to be able to charge their cars from empty to
+
+46
+00:03:11,800 --> 00:03:17,980
+full in 31 minutes, and that's the magic number for mass-market adoption.
+
+47
+00:03:17,980 --> 00:03:23,900
+With this, current $36,000 EVs just aren't yet there.
+
+48
+00:03:23,900 --> 00:03:28,500
+The base model Chevy Volt EV can't even fast-charge—it doesn't have the technology
+
+49
+00:03:28,500 --> 00:03:33,800
+for it—and even the upgraded, more expensive model that does allow for fast-charging can
+
+50
+00:03:33,800 --> 00:03:37,820
+only get to 39% state of charge in 31 minutes.
+
+51
+00:03:37,820 --> 00:03:43,420
+The Nissan Leaf does a little better, attaining 62% state of charge in 31 minutes, while the
+
+52
+00:03:43,420 --> 00:03:48,820
+base model Tesla Model 3 does the best with its ability to fill its battery to 83% in
+
+53
+00:03:48,820 --> 00:03:53,420
+the most ideal conditions using the fastest models of Tesla Superchargers, but that would
+
+54
+00:03:53,420 --> 00:04:00,240
+only give it 196 miles or 315 kilometers of range, again in the most ideal conditions.
+
+55
+00:04:00,240 --> 00:04:04,620
+In colder weather, both that charging time would be greater, and that range would be
+
+56
+00:04:04,620 --> 00:04:05,620
+less.
+
+57
+00:04:05,620 --> 00:04:10,060
+So, it's currently possible to get an EV with just about what the mass-market requires
+
+58
+00:04:10,060 --> 00:04:16,880
+for cost and range, but reaching that charging time, that's just a lot tougher.
+
+59
+00:04:16,880 --> 00:04:21,920
+What this research can lead us to conclude is that the largest barrier right now to mass-market
+
+60
+00:04:21,920 --> 00:04:25,900
+EV adoption is, in fact, the charging problem.
+
+61
+00:04:25,900 --> 00:04:32,100
+The tipping point just will not happen without widespread fast-charging, but widespread fast-charging
+
+62
+00:04:32,100 --> 00:04:37,860
+is just difficult because of the very way our electric grid works.
+
+63
+00:04:37,860 --> 00:04:44,140
+You see, back in the 1880s, Thomas Edison, with his direct current electric system, battled
+
+64
+00:04:44,140 --> 00:04:48,440
+it out with George Westinghouse and his alternating current system.
+
+65
+00:04:48,440 --> 00:04:54,040
+As the names suggest, direct current electricity flows consistently and unidirectionally, while
+
+66
+00:04:54,040 --> 00:04:58,580
+alternating current oscillates in magnitude and rapidly changes direction.
+
+67
+00:04:58,580 --> 00:05:03,420
+The exact details of how each works isn't that important in this context, but what is
+
+68
+00:05:03,420 --> 00:05:08,340
+is to know that, for a variety of reasons, AC power won, it's now the standard for
+
+69
+00:05:08,340 --> 00:05:13,620
+power grids, but there are certain technologies that still need DC power.
+
+70
+00:05:13,620 --> 00:05:20,420
+The most widespread example of that is batteries—you cannot charge a battery using AC power.
+
+71
+00:05:20,420 --> 00:05:25,260
+That's why you don't plug your smartphone directly into an outlet—you plug it into
+
+72
+00:05:25,260 --> 00:05:31,880
+a power brick that plugs into an outlet, and that power brick is an AC to DC converter.
+
+73
+00:05:31,880 --> 00:05:36,580
+A standard iPhone charging inverter outputs 5 watts of electricity, which is plenty enough
+
+74
+00:05:36,580 --> 00:05:40,300
+to charge the phone's 11 watt-hour battery in a few hours.
+
+75
+00:05:40,300 --> 00:05:48,820
+A base-model Tesla Model 3, meanwhile, has a 50 kilowatt-hour battery—4,500 times larger.
+
+76
+00:05:49,220 --> 00:05:55,540
+Therefore, it needs a much higher wattage power inverter to charge with any speed.
+
+77
+00:05:55,540 --> 00:05:58,600
+It solves this in two ways.
+
+78
+00:05:58,600 --> 00:06:03,860
+Onboard that Model 3, there's a 7.7 kilowatt inverter that can take AC power from common
+
+79
+00:06:03,860 --> 00:06:09,360
+sources, like a standard wall outlet, and convert it into DC power to charge the battery.
+
+80
+00:06:09,360 --> 00:06:14,280
+At its max rate, this can charge the car fully in under 10 hours, and has the advantage of
+
+81
+00:06:14,280 --> 00:06:18,840
+allowing consumers to charge using regular wall plugs or by installing relatively inexpensive
+
+82
+00:06:18,840 --> 00:06:22,520
+chargers on existing domestic AC electric circuits.
+
+83
+00:06:22,520 --> 00:06:28,480
+The disadvantage, though, is that while 7.7 kilowatts is plenty fast enough for regular,
+
+84
+00:06:28,480 --> 00:06:32,800
+overnight at-home charging, it's not fast enough to compete with the convenience of
+
+85
+00:06:32,800 --> 00:06:35,920
+filling up an internal combustion car at the gas station.
+
+86
+00:06:35,920 --> 00:06:40,700
+It's not fast enough if you're on a long-distance trip and need to be able to gain hundreds
+
+87
+00:06:40,700 --> 00:06:43,760
+of miles of range in a matter of minutes.
+
+88
+00:06:44,120 --> 00:06:50,560
+So, if you need more electricity faster, you need a higher wattage inverter.
+
+89
+00:06:50,560 --> 00:06:55,840
+To be able to take a Tesla Model 3 from almost empty to almost full in 30 minutes, you want
+
+90
+00:06:55,840 --> 00:06:59,200
+between 120 and 250 kilowatts.
+
+91
+00:06:59,200 --> 00:07:07,960
+The problem, though, is that a 250 kilowatt inverter costs, at least in this case, $57,600,
+
+92
+00:07:07,960 --> 00:07:11,160
+and is about the size of a very large fridge.
+
+93
+00:07:11,200 --> 00:07:16,080
+It's not exactly practical to have this as an internal component of the car.
+
+94
+00:07:16,080 --> 00:07:21,680
+So, for faster charging, one needs to off-board the inversion process.
+
+95
+00:07:21,680 --> 00:07:29,520
+That's exactly what a DC fast charger does—it supplies a huge quantity of DC power to the
+
+96
+00:07:29,520 --> 00:07:34,560
+car, which bypasses the onboard inverter and charges the battery directly.
+
+97
+00:07:34,560 --> 00:07:38,800
+Between the inverter, the charger, and all the other equipment needed for a fast-charging
+
+98
+00:07:39,320 --> 00:07:43,180
+the cost and size is not insignificant.
+
+99
+00:07:43,180 --> 00:07:48,160
+One of the more popular models, the Chargepoint Express 250, which can charge a single car
+
+100
+00:07:48,160 --> 00:07:55,840
+at a somewhat slow 62.5 kilowatts, sells for $40,800, and that's before installation.
+
+101
+00:07:55,840 --> 00:08:01,640
+Meanwhile, while it's tough to get an exact figure, industry experts estimate it costs
+
+102
+00:08:01,640 --> 00:08:08,240
+Tesla about $250,000 to build an average supercharging station with six to eight stalls delivering
+
+103
+00:08:08,240 --> 00:08:14,680
+120 to 150 kilowatts each, while its closest equivalent, the stations by Volkswagen's
+
+104
+00:08:14,680 --> 00:08:19,520
+Electrify America, are estimated to cost $350,000.
+
+105
+00:08:19,520 --> 00:08:22,680
+But here's something counterintuitive.
+
+106
+00:08:22,680 --> 00:08:30,560
+Using a 250 kilowatt charger versus a 150 kilowatt one doesn't really impact how fast
+
+107
+00:08:30,560 --> 00:08:32,060
+you charge.
+
+108
+00:08:32,060 --> 00:08:37,760
+Batteries charge slower the more full they are, so the first 20% will pass far faster
+
+109
+00:08:38,280 --> 00:08:40,000
+than the last 20%.
+
+110
+00:08:40,000 --> 00:08:45,240
+In the context of EV charging, this means that quite quickly into the charge, the speed
+
+111
+00:08:45,240 --> 00:08:50,380
+is impacted not by how much power the station is putting out, but by how much electricity
+
+112
+00:08:50,380 --> 00:08:51,960
+the battery can accept.
+
+113
+00:08:51,960 --> 00:08:58,280
+So, it's actually faster to charge to 50%, drive until empty, charge to 50%, and drive
+
+114
+00:08:58,280 --> 00:09:02,820
+until empty again, then charging to 100% and driving to empty.
+
+115
+00:09:02,820 --> 00:09:10,180
+A Tesla Model 3 can go from 0 to 50% charge in 15 minutes on a 250 kilowatt charger and
+
+116
+00:09:10,180 --> 00:09:15,160
+17 minutes on a 150 kilowatt charger, giving it enough range to drive at least 100 miles
+
+117
+00:09:15,160 --> 00:09:21,820
+or 160 kilometers, while charging from 50% to 90% would take an additional 27 minutes
+
+118
+00:09:21,820 --> 00:09:23,260
+in both cases.
+
+119
+00:09:23,260 --> 00:09:29,060
+So, combining two charges from empty to 50% in two stops, you could effectively reach
+
+120
+00:09:29,060 --> 00:09:36,340
+the tipping point speed of 100% charge in 31 minutes with existing 250 kilowatt chargers.
+
+121
+00:09:36,340 --> 00:09:43,180
+Therefore, what the industry needs is not faster chargers, but more chargers, which
+
+122
+00:09:43,180 --> 00:09:48,220
+is hugely difficult given the enormous cost of fast chargers.
+
+123
+00:09:48,220 --> 00:09:52,500
+The average American lives four minutes away from a gas station.
+
+124
+00:09:52,500 --> 00:09:59,140
+Meanwhile, the same average American lives 31 minutes away from their nearest Tesla supercharger.
+
+125
+00:09:59,140 --> 00:10:05,180
+Currently, there are 976 supercharging stations in the US, each of which have anywhere between
+
+126
+00:10:05,180 --> 00:10:08,300
+two and 56 individual chargers.
+
+127
+00:10:08,300 --> 00:10:13,000
+In order to match the four-minute average of gas stations, Tesla would need to build
+
+128
+00:10:13,000 --> 00:10:19,420
+an additional 31,251 supercharging stations.
+
+129
+00:10:19,420 --> 00:10:26,420
+At their $250,000 per station cost, that would cost the company some $7.8 billion,
+
+130
+00:10:26,420 --> 00:10:30,060
+or roughly ten times their total annual profits from 2020.
+
+131
+00:10:30,060 --> 00:10:36,700
+In addition, only some 750,000 Teslas ever have been sold in the US, meaning, to have
+
+132
+00:10:36,700 --> 00:10:41,500
+fast charging stations as accessible as gas stations, the company would need to install
+
+133
+00:10:41,500 --> 00:10:47,980
+a $250,000 supercharging station for every 23 cars it had on the road.
+
+134
+00:10:47,980 --> 00:10:52,360
+Right obviously, that's not feasible, as the stations would never break even with such
+
+135
+00:10:52,360 --> 00:10:56,500
+infrequent use, and that's the exact problem.
+
+136
+00:10:56,500 --> 00:11:01,160
+You need the infrastructure to sell the cars, but you can't build the infrastructure until
+
+137
+00:11:01,160 --> 00:11:02,160
+you sell the cars.
+
+138
+00:11:02,160 --> 00:11:06,140
+It is the classic chicken and the egg problem.
+
+139
+00:11:06,140 --> 00:11:09,420
+There might, however, be a solution.
+
+140
+00:11:09,420 --> 00:11:16,040
+According to federal government data, there are some 3,845 non-Tesla DC fast chargers
+
+141
+00:11:16,040 --> 00:11:17,300
+in the US.
+
+142
+00:11:17,300 --> 00:11:21,860
+The vast majority of which could charge a Model 3 within an hour—assuming it could
+
+143
+00:11:21,860 --> 00:11:23,020
+connect.
+
+144
+00:11:23,020 --> 00:11:29,200
+Just as there was a format war in the 1880s between DC and AC power, there is now a war
+
+145
+00:11:29,200 --> 00:11:31,060
+of charging standards.
+
+146
+00:11:31,060 --> 00:11:36,540
+Take the example of Salina, Kansas—a small city off of Interstate 70, which most people
+
+147
+00:11:36,540 --> 00:11:40,600
+only visit to refuel or, in this case, recharge.
+
+148
+00:11:40,600 --> 00:11:45,940
+This supercharger uses Tesla's proprietary plug, this Electrify America station uses
+
+149
+00:11:45,940 --> 00:11:51,940
+CCS and CHAdeMO plugs, and this hotel's charger uses a J1772 plug.
+
+150
+00:11:51,940 --> 00:11:55,940
+There are four different plug types in one small city.
+
+151
+00:11:55,940 --> 00:12:02,220
+Now, a Tesla could use the Tesla charger and the J1772 charger with an included adapter,
+
+152
+00:12:02,220 --> 00:12:07,060
+but it could only use the CHAdeMO charger with a speed-limited $540 adapter, and it
+
+153
+00:12:07,060 --> 00:12:11,500
+couldn't use the CCS charger at all, as there's no adapter for that plug type.
+
+154
+00:12:11,540 --> 00:12:16,980
+Meanwhile, a Chevy Volt EV wouldn't be able to use the Tesla or CHAdeMO chargers at all
+
+155
+00:12:16,980 --> 00:12:21,160
+as there are no adapters for either to its CCS plug.
+
+156
+00:12:21,160 --> 00:12:26,100
+That means that, to accommodate every vehicle type, DC fast chargers need to have three
+
+157
+00:12:26,100 --> 00:12:31,660
+different plug types, which, overwhelmingly, they just don't.
+
+158
+00:12:31,660 --> 00:12:35,260
+Especially along interstate highways, there are the Tesla stations, and there are the
+
+159
+00:12:35,260 --> 00:12:38,420
+combo CHAdeMO and CCS stations.
+
+160
+00:12:38,460 --> 00:12:42,140
+While vehicles like Edison and Westinghouse delayed more widespread adoption of electric
+
+161
+00:12:42,140 --> 00:12:47,380
+power by competing against each other in these same areas with their different, incompatible
+
+162
+00:12:47,380 --> 00:12:52,100
+AC and DC standards, different stakeholders in the electric vehicle market are competing
+
+163
+00:12:52,100 --> 00:12:58,100
+against each other in the US to create redundant, largely incompatible networks.
+
+164
+00:12:58,100 --> 00:13:00,920
+But that's not happening everywhere.
+
+165
+00:13:00,920 --> 00:13:04,820
+You see, in Europe, CCS is the standard.
+
+166
+00:13:04,820 --> 00:13:10,060
+The European Union has a directive, which means that many member states, by law, require
+
+167
+00:13:10,060 --> 00:13:14,820
+that public DC fast chargers include a CCS plug.
+
+168
+00:13:14,820 --> 00:13:20,300
+Therefore, in the EU and neighboring countries like the UK, Norway, and Switzerland, CCS
+
+169
+00:13:20,300 --> 00:13:23,980
+is now the de facto or de jure charging standard.
+
+170
+00:13:23,980 --> 00:13:29,320
+That forced Tesla's hand to the point that in 2018, it retrofitted all its existing superchargers
+
+171
+00:13:29,320 --> 00:13:35,040
+with CCS plugs, switched its Model 3s to CCS, and released an adapter allowing its other
+
+172
+00:13:35,040 --> 00:13:37,680
+models to use CCS chargers.
+
+173
+00:13:37,680 --> 00:13:43,160
+All told, this means that pretty much any car in Europe can use pretty much any DC fast
+
+174
+00:13:43,160 --> 00:13:44,160
+charger.
+
+175
+00:13:44,160 --> 00:13:49,160
+That, combined with Europe's higher population density, has helped ensure that the density
+
+176
+00:13:49,160 --> 00:13:55,920
+and coverage of DC fast chargers is much greater than in the US, despite the fact that EV ownership
+
+177
+00:13:55,920 --> 00:14:00,640
+per capita is actually higher in the US than Europe as a whole, although certain European
+
+178
+00:14:00,640 --> 00:14:03,320
+countries far eclipse the US's rate.
+
+179
+00:14:03,320 --> 00:14:07,640
+Europe is almost identical in size to the US—it has a very similar number of electric
+
+180
+00:14:07,640 --> 00:14:13,440
+cars overall—but it has double the number of DC fast charging stations.
+
+181
+00:14:13,440 --> 00:14:20,460
+In Germany, the furthest you can seemingly get from a DC fast charger is here, in Winterberg.
+
+182
+00:14:20,460 --> 00:14:25,580
+From this small ski town, the nearest fast charger is about 30 miles or 50 kilometers
+
+183
+00:14:25,580 --> 00:14:27,300
+away in Marburg.
+
+184
+00:14:27,300 --> 00:14:33,140
+Meanwhile, in the US, if you wanted to drive directly from Dallas to Denver, to major American
+
+185
+00:14:33,140 --> 00:14:37,060
+cities, using a base model Tesla Model 3, you just couldn't.
+
+186
+00:14:37,060 --> 00:14:44,820
+There's a 226 mile or 363 kilometer stretch with no DC fast charger between Amarillo,
+
+187
+00:14:44,820 --> 00:14:50,540
+Texas, and Trinidad, Colorado, which, given the elevation gain, the car would not make.
+
+188
+00:14:50,540 --> 00:14:55,460
+While Tesla is plugging this gap soon with a new charger in Clayton, New Mexico, that
+
+189
+00:14:55,460 --> 00:15:00,260
+won't solve the problem for every single other EV on the market, since the charging
+
+190
+00:15:00,260 --> 00:15:02,780
+systems are not compatible.
+
+191
+00:15:02,780 --> 00:15:08,400
+Simply put, mass-market consumers are not going to buy cars that can't drive from
+
+192
+00:15:08,400 --> 00:15:10,460
+Dallas to Denver.
+
+193
+00:15:10,460 --> 00:15:15,900
+What Europe has that the US does not is coordinated government plans.
+
+194
+00:15:15,900 --> 00:15:21,000
+Germany's federal government, for example, builds its own charging stations, in addition
+
+195
+00:15:21,000 --> 00:15:25,180
+to offering strong incentives for private companies to do so as well.
+
+196
+00:15:25,180 --> 00:15:29,900
+Meanwhile, the federal government in the US has done very little to incentivize fast charger
+
+197
+00:15:29,900 --> 00:15:34,180
+construction, and certainly does not have a network of its own.
+
+198
+00:15:34,180 --> 00:15:39,180
+Certain states, such as Oklahoma or Colorado, do have strong coordinated government programs
+
+199
+00:15:39,180 --> 00:15:44,040
+to build fast charging infrastructure, meaning even shorter range EVs can drive essentially
+
+200
+00:15:44,040 --> 00:15:48,400
+anywhere in each state without encountering a fast charger gap, but the problem is that
+
+201
+00:15:48,400 --> 00:15:53,460
+EV drivers from Colorado or Oklahoma will eventually want to drive through Kansas, or
+
+202
+00:15:53,460 --> 00:15:58,940
+Nebraska, or Wyoming, or other states that do not have a coordinated plan.
+
+203
+00:15:58,940 --> 00:16:04,800
+The US federal government clearly wants people to buy EVs because it offers hefty tax credits
+
+204
+00:16:04,800 --> 00:16:10,400
+to those who do so, but people are not going to buy EVs without the charging infrastructure
+
+205
+00:16:10,400 --> 00:16:11,880
+to support it.
+
+206
+00:16:11,880 --> 00:16:17,120
+EVs are comparable in cost to internal combustion cars, their range is about what consumers
+
+207
+00:16:17,120 --> 00:16:21,920
+demand, but what's lagging behind is that charging infrastructure.
+
+208
+00:16:21,920 --> 00:16:25,360
+This isn't even an exclusively American problem.
+
+209
+00:16:25,360 --> 00:16:29,640
+In Australia, one can't drive from Perth to Sydney, the country's fourth and first
+
+210
+00:16:29,640 --> 00:16:35,880
+most populous cities, in an EV due to a massive charging gap, while in Russia, despite similar
+
+211
+00:16:35,880 --> 00:16:43,800
+incentives for EV purchases, there are a total of 24 DC fast chargers in the entire country.
+
+212
+00:16:43,800 --> 00:16:48,140
+Of course some will always debate whether governments should be incentivizing electric
+
+213
+00:16:48,140 --> 00:16:51,760
+vehicles at all, but regardless of that, they are.
+
+214
+00:16:51,760 --> 00:16:57,000
+It's tough to find a developed country that does not have some tax or other monetary incentive
+
+215
+00:16:57,000 --> 00:16:58,960
+for EV ownership.
+
+216
+00:16:58,960 --> 00:17:02,240
+The point is that they're incentivizing the wrong way.
+
+217
+00:17:02,240 --> 00:17:10,160
+EVs are very, very close to reaching the tipping point criteria for everything but charging.
+
+218
+00:17:10,160 --> 00:17:14,640
+Cost is not standing in the way, technology is not standing in the way, infrastructure
+
+219
+00:17:14,640 --> 00:17:18,760
+is, so governments are putting the cart before the horse.
+
+220
+00:17:18,760 --> 00:17:23,520
+Individual companies cannot reach the required scale, and even if they did, as the format
+
+221
+00:17:23,520 --> 00:17:28,500
+war in the US proves, it probably wouldn't be the kind of scale that the mass-market
+
+222
+00:17:28,500 --> 00:17:30,720
+consumer demands.
+
+223
+00:17:30,720 --> 00:17:35,120
+Individual car companies can deal with making individual electric vehicles attractive to
+
+224
+00:17:35,120 --> 00:17:36,120
+consumers.
+
+225
+00:17:36,120 --> 00:17:41,640
+The government doesn't need to worry about that, but infrastructure—that's the government's
+
+226
+00:17:41,640 --> 00:17:42,640
+job.
+
+227
+00:17:42,640 --> 00:17:49,640
+Governments run or regulate roads, and bridges, and tunnels, and sidewalks, railways, airports,
+
+228
+00:17:49,640 --> 00:17:55,280
+electric grids, dams, sewers, water supply networks, and even fuel supply systems—because
+
+229
+00:17:55,280 --> 00:18:02,040
+they are infrastructure, and infrastructure is essential, so the only question is, why
+
+230
+00:18:02,040 --> 00:18:04,160
+not charging?
+
+231
+00:18:04,160 --> 00:18:10,180
+So, as you might have guessed by now, I own an electric vehicle, so I took it to my local
+
+232
+00:18:10,180 --> 00:18:15,440
+Tesla Supercharger to make a companion video to this where I give a super detailed, super
+
+233
+00:18:15,440 --> 00:18:21,080
+nerdy explanation of exactly how a supercharger works from a technical perspective.
+
+234
+00:18:21,080 --> 00:18:26,600
+You can find that companion video exclusively on Nebula which, as you probably know by now,
+
+235
+00:18:26,600 --> 00:18:32,840
+is home to tons of exclusive, ad-free content from tons of your favorite educational creators.
+
+236
+00:18:32,840 --> 00:18:37,880
+The reason we can put companion videos like this there is because of the way Nebula works—it
+
+237
+00:18:37,880 --> 00:18:41,520
+doesn't have an algorithm to punish us when we make something different from our normal
+
+238
+00:18:41,520 --> 00:18:46,200
+stuff, and the direct subscriptions from users help fund both these and other projects,
+
+239
+00:18:46,200 --> 00:18:48,220
+like our many Nebula originals.
+
+240
+00:18:48,220 --> 00:18:52,520
+If you're interested in watching all this exclusive content, plus supporting loads of
+
+241
+00:18:52,520 --> 00:18:58,360
+independent, educational creators, you can sign up using the CuriosityStream Nebula bundle.
+
+242
+00:18:58,360 --> 00:19:03,520
+Basically, you go to curiositystream.com slash wendover, sign up for any subscription, but
+
+243
+00:19:03,520 --> 00:19:07,720
+I suggest the yearly one since it's on sale for less than $15 a year right now, and then
+
+244
+00:19:07,720 --> 00:19:11,040
+you have access to both streaming sites.
+
+245
+00:19:11,560 --> 00:19:15,320
+CuriosityStream itself has great stuff too from more established names like Richard Hammond,
+
+246
+00:19:15,320 --> 00:19:20,080
+of Top Gear and Grand Tour, who made a series about how weather actually works by going
+
+247
+00:19:20,080 --> 00:19:22,000
+into extreme weather.
+
+248
+00:19:22,000 --> 00:19:26,280
+All told, CuriosityStream is great thanks to their seemingly endless library of top
+
+249
+00:19:26,280 --> 00:19:31,160
+quality stuff, and Nebula is great thanks to its exclusive, early, and ad-free videos
+
+250
+00:19:31,160 --> 00:19:34,880
+from the educational creators you already know and love.
+
+251
+00:19:34,880 --> 00:19:39,320
+CuriosityStream and Nebula together is greater than great, though, because it's only $15
+
+252
+00:19:39,320 --> 00:19:44,400
+a year with the current sale at curiositystream.com slash wendover.
+

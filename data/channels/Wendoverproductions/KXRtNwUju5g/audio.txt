@@ -1,0 +1,257 @@
+This video was made possible by Hover.
+Professionalize your web presence with a custom email address for 10% off at hover.com slash
+Wendover.
+This is the two-page document that changed the world.
+It's what's referred to as a notification to the World Trade Organization Committee
+on Technical Barriers to Trade—a type of document that, to anyone in the know, is thoroughly
+mundane.
+In fact, every few hours another such notification enters the WTO system, each signifying that
+yet another country wants to make yet another change to its rules regarding the import or
+export of goods or services.
+This particular notification, though, submitted on July 18th, 2017, managed to send the entire
+global recycling industry into a tailspin—or possibly even a death spiral.
+But simply, this document broke the world's recycling system.
+But here's how it worked before this document.
+Let's say a woman in Littleton, Colorado has yogurt for breakfast.
+The yogurt is packaged in a thin polypropylene plastic container and so, once finished, she
+disposes of it into her recycling bin.
+This is then picked up by a recycling truck a few days later and brought here to the local
+recycling company's Materials Recovery Facility.
+There, this yogurt container, along with all the rest of the single-stream recycling picked
+up that day, is dumped out and placed into this semi-automated sorting system.
+Some products are simple to isolate—most metals, for example, can be picked up by magnets
+while paper and cardboard can be easily sorted by density as they're typically lighter
+than other recyclables.
+Glass, plastics, and non-magnetic metals are a little more difficult to sort, but each
+looks quite distinct, so optical scanners operate blowers or other diversion tools that
+are able to sort these out.
+With a few more steps, the facility is more or less left with just plastic, but that's
+where things get difficult.
+Plastic comes in all sorts of shapes, sizes, and types, and different shapes, sizes, or
+types of plastic are recycled in different ways.
+Optical sensors start out by at least accomplishing a high-level sort, though.
+For example, in many US states, plastic bottles are sold with a five or ten cent deposit,
+meaning that recycling companies put a lot of effort into recovering those from the mix,
+as they can be sold for, at least relative to the other plastics, a lot.
+They also put a lot of work into recovering certain plastic types, such as high-density
+polyethylene, as this both sells for more and is easier to sort out of the mix since
+it's typically used to make larger items like plastic crates, shampoo bottles, and
+other products where sturdiness matters.
+The polyethylene and other higher-value plastics are quite accurately sorted and then melted
+down into bulk raw plastic which is resold to manufacturers.
+Certain other plastics, though, have a negative value—they can't be sold, and in fact,
+it would take so much work to turn them into usable raw material that recycling companies
+would have to pay someone to take it off their hands.
+Typically falling into this category are smaller items like bottle caps, plastic bags, and
+other scraps below three inches or eight centimeters in width that just can't be easily sorted
+by automated systems.
+These are then aggregated together and, at best, used to generate electricity through
+incineration or, at worst, are just sent to a landfill.
+So, to summarize, there's high-value plastic that's recovered immediately, negative-value
+plastic that's either incinerated or sent to a landfill, and then there's a third
+category in between those two, and that's where things get interesting.
+Anything that isn't small and unrecoverable or large and valuable is typically mixed together
+and formed into big bales of unsorted, medium-size, medium-value plastic that effectively have
+a neutral value on the free market.
+The raw materials in these bales, known as MRF residuals, is not quite valuable enough
+to pay for the sorting process they would need for recycling, which leads to their neutral
+value—at least, in the US.
+Whenever it takes its trip through the Materials Recovery Facility, that yogurt container from
+Littleton, Colorado would, if properly sorted, end up in one of these MRF residual bales.
+These are then loaded into the back of a semi-truck driven 1,000 miles to the port of Long Beach,
+California.
+There, the bales are officially exported from the US, loaded into a shipping container,
+and placed on an enormous, yet empty, Hong Kong-bound cargo ship.
+Now, with this knowledge, some might ask a question—how on earth did we end up with
+this system, theoretically designed to reduce our impact on the world, where our waste is
+shipped across the world?
+To that, there's actually a surprisingly specific answer.
+Decades ago, in 1969, the first national conference on packaging waste convened, and in that room
+were a number of plastics industry executives.
+Throughout that event, they heard municipal leaders from around the country express their
+concern about just how permanent plastic was.
+Back then, the material was becoming cheaper and cheaper and was quickly gaining prominence
+in the packaging world, but this mounting concern among municipal leaders itself led
+to mounting concern among plastics executives.
+They came to believe that this plastic hesitancy would quickly become an existential threat
+for the industry's growth, so plastics knew they needed a solution.
+They needed a way to make plastic sustainable.
+The problem?
+There wasn't one.
+So, backup option.
+Rather than creating a real solution, they willfully and knowingly created and propagated
+a system that didn't work, but looked like a solution—recycling.
+From a technical standpoint, you can sort, melt down, and reuse plastic, thereby reducing
+its impact on the world, but that's not why it doesn't work.
+From a social perspective, people do often do their part and, at least somewhat, separate
+their trash from recycling, but that's also not why it doesn't work.
+Why recycling doesn't work is because, overall, it's not profitable.
+It's very simple—oil is cheap, at least now, and when oil is cheap, making new plastic
+is cheap.
+Meanwhile, sorting, transporting, and melting down existing plastic is expensive.
+In 2017, virgin PET plastic cost about $0.54 per pound, while recycled PET cost about $0.63
+per pound and was lower quality than the alternative.
+Therefore, demand for recycled PET was low, so waste management companies couldn't turn
+a profit turning used PET into raw, recycled PET at scale.
+When companies can't make a profit recycling, it doesn't happen—or, at least not at
+the rates needed to make the plastics industry sustainable.
+For the plastics industry, though, all they needed was the perception of sustainability
+and, even though a big chunk of what went into a recycling bin ended up not recycled,
+consumers and municipal leaders were happy because they believed that the plastic they
+consumed was guilt-free.
+That's how that yogurt container tossed in Littleton, Colorado ended up on a boat
+to Hong Kong.
+Now, the rule just mentioned is still valid—plastic is only recycled when it's profitable—but
+for a brief moment in time, it was, all thanks to a trifecta of economic conditions in China.
+First, shipping was incredibly cheap.
+Western nations like the US have long had a significant trade deficit with China—essentially,
+America buys far more from China than China does from America.
+That means that cargo ships from Greater China travel to the US almost completely full, but
+then return with plenty of extra capacity, meaning shipping rates to China are far lower
+than shipping rates from China.
+Thanks to that, you could get one of those MRF residual bales across the Pacific for
+next to nothing.
+In addition to this, since the 1980s, China has been riding its way through an unprecedented
+phase of economic growth.
+This was so dramatic that the company's industries literally could not find enough
+raw materials, including plastic, to fulfill their demand.
+Therefore, with constrained supply and high demand, even recycled plastic prices went
+up, giving the recyclers in the country more room to cover costs.
+In addition, especially in more rural areas, wages were low in China.
+Those MRF residual bales are composed of those difficult-to-sort plastics, but humans can
+sort just about anything profitably, as long as their wages are low enough.
+So, all in all, considering shipping to China was effectively free, and raw materials were
+higher, and wages were low, the equation just happened to work out that in the late 90s,
+2000s, and early 2010s, sorting and recycling MRF residual bales in China was just ever-so-slightly
+profitable.
+That's why, upon arrival into Hong Kong, the plastic yogurt container disposed of in
+Lyttelton, along with everything else in these bales, is immediately transferred onto a smaller
+barge and re-exported out of Hong Kong for a short journey across the Pearl River Delta
+to the Guangdong province in mainland China.
+Then, after an 8,000 mile, 13,000 kilometer journey to the other side of the world, it
+ends up at its final destination.
+The Wellpine Plastic Industrial Company, just outside Guangzhou.
+There, the bales are unloaded, spread out, and low-wage workers manually sift through
+the contents, eventually finding that yogurt container and putting it in a pile along with
+the rest of the polypropylene plastics.
+From there, the polypropylenes are melted down, purified, and reformed into pallets
+which then, eventually, are sold in bulk to another manufacturer, somewhere else in China,
+for a very, very slight profit.
+Now, this whole system, of taking effectively valueless MRF residual bales and shipping
+them across the world to a place where they did have a very slight positive value, worked.
+It was intelligent, it wasn't clean, but it worked, and that's how, for a few decades,
+the Western World Recycling System functioned.
+The most valuable stuff was sorted and sold domestically, the valueless stuff was exported
+to where it had value in China, and the stuff with a negative value was sent to the landfill
+or incinerated.
+But then came that document.
+The notification to the World Trade Organization Committee on Technical Barriers to Trade.
+All this said was that China would, starting at the end of 2017, ban the import of 24 products
+covered under these HS codes—the numerical classifications used to simplify international
+trade.
+These particular five, though, were the ones that created this big problem for the plastics
+industry.
+They translate to waste, pairings, and other scrap of polymers of ethylene, of polymers
+of styrene, of polymers of vinyl chloride, of polyethylene glycol terephthalate, and
+other waste, pairings, and scraps of plastics.
+Effectively, by banning these five HS codes, they banned the import of almost all plastic
+waste.
+As a result, the country's 2018 plastic import volume dropped 99.1% compared to 2017—this
+massive, global industry quite literally ended overnight.
+Now, while the true reasoning behind any Chinese government decision is always elusive, at
+least according to this document, it was that the import of these products was creating
+a serious environmental and public health problem.
+This is likely true.
+As MRF residual bales are, by their very nature, unsorted, they often included hazardous materials
+that could seriously harm those sorting them, and this went on to cost the government since
+the government runs much of the country's healthcare system.
+In addition, the sorting facilities in China would often illegally dump the portion of
+the plastics that even they couldn't profitably recover, creating an environmental problem
+that the government had to pay to clean up.
+Therefore, while the private companies that actually sorted and processed these MRF residual
+bales turned a slight profit, China as a nation was losing money by processing the world's
+trash.
+So, essentially, even though it looked like plastic recycling was profitable, once the
+externalities were priced in, it once again became clear that plastic recycling was not,
+in fact, a viable system.
+That's why China issued this document, that's why they banned plastic waste import, and
+that's why the world's recycling system broke.
+Nowadays, when a woman in Littleton, Colorado throws her yogurt container into the recycling
+bin, the journey that ensues is often far, far shorter.
+First, as before, it's picked up by a truck, brought to a materials recovery facility,
+sorted down, and packed into one of those MRF residual bales, but after, there are now
+three main options.
+The first is that it's exported, as before, but not to China.
+In response to the import ban, Malaysia tripled their plastic import volume between 2017 and
+2018, becoming the largest processor in the world, and some other nearby low-wage countries
+ramped up as well.
+Eventually, though, these countries will undoubtedly realize what China did—processing MRF residual
+bales may be profitable to a company, but not to a country.
+The amount of health and environmental issues it creates in the long run costs more than
+the industry makes.
+Even despite the alternate plastic export options, the US's export volume, which includes
+more than just MRF residual bales, still dropped by a third between 2017 and 2018.
+There was just no one who would take these bales, even for free, since with the removal
+of China from the market, very few companies could turn a profit processing them, even
+outside the US.
+The global value of one of these bales went from slightly positive to clearly negative,
+and remember, recycling only works when it's profitable.
+Therefore, with far fewer buyers, MRF residual bales piled up and up until eventually, the
+waste processors gave up and put them into the same category as bottle caps, scraps,
+and those other small, unrecoverable, unprofitable pieces of plastic.
+Now, when you put something into one of those big blue bins that are supposed to lead to
+a second life for your waste, it ends up, more often than not, in the incinerator or
+landfill.
+Plastic recycling, with the exception of those few highest value items, is now definitively
+broken.
+But here's the thing—it was always broken.
+Plastic recycling, with limited exception, never generated more money than it cost, and
+so it was never economically sustainable.
+The China system was just a blip, thanks to a unique set of economic circumstances and
+a government that didn't yet recognize the cost of the industry's externalities.
+That puts the plastics industry back where it was in 1969—people are starting to realize
+that there is no way to make plastic sustainable.
+There are some half-solutions—some scientists are working to develop an enzyme that can
+eat plastic in a matter of days, and others are trying, using chemical processes to break
+it down into its raw components, but the recycling problem is not a technical one.
+Actually performing the process of taking what's disposed of by consumers, sorting
+it, and melting it down into new raw materials is easy.
+What's not is the economics.
+The recycling problem is an economic one, and you can only solve economic issues with
+economics.
+The true solution is simple—either the cost of recycling has to come down, or the price
+of raw recycled plastic has to go up.
+What's going to fix recycling is when it generates more money than it costs, but making
+that happen will take quite a lot.
+If enough consumers, for example, buy products that use recycled plastic, rather than a direct
+alternative that uses the virgin variant, market forces will work out in a way that,
+eventually, once critical mass is attained, what companies lose from customers choosing
+more sustainable alternatives is more than what they lose from paying to swap to more
+expensive, lower quality recycled plastic.
+Plastics recycling, as a system, was never created to make the world a better place.
+Rather, it was created by the plastics industry to plug a hole in their system.
+It was created to propagate a false belief that consumption could be sustainable, so
+the only way to stop plastic from overwhelming our oceans, polluting our land, and making
+the world a worse place to live in, is to shut the system, the entire system, down.
+So, I get a lot of emails—from potential sponsors, companies that want my business,
+and other professionals.
+I can tell you from personal experience that the biggest red flag for me in cold-call emails
+is when the address ends in Gmail, iCloud, Yahoo, or another generic provider's domain.
+Anyone could create that email in a few seconds, so I have no idea if the person is who they
+say they are.
+Simply put, if you don't have a professional-looking email address, people won't think you're
+professional.
+Whether you're running a small business, going through school, or doing anything else
+where you have to send and receive emails, customizing yours with your own domain extension
+is the way to go, and Hover makes it incredibly easy.
+First, you just search and find a custom domain, and they help you get a super unique one thanks
+to their over 400 extensions, and then you take that domain, which you could also use
+for your website, and add an email account to it.
+You could, quite literally, have a new professional email in about two minutes, and I can personally
+attest to how easy Hover makes it since they're what I've used for all my business emails
+for years.
+Making it even easier, Hover is offering Wendover viewers 10% off their first purchase by going
+to hover.com slash wendover, and, with their already super reasonable prices, this makes
+getting a custom email a true no-brainer.
+So, to step up your email game for 10% off, and help support this channel, head over to
+hover.com slash wendover.

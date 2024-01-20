@@ -1,0 +1,444 @@
+More than eight years have passed since I uploaded the very first video to this channel,
+and the world was a very different place back in 2015.
+Brexit and a Trump presidency both felt like longshots, the term Coronavirus was only known
+by epidemiologists and crossword aficionados, same-sex marriage had just been legalized
+nationwide in the US, Netflix and other streamers were only just starting to threaten cable
+supremacy, TikTok's Chinese predecessor didn't even exist yet.
+The eight years since the start of this channel have been extremely consequential in ways
+we almost certainly don't yet fully understand.
+Often the way we think about a Wendover video is not as the news of the day or week or month,
+but rather the news of the year.
+We try to cover some of the most consequential changes going on in the world that might be
+easy to miss due to how gradually they're unfolding, but with enough time, even the
+news of the year changes.
+So today, as our last video of this year, we're going to be revisiting nine of our
+most popular videos to look at what's different and what isn't, starting with a rare yet
+encouraging case where we call out a problem, and then that problem actually starts to get
+fixed.
+Three years ago, we released a video called The Electric Vehicle Charging Problem.
+It argued that perhaps the biggest barrier to greater EV adoption was the charging infrastructure,
+rather than the cost of the vehicles themselves, meaning governments would find that incentivizing
+cheaper construction would be a better use of their money than offsetting the purchase
+price of cars, as was the incentive norm at the time.
+Shortly after, quite a lot changed—for the better.
+In 2022, Congress passed the Inflation Reduction Act, including $5 billion for the construction
+of 500,000 fast chargers by 2027.
+An additional $2.5 billion was allocated to the brand new Charging and Fueling Infrastructure
+Discretionary Grant program, which will give money directly to cities, tribes, and local
+governments over the next five years to build even more chargers, essentially solving the
+EV charging problem by addressing it from the top down and bottom up.
+Already, America's chargers have nearly doubled in number since 2019.
+But just because a station has been built doesn't mean it's working.
+A consistent sticking point with the country's existing infrastructure has been its unreliability.
+Charging a battery with hundreds of kilowatts of energy is vastly more complicated than
+filling up a gas tank, as consistent, reliable charging requires a large DC power source,
+functioning connectors and receptors, credit card readers, and touch screens, unlike gas
+stations, which only require working pumps and credit card readers to dispense fuel that's
+then ignited.
+The problem is, the largest charging networks for non-Tesla electric vehicles are run by
+EVGo and Electrify America, which were both born begrudgingly—EVGo for NRG Energy to
+gain regulatory compliance, and Electrify America as part of Volkswagen's Emissions
+Gate settlement.
+Therefore, they've not always been the most customer-friendly, and each has been criticized
+for a high number of non-working chargers, which can strand drivers due to limited alternatives,
+but to help solve the issue, the Biden administration allocated an additional $100 million this
+year for EV infrastructure repairs.
+And there's good news for consumers who have issues with Combined Charging System,
+or CCS plugins.
+CCS has emerged as the dominant non-Tesla charging port standard in the US, but that
+means there are two redundant yet still sparse systems of chargers—one for Tesla drivers
+and one for everyone else.
+But following a flurry of announcements, from 2025 on, nearly all North American EV
+manufacturers will adopt the Tesla, now known as the North American Charging Standard, which
+they argue is better for consumers.
+Millions will be able to access Tesla's nationwide charging network before the Inflation
+Reduction Act's chargers are complete.
+The Tesla charging port is objectively more user-friendly than the CCS port—it's less
+than half the size, plugs in easier, and can alternate between supplying AC and DC energy.
+Plus, Tesla must open its charging network to non-Tesla EVs to qualify for funding from
+the Inflation Reduction Act, which means consumers with pre-existing CCS ports can tap in to
+an increasing number of Tesla chargers with retrofitted dual ports already.
+On the other side of the globe, nearly two years after we released our video titled The
+Failed Logistics of Russia's Invasion of Ukraine, Ukrainians are still in the midst
+of a war with Russia.
+In the invasion's opening weeks, we covered how logistics failures were a major cause
+of Russia's unexpected failure to capture Kiev, and having identified this weakness,
+Ukraine went on to strategically target Russian logistics infrastructure as the war continued.
+As the saying goes, amateurs talk strategy, professionals talk logistics, when it comes
+to warfare.
+This is helping Ukraine maintain their ground against the comparatively massive Russian
+military.
+Ukraine's primary strategy has involved splitting its troops and tanks equally between
+its eastern and southern borders to find and exploit cracks in Russia's defenses.
+Since March 2022, Ukrainian forces have reclaimed half of the territory taken by Russia, from
+here to here.
+In fact, Russian forces were forced to pivot their strategy after the opening days of the
+war, and later abandoned its northern front here, as their logistical hurdles there had
+become too difficult to overcome.
+Because Russia can't get frontline supplies far into Ukraine, they've had to rely on
+civilian vehicles to transport goods and switch from long-range missiles to unguided munitions,
+as they ran low on precision missiles after failing to overtake Ukraine's forces in
+the opening days of the war.
+Where Russia still holds land in eastern Ukraine, they've erected miles of blockades that
+essentially require brute force, rather than guerrilla warfare, to reclaim.
+They planted tens of thousands of mines and built miles of concrete barriers, which along
+with strategic vehicle traps, stalled Ukraine's counteroffensive for months.
+Russia's been able to hold out so long because of its ability to acquire weapons and vehicles
+for the front lines, in spite of its needs-averse pull military strategy.
+Russia still has the upper hand for artillery, as they fired an estimated 10 to 11 million
+rounds last year with their manufacturing and transportation capacities, which means
+Ukraine is still dependent on Western countries for supplies.
+Ukraine's logistics could also be threatened by its other enemy—corruption.
+President Zelensky has continually replaced cabinet officials and military officers, as
+well as the nation's defense minister, to stave off an endemic problem until the war
+ends.
+Here on St Helena, things have changed as much as they can on a remote Atlantic island
+since we released our documentary, The World's Most Useful Airport, in 2019.
+It covered how runway design issues meant St Helena could never get the flights it truly
+wanted—a direct connection to London, its capital.
+This would have both allowed for easier trips to locals to visit family, and easier trips
+for the likeliest inbound tourist market.
+Well, St Helena finally got London flights—just not exactly in the form it wanted.
+You see, as COVID shut down borders globally, it became impractical and financially infeasible
+for the commercial airline, Aerling, to continue to fly flights from its hub in Johannesburg,
+leaving the island without air service—but St Helena still needed air service to keep
+supplies and people going in and out.
+Therefore, non-stop flights began from London—albeit only every three weeks, paid for by the government,
+and only with the select few passengers cleared to come to the island.
+You see, thanks to its isolation and severe border restrictions, in 2021, St Helena was
+one of just three jurisdictions globally to have avoided even a single COVID case.
+After all, individuals could only enter after a 14-day quarantine, negative PCR test, and
+constant masking.
+St Helena's extreme isolation worked to its advantage during a global pandemic, as
+it kept its 4,500 islanders safe, yet it got in the way of its mission to grow a self-sustaining
+tourism economy, as its two hotels shuttered for over a year.
+In September 2022, though, St Helena dropped its vaccination, masking, and quarantine policies,
+and as a promising sign of rebound, recently announced that a second weekly flight will
+resume flying from Johannesburg to St Helena every Tuesday.
+And as tourism works to rebound, St Helena hit another major milestone that could transform
+its economy and relationship with the outside world—it was finally connected to fiber-optic
+internet.
+Since 1989, the island has relied on a single satellite dish to carry all internet transmissions.
+Because St Helena is so small, it's held out with this slow, sometimes sporadic satellite
+dish for quite a long time, which has made islanders beholden to a telecom monopoly,
+Shur.
+As Shur was the only internet and TV provider, they set higher than average prices, even
+charging islanders 600% premiums for any additional data usage incurred, despite the inherent
+limitations of internet speeds routed through a single dish.
+Therefore, while islanders had practical access to email and web browsing, it was perhaps
+one of the last places on earth where innovations like web streaming and calls were an impractical
+luxury.
+But, in 2018, the European Union granted the island 21.5 million euros as part of its European
+Development Fund to construct and maintain an undersea fiber-optic cable capable of transmitting
+80 terabits per second.
+Essentially, St Helena paid Google to construct a branch of the tech giant's Aquano cable,
+which goes from here to here along the coast of Africa.
+To offset the costs, the island plans to develop a satellite ground station business, working
+with companies like Starlink to use their unique geographic position to link satellites
+passing over the area of the Atlantic to the wider internet through the cable.
+It's a project that will change the island physically, economically, and culturally.
+St Helena will have the necessary infrastructure to support a strong, consistent internet connection,
+with its extra data transmissions generating extra revenue.
+It's a viable project model that other remote islands, like Tristan da Cunha, could also
+replicate, with the cable now up and running and in beta testing.
+So, as decisive as this decade will be for St Helena, it's already proven to be unparalleled.
+While interconnectedness is now ushering in a new, more prosperous era in St Helena's
+story, the pandemic, meanwhile, exposed the vulnerabilities of globalization.
+We all remember the supply chain crisis—it crippled the industrial sector globally and
+left consumers without products, as well as a lot of ships, out at sea.
+Increased demand, bottlenecked ports, price increases, and more set this off, and then
+each was magnified by the COVID-induced labor shortage.
+But, when we first talked about this in our video, Why There Are So Many Shortages, we
+called out the real Achilles heel of the sector—just-in-time manufacturing.
+Businesses operated using the traditional just-in-case manufacturing model until the
+1980s, building up inventories at each step in the process to assure the next phase wouldn't
+be disrupted, even though they might exceed demand.
+Eventually, though, manufacturers realized that all this surplus inventory was costing
+them, reducing profit.
+To disrupt that, a new model, introduced and developed by Toyota, shifted the process to
+just-in-time.
+Among other benefits, it freed up storage space and cash, and it worked… until it
+didn't.
+When labor shortages struck and cross-specific container movements slowed down, it caused
+shipping delays and manufacturers weren't getting their parts just-in-time.
+The crisis exposed a weakness in the just-in-time supply chain, so now, two years on, companies
+are adapting.
+Even though its causes and repercussions are weakening, the possibility of future disruptions
+from events such as war or climate change are risks that businesses are increasingly
+realizing they're not willing to take.
+Instead of reverting back to one specific model, they're pulling pieces from several
+and customizing their supply chains to work for them.
+Take Volkswagen, for example.
+When the disruptions of 2022 hit, the company saw a 7% decline in vehicles delivered, partially
+due to the global semiconductor shortage.
+Today, the company has not only diversified its semiconductor sourcing, expanding beyond
+South Korean manufacturers and partnering with both European supplier STMicroelectronics
+and Taiwan's TSMC, but has also set up an in-house cross-reference system to identify
+shortages before they happen and find alternatives to silicon semiconductor chips.
+This safety net is even more critical with the increasing market share of semiconductor-heavy
+electric vehicles.
+But building supply chain resiliency goes beyond just diversifying and sourcing alternatives.
+Companies are also bringing operations geographically closer to home, called nearshoring, so they're
+less exposed to global forces.
+This is seen in the major migration of what was once Chinese manufacturing to Mexico,
+as we covered in another video this year, which makes for shorter delivery times to
+the US and Canada, easier quality control, and better supply chain resiliency due to
+the LAN connection.
+To continue playing the supply chain game, companies are also buffering or double-sourcing
+where they can by identifying critical pieces, say a semiconductor chip in the supply chain,
+and they're short-gaming the system by stockpiling just that specific part.
+And of course, if AI wasn't part of the solution, then it wouldn't be 2023.
+Companies are using smart technology to stop woes before they start.
+AI can analyze output models and predict where a bottleneck or disruption may occur,
+and it can also keep a running inventory and automatically reorder parts when they run
+low.
+Back in 2017, when we talked about the Little Plane War, it was following an intense corporate
+volley between Bombardier and Embraer, two medium-sized companies manufacturing mid-haul
+planes, and subsequently two very large companies, Boeing and Airbus, who wanted a piece of that
+market.
+The problem was that neither Bombardier nor Embraer had an in with the American commercial
+aircraft market, the most lucrative in the world, and neither Boeing nor Airbus was making
+a plane to meet the demand for smaller aircraft to service America's smaller airports.
+To get ahead in the US, Bombardier undersold or dumped dozens of its C-series planes to
+Delta, and Boeing didn't like that move.
+In response, the American company filed a petition with the US Department of Commerce,
+and it worked.
+With Bombardier facing a 300% import tariff, it instead sold 50.1% of its shares to Airbus,
+a European plane manufacturer with enormous purchasing and marketing power.
+Also part of Airbus's appeal was the fact that it had a final assembly plant in Mobile,
+Alabama, which meant its planes were technically American-made, at least partially, and that
+waived foreign import fees.
+Airbus quickly rebranded the C-series as the A220 to compete with Boeing 737, and the first
+A220 made in Alabama took to the skies in June 2020.
+Back then, some independent analysts predicted that the C-series would capture as much as
+60% of the mid-haul market segment, with a goal to meet a demand of 3,000 planes over
+the next 20 years, or about 12 and a half planes a month.
+By 2022, Bombardier sold off its remaining interest to Airbus to focus exclusively on
+its business aviation market.
+In retrospect, this was clearly prudent, as it helped spur a 180-degree turnaround
+from near-bankruptcy just years prior to $7.6 billion in profit in 2022.
+Today, the A220 program is jointly owned by Airbus, its parent company, and the Canadian
+province of Quebec, with a 25% share.
+The two entities agreed to further invest in the A220 to a tune of $1.2 billion in 2022,
+mostly in an effort to accelerate its total production to 14 per month between its plant
+in Mobile and its headquarters in Mirabelle, Quebec.
+That, however, has been slow.
+In 2022, Airbus averaged just 4.5 A220 aircraft deliveries per month, thanks in part to supply
+chain issues.
+By late 2023, the company had manufactured a total of nearly 100 A220s.
+Boeing, on the other hand, is playing catch-up.
+It lacks a direct competitor aircraft to the A220, meaning it effectively seeded this smallest
+sector of the aircraft market, so Airbus is clunkily hanging on to the market majority
+and the plane war goes on.
+Back in 2019, we released the video, How Rwanda is Becoming the Singapore of Africa, which
+detailed President Pakigame's ascendancy and, at that point, 19-year reign in leading
+the sub-Saharan country into prosperity—a transformation he hoped could be likened to
+Singapore, one of the biggest success stories from Asia's era of rapid development.
+Singapore excelled in three areas—geographic centrality, political stability, and ease
+of doing business—and we noted where Rwanda was also meeting or improving on those.
+At the time, indicators in Rwanda were promising—political stability was near the 50th percentile compared
+to the rest of the globe, and the control of corruption near the 70th percentile, while
+the country's GDP was quickly rising.
+Since then, the pandemic, of course, stalled progress, but though the economy has been
+quicker to recover, some indicators are now plateauing or even starting to fall.
+Four years ago, it was notable that Kagame was still in power and had no plans for succession—this
+raised eyebrows—and today, well, he's still at the helm.
+While undeniably effective, bringing Rwanda from a genocidal crisis to a regional leader
+in stability and development, questions on whether Kagame's means justify his ends
+are becoming easier to answer.
+In 2021, the US State Department released a report detailing several human rights violations,
+which included, quote, unlawful or arbitrary killings by the government and forced disappearance
+by the government.
+Among those is poet and social critic Innocent Baty, who remains missing.
+Then, there's the case of Paul Rusesabagina, who's known for his role in saving thousands
+of lives during the genocide, as depicted in the Oscar-nominated film Hotel Rwanda,
+but more recently for having been kidnapped by the Rwandan government.
+Rusesabagina was a vocal critic of the Kagame administration before he boarded a private
+flight from Dubai to Burundi for a speaking engagement, or so he thought.
+Instead, he was sedated and flown against his will to Kigali, where he was detained
+and held in solitary confinement before the government found him guilty on terrorism-related
+charges and sentenced him to 25 years in prison.
+Eventually, as of early 2023, he is now out on commutation following international political
+pressure, yet this demonstrates the direction the country, and especially its leader, is
+heading.
+While it's long been understood that civil rights and freedoms are limited in Rwanda,
+proponents of Kagame's argue that they were necessary to take the country from its genocide
+to its current era of relative prosperity.
+But perhaps because those rights violations are becoming more egregious, that era of prosperity
+is looking like it could be coming to an end.
+The murder rate has increased to four per 100,000, the average life expectancy has dropped
+a year, and both the corruption and political stability percentiles have decreased at least
+one percentage point.
+But things are looking more promising from an economic perspective—businesses are continuing
+to invest in Rwanda.
+Most notably, Rwandair entered a partnership with Qatar Airways, which purchased a 49%
+minority stake in the state-owned national airline.
+Together they've invested in the new Begasara International Airport, a $1.3 billion project
+that's under construction and set to handle 7 million passengers and 150 million tons
+of cargo each year and act as a regional hub for sub-Saharan Africa.
+It's slated for completion in 2026, and to meet that growth, Rwandair is doubling
+its fleet from 13 to 26 planes.
+Other businesses are taking note—Volkswagen, Motorola Solutions, Andela, and Radisson have
+planted flags in Rwanda.
+The country continues to shift and craft policy to entice foreign direct investment, and a
+2023 US State Department report says that it's quote, easy to launch a business in
+Rwanda, but making it profitable can be a challenge.
+And yet, the GDP continues to climb, growing 8.2% in 2022, hitting $13.31 billion.
+In the fall, Kagame announced he would run for re-election again in 2024, which is only
+possible because his government extended term limits in 2015, and so the fate of the country
+appears to remain in his hands.
+And just as we said four years ago, it'll be up to him and his administration to improve
+upon the political climate in order to make foreign direct investment attractive and stable.
+It's not yet Singapore, but it's still trying.
+Then there's China.
+Now, if you're an aspiring educational YouTuber, here's a tip—make videos about China.
+It's an interesting, dynamic place that just does numbers.
+A lot happens there, and a lot has changed since we started making videos dealing with
+the country.
+Take, for instance, this one.
+It's five years old, it did 9 million views, and while its main points still hold true,
+how exactly China is making Africa its own China has shifted.
+Now, the video's claim was that much of the continent is economically and politically
+aligned with China, simply because China has pumped huge amounts of money into the continent
+of Africa.
+This much is still true today—China is still Africa's biggest financial supporter, only
+pumping more and more foreign direct aid into the continent.
+And as to why they're investing, well, that hasn't changed either—it's because of
+what comes back in the form of cheaper labor, resources, and goods.
+And the form of Chinese investment?
+That's pretty much the same too, as most investment comes through large to very large
+infrastructure projects.
+What's changed has to do with, well, time.
+Like every big project, the beginning's usually marked with excitement, but success
+ultimately comes down to execution further down the road.
+Take this light rail system that the original video identified as an impressive example
+of Chinese investment in Ethiopia as it established sub-Saharan Africa's first inner-city tram
+in 2015.
+Well, now this system's proving difficult to keep running on time while operating costs
+continue to crawl higher and higher.
+Already by 2018, outside observers had identified that the system had a fundamental electricity
+supply issue, which has only gotten worse since.
+As of 2020, the system that once ran 41 trains across two lines was now only running 17.
+As of 2023, average traffic had dropped to about 50% of the high-water mark, while waits
+along the green line had ballooned to 19 minutes.
+The problem is, it's hard for Ethiopian officials to keep the system running when
+it can't get spare parts easily and lack the institutional knowledge required to fix
+the Chinese-manufactured trainset.
+This transit system is a microcosm for how Chinese investment in Africa has played out
+more broadly.
+They break ground on exciting projects that promise to aid African development, but the
+projects prove ultimately flawed by a lack of foresight and an over-serving of blind
+optimism.
+For African countries with newfound experience in the difficulty of the upkeep and follow-through
+on these infrastructure projects, some leaders are becoming more cautious of welcoming them
+in while, for its part, China, now more wary of the cost of large-scale infrastructure
+investment, is beginning to slow its role too, leading to serious belt-tightening on
+these projects that have come to comprise the Belt and Road Initiative.
+And it's not just the money leaving China that's changing, either.
+The nation's robust manufacturing sector that has spearheaded its massive export economy
+for decades has started to take a different shape in the last few years.
+Chinese manufacturing still wins, but it's winning less, now six years later.
+So too has this channel, as six years ago I actually traveled to make this, making my
+way to the capital of Chinese technology manufacturing, Shenzhen, in the Guangdong province, so I
+went there to see what it was like.
+This was the first time I ever traveled for a video, thanks to an invitation by the company
+Anchor.
+Back then, they were a burgeoning startup that was just celebrating making their way
+into Walmart, but today they've grown into a Chinese entrepreneurship success story,
+and a company there's a good shot you've heard of.
+Shenzhen as a city is really known for two things, one is its manufacturing capabilities,
+especially for consumer electronics products, and second is gravitation for talents or human
+resources, especially on the product development and research and development disciplines.
+Six years on, this is still the case.
+Shenzhen is the hardware capital of the world, and still home to some of the biggest tech
+manufacturers, but not quite to the level it once was.
+Take this motion graphic—Apple, Samsung, Microsoft, Sony, Canon—they all manufacture
+products here in Shenzhen.
+Or they did.
+In 2018, Samsung closed its factory in Shenzhen.
+More recently, Canon has closed its Zhuhai plant.
+As for Microsoft, Sony, and Apple, they remain in the city, but the latter two have minimized
+their presence within the country, with Sony moving all its camera-making facilities to
+different countries.
+Shenzhen is still the dominant power in the tech world, but it's giving up ground, and
+that much can be said of Chinese manufacturing overall.
+This is manufacturing output from China from 2004 to 2022—it's doing broadly what it
+should be doing, going up and to the right with a stagnation during the COVID years.
+The thing is, it's shrinking as a percentage of China's GDP—where it sat in the low
+30s during the early 2010s, it's now in the mid-to-high 20s in the early 2020s.
+This is all because the Chinese economy is changing.
+As it makes strides towards middle-income status, China's economy is trending towards
+services rather than manufacturing, and as standards of living and wages increase, the
+benefits of manufacturing in China are becoming less obvious.
+This, along with added geopolitical tensions, has turned some countries towards so-called
+China-plus-one strategies, where they maintain a factory foothold in the country, but also
+diversify their supply chain with factories in, say, Vietnam, so should a COVID strand
+or a spat in the South China Sea turn off supply from Shenzhen, the company can stay
+afloat.
+Or, companies are beginning to outright skip on China's relatively cheap labor for options
+close to home, which has to do with lessons learned with COVID shortages mentioned earlier,
+as well as the exciting potential of other manufacturing bases, as, once again, we mentioned
+in this year's video.
+In this case of Mexico, both American and Chinese companies hoping to be nearer to the
+US, while still benefiting from less expensive labor, have moved operations to just south
+of the American border.
+As it factors within China, and outside of China, the nation's manufacturing might
+has shown cracks in the last few years, but still, for now, it wins—just by a narrower
+margin than before.
+Now, if there's a theme throughout these China videos revisited, it's that, broadly,
+the way the world interacts with the country has shifted throughout the early years of
+this decade.
+COVID-19, of course, is a major part of this story, but it's not all of it.
+Take this video, Australia's China Problem.
+Between it, we make the point that Australia has hitched its wagon to China economically,
+putting it in a difficult spot where it doesn't align socially, culturally, or in some cases
+morally, with the regional power.
+To illustrate the economic tethering between the two nations, we highlighted higher education
+and raw minerals as two sectors where Australia's come to lean on China.
+Well, now Australia has begun to work towards addressing its dangerous reliance on trade
+with China, and it's doing so within those sectors.
+This is a graph of Chinese students enrolled in Australian higher education.
+Now, obviously, the initial decline can be attributed to COVID-19, but in the last two
+years the numbers have remained lower even as restrictions have eased, largely on account
+of an increasingly strained relationship between the two countries.
+Since 2020, the two countries have been going back and forth—China slapped heavy-handed
+tariffs on Australian goods from wine and wheat to coal and cotton, while Australia
+has called for a critical inquiry into the origins of COVID-19 and expressed concerns
+over Chinese behavior in the Pacific, aligning itself closer with the US and the West.
+Surprisingly, though, by taking increasingly louder stances against China, and then being
+frozen out as retribution, Australian exports haven't plummeted, minimizing the economic
+damage that the countries had to ride out.
+As overall exports from Australia show, not only has it bounced back from COVID and Chinese
+tariffs, the sector's as strong as it's ever been.
+While diplomatic tensions have begun to cool across 2023, Australia has actually found
+itself with more leverage than any point prior in its relationship with China.
+If China freezes out Australian coal again, for instance, they can simply sell to countries
+like India, Japan, and South Korea that are bound to be left high and dry when China's
+supply chain shifts.
+With 2023 coming to a close, many of you are likely thinking about making some charitable
+donations—after all, it's both the season of giving and the last couple of days when
+tax-deductible donations can reduce your 2023 tax burden.
+With whatever you're able to give, I'm sure you want to be sure that it's as impactful
+and influential as possible, but that's a pretty daunting process when essentially
+every nonprofit has a compelling argument as to why they're a worthy cause.
+Now, you probably already know the solution to this.
+When you buy, say, a new mattress, you don't just listen to what the various mattress companies
+say, because of course they're all going to say that they're the best.
+You look for independent third-party reviews, as that's a far more trustworthy source.
+Well, our sponsor, GiveWell, is essentially that independent third-party review source,
+but for nonprofits.
+They've spent over 15 years researching charitable organizations and only direct funding
+to a few of the highest-impact opportunities they've found.
+In fact, people have donated over a billion dollars based on the recommendations they
+provide since they make it easy—you get all of their research for free and can make
+donations right from their site, and they don't take any cut—with the exception
+of processing fees, all the money goes to the nonprofit.
+Rigorous evidence suggests that over 150,000 lives have been saved through the donations
+GiveWell has directed, as relatively small amounts can have a major impact when used
+well.
+Just one dollar, for example, can distribute a vitamin A supplement in an area where vitamin
+A deficiency may increase mortality rates.
+And even with GiveWell's already higher impact, you can double yours since, if you've
+never donated with them before, they'll match what you contribute up to $100 if you
+go to GiveWell.org, pick YouTube, then Wendover as the show.
+So thanks in advance for the help you'll provide, and happy holidays.

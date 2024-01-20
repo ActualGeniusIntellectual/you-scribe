@@ -1,0 +1,100 @@
+Before the 16th century, clocks were horrible.
+Typically there was one large mechanical clock in the center of any town which would be reset
+daily, but by the end of the day, these would be off by as much as 20 minutes.
+Time was but a rough estimate, but nobody really had a problem with it since there was
+no expectation of accuracy.
+At the time, there was no real need for accurate clocks in daily life.
+The need for more accurate clocks came about when explorers started to voyage across the
+world by sea.
+The best way for ships to calculate their locations was to have two clocks, one with
+the time of the ship's origin and one with the current time, as calculated by a sundial.
+With every four minutes of difference between the two times, you would know that you had
+travelled about 68 miles, or one degree of longitude.
+The problem with this method was with the accuracy of the clocks.
+Much like the clocks in town centers, the origin clocks were off by up to 20 minutes
+by the end of one day, so this method was useless after a few days of travel.
+This stifled exploration, so governments around the world offered prizes equivalent to millions
+of dollars to anyone who could design an accurate clock.
+That's where Galileo comes into play.
+Legend has it that in 1583, a 19 year old Galileo was bored while attending prayers
+at the Duomo of Pisa so he started watching the hanging lamps up above.
+He noticed that, as they swung back and forth, the lamps always took the exact same amount
+of time to complete one swing.
+No matter if they swung one foot or one inch, the swing would always take the exact same
+amount of time.
+58 years later, this property was used to make a pendulum clock.
+Properly weighted, a pendulum could be designed to swing once per second and the clocks would
+use the swinging weight to keep time.
+This clock was amazingly accurate.
+A week after being set, it would only be off by as much as a minute.
+One hundred years after its invention, the pendulum clock was in every house.
+Many argue that, without this invention, the industrial revolution would not have been
+possible.
+You could now tell someone to meet you at an exact time and they would actually be there
+at that time.
+Ships could now use these accurate clocks for accurate navigation and this meant that
+it was no longer risky to send ships regularly to buy and sell goods across the world.
+But time also changed the way people worked.
+Before the pendulum clock, people only worked for results.
+By the end of the day, they were paid for how much they made instead of how much they
+worked.
+With the clock, workers worked for an amount of time and they were paid by the hour.
+With the new production boom, manufacturers demanded a method of fast and cheap shipping
+and so the railroad was born, but this introduced a new problem.
+Time was still dictated by the sun.
+Each town would calculate the local time based upon the location of the sun in the
+sky, but this meant that from one town to the next, the time would be different.
+In one town it could be 810 and in the next town over, it would be 815.
+Both times were correct for the two locations, so this didn't really cause any problems
+since it would take hours to get to that next town over.
+Across the United States, there were thousands of different local times.
+However, with the newly invented railroad, people could get from one town to the next
+quickly, but nobody knew when trains really left since everyone used a different time.
+The railroad might use one time, while the origin town would use another, and the destination
+town would use a completely different one.
+Britain solved this problem by creating a standardized time, Greenwich Mean Time, and
+transmitting that time across the country by telegraph.
+The US decided that, with its huge size, a standard time zone would not work, so four
+different time zones were mapped out.
+Much like Britain, the standard time would be transmitted across the country by telegraph.
+The implementation of this new time zone, however, created one of the stranger days
+in human history.
+The new eastern time zone ran four minutes behind the time that New York had been using,
+so on Sunday, November 18, 1883, the clock struck noon, then four minutes later, the
+clock struck noon again as the new time standard was implemented.
+The next great innovation in timekeeping came towards the beginning of the 20th century.
+Pierre and Jacques Curie, two French physicists, noticed that when electricity was applied
+to quartz, it vibrates at an incredibly stable rate.
+Knowing that quartz vibrates 32,768 times a second, clockmakers used this crystal to
+make incredibly accurate clocks.
+These quartz clocks were able to go a month only losing or gaining 15 seconds.
+Just as the pendulum clock allowed for the industrial revolution, the quartz clock allowed
+for the technological revolution.
+Without quartz clocks, modern computers would have been impossible.
+An accurate internal clock is needed to coordinate all the different microprocessors.
+With these new accurate clocks, however, people also began to notice that earth's rotation
+wasn't all that regular.
+It deviated by a few seconds here and there.
+In the 1950s, the first super-accurate atomic clocks were built, measuring time based upon
+the decay of atomic elements, and this allowed an international conference of weight and
+measures to change what time was in 1967.
+They decided that a day was no longer one rotation of the earth.
+A day was now 86,400 atomic seconds.
+Since the time it takes for earth to rotate is not exactly 86,400 atomic seconds, we make
+up for this by having leap days and leap seconds every once in a while.
+The atomic clock also allowed for nanosecond accuracy, and this is actually pretty important
+for many modern technologies, most notably the GPS.
+GPS works by asking three different satellites the time based upon their onboard atomic clocks.
+When the answer comes back, each time will be slightly different on a nanosecond level
+due to the satellites being at different distances and the request for the time going at only
+the speed of light.
+So the GPS, knowing the location of the satellites based upon their extremely predictable orbits,
+can figure out where it is.
+So that's how time developed.
+Hopefully you can now see how the human conception of time was essential for the development
+of our modern world and can still be called one of humanity's greatest inventions.
+Today we're going to talk about space law.
+So back in ye old days, property owners had the rights to their land going up forever
+and ever in perpetuity.
+But then the airplane came around and smart people realized that you couldn't just go
+around asking every property owner for permission to fly through their airspace.

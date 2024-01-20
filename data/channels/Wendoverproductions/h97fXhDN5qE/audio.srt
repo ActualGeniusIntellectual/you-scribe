@@ -1,0 +1,620 @@
+1
+00:00:00,000 --> 00:00:03,420
+This video was made possible by Hover.
+
+2
+00:00:03,420 --> 00:00:10,060
+Buy your domain before it's gone for 10% off by going to hover.com slash wendover.
+
+3
+00:00:10,060 --> 00:00:18,960
+Imagine a $2,000 car, or a $100 laptop, or a $70 iPhone, or imagine any product ten times
+
+4
+00:00:18,960 --> 00:00:21,160
+cheaper than it was.
+
+5
+00:00:21,160 --> 00:00:24,360
+Imagine the fundamental market change that would bring.
+
+6
+00:00:24,360 --> 00:00:29,460
+Imagine the amount of demand there would be for that $2,000 car, or a $100 laptop,
+
+7
+00:00:29,460 --> 00:00:30,800
+or a $70 iPhone.
+
+8
+00:00:30,800 --> 00:00:37,880
+That's what Elon Musk imagined 15 years ago when he sat on a pile of $165 million.
+
+9
+00:00:37,880 --> 00:00:42,660
+Elon Musk's businesses are all centered around some of the most basic principles of
+
+10
+00:00:42,660 --> 00:00:44,360
+economics out there.
+
+11
+00:00:44,360 --> 00:00:48,620
+When he starts a business, he's not necessarily trying to do something new, he's trying
+
+12
+00:00:48,620 --> 00:00:50,320
+to do something right.
+
+13
+00:00:50,320 --> 00:00:53,980
+Musk made most of his early fortune through his involvement with PayPal.
+
+14
+00:00:53,980 --> 00:00:59,060
+In 1999 he founded a company called x.com which was quickly bought by Confinity, the
+
+15
+00:00:59,060 --> 00:01:05,620
+creators of PayPal, so when PayPal was bought by eBay in 2002, Musk's 11.7% ownership
+
+16
+00:01:05,620 --> 00:01:10,180
+of the company translated to $165 million.
+
+17
+00:01:10,180 --> 00:01:16,060
+Elon Musk has always been deeply passionate about space exploration and, as anyone knows,
+
+18
+00:01:16,060 --> 00:01:19,780
+public interest in space has been falling since the Apollo era.
+
+19
+00:01:19,780 --> 00:01:24,520
+Therefore, Musk's plan with his newfound fortune was to launch a rocket to Mars carrying
+
+20
+00:01:24,520 --> 00:01:29,140
+a small greenhouse that would grow plants on the surface of the red planet.
+
+21
+00:01:29,140 --> 00:01:33,300
+Basically, he wanted to take all his money and put it into a big publicity stunt for
+
+22
+00:01:33,300 --> 00:01:37,840
+space exploration, but he had a problem—it was too expensive.
+
+23
+00:01:37,840 --> 00:01:43,820
+The cost of launches was absolutely immense and, even when Musk tried to buy decommissioned
+
+24
+00:01:43,820 --> 00:01:49,100
+Russian ICBMs, he couldn't find a way to pull off the project, but he had discovered
+
+25
+00:01:49,100 --> 00:01:52,380
+something—the space launch industry was ripe for disruption.
+
+26
+00:01:52,380 --> 00:01:56,460
+Here's Joseph, the economics expert from RealLifeLore to explain why.
+
+27
+00:01:56,460 --> 00:02:02,220
+The rocket development and space launch companies before SpaceX were essentially aggregators.
+
+28
+00:02:02,220 --> 00:02:06,060
+They bought engines and guidance systems and all the other various components from other
+
+29
+00:02:06,060 --> 00:02:09,280
+companies to cobble together one completed rocket.
+
+30
+00:02:09,280 --> 00:02:13,240
+But all the different component suppliers also had their own component suppliers to
+
+31
+00:02:13,240 --> 00:02:14,700
+make their product.
+
+32
+00:02:14,700 --> 00:02:19,500
+The suppliers of the suppliers not only had to cover their development and manufacturing
+
+33
+00:02:19,500 --> 00:02:23,680
+costs, they had to sell their components at a markup in order to make a profit.
+
+34
+00:02:23,680 --> 00:02:27,300
+And then the next component manufacturer had to do the same, which means that by the time
+
+35
+00:02:27,300 --> 00:02:31,660
+the component gets to the company that's assembling the rocket, it's expensive.
+
+36
+00:02:31,660 --> 00:02:36,200
+Not only that, but the assembly company also has to pay for employees that work to actually
+
+37
+00:02:36,200 --> 00:02:39,440
+figure out how to make all of the different pieces work together.
+
+38
+00:02:39,440 --> 00:02:41,840
+SpaceX, however, works differently.
+
+39
+00:02:41,840 --> 00:02:47,780
+It makes 85% of the components it uses itself, which allows it to make cheaper parts.
+
+40
+00:02:47,780 --> 00:02:52,680
+For example, if SpaceX had bought their radios externally, they would be paying $50,000 to
+
+41
+00:02:52,680 --> 00:02:54,680
+$100,000 each.
+
+42
+00:02:54,680 --> 00:03:00,300
+But since they developed them internally, they only cost $5,000 each to build—a dramatic
+
+43
+00:03:00,300 --> 00:03:02,580
+improvement in reducing cost.
+
+44
+00:03:02,580 --> 00:03:06,960
+Joseph from RealLifeLore has a brand new book which includes two fantastic chapters explaining
+
+45
+00:03:06,960 --> 00:03:11,320
+simple economic concepts like this that I'll link in the description, but let's talk
+
+46
+00:03:11,320 --> 00:03:12,320
+Tesla.
+
+47
+00:03:12,320 --> 00:03:16,120
+Tesla's economic strategy is fairly similar to SpaceX's.
+
+48
+00:03:16,120 --> 00:03:22,980
+Tesla themselves makes about 80% of the 5,300 parts in a Tesla car, but for the most part
+
+49
+00:03:22,980 --> 00:03:26,920
+it doesn't make these—the batteries, at least yet.
+
+50
+00:03:26,920 --> 00:03:32,060
+Batteries are very difficult to make at a competitive price so very few companies do.
+
+51
+00:03:32,060 --> 00:03:38,720
+The largest three manufacturers—Panasonic, BYD, and LG Chem—make a combined 63% of
+
+52
+00:03:38,720 --> 00:03:39,940
+the world's batteries.
+
+53
+00:03:39,940 --> 00:03:44,700
+Tesla, therefore, has historically just bought batteries from Panasonic at a cost of about
+
+54
+00:03:44,700 --> 00:03:50,580
+$200 per kilowatt hour, but that means that Tesla's smallest battery pack—the 50 kilowatt
+
+55
+00:03:50,580 --> 00:03:55,400
+hour version—costs $10,000 just in components.
+
+56
+00:03:55,400 --> 00:04:00,620
+When you're trying to sell a $35,000 car and make a profit, that's a significant
+
+57
+00:04:00,620 --> 00:04:02,660
+cost that can be reduced.
+
+58
+00:04:02,660 --> 00:04:07,680
+Therefore, Tesla is attempting to reduce the cost of their batteries by 30% by building
+
+59
+00:04:07,680 --> 00:04:11,100
+their own factory in a joint venture with Panasonic.
+
+60
+00:04:11,100 --> 00:04:16,220
+Their long-term goal, however, is to drop the battery price below $100 per kilowatt
+
+61
+00:04:16,220 --> 00:04:21,180
+hour which would either double the range or halve the price of that 50 kilowatt hour battery
+
+62
+00:04:21,180 --> 00:04:22,180
+pack.
+
+63
+00:04:22,180 --> 00:04:26,340
+But the vertical integration of Tesla and SpaceX isn't all useful.
+
+64
+00:04:26,340 --> 00:04:31,460
+The companies basically have to learn and perfect each step in the manufacturing process
+
+65
+00:04:31,460 --> 00:04:35,600
+and, if one step isn't working, no cars get made.
+
+66
+00:04:35,600 --> 00:04:41,400
+For example, the Tesla Model 3, the low-cost Tesla, is built using steel instead of aluminum
+
+67
+00:04:41,400 --> 00:04:43,220
+like the Model S and X.
+
+68
+00:04:43,220 --> 00:04:47,820
+With this change, the manufacturer is having troubles properly welding the vehicle bodies
+
+69
+00:04:47,820 --> 00:04:52,760
+together and so the entire production line is slowed down massively.
+
+70
+00:04:52,760 --> 00:04:57,020
+But there's something else unique about SpaceX and Tesla's production lines—they're
+
+71
+00:04:57,020 --> 00:04:58,020
+in the US.
+
+72
+00:04:58,020 --> 00:05:00,200
+Now this probably seems counter-intuitive.
+
+73
+00:05:00,200 --> 00:05:04,240
+Why would you put the production lines of two companies working to make the least expensive
+
+74
+00:05:04,240 --> 00:05:08,640
+products on the market in one of the most expensive labor markets in the world?
+
+75
+00:05:08,640 --> 00:05:13,480
+Almost every US company has relocated their production lines to cheaper labor markets
+
+76
+00:05:13,480 --> 00:05:18,240
+in Asia and Africa but Musk has always had his in the US.
+
+77
+00:05:18,240 --> 00:05:21,040
+Believe it or not, this isn't a PR move.
+
+78
+00:05:21,040 --> 00:05:23,920
+It actually makes sense for the two companies.
+
+79
+00:05:23,920 --> 00:05:28,540
+Tesla and SpaceX's production processes are constantly being tweaked and optimized
+
+80
+00:05:28,540 --> 00:05:31,220
+as the companies learn to make their products.
+
+81
+00:05:31,220 --> 00:05:36,480
+While China might be able to build Tesla cars at the same price by using cheaper human labor,
+
+82
+00:05:36,480 --> 00:05:41,660
+Tesla's US factory is just miles away from its headquarters in Palo Alto meaning that
+
+83
+00:05:41,660 --> 00:05:47,080
+the executive, development, and production staff are all heavily integrated and can make
+
+84
+00:05:47,080 --> 00:05:48,840
+changes fast.
+
+85
+00:05:48,840 --> 00:05:54,120
+SpaceX even takes this a step further—its offices and manufacturing lines are all under
+
+86
+00:05:54,120 --> 00:05:55,160
+one roof.
+
+87
+00:05:55,160 --> 00:06:00,540
+The Tesla factory in particular is also heavily automatized and the US excels in production
+
+88
+00:06:00,540 --> 00:06:03,980
+line automation with its abundance of highly sealed workers.
+
+89
+00:06:03,980 --> 00:06:07,460
+But just how much is Musk dropping the price on his products?
+
+90
+00:06:07,460 --> 00:06:11,880
+The United Launch Alliance, which historically has won most of the highly lucrative US government
+
+91
+00:06:11,880 --> 00:06:17,700
+launch contracts, is believed to charge more than $400 million dollars all in for a military
+
+92
+00:06:17,700 --> 00:06:21,840
+satellite launch while SpaceX charges about $80 million dollars.
+
+93
+00:06:21,840 --> 00:06:27,260
+So SpaceX is already at a fifth of the price but, as mentioned, Elon Musk wants that to
+
+94
+00:06:27,260 --> 00:06:28,520
+fall to a tenth.
+
+95
+00:06:28,520 --> 00:06:30,160
+Here's the key for that.
+
+96
+00:06:30,160 --> 00:06:35,600
+The fuel used in the Falcon 9 rocket only costs about $200,000 per launch.
+
+97
+00:06:35,600 --> 00:06:38,560
+It's practically a non-factor in the launch price.
+
+98
+00:06:38,560 --> 00:06:44,000
+The real cost is of the rockets themselves so that's why SpaceX is making them reusable.
+
+99
+00:06:44,000 --> 00:06:48,200
+The first stage of the rocket is now being designed to land back on earth and be put
+
+100
+00:06:48,200 --> 00:06:51,400
+back into service with dozens of more launches.
+
+101
+00:06:51,400 --> 00:06:55,480
+Once this system becomes reliable, it's believed that the cost savings will drop the
+
+102
+00:06:55,480 --> 00:07:00,760
+launch price to $40 million dollars—a full ten times cheaper than the United Launch Alliance's
+
+103
+00:07:00,760 --> 00:07:02,200
+military launch price.
+
+104
+00:07:02,200 --> 00:07:07,440
+SpaceX's long-term goal is to get the launch price down to about $10 million dollars per
+
+105
+00:07:07,440 --> 00:07:08,440
+launch.
+
+106
+00:07:08,440 --> 00:07:12,920
+While this has already made a significant impact on the space industry, a launch price
+
+107
+00:07:12,920 --> 00:07:17,320
+as low as this would fundamentally change what's possible in space.
+
+108
+00:07:17,320 --> 00:07:21,260
+Real space tourism would become feasible, commercial satellites would become downright
+
+109
+00:07:21,260 --> 00:07:25,280
+commonplace, and space would become closer than it's ever been.
+
+110
+00:07:25,280 --> 00:07:28,000
+But SpaceX does have a bit of a problem.
+
+111
+00:07:28,000 --> 00:07:32,000
+People aren't really buying more rocket launches even though prices are down.
+
+112
+00:07:32,000 --> 00:07:35,080
+It's what's known as a price inelastic market.
+
+113
+00:07:35,120 --> 00:07:40,000
+That's the opposite of Tesla and the electric vehicle market where lower prices lead to
+
+114
+00:07:40,000 --> 00:07:42,400
+huge increases in sales.
+
+115
+00:07:42,400 --> 00:07:46,480
+The problem with the space launch market is that it is not a consumer market.
+
+116
+00:07:46,480 --> 00:07:48,960
+Normal people don't buy rocket launches.
+
+117
+00:07:48,960 --> 00:07:53,320
+Governments buy rocket launches and they don't care about price nearly as much as people
+
+118
+00:07:53,320 --> 00:07:55,520
+since it's not the decision maker's money.
+
+119
+00:07:55,520 --> 00:08:00,040
+The US Air Force, for example, decides they need to launch a certain number of satellites
+
+120
+00:08:00,040 --> 00:08:04,640
+each year for national security reasons and they'll pay whatever it takes.
+
+121
+00:08:04,640 --> 00:08:08,240
+But Elon Musk's life goal is to get humanity to Mars.
+
+122
+00:08:08,240 --> 00:08:12,280
+That's why SpaceX exists and he needs money to do it.
+
+123
+00:08:12,280 --> 00:08:13,280
+Lots of money.
+
+124
+00:08:13,280 --> 00:08:16,560
+So, SpaceX is getting into the internet business.
+
+125
+00:08:16,560 --> 00:08:21,120
+The company is actively developing a satellite constellation that would provide high-speed
+
+126
+00:08:21,120 --> 00:08:23,160
+internet to anywhere on earth.
+
+127
+00:08:23,160 --> 00:08:28,280
+Thousands of small satellites would be put into low earth orbit and then anyone worldwide
+
+128
+00:08:28,280 --> 00:08:32,020
+could hook into the network using an inexpensive ground receiver.
+
+129
+00:08:32,020 --> 00:08:38,180
+If SpaceX got just 50 million users out of the 7 billion in its proposed service area,
+
+130
+00:08:38,180 --> 00:08:41,960
+this business could bring in $30 billion a year.
+
+131
+00:08:41,960 --> 00:08:46,100
+Since SpaceX would be building and launching the satellites themselves, costs would be
+
+132
+00:08:46,100 --> 00:08:49,060
+dramatically lower than the competitions.
+
+133
+00:08:49,060 --> 00:08:55,660
+The whole commercial aspect of SpaceX essentially exists to fund Musk's future space exploration
+
+134
+00:08:55,660 --> 00:08:56,780
+projects.
+
+135
+00:08:56,780 --> 00:09:00,580
+For that reason, SpaceX is not a public company like Tesla.
+
+136
+00:09:00,620 --> 00:09:04,020
+Elon Musk does not want to make money with SpaceX.
+
+137
+00:09:04,020 --> 00:09:05,700
+He wants to get to Mars.
+
+138
+00:09:05,700 --> 00:09:09,580
+He does not want to be beholden to shareholders and profitability.
+
+139
+00:09:09,580 --> 00:09:14,460
+Musk has therefore publicly said that SpaceX will not go public until the company achieves
+
+140
+00:09:14,460 --> 00:09:19,180
+regular flights to and from Mars and thanks to the entrepreneur's understanding of basic
+
+141
+00:09:19,180 --> 00:09:23,180
+economics, that might not be too far off.
+
+142
+00:09:23,180 --> 00:09:27,860
+If you're looking to start a company, you'll need not only an understanding of basic economics
+
+143
+00:09:27,860 --> 00:09:29,780
+but also a domain.
+
+144
+00:09:29,780 --> 00:09:33,260
+Hover makes finding and purchasing your domain super simple.
+
+145
+00:09:33,260 --> 00:09:40,380
+They have over 400 domain extensions that let you create unique domains like mine—Wendover.productions.
+
+146
+00:09:40,380 --> 00:09:45,640
+It literally takes minutes to find and buy your domain but if you do ever have an issue
+
+147
+00:09:45,640 --> 00:09:50,700
+they have amazing, best-in-class customer support that will help you with anything and
+
+148
+00:09:50,700 --> 00:09:51,700
+everything.
+
+149
+00:09:51,700 --> 00:09:55,060
+If you have a name for your business, your YouTube channel, or anything else, you should
+
+150
+00:09:55,060 --> 00:09:57,860
+buy your domain now before it's gone.
+
+151
+00:09:57,860 --> 00:10:03,020
+You can also set up custom, professional email addresses using those domains for very reasonable
+
+152
+00:10:03,020 --> 00:10:07,360
+prices and what's best is that you can do all of this for 10% off by heading over to
+
+153
+00:10:07,360 --> 00:10:12,100
+hover.com slash wendover and you'll be supporting the channel while you're at it.
+
+154
+00:10:12,100 --> 00:10:17,060
+Hover is what I use for my domains since it just works and you should too by heading over
+
+155
+00:10:17,060 --> 00:10:19,540
+to hover.com slash wendover.
+

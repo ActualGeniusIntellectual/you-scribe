@@ -1,0 +1,74 @@
+start	end	text
+0	5800	So, there's this fantastic Wikipedia list descriptively titled Wikipedia colon unusual
+5800	6800	articles.
+6800	8640	I just remember it as that Wikipedia list.
+8640	13380	It's a collection of hundreds of articles about unusual, unexpected, and unbelievable
+13380	14500	subjects.
+14500	17900	No matter what link you click, it's bound to be interesting.
+17900	21060	For that reason, every week I'm going to click on a new link and teach you a little
+21060	25060	bit more about our amazing world.
+25060	26780	This number is illegal.
+26780	28280	Well, kinda.
+28280	32420	I switch it a few digits to protect myself since, you know, it's illegal, but just
+32420	36440	the possession of this number is enough to get you arrested in the US.
+36440	39720	To understand why, we need to learn some cryptology.
+39720	44000	Prime numbers are numbers that can only be divided by themselves and one.
+44000	49040	For example, nothing multiplies together to get 7 other than 7 and 1.
+49040	52560	Nothing multiplies together to get 29 other than 29 and 1.
+52560	54560	This will be the same for all primes.
+54560	58120	It's not that hard to check if a smaller number is prime.
+58120	63800	For 7, you just check if 7 divided by 1 is a whole number, 7 divided by 2, by 3, by 4,
+63800	68880	by 5, by 6, nothing other than 7 can divide 7 into a whole number.
+68880	72600	As you get to bigger and bigger numbers, you have to check more and more times to determine
+72600	74300	if a number is prime.
+74300	77720	That means that it's exceedingly difficult to find new primes.
+77720	84720	The largest prime number that we know of right now is 2 to the power of 74,207,281 minus
+84720	85720	1.
+85720	88960	That's an infinite number of primes since there's an infinite number of numbers, but
+88960	92980	it just takes an enormous amount of computing power to find these primes.
+92980	94520	So what's the point of finding primes?
+94520	97720	Well, they're actually quite useful for encryption.
+97720	102700	For the sake of simplicity, let's take two small primes—11 and 13.
+102700	106960	If we were actually encrypting data, we would be using primes with thousands of digits but
+106960	109920	that would probably make this explanation a little complicated.
+110120	113320	Now, multiply 11 and 13 together in your head.
+118720	122840	You can probably figure out pretty easily that together they make 143.
+122840	126720	Now how long would it take you to work backwards and figure out what multiplies together to
+126720	128620	get 143?
+128620	129680	Probably a pretty long time.
+129680	131400	It's the same with computers.
+131400	135680	It's very easy for them to multiply two numbers together and find out what the product
+135680	139360	is, but it's very hard for them to take the product and find out what the factors
+139360	140860	are.
+140860	144560	When you're logging on to, say, your bank account online, the computer will send the
+144560	149200	number 143, which is known as the public key, to the bank server.
+149200	155640	The bank will then check if 11 and 13, the private keys, multiply to 143 and if so, it
+155640	156920	will let you in.
+156920	161400	Everyone has the public key, but only the bank has the private keys.
+161400	165280	If you wanted to find the private keys, you would need a computer to factor the public
+165280	170120	key, which would take thousands of years because, once again, in the real world, the
+170120	175560	keys aren't 11 and 13, they're prime numbers with thousands upon thousands of digits.
+175560	178660	With the amount of money that it would take to set up a computer system that could actually
+178660	181460	factor the primes, it's just not worth it.
+181460	185960	The bigger the prime number, the longer it takes to factor and the more secure it is.
+185960	190680	That's why organizations like the Electronic Frontier Foundation are willing to pay up
+190680	195080	to $250,000 for new prime numbers.
+195120	198240	Alright, that's all the math we're going to do today, I promise.
+198240	199680	Back to our legal number.
+199680	204880	In 1998, the Digital Millennium Copyright Act was passed in the US, making it illegal
+204880	209680	to circumvent copyright measures and to produce or distribute tools that could be used to
+209680	211920	get around copyright systems.
+211920	217780	Our legal number, 8565078 and so on and so forth, is a prime number that is the source
+217780	221740	code used to decrypt the copyright protection of DVDs.
+221740	226120	The copyright protection was used to stop people from downloading or duplicating movies
+226120	230580	on their computers and, with this number, the protection was rendered useless.
+230580	234920	Programs were created that allowed individuals to make bootleg copies of movies all because
+234920	236520	of this number.
+236520	241400	All the while, individuals were breaking the law not only by copying DVDs, but also just
+241400	246160	by being in possession of this number—an easily findable prime.
+246160	248340	I hope you enjoyed this week's episode.
+248340	251760	Next week I covered Big Mac economics which you can find here.
+251760	255160	If you enjoy these videos, make sure to click subscribe here.
+255160	258840	Also, please follow me on my Twitter at winoverpro.
+258840	263680	Thanks for watching, and I'll be back next week with a special video not from that Wikipedia
+263680	264040	list.

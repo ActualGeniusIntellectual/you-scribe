@@ -1,0 +1,1056 @@
+1
+00:00:00,000 --> 00:00:05,340
+Let's say I had an apple, and you had an orange, and I wanted an orange, and you wanted
+
+2
+00:00:05,340 --> 00:00:10,680
+an apple. We could trade, and both of us would end up happier than when we started.
+
+3
+00:00:10,680 --> 00:00:14,560
+But now let's say I had an apple tree, and you had an orange tree, and the apples from
+
+4
+00:00:14,560 --> 00:00:18,800
+the apple tree were ready, but the oranges wouldn't ripen for another month. I could
+
+5
+00:00:18,800 --> 00:00:23,120
+give you an apple now, and you could promise to give me an orange in a month, when they're
+
+6
+00:00:23,120 --> 00:00:26,960
+ready, and both of us would end up happier than when we started.
+
+7
+00:00:26,960 --> 00:00:31,560
+Although, maybe you didn't want an apple. Maybe you wanted a pear. But all I had to
+
+8
+00:00:31,560 --> 00:00:36,480
+give was my apple, and I still wanted your orange. Well, maybe there was a third guy,
+
+9
+00:00:36,480 --> 00:00:42,160
+a pear-laden guy, and he wanted an apple. So I give him my apple, he gives you his pear,
+
+10
+00:00:42,160 --> 00:00:45,960
+and you promise to give me your orange in a month, and we all end up happier than when
+
+11
+00:00:45,960 --> 00:00:46,960
+we started.
+
+12
+00:00:46,960 --> 00:00:50,940
+But then maybe we start to trade bigger quantities, and maybe we add more people with different
+
+13
+00:00:50,940 --> 00:00:54,300
+fruits on different harvest schedules, and maybe we decide that certain popular fruits
+
+14
+00:00:54,300 --> 00:00:57,280
+are worth more, and two of one equals one of the other, and one of the other equals
+
+15
+00:00:57,280 --> 00:01:01,820
+three of the third, and it all starts to get just a little bit complicated.
+
+16
+00:01:01,820 --> 00:01:06,740
+So, we simplify. Instead of trading physical fruit for physical fruit, we trade physical
+
+17
+00:01:06,740 --> 00:01:12,100
+fruit for fruit credits—clay balls with a generic fruit symbol carved into them. If
+
+18
+00:01:12,100 --> 00:01:16,400
+I trade an apple into the system, I get a credit, and when I want that orange, I trade
+
+19
+00:01:16,400 --> 00:01:19,660
+the credit in—nobody has to keep track of what I'm owed.
+
+20
+00:01:19,660 --> 00:01:23,980
+Now that we have this system going, we might as well add vegetables into the mix. Sure,
+
+21
+00:01:24,660 --> 00:01:28,420
+it's not fruit, but we want veggie sometimes, and the veggie farmers want fruit too, so
+
+22
+00:01:28,420 --> 00:01:30,540
+the system still works.
+
+23
+00:01:30,540 --> 00:01:35,060
+Naturally, as the system develops and develops with more and more items and more and more
+
+24
+00:01:35,060 --> 00:01:39,400
+complexity, we start to feel that these fruit credits have value, even though they merely
+
+25
+00:01:39,400 --> 00:01:44,560
+represent theoretical value. But that theoretical value can be turned into real value, and so
+
+26
+00:01:44,560 --> 00:01:49,080
+in a way, the clay balls—the representation of theoretical value that translates into
+
+27
+00:01:49,080 --> 00:01:52,780
+real value—hold real value in and of themselves.
+
+28
+00:01:53,100 --> 00:01:56,860
+So, someone starts a business where they'll keep your fruit credits safe for you, free
+
+29
+00:01:56,860 --> 00:02:02,540
+of charge. Better yet, they'll pay you to keep your credits safe. It sounds like a scam,
+
+30
+00:02:02,540 --> 00:02:06,700
+and maybe it is, but you take the risk and deposit a thousand credits.
+
+31
+00:02:06,700 --> 00:02:11,460
+Elsewhere, in order to grow more watermelons this year, and therefore earn more fruit credits,
+
+32
+00:02:11,460 --> 00:02:15,780
+a watermelon farmer needs more credits than she has to exchange for an irrigation system.
+
+33
+00:02:15,780 --> 00:02:20,460
+So, this new credit storage business offers to give her 7,500 credits if she promises
+
+34
+00:02:20,460 --> 00:02:24,800
+to give 9,000 back in a year. This seems like a safe bet since she's already a successful
+
+35
+00:02:24,800 --> 00:02:28,060
+watermelon farmer, and it's worth it for her since she'll get the new irrigation
+
+36
+00:02:28,060 --> 00:02:31,500
+system, and worth it to this new fruit credit safeguarding business since they'll get
+
+37
+00:02:31,500 --> 00:02:35,180
+more credits, and everyone ends up happier than when they started.
+
+38
+00:02:35,180 --> 00:02:40,060
+Meanwhile, you're told that you can take your credits out at any time, and you can,
+
+39
+00:02:40,060 --> 00:02:44,540
+even if they only kept 250 of them on hand. That's because there are nine more farmers
+
+40
+00:02:44,540 --> 00:02:48,380
+that deposited their thousand credits too, and even if the safeguarding business only
+
+41
+00:02:48,380 --> 00:02:52,460
+kept a quarter of them, a quarter of all deposits is much more than your thousand,
+
+42
+00:02:52,460 --> 00:02:57,020
+and the chances of everyone wanting their credits at the same time is negligibly low.
+
+43
+00:02:57,020 --> 00:03:02,880
+So, this is a free money machine. You make money, the bank makes money, and the watermelon
+
+44
+00:03:02,880 --> 00:03:11,380
+farmer makes money. Everyone makes money. But wait, everyone makes money? You, the bank,
+
+45
+00:03:11,380 --> 00:03:15,460
+and the watermelon farmer end up with more money than when you started, so where did
+
+46
+00:03:15,460 --> 00:03:17,060
+it come from?
+
+47
+00:03:17,060 --> 00:03:21,100
+If we turn this into a closed loop, where no money enters or exits the system, we can
+
+48
+00:03:21,100 --> 00:03:26,300
+track down the source. So, ten people with 10,000 credits each deposit a thousand, meaning
+
+49
+00:03:26,300 --> 00:03:31,620
+the bank now has 10,000. The bank lends those 7,500 out to the watermelon farmer, meaning
+
+50
+00:03:31,620 --> 00:03:36,980
+it now holds 2,500. She pays that 7,500 to one of the ten depositors for an irrigation
+
+51
+00:03:36,980 --> 00:03:41,360
+system they're selling. One growing season later, the farmer has 9,000 watermelons that
+
+52
+00:03:41,360 --> 00:03:45,180
+she brings to the market, and sells 900 of them to each of the same group of ten that
+
+53
+00:03:45,180 --> 00:03:50,220
+put their money into the bank. They now each have 9,100 credits, a thousand of which sit
+
+54
+00:03:50,220 --> 00:03:54,700
+in the bank. Meanwhile, the farmer has 9,000 what she gives to the bank, meaning it now
+
+55
+00:03:54,700 --> 00:04:01,500
+holds 11,500 credits. So, the farmer has nothing, the ten individuals have 98,500 total, and
+
+56
+00:04:01,500 --> 00:04:09,420
+the bank has 11,500, meaning there are now 110,000 credits in the system. Once again,
+
+57
+00:04:09,420 --> 00:04:11,820
+money has appeared out of thin air.
+
+58
+00:04:12,460 --> 00:04:17,940
+So, its source. In the very first step, 10,000 credit deposits go into the bank, but the
+
+59
+00:04:17,940 --> 00:04:24,100
+ten individuals still each have $10,000. It's just that 1,000 of it's in the bank. That's
+
+60
+00:04:24,100 --> 00:04:27,820
+not the bank's money, so the 10,000 sitting in their vault isn't theirs, which means
+
+61
+00:04:27,820 --> 00:04:35,140
+the money is created exactly… now. The moment that loan goes out, new money has appeared.
+
+62
+00:04:35,140 --> 00:04:39,700
+The original depositors still have their 100,000 credits, because with the way the fractional
+
+63
+00:04:39,700 --> 00:04:45,900
+reserve banking system works, they can all, on an individual level, withdraw their 10,000.
+
+64
+00:04:45,900 --> 00:04:52,540
+But simultaneously, the watermelon farmer has 7,500 very real credits. If you have a
+
+65
+00:04:52,540 --> 00:04:57,640
+roommate that you agree to share your blender with, only one blender physically exists,
+
+66
+00:04:57,640 --> 00:05:01,660
+but two blenders' worth of value is being extracted from it, because you're both using
+
+67
+00:05:01,660 --> 00:05:06,740
+it just as much as you'd use your own, dedicated blender. That's essentially what's happening
+
+68
+00:05:06,740 --> 00:05:11,620
+with money, except that with money, we track the per person value, rather than the per
+
+69
+00:05:11,620 --> 00:05:16,060
+blender value. Now, it'd be easy to argue that we can't consider the bank to have
+
+70
+00:05:16,060 --> 00:05:20,660
+created 10,000 credits, and that's fair, because the system wouldn't work if it lent
+
+71
+00:05:20,660 --> 00:05:25,780
+10,000, because it couldn't give the original depositors their money back. But it does work
+
+72
+00:05:25,780 --> 00:05:31,380
+when they give away 7,500—a 25% reserve ratio is very typical in a fractional reserve
+
+73
+00:05:31,380 --> 00:05:37,180
+banking system—so we can at least say 7,500 was created. You could still argue that the
+
+74
+00:05:37,180 --> 00:05:42,180
+7,500 isn't actually money since it's eventually owed back to the depositors, except
+
+75
+00:05:42,180 --> 00:05:48,460
+that, if you trust and engage in the global financial system, that's not what you believe.
+
+76
+00:05:48,460 --> 00:05:52,340
+When you receive a loan, you can take out that money in cash, and when you deposit money
+
+77
+00:05:52,340 --> 00:05:57,060
+in a bank account, you can take out that money in cash—it is very real money, representing
+
+78
+00:05:57,060 --> 00:06:03,020
+very real value. This is exactly why answering the question of how much money exists is so
+
+79
+00:06:03,020 --> 00:06:07,340
+tough. There are at least six different commonly accepted definitions, incorporating different
+
+80
+00:06:07,340 --> 00:06:12,140
+combinations of currency, demand deposits, traveler's checks, time deposits, and more,
+
+81
+00:06:12,140 --> 00:06:15,860
+and this means of money creation is one of the primary activities that central banks
+
+82
+00:06:15,860 --> 00:06:20,340
+like the Federal Reserve, Bank of England, or Bank of Japan seek to administer and regulate.
+
+83
+00:06:20,340 --> 00:06:23,940
+They're in charge of telling banks how much money they have to keep in reserves, which
+
+84
+00:06:23,940 --> 00:06:28,180
+throttles how much money appears out of thin air through banks' lending process.
+
+85
+00:06:28,180 --> 00:06:33,060
+Of course, the aspect to take note of is the fact that money is created when it moves—money
+
+86
+00:06:33,060 --> 00:06:38,880
+is never created while it's sitting still. So, back in 1867, when moving money was tough
+
+87
+00:06:38,880 --> 00:06:43,420
+and banks were rudimentary, physical currency still pretty well correlated to the total
+
+88
+00:06:43,420 --> 00:06:49,300
+supply of money—most dollars were represented by a physical bill or coin—but since then,
+
+89
+00:06:49,300 --> 00:06:54,900
+well, things have changed. Abstraction helps money move. Adding paper
+
+90
+00:06:54,900 --> 00:07:00,340
+stand-ins for precious, rare minerals speeds up the transportation of funds and transactions.
+
+91
+00:07:00,340 --> 00:07:04,940
+Abstraction helps money grow, too, as a bank's ability to loan money provides its customers
+
+92
+00:07:04,940 --> 00:07:10,280
+the assets to then create value. Abstraction, however, doesn't alone move money from one
+
+93
+00:07:10,280 --> 00:07:14,700
+bank to the next, one town to the next, one state to the next, or one country to the next
+
+94
+00:07:14,700 --> 00:07:20,660
+like it does today. That required standardization. Before the Civil War, there were thousands
+
+95
+00:07:20,660 --> 00:07:24,940
+of different types of paper money backed by all sorts of private and public institutions
+
+96
+00:07:24,940 --> 00:07:30,820
+in the US. Say, for example, a watchmaker from Waltham, Massachusetts in 1857 went into
+
+97
+00:07:30,820 --> 00:07:36,060
+their bank to withdraw this $20 bill to buy some machinery down in Brookline. This isn't
+
+98
+00:07:36,060 --> 00:07:41,260
+the $20 bill anyone today is used to—this is a Waltham Bank $20 bill, redeemable in
+
+99
+00:07:41,260 --> 00:07:46,220
+gold at only the Waltham Bank but of uncertain value to anyone outside of the Waltham Bank.
+
+100
+00:07:46,220 --> 00:07:50,980
+Now, while the watchmaker's not taking on the risk or inconvenience of carrying $20
+
+101
+00:07:50,980 --> 00:07:54,740
+worth of gold, there's also no guarantee that the merchant in Brookline will take the
+
+102
+00:07:54,740 --> 00:07:59,380
+note from a bank so far out of their way. Perhaps, because of the distance, they'll
+
+103
+00:07:59,380 --> 00:08:04,820
+tack on a fee for the inconvenience of cashing the note, and say the machinery is now $23.
+
+104
+00:08:04,820 --> 00:08:08,560
+Or perhaps the watchmaker gets lucky, and they are only one of many business relations
+
+105
+00:08:08,560 --> 00:08:12,120
+the Brookline merchant keeps in the Waltham area, then maybe the merchant will accept
+
+106
+00:08:12,120 --> 00:08:15,600
+the Waltham dollars knowing they'll be able to use the bill in the future.
+
+107
+00:08:15,600 --> 00:08:19,520
+Regardless of the fate of the Waltham watchmaker, what their predicament underscores is that
+
+108
+00:08:19,520 --> 00:08:24,360
+money, when in many different forms from many different places, was hard to move, hard to
+
+109
+00:08:24,360 --> 00:08:28,740
+transact with, and hard to transfer outside of one's immediate community.
+
+110
+00:08:28,740 --> 00:08:34,080
+All this changed with the National Currency Acts of the 1860s. Out went thousands of separately
+
+111
+00:08:34,080 --> 00:08:39,120
+backed private bank notes, in came nationally chartered banks, and so began a new era of
+
+112
+00:08:39,120 --> 00:08:44,000
+money moving with a new means with which to do it—the modern check.
+
+113
+00:08:44,000 --> 00:08:48,960
+Under the new rules, all nationally chartered banks had to carry about 25% of their liabilities
+
+114
+00:08:48,960 --> 00:08:53,600
+in reserve—in other words, of all the money they were good for, a quarter of that needed
+
+115
+00:08:53,600 --> 00:08:58,920
+to be held in gold in the basement. Crucially, though, the smaller banks, or country banks,
+
+116
+00:08:58,920 --> 00:09:03,320
+could hold these reserves in the central reserve cities, or the few big banks.
+
+117
+00:09:03,320 --> 00:09:08,280
+Effectively, the two banks were now connected—someone could now take a check from their local bank,
+
+118
+00:09:08,280 --> 00:09:11,760
+head into the city and buy supplies, and that check could then be settled at the larger
+
+119
+00:09:11,760 --> 00:09:16,360
+correspondent bank without any gold having to move outside the vault. And not only were
+
+120
+00:09:16,360 --> 00:09:20,160
+these two banks connected, countless small banks were now all linked together through
+
+121
+00:09:20,160 --> 00:09:23,120
+that correspondent bank functioning as a hub.
+
+122
+00:09:23,120 --> 00:09:27,600
+This simple connection had major consequences—it allowed a customer to move money regionally
+
+123
+00:09:27,600 --> 00:09:31,880
+without the hassle of navigating a maze of domestic exchange rates, thus stimulating
+
+124
+00:09:31,880 --> 00:09:36,440
+growth, and without the slow and risky necessity of moving actual coins or cash from bank to
+
+125
+00:09:36,440 --> 00:09:38,880
+bank, making the process quicker.
+
+126
+00:09:38,880 --> 00:09:43,000
+In this environment, armed with a Waltham check rather than Waltham dollars, a watchmaker
+
+127
+00:09:43,000 --> 00:09:46,680
+could pay for their supplies, the merchant could deposit their check at the Brookline
+
+128
+00:09:46,680 --> 00:09:51,000
+bank, and the Brookline bank, in turn, assuming because of their proximity they share a correspondent
+
+129
+00:09:51,000 --> 00:09:54,640
+bank, would send the check to the correspondent which then would balance each bank's funds
+
+130
+00:09:54,640 --> 00:09:56,680
+by moving money across the basement.
+
+131
+00:09:56,680 --> 00:10:01,700
+Now, this process at the time was far from efficient—especially when banks didn't
+
+132
+00:10:01,700 --> 00:10:05,820
+share immediate correspondent banks. When a check moved money between banks without
+
+133
+00:10:05,820 --> 00:10:10,480
+a direct link, they had to find a third-party bank, or in some cases multiple banks, to
+
+134
+00:10:10,480 --> 00:10:15,740
+bridge the gap and connect them with a correspondent, racking up fees, delays, and postage all along
+
+135
+00:10:15,740 --> 00:10:21,680
+the way. Take for example this check from 1898 for $43.56, which was deposited at the
+
+136
+00:10:21,680 --> 00:10:25,600
+Second National Bank of Hoboken, New Jersey, before Second National then sent it to Harvey
+
+137
+00:10:25,600 --> 00:10:30,000
+Fisk & Sons, who sent it to the Globe National Bank of Boston, who sent it to the First National
+
+138
+00:10:30,000 --> 00:10:34,000
+Bank of Tonawanda, who sent it to the National Exchange Bank of Albany, who then sent it
+
+139
+00:10:34,000 --> 00:10:38,200
+to a bank in Port Jefferson, who then sent it here, who then sent it here, who then sent
+
+140
+00:10:38,200 --> 00:10:43,320
+it here, who then sent it here, who then sent it here, where it was finally drawn.
+
+141
+00:10:43,320 --> 00:10:48,360
+Still, while inefficient, these early checks were a critical stepping stone in standardizing
+
+142
+00:10:48,360 --> 00:10:53,720
+and moving an increasingly abstract form of money—bank account totals denoted in dollars,
+
+143
+00:10:53,720 --> 00:10:58,240
+not gold. The use of checks, and the ease of their accounting, took a major step forward
+
+144
+00:10:58,240 --> 00:11:03,200
+with the Federal Reserve Act of 1913, which split the nation into 12 separate regions,
+
+145
+00:11:03,200 --> 00:11:06,600
+and tasked each regional Federal Reserve Bank with filling the role of clearinghouse for
+
+146
+00:11:06,600 --> 00:11:12,000
+all regional checks. This centralization streamlined processing, as the bank could now credit a
+
+147
+00:11:12,000 --> 00:11:16,080
+merchant's account and know exactly which Federal Reserve Bank to send it to. It also
+
+148
+00:11:16,080 --> 00:11:20,140
+codified a critically important function that would allow money to move farther, and become
+
+149
+00:11:20,140 --> 00:11:25,020
+increasingly abstract in the decades to come—rigorous accounting.
+
+150
+00:11:25,020 --> 00:11:30,180
+In the early 1900s, checks were still rather rare, and their use remained mostly regional.
+
+151
+00:11:30,180 --> 00:11:35,020
+Then came the 50s. Now, Americans were making more money than ever, spending more money
+
+152
+00:11:35,020 --> 00:11:40,820
+than ever, and had more bank accounts than ever. From 1943 to 1952, national check use
+
+153
+00:11:40,820 --> 00:11:45,260
+doubled from $4 to $8 billion a year, and through multi-step proofing and processing,
+
+154
+00:11:45,260 --> 00:11:49,980
+American banks were wading through some 69 million checks every day.
+
+155
+00:11:49,980 --> 00:11:54,300
+Banks were drowning under the pressure. Branches closed at two in the afternoon to shift all
+
+156
+00:11:54,300 --> 00:11:58,940
+work to matching signatures, running the adding machine, double-checking the math, and packaging
+
+157
+00:11:58,940 --> 00:12:03,860
+the checks for shipping to the Federal Reserve. The work was grueling—most clerical staff
+
+158
+00:12:03,860 --> 00:12:08,980
+at banks quit within a year—but it was absolutely necessary. With more money passing through
+
+159
+00:12:08,980 --> 00:12:13,460
+their hands than ever before, they had to be as accurate as humanly possible.
+
+160
+00:12:14,460 --> 00:12:18,160
+Relief, though, came in the form of a computer the size of a room designed by the Stanford
+
+161
+00:12:18,160 --> 00:12:22,820
+Research Institute, funded by the Bank of America, and built by IBM. They called it
+
+162
+00:12:22,820 --> 00:12:28,180
+the Electronic Recording Machine Accounting, or IRMA, and it transformed banking. Before
+
+163
+00:12:28,180 --> 00:12:33,020
+IRMA, checks were processed at every bank branch, they came in all sizes, and they weren't
+
+164
+00:12:33,020 --> 00:12:37,060
+identified by bank account numbers. To move the process of sorting checks to the computer,
+
+165
+00:12:37,060 --> 00:12:41,060
+they'd need to be the same size, and they'd need numbers rather than names to be organized
+
+166
+00:12:41,060 --> 00:12:45,460
+by. Once those standards were adopted, checks were entered into the computer, which read
+
+167
+00:12:45,460 --> 00:12:49,440
+the magnetic ink, and if the account belonged to a Bank of America branch, IRMA would access
+
+168
+00:12:49,440 --> 00:12:54,380
+the account stored in its 16x20 inch magnetic drum memory, check for any account holds,
+
+169
+00:12:54,380 --> 00:12:58,100
+make sure the balance in the account was positive, draw the amount, tally the total, save the
+
+170
+00:12:58,100 --> 00:13:03,300
+new balance, and print the new record. Were human eyes misread, and human hands mistyped,
+
+171
+00:13:03,300 --> 00:13:07,040
+IRMA didn't, as the computer even went so far as to check the routing number by plugging
+
+172
+00:13:07,040 --> 00:13:10,580
+the digits into this algorithm to ensure the checks' legitimacy.
+
+173
+00:13:11,100 --> 00:13:16,340
+Now, the paper processing crisis that began in the 1950s was not solely a Bank of America
+
+174
+00:13:16,340 --> 00:13:21,340
+problem—it was structural. From monthly insurance bills to tax returns to social security
+
+175
+00:13:21,340 --> 00:13:25,720
+checks, no matter how many sorting machines were added to the system, if every transaction
+
+176
+00:13:25,720 --> 00:13:30,140
+took the form of a flimsy paper check that needed to physically pass from person to bank
+
+177
+00:13:30,140 --> 00:13:35,620
+to fed to bank, then the paper avalanche simply couldn't be contained. So, payment systems
+
+178
+00:13:35,620 --> 00:13:40,180
+went electronic, and the Automated Clearinghouse Network revolutionized the domestic movement
+
+179
+00:13:40,180 --> 00:13:44,780
+of money when adopted in the 1970s. Where thousands of checks once poured into reserve
+
+180
+00:13:44,780 --> 00:13:49,740
+banks and private clearinghouses every day, the ACH network now allowed for direct deposits,
+
+181
+00:13:49,740 --> 00:13:54,080
+automatic payments, and ATM transactions. Now someone looking to pay their insurance
+
+182
+00:13:54,080 --> 00:13:57,780
+premium could hand over their bank account information to the insurance company, the
+
+183
+00:13:57,780 --> 00:14:01,420
+company's bank would then create an ACH entry requesting to withdraw money, the request
+
+184
+00:14:01,420 --> 00:14:05,140
+would be processed by the ACH's operator, and the money would be debited from one account,
+
+185
+00:14:05,140 --> 00:14:08,460
+and credited to the other, no check required.
+
+186
+00:14:08,460 --> 00:14:13,260
+Of course, security and the ability to uphold accurate accounting were of paramount concern
+
+187
+00:14:13,260 --> 00:14:18,540
+in an era before the internet. Companies adopted microdeposits as a means to verify bank accounts,
+
+188
+00:14:18,540 --> 00:14:23,620
+Federal Reserve officials helped form a regulatory body called NATCHA, and in 1978 Congress passed
+
+189
+00:14:23,620 --> 00:14:27,360
+the Electronic Fund Transfer Act to limit customer liability and protect them against
+
+190
+00:14:27,360 --> 00:14:33,220
+wrong or fraudulent charges. The measures successfully erased consumer fears. Today,
+
+191
+00:14:33,220 --> 00:14:39,340
+the ACH network moves over $50 trillion across 23 billion transfers a year.
+
+192
+00:14:39,340 --> 00:14:45,400
+While ACH securely moves mountains of money stateside, its role ends where the US does.
+
+193
+00:14:45,400 --> 00:14:49,100
+For international transfers, there's the Society for Worldwide Interbank Financial
+
+194
+00:14:49,100 --> 00:14:54,940
+Telecommunications, or SWIFT, which, like ACH, was established in the 70s to streamline payments,
+
+195
+00:14:54,940 --> 00:14:59,880
+but at the international scale. SWIFT doesn't actually move money, but instead provides
+
+196
+00:14:59,880 --> 00:15:04,480
+its 11,000 member banks a secure network and a standardized messaging format to send
+
+197
+00:15:04,480 --> 00:15:09,880
+payment orders. Prior to SWIFT, international transfers lacked standardization, security,
+
+198
+00:15:09,880 --> 00:15:14,660
+and accuracy. So, SWIFT started from scratch, organizing its member banks in a manner similar
+
+199
+00:15:14,660 --> 00:15:18,720
+to the routing numbers on a check, assigning each an 8-to-11 character code that denotes
+
+200
+00:15:18,720 --> 00:15:23,920
+bank name, country, location, and branch. The program also standardized how payments
+
+201
+00:15:23,920 --> 00:15:27,360
+were communicated. They start with a bank code, but the payment instructions are outlined
+
+202
+00:15:27,360 --> 00:15:31,960
+in an MT-103 document, which, as they're processed, can be tracked by the bank and,
+
+203
+00:15:31,960 --> 00:15:36,280
+once the transaction is complete, will function as a receipt. Now, if someone's wiring money
+
+204
+00:15:36,280 --> 00:15:41,000
+from the US, through, say, Bank of America, to Germany, through Deutsche Bank, rather
+
+205
+00:15:41,000 --> 00:15:45,520
+than actually sending money, the MT-103 will tell Deutsche Bank how many dollars to pull
+
+206
+00:15:45,520 --> 00:15:49,820
+from Bank of America's Nostra account held at Deutsche Bank, and convert them to Euros
+
+207
+00:15:49,820 --> 00:15:54,040
+to be deposited into the recipient's account. Like correspondent banks settling checks in
+
+208
+00:15:54,040 --> 00:15:58,400
+the early 1900s without taking the risk of shipping gold coins in the mail, SWIFT members
+
+209
+00:15:58,400 --> 00:16:03,800
+are able to fulfill international transactions without actually moving money across oceans.
+
+210
+00:16:03,800 --> 00:16:07,460
+Through its simplicity relative to programs before it, once a SWIFT transfer is initiated
+
+211
+00:16:07,460 --> 00:16:11,340
+and then communicated through SWIFTnet's encrypted message system, a transfer is usually
+
+212
+00:16:11,340 --> 00:16:16,200
+completed within 24 to 48 hours, with more complicated and multi-bank transactions accounting
+
+213
+00:16:16,200 --> 00:16:21,880
+for some transfers taking longer. Still, even though SWIFT functions as a member-owned cooperative
+
+214
+00:16:21,880 --> 00:16:25,960
+and therefore doesn't maximize profit, it's neither cheap nor easy to manage a
+
+215
+00:16:25,960 --> 00:16:31,320
+global network capable of securely passing along more than 40 million messages a day.
+
+216
+00:16:31,320 --> 00:16:36,080
+This cost is felt by member banks who pay to enter SWIFT, then pay SWIFT by the message—costs
+
+217
+00:16:36,080 --> 00:16:41,760
+that add up and costs that trickle down, too. Today, each international transfer, be it
+
+218
+00:16:41,760 --> 00:16:46,120
+part of everyday business or someone sending money to their family back home, usually gets
+
+219
+00:16:46,120 --> 00:16:50,320
+tagged with a fee likely starting in the $40 range.
+
+220
+00:16:50,320 --> 00:16:54,260
+Given the cost and complexity of transferring money, some have identified the opportunity
+
+221
+00:16:54,260 --> 00:16:59,780
+of layering a simpler system on top of it. Wwise, for example, is one of the world's
+
+222
+00:16:59,780 --> 00:17:04,560
+hottest fintech startups, focusing primarily on remittances. There are loads of low-to-medium
+
+223
+00:17:04,560 --> 00:17:08,720
+income people working outside of their home country who pay those huge fees to send money
+
+224
+00:17:08,720 --> 00:17:13,600
+to their families back home, but Wwise designed a system that almost entirely circumvents
+
+225
+00:17:13,600 --> 00:17:18,440
+those intermediaries. Essentially, if someone in the US is sending $1,000 to someone in
+
+226
+00:17:18,440 --> 00:17:22,840
+Australia, they actually transfer money into Wwise's American account, then the company
+
+227
+00:17:22,840 --> 00:17:27,400
+instructs its Australian account to send the equivalent amount, minus fees, to the recipient.
+
+228
+00:17:27,400 --> 00:17:32,320
+They're essentially a private market equivalent of SWIFT—it's a dead simple system that
+
+229
+00:17:32,320 --> 00:17:37,400
+leads to the same end result, but with far less cost and complexity.
+
+230
+00:17:37,400 --> 00:17:42,300
+Banks can't do this. You see, if Wwise messes up and sends the recipient money without debiting
+
+231
+00:17:42,300 --> 00:17:48,200
+the sender, the company is out $1,000. If a bank messes up and gives the recipient $1,000
+
+232
+00:17:48,200 --> 00:17:54,240
+without the sender being debited, $1,000 just appears out of nowhere. So that can't
+
+233
+00:17:54,240 --> 00:18:01,120
+happen. It just simply can't. If it does, money breaks, our trust breaks, the system
+
+234
+00:18:01,120 --> 00:18:07,080
+breaks. If money erroneously appears outside of the context in which we allow it to appear,
+
+235
+00:18:07,080 --> 00:18:10,560
+then it's not functioning like its physical counterpart would.
+
+236
+00:18:10,560 --> 00:18:14,880
+Money really is just a means of accounting. It's accounting for the fact that you owe
+
+237
+00:18:14,880 --> 00:18:18,720
+me an orange, but if you give me the orange and I don't give you the fruit credit, then
+
+238
+00:18:18,720 --> 00:18:23,640
+the system didn't work—the accounting failed. For the modern digital financial system
+
+239
+00:18:23,640 --> 00:18:28,800
+to function at all, the process of transfer has to be as infallible as the process of
+
+240
+00:18:28,800 --> 00:18:33,560
+handing a clay ball from one person to the next. Simulating physicality in a digital
+
+241
+00:18:33,560 --> 00:18:39,500
+network as vast and distributed as the global financial system is incredibly complex, considering
+
+242
+00:18:39,500 --> 00:18:45,400
+how complex this system itself is. These expensive, burdensome middlemen are the institutions
+
+243
+00:18:45,400 --> 00:18:51,220
+that protect that simulated physicality, so without them, money is worthless.
+
+244
+00:18:51,220 --> 00:18:55,540
+Alternatives are arising, most notably the blockchain, and central banks like the Federal
+
+245
+00:18:55,540 --> 00:18:59,780
+Reserve are studying whether to introduce blockchain-based digital currencies, but for
+
+246
+00:18:59,780 --> 00:19:05,420
+now, the world still runs on money, and money's value is all in the system's ability to
+
+247
+00:19:05,420 --> 00:19:07,500
+account for it.
+
+248
+00:19:07,500 --> 00:19:13,540
+Few things in the digital world are as finite as money, with one notable exception—domains.
+
+249
+00:19:13,540 --> 00:19:18,540
+There is only one wendoverproductions.com, for example. That scarcity means domains have
+
+250
+00:19:18,540 --> 00:19:22,800
+real value, and they especially have real value to you if you start a business, or a
+
+251
+00:19:22,800 --> 00:19:27,100
+YouTube channel, or something where having the corresponding domain name matters.
+
+252
+00:19:27,100 --> 00:19:30,860
+Hover can help with that. They're the domain marketplace that I've used to buy all of
+
+253
+00:19:30,860 --> 00:19:35,260
+my domains, because they have fair and transparent pricing, a super quick purchasing process,
+
+254
+00:19:35,260 --> 00:19:40,200
+and absolutely excellent customer support. Quite literally the moment we landed on Jetlag
+
+255
+00:19:40,200 --> 00:19:44,320
+the Game as the name for our new channel, for example, I went on Hover and bought Jetlag
+
+256
+00:19:44,320 --> 00:19:48,460
+the Game dot com, and if the dot com domain you want is already taken, Hover can still
+
+257
+00:19:48,460 --> 00:19:53,360
+help because they offer over 400 unique domain extensions, allowing you to create combinations
+
+258
+00:19:53,360 --> 00:19:57,560
+like our wendover.productions domain. And to top it all off, you can set up an email
+
+259
+00:19:57,560 --> 00:20:02,200
+using your new domain in less than a minute, allowing you to drop the at gmail or at iCloud
+
+260
+00:20:02,200 --> 00:20:03,920
+a bit for something of your own.
+
+261
+00:20:03,920 --> 00:20:07,960
+All in all, Hover is just simply the best place to buy domains online, and it's made
+
+262
+00:20:07,960 --> 00:20:11,700
+even better by the fact that clicking the button on screen or heading to hover.com slash
+
+263
+00:20:11,700 --> 00:20:16,080
+wendover will get you 10% off your first purchase, and help support the channel while you're
+
+264
+00:20:16,080 --> 00:20:16,580
+at it.
+

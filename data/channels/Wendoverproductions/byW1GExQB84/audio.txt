@@ -1,0 +1,217 @@
+This video was made possible by CuriosityStream.
+Sign up for the Nebula bundle deal, on sale for $15 a year, to get access to two great
+streaming sites and help support independent creators at CuriosityStream.com slash Wendover.
+COVID-19, a virus orders of magnitude smaller than a particle of dust, has turned daily
+life on earth into something deeply unfamiliar.
+In the ten or so months since it first emerged, the virus has settled at a steady clip of
+killing 5,000 people per day, or nearly a million total, currently.
+It has played havoc with the world economy, plunging the globe into the worst economic
+crisis since World War II.
+It has interrupted an era of mountain globalization and pushed us into a more insular, nationalistic
+state.
+The effects of this virus are truly all-encompassing and consistently dreadful, but time has bestowed
+upon us a reward for our patience.
+We are potentially nearing the beginning of the end, meaning we could now be at the end
+of the middle.
+That end of this virus will take far longer than the beginning—we're likely far from
+halfway through the pandemic in terms of time—but the slow decline in dreadfulness is potentially
+on the horizon.
+That's because a vaccine is coming.
+There was previously a period of doubt on whether an effective vaccine could be developed—it
+was never a sure shot—but all indications currently suggest, given the unprecedented
+extent of scientific effort, that it is indeed coming.
+The only, and paramount question, is when.
+Right now, in September 2020, all attention is focused on the late-October, early-November
+timeframe.
+That's the earliest possible moment when any of the front-runner vaccines, from major
+manufacturers including AstraZeneca, Pfizer, and Moderna, could enter regulatory review.
+If all the data confidently point to the vaccine exhibiting an acceptable level of safety and
+effectiveness, it is possible that one of these will then be granted emergency use authorization
+by the American FDA or its equivalent by other major national regulators.
+It's worth noting that this is far from a sure shot, but experts do say that having
+a vaccine in 2020 is a less than long shot possibility.
+However, it is almost certain that you will not be injected by a COVID-19 vaccine in the
+year 2020.
+It is possible, but for the average person, when you actually get a dose of a COVID vaccine
+has much less to do with when it's approved and much more with how fast it is manufactured
+and distributed.
+The full effects of the pandemic—health, social, and economic—will not end until
+a critical mass of people are vaccinated.
+That means that when we get back to normal life has much more to do with when the last
+person is vaccinated, rather than the first.
+This is why some have said that the fast distribution of a vaccine will be an even greater challenge
+than the development itself.
+This process, this challenge of getting the majority of the world's population vaccinated,
+can quite legitimately be described as the most daunting and consequential single logistical
+challenge ever.
+The stakes have never been higher, but the challenge has also never been greater.
+Let's look at why.
+First and foremost, it's a scale problem.
+Shipping and administering one vaccine to one person is not difficult, but shipping
+and administering five billion vaccines to five billion people is.
+That's because there just isn't enough room in our world's logistics network, as
+it is now, to do that.
+Making it even tougher, there's more chance than not, based on the current leading vaccines,
+that the first major vaccine to be approved will require two doses administered 21 or
+28 days apart.
+That doubles the challenge.
+Distributing ten or more billion doses of a vaccine would be difficult enough in normal
+times, but these are far from normal times.
+With international travel all but non-existent, currently sitting at more than 90% down, passenger
+airlines have dramatically cut back their international route networks.
+Now, this is an issue because traditionally, some 50% of pharmaceuticals are shipped in
+the belly hold of passenger aircraft rather than on dedicated freighters, as this can
+help them get closer to their final destination faster.
+With limited passenger service, overall cargo capacity is down about 30% while cargo demand
+is only about 15% down, meaning there is already a supply crunch.
+This has led to existing dedicated freighter aircraft being used more, additional dedicated
+freighters coming into service, but still, due to constrained supply, a dramatic increase
+in shipping costs.
+Even already, before the COVID vaccine comes into the global logistics network, pharmaceutical
+manufacturers have had to come up with new techniques to ship their goods including,
+for example, flying their product to where shipping rates are cheaper and trucking them
+to their final destination or chartering private planes.
+Of course, the world already experienced a massive logistics challenge this year with
+the distribution of personal protective equipment, and shippers were able to scale up for that
+reasonably successfully, but there's one simple reason why it won't be so easy this
+time around—the cold chain.
+Vaccines are temperature sensitive.
+Most all of them have to be stored in a highly precise, climate-controlled environment in
+order to stay safe and effective.
+So, the cold chain is the supply chain suited to shipping goods that need to be kept cold
+or frozen, such as meat, chemicals, and pharmaceuticals.
+Of course, the difficulty with the cold chain is that everything used has to be specialized.
+The origin warehouse, the truck, the plane, the in-route warehouse, and the final destination
+each need to have the equipment to keep the goods at the specified temperature, or the
+goods have to be shipped in packaging that keeps them at the specified temperature.
+Both options are complicated, and complication compounded by other complication is what makes
+a true logistical challenge.
+It doesn't end there, though.
+One of the leading vaccine candidates, Pfizer's BNT162b2, must be stored and transported at
+around negative 90 degrees Fahrenheit or negative 68 degrees Celsius.
+That is far, far colder than the requirements of most vaccines, which can ship either at
+refrigerated temperatures or a wider range of freezing temperatures.
+A thermal requirement such as this is a whole different ballgame, and it means that they'll
+be able to use only a subset of cold chain infrastructure, which is already a subset
+of overall logistics infrastructure.
+Beyond the issue of actually getting such a vaccine to a distribution site, most hospitals
+don't even have facilities to keep a vaccine at such a temperature, let alone clinics or
+pharmacies, meaning that even finding places that can receive this vaccine is a challenge.
+Part of the reason why this obstacle has come up is that traditionally, vaccines are thoroughly
+tested to determine what sort of storage and shipping conditions they can endure while
+still staying safe and effective, but with the breakneck pace of development for these
+COVID-19 vaccines, there likely will not have been enough time to conduct these tests before
+distribution meaning they'll have to keep the standards at what's already proven.
+So, to reiterate, already, a likely vaccine will only be able to be shipped through a
+subset of a subset of a subset of an already strained logistics network to a subset of
+sites and it'll need to happen many billions of times, but even the solution to these challenges
+present additional challenges.
+Pfizer, for example, knowing that the unique distribution requirements of their vaccine
+could limit its commercial success, has developed a partial solution.
+It's essentially a highly specialized standalone box that can, with the use of dry ice, keep
+the vaccine at the required temperature for up to ten days.
+This means that, hypothetically, the vaccine could be shipped through a more traditional
+logistics network, however, this box has highly specific requirements.
+For one, upon arrival, it can only be opened twice per day, not more than one minute at
+a time, in order to keep the vaccines at the required temperature.
+That means that a distribution site would need to accurately predict how many doses
+they would need in a given day before that day.
+If they take out too little, they'd be slowing the process by not vaccinating everyone they
+can, but if they take out too much, they'd have potentially life-saving vaccines go to
+waste at the end of the day.
+Also, this box can only carry vaccines in multiples of a thousand, and keep in mind
+that it only keeps cold for ten days.
+So how, for example, do you go about getting the vaccine to a clinic that can only vaccinate
+50 people in a day, like a rural clinic in a small town?
+Even if shipping was instantaneous, they could only vaccinate 500 people in ten days, meaning
+half their vaccines would go bad.
+Pfizer is apparently developing a smaller temperature-controlled box to solve this problem,
+but that means adding a whole other type of distribution, which increases complexity,
+which slows the process down.
+In its scenario planning, the American CDC mapped out a distribution process for if both
+Pfizer and Moderna's vaccines are approved and, if this happened, the Pfizer vaccine
+would be directed to only large distribution sites that would either have the facilities
+for ultra-cold storage, or the capacity to vaccinate enough people that the short shelf
+life of these vaccines wouldn't be an issue.
+Then, the Moderna vaccine, which only requires traditional freezer temperatures, would be
+directed to smaller sites with less advanced facilities.
+This would certainly create a scenario in the US, and likely elsewhere, where the Pfizer
+vaccine would be primarily distributed to people in cities, while the Moderna vaccine
+would be the vaccine of choice for rural areas.
+Another challenge that needs to be confronted is the order of operations for distribution.
+The coronavirus affects different people in different ways.
+This means that if we want a vaccine to save the most number of lives possible, the first
+person in line should be that who is most susceptible to COVID-19, and the last person
+in line should be that who is least susceptible.
+One set of research modeled two scenarios—the first where, of the first three billion doses
+available, 50 high-income countries buy up two billion of them.
+The second was where the first three billion doses were distributed to countries proportionally
+based on their population, regardless of wealth.
+In this model, twice as many people died overall with the first scenario—the wealthy countries'
+first scenario—than the equitable, proportional approach.
+However, for vaccination purposes, it is the least wealthy countries—arguably those
+that need the vaccine most—that are toughest to distribute to.
+Poor countries tend to have limited cold-chain infrastructure, let alone normal logistics
+infrastructure, and fragmented, poorly funded healthcare systems.
+Distributing and administering a complex vaccine like Pfizer's will already be tough enough
+in the wealthy countries like the United States, but just imagine how difficult it will be
+to get a vaccine from distributor to someone's arm in rural Democratic Republic of the Congo,
+for example, in ten days while keeping it at negative 90 degrees Fahrenheit.
+How soon a COVID vaccine is administered will quite directly correlate to how many lives
+are saved.
+Every day of delay will, with certainty, lead to more death and despair.
+The manufacturers are working as fast as they can—they are already producing millions
+of doses of their vaccines before they're approved so they can be distributed as fast
+as possible, and regulatory agencies have been preparing for months for an unprecedentedly
+fast review process, so it is now truly down to every member of the global logistics network
+to save lives.
+Of course, many of those that will be involved, especially once we get to wide-scale distribution,
+will be companies, not governments or non-profits, and for them, this presents a massive business
+opportunity in addition to the positive public relations potential.
+UPS, for example, has built two freezer farms in Louisville, Kentucky and Venlo, Netherlands,
+for their hubs, which can each hold 48,000 doses and can go down to the temperatures
+required for the Pfizer vaccine.
+DHL and FedEx, too, are reportedly massively upscaling their cold-chain infrastructure
+to be able to handle some of the surge in demand, while other lesser-known logistics
+companies are, too.
+Ultimately, though, it's tough to find someone in the know who doesn't admit that shipping
+will be a bottleneck.
+We already know it's not going to go perfectly, so right now, it's about doing as much work
+as possible to make sure the process goes as well as it can be.
+This will come down to making sure that as much planning work as possible is done now,
+before the vaccine is approved, so that distribution can happen as fast as possible when that does
+happen.
+Now is the time to figure out how and where the vaccine will be distributed.
+If you are a healthy, relatively young person and thinking selfishly, you should care tremendously
+about the distribution process, because you are at the back of the line.
+When you get your shot, when you get to start letting your guard down, has everything to
+do with how fast everyone in front of you gets theirs, and how fast they get theirs
+will also impact how many of them will die.
+We know this process will not be perfect, and it wouldn't be reasonable to ask for
+perfect given the complexity of the challenge, but if we truly put every effort into planning
+and preparing for this now and create a system that orders people by need, rather than wealth,
+we can at least know, at the end of this, that no lives could have been saved if only
+the vaccine got to them faster.
+For our collective consciousness, looking back far in the future, this moment will be
+defined not by when we get to go back to concerts, or parties, or the gym, but rather by how
+many lives we saved when confronting, what is hopefully, the greatest global challenge
+of this generation.
+As you've heard before, the point of Nebula, the streaming site that I and other independent
+creators founded, is to make a greater variety of content types possible.
+For example, I know many of you were fans of my and Brian from Real Engineering's
+old podcast, Showmakers, where we interviewed different educational creators about their
+background, story, and process, but the financials of that show just didn't work, so we stopped
+it.
+Nebula, however, has made it possible for us to relaunch it, so we've done exactly
+that—Showmakers is now a Nebula Original Podcast.
+This is in addition to the two Wendover Originals we've done already, the Half as Interesting
+Original, and another Wendover Original that is coming out next month.
+Of course, the best way to get access to Nebula is CuriosityStream's bundle deal, on sale
+now for $15 a year.
+With that, you also get access to CuriosityStream, where you could watch, for example, the piece
+they made about how the development of the COVID vaccine works, filmed with the actual
+scientists involved.
+That's, of course, in addition to the thousands of other educational shows and documentaries
+they have, and together with Nebula, this represents, truly, the best deal in streaming.
+Sign up today for the bundle deal for just $15 a year with current sale pricing at CuriosityStream.com
+slash Wendover.

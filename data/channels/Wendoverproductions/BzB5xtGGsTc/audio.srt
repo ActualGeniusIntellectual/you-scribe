@@ -1,0 +1,700 @@
+1
+00:00:00,000 --> 00:00:05,540
+This is a Wendover Productions video made possible by Squarespace.
+
+2
+00:00:05,540 --> 00:00:09,240
+Make your next move with a beautiful website from Squarespace.
+
+3
+00:00:09,240 --> 00:00:13,780
+This video is a bit of a continuation of my last one—why planes don't fly faster.
+
+4
+00:00:13,780 --> 00:00:18,420
+I ended up talking a lot about the Concorde, the supersonic plane, but part of the story
+
+5
+00:00:18,420 --> 00:00:20,260
+was left untold.
+
+6
+00:00:20,260 --> 00:00:24,420
+Even though the Concorde failed, even though it wasn't commercially viable, it still
+
+7
+00:00:24,420 --> 00:00:27,980
+had a profound effect on how we fly today.
+
+8
+00:00:27,980 --> 00:00:29,460
+Let me explain.
+
+9
+00:00:29,460 --> 00:00:32,060
+Economy class is not how airlines make money.
+
+10
+00:00:32,060 --> 00:00:36,180
+The real money, at least for the traditional airlines, is in premium cabins.
+
+11
+00:00:36,180 --> 00:00:39,880
+Let's take, for example, this British Airways 777.
+
+12
+00:00:39,880 --> 00:00:44,740
+There are 224 total seats on this plane and it flies daily between London Heathrow and
+
+13
+00:00:44,740 --> 00:00:46,500
+Washington Dulles Airport.
+
+14
+00:00:46,500 --> 00:00:51,540
+A round-trip economy class ticket leaving March 15th and returning on March 22nd costs,
+
+15
+00:00:51,540 --> 00:00:55,060
+at the time of writing, $876.
+
+16
+00:00:55,060 --> 00:01:01,300
+That means that, if each one of the 122 economy class seats is filled, the entire back section
+
+17
+00:01:01,300 --> 00:01:06,180
+of the plane will make the airline, round-trip, $106,872.
+
+18
+00:01:06,180 --> 00:01:14,320
+Meanwhile, the going rate for one of their premium economy seats is $2,633 round-trip
+
+19
+00:01:14,320 --> 00:01:19,500
+meaning the entire cabin will make $105,320.
+
+20
+00:01:19,500 --> 00:01:23,940
+Already you can see that the entire 40 seat premium economy section makes British Airways
+
+21
+00:01:23,940 --> 00:01:27,360
+roughly as much as the entire economy class section.
+
+22
+00:01:27,360 --> 00:01:38,020
+Going up to business class, there are 48 seats sold each for $6,723 making the airline $322,704.
+
+23
+00:01:38,020 --> 00:01:46,100
+The 14 first class seats are sold for $8,715 each or $122,010 total.
+
+24
+00:01:46,100 --> 00:01:52,080
+So once again, the 14 passengers at the front of the plane make the airline more money than
+
+25
+00:01:52,080 --> 00:01:55,200
+the $122 at the back of the plane.
+
+26
+00:01:55,200 --> 00:02:00,640
+In total, the three premium cabins—premium economy, business, and first—make the airline
+
+27
+00:02:00,640 --> 00:02:04,880
+on this flight $550,034.
+
+28
+00:02:04,880 --> 00:02:10,760
+That means that 45% of the passengers account for 84% of the airline's revenue.
+
+29
+00:02:10,760 --> 00:02:13,080
+Now, I need to add some caveats.
+
+30
+00:02:13,080 --> 00:02:18,520
+There is no airline on earth that makes half a million dollars for a six-hour flight over
+
+31
+00:02:18,520 --> 00:02:19,520
+the Atlantic.
+
+32
+00:02:19,520 --> 00:02:21,880
+If they did they would be swimming in money.
+
+33
+00:02:21,880 --> 00:02:26,360
+The fares for this particular routing are significantly higher than the average fare
+
+34
+00:02:26,360 --> 00:02:31,680
+paid for that flight because they're non-stop fares between two high-income, high-demand
+
+35
+00:02:31,680 --> 00:02:32,680
+cities.
+
+36
+00:02:32,680 --> 00:02:36,440
+Of course, a majority of passengers on that flight will not be traveling between London
+
+37
+00:02:36,440 --> 00:02:38,920
+and Washington—they'll have connected.
+
+38
+00:02:38,920 --> 00:02:44,460
+If you originate the ticket in, say, Stockholm, and connect onto that 777 flight to Washington,
+
+39
+00:02:44,460 --> 00:02:52,140
+the economy class price drops to $392, the premium economy to $1,150, the business class
+
+40
+00:02:52,140 --> 00:02:58,220
+to $3,025, and the first class to $5,564.
+
+41
+00:02:58,220 --> 00:03:02,460
+But the proportions are still roughly the same—a vast majority of the revenue comes
+
+42
+00:03:02,460 --> 00:03:04,900
+from a minority of passengers.
+
+43
+00:03:04,900 --> 00:03:09,420
+This particular British Airways 777 is also a very premium-heavy configuration because
+
+44
+00:03:09,420 --> 00:03:15,340
+British Airways is an airline that focuses a lot on premium travel, but still, on average,
+
+45
+00:03:15,340 --> 00:03:20,720
+two-thirds of any airline's revenue comes from passengers in first, business, or premium
+
+46
+00:03:20,720 --> 00:03:23,940
+economy class, but this wasn't always the case.
+
+47
+00:03:23,940 --> 00:03:28,660
+In the beginning of commercial aviation there weren't really any classes because everything
+
+48
+00:03:28,660 --> 00:03:29,660
+was premium.
+
+49
+00:03:29,660 --> 00:03:34,020
+That's not to say that planes were very luxurious—a 1920's plane looked like this—but
+
+50
+00:03:34,020 --> 00:03:38,220
+flying was just so expensive that the experience of flying was the luxury itself.
+
+51
+00:03:38,220 --> 00:03:42,620
+It's kind of like how you don't see Virgin Galactic selling first, business, and economy
+
+52
+00:03:42,620 --> 00:03:45,660
+class seats on their planned tourist flights to space.
+
+53
+00:03:45,660 --> 00:03:48,140
+The experience itself is the luxury.
+
+54
+00:03:48,140 --> 00:03:52,520
+Once commercial space travel becomes commonplace, we'll almost certainly see a classification
+
+55
+00:03:52,520 --> 00:03:56,780
+of the experience, but until a transport method is at a cost where it's attainable to the
+
+56
+00:03:56,780 --> 00:03:59,680
+normal person, it's all first class.
+
+57
+00:03:59,680 --> 00:04:06,100
+In 1950, a round-trip coach fare between New York and London was $675.
+
+58
+00:04:06,100 --> 00:04:12,060
+And for inflation, that's $6,800 today—roughly the same price as a first class ticket on
+
+59
+00:04:12,060 --> 00:04:13,540
+the same route nowadays.
+
+60
+00:04:13,540 --> 00:04:18,100
+It's the exact same type of passenger flying in both these seats.
+
+61
+00:04:18,100 --> 00:04:21,320
+What's changed is who's flying further back in the plane.
+
+62
+00:04:21,320 --> 00:04:25,740
+So the story of the development of airline classes really isn't the story of how airlines
+
+63
+00:04:25,740 --> 00:04:31,300
+developed more and more luxurious seats, it's how they cut costs to allow more and more
+
+64
+00:04:31,300 --> 00:04:32,500
+people to fly.
+
+65
+00:04:32,500 --> 00:04:36,060
+It's also a fascinating demonstration of economics.
+
+66
+00:04:36,060 --> 00:04:40,500
+Airlines have figured out a way to sell the same product for different prices to different
+
+67
+00:04:40,500 --> 00:04:41,500
+people.
+
+68
+00:04:41,500 --> 00:04:45,020
+The overall product the airline is selling is the same no matter which class you're
+
+69
+00:04:45,020 --> 00:04:49,240
+flying—a flight from point A to point B. What's different is the experience within
+
+70
+00:04:49,240 --> 00:04:50,240
+the plane.
+
+71
+00:04:50,240 --> 00:04:53,980
+The first classification of air travel happened in the 40s and 50s.
+
+72
+00:04:53,980 --> 00:04:58,320
+A significant amount of revenue for airlines at the time came from contracts for air mail
+
+73
+00:04:58,320 --> 00:05:00,600
+routes with the US Postal Service.
+
+74
+00:05:00,600 --> 00:05:04,060
+These flights flew with many stops often overnight or at odd hours.
+
+75
+00:05:04,060 --> 00:05:08,140
+While the planes mostly carried mail, they still had a passenger section.
+
+76
+00:05:08,140 --> 00:05:12,500
+The first class fares got you, for example, on a non-stop flight between New York and
+
+77
+00:05:12,500 --> 00:05:17,080
+Chicago while the coach fare might get you on a mail flight that left at 2 AM and stopped
+
+78
+00:05:17,080 --> 00:05:19,660
+in Pittsburgh and Cleveland on the way to Chicago.
+
+79
+00:05:19,660 --> 00:05:23,740
+While the fare was cheaper and the flight took longer, the experience onboard the plane
+
+80
+00:05:23,740 --> 00:05:25,160
+was largely the same.
+
+81
+00:05:25,160 --> 00:05:30,780
+It wasn't until 1952 that airlines started selling the same flights for different prices.
+
+82
+00:05:30,780 --> 00:05:35,060
+One airline, for example, sold standard class one-way tickets between New York and London
+
+83
+00:05:35,060 --> 00:05:39,660
+for $395 and tourist class tickets for $270.
+
+84
+00:05:39,660 --> 00:05:45,540
+It was the exact same flight on the exact same plane—the difference was in the ticket.
+
+85
+00:05:45,540 --> 00:05:49,540
+Tourist class tickets had to be purchased in advance and had no flexibility.
+
+86
+00:05:49,540 --> 00:05:52,900
+You had to fly on the exact flight the tickets were purchased for.
+
+87
+00:05:52,900 --> 00:05:56,940
+As the name suggests, these tickets were primarily for tourists.
+
+88
+00:05:56,940 --> 00:06:02,020
+Travelers plan trips far in advance and don't really need flexibility so it was no problem
+
+89
+00:06:02,020 --> 00:06:04,420
+for them to commit to one flight.
+
+90
+00:06:04,420 --> 00:06:08,900
+The full fare tickets were for the other type of traveler—the businessperson.
+
+91
+00:06:08,900 --> 00:06:12,540
+Business travelers, first off, don't typically pay for their own tickets.
+
+92
+00:06:12,540 --> 00:06:16,960
+They're paid for by their employer so they individually don't really care what the
+
+93
+00:06:16,960 --> 00:06:18,220
+ticket costs.
+
+94
+00:06:18,220 --> 00:06:22,700
+Business travelers also require flexibility and generally don't purchase tickets until
+
+95
+00:06:22,700 --> 00:06:23,860
+the last minute.
+
+96
+00:06:23,860 --> 00:06:28,040
+At the time, it was a common practice to just walk up to the counter an hour before a flight
+
+97
+00:06:28,040 --> 00:06:29,180
+and buy a ticket.
+
+98
+00:06:29,180 --> 00:06:32,080
+That's what these full fare tickets were for.
+
+99
+00:06:32,080 --> 00:06:36,720
+Through this system, the airlines segmented the market into two categories based on what
+
+100
+00:06:36,720 --> 00:06:38,440
+people were willing to pay.
+
+101
+00:06:38,440 --> 00:06:43,380
+Over the coming decades, this was the only large classification system in air travel.
+
+102
+00:06:43,380 --> 00:06:48,920
+Then, between 1969 and 1978, three things happened.
+
+103
+00:06:48,920 --> 00:06:54,040
+The 747 flew for the first time, the Concorde flew for the first time, and airlines were
+
+104
+00:06:54,040 --> 00:06:56,120
+deregulated in the US.
+
+105
+00:06:56,120 --> 00:07:01,800
+The 747 gave airlines the space to experiment with luxury, the Concorde gave them the reason
+
+106
+00:07:01,800 --> 00:07:05,400
+to, and deregulation gave them the ability to.
+
+107
+00:07:05,400 --> 00:07:09,820
+Previously, all airlines were heavily regulated in the US and it was difficult for airlines
+
+108
+00:07:09,820 --> 00:07:14,560
+to charge the costs they wanted for different classes, but with deregulation, airlines now
+
+109
+00:07:14,560 --> 00:07:17,240
+had full control over their ticket prices.
+
+110
+00:07:17,240 --> 00:07:21,000
+Now, at the time, much of the difference was still in the ticket.
+
+111
+00:07:21,000 --> 00:07:25,120
+Some airlines had introduced first class fares with nicer seats, but airlines realized that
+
+112
+00:07:25,120 --> 00:07:29,680
+they had to start treating the business people who bought a full fare coach ticket differently
+
+113
+00:07:29,680 --> 00:07:32,200
+than the tourists paying a discounted fare.
+
+114
+00:07:32,200 --> 00:07:36,020
+More and more of the business travelers were just paying the tourist class fare.
+
+115
+00:07:36,020 --> 00:07:39,080
+It began by just physically separating the passengers.
+
+116
+00:07:39,080 --> 00:07:42,720
+The full fare passengers would be seated up front while the discounted fare passengers
+
+117
+00:07:42,720 --> 00:07:44,320
+would be put at the back.
+
+118
+00:07:44,320 --> 00:07:49,240
+In 2017, some airlines began blocking out the middle seat next to the full fare passengers.
+
+119
+00:07:49,240 --> 00:07:54,280
+Finally, some airlines started to build cabins with slightly nicer seats and better amenities.
+
+120
+00:07:54,280 --> 00:07:58,400
+But, with exceptions, airlines avoided first class.
+
+121
+00:07:58,400 --> 00:08:02,920
+Most focused on capturing that middle tier of traveler because the Concorde was going
+
+122
+00:08:02,920 --> 00:08:06,160
+to be the first class plane for the rich and famous.
+
+123
+00:08:06,160 --> 00:08:08,900
+Regular planes would be the business and economy class.
+
+124
+00:08:08,900 --> 00:08:10,640
+At least that's what they thought.
+
+125
+00:08:10,640 --> 00:08:16,420
+Of course, as you heard about in my last video, the Concorde failed, spectacularly.
+
+126
+00:08:16,420 --> 00:08:20,440
+Airlines avoided first class in the 70's and 80's because of the Concorde, but as
+
+127
+00:08:20,440 --> 00:08:25,120
+they started to catch onto the failure of supersonic flight, select airlines slowly
+
+128
+00:08:25,120 --> 00:08:28,240
+reintroduced first class to subsonic planes.
+
+129
+00:08:28,240 --> 00:08:30,400
+But the effect is still seen today.
+
+130
+00:08:30,400 --> 00:08:35,720
+Of the dozens of airlines flying transatlantic, only six have a first class cabin.
+
+131
+00:08:35,720 --> 00:08:40,320
+Back in the 60's and 70's, the imminent perceived competition of the Concorde really
+
+132
+00:08:40,320 --> 00:08:45,640
+invigorated airlines to optimize that middle class—business class—but we likely would
+
+133
+00:08:45,640 --> 00:08:50,240
+not have seen it as early as we did without the looming disruption to the industry.
+
+134
+00:08:50,240 --> 00:08:52,400
+But there's another trend to explain.
+
+135
+00:08:52,400 --> 00:08:54,280
+First class is going away—again.
+
+136
+00:08:54,280 --> 00:08:58,180
+Let's take a look at this seat map of Etihad A380.
+
+137
+00:08:58,180 --> 00:09:03,320
+Each economy class seat on this plane takes up 3.77 square feet of floor space.
+
+138
+00:09:03,320 --> 00:09:08,180
+The business class seats take up 10.14 square feet of floor space and the first class seats
+
+139
+00:09:08,180 --> 00:09:10,860
+take up 35 square feet of floor space.
+
+140
+00:09:10,860 --> 00:09:17,360
+On a flight from Abu Dhabi to New York, economy class tickets are $1,253 round trip, business
+
+141
+00:09:17,360 --> 00:09:24,440
+class tickets are $6,140, and first class tickets are $14,128.
+
+142
+00:09:24,440 --> 00:09:31,100
+That means that economy class seats make $332 per square foot, business class seats $605
+
+143
+00:09:31,100 --> 00:09:35,800
+per square foot, and first class seats $403 per square foot.
+
+144
+00:09:35,800 --> 00:09:40,640
+The difference between economy class and business class is huge—it's a cramped seat versus
+
+145
+00:09:40,640 --> 00:09:45,220
+a bed—but the difference between business class and first class is just a bit more room
+
+146
+00:09:45,220 --> 00:09:46,460
+and some better food.
+
+147
+00:09:46,460 --> 00:09:51,080
+It's very hard for airlines to sell first class for much more than business class since
+
+148
+00:09:51,080 --> 00:09:56,280
+the experience is largely the same, but the cost for airlines to run a first class cabin
+
+149
+00:09:56,280 --> 00:09:58,340
+is significantly more.
+
+150
+00:09:58,340 --> 00:10:02,220
+Therefore, more and more airlines are taking out their first class to just put in more
+
+151
+00:10:02,220 --> 00:10:04,320
+business class—it just makes more money.
+
+152
+00:10:04,320 --> 00:10:09,320
+If an airline could fill a plane full of business class passengers it would—it's been tried,
+
+153
+00:10:09,320 --> 00:10:15,080
+but pretty much no route has the premium demand to fill a plane full of business class.
+
+154
+00:10:15,080 --> 00:10:19,700
+Everyone in economy, in the end, is just there to fill the plane.
+
+155
+00:10:19,700 --> 00:10:22,480
+This video was made possible by Squarespace.
+
+156
+00:10:22,480 --> 00:10:25,480
+Squarespace is the absolute easiest way to make your website.
+
+157
+00:10:25,660 --> 00:10:29,560
+I've used them for a few different sites including wendoverproductions.com.
+
+158
+00:10:29,560 --> 00:10:33,500
+As I said last time, I basically bought that domain to be sure nobody else could.
+
+159
+00:10:33,500 --> 00:10:37,620
+I didn't really have the time or need to create a fancy website so I just spent about
+
+160
+00:10:37,620 --> 00:10:40,440
+15 minutes to throw together a landing page.
+
+161
+00:10:40,440 --> 00:10:44,660
+It was incredibly easy with the Squarespace templates and, in my opinion at least, it
+
+162
+00:10:44,660 --> 00:10:45,660
+looks great.
+
+163
+00:10:45,660 --> 00:10:49,920
+Now I can give people one link that takes them to a page with the links to all my different
+
+164
+00:10:49,920 --> 00:10:51,680
+social media profiles.
+
+165
+00:10:51,680 --> 00:10:56,660
+You can create a landing page like this, a blog, a store, really anything with Squarespace
+
+166
+00:10:56,660 --> 00:11:01,540
+and what's best is that you can get 10% off your first order by using the code wendover
+
+167
+00:11:01,540 --> 00:11:04,620
+over at squarespace.com slash wendover.
+
+168
+00:11:04,620 --> 00:11:09,920
+That also helps you help the channel so please do go check out Squarespace at squarespace.com
+
+169
+00:11:09,920 --> 00:11:11,700
+slash wendover.
+
+170
+00:11:11,700 --> 00:11:16,620
+Other than that, you can support Wendover Productions at patreon.com slash wendoverproductions,
+
+171
+00:11:16,620 --> 00:11:21,720
+follow me on twitter at wendoverpro, watch my last video on why planes don't fly faster
+
+172
+00:11:21,720 --> 00:11:26,760
+here, check out my fan moderated subreddit here, and most of all, subscribe to this channel
+
+173
+00:11:26,760 --> 00:11:29,920
+to receive all my future videos right when they come out.
+
+174
+00:11:29,920 --> 00:11:34,400
+Thanks again for watching and I'll see you in two weeks for another Wendover Productions
+
+175
+00:11:34,400 --> 00:11:34,900
+video.
+

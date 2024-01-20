@@ -1,0 +1,162 @@
+Flying is expensive.
+Why is this?
+Well, most would say it's because of the cost of fuel, but that's not entirely true.
+The Airbus A320neo can carry 6,400 gallons of fuel—that's the equivalent of 376 fully
+tanked Toyota Camrys.
+For every mile that the A320 flies, it burns 1.5 gallons of jet fuel.
+That works out to a paltry .67 miles per gallon.
+An A320 could barely fly from the Empire State Building to Grand Central Terminal on that
+gallon of fuel.
+To fly that 213 miles from New York to DC, that A320 needs 317 gallons of fuel.
+With that amount, our Toyota Camry could drive from New York to LA 49 times, but we do have
+to consider that a Camry only seats 5, an A320 seats 154.
+So, assuming that our plane is fully loaded, it now has a per person fuel efficiency of
+104.7 miles per gallon.
+That's amazing.
+According to the Bureau of Transport Statistics, airlines pay on average only $1.24 per gallon
+of fuel.
+So, flying from New York to DC, you personally only use $2.50 worth of fuel, so why do these
+tickets cost upwards of $80?
+Well, there's so much more that goes into your ticket price than fuel.
+Before we start, I'll quickly mention that these are all rough estimates.
+Many of these prices will vary widely through time and there are certainly ways that airlines
+reduce these costs, but this will give you a general idea of what actually makes flying
+so expensive.
+The first thing we can add to our ticket price is crew costs.
+A pilot makes on average around $79,000 a year which works out to about $44 per flight
+hour.
+We have two pilots so for our hour long flight from New York to DC, that's $88 to the pilots.
+A fully loaded A320 requires four flight attendants who are each paid around $38 per
+flight hour for a total of $152 bringing our crew costs up to $240.
+So, with our 154 seats, that works out to just about $1.50 per person in crew costs.
+Alright, now we're at $4.
+Next we gotta pay the airports.
+New York's John F. Kennedy Airport charges $6.33 per thousand pounds of airplane taking
+off and our A320 weighs 172,000 pounds.
+That means that we have to give $1,089 to JFK or $7 per person.
+Dulles Airport doesn't publish their landing fees, but we'll assume it's about the
+same as JFK's landing fees at $1,005 for a now 170,000 pound airplane.
+These fees generally include the cost of using gates, porters, and other airport resources
+and divide down to $13.50 per person.
+Our total is now at $17.50.
+Now we get to the fun part—taxes.
+There's a litany of different taxes and they all vary by country so for the sake of
+simplicity we'll just cover the ones for the US.
+The simplest tax is the domestic passenger ticket tax at 7.5% of the ticket price.
+That money goes to the FAA.
+If you land or take off at a rural airport, which is defined as, an airport with less
+than 100,000 appointments during the second preceding calendar year and either one is
+not located within 75 miles of another airport with 100,000 appointments per year, 2 is receiving
+central air service subsidies, or 3 is not connected by paved roads to another airport,
+they also tack on another 7.5%.
+That, of course, doesn't apply to either of our airports.
+The FAA also charges $4 flat for any flight within the US, unless you go to Hawaii or
+Alaska.
+Then they charge $8.70.
+The TSA then adds a $5.60 tax called the 9-11 security fee that goes to fund the heightened
+security since 9-11.
+Those are only just for domestic flights.
+If we were flying from New York to Paris, we would also have to add $17.70 for the international
+transportation tax, $5.50 for the US customs user fee, $5 for the US animal and plant health
+inspection service fee, $7 for the US immigration and naturalization fee, and $14 for the French
+civil aviation tax.
+So with all the taxes and fees that apply to this short flight, we're now at $33 total.
+Now, let's remember that airplanes are expensive.
+Our A320 costs $107 million.
+The service life for airplanes is not actually determined by flying time, it's determined
+by something called flight cycles which is basically a fancy word for one flight.
+It doesn't really matter how long an airplane flies in its service life, what matters is
+how many times it's pressurized.
+This is because every time it's pressurized, micro cracks develop around the rivets that
+connect the metal plates that make up the fuselage.
+No matter if a plane goes on a thirty minute flight or a nine hour flight, the wear and
+tear to the plane will be the same.
+This is why large, long haul airplanes are often older.
+They might only go through one flight cycle per day while small regional jets could go
+through eight or ten.
+So, back to our A320.
+Our plane is actually a pretty durable aircraft.
+It can fly up to 60,000 cycles.
+So if we divide the total price of our plane by the maximum number of flight cycles, we
+get that $1,783 per flight must be devoted towards paying off the initial price of the
+airplane.
+Per person, that works out to $11.50.
+We're now at $44.50.
+To keep this plane safe, airlines have to also perform regular maintenance.
+For our hour long flight, an airline has to do maintenance that'll cost $646 in labor,
+$296 in parts, $603 in inspections and component overhauls, and another $596 in engine restoration.
+That's $2,121 total or $14 per person.
+We're now at $58.50.
+We also have to consider the non-flying part of flying.
+Overseeing any flight is an airline which is a business that has costs in and of itself.
+They need to pay administrators, executives, software engineers, marketers, consultants,
+customer service personnel, public relations agents, janitors, along with rent, benefits,
+travel costs, utilities, and more.
+It's hard to put an exact number on how much per person this works out to, but we'll
+make a conservative estimate of $10.
+We're up to $68.50.
+An airline will pay about $106,500 per year for insurance for an A320 and assuming our
+plane spends 8 hours per day in the air, $36 of this insurance is for this hour long
+flight or about $0.25 per person.
+Our very rough grand total is $68.75.
+We'll round this up to $70 since there are various small things I didn't cover such
+as hotel costs for crew members, plane storage, APU rental, liability insurance, etc.
+That means that $10 of our plane ticket is profit, but keep in mind that all my estimates
+were on the conservative end and it's all assuming a fully loaded airplane.
+In the end, not a ton of money actually goes to the airline.
+Back to my first line, flying is expensive.
+Well, it really isn't and it's getting cheaper.
+To fly in the Magic Metal Bird across the country from New York to LA in 6 hours costs
+around $340 round trip.
+To drive in our very fuel efficient Toyota Camry across the country in 40 hours costs
+$340 just in fuel than an additional $300 in estimated maintenance and depreciation
+costs.
+In the past 30 years, the average inflation adjusted airfare has dropped by 50% and it's
+still dropping.
+In 1974, it was actually illegal for airlines to offer a flight between New York and LA
+for less than $1,442 inflation adjusted dollars.
+And now, you can sometimes find these flights for less than $200 round trip.
+One of the reasons for this drop in prices is the rise of efficient airplanes.
+Certain innovations such as composite construction, better aerodynamics, more efficient engines,
+and perhaps most notably, winglets has driven down the cost of flying.
+Here's the one and only Real Engineering to explain winglets.
+As you said, the airline industry is constantly finding ways to drive down their fuel consumption.
+In the early 70's fuel prices skyrocketed and engineers were forced to find ways of
+making their planes more efficient.
+One way they found was with winglets, which are those little curly bits at the end of
+the wing.
+Let's have a quick look at how they work.
+Winglets were introduced to decrease induced drag, which occurs when high pressure air
+below the wing begins to bleed over the edge into the low pressure air above.
+This flow creates vortices off the tips of the wing that create drag and reduce lift,
+which reduces the fuel economy of the plane.
+Winglets act to reduce these vortices by reducing the airflow over the edge of the wing.
+For a full explanation and a look at the history behind winglets head over to my channel and
+watch my new video, which features a special guest appearance from Wendover Productions.
+Thanks Real Engineering.
+Be sure to go check out and subscribe to Real Engineering's channel.
+If you like this channel, I guarantee you'll enjoy his.
+I'll leave you with the real reason specific airfares are expensive, but also a reason
+why they're getting cheaper—competition.
+The airline industry is one with very little competition.
+Airfares from New York to LA are cheap because there's a lot of demand and there's a
+relatively high amount of competition.
+Five different airlines fly direct from New York to LA, two of which are budget airlines.
+People don't care that much which airline they fly.
+They care about the price, so airlines will try to match the price of budget airlines.
+Compare this to a route like Denver to Gunnison County Airport.
+Largely because only United makes this flight, you'll often pay more than $500 for this
+130 mile flight.
+So that's why your plane tickets cost so much.
+Next time you book your travel, you'll know why you're paying so much and also
+how little of that actually goes to airlines.
+Thank you for watching.
+If you enjoyed this video, make sure to click subscribe.
+You can also click here to be taken to Real Engineering's channel.
+If you enjoyed this video, please share it on Twitter, Reddit, Facebook, StumbleUpon,
+Digg, whatever website you like.
+You can check out last week's video on an illegal number here.
+Also, please follow me on Twitter at WendoverPro.
+Lastly, I'd like to thank you all for your support and welcome all the new subscribers
+from the past few weeks.
+Next week, I'll be back to my normal series—that Wikipedia list.

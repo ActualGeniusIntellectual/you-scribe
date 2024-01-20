@@ -1,0 +1,980 @@
+1
+00:00:00,000 --> 00:00:04,480
+New York is a water-scarce city.
+
+2
+00:00:04,480 --> 00:00:08,620
+Despite being surrounded on all sides by waterways and located in one of the rainier regions
+
+3
+00:00:08,620 --> 00:00:14,040
+of America, the landscape upon which it was built lacks a significant supply of fresh
+
+4
+00:00:14,040 --> 00:00:15,040
+water.
+
+5
+00:00:15,040 --> 00:00:19,560
+To Manhattan's east, there's the East River, but its name is a misnomer—it's
+
+6
+00:00:19,560 --> 00:00:20,560
+not a river.
+
+7
+00:00:20,560 --> 00:00:25,080
+It's a tidal estuary, connecting one portion of ocean to another, letting them push and
+
+8
+00:00:25,080 --> 00:00:28,780
+pull undrinkable, unusable saltwater through.
+
+9
+00:00:28,780 --> 00:00:33,800
+The Hudson River, to the west, does use the term correctly—it is a legitimate freshwater
+
+10
+00:00:33,800 --> 00:00:38,900
+river—but by the time it arrives on the shores of Manhattan, it doubles as another
+
+11
+00:00:38,900 --> 00:00:40,580
+ocean estuary.
+
+12
+00:00:40,580 --> 00:00:44,680
+As the tides rise, seawater pushes in against the flow.
+
+13
+00:00:44,680 --> 00:00:49,140
+The river only becomes usable freshwater somewhere between the Tappan Zee Bridge and Poughkeepsie,
+
+14
+00:00:49,140 --> 00:00:51,060
+depending on season and conditions.
+
+15
+00:00:51,060 --> 00:00:56,300
+That's to say, the waterways that surround New York City, that make Manhattan and Staton
+
+16
+00:00:56,300 --> 00:01:01,500
+and along the islands they are, are useless to quench the thirst of those living atop
+
+17
+00:01:01,500 --> 00:01:02,500
+them.
+
+18
+00:01:02,500 --> 00:01:06,420
+It's a perpetual irony—this location, at the head of one of America's greatest
+
+19
+00:01:06,420 --> 00:01:12,100
+navigable rivers, attracted more individuals and industry than any other in the country,
+
+20
+00:01:12,100 --> 00:01:18,180
+but that very location is the origin of its issues in supplying its populace with water.
+
+21
+00:01:18,180 --> 00:01:22,900
+Strip away the skyscrapers of today, the brownstones of yesterday, and the streets of centuries
+
+22
+00:01:22,900 --> 00:01:29,380
+ago, and you have a lumpy, forested island with one major freshwater source.
+
+23
+00:01:29,380 --> 00:01:33,820
+Stretching across what are now four blocks in Chinatown and extending 60 feet or 18 meters
+
+24
+00:01:33,820 --> 00:01:37,640
+below the ground, it was called Collect Pond.
+
+25
+00:01:37,640 --> 00:01:41,740
+Some of the area's earliest indigenous villages laid on its shores, and so did some of the
+
+26
+00:01:41,740 --> 00:01:46,600
+earliest European fortifications, but centuries on, after the Dutch left and the English moved
+
+27
+00:01:46,600 --> 00:01:52,160
+in, tanneries, breweries, and other water-hungry businesses took over these same lakefront
+
+28
+00:01:52,160 --> 00:01:53,160
+lots.
+
+29
+00:01:53,160 --> 00:01:57,940
+For the burgeoning city, this proved problematic, as heavy use of the area's sole major water
+
+30
+00:01:57,940 --> 00:02:03,600
+source made that same source unusable—the water was poisoned by the city around it,
+
+31
+00:02:03,600 --> 00:02:05,360
+and so were the people.
+
+32
+00:02:05,360 --> 00:02:07,980
+Wells were dug, but the situation was the same.
+
+33
+00:02:07,980 --> 00:02:13,720
+The groundwater table beneath the grimy, gritty streets was hardly fit for human consumption.
+
+34
+00:02:13,720 --> 00:02:18,180
+And beyond that, Manhattan was small, and so was its watershed—it was hardly sufficient
+
+35
+00:02:18,180 --> 00:02:22,460
+to supply the growing population, let alone the population of today.
+
+36
+00:02:22,460 --> 00:02:29,220
+New York City could no longer be self-sufficient—it needed the help of the mainland.
+
+37
+00:02:29,220 --> 00:02:34,040
+If one were to hop in a car near the old Collect Pond today, go north on FDR Drive, cross the
+
+38
+00:02:34,040 --> 00:02:38,520
+George Washington Bridge into New Jersey, bank north on Palisades Interstate Parkway,
+
+39
+00:02:38,520 --> 00:02:42,720
+north again on Interstate 87, and exit at Kingston, New York, they will have driven
+
+40
+00:02:42,720 --> 00:02:48,320
+for two to three hours, covered 100 miles or 160 kilometers, and though far beyond city
+
+41
+00:02:48,320 --> 00:02:54,160
+limits, they'd find themselves within the jurisdiction of a New York City police department—just
+
+42
+00:02:54,160 --> 00:02:56,320
+probably not the one you've heard of.
+
+43
+00:02:56,320 --> 00:03:00,040
+This is the Ashokan Reservoir, one of the most critical, and therefore most closely
+
+44
+00:03:00,040 --> 00:03:03,280
+monitored, pieces of New York City infrastructure.
+
+45
+00:03:03,280 --> 00:03:07,940
+Here, in an area that receives some 40 inches of rainfall a year, is where the city has
+
+46
+00:03:07,940 --> 00:03:13,620
+stashed an impressive stockpile of water in a series of rather unimpressive-looking reservoirs.
+
+47
+00:03:13,620 --> 00:03:18,820
+These six reservoirs have a staggering 460 billion gallon or 2 trillion liter storage
+
+48
+00:03:18,820 --> 00:03:24,160
+capacity and catch the drainage of some 1,600 square miles or 4,000 square kilometers of
+
+49
+00:03:24,160 --> 00:03:26,500
+Catskill Mountain landscape.
+
+50
+00:03:26,500 --> 00:03:30,580
+And yet, while the size is extraordinary, and the adopted watershed's nothing short
+
+51
+00:03:30,580 --> 00:03:34,180
+of essential to the city, it just doesn't look like much.
+
+52
+00:03:34,540 --> 00:03:38,780
+In fact, what's so spectacular about these reservoirs is how thoroughly mundane they
+
+53
+00:03:38,780 --> 00:03:39,780
+are.
+
+54
+00:03:39,780 --> 00:03:44,080
+There are no massive treatment facilities, no towering protective walls, nor any Hoover
+
+55
+00:03:44,080 --> 00:03:48,900
+Dam-like superstructures—just a few large reservoirs surrounded mostly by forest, a
+
+56
+00:03:48,900 --> 00:03:52,600
+few farms, and some quiet upstate hamlets.
+
+57
+00:03:52,600 --> 00:03:57,580
+This is by design—in fact, this simplicity is the system's strength, and maintaining
+
+58
+00:03:57,580 --> 00:04:02,600
+such simplicity actually requires quite a lot of coordination.
+
+59
+00:04:02,600 --> 00:04:07,800
+Of the billions of gallons that pass through this watershed, not one goes through a filter,
+
+60
+00:04:07,800 --> 00:04:13,160
+making the Delaware Catskill system the largest unfiltered water supply in the US.
+
+61
+00:04:13,160 --> 00:04:17,720
+This distinction is a point of pride, but also the source of plenty of headaches.
+
+62
+00:04:17,720 --> 00:04:21,800
+In order to meet stringent national standards set by the EPA and the Clean Water Act, New
+
+63
+00:04:21,800 --> 00:04:26,940
+York City must monitor, protect, and prove over and over again the quality of this unfiltered
+
+64
+00:04:26,940 --> 00:04:27,940
+water.
+
+65
+00:04:27,940 --> 00:04:32,540
+Fortunately, the means for such heavy oversight were provided by the same 1905 state legislation
+
+66
+00:04:32,540 --> 00:04:36,120
+that greenlit the Catskill-Delaware project in the first place.
+
+67
+00:04:36,120 --> 00:04:40,300
+Along with the reservoirs, the New York legislature also established the New York City Department
+
+68
+00:04:40,300 --> 00:04:44,500
+of Environmental Protection to oversee city water, and gave the city the power to regulate
+
+69
+00:04:44,500 --> 00:04:48,940
+land use in the watershed so long as they provided local communities access to their
+
+70
+00:04:48,940 --> 00:04:49,940
+system.
+
+71
+00:04:49,940 --> 00:04:55,480
+Effectively, since 1905, New York City has had authority over what Catskill communities
+
+72
+00:04:55,480 --> 00:05:00,320
+did with their land and put in the water—hence the New York City police cars two hours away
+
+73
+00:05:00,320 --> 00:05:01,580
+from the city.
+
+74
+00:05:01,620 --> 00:05:06,580
+Today, to both ensure they meet quality standards and protect a logical terrorist target, the
+
+75
+00:05:06,580 --> 00:05:11,620
+DEP staffs a 200-officer police department that patrols the watershed by car, boat, and
+
+76
+00:05:11,620 --> 00:05:15,900
+even helicopter while maintaining a detective bureau and emergency service unit, but it
+
+77
+00:05:15,900 --> 00:05:19,720
+takes more than a few cops patrolling reservoir borders to ensure that the unfiltered water
+
+78
+00:05:19,720 --> 00:05:22,200
+is safe enough for millions.
+
+79
+00:05:22,200 --> 00:05:27,660
+For this, the DEP employs nearly 1,000 scientists, engineers, and additional staff in the watershed
+
+80
+00:05:27,660 --> 00:05:31,460
+to run daily tests in the reservoirs and their tributaries, and work with nearby farmers
+
+81
+00:05:31,460 --> 00:05:35,280
+and communities to limit dangerous pollutants making it into the runoff.
+
+82
+00:05:35,280 --> 00:05:39,100
+Every day, robotic buoys spread across the reservoirs take measurements on the water's
+
+83
+00:05:39,100 --> 00:05:43,260
+turbidity, while labs run test after test to measure the presence of waterborne pathogens.
+
+84
+00:05:43,260 --> 00:05:47,940
+While a tour of New York City's adopted watershed makes it seem a quaint pastoral
+
+85
+00:05:47,940 --> 00:05:52,660
+landscape, these waters and the woods around them are closely monitored, heavily guarded,
+
+86
+00:05:52,660 --> 00:05:55,700
+and teeming with DEP employees.
+
+87
+00:05:55,700 --> 00:06:01,220
+But that pristine, clean water is of little use sitting two hours north in the Catskills.
+
+88
+00:06:01,220 --> 00:06:04,020
+It has to actually get to the city.
+
+89
+00:06:04,020 --> 00:06:09,840
+Now, transporting one gallon of water 120 miles or 200 kilometers is no challenge.
+
+90
+00:06:09,840 --> 00:06:15,500
+What is is transporting the sheer quantity that 9 million people demand.
+
+91
+00:06:15,500 --> 00:06:21,500
+Every minute, the city consumes roughly an Olympic-sized swimming pool's worth of water—680,000
+
+92
+00:06:21,500 --> 00:06:24,580
+gallons or 2.5 million liters.
+
+93
+00:06:24,580 --> 00:06:29,780
+If one were to transport that quantity by semi-truck, it would take 71 of them, just
+
+94
+00:06:29,780 --> 00:06:32,020
+for a minute, of consumption.
+
+95
+00:06:32,020 --> 00:06:34,840
+Of course, that's not the solution.
+
+96
+00:06:34,840 --> 00:06:39,860
+What is are two of the longest and largest aqueducts anywhere on earth.
+
+97
+00:06:39,860 --> 00:06:44,340
+The first is called the Catskill Aqueduct, a winding miscellany of dams, tunnels, and
+
+98
+00:06:44,340 --> 00:06:50,740
+siphons capable of moving some half-billion gallons of water a day, 92 miles or 148 kilometers,
+
+99
+00:06:50,740 --> 00:06:51,740
+to the south.
+
+100
+00:06:51,740 --> 00:06:55,500
+At the time of its opening, this aqueduct was heralded as a feat of engineering bested
+
+101
+00:06:55,500 --> 00:06:58,740
+only by marvels like the Panama and Suez canals.
+
+102
+00:06:58,740 --> 00:07:03,940
+It was something that superpowers would boast of—built by a single city.
+
+103
+00:07:03,940 --> 00:07:05,660
+But New York didn't stop there.
+
+104
+00:07:05,660 --> 00:07:11,100
+Two decades on, it became clear that the ever-expanding metropolis needed yet more supply.
+
+105
+00:07:11,100 --> 00:07:19,140
+So, it built one single, continuous, 85-mile, 137-kilometer tunnel.
+
+106
+00:07:19,140 --> 00:07:22,340
+This was an inconceivable step forward.
+
+107
+00:07:22,340 --> 00:07:26,960
+Before it, the world's longest tunnel stretched just 29 miles or 47 kilometers.
+
+108
+00:07:26,960 --> 00:07:32,360
+This was over three times longer, and still today, the better part of a century on maintains
+
+109
+00:07:32,360 --> 00:07:35,020
+the title of the world's longest.
+
+110
+00:07:35,020 --> 00:07:38,440
+It enters the earth here, beneath the dam that holds back the waters of the Rondout
+
+111
+00:07:38,440 --> 00:07:44,100
+Reservoir, and immediately plunges some 1,000 feet or 300 meters down—puzzlingly beneath
+
+112
+00:07:44,100 --> 00:07:45,880
+the elevation of New York City.
+
+113
+00:07:45,880 --> 00:07:49,860
+You see, while most think of aqueducts as a network of canals, bridges, and tunnels
+
+114
+00:07:49,860 --> 00:07:54,360
+slanting slightly downward, modern aqueducts rarely take this form.
+
+115
+00:07:54,360 --> 00:07:57,840
+There are myriad insurmountable obstacles sitting between the Catskills and New York
+
+116
+00:07:57,840 --> 00:08:02,200
+City, so building a consistently downhill path with only a couple hundred feet of elevation
+
+117
+00:08:02,200 --> 00:08:06,700
+differential between the reservoirs and the city would be an unbelievably complex endeavor
+
+118
+00:08:06,700 --> 00:08:07,700
+at this scale.
+
+119
+00:08:07,700 --> 00:08:10,700
+Conveniently, however, they didn't have to.
+
+120
+00:08:10,700 --> 00:08:15,080
+The Delaware Aqueduct essentially operates like one giant inverted siphon.
+
+121
+00:08:15,080 --> 00:08:19,480
+Now, the physics behind how siphons work is not fully understood—there are competing
+
+122
+00:08:19,480 --> 00:08:23,740
+theories—but what matters is that liquid, sent through a tube, will always return to
+
+123
+00:08:23,740 --> 00:08:27,260
+its source elevation, regardless of the path of that tube.
+
+124
+00:08:27,260 --> 00:08:32,320
+That's to say, water will flow upward, against the force of gravity, as long as the output
+
+125
+00:08:32,320 --> 00:08:34,180
+of the tube sits below the input.
+
+126
+00:08:34,180 --> 00:08:38,820
+Therefore, it's rather useful that the Delaware Aqueduct's origin, the Rondout Reservoir,
+
+127
+00:08:38,820 --> 00:08:45,060
+sits some 545 feet or 166 meters higher than its destination, the Hillview Reservoir.
+
+128
+00:08:45,060 --> 00:08:49,520
+The tunnel constantly changes elevation, avoiding obstacles, reaching its deepest point as it
+
+129
+00:08:49,520 --> 00:08:52,020
+passes through the bedrock below the Hudson River.
+
+130
+00:08:52,020 --> 00:08:56,500
+It then rises again to connect with the West Branch Reservoir, sinks, rises, and sinks
+
+131
+00:08:56,500 --> 00:09:00,540
+again, before reaching its final destination, but thanks to the principles that make siphons
+
+132
+00:09:00,540 --> 00:09:04,740
+work, no outside forces are needed for the Catskill Water to come out the other end—it's
+
+133
+00:09:04,740 --> 00:09:08,020
+an entirely physics-driven transportation system.
+
+134
+00:09:08,020 --> 00:09:13,820
+This aqueduct is incredibly efficient and effective, but also concerningly crucial.
+
+135
+00:09:13,820 --> 00:09:17,960
+Nearly half a century ago, officials identified a leak in the stretch of tunnels spanning
+
+136
+00:09:17,960 --> 00:09:19,420
+beneath the Hudson.
+
+137
+00:09:19,460 --> 00:09:23,980
+Filling tens of millions of gallons per day, the gush of water flooded nearby communities,
+
+138
+00:09:23,980 --> 00:09:27,580
+and counterintuitively contaminated their drinking water supplies.
+
+139
+00:09:27,580 --> 00:09:31,380
+Authorities have been mitigating and managing the issue ever since, even paying residents
+
+140
+00:09:31,380 --> 00:09:36,740
+to relocate away from the impacted area, but eventually, the problem had to be fixed.
+
+141
+00:09:36,740 --> 00:09:41,140
+Doing so required two decades of planning, one decade of construction, and more than
+
+142
+00:09:41,140 --> 00:09:43,780
+a billion dollars in bills.
+
+143
+00:09:43,780 --> 00:09:47,620
+A two-and-a-half-mile, four-kilometer diversion tunnel was built around the leakiest section,
+
+144
+00:09:47,820 --> 00:09:53,100
+and in late 2023, the aqueduct will shut down for the first time in 65 years to accommodate
+
+145
+00:09:53,100 --> 00:09:56,700
+the five-to-eight-month process of connecting the new section to the old.
+
+146
+00:09:56,700 --> 00:10:01,020
+The shutdown was planned for winter, when water use tends to be lowest, but still, considerable
+
+147
+00:10:01,020 --> 00:10:05,040
+work has gone into assuring the Catskill aqueduct can operate at full capacity, and that typically
+
+148
+00:10:05,040 --> 00:10:09,400
+minor water sources like the Croton aqueducts can ramp up to pick up the slack.
+
+149
+00:10:09,400 --> 00:10:14,000
+With essentially two big pipes supplying nearly all of the water, the risk of failure in New
+
+150
+00:10:14,000 --> 00:10:18,520
+York's water supply is uncharacteristically high for a city perpetually cognizant of the
+
+151
+00:10:18,520 --> 00:10:23,040
+worst-case scenario, but it's what's necessary to move such a quantity such a distance from
+
+152
+00:10:23,040 --> 00:10:27,040
+where it falls to here, the Kensico Reservoir.
+
+153
+00:10:27,040 --> 00:10:31,160
+While sampling up until this point gives DEP staff a good idea of what's in the water,
+
+154
+00:10:31,160 --> 00:10:34,960
+this is the first point where they act on that knowledge, and add to it.
+
+155
+00:10:34,960 --> 00:10:38,320
+This process begins at the exit tunnels of the Kensico Reservoir.
+
+156
+00:10:38,320 --> 00:10:43,000
+Here, chlorine is first added to kill off any lingering microorganisms.
+
+157
+00:10:43,000 --> 00:10:46,660
+As chlorine levels dissipate over distance traveled, though, chlorine is again mixed
+
+158
+00:10:46,660 --> 00:10:50,280
+into the water supply at the nearby Hillview Reservoir, then, for water headed all the
+
+159
+00:10:50,280 --> 00:10:54,400
+way to Staten Island, again at the Richmond chlorination facility.
+
+160
+00:10:54,400 --> 00:10:58,640
+Along with chlorine, the DEP also adds fluoride to compact cavities, orthophosphate to limit
+
+161
+00:10:58,640 --> 00:11:03,020
+lead leakage from pipes, and sodium hydroxide to balance the water's pH level.
+
+162
+00:11:03,020 --> 00:11:06,500
+Some additives are introduced to the system at static rates, while others are added in
+
+163
+00:11:06,500 --> 00:11:08,840
+accordance to real-time water quality issues.
+
+164
+00:11:09,320 --> 00:11:13,800
+In 2005, for example, when upper-watershed rainstorms led to increased turbidity, the
+
+165
+00:11:13,800 --> 00:11:17,960
+DEP added the chemical compound Alum to the tainted supply as emergency treatment to lower
+
+166
+00:11:17,960 --> 00:11:19,360
+particle level.
+
+167
+00:11:19,360 --> 00:11:24,120
+Beyond additives, the DEP further fortifies its water supply here, at the Catskill, Delaware
+
+168
+00:11:24,120 --> 00:11:26,560
+Ultraviolet Water Treatment Plant.
+
+169
+00:11:26,560 --> 00:11:31,720
+Capable of treating nearly 2.3 billion gallons a day, over twice the city's daily demand,
+
+170
+00:11:31,720 --> 00:11:36,160
+this facility is the biggest of its kind in the world, with its 56 UV pipelines adding
+
+171
+00:11:36,160 --> 00:11:38,800
+another layer of defense against waterborne illnesses.
+
+172
+00:11:38,800 --> 00:11:42,920
+But not all of New York's water goes through this plant, nor does all of it emanate from
+
+173
+00:11:42,920 --> 00:11:45,480
+the pristine, protected Catskills.
+
+174
+00:11:45,480 --> 00:11:49,440
+The other 10% of New York's water is still pulled from the Croton watershed, and unlike
+
+175
+00:11:49,440 --> 00:11:53,120
+its supply sibling, Croton water requires filtration.
+
+176
+00:11:53,120 --> 00:11:57,160
+Buried here below a golf course, air is added to the Croton water to float particles and
+
+177
+00:11:57,160 --> 00:12:00,760
+salts through the surface for skimming, before the same chemicals and minerals are added,
+
+178
+00:12:00,760 --> 00:12:05,080
+and the same UV process is employed to turn what entered as raw water into a consumable
+
+179
+00:12:05,080 --> 00:12:06,080
+product.
+
+180
+00:12:06,080 --> 00:12:10,840
+Effectively, the plant functions as a $3.2 billion dollar one-stop shop that buttresses
+
+181
+00:12:10,840 --> 00:12:16,840
+the Catskill, Delaware system by producing, at maximum capacity, up to 290 million gallons
+
+182
+00:12:16,840 --> 00:12:18,840
+of potable water a day.
+
+183
+00:12:18,840 --> 00:12:23,260
+New York's water supply is defined by billion-dollar projects in multiple structures deemed to
+
+184
+00:12:23,260 --> 00:12:28,520
+be the longest or largest of their kind in the world, and yet the most intricate, expensive,
+
+185
+00:12:28,520 --> 00:12:32,120
+and fickle stage may well be in final delivery.
+
+186
+00:12:32,160 --> 00:12:35,640
+Months beyond Hillview Reservoir, treated water that began its voyage months earlier
+
+187
+00:12:35,640 --> 00:12:40,040
+and a hundred miles away won't see the light of day until it reaches a New Yorker's tap.
+
+188
+00:12:40,040 --> 00:12:45,220
+Conveyed by tunnel, and pushed along by system pressure, it's finally headed to a consumer.
+
+189
+00:12:45,220 --> 00:12:49,280
+Three tunnels supply some nine million people with treated water.
+
+190
+00:12:49,280 --> 00:12:53,040
+More accurately, these tunnels get close enough to every neighborhood in every borough for
+
+191
+00:12:53,040 --> 00:12:57,620
+nearly 7,000 miles or 11,000 kilometers of water main lines to connect these tunnels
+
+192
+00:12:57,620 --> 00:13:01,600
+with its nine million customers—filling the city's iconic wooden water towers and
+
+193
+00:13:01,600 --> 00:13:04,440
+pressurizing the taps in its pizzerias.
+
+194
+00:13:04,440 --> 00:13:07,640
+While these very tunnels and the mains that branch off them are what allowed New York
+
+195
+00:13:07,640 --> 00:13:13,360
+to bloom into a true megacity across the 20th century, today they are old, leaky, and breaking
+
+196
+00:13:13,360 --> 00:13:14,420
+down.
+
+197
+00:13:14,420 --> 00:13:19,700
+Tunnel number one was activated in 1917, number two went online in 1936, and today both are
+
+198
+00:13:19,700 --> 00:13:22,160
+in need of inspection and likely repair.
+
+199
+00:13:22,160 --> 00:13:26,080
+As for the lines connected to the tunnels, while the DEP reported in 2020 that its mains
+
+200
+00:13:26,080 --> 00:13:31,040
+only experienced five breaks per 100 miles, a rate far below the national average of 25
+
+201
+00:13:31,040 --> 00:13:36,440
+per 100, it still reportedly costs around $400 million a year to repair all the city's
+
+202
+00:13:36,440 --> 00:13:40,920
+busted pipes—a process made infinitely more difficult by New York's notoriously dense
+
+203
+00:13:40,920 --> 00:13:44,360
+underground infrastructure—power cables to subway lines.
+
+204
+00:13:44,360 --> 00:13:48,520
+Additionally, because of the age and varying quality of the pipeline supplying each city
+
+205
+00:13:48,520 --> 00:13:54,160
+block, the DEP has spread at 965 water testing stations around the city, where staff pull
+
+206
+00:13:54,160 --> 00:13:59,120
+samples each day and run over 34,000 tests each month.
+
+207
+00:13:59,120 --> 00:14:01,960
+Three expenses don't end there, either.
+
+208
+00:14:01,960 --> 00:14:05,820
+While operational, tunnel number three is still years away from completion, even though
+
+209
+00:14:05,820 --> 00:14:08,240
+the project broke ground in 1970.
+
+210
+00:14:08,240 --> 00:14:13,640
+Sitting 600 feet or 180 meters below ground, and running 60 miles or 100 kilometers long,
+
+211
+00:14:13,640 --> 00:14:17,560
+the tunnel has been called one of the most complex public works ever attempted, and will
+
+212
+00:14:17,560 --> 00:14:22,640
+be the city's single largest capital project, costing around $6 billion and scheduled for
+
+213
+00:14:22,640 --> 00:14:25,180
+completion in 2026.
+
+214
+00:14:25,180 --> 00:14:28,120
+New York is revered for its water.
+
+215
+00:14:28,120 --> 00:14:32,040
+Tunnels boast about it constantly, and even claim it's the key factor behind the city's
+
+216
+00:14:32,040 --> 00:14:34,920
+purportedly exceptional pizza and bagels.
+
+217
+00:14:34,920 --> 00:14:39,160
+But the defining factor of the system behind it is simplicity.
+
+218
+00:14:39,160 --> 00:14:43,320
+It lets nature do the work of gathering and purifying, then uses just two tunnels and
+
+219
+00:14:43,320 --> 00:14:46,080
+physics to transport it to the city.
+
+220
+00:14:46,080 --> 00:14:52,240
+Counterintuitively, however, this level of simplicity is unbelievably expensive.
+
+221
+00:14:52,240 --> 00:14:56,220
+Smaller cash-strapped cities have not historically had the funds to design elaborate programs
+
+222
+00:14:56,220 --> 00:15:00,300
+to protect their watersheds, and build massive networks of record-setting aqueducts, leaving
+
+223
+00:15:00,300 --> 00:15:05,200
+them with more marginal sources that today require more complex systems to make potable.
+
+224
+00:15:05,200 --> 00:15:11,140
+But beyond the money, New York City had foresight—the ability to recognize that future stability,
+
+225
+00:15:11,140 --> 00:15:16,620
+growth, and success all revolved around the task, simultaneously simple and complex, of
+
+226
+00:15:16,620 --> 00:15:19,980
+getting good water.
+
+227
+00:15:19,980 --> 00:15:23,300
+If you want to dive deeper into the physics that make engineering marvels like the Delaware
+
+228
+00:15:23,300 --> 00:15:27,540
+Aqueduct work, then I'd recommend you give our sponsor, Brilliant, a try.
+
+229
+00:15:27,540 --> 00:15:31,140
+There are plenty of places where you can go to learn physics, but none are quite like
+
+230
+00:15:31,140 --> 00:15:32,340
+Brilliant.
+
+231
+00:15:32,340 --> 00:15:36,180
+They focus on learning by doing—you're not going to have to read long blocks of text
+
+232
+00:15:36,180 --> 00:15:38,060
+and answer multiple-choice questions.
+
+233
+00:15:38,060 --> 00:15:42,100
+Rather, they guide you through interactive exercises, and you learn quantum computing
+
+234
+00:15:42,100 --> 00:15:46,380
+or gravitational physics or computational biology or any one of their STEM subjects
+
+235
+00:15:46,380 --> 00:15:48,420
+intuitively as you go.
+
+236
+00:15:48,420 --> 00:15:51,720
+It really is a better way to learn, whether you're trying to get ahead in school, brush
+
+237
+00:15:51,720 --> 00:15:54,360
+up on what you learned years ago, or add to your knowledge.
+
+238
+00:15:54,360 --> 00:15:58,040
+Personally, I've always had a really tough time learning STEM subjects like math and
+
+239
+00:15:58,040 --> 00:16:01,600
+physics—they were by far my weakest subjects in high school—but Brilliant's learning
+
+240
+00:16:01,600 --> 00:16:05,680
+technique has me finally understanding things that I thought I simply couldn't.
+
+241
+00:16:05,680 --> 00:16:09,640
+There's really nothing more satisfying than knowing something complex, and Brilliant makes
+
+242
+00:16:09,640 --> 00:16:14,800
+that possible, especially since the first 200 people to sign up at our link, brilliant.org.wendover,
+
+243
+00:16:14,800 --> 00:16:17,280
+will get 20% off the annual premium subscription.
+
+244
+00:16:17,280 --> 00:16:20,680
+You'll also be helping support the channel by signing up, so click the button on screen
+
+245
+00:16:20,680 --> 00:16:23,360
+or head over to brilliant.org slash wendover today.
+

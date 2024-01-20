@@ -1,0 +1,868 @@
+1
+00:00:00,000 --> 00:00:03,460
+This video was made possible by CuriosityStream.
+
+2
+00:00:03,460 --> 00:00:07,960
+Sign up for the Nebula bundle deal, on sale for $15 a year, to get access to two great
+
+3
+00:00:07,960 --> 00:00:13,640
+streaming sites and help support independent creators at CuriosityStream.com slash Wendover.
+
+4
+00:00:13,640 --> 00:00:20,100
+COVID-19, a virus orders of magnitude smaller than a particle of dust, has turned daily
+
+5
+00:00:20,100 --> 00:00:24,360
+life on earth into something deeply unfamiliar.
+
+6
+00:00:24,360 --> 00:00:28,600
+In the ten or so months since it first emerged, the virus has settled at a steady clip of
+
+7
+00:00:28,600 --> 00:00:33,640
+killing 5,000 people per day, or nearly a million total, currently.
+
+8
+00:00:33,640 --> 00:00:38,180
+It has played havoc with the world economy, plunging the globe into the worst economic
+
+9
+00:00:38,180 --> 00:00:40,400
+crisis since World War II.
+
+10
+00:00:40,400 --> 00:00:45,800
+It has interrupted an era of mountain globalization and pushed us into a more insular, nationalistic
+
+11
+00:00:45,800 --> 00:00:46,800
+state.
+
+12
+00:00:46,800 --> 00:00:52,760
+The effects of this virus are truly all-encompassing and consistently dreadful, but time has bestowed
+
+13
+00:00:52,760 --> 00:00:56,000
+upon us a reward for our patience.
+
+14
+00:00:56,000 --> 00:01:01,160
+We are potentially nearing the beginning of the end, meaning we could now be at the end
+
+15
+00:01:01,160 --> 00:01:02,320
+of the middle.
+
+16
+00:01:02,320 --> 00:01:06,520
+That end of this virus will take far longer than the beginning—we're likely far from
+
+17
+00:01:06,520 --> 00:01:12,080
+halfway through the pandemic in terms of time—but the slow decline in dreadfulness is potentially
+
+18
+00:01:12,080 --> 00:01:13,400
+on the horizon.
+
+19
+00:01:13,400 --> 00:01:17,560
+That's because a vaccine is coming.
+
+20
+00:01:17,560 --> 00:01:21,920
+There was previously a period of doubt on whether an effective vaccine could be developed—it
+
+21
+00:01:21,920 --> 00:01:26,840
+was never a sure shot—but all indications currently suggest, given the unprecedented
+
+22
+00:01:26,840 --> 00:01:31,660
+extent of scientific effort, that it is indeed coming.
+
+23
+00:01:31,660 --> 00:01:36,340
+The only, and paramount question, is when.
+
+24
+00:01:36,340 --> 00:01:41,720
+Right now, in September 2020, all attention is focused on the late-October, early-November
+
+25
+00:01:41,720 --> 00:01:42,720
+timeframe.
+
+26
+00:01:42,720 --> 00:01:47,560
+That's the earliest possible moment when any of the front-runner vaccines, from major
+
+27
+00:01:47,560 --> 00:01:53,200
+manufacturers including AstraZeneca, Pfizer, and Moderna, could enter regulatory review.
+
+28
+00:01:53,200 --> 00:01:57,960
+If all the data confidently point to the vaccine exhibiting an acceptable level of safety and
+
+29
+00:01:57,960 --> 00:02:03,000
+effectiveness, it is possible that one of these will then be granted emergency use authorization
+
+30
+00:02:03,000 --> 00:02:07,480
+by the American FDA or its equivalent by other major national regulators.
+
+31
+00:02:07,480 --> 00:02:12,640
+It's worth noting that this is far from a sure shot, but experts do say that having
+
+32
+00:02:12,640 --> 00:02:17,240
+a vaccine in 2020 is a less than long shot possibility.
+
+33
+00:02:17,240 --> 00:02:24,220
+However, it is almost certain that you will not be injected by a COVID-19 vaccine in the
+
+34
+00:02:24,220 --> 00:02:26,280
+year 2020.
+
+35
+00:02:26,280 --> 00:02:32,320
+It is possible, but for the average person, when you actually get a dose of a COVID vaccine
+
+36
+00:02:32,320 --> 00:02:37,600
+has much less to do with when it's approved and much more with how fast it is manufactured
+
+37
+00:02:37,600 --> 00:02:38,940
+and distributed.
+
+38
+00:02:38,940 --> 00:02:44,260
+The full effects of the pandemic—health, social, and economic—will not end until
+
+39
+00:02:44,260 --> 00:02:47,500
+a critical mass of people are vaccinated.
+
+40
+00:02:47,500 --> 00:02:52,020
+That means that when we get back to normal life has much more to do with when the last
+
+41
+00:02:52,020 --> 00:02:55,540
+person is vaccinated, rather than the first.
+
+42
+00:02:55,540 --> 00:03:00,820
+This is why some have said that the fast distribution of a vaccine will be an even greater challenge
+
+43
+00:03:00,820 --> 00:03:02,840
+than the development itself.
+
+44
+00:03:02,840 --> 00:03:07,820
+This process, this challenge of getting the majority of the world's population vaccinated,
+
+45
+00:03:07,820 --> 00:03:12,840
+can quite legitimately be described as the most daunting and consequential single logistical
+
+46
+00:03:12,840 --> 00:03:14,500
+challenge ever.
+
+47
+00:03:14,500 --> 00:03:19,580
+The stakes have never been higher, but the challenge has also never been greater.
+
+48
+00:03:19,580 --> 00:03:22,240
+Let's look at why.
+
+49
+00:03:22,240 --> 00:03:24,780
+First and foremost, it's a scale problem.
+
+50
+00:03:24,780 --> 00:03:28,900
+Shipping and administering one vaccine to one person is not difficult, but shipping
+
+51
+00:03:28,900 --> 00:03:33,340
+and administering five billion vaccines to five billion people is.
+
+52
+00:03:33,860 --> 00:03:37,860
+That's because there just isn't enough room in our world's logistics network, as
+
+53
+00:03:37,860 --> 00:03:40,020
+it is now, to do that.
+
+54
+00:03:40,020 --> 00:03:44,620
+Making it even tougher, there's more chance than not, based on the current leading vaccines,
+
+55
+00:03:44,620 --> 00:03:49,860
+that the first major vaccine to be approved will require two doses administered 21 or
+
+56
+00:03:49,860 --> 00:03:51,800
+28 days apart.
+
+57
+00:03:51,800 --> 00:03:54,060
+That doubles the challenge.
+
+58
+00:03:54,060 --> 00:03:58,860
+Distributing ten or more billion doses of a vaccine would be difficult enough in normal
+
+59
+00:03:58,860 --> 00:04:02,100
+times, but these are far from normal times.
+
+60
+00:04:02,100 --> 00:04:06,840
+With international travel all but non-existent, currently sitting at more than 90% down, passenger
+
+61
+00:04:06,840 --> 00:04:10,820
+airlines have dramatically cut back their international route networks.
+
+62
+00:04:10,820 --> 00:04:16,020
+Now, this is an issue because traditionally, some 50% of pharmaceuticals are shipped in
+
+63
+00:04:16,020 --> 00:04:20,740
+the belly hold of passenger aircraft rather than on dedicated freighters, as this can
+
+64
+00:04:20,740 --> 00:04:24,280
+help them get closer to their final destination faster.
+
+65
+00:04:24,280 --> 00:04:30,060
+With limited passenger service, overall cargo capacity is down about 30% while cargo demand
+
+66
+00:04:30,060 --> 00:04:35,060
+is only about 15% down, meaning there is already a supply crunch.
+
+67
+00:04:35,060 --> 00:04:39,260
+This has led to existing dedicated freighter aircraft being used more, additional dedicated
+
+68
+00:04:39,260 --> 00:04:43,840
+freighters coming into service, but still, due to constrained supply, a dramatic increase
+
+69
+00:04:43,840 --> 00:04:45,640
+in shipping costs.
+
+70
+00:04:45,640 --> 00:04:50,500
+Even already, before the COVID vaccine comes into the global logistics network, pharmaceutical
+
+71
+00:04:50,500 --> 00:04:54,580
+manufacturers have had to come up with new techniques to ship their goods including,
+
+72
+00:04:54,580 --> 00:04:58,220
+for example, flying their product to where shipping rates are cheaper and trucking them
+
+73
+00:04:58,220 --> 00:05:01,660
+to their final destination or chartering private planes.
+
+74
+00:05:01,660 --> 00:05:05,740
+Of course, the world already experienced a massive logistics challenge this year with
+
+75
+00:05:05,740 --> 00:05:09,820
+the distribution of personal protective equipment, and shippers were able to scale up for that
+
+76
+00:05:09,820 --> 00:05:14,420
+reasonably successfully, but there's one simple reason why it won't be so easy this
+
+77
+00:05:14,420 --> 00:05:17,900
+time around—the cold chain.
+
+78
+00:05:17,900 --> 00:05:20,280
+Vaccines are temperature sensitive.
+
+79
+00:05:20,280 --> 00:05:24,640
+Most all of them have to be stored in a highly precise, climate-controlled environment in
+
+80
+00:05:24,640 --> 00:05:26,980
+order to stay safe and effective.
+
+81
+00:05:26,980 --> 00:05:31,540
+So, the cold chain is the supply chain suited to shipping goods that need to be kept cold
+
+82
+00:05:31,540 --> 00:05:35,220
+or frozen, such as meat, chemicals, and pharmaceuticals.
+
+83
+00:05:35,220 --> 00:05:40,340
+Of course, the difficulty with the cold chain is that everything used has to be specialized.
+
+84
+00:05:40,340 --> 00:05:45,060
+The origin warehouse, the truck, the plane, the in-route warehouse, and the final destination
+
+85
+00:05:45,060 --> 00:05:48,620
+each need to have the equipment to keep the goods at the specified temperature, or the
+
+86
+00:05:48,620 --> 00:05:52,460
+goods have to be shipped in packaging that keeps them at the specified temperature.
+
+87
+00:05:52,460 --> 00:05:57,540
+Both options are complicated, and complication compounded by other complication is what makes
+
+88
+00:05:57,540 --> 00:06:00,440
+a true logistical challenge.
+
+89
+00:06:00,440 --> 00:06:02,620
+It doesn't end there, though.
+
+90
+00:06:02,620 --> 00:06:08,540
+One of the leading vaccine candidates, Pfizer's BNT162b2, must be stored and transported at
+
+91
+00:06:08,540 --> 00:06:12,900
+around negative 90 degrees Fahrenheit or negative 68 degrees Celsius.
+
+92
+00:06:12,900 --> 00:06:17,940
+That is far, far colder than the requirements of most vaccines, which can ship either at
+
+93
+00:06:17,940 --> 00:06:21,940
+refrigerated temperatures or a wider range of freezing temperatures.
+
+94
+00:06:21,940 --> 00:06:26,520
+A thermal requirement such as this is a whole different ballgame, and it means that they'll
+
+95
+00:06:26,520 --> 00:06:31,100
+be able to use only a subset of cold chain infrastructure, which is already a subset
+
+96
+00:06:31,100 --> 00:06:33,620
+of overall logistics infrastructure.
+
+97
+00:06:33,620 --> 00:06:38,020
+Beyond the issue of actually getting such a vaccine to a distribution site, most hospitals
+
+98
+00:06:38,020 --> 00:06:42,100
+don't even have facilities to keep a vaccine at such a temperature, let alone clinics or
+
+99
+00:06:42,100 --> 00:06:47,480
+pharmacies, meaning that even finding places that can receive this vaccine is a challenge.
+
+100
+00:06:47,480 --> 00:06:51,920
+Part of the reason why this obstacle has come up is that traditionally, vaccines are thoroughly
+
+101
+00:06:51,920 --> 00:06:55,940
+tested to determine what sort of storage and shipping conditions they can endure while
+
+102
+00:06:55,940 --> 00:07:00,040
+still staying safe and effective, but with the breakneck pace of development for these
+
+103
+00:07:00,040 --> 00:07:04,360
+COVID-19 vaccines, there likely will not have been enough time to conduct these tests before
+
+104
+00:07:04,360 --> 00:07:08,600
+distribution meaning they'll have to keep the standards at what's already proven.
+
+105
+00:07:08,600 --> 00:07:13,720
+So, to reiterate, already, a likely vaccine will only be able to be shipped through a
+
+106
+00:07:13,720 --> 00:07:19,400
+subset of a subset of a subset of an already strained logistics network to a subset of
+
+107
+00:07:19,400 --> 00:07:25,360
+sites and it'll need to happen many billions of times, but even the solution to these challenges
+
+108
+00:07:25,360 --> 00:07:27,640
+present additional challenges.
+
+109
+00:07:27,640 --> 00:07:32,080
+Pfizer, for example, knowing that the unique distribution requirements of their vaccine
+
+110
+00:07:32,080 --> 00:07:36,080
+could limit its commercial success, has developed a partial solution.
+
+111
+00:07:36,080 --> 00:07:41,320
+It's essentially a highly specialized standalone box that can, with the use of dry ice, keep
+
+112
+00:07:41,320 --> 00:07:45,000
+the vaccine at the required temperature for up to ten days.
+
+113
+00:07:45,000 --> 00:07:49,040
+This means that, hypothetically, the vaccine could be shipped through a more traditional
+
+114
+00:07:49,040 --> 00:07:54,340
+logistics network, however, this box has highly specific requirements.
+
+115
+00:07:54,340 --> 00:07:58,620
+For one, upon arrival, it can only be opened twice per day, not more than one minute at
+
+116
+00:07:58,620 --> 00:08:02,520
+a time, in order to keep the vaccines at the required temperature.
+
+117
+00:08:02,520 --> 00:08:06,400
+That means that a distribution site would need to accurately predict how many doses
+
+118
+00:08:06,400 --> 00:08:09,580
+they would need in a given day before that day.
+
+119
+00:08:09,580 --> 00:08:13,360
+If they take out too little, they'd be slowing the process by not vaccinating everyone they
+
+120
+00:08:13,360 --> 00:08:17,680
+can, but if they take out too much, they'd have potentially life-saving vaccines go to
+
+121
+00:08:17,680 --> 00:08:19,600
+waste at the end of the day.
+
+122
+00:08:19,600 --> 00:08:24,280
+Also, this box can only carry vaccines in multiples of a thousand, and keep in mind
+
+123
+00:08:24,280 --> 00:08:27,200
+that it only keeps cold for ten days.
+
+124
+00:08:27,200 --> 00:08:31,880
+So how, for example, do you go about getting the vaccine to a clinic that can only vaccinate
+
+125
+00:08:31,880 --> 00:08:35,720
+50 people in a day, like a rural clinic in a small town?
+
+126
+00:08:35,720 --> 00:08:41,080
+Even if shipping was instantaneous, they could only vaccinate 500 people in ten days, meaning
+
+127
+00:08:41,080 --> 00:08:43,440
+half their vaccines would go bad.
+
+128
+00:08:43,440 --> 00:08:47,760
+Pfizer is apparently developing a smaller temperature-controlled box to solve this problem,
+
+129
+00:08:47,760 --> 00:08:52,600
+but that means adding a whole other type of distribution, which increases complexity,
+
+130
+00:08:52,600 --> 00:08:54,840
+which slows the process down.
+
+131
+00:08:54,840 --> 00:09:00,160
+In its scenario planning, the American CDC mapped out a distribution process for if both
+
+132
+00:09:00,160 --> 00:09:05,440
+Pfizer and Moderna's vaccines are approved and, if this happened, the Pfizer vaccine
+
+133
+00:09:05,440 --> 00:09:09,460
+would be directed to only large distribution sites that would either have the facilities
+
+134
+00:09:09,460 --> 00:09:13,780
+for ultra-cold storage, or the capacity to vaccinate enough people that the short shelf
+
+135
+00:09:13,780 --> 00:09:16,540
+life of these vaccines wouldn't be an issue.
+
+136
+00:09:16,540 --> 00:09:21,180
+Then, the Moderna vaccine, which only requires traditional freezer temperatures, would be
+
+137
+00:09:21,180 --> 00:09:25,180
+directed to smaller sites with less advanced facilities.
+
+138
+00:09:25,180 --> 00:09:29,500
+This would certainly create a scenario in the US, and likely elsewhere, where the Pfizer
+
+139
+00:09:29,500 --> 00:09:33,540
+vaccine would be primarily distributed to people in cities, while the Moderna vaccine
+
+140
+00:09:33,540 --> 00:09:36,680
+would be the vaccine of choice for rural areas.
+
+141
+00:09:36,680 --> 00:09:41,560
+Another challenge that needs to be confronted is the order of operations for distribution.
+
+142
+00:09:41,560 --> 00:09:45,040
+The coronavirus affects different people in different ways.
+
+143
+00:09:45,040 --> 00:09:49,560
+This means that if we want a vaccine to save the most number of lives possible, the first
+
+144
+00:09:49,560 --> 00:09:54,000
+person in line should be that who is most susceptible to COVID-19, and the last person
+
+145
+00:09:54,000 --> 00:09:56,960
+in line should be that who is least susceptible.
+
+146
+00:09:56,960 --> 00:10:01,560
+One set of research modeled two scenarios—the first where, of the first three billion doses
+
+147
+00:10:01,560 --> 00:10:05,640
+available, 50 high-income countries buy up two billion of them.
+
+148
+00:10:05,640 --> 00:10:09,600
+The second was where the first three billion doses were distributed to countries proportionally
+
+149
+00:10:09,600 --> 00:10:12,680
+based on their population, regardless of wealth.
+
+150
+00:10:12,680 --> 00:10:18,400
+In this model, twice as many people died overall with the first scenario—the wealthy countries'
+
+151
+00:10:18,400 --> 00:10:22,080
+first scenario—than the equitable, proportional approach.
+
+152
+00:10:22,080 --> 00:10:27,360
+However, for vaccination purposes, it is the least wealthy countries—arguably those
+
+153
+00:10:27,360 --> 00:10:31,440
+that need the vaccine most—that are toughest to distribute to.
+
+154
+00:10:31,440 --> 00:10:36,280
+Poor countries tend to have limited cold-chain infrastructure, let alone normal logistics
+
+155
+00:10:36,280 --> 00:10:40,560
+infrastructure, and fragmented, poorly funded healthcare systems.
+
+156
+00:10:40,560 --> 00:10:44,700
+Distributing and administering a complex vaccine like Pfizer's will already be tough enough
+
+157
+00:10:44,700 --> 00:10:49,020
+in the wealthy countries like the United States, but just imagine how difficult it will be
+
+158
+00:10:49,020 --> 00:10:53,960
+to get a vaccine from distributor to someone's arm in rural Democratic Republic of the Congo,
+
+159
+00:10:53,960 --> 00:10:59,400
+for example, in ten days while keeping it at negative 90 degrees Fahrenheit.
+
+160
+00:10:59,400 --> 00:11:04,960
+How soon a COVID vaccine is administered will quite directly correlate to how many lives
+
+161
+00:11:04,960 --> 00:11:06,240
+are saved.
+
+162
+00:11:06,240 --> 00:11:11,080
+Every day of delay will, with certainty, lead to more death and despair.
+
+163
+00:11:11,080 --> 00:11:15,380
+The manufacturers are working as fast as they can—they are already producing millions
+
+164
+00:11:15,380 --> 00:11:19,440
+of doses of their vaccines before they're approved so they can be distributed as fast
+
+165
+00:11:19,440 --> 00:11:24,280
+as possible, and regulatory agencies have been preparing for months for an unprecedentedly
+
+166
+00:11:24,280 --> 00:11:31,040
+fast review process, so it is now truly down to every member of the global logistics network
+
+167
+00:11:31,040 --> 00:11:33,160
+to save lives.
+
+168
+00:11:33,160 --> 00:11:38,880
+Of course, many of those that will be involved, especially once we get to wide-scale distribution,
+
+169
+00:11:38,880 --> 00:11:44,600
+will be companies, not governments or non-profits, and for them, this presents a massive business
+
+170
+00:11:44,600 --> 00:11:48,640
+opportunity in addition to the positive public relations potential.
+
+171
+00:11:48,640 --> 00:11:53,920
+UPS, for example, has built two freezer farms in Louisville, Kentucky and Venlo, Netherlands,
+
+172
+00:11:53,920 --> 00:11:58,120
+for their hubs, which can each hold 48,000 doses and can go down to the temperatures
+
+173
+00:11:58,120 --> 00:11:59,840
+required for the Pfizer vaccine.
+
+174
+00:11:59,840 --> 00:12:04,520
+DHL and FedEx, too, are reportedly massively upscaling their cold-chain infrastructure
+
+175
+00:12:04,520 --> 00:12:08,380
+to be able to handle some of the surge in demand, while other lesser-known logistics
+
+176
+00:12:08,380 --> 00:12:10,120
+companies are, too.
+
+177
+00:12:10,120 --> 00:12:15,480
+Ultimately, though, it's tough to find someone in the know who doesn't admit that shipping
+
+178
+00:12:15,480 --> 00:12:17,760
+will be a bottleneck.
+
+179
+00:12:17,760 --> 00:12:22,680
+We already know it's not going to go perfectly, so right now, it's about doing as much work
+
+180
+00:12:22,680 --> 00:12:27,000
+as possible to make sure the process goes as well as it can be.
+
+181
+00:12:27,000 --> 00:12:31,160
+This will come down to making sure that as much planning work as possible is done now,
+
+182
+00:12:31,160 --> 00:12:36,520
+before the vaccine is approved, so that distribution can happen as fast as possible when that does
+
+183
+00:12:36,520 --> 00:12:37,520
+happen.
+
+184
+00:12:37,520 --> 00:12:42,480
+Now is the time to figure out how and where the vaccine will be distributed.
+
+185
+00:12:42,480 --> 00:12:47,980
+If you are a healthy, relatively young person and thinking selfishly, you should care tremendously
+
+186
+00:12:47,980 --> 00:12:53,060
+about the distribution process, because you are at the back of the line.
+
+187
+00:12:53,060 --> 00:12:57,580
+When you get your shot, when you get to start letting your guard down, has everything to
+
+188
+00:12:57,580 --> 00:13:02,980
+do with how fast everyone in front of you gets theirs, and how fast they get theirs
+
+189
+00:13:02,980 --> 00:13:06,380
+will also impact how many of them will die.
+
+190
+00:13:06,380 --> 00:13:10,060
+We know this process will not be perfect, and it wouldn't be reasonable to ask for
+
+191
+00:13:10,060 --> 00:13:15,760
+perfect given the complexity of the challenge, but if we truly put every effort into planning
+
+192
+00:13:15,760 --> 00:13:21,800
+and preparing for this now and create a system that orders people by need, rather than wealth,
+
+193
+00:13:21,800 --> 00:13:27,000
+we can at least know, at the end of this, that no lives could have been saved if only
+
+194
+00:13:27,000 --> 00:13:29,920
+the vaccine got to them faster.
+
+195
+00:13:29,920 --> 00:13:34,400
+For our collective consciousness, looking back far in the future, this moment will be
+
+196
+00:13:34,400 --> 00:13:40,240
+defined not by when we get to go back to concerts, or parties, or the gym, but rather by how
+
+197
+00:13:40,240 --> 00:13:45,480
+many lives we saved when confronting, what is hopefully, the greatest global challenge
+
+198
+00:13:45,480 --> 00:13:49,120
+of this generation.
+
+199
+00:13:49,120 --> 00:13:53,500
+As you've heard before, the point of Nebula, the streaming site that I and other independent
+
+200
+00:13:53,500 --> 00:13:58,340
+creators founded, is to make a greater variety of content types possible.
+
+201
+00:13:58,340 --> 00:14:02,160
+For example, I know many of you were fans of my and Brian from Real Engineering's
+
+202
+00:14:02,160 --> 00:14:06,560
+old podcast, Showmakers, where we interviewed different educational creators about their
+
+203
+00:14:06,560 --> 00:14:11,400
+background, story, and process, but the financials of that show just didn't work, so we stopped
+
+204
+00:14:11,400 --> 00:14:12,400
+it.
+
+205
+00:14:12,400 --> 00:14:16,960
+Nebula, however, has made it possible for us to relaunch it, so we've done exactly
+
+206
+00:14:16,960 --> 00:14:22,160
+that—Showmakers is now a Nebula Original Podcast.
+
+207
+00:14:22,160 --> 00:14:26,640
+This is in addition to the two Wendover Originals we've done already, the Half as Interesting
+
+208
+00:14:26,640 --> 00:14:30,080
+Original, and another Wendover Original that is coming out next month.
+
+209
+00:14:30,080 --> 00:14:34,360
+Of course, the best way to get access to Nebula is CuriosityStream's bundle deal, on sale
+
+210
+00:14:34,360 --> 00:14:36,940
+now for $15 a year.
+
+211
+00:14:36,940 --> 00:14:41,380
+With that, you also get access to CuriosityStream, where you could watch, for example, the piece
+
+212
+00:14:41,380 --> 00:14:45,520
+they made about how the development of the COVID vaccine works, filmed with the actual
+
+213
+00:14:45,520 --> 00:14:46,840
+scientists involved.
+
+214
+00:14:46,840 --> 00:14:51,240
+That's, of course, in addition to the thousands of other educational shows and documentaries
+
+215
+00:14:51,240 --> 00:14:57,120
+they have, and together with Nebula, this represents, truly, the best deal in streaming.
+
+216
+00:14:57,120 --> 00:15:03,320
+Sign up today for the bundle deal for just $15 a year with current sale pricing at CuriosityStream.com
+
+217
+00:15:03,320 --> 00:15:04,560
+slash Wendover.
+

@@ -1,0 +1,202 @@
+This video was made possible by CuriosityStream.
+When you sign up at CuriosityStream.com slash Wendover, you'll also get access to Nebula,
+the streaming site that Wendover is a part of.
+COVID-19 is a devious disease.
+It's not deadly enough to kill a large proportion of its hosts, so they go on to spread it to
+an incredible number of individuals, meaning its fairly low mortality rate has already
+killed hundreds of thousands.
+It disguises itself, presenting like a common cold, yet can escalate to something far more
+worrisome.
+It also hides, with the possibility of being spread by someone who does not exhibit any
+symptoms whatsoever.
+Altogether, this leads to one simple truth—until there is an effective treatment, a vaccine,
+or herd immunity, perhaps the most important thing a healthcare system itself can do to
+minimize the number of cases and deaths is test.
+Worldwide, diagnostic testing for COVID-19 has ramped up incredibly fast.
+The first genetic sequence of the virus was published on January 5th, and within days,
+the first testing protocols were published by researchers.
+In the second half of January, the world was testing hundreds of individuals per day.
+By February, they were testing thousands per day, then in March, hundreds of thousands,
+and now, in July 2020, millions of coronavirus tests are performed and processed each and
+every day.
+Believe it or not, though, this is not enough.
+The process has been mired in issues and, to get to the point where testing can actually
+minimize the damage, rather than just quantify it, we need to rethink the system itself.
+The core of any COVID test is a laboratory method known as a polymerase chain reaction.
+This is a commonly used procedure that copies DNA, or, through reverse transcription, RNA,
+enough so that it can be studied.
+The various steps in the process—denaturation, annealing, and elongation—require various
+specific temperatures and so performing this process requires a machine called a thermal
+cycler.
+These thermal cyclers can reach precise temperatures incredibly quickly and accurately, but it
+comes at a cost.
+The cheapest thermal cyclers are priced in the thousands of dollars, but the high-throughput
+ones used to process COVID tests often cost in the many tens of thousands of dollars.
+Therefore, at this time, it is not practical for every doctor's office to have one, especially
+as many less-ordinated variants require trained technicians to operate.
+There are some faster point-of-care tests hitting the market, but they tend to be less
+accurate, more expensive, and can process fewer tests at a time.
+Therefore, while samples can be collected almost anywhere, processing them is a greater
+challenge.
+One of the largest testing providers in the US is a company called Quest Diagnostics.
+At the time of writing, they have processed about 17% of all tests performed in the US
+and have the capacity for 130,000 each day.
+They carry out this work in one of their 28 labs spread out across the United States.
+Of course, it's easy to see that there are wide swaths of the country without a lab nearby,
+so to get samples from where they're collected to where they're processed, they rely on
+their own small logistics network.
+This system involves plenty of ground transportation, but also, in order to quickly transport samples
+from far away areas to the lab, they use airplanes.
+Each night, after the day samples have been collected around the country, Quest Diagnostics'
+fleet of airplanes get to the sky starting at around 7 PM.
+These 20 or so aircraft are primarily based in Redding, Pennsylvania and Lawrenceville,
+Georgia.
+As an example, on July 16th, 2020, one aircraft—a Pilatus PC-12 registered as M338QD—took
+off at 8.45 PM from Redding, Pennsylvania and flew to Elmira, Syracuse, Rochester, Niagara
+Falls, Allegheny County, Manassas, and Baltimore where samples were trucked to a lab a few
+miles from BWI Airport.
+The aircraft then returned to Redding, Pennsylvania by 3.30 AM.
+On that night, the majority of their aircraft focused their flights on the American South,
+though.
+This is a region without many Quest Diagnostics labs and a surge of cases at that time.
+Another PC-12, for example, flew from Lawrenceville, Georgia to Jacksonville, Gainesville, Tampa,
+Orlando, Valdosta, Lawrenceville, Roanoke, Manassas, and Greensboro before returning
+to Lawrenceville all in one night.
+Filling in the rest of the routes, you can see just how much ground this small airline
+covered in one night—stopping at a large number of cities and towns, going to just
+a few labs.
+Now, in theory, a system like this, bringing a whole country's worth of samples to a
+few central sites, should provide economies and efficiencies of scale and, to an extent,
+it does, however, other economic concepts have simultaneously decreased its effectiveness.
+To start with, there's a heavy supply and demand imbalance for crucial equipment.
+To perform a test, about 20 different consumable supplies are needed, including nasal swabs,
+transport tubes, reagents, and other equipment.
+Without any of these 20 items, a test cannot be performed so a bottleneck in any one of
+those 20 supply chains stops testing.
+In addition, economic forces are actually decreasing overall efficiency.
+Particularly in a country like the US, where testing is overwhelmingly conducted by private
+organizations rather than the government, thousands of providers are each bidding against
+each other for equipment.
+In conventional economics, one typically wants to avoid monopolies and oligopolies because
+a few number of players have too much power.
+This is why, in countries like the UK, for example, where 75% of the grocery market is
+cornered by four firms, products like milk are sold for just about what it costs to produce—farmers
+barely turn a profit.
+That's because, if a farmer can't sell their milk to Tesco, Sainsbury's, Asda,
+or Morrison's, they don't really have another option so they'll take any price
+they can get and meanwhile, there are plenty of farmers so the grocery stores have plenty
+of options if one says no to their low price.
+Meanwhile, in the COVID test supply market, the producers have thousands upon thousands
+of potential customers—the testing providers—so if one customer won't accept a high price,
+there are plenty of others and one that most desperately needs the supplies inevitably
+will.
+If, for example, the federal government was the only customer in the US, or just the largest
+one by far, the supply producers would just have to accept what the government paid because
+there would be no alternatives.
+Now, resources might not be allocated as efficiently using a centrally planned system, but it would
+at least come at a lower cost.
+In the real world, the larger providers like LabCorp and Quest Diagnostics do have higher
+buying power, processing more tests per day than most countries, but they still have to
+compete against the rest of the world in procuring supplies which increases cost.
+In recent weeks, Quest Diagnostics, and other major testing providers, have been able to
+collect far more samples than they have been able to process, and tests now take up to
+two weeks, or sometimes more, to come back.
+Tests that take so long to return are of little use since many asymptomatic or mildly symptomatic
+patients might not quarantine for that full period while waiting for results.
+Therefore, major focus has been placed on how to increase the efficiency of testing.
+For this, Quest Diagnostics received the first emergency use authorization in the US from
+the FDA to implement a technique known as pooled testing.
+With this, up to four samples will be combined and tested together.
+If they generate a negative result, then all four tests are considered negative.
+If the group tests positive, then they are separated and tested individually.
+Now, if 100 people are tested traditionally, 100 tests will have to be processed, but let's
+say that 100 people are tested using pooled testing.
+In the US, on average, about 8% of tests currently come back positive, so with 100
+tests, grouped into 25 pools of four, you would expect about 32% of those to come back
+positive.
+For those positive pools, you'd then process each test individually, so you will have processed
+five times for four results.
+For the 17 pools that came back negative, you only processed once, meaning that altogether,
+this pooled testing technique used 57 processing slots to generate 100 results, effectively
+almost doubling capacity.
+This pooled testing technique, though, only works if testing is widespread enough that
+only a small portion of results come back positive.
+If an average of 20% of results came back positive, as was the case in the US in early
+April, the efficiency would diminish quickly.
+In that case, you'd expect to have to retest 20 of the 25 pools meaning that, overall,
+you'd use 105 processing slots to generate 100 results—more than if you just tested
+them all individually, therefore.
+This technique does not work as well for testing in hotspots, where positivity rates are far
+higher.
+Conversely, though, if positivity rates are quite low, the efficiency of pooled testing
+can increase as one could efficiently group 8 or 12 or 16 or more tests together.
+Lower positivity rates can be achieved through collecting more samples, so pooled sampling
+can increase testing capacity, therefore increasing its own efficiency.
+But no matter how fast PCR testing itself is, it is always a lagging indicator.
+That is because it takes a number of days for people to develop symptoms after exposure,
+then more days for them to decide to get tested, then more days for the test to come back.
+That means that, realistically, it will take weeks for significant upticks in transmission
+to show in the data.
+Therefore, some focus has been placed on developing a more real-time indicator for COVID transmission.
+The solution for that is sewage.
+Sewage is naturally aggregated into a few processing plants, so by testing it for the
+presence of COVID's genetic signature, one can gain a more accurate picture of how a
+whole area is doing without the potential sampling biases of clinical testing.
+This technique can show if an area has coronavirus transmission, but it can also give a big picture
+view of how much.
+Not only that, but in research tests, sewage testing indicates spikes about a week before
+clinical testing, meaning it can help tell governments if they should increase restrictions
+before it's potentially too late to make an impact.
+But let's go back to the pooled testing.
+Using sewage testing, you can know the relative chance of a single person from a given area
+of having coronavirus, so imagine if you could combine the sewage testing and clinical pooled
+testing into one cohesive system.
+This technique was proposed by a group of researchers from Berkeley.
+If you know that, say, there was a 25% chance of a test from Florida coming back positive,
+you would know that it would be more efficient to test that on its own, however, if you knew
+that there was a 1% chance that a test from North Dakota came back positive, you could
+pool that test with a large group of other low-risk tests and save processing slots.
+You could also, for example, know that a sample from a healthcare or retail worker would have
+a much higher chance of coming back positive than a test of a businessperson working from
+home.
+The Berkeley research proposes a system of machine learning to scale pooled testing sizes
+based on risk factors.
+Lower risk samples would be grouped into large pools and high risk samples would be grouped
+into smaller pools or tested alone so that pooled testing never leads to an efficiency
+disadvantage, no longer the positivity rate.
+The true genius of pooled testing is that efficiency increases as test numbers increase
+so it only takes twice the resources to test a population once daily as it does to test
+once monthly.
+Hypothetically, a pooled testing system designed by machine learning could lower the cost of
+a test to just $3 to $5, meaning the frequency of testing could increase dramatically.
+Now, we already know when the crunch time will be for testing—fall 2020.
+Sometime between October and December, each year, there begins a massive increase in the
+number of people catching the flu, which is highly seasonal.
+COVID-19's symptoms closely mirror those of the flu, therefore there will be a massive
+increase in people exhibiting COVID symptoms.
+Those people will want to get tested to rule out the possibility of coronavirus, which
+means demand will be higher than ever for testing even if real infection numbers are
+lower.
+While supplies for testing produce now are being used now, there is no stash being built
+up, which means testing providers and healthcare systems worldwide have a hefty task at hand
+if there is to be any hope of testing capacity matching demand in the coming winter.
+Like so many things going on right now, COVID testing logistics and its issues are strongly
+rooted in economic theory and there's plenty more I could talk about, but this video was
+getting a little too long to still appease the YouTube algorithm so I've posted an
+extended cut of this video on Nebula including discussion of exactly that.
+Nebula is, of course, the streaming site that myself and a bunch of other of the internet's
+top educational creators teamed up to create.
+Instead of this ad right now, you could be watching the extended cut of this video, or
+any of our other videos early and ad-free, or some of our special Nebula exclusive projects.
+In fact, there's a brand new Nebula original going out tomorrow from our other channel,
+if that stuff is interesting, or you could watch Tom Scott's game show, Money, which
+I'm in.
+We're also super excited that Nebula is teamed up with CuriosityStream, which is another
+of the internet's best streaming sites, home to thousands of fantastic documentaries
+and non-fiction shows like their one on Gander International Airport—specifically, on how
+it and the town reinvented itself as it shifted from being one of the most important airports
+in the world to just another small Canadian airfield.
+Together, Nebula and CuriosityStream are offering an amazing deal.
+For a limited time, CuriosityStream and Nebula are bundled together for less than $15 a year.
+I'm confident in saying that that is the best deal in streaming, and it's available
+only by going to curiositystream.com slash Wendover.
