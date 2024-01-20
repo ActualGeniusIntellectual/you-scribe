@@ -1,0 +1,400 @@
+1
+00:00:00,000 --> 00:00:04,500
+The fundamental currency of our universe is energy.
+
+2
+00:00:04,500 --> 00:00:07,980
+It lights our homes, grows our food,
+
+3
+00:00:07,980 --> 00:00:12,340
+powers our computers. We can get it lots of ways,
+
+4
+00:00:12,340 --> 00:00:17,260
+burning fossil fuels, splitting atoms, or sunlight striking photovoltaics.
+
+5
+00:00:17,260 --> 00:00:20,820
+But there's a downside to everything. Fossil fuels
+
+6
+00:00:20,820 --> 00:00:24,860
+are extremely toxic, nuclear waste is, well, nuclear waste,
+
+7
+00:00:24,860 --> 00:00:28,780
+and there are not enough batteries to store sunlight for cloudy days yet.
+
+8
+00:00:29,560 --> 00:00:33,620
+And yet, the Sun seems to have virtually limitless free energy.
+
+9
+00:00:33,620 --> 00:00:36,780
+Is there a way we could build a Sun on Earth?
+
+10
+00:00:36,780 --> 00:00:38,780
+Can we bottle a star?
+
+11
+00:00:48,780 --> 00:00:51,580
+The Sun shines because of nuclear fusion.
+
+12
+00:00:51,580 --> 00:00:55,100
+In a nutshell, fusion is a thermonuclear process,
+
+13
+00:00:55,100 --> 00:00:58,560
+meaning that the ingredients have to be incredibly hot, so hot
+
+14
+00:00:58,560 --> 00:01:02,080
+that the atoms are stripped of their electrons, making a plasma
+
+15
+00:01:02,080 --> 00:01:05,080
+where nuclei and electrons bounce around freely.
+
+16
+00:01:05,080 --> 00:01:08,320
+Since nuclei are all positively charged,
+
+17
+00:01:08,320 --> 00:01:11,780
+they repel each other. In order to overcome this repulsion,
+
+18
+00:01:11,780 --> 00:01:15,920
+the particles have to be going very, very fast. In this context,
+
+19
+00:01:15,920 --> 00:01:20,000
+very fast means very hot, millions of degrees.
+
+20
+00:01:20,000 --> 00:01:23,080
+Stars cheat to reach these temperatures.
+
+21
+00:01:23,080 --> 00:01:26,160
+They are so massive that the pressure in their cores
+
+22
+00:01:26,160 --> 00:01:29,760
+generates the heat to squeeze the nuclei together until they merge
+
+23
+00:01:29,760 --> 00:01:33,000
+and fuse, creating heavier nuclei and releasing
+
+24
+00:01:33,000 --> 00:01:36,760
+energy in the process. It is this energy release
+
+25
+00:01:36,760 --> 00:01:40,760
+that scientists hope to harness in a new generation of power plant,
+
+26
+00:01:40,760 --> 00:01:45,480
+the fusion reactor. On Earth, it's not feasible to use this
+
+27
+00:01:45,480 --> 00:01:49,680
+brute force method to create fusion, so if we wanted to build a reactor that
+
+28
+00:01:49,680 --> 00:01:51,360
+generates energy from fusion,
+
+29
+00:01:51,360 --> 00:01:56,120
+we have to get clever. To date, scientists have invented two ways of
+
+30
+00:01:56,160 --> 00:01:58,160
+making plasmas hot enough to fuse.
+
+31
+00:01:58,160 --> 00:02:02,760
+The first type of reactor uses a magnetic field to squeeze a plasma in a
+
+32
+00:02:02,760 --> 00:02:03,960
+donut-shaped chamber
+
+33
+00:02:03,960 --> 00:02:08,720
+where the reactions take place. These magnetic confinement reactors,
+
+34
+00:02:08,720 --> 00:02:11,760
+such as the ITER reactor in France, use
+
+35
+00:02:11,760 --> 00:02:14,840
+superconducting electromagnets cooled with liquid helium
+
+36
+00:02:14,840 --> 00:02:18,400
+to within a few degrees of absolute zero, meaning they host
+
+37
+00:02:18,400 --> 00:02:21,400
+some of the biggest temperature gradients in the known universe.
+
+38
+00:02:21,400 --> 00:02:24,600
+The second type, called inertial confinement,
+
+39
+00:02:24,680 --> 00:02:29,000
+uses pulses from super-powered lasers to heat the surface of a pellet of fuel,
+
+40
+00:02:29,000 --> 00:02:32,800
+imploding it, briefly making the fuel hot and dense enough to fuse.
+
+41
+00:02:32,800 --> 00:02:36,440
+In fact, one of the most powerful lasers in the world
+
+42
+00:02:36,440 --> 00:02:40,080
+is used for fusion experiments at the National Ignition Facility
+
+43
+00:02:40,080 --> 00:02:44,440
+in the US. These experiments and others like them around the world
+
+44
+00:02:44,440 --> 00:02:49,240
+are today just experiments. Scientists are still developing the technology.
+
+45
+00:02:49,240 --> 00:02:52,480
+And although they can achieve fusion,
+
+46
+00:02:52,560 --> 00:02:55,880
+right now, it costs more energy to do the experiment
+
+47
+00:02:55,880 --> 00:03:00,320
+than they produce in fusion. The technology has a long way to go before
+
+48
+00:03:00,320 --> 00:03:01,880
+it's commercially viable.
+
+49
+00:03:01,880 --> 00:03:05,540
+And maybe it never will be. It might just be
+
+50
+00:03:05,540 --> 00:03:08,680
+impossible to make a viable fusion reactor on earth.
+
+51
+00:03:08,680 --> 00:03:11,960
+But if it gets there, it will be so efficient
+
+52
+00:03:11,960 --> 00:03:15,320
+that a single glass of seawater could be used to produce
+
+53
+00:03:15,320 --> 00:03:19,560
+as much energy as burning a barrel of oil with no waste to speak of.
+
+54
+00:03:20,360 --> 00:03:24,160
+This is because fusion reactors would use hydrogen or helium as fuel,
+
+55
+00:03:24,160 --> 00:03:28,040
+and seawater is loaded with hydrogen. But not just
+
+56
+00:03:28,040 --> 00:03:31,800
+any hydrogen will do. Specific isotopes with extra neutrons
+
+57
+00:03:31,800 --> 00:03:36,200
+called deuterium and tritium are needed to make the right reactions.
+
+58
+00:03:36,200 --> 00:03:40,480
+Deuterium is stable and can be found in abundance in seawater,
+
+59
+00:03:40,480 --> 00:03:44,320
+though tritium is a bit trickier. It's radioactive,
+
+60
+00:03:44,320 --> 00:03:47,440
+and there may only be 20 kilograms of it in the world,
+
+61
+00:03:47,520 --> 00:03:51,200
+mostly in nuclear warheads, which makes it incredibly expensive.
+
+62
+00:03:51,200 --> 00:03:54,480
+So we may need another fusion buddy for deuterium
+
+63
+00:03:54,480 --> 00:03:58,640
+instead of tritium. Helium-3, an isotope of helium,
+
+64
+00:03:58,640 --> 00:04:01,640
+might be a great substitute. Unfortunately,
+
+65
+00:04:01,640 --> 00:04:05,240
+it's also incredibly rare on earth. But here,
+
+66
+00:04:05,240 --> 00:04:10,120
+the moon might have the answer. Over billions of years,
+
+67
+00:04:10,120 --> 00:04:14,240
+the solar wind may have built up huge deposits of helium-3 on the moon.
+
+68
+00:04:15,120 --> 00:04:17,920
+Instead of making helium-3, we can mine it.
+
+69
+00:04:17,920 --> 00:04:21,280
+If we could sift the lunar dust for helium,
+
+70
+00:04:21,280 --> 00:04:25,000
+we'd have enough fuel to power the entire world for thousands of years.
+
+71
+00:04:25,000 --> 00:04:29,760
+One more argument for establishing a moon base if you weren't convinced already.
+
+72
+00:04:29,760 --> 00:04:33,720
+Okay, maybe you think building a mini sun
+
+73
+00:04:33,720 --> 00:04:39,160
+still sounds kind of dangerous. But they'd actually be much safer than most
+
+74
+00:04:39,160 --> 00:04:40,600
+other types of power plant.
+
+75
+00:04:41,600 --> 00:04:45,080
+A fusion reactor is not like a nuclear plant,
+
+76
+00:04:45,080 --> 00:04:49,080
+which can melt down catastrophically. If the confinement failed,
+
+77
+00:04:49,080 --> 00:04:52,640
+then the plasma would expand and cool, and the reaction would stop.
+
+78
+00:04:52,640 --> 00:04:55,720
+Put simply, it's not a bomb.
+
+79
+00:04:55,720 --> 00:04:59,800
+The release of radioactive fuel like tritium
+
+80
+00:04:59,800 --> 00:05:04,040
+could pose a threat to the environment. Tritium could bond with oxygen-making
+
+81
+00:05:04,040 --> 00:05:05,200
+radioactive water,
+
+82
+00:05:05,200 --> 00:05:09,760
+which could be dangerous as it seeps into the environment. Fortunately,
+
+83
+00:05:09,800 --> 00:05:13,360
+there's no more than a few grams of tritium in use at a given time,
+
+84
+00:05:13,360 --> 00:05:18,280
+so a leak would be quickly diluted. So we've just told you that there's nearly
+
+85
+00:05:18,280 --> 00:05:21,680
+unlimited energy to be had at no expense to the environment
+
+86
+00:05:21,680 --> 00:05:25,640
+in something as simple as water. So, what's the catch?
+
+87
+00:05:25,640 --> 00:05:30,720
+Cost. We simply don't know if fusion power will ever be commercially viable.
+
+88
+00:05:30,720 --> 00:05:34,600
+Even if they work, they might be too expensive to ever build.
+
+89
+00:05:34,600 --> 00:05:38,040
+The main drawback is that it's unproven technology.
+
+90
+00:05:38,480 --> 00:05:43,120
+It's a 10 billion dollar gamble, and that money might be better spent on other
+
+91
+00:05:43,120 --> 00:05:43,920
+clean energy
+
+92
+00:05:43,920 --> 00:05:48,320
+that's already proven itself. Maybe we should cut our losses.
+
+93
+00:05:48,320 --> 00:05:52,520
+Or maybe, when the payoff is unlimited clean energy for
+
+94
+00:05:52,520 --> 00:05:56,840
+everyone, it might be worth the risk.
+
+95
+00:05:56,840 --> 00:06:00,200
+Videos like this one take hundreds of hours to make and are made possible by
+
+96
+00:06:00,200 --> 00:06:02,240
+your contributions on patreon.com.
+
+97
+00:06:02,240 --> 00:06:05,800
+If you want to learn more about global energy, here's a playlist about nuclear
+
+98
+00:06:05,800 --> 00:06:06,280
+energy,
+
+99
+00:06:06,280 --> 00:06:09,480
+fracking, and solar power. Let us know in the comments if there are other
+
+100
+00:06:09,480 --> 00:06:11,080
+technologies you want us to explain.
+

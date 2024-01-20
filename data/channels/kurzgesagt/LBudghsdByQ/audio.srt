@@ -1,0 +1,592 @@
+1
+00:00:00,000 --> 00:00:04,000
+Every two years, one million Japanese disappear.
+
+2
+00:00:04,000 --> 00:00:08,000
+China's population will halve by the end of the century.
+
+3
+00:00:08,000 --> 00:00:11,000
+The median age in Italy has reached 48.
+
+4
+00:00:11,000 --> 00:00:14,000
+All around the world, birth rates are crashing.
+
+5
+00:00:14,000 --> 00:00:16,000
+Is humanity dying out?
+
+6
+00:00:16,000 --> 00:00:19,000
+What's going on? And how bad is it?
+
+7
+00:00:19,000 --> 00:00:35,000
+For hundreds of thousands of years, the human population barely grew at all, haunted by disease, famine, and war, until the Industrial Revolution.
+
+8
+00:00:35,000 --> 00:00:44,000
+Exponential progress led to exponential growth, pushing our numbers to 6 billion in the year 1999, and 8 billion just 24 years later.
+
+9
+00:00:44,000 --> 00:00:50,000
+And our numbers will continue to rise for at least another 60 years, but this growth obscures something.
+
+10
+00:00:50,000 --> 00:00:53,000
+People kind of stopped having babies.
+
+11
+00:00:53,000 --> 00:00:57,000
+For a stable population, every couple needs to have two children on average.
+
+12
+00:00:57,000 --> 00:01:01,000
+If the number is higher, it grows. If lower, it shrinks.
+
+13
+00:01:01,000 --> 00:01:05,000
+If it's well below, it shrinks a lot, and quickly.
+
+14
+00:01:05,000 --> 00:01:09,000
+Like in South Korea, one of the hottest exporters of pop culture.
+
+15
+00:01:09,000 --> 00:01:15,000
+Its fertility rate lay at 0.8 children per woman in 2022, the lowest in the world.
+
+16
+00:01:15,000 --> 00:01:23,000
+This means 100 South Koreans of childbearing age today will have 40 kids, who then will have 16 kids, who then will have 6.
+
+17
+00:01:23,000 --> 00:01:32,000
+If nothing changes, then within 100 years, there will be 94% fewer young people, and South Korea will see a population implosion.
+
+18
+00:01:32,000 --> 00:01:34,000
+That is, if things stay the same.
+
+19
+00:01:34,000 --> 00:01:38,000
+We have yet to see if there's a bottom to fertility rates.
+
+20
+00:01:38,000 --> 00:01:43,000
+Although looking at the bigger picture and absolute numbers, this population will not shrink that much.
+
+21
+00:01:43,000 --> 00:01:46,000
+It simply returns to the level it once was.
+
+22
+00:01:46,000 --> 00:01:49,000
+In 1950, there were 20 million South Koreans.
+
+23
+00:01:49,000 --> 00:01:55,000
+In 2023, there are 52 million, and by 2100, there will be 24 million again.
+
+24
+00:01:55,000 --> 00:01:58,000
+But the issue is not that there will be fewer South Koreans.
+
+25
+00:01:58,000 --> 00:02:01,000
+The issue is the composition of the population.
+
+26
+00:02:01,000 --> 00:02:04,000
+In 1950, the median age was 18.
+
+27
+00:02:04,000 --> 00:02:07,000
+In 2023, it's 45.
+
+28
+00:02:07,000 --> 00:02:10,000
+In 2100, it will be 59.
+
+29
+00:02:10,000 --> 00:02:12,000
+A country of seniors.
+
+30
+00:02:12,000 --> 00:02:15,000
+And South Korea is far from alone.
+
+31
+00:02:15,000 --> 00:02:20,000
+China may be seeing the steepest population reversal in history, unstoppable at this point.
+
+32
+00:02:20,000 --> 00:02:27,000
+Rapid industrialization, urbanization, and rising incomes meant that the Chinese started to prefer smaller families.
+
+33
+00:02:27,000 --> 00:02:35,000
+That, plus the introduction of the one-child policy, which aimed to slow population growth, means that China has had a low fertility rate for decades.
+
+34
+00:02:35,000 --> 00:02:43,000
+With a fertility rate of 1.16 births per woman, within four generations, 100 young Chinese will turn into 20.
+
+35
+00:02:43,000 --> 00:02:49,000
+China's fertility rates are now one of the lowest in East Asia, lower than even Japan's.
+
+36
+00:02:49,000 --> 00:02:58,000
+In comparison, Europe's depopulation is much slower, despite low fertility, since unlike Asia, most states have had a steady flow of immigrants.
+
+37
+00:02:58,000 --> 00:03:03,000
+The impact is complex, as a good chunk of immigrants come from other low fertility rate areas.
+
+38
+00:03:03,000 --> 00:03:08,000
+The number of immigrant women who do have a lot of children is not yet high enough to make a big dent,
+
+39
+00:03:08,000 --> 00:03:14,000
+and fertility rates of immigrants tend to adjust to the native population within two to three generations.
+
+40
+00:03:14,000 --> 00:03:19,000
+In Eastern Europe, the decline has sped up even more because many young people have emigrated to stronger economies,
+
+41
+00:03:19,000 --> 00:03:24,000
+like Germany, whose median age is one of the highest in the world at 46.
+
+42
+00:03:24,000 --> 00:03:27,000
+Latin America fell below replacement in 2015.
+
+43
+00:03:27,000 --> 00:03:32,000
+In the US, immigration is the only thing keeping the population growing substantially.
+
+44
+00:03:32,000 --> 00:03:36,000
+There are still places where fertility rates have not fallen below replacement yet.
+
+45
+00:03:36,000 --> 00:03:41,000
+In much of the Middle East, North and Sub-Saharan Africa, fertility is still high,
+
+46
+00:03:41,000 --> 00:03:49,000
+which creates the same concerns about overpopulation as when Asia grew very quickly in the 1950s, but that turned out to be unfounded.
+
+47
+00:03:49,000 --> 00:03:54,000
+But recently, the UN has reduced its forecast for Africa's population drastically.
+
+48
+00:03:54,000 --> 00:04:01,000
+For Nigeria, estimates were lowered from 733 million to 546 million by 2100.
+
+49
+00:04:01,000 --> 00:04:04,000
+Similar trends are being noted across the continent.
+
+50
+00:04:04,000 --> 00:04:09,000
+As Africa develops, fertility rates are shrinking much faster than anticipated.
+
+51
+00:04:09,000 --> 00:04:13,000
+It's becoming more likely that East Asia's story will repeat itself.
+
+52
+00:04:13,000 --> 00:04:17,000
+By the end of the century, most places in Africa may be below replacement too.
+
+53
+00:04:17,000 --> 00:04:23,000
+So declining birth rates and aging populations have become a general trend all over the world.
+
+54
+00:04:23,000 --> 00:04:25,000
+Why is all of this a big deal?
+
+55
+00:04:25,000 --> 00:04:28,000
+Demographics and poverty.
+
+56
+00:04:28,000 --> 00:04:32,000
+For a functioning society, you need enough people in the prime of their lives.
+
+57
+00:04:32,000 --> 00:04:35,000
+Young and middle-aged people do most of the work.
+
+58
+00:04:35,000 --> 00:04:39,000
+In any economic system, working-age people create a society's wealth.
+
+59
+00:04:39,000 --> 00:04:42,000
+In retirement, you stop contributing as much to the economy.
+
+60
+00:04:42,000 --> 00:04:46,000
+But the majority of healthcare costs are generated by seniors.
+
+61
+00:04:46,000 --> 00:04:51,000
+The way the world worked in the past was that a lot of younger people took care of a few older people.
+
+62
+00:04:51,000 --> 00:04:55,000
+Imagine a society where most people are older than 60.
+
+63
+00:04:55,000 --> 00:05:01,000
+The financial burden for the young will be immense, unsustainable, even for the richest countries.
+
+64
+00:05:01,000 --> 00:05:04,000
+Even in the best case, this will mean people having to work way longer,
+
+65
+00:05:04,000 --> 00:05:11,000
+exploding healthcare costs and poverty, while states with shrinking incomes struggle to keep up with rising costs.
+
+66
+00:05:11,000 --> 00:05:15,000
+Technology might soften the blow, but can't compensate entirely.
+
+67
+00:05:15,000 --> 00:05:17,000
+We can see this happening already.
+
+68
+00:05:17,000 --> 00:05:22,000
+11 out of 31 provinces in China are running deficits for their pension funds.
+
+69
+00:05:22,000 --> 00:05:27,000
+They got old before they got rich, and now they can't really catch up anymore.
+
+70
+00:05:27,000 --> 00:05:33,000
+China's working-age population is predicted to fall by 20%, or 200 million people by 2050,
+
+71
+00:05:33,000 --> 00:05:37,000
+as much as today's entire working-age population of the US.
+
+72
+00:05:37,000 --> 00:05:42,000
+Infrastructure collapse is an almost universal constant of population decline,
+
+73
+00:05:42,000 --> 00:05:48,000
+because infrastructure works at scale and doesn't get cheaper to operate if it's used by fewer people.
+
+74
+00:05:48,000 --> 00:05:53,000
+If a population declines, be it because of urbanization or the loss of industry and employment,
+
+75
+00:05:53,000 --> 00:05:59,000
+once people and their income disappear, the resources necessary to sustain infrastructure disappear too.
+
+76
+00:05:59,000 --> 00:06:07,000
+You can see it in many depopulated towns and cities in East Germany that suffered sharp population decline after German reunification.
+
+77
+00:06:07,000 --> 00:06:12,000
+Or look at Japan. You can tour the countryside to see dying towns.
+
+78
+00:06:12,000 --> 00:06:18,000
+Wait. If there are a few people, won't life get cheaper and better, and there'll be more resources to go around?
+
+79
+00:06:18,000 --> 00:06:22,000
+Well, no. Population decline doesn't lead to prosperity.
+
+80
+00:06:22,000 --> 00:06:27,000
+It's people's ideas and work that create our prosperity, not the mere availability of resources.
+
+81
+00:06:27,000 --> 00:06:35,000
+Another danger for aging societies is that elected governments could decide to mostly represent the interests and fears of their elderly populations,
+
+82
+00:06:35,000 --> 00:06:40,000
+potentially leading to short-term thinking and a preference for conserving wealth over innovation.
+
+83
+00:06:40,000 --> 00:06:46,000
+That's not a society that can handle issues like climate change, which need massive investment and fresh ideas,
+
+84
+00:06:46,000 --> 00:06:49,000
+something the world is already having a hard time with.
+
+85
+00:06:49,000 --> 00:06:55,000
+Many people think that having fewer humans on Earth is actually a good thing because our societies are too unsustainable,
+
+86
+00:06:55,000 --> 00:06:59,000
+we're using up too many resources, and because of climate change.
+
+87
+00:06:59,000 --> 00:07:07,000
+The problem is that even if you want fewer humans, this process is very likely too slow to have a positive impact on the environment.
+
+88
+00:07:07,000 --> 00:07:13,000
+The world population is going to grow for at least 60 more years before it may shrink again.
+
+89
+00:07:13,000 --> 00:07:15,000
+By then, we have to solve climate change.
+
+90
+00:07:15,000 --> 00:07:23,000
+Likewise, any other upsides a lower population might have will most likely not materialize themselves this century.
+
+91
+00:07:23,000 --> 00:07:28,000
+So, just like import people, the easiest solution seems to be immigration,
+
+92
+00:07:28,000 --> 00:07:33,000
+but the fertility of immigrants adjusts to local levels within three generations.
+
+93
+00:07:33,000 --> 00:07:40,000
+So you need a constant influx of new migrants, which is not sustainable long-term, as birth rates are dropping everywhere.
+
+94
+00:07:40,000 --> 00:07:46,000
+The only way would be to keep poor countries poor so that the young and motivated migrate to developed countries
+
+95
+00:07:46,000 --> 00:07:51,000
+looking for opportunity and a better life, kind of an immoral thing to wish for.
+
+96
+00:07:51,000 --> 00:07:55,000
+By the end of the century, Africa will have the highest number of young people in the world,
+
+97
+00:07:55,000 --> 00:07:59,000
+and so African migrants might become the world's most sought-after immigrants,
+
+98
+00:07:59,000 --> 00:08:03,000
+elderly nations fighting hard for every person willing to make the move.
+
+99
+00:08:03,000 --> 00:08:09,000
+Immigration can also create societal or cultural tensions, which is a universal phenomenon in all cultures,
+
+100
+00:08:09,000 --> 00:08:16,000
+especially when cultures with very different sets of values meet, often leading to a backlash that slows immigration down again.
+
+101
+00:08:16,000 --> 00:08:24,000
+It's easy to be frustrated at this, but ignoring this will only divide societies, empower demagogues, and increase xenophobia.
+
+102
+00:08:24,000 --> 00:08:31,000
+Economically, immigration is largely beneficial for societies, even if this seems counterintuitive to many people.
+
+103
+00:08:31,000 --> 00:08:39,000
+Especially countries like the US, an immigrant nation built on the idea of personal freedom and opportunity through hard work, will benefit the most.
+
+104
+00:08:39,000 --> 00:08:46,000
+Countries like this will have a clear advantage this century, especially if they can attract the world's brightest and most ambitious.
+
+105
+00:08:46,000 --> 00:08:48,000
+Conclusion and our opinion.
+
+106
+00:08:48,000 --> 00:08:54,000
+This topic is way too big, affects societies as diverse as literally all of humanity.
+
+107
+00:08:54,000 --> 00:08:58,000
+So, please take this part with a gigantic grain of salt.
+
+108
+00:08:58,000 --> 00:09:01,000
+Obviously, we're looking at this from our central European perspective.
+
+109
+00:09:01,000 --> 00:09:07,000
+One way to look at falling birth rates is as a side effect of the world being less bad than it was.
+
+110
+00:09:07,000 --> 00:09:12,000
+Especially women are freer, more educated, and wealthier than in the past.
+
+111
+00:09:12,000 --> 00:09:18,000
+But it turns out that if societies are better off, individuals often decide to have fewer kids.
+
+112
+00:09:18,000 --> 00:09:23,000
+Interestingly, there's a gap between how many kids people want and how many they're having.
+
+113
+00:09:23,000 --> 00:09:29,000
+The mean number of kids women in Europe want is around 2.3, much more than they're actually having.
+
+114
+00:09:29,000 --> 00:09:36,000
+While we gained a lot of freedoms in the last century, across continents and economic systems, that came at a cost.
+
+115
+00:09:36,000 --> 00:09:41,000
+The tight-knit communities and family structures that were part of our nature, where kids could be brought up by a village.
+
+116
+00:09:41,000 --> 00:09:46,000
+Today, young parents have to deal with different challenges and societal expectations.
+
+117
+00:09:46,000 --> 00:09:51,000
+Women are kind of ground down between the wish and expectation to have a family and a career.
+
+118
+00:09:51,000 --> 00:09:54,000
+Being pressured to do both, but not compromise either.
+
+119
+00:09:54,000 --> 00:10:00,000
+Men are sharing parental duties more equally than they used to, but are often still expected to be the provider.
+
+120
+00:10:00,000 --> 00:10:05,000
+And it's sadly true that usually at least one parent's career is held back.
+
+121
+00:10:05,000 --> 00:10:11,000
+In many developed countries, the gender pay gap is chiefly a pay gap between mothers and everyone else.
+
+122
+00:10:11,000 --> 00:10:17,000
+But it's not just outside pressure. Our culture of individualism probably plays a role too.
+
+123
+00:10:17,000 --> 00:10:23,000
+We have only one life to explore, be free, travel, have fun, accomplish something, and try to be happy.
+
+124
+00:10:23,000 --> 00:10:28,000
+So people commit to partners later in life and often decide against big families or any at all.
+
+125
+00:10:28,000 --> 00:10:31,000
+And that's fair. Nobody owes their country babies.
+
+126
+00:10:32,000 --> 00:10:39,000
+So far, no country has successfully managed to increase birth rates significantly, so as of now, we don't really know what works.
+
+127
+00:10:39,000 --> 00:10:43,000
+But here are a few options to at least make the lives of parents much easier.
+
+128
+00:10:43,000 --> 00:10:49,000
+Free and abundant access to childcare, financial benefits for parents, more and cheaper housing.
+
+129
+00:10:49,000 --> 00:10:55,000
+Parenthood has to stop being a career obstacle, and our culture needs to become more positive towards families.
+
+130
+00:10:55,000 --> 00:10:57,000
+And that's something we can all work on.
+
+131
+00:10:57,000 --> 00:11:00,000
+The next time you sit next to a crying baby, don't be a jerk about it.
+
+132
+00:11:00,000 --> 00:11:02,000
+Kids are hard.
+
+133
+00:11:02,000 --> 00:11:06,000
+In the end, humanity will not die out because we're having fewer babies.
+
+134
+00:11:06,000 --> 00:11:12,000
+The age and composition of our societies changes quickly, and we need to deal with that sooner rather than later.
+
+135
+00:11:12,000 --> 00:11:19,000
+But in the end, of all the incredibly hard challenges we've faced before, why would this be the one we can't solve?
+
+136
+00:11:21,000 --> 00:11:26,000
+Getting to the bottom of the population crash starts with analyzing and interpreting massive amounts of data.
+
+137
+00:11:26,000 --> 00:11:33,000
+And if you're looking for a free way to start building your data skills, which are more essential than ever these days, we recommend brilliant.org.
+
+138
+00:11:33,000 --> 00:11:40,000
+Brilliant's latest course, Predicting with Probability, will teach you everything you need to get started in data science, no coding required.
+
+139
+00:11:40,000 --> 00:11:49,000
+You'll analyze vast data sets, compare distributions, and master fundamental concepts that are key to some of the most in-demand careers in today's world.
+
+140
+00:11:49,000 --> 00:11:56,000
+Beyond data, Brilliant is the best way to master key concepts in everything from maths and science to computer science and programming.
+
+141
+00:11:56,000 --> 00:12:01,000
+Just set your goal and Brilliant designs the perfect path, and equips you with the right tools to reach it.
+
+142
+00:12:01,000 --> 00:12:07,000
+They have thousands of lessons to explore, and each one is interactive like a one-on-one version of a Kurzgesagt video.
+
+143
+00:12:07,000 --> 00:12:14,000
+We've actually designed a whole series of lessons in collaboration with our friends at Brilliant that cover the topics from our most popular videos,
+
+144
+00:12:14,000 --> 00:12:19,000
+from rabies and mammalian metabolism to climate science and supernovas.
+
+145
+00:12:19,000 --> 00:12:22,000
+And you can try them and many more for free today.
+
+146
+00:12:22,000 --> 00:12:30,000
+To get hands-on with Kurzgesagt lessons and explore everything Brilliant has to offer, you can start your free 30-day trial by signing up at brilliant.org slash nutshell.
+
+147
+00:12:30,000 --> 00:12:38,000
+There's even an extra perk for Kurzgesagt viewers, the first 200 people to use the link get 20% off an annual membership once their trial ends.
+
+148
+00:12:44,000 --> 00:12:49,000
+That's it for today. Thanks for watching.
+

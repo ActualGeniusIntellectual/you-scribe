@@ -1,0 +1,72 @@
+1
+00:00:00,000 --> 00:00:02,000
+How many moons could Earth handle?
+
+2
+00:00:02,000 --> 00:00:04,000
+The main factor is space.
+
+3
+00:00:04,000 --> 00:00:07,000
+Any moon needs a clean orbit and we have to take two things into account.
+
+4
+00:00:07,000 --> 00:00:11,000
+One, it can't be too far, otherwise it won't follow a stable orbit around us.
+
+5
+00:00:11,000 --> 00:00:15,000
+Two, it can't be too close either or the gravitational pull of Earth will grind it into crumbs.
+
+6
+00:00:15,000 --> 00:00:18,000
+These outer and inner limits define our moon zone.
+
+7
+00:00:18,000 --> 00:00:22,000
+A donut shaped area where any additional moon will have to live.
+
+8
+00:00:22,000 --> 00:00:25,000
+Each moon around the Earth requires its own personal sub-moon zone.
+
+9
+00:00:25,000 --> 00:00:27,000
+And these zones shouldn't interact with each other.
+
+10
+00:00:27,000 --> 00:00:32,000
+Like runners on an Olympic race track, they need to be spaced out so that their mutual influence is kept to a minimum.
+
+11
+00:00:32,000 --> 00:00:35,000
+The bigger the mass of a moon, the larger the personal space required.
+
+12
+00:00:35,000 --> 00:00:39,000
+All in all, simulations have shown that only a few constellations would be stable.
+
+13
+00:00:39,000 --> 00:00:42,000
+Earth could either host up to seven moons as big as dwarf planet Ceres,
+
+14
+00:00:42,000 --> 00:00:45,000
+four Pluto-sized moons, or three Moon-sized moons.
+
+15
+00:00:45,000 --> 00:00:49,000
+And then what? Tides might be more violent, there could be different calendar systems,
+
+16
+00:00:49,000 --> 00:00:54,000
+and most notably, on some nights our sky would be adorned with three bright marbles,
+
+17
+00:00:54,000 --> 00:00:56,000
+frequently casting beautiful shadows on each other.
+
+18
+00:00:56,000 --> 00:00:59,000
+Wow, what a view! But…
+

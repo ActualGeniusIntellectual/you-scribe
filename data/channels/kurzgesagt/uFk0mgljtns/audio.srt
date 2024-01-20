@@ -1,0 +1,396 @@
+1
+00:00:00,000 --> 00:00:09,180
+For years, people have asked how we make our videos, so let's finally talk about it.
+
+2
+00:00:09,180 --> 00:00:20,660
+How to make a Kurzgesagt video in 1200 hours or more.
+
+3
+00:00:20,660 --> 00:00:23,620
+First things first, we need a topic.
+
+4
+00:00:23,620 --> 00:00:28,740
+Our potential topic list is already endless, and every time we research something, it grows
+
+5
+00:00:28,740 --> 00:00:29,740
+longer.
+
+6
+00:00:29,740 --> 00:00:33,340
+Also, we just work on whatever we find exciting at the time.
+
+7
+00:00:33,340 --> 00:00:38,620
+This could be something serious, fascinating, personal, or just really stupid.
+
+8
+00:00:38,620 --> 00:00:41,320
+The variety is half the fun.
+
+9
+00:00:41,320 --> 00:00:46,420
+We want to explain complicated things in an easily graspable way and make science-y topics
+
+10
+00:00:46,420 --> 00:00:48,880
+fascinating and beautiful.
+
+11
+00:00:48,880 --> 00:00:53,700
+But we also want to tell stories and express how we feel about the universe from time to
+
+12
+00:00:53,700 --> 00:00:56,220
+time.
+
+13
+00:00:56,220 --> 00:00:59,580
+Laying the foundation, script.
+
+14
+00:00:59,620 --> 00:01:04,120
+Research begins by reading books or scientific papers and by talking to different experts
+
+15
+00:01:04,120 --> 00:01:06,500
+who point us in the right direction.
+
+16
+00:01:06,500 --> 00:01:11,100
+We want to have a fact-based worldview, and our videos are trying to reflect that.
+
+17
+00:01:11,100 --> 00:01:15,620
+So we often have to change our view on an issue while working on it.
+
+18
+00:01:15,620 --> 00:01:19,460
+Usually after a few weeks of researching, we start writing.
+
+19
+00:01:19,460 --> 00:01:25,660
+A script begins with a rough first draft that's then rewritten and edited over and over again.
+
+20
+00:01:25,660 --> 00:01:32,120
+To make sure we don't misrepresent something, we ask experts to fact-check and correct us.
+
+21
+00:01:32,120 --> 00:01:36,180
+Writing is the bottleneck for our videos and very hard to speed up.
+
+22
+00:01:36,180 --> 00:01:42,780
+Usually, finishing a script takes between a few weeks and literally years to complete.
+
+23
+00:01:42,780 --> 00:01:46,100
+Let's visualize illustration.
+
+24
+00:01:46,100 --> 00:01:49,180
+When the script is ready, we begin sketching out the video.
+
+25
+00:01:49,180 --> 00:01:53,980
+We try to think of visual metaphors, transitions between ideas, and decide which scenes need
+
+26
+00:01:53,980 --> 00:01:55,620
+the most attention.
+
+27
+00:01:55,620 --> 00:02:00,500
+On average, 200 panels need to be illustrated in Adobe Illustrator.
+
+28
+00:02:00,500 --> 00:02:04,740
+Although we have built up an illustration library, we still do most illustrations from
+
+29
+00:02:04,740 --> 00:02:08,780
+scratch to give our videos a more unique look.
+
+30
+00:02:08,780 --> 00:02:13,540
+The general idea is to find the right images to the words in the script to explain as clearly
+
+31
+00:02:13,540 --> 00:02:17,740
+as possible while also having interesting things to look at.
+
+32
+00:02:17,740 --> 00:02:22,260
+Also, here we include all the visual easter eggs.
+
+33
+00:02:22,260 --> 00:02:28,560
+In total, 2-3 illustrators spend 8-12 weeks illustrating the video.
+
+34
+00:02:28,560 --> 00:02:30,500
+Now it's my turn.
+
+35
+00:02:30,500 --> 00:02:32,080
+Narration.
+
+36
+00:02:32,080 --> 00:02:36,540
+When the whole video is illustrated, the narration is recorded in a small recording studio on
+
+37
+00:02:36,540 --> 00:02:40,460
+a Neumann TLM 103 microphone and Pro Tools.
+
+38
+00:02:40,460 --> 00:02:45,180
+It's important to keep the flow, so I try to get one version done and then go back through,
+
+39
+00:02:45,180 --> 00:02:51,300
+retaking paragraphs and sentences until they feel right and a full version is ready.
+
+40
+00:02:51,340 --> 00:02:52,340
+It's alive.
+
+41
+00:02:52,340 --> 00:02:55,220
+Animation.
+
+42
+00:02:55,220 --> 00:02:58,340
+Now the scenes and audio need to be animated.
+
+43
+00:02:58,340 --> 00:03:02,580
+We make things move in Adobe After Effects, and recently we've begun experimenting with
+
+44
+00:03:02,580 --> 00:03:04,540
+Cinema 4D.
+
+45
+00:03:04,540 --> 00:03:09,040
+The first thing to do is take the illustrated scenes apart and organize them.
+
+46
+00:03:09,040 --> 00:03:13,780
+The hundreds or thousands of parts are then imported into After Effects.
+
+47
+00:03:13,780 --> 00:03:19,380
+Each character is rigged so we can move them more naturally.
+
+48
+00:03:19,380 --> 00:03:24,060
+Aside from a few plugins that help us save time, every single thing that's moving on
+
+49
+00:03:24,060 --> 00:03:26,820
+screen has been moved manually.
+
+50
+00:03:26,820 --> 00:03:33,500
+So 2-3 animators animate scene after scene for about 8-10 weeks in total.
+
+51
+00:03:33,500 --> 00:03:37,980
+Ending on a high note, music and sound design.
+
+52
+00:03:37,980 --> 00:03:40,760
+The final step is the music.
+
+53
+00:03:40,760 --> 00:03:45,700
+Every song is original music composed to the finished video to create a unique atmosphere
+
+54
+00:03:45,700 --> 00:03:48,500
+and to highlight the important parts.
+
+55
+00:03:48,500 --> 00:03:53,060
+You can listen to all of the songs on SoundCloud and Spotify.
+
+56
+00:03:53,060 --> 00:03:56,740
+The icing on the cake are the sound effects.
+
+57
+00:03:56,740 --> 00:04:01,140
+Many of you might not even really notice them, which is a shame because they really add an
+
+58
+00:04:01,140 --> 00:04:03,140
+additional layer.
+
+59
+00:04:03,140 --> 00:04:07,860
+So try watching a video with headphones if you want to get the full depth of it.
+
+60
+00:04:07,860 --> 00:04:12,340
+All of these steps happen in parallel since we usually work on 2-4 videos at the same
+
+61
+00:04:12,340 --> 00:04:15,300
+time in various stages.
+
+62
+00:04:15,300 --> 00:04:18,900
+What we haven't mentioned are the countless revisions and edits.
+
+63
+00:04:18,900 --> 00:04:23,420
+Every few days we sit together and review our work and tweak it until it feels just
+
+64
+00:04:23,420 --> 00:04:24,820
+right.
+
+65
+00:04:24,820 --> 00:04:25,860
+And that's it.
+
+66
+00:04:25,860 --> 00:04:30,700
+At least 1200 hours for a single Kurzgesagt video.
+
+67
+00:04:30,700 --> 00:04:34,780
+As you can imagine, making videos for thousands of hours as a big team and then putting them
+
+68
+00:04:34,780 --> 00:04:38,420
+on the internet for free is a weird business model.
+
+69
+00:04:38,420 --> 00:04:42,180
+Over the years, we've relied on a number of different things to stay afloat.
+
+70
+00:04:42,180 --> 00:04:46,140
+Commercial work for NGOs, start-ups or corporations.
+
+71
+00:04:46,140 --> 00:04:49,880
+Sponsorships and grants by companies or organizations.
+
+72
+00:04:49,880 --> 00:04:54,220
+We struck a deal with Funk from German Public Broadcasting to revive the German channel
+
+73
+00:04:54,220 --> 00:04:57,300
+and with Wix to start a Spanish channel.
+
+74
+00:04:57,300 --> 00:05:01,460
+But the reality is, we can only do what we do because of you.
+
+75
+00:05:01,460 --> 00:05:07,740
+Our two most important sources of income by far come from your direct support, merchandise
+
+76
+00:05:07,740 --> 00:05:10,000
+and Patreon.
+
+77
+00:05:10,000 --> 00:05:13,800
+So if you want to help us stay afloat and keep making more videos, you can directly
+
+78
+00:05:13,800 --> 00:05:19,320
+support Kurzgesagt by getting something beautiful from our store or by becoming a Patreon and
+
+79
+00:05:19,320 --> 00:05:20,960
+joining the bird army.
+
+80
+00:05:20,960 --> 00:05:26,840
+Don't feel obligated though, watching, engaging or sharing our videos is already helping us
+
+81
+00:05:26,840 --> 00:05:28,240
+a lot.
+
+82
+00:05:28,240 --> 00:05:32,880
+But if you want to support us directly, thank you so much, you're making our videos free
+
+83
+00:05:32,880 --> 00:05:34,600
+for everyone.
+
+84
+00:05:34,600 --> 00:05:39,660
+You are enabling us to practice and improve, to stay independent and to work on ambitious
+
+85
+00:05:39,660 --> 00:05:43,180
+projects that would be too scary or too big otherwise.
+
+86
+00:05:43,180 --> 00:05:48,660
+Kurzgesagt did not start with an end goal in mind, it began as a personal project because
+
+87
+00:05:48,660 --> 00:05:52,060
+it felt good to make something with time and love.
+
+88
+00:05:52,060 --> 00:05:54,480
+And this is still true today.
+
+89
+00:05:54,480 --> 00:05:59,700
+Making these videos is our goal, doing the work every day and getting better.
+
+90
+00:05:59,700 --> 00:06:03,640
+To make science beautiful and interesting.
+
+91
+00:06:03,640 --> 00:06:07,980
+Thank you so much for sticking with us for seven years and from our first subscriber
+
+92
+00:06:07,980 --> 00:06:09,880
+to the ten millionth.
+
+93
+00:06:09,880 --> 00:06:13,460
+This journey has been so wild and so much fun.
+
+94
+00:06:13,460 --> 00:06:18,700
+And we can't wait to share the stuff we're working on right now with you, in a year or
+
+95
+00:06:18,700 --> 00:06:21,740
+maybe two.
+
+96
+00:06:21,740 --> 00:06:24,980
+We want to make meta videos like this from time to time now.
+
+97
+00:06:24,980 --> 00:06:29,860
+If you want to ask us questions that you want us to answer, you can do so on Reddit, link
+
+98
+00:06:29,860 --> 00:06:30,540
+in the description.
+
+99
+00:06:37,980 --> 00:06:44,460
+Thank you.
+

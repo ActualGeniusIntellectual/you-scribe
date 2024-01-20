@@ -1,0 +1,416 @@
+1
+00:00:00,000 --> 00:00:04,000
+What is the true nature of the universe?
+
+2
+00:00:04,000 --> 00:00:09,000
+To answer this question, humans come up with stories to describe the world.
+
+3
+00:00:09,000 --> 00:00:14,000
+We test our stories and learn what to keep and what to throw away.
+
+4
+00:00:14,000 --> 00:00:19,000
+But the more we learn, the more complicated and weird our stories become.
+
+5
+00:00:19,000 --> 00:00:25,000
+Some of them so much so that it's really hard to know what they're actually about.
+
+6
+00:00:25,000 --> 00:00:32,000
+Like String Theory, a famous, controversial, and often misunderstood story about the nature of everything.
+
+7
+00:00:32,000 --> 00:00:38,000
+Why did we come up with it, and is it correct, or just an idea we should chuck out?
+
+8
+00:00:47,000 --> 00:00:52,000
+To understand the true nature of reality, we looked at things up close and were amazed.
+
+9
+00:00:53,000 --> 00:00:55,000
+Wondrous landscapes in the dust.
+
+10
+00:00:55,000 --> 00:00:57,000
+Zoos of bizarre creatures.
+
+11
+00:00:57,000 --> 00:00:59,000
+Complex protein robots.
+
+12
+00:00:59,000 --> 00:01:05,000
+All of them made from structures of molecules made up of countless, even smaller things, atoms.
+
+13
+00:01:05,000 --> 00:01:10,000
+We thought they were the final layer of reality until we smashed them together really hard
+
+14
+00:01:10,000 --> 00:01:14,000
+and discovered things that can't be divided anymore.
+
+15
+00:01:14,000 --> 00:01:16,000
+Elementary particles.
+
+16
+00:01:16,000 --> 00:01:18,000
+But now we had a problem.
+
+17
+00:01:18,000 --> 00:01:21,000
+They're so small that we could no longer look at them.
+
+18
+00:01:21,000 --> 00:01:24,000
+Think about it. What is seeing?
+
+19
+00:01:24,000 --> 00:01:28,000
+To see something, we need light, an electromagnetic wave.
+
+20
+00:01:28,000 --> 00:01:33,000
+This wave hits the surface of the thing and gets reflected back from it into your eye.
+
+21
+00:01:33,000 --> 00:01:38,000
+The wave carries information from the object that your brain uses to create an image.
+
+22
+00:01:38,000 --> 00:01:42,000
+So you can't see something without somehow interacting with it.
+
+23
+00:01:42,000 --> 00:01:47,000
+Seeing is touching. An active process, not a passive one.
+
+24
+00:01:47,000 --> 00:01:50,000
+This is not a problem with most things.
+
+25
+00:01:50,000 --> 00:01:53,000
+But particles are very, very, very small.
+
+26
+00:01:53,000 --> 00:01:58,000
+So small that the electromagnetic waves we use to see are too big to touch them.
+
+27
+00:01:58,000 --> 00:02:01,000
+Visible light just passes over them.
+
+28
+00:02:01,000 --> 00:02:07,000
+We can try to solve this by creating electromagnetic waves with more and much smaller wavelengths.
+
+29
+00:02:07,000 --> 00:02:10,000
+But in quantum physics, shorter wavelengths means more energy.
+
+30
+00:02:10,000 --> 00:02:15,000
+So when we touch a particle with a wave that has a lot of energy, it gets a kick.
+
+31
+00:02:15,000 --> 00:02:17,000
+By looking at a particle, we change it.
+
+32
+00:02:17,000 --> 00:02:22,000
+In quantum physics, we cannot know where a particle is and where it's going with absolute precision.
+
+33
+00:02:22,000 --> 00:02:25,000
+This fact is so important that it has a name.
+
+34
+00:02:25,000 --> 00:02:30,000
+The Heisenberg uncertainty principle, the basis of all quantum physics.
+
+35
+00:02:30,000 --> 00:02:33,000
+So what does a particle look like then?
+
+36
+00:02:33,000 --> 00:02:35,000
+What is its nature?
+
+37
+00:02:35,000 --> 00:02:37,000
+We don't know.
+
+38
+00:02:37,000 --> 00:02:43,000
+If we look really hard, we can see a blurry sphere of influence, but not the particles themselves.
+
+39
+00:02:43,000 --> 00:02:46,000
+We just know they exist.
+
+40
+00:02:46,000 --> 00:02:50,000
+But if that's the case, how can we do any science with them?
+
+41
+00:02:50,000 --> 00:02:55,000
+We did what humans do and invented a new story, a mathematical fiction.
+
+42
+00:02:55,000 --> 00:02:58,000
+The story of the point particle.
+
+43
+00:02:58,000 --> 00:03:02,000
+We decided that we would pretend that a particle is a point in space.
+
+44
+00:03:02,000 --> 00:03:09,000
+Any electron is a point with a certain electric charge and a certain mass, all indistinguishable from each other.
+
+45
+00:03:09,000 --> 00:03:14,000
+This way, physicists could define them and calculate all of their interactions.
+
+46
+00:03:14,000 --> 00:03:19,000
+This can be made precise in quantum field theory, and this solved a lot of problems.
+
+47
+00:03:19,000 --> 00:03:25,000
+All of the standard model of particle physics is built on it, and it predicts lots of things very well.
+
+48
+00:03:25,000 --> 00:03:36,000
+Some quantum properties of the electron, for example, have been tested and are accurate up to 0.000002%.
+
+49
+00:03:36,000 --> 00:03:43,000
+So while particles are not really points, by treating them as if they were, we get a pretty good picture of the universe.
+
+50
+00:03:43,000 --> 00:03:50,000
+Not only did this idea advance science, it also led to a lot of real-world technology we use every day.
+
+51
+00:03:50,000 --> 00:03:53,000
+But there's a huge problem, gravity.
+
+52
+00:03:53,000 --> 00:03:58,000
+In quantum mechanics, all physical forces are carried by certain particles.
+
+53
+00:03:58,000 --> 00:04:05,000
+But according to Einstein's general relativity, gravity is not a force like the others in the universe.
+
+54
+00:04:05,000 --> 00:04:11,000
+If the universe is a play, particles are the actors, but gravity is the stage.
+
+55
+00:04:11,000 --> 00:04:17,000
+To put it simply, gravity is a theory of geometry, the geometry of space-time itself,
+
+56
+00:04:17,000 --> 00:04:21,000
+of distances which we need to describe with absolute precision.
+
+57
+00:04:21,000 --> 00:04:25,000
+But since there is no way to precisely measure things in the quantum world,
+
+58
+00:04:25,000 --> 00:04:29,000
+our story of gravity doesn't work with our story of quantum physics.
+
+59
+00:04:29,000 --> 00:04:36,000
+When physicists tried to add gravity to the story by inventing a new particle, their mathematics broke down.
+
+60
+00:04:36,000 --> 00:04:38,000
+And this is a big problem.
+
+61
+00:04:39,000 --> 00:04:45,000
+If we could marry gravity to quantum physics and the standard model, we would have the theory of everything.
+
+62
+00:04:45,000 --> 00:04:48,000
+So very smart people came up with a new story.
+
+63
+00:04:48,000 --> 00:04:54,000
+They asked, what is more complex than a point, a line, or a string?
+
+64
+00:04:54,000 --> 00:04:56,000
+String theory was born.
+
+65
+00:04:56,000 --> 00:05:04,000
+What makes string theory so elegant is that it describes many different elementary particles as different modes of vibration of the string.
+
+66
+00:05:05,000 --> 00:05:11,000
+Just like a violin string vibrating differently can give you a lot of different notes, a string can give you different particles.
+
+67
+00:05:11,000 --> 00:05:14,000
+Most importantly, this includes gravity.
+
+68
+00:05:16,000 --> 00:05:20,000
+String theory promised to unify all fundamental forces of the universe.
+
+69
+00:05:20,000 --> 00:05:23,000
+This caused enormous excitement and hype.
+
+70
+00:05:23,000 --> 00:05:27,000
+String theory quickly graduated to a possible theory of everything.
+
+71
+00:05:27,000 --> 00:05:32,000
+Unfortunately, string theory comes with a lot of strings attached.
+
+72
+00:05:33,000 --> 00:05:41,000
+Much of the maths involving a consistent string theory does not work in our universe with its three spatial and one temporal dimensions.
+
+73
+00:05:41,000 --> 00:05:44,000
+String theory requires ten dimensions to work out.
+
+74
+00:05:44,000 --> 00:05:48,000
+So string theorists did calculations in model universes.
+
+75
+00:05:48,000 --> 00:05:53,000
+And then tried to get rid of the six additional dimensions and describe our own universe.
+
+76
+00:05:53,000 --> 00:06:00,000
+But so far, nobody has succeeded and no prediction of string theory has been proven in an experiment.
+
+77
+00:06:00,000 --> 00:06:03,000
+So string theory did not reveal the nature of our universe.
+
+78
+00:06:03,000 --> 00:06:08,000
+One could argue that in this case, string theory really isn't useful at all.
+
+79
+00:06:08,000 --> 00:06:12,000
+Science is all about experiments and predictions.
+
+80
+00:06:12,000 --> 00:06:15,000
+If we can't do those, why should we bother with strings?
+
+81
+00:06:15,000 --> 00:06:18,000
+It really is all about how we use it.
+
+82
+00:06:18,000 --> 00:06:20,000
+Physics is based on maths.
+
+83
+00:06:20,000 --> 00:06:22,000
+Two plus two makes four.
+
+84
+00:06:22,000 --> 00:06:25,000
+This is true no matter how you feel about it.
+
+85
+00:06:25,000 --> 00:06:28,000
+And the maths in string theory does work out.
+
+86
+00:06:28,000 --> 00:06:31,000
+That's why string theory is still useful.
+
+87
+00:06:31,000 --> 00:06:36,000
+Imagine that you want to build a cruise ship, but you only have blueprints for a small rowing boat.
+
+88
+00:06:36,000 --> 00:06:38,000
+There are plenty of differences.
+
+89
+00:06:38,000 --> 00:06:41,000
+The engine, the materials, the scale.
+
+90
+00:06:41,000 --> 00:06:44,000
+But both things are fundamentally the same.
+
+91
+00:06:44,000 --> 00:06:46,000
+Things that float.
+
+92
+00:06:47,000 --> 00:06:53,000
+So by studying the rowing boat blueprints, you might still learn something about how to build a cruise ship eventually.
+
+93
+00:06:54,000 --> 00:07:00,000
+With string theory, we can try to answer some questions about quantum gravity that have been puzzling physicists for decades,
+
+94
+00:07:00,000 --> 00:07:04,000
+such as how black holes work or the information paradox.
+
+95
+00:07:04,000 --> 00:07:07,000
+String theory may point us in the right direction.
+
+96
+00:07:07,000 --> 00:07:12,000
+When used in this spirit, string theory becomes a precious tool for theoretical physicists
+
+97
+00:07:12,000 --> 00:07:17,000
+and help them discover new aspects of the quantum world and some beautiful mathematics.
+
+98
+00:07:17,000 --> 00:07:22,000
+So maybe the story of string theory is not the theory of everything.
+
+99
+00:07:22,000 --> 00:07:27,000
+But just like the story of the point particle, it may be an extremely useful story.
+
+100
+00:07:27,000 --> 00:07:30,000
+We don't yet know what the true nature of reality is,
+
+101
+00:07:30,000 --> 00:07:37,000
+but we'll keep coming up with stories to try and find out until one day, hopefully, we do know.
+
+102
+00:07:38,000 --> 00:07:41,000
+This video was supported by the Swiss National Science Foundation
+
+103
+00:07:41,000 --> 00:07:45,000
+and realized with the scientific advice of Alessandro Sfondrini.
+
+104
+00:07:52,000 --> 00:07:57,000
+Transcribed by ESO, Translated by –
+

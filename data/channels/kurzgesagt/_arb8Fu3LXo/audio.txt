@@ -1,0 +1,20 @@
+Are your friends more popular than you are?
+They are, at least on average.
+That's what science says.
+The weird thing is that the same applies to most of your friends.
+But how can that be?
+It takes some maths to prove this paradox,
+but simply put, it's just very likely that you're friends with someone who has a lot of friends.
+For this example, let's say Duck is that friend.
+Although people like Duck are rare,
+they have so many friends that they change the expected average.
+Pick a random person in your friend group and ask them how many friends their friends have.
+Chances are high that those friends are friends with the popular Duck.
+That way, the many friends of Duck contribute to the average more often,
+nudging it up slightly.
+You'll find this in your maths books as weighted average.
+The result?
+Most people in your group have fewer friends than their typical friend.
+So you might feel weird about this, but the same will happen to most people.
+The only question left is,
+are you the popular friend or...

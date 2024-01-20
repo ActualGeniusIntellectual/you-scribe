@@ -1,0 +1,324 @@
+1
+00:00:00,000 --> 00:00:02,880
+Recently, there's been a lot of talk about measles.
+
+2
+00:00:02,880 --> 00:00:09,040
+What does measles actually do, and should you vaccinate against it, or is this just hysteria?
+
+3
+00:00:15,840 --> 00:00:17,600
+Measles is a virus.
+
+4
+00:00:17,600 --> 00:00:22,000
+A hull of proteins, RNA, plus some more proteins for reproduction.
+
+5
+00:00:22,000 --> 00:00:26,000
+It cannot reproduce by itself, it needs a host cell to do so.
+
+6
+00:00:26,080 --> 00:00:30,080
+To understand measles, we have to understand the immune system.
+
+7
+00:00:30,080 --> 00:00:33,360
+You might already have seen the visual system we developed to help here.
+
+8
+00:00:33,920 --> 00:00:38,160
+Now, let's focus on the parts of the immune system relevant to measles.
+
+9
+00:00:38,160 --> 00:00:42,080
+The measles virus enters humans through the nose, mouth, or eyes.
+
+10
+00:00:42,080 --> 00:00:44,240
+The measles infection starts in the lungs.
+
+11
+00:00:44,880 --> 00:00:49,680
+Measles is especially good at infecting the body's first line of defense, macrophages.
+
+12
+00:00:49,680 --> 00:00:53,040
+Powerful guard cells that protect the lungs from intruders.
+
+13
+00:00:53,040 --> 00:00:55,280
+They enter a cell and take it over.
+
+14
+00:00:55,360 --> 00:01:01,040
+The virus reprograms the cell and transforms it into a dangerous virus production center.
+
+15
+00:01:01,040 --> 00:01:07,200
+Once a cell is filled with viruses, they leave the crippled cell and begin the cycle over again.
+
+16
+00:01:07,200 --> 00:01:11,120
+But the immune system has powerful weapons against virus infections.
+
+17
+00:01:11,120 --> 00:01:12,720
+Natural killer cells.
+
+18
+00:01:12,720 --> 00:01:17,360
+These cells basically patrol the body and check other cells for infections.
+
+19
+00:01:17,360 --> 00:01:21,680
+If they find an infected cell, they order it to commit suicide.
+
+20
+00:01:21,680 --> 00:01:24,720
+This is so effective that for the first 10 days or so,
+
+21
+00:01:24,720 --> 00:01:28,080
+you will not even notice that you're infected with measles.
+
+22
+00:01:28,080 --> 00:01:31,920
+And now, the reason why measles is so powerful.
+
+23
+00:01:31,920 --> 00:01:33,840
+After a period of fighting and dying,
+
+24
+00:01:33,840 --> 00:01:38,080
+macrophages alert the brain of the immune system, the dendritic cells.
+
+25
+00:01:38,080 --> 00:01:41,760
+The job of the dendritic cells is to collect samples of intruders,
+
+26
+00:01:41,760 --> 00:01:44,800
+travel to the lymph nodes, and then activate the heavy weapons
+
+27
+00:01:44,800 --> 00:01:47,920
+that eradicate the infection very fast in a team effort.
+
+28
+00:01:48,720 --> 00:01:52,400
+But the measles virus uses a dreadful tactic.
+
+29
+00:01:52,400 --> 00:01:58,160
+It infects the dendritic cells and uses them as a trojan horse to enter deeper into the body.
+
+30
+00:01:58,160 --> 00:02:02,720
+The infected cells travel to the next lymph node to alert other immune cells.
+
+31
+00:02:02,720 --> 00:02:09,040
+Once it arrives, the measles virus spreads around the virgin T and B cells and infects them.
+
+32
+00:02:09,040 --> 00:02:12,480
+It attacks the very system that evolved to fight it.
+
+33
+00:02:12,480 --> 00:02:14,400
+Now, things happen very fast.
+
+34
+00:02:14,400 --> 00:02:16,800
+The lymph system spreads the virus everywhere,
+
+35
+00:02:16,800 --> 00:02:20,080
+and it enters the bloodstream, infecting cells while traveling.
+
+36
+00:02:20,080 --> 00:02:25,200
+Measles infects organs like the spleen, the liver, the intestines, and most importantly, the lungs.
+
+37
+00:02:25,200 --> 00:02:30,560
+The symptoms range from a very high fever, headache, sickness, bronchitis, and of course, a rash.
+
+38
+00:02:30,560 --> 00:02:33,280
+In the lungs, the immune system was doing pretty okay,
+
+39
+00:02:33,280 --> 00:02:37,680
+but now millions of viruses attack a second time and kill countless cells,
+
+40
+00:02:37,680 --> 00:02:39,440
+wiping out the defense systems.
+
+41
+00:02:39,440 --> 00:02:43,040
+In this phase, you start coughing out millions of measles viruses.
+
+42
+00:02:43,680 --> 00:02:48,320
+Measles is so contagious at this stage that if you meet someone who isn't vaccinated,
+
+43
+00:02:48,320 --> 00:02:51,600
+there's about a 90% chance you'll infect them.
+
+44
+00:02:51,600 --> 00:02:53,520
+Without the protective army in the lungs,
+
+45
+00:02:53,520 --> 00:02:58,240
+other bacteria or viruses that would usually not stand a chance can now enter the lungs
+
+46
+00:02:58,240 --> 00:03:02,240
+and develop into harmful parallel infections that can cause pneumonia,
+
+47
+00:03:02,240 --> 00:03:04,720
+the most common way to die from measles.
+
+48
+00:03:04,720 --> 00:03:07,920
+Your body's immune system is now seriously wounded.
+
+49
+00:03:07,920 --> 00:03:11,040
+Various protective systems are hurt and disrupted.
+
+50
+00:03:11,040 --> 00:03:15,360
+The virus spreads everywhere, infecting the skin all over the body.
+
+51
+00:03:15,360 --> 00:03:18,400
+The typical measles rash now becomes visible.
+
+52
+00:03:18,400 --> 00:03:24,000
+And in some cases, the measles virus reaches the brain and causes a brain infection.
+
+53
+00:03:24,000 --> 00:03:30,400
+If it does so, the chances of dying are between 20 to 40%, and there may be long-term damage.
+
+54
+00:03:30,400 --> 00:03:35,440
+But your body is far from giving up at this stage, and it fights back aggressively.
+
+55
+00:03:35,440 --> 00:03:40,960
+Some dendritic cells survive long enough to activate the antivirus forces of the body.
+
+56
+00:03:40,960 --> 00:03:45,440
+Plasma cells in the lymph nodes start producing billions of antibodies,
+
+57
+00:03:45,440 --> 00:03:50,640
+tiny proteins that mark infected cells for destruction or clump the virus together.
+
+58
+00:03:50,640 --> 00:03:54,720
+Killer T cells flood the body and kill infected cells left and right.
+
+59
+00:03:54,720 --> 00:03:59,760
+After two to three weeks, the body usually gets the upper hand and overwhelms the infection.
+
+60
+00:03:59,760 --> 00:04:04,720
+But the immune system is now seriously weakened and may take weeks or months to recover,
+
+61
+00:04:04,720 --> 00:04:07,520
+leaving the body vulnerable to other diseases.
+
+62
+00:04:07,520 --> 00:04:10,720
+But if you make it, you are now immune.
+
+63
+00:04:10,720 --> 00:04:13,200
+The immune system remembers the virus forever.
+
+64
+00:04:13,920 --> 00:04:15,600
+Measles is no joke.
+
+65
+00:04:15,600 --> 00:04:19,600
+Although 84% of all humans are vaccinated against measles,
+
+66
+00:04:19,600 --> 00:04:24,320
+122,000 people died because of the infection in 2014.
+
+67
+00:04:24,320 --> 00:04:27,840
+Some people cannot get vaccinations, either because they're too young,
+
+68
+00:04:27,840 --> 00:04:31,600
+because of chemotherapy or HIV, or because they're allergic to the vaccine.
+
+69
+00:04:32,240 --> 00:04:35,360
+They need the rest of us to stop the disease for them.
+
+70
+00:04:35,360 --> 00:04:39,120
+The measles vaccination is safe, cheap, and available.
+
+71
+00:04:39,120 --> 00:04:41,600
+There are no benefits from having measles at all.
+
+72
+00:04:41,600 --> 00:04:45,680
+You don't strengthen your immune system, and it's not more natural.
+
+73
+00:04:45,680 --> 00:04:50,000
+Most people who don't vaccinate only want the best for their children, which is honorable.
+
+74
+00:04:50,000 --> 00:04:51,280
+But if you ask yourself,
+
+75
+00:04:51,280 --> 00:04:56,320
+am I putting the life of my child and other children at risk by not vaccinating against measles?
+
+76
+00:04:56,320 --> 00:04:58,160
+The sad answer is yes.
+
+77
+00:04:58,720 --> 00:04:59,440
+Yes, you are.
+
+78
+00:05:00,000 --> 00:05:01,840
+Let's not play the blame game, though.
+
+79
+00:05:01,840 --> 00:05:04,480
+Let's work together and eradicate this virus.
+
+80
+00:05:04,480 --> 00:05:06,960
+Together, we can get rid of these dreadful monsters
+
+81
+00:05:06,960 --> 00:05:20,800
+and consign them to their rightful place, the history books.
+

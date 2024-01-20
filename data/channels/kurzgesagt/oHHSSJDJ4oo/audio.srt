@@ -1,0 +1,396 @@
+1
+00:00:00,000 --> 00:00:09,320
+The Sun. Smooth and round and peaceful. Except when it suddenly vomits radiation and plasma
+
+2
+00:00:09,320 --> 00:00:16,500
+in random directions. These solar flares and Coronal Mass Ejections, or CMEs, can hit Earth
+
+3
+00:00:16,500 --> 00:00:22,720
+and have serious consequences for humanity. How exactly do they work, how bad could they
+
+4
+00:00:22,720 --> 00:00:36,400
+be, and can we prepare for them? While the Sun seems pretty solid, it's actually
+
+5
+00:00:36,400 --> 00:00:42,520
+like a very hot ocean. So hot that it rips atoms into electrons and nuclei, all flowing
+
+6
+00:00:42,520 --> 00:00:48,120
+around each other in a plasma. This plasma is pushed around and shaped by the Sun's
+
+7
+00:00:48,120 --> 00:00:53,020
+magnetic field, similar to how the Sun's gravitational field reaches out to the planets
+
+8
+00:00:53,020 --> 00:00:59,000
+and shapes their orbits. But magnetism is very different from gravity. Magnetism is
+
+9
+00:00:59,000 --> 00:01:05,760
+one part of a dual force, electromagnetism. Electricity creates magnetic fields, and magnetic
+
+10
+00:01:05,760 --> 00:01:11,360
+fields create electricity. On the Sun, the plasma, made of electrically charged protons
+
+11
+00:01:11,360 --> 00:01:16,580
+and electrons, creates a magnetic field as they move, and this magnetic field then shapes
+
+12
+00:01:16,580 --> 00:01:22,400
+the flow of particles. They're stuck in a dynamic feedback loop called a dynamo, which
+
+13
+00:01:22,400 --> 00:01:28,420
+keeps the Sun's magnetic field alive. This magnetic field stores enormous amounts of
+
+14
+00:01:28,420 --> 00:01:33,860
+energy and leaks out over the solar system. It carries with it a constant trickle of solar
+
+15
+00:01:33,860 --> 00:01:39,780
+plasma like a light rain known as the solar wind, creating a sort of space weather. But
+
+16
+00:01:39,780 --> 00:01:45,120
+it isn't always calm and smooth. As the Sun's plasma churns and flows around itself, its
+
+17
+00:01:45,160 --> 00:01:50,440
+magnetic field gets all kinked and twisted. This creates magnetic knots that build up
+
+18
+00:01:50,440 --> 00:01:55,880
+enormous amounts of energy. When the magnetic knots break, like a tangle of springs exploding
+
+19
+00:01:55,880 --> 00:02:01,840
+outwards, the Sun can vomit plasma and other awful things into the solar system. These
+
+20
+00:02:01,840 --> 00:02:08,220
+solar storms come in many types, like solar flares, a tidal wave of high energy radiation.
+
+21
+00:02:08,220 --> 00:02:12,080
+They race through the solar system at the speed of light, sweeping up protons in the
+
+22
+00:02:12,080 --> 00:02:18,560
+solar wind, accelerating them into a high-speed solar proton storm. Then there are coronal
+
+23
+00:02:18,560 --> 00:02:24,160
+mass ejections, which rip millions or billions of tons of plasma from the Sun's atmosphere,
+
+24
+00:02:24,160 --> 00:02:30,080
+catapulting it through the solar system at speeds of up to 9 million kilometers per hour.
+
+25
+00:02:30,080 --> 00:02:36,120
+When these monsters hit us, nothing happens on Earth. While even smaller storms can damage
+
+26
+00:02:36,120 --> 00:02:40,220
+satellites, affect radio communication, or will be dangerous to astronauts, for people
+
+27
+00:02:40,220 --> 00:02:45,300
+on the surface, space weather is harmless. Earth's atmosphere protects us from the worst
+
+28
+00:02:45,300 --> 00:02:50,180
+effects of a solar flare by absorbing the blast of X-rays high up in the atmosphere,
+
+29
+00:02:50,180 --> 00:02:56,180
+well before it reaches the surface. The electrified plasma from a CME is deflected by the Earth's
+
+30
+00:02:56,180 --> 00:03:01,020
+magnetic field, diverting the energy storm to the North and South Poles, where energetic
+
+31
+00:03:01,020 --> 00:03:06,300
+particles fall into the atmosphere, causing the atmosphere to glow and creating beautiful
+
+32
+00:03:06,300 --> 00:03:12,940
+auroras. As with any sort of weather, most of the time, things are fine. Sometimes there
+
+33
+00:03:12,940 --> 00:03:18,980
+are hurricanes though, or in the case of the Sun, solar superstorms. And we know that they
+
+34
+00:03:18,980 --> 00:03:24,360
+happen once or twice every century. If one were to happen today, we would first detect
+
+35
+00:03:24,360 --> 00:03:30,320
+strong solar flares, a sort of flash before the much more dangerous thunder. The thunder
+
+36
+00:03:30,320 --> 00:03:36,520
+is a CME, consisting of billions of tons of hot magnetic plasma that crosses the 150
+
+37
+00:03:36,520 --> 00:03:42,420
+million kilometers between the Sun and Earth in less than a day. When it arrives, it causes
+
+38
+00:03:42,420 --> 00:03:47,560
+a shockwave that violently compresses the Earth's magnetic field and transfers energy
+
+39
+00:03:47,560 --> 00:03:53,200
+into the magnetosphere. But it can get worse. If the magnetic field of the CME is aligned
+
+40
+00:03:53,200 --> 00:03:58,220
+to Earth's in just the right way, the two magnetic fields merge. As the magnetic cloud
+
+41
+00:03:58,220 --> 00:04:03,940
+passes over Earth, it stretches the Earth's field into a long tail. Eventually, the energy
+
+42
+00:04:03,940 --> 00:04:09,700
+stored in the tail becomes too much to contain. It snaps and explosively releases its energy
+
+43
+00:04:09,700 --> 00:04:17,380
+towards Earth. A geomagnetic storm has begun. A few hundred years ago, nobody would have
+
+44
+00:04:17,380 --> 00:04:21,760
+cared. This storm gushing over the Earth is not relevant for machines made out of meat
+
+45
+00:04:21,760 --> 00:04:28,200
+and bones. But it's very relevant for machines made out of metal and wire. Remember the dynamo
+
+46
+00:04:28,200 --> 00:04:34,440
+– magnetism creates electric currents. Earth in the 21st century is covered in millions
+
+47
+00:04:34,440 --> 00:04:39,760
+of kilometers of wires transporting electricity and a complex grid of machines like transformers
+
+48
+00:04:39,760 --> 00:04:45,420
+that make this transfer possible. A CME's energy can induce currents in our power grid
+
+49
+00:04:45,420 --> 00:04:50,280
+that can either completely shut it down or worse, destroy the transformer stations that
+
+50
+00:04:50,280 --> 00:04:56,040
+keep our grid running. This has happened already, like when the Quebec power grid failed after
+
+51
+00:04:56,040 --> 00:05:01,760
+a strong solar storm in 1989. But in general, our engineers know how to deal with these
+
+52
+00:05:01,760 --> 00:05:07,440
+storms and so we usually don't even notice. The last time a solar hurricane washed over
+
+53
+00:05:07,440 --> 00:05:14,200
+Earth was in 1859. The Carrington event, the largest geomagnetic storms ever observed on
+
+54
+00:05:14,200 --> 00:05:20,440
+Earth. Massive auroras occurred as far south as the Caribbean. In some places, they were
+
+55
+00:05:20,440 --> 00:05:26,040
+so bright that people got up thinking the sun was rising. Luckily, we only had one sort
+
+56
+00:05:26,040 --> 00:05:31,640
+of modern technology – telegraph systems. They failed all over the world, shocking their
+
+57
+00:05:31,640 --> 00:05:37,920
+operators and chucking out sparks. Today, we have a tad more technology and our luck
+
+58
+00:05:37,920 --> 00:05:43,840
+may run out soon. Another bad solar storm is bound to happen eventually. A storm as
+
+59
+00:05:43,840 --> 00:05:49,860
+strong as the Carrington event missed Earth only by a small margin in 2012. Studies projected
+
+60
+00:05:49,860 --> 00:05:54,100
+that it would have inflicted serious damage to electronic systems globally, costing up
+
+61
+00:05:54,100 --> 00:06:00,980
+to $2.6 trillion to the US alone. The time to replace all the damaged systems was estimated
+
+62
+00:06:00,980 --> 00:06:07,780
+at between 4 and 10 years. It's hard to say how bad it could have been. Experts disagreed.
+
+63
+00:06:07,780 --> 00:06:10,980
+Some assumed there would just be temporary blackouts, but others worried it could be
+
+64
+00:06:10,980 --> 00:06:17,040
+much worse. We won't know for sure until a big solar hurricane hits us. The probability
+
+65
+00:06:17,040 --> 00:06:22,800
+of such an event is estimated to be 12% per decade. That's about a 50-50 chance of at
+
+66
+00:06:22,800 --> 00:06:30,240
+least one in the next 50 years. And there is more unsettling news. A 2019 paper found
+
+67
+00:06:30,240 --> 00:06:37,200
+that even calm stars like our sun can create superflares every few thousand years. Eruptions
+
+68
+00:06:37,200 --> 00:06:42,320
+orders of magnitude stronger than the strongest storms we have observed in the solar system.
+
+69
+00:06:42,320 --> 00:06:48,300
+If such a storm hits us unprepared, the consequences could be catastrophic. It's hard to overstate
+
+70
+00:06:48,300 --> 00:06:54,280
+how much we depend on electricity. It's not just the lights at home. It means no computers,
+
+71
+00:06:54,280 --> 00:07:00,000
+no communication, no navigation. A sustained power outage might lead to a breakdown of
+
+72
+00:07:00,000 --> 00:07:06,660
+the supply chain. Water supply systems failing and hospital generators running dry. Supermarkets
+
+73
+00:07:06,660 --> 00:07:12,260
+not being refilled while food rots in the fields. The lack of power might make it extremely
+
+74
+00:07:12,260 --> 00:07:19,300
+hard to reboot our broken power grid, taking years or decades to restart our starving civilization.
+
+75
+00:07:19,300 --> 00:07:25,180
+Okay, time to panic. As much as daily newspapers might like for solar storms to send us back
+
+76
+00:07:25,180 --> 00:07:30,760
+to the Stone Age, they probably won't. Fortunately, even though solar storms aren't preventable,
+
+77
+00:07:30,760 --> 00:07:36,100
+virtually all of their nasty side effects are. Scientists observing the sun have a few
+
+78
+00:07:36,100 --> 00:07:41,740
+hours up to a few days to see a CME coming. And the engineers working the systems that
+
+79
+00:07:41,740 --> 00:07:47,420
+keep the world running are well aware of the risks posed by solar storms. Transformers
+
+80
+00:07:47,420 --> 00:07:53,180
+and substations can be taken offline. Short preventative blackouts, or in other words,
+
+81
+00:07:53,180 --> 00:07:58,740
+by unplugging stuff. Engineers can open up extra lines to dissipate the extra power.
+
+82
+00:07:58,740 --> 00:08:03,660
+And with investment and upgrades cheap compared to those other natural disasters require,
+
+83
+00:08:03,660 --> 00:08:08,660
+we could protect the world's electric grid against even the nastiest of storms. But we
+
+84
+00:08:08,660 --> 00:08:15,500
+do need to prepare. While the risk is manageable, it is real. For while our sun bathes us in
+
+85
+00:08:15,500 --> 00:08:21,580
+warm and pleasant light, one day, it might send a monster our way that we better be ready
+
+86
+00:08:21,580 --> 00:08:23,640
+for.
+
+87
+00:08:23,640 --> 00:08:29,580
+This video was sponsored by you. Kurzgesagt videos are only possible thanks to your direct
+
+88
+00:08:29,580 --> 00:08:34,700
+support. For example, if you want to stare at our smooth and round sun for a little longer,
+
+89
+00:08:34,700 --> 00:08:39,060
+we've made two minimal infographic posters, one about the scale of the sun and one about
+
+90
+00:08:39,060 --> 00:08:43,960
+the age of the universe. Both should make you feel sufficiently tiny and help you appreciate
+
+91
+00:08:43,960 --> 00:08:49,160
+your existence a bit more. But wait, there's more. We have a bunch of new stuff from the
+
+92
+00:08:49,160 --> 00:08:53,980
+long requested bacteriophage infographic poster to a new optimistic nihilism poster that lets
+
+93
+00:08:53,980 --> 00:08:59,860
+you enjoy some existential dread in style. Or join us in our ant obsession and get the
+
+94
+00:08:59,860 --> 00:09:04,420
+new ant explorer notebook with beautiful infographics and facts about ants and gold
+
+95
+00:09:04,420 --> 00:09:08,960
+lettering on the cover. If you'd rather update your wardrobe, have a look at our beanies
+
+96
+00:09:08,960 --> 00:09:14,300
+or t shirts or you know, all the other stuff. We put a lot of love and care into developing
+
+97
+00:09:14,300 --> 00:09:19,340
+our products and only make stuff we want to have ourselves. If you want to support Kurzgesagt,
+
+98
+00:09:19,340 --> 00:09:24,240
+getting some merch is the best way to do it while receiving something beautiful in return.
+
+99
+00:09:24,240 --> 00:09:26,740
+Thank you for your support. And thank you for watching.
+

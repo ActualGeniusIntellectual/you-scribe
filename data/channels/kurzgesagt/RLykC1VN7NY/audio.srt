@@ -1,0 +1,280 @@
+1
+00:00:00,000 --> 00:00:05,500
+Imagine if you could gather the energy from every star within a hundred million light-years,
+
+2
+00:00:05,500 --> 00:00:10,000
+from thousands of galaxies, each with billions of stars.
+
+3
+00:00:10,000 --> 00:00:16,000
+Imagine you could take this kind of power and use it to fire the biggest super-weapon in the universe.
+
+4
+00:00:16,000 --> 00:00:19,000
+Imagine the damage you could do.
+
+5
+00:00:19,000 --> 00:00:26,000
+It turns out, you don't need to imagine it, these exist, and they're called gamma-ray bursts.
+
+6
+00:00:26,000 --> 00:00:28,000
+But what are these cosmic snipers?
+
+7
+00:00:28,000 --> 00:00:32,000
+And what happens if one takes a shot at Earth?
+
+8
+00:00:41,000 --> 00:00:46,000
+To understand gamma-ray bursts, we first have to understand gamma rays.
+
+9
+00:00:46,000 --> 00:00:52,000
+Gamma rays are electromagnetic radiation, waves which carry energy, just like visible light.
+
+10
+00:00:52,000 --> 00:00:58,000
+Visible light is a tiny part of the electromagnetic spectrum, it's the part your eyes can see.
+
+11
+00:00:58,000 --> 00:01:03,000
+At lower energies, there are radio waves, microwaves, and infrared.
+
+12
+00:01:03,000 --> 00:01:08,000
+And at higher energies, ultraviolet, x-rays, and gamma rays.
+
+13
+00:01:08,000 --> 00:01:11,000
+Gamma rays are incredibly powerful.
+
+14
+00:01:11,000 --> 00:01:17,000
+A single gamma-ray photon is more energetic than a million visible photons combined.
+
+15
+00:01:17,000 --> 00:01:21,000
+Their high energy makes gamma rays a form of ionizing radiation,
+
+16
+00:01:21,000 --> 00:01:26,000
+meaning they are energetic enough to break apart atomic bonds.
+
+17
+00:01:26,000 --> 00:01:29,000
+This makes them dangerous to you and me.
+
+18
+00:01:29,000 --> 00:01:36,000
+Ionizing radiation disrupts the delicate biochemical machinery that keeps us alive like a 9mm bullet through a clock.
+
+19
+00:01:36,000 --> 00:01:42,000
+Fortunately, on Earth, the ozone layer blocks gamma rays, filtering them out before they can harm us.
+
+20
+00:01:42,000 --> 00:01:49,000
+But if the atmosphere blocks gamma rays from space, how were gamma-ray bursts or GRBs from space ever discovered?
+
+21
+00:01:49,000 --> 00:01:56,000
+During the Cold War, the USA sent up spy satellites which could detect gamma rays from Soviet nuclear tests in space.
+
+22
+00:01:56,000 --> 00:02:04,000
+They didn't see any bombs, but they did observe faint bursts coming from space, lasting only a few seconds.
+
+23
+00:02:04,000 --> 00:02:11,000
+To date, this may be the only major scientific discovery made by spy satellites, that we know about anyway.
+
+24
+00:02:11,000 --> 00:02:16,000
+Astronomers use telescopes that see different kinds of light to make their discoveries,
+
+25
+00:02:16,000 --> 00:02:19,000
+and these spy satellites gave them a new pair of eyes.
+
+26
+00:02:19,000 --> 00:02:27,000
+They were a mystery for 30 years, but eventually we discovered the source of a GRB, a galaxy 6 billion light years away.
+
+27
+00:02:27,000 --> 00:02:32,000
+If a GRB can be seen from such a distance, then it must be incredibly energetic,
+
+28
+00:02:32,000 --> 00:02:38,000
+releasing more energy in a second than the Sun will in its entire 10 billion year lifetime,
+
+29
+00:02:38,000 --> 00:02:42,000
+making GRBs the brightest events in the universe.
+
+30
+00:02:42,000 --> 00:02:44,000
+So, where do they come from?
+
+31
+00:02:45,000 --> 00:02:52,000
+GRBs accompany some of the most violent cataclysmic deaths in the universe and the birth of black holes.
+
+32
+00:02:52,000 --> 00:02:58,000
+There are two types of gamma-ray bursts, short and long, and each has their own source.
+
+33
+00:02:58,000 --> 00:03:03,000
+Long GRBs last about a minute, and scientists think they are produced by supernova,
+
+34
+00:03:03,000 --> 00:03:06,000
+when the core of a massive star collapses to become a black hole.
+
+35
+00:03:06,000 --> 00:03:12,000
+Short GRBs last a second, and are produced when two neutron stars in a binary merge.
+
+36
+00:03:12,000 --> 00:03:17,000
+Over millions of years, their orbits decay by emitting gravitational waves.
+
+37
+00:03:17,000 --> 00:03:22,000
+Once they are close enough to touch, they crash and splash into each other, forming a black hole.
+
+38
+00:03:22,000 --> 00:03:26,000
+Both supernova and neutron star mergers make the same thing,
+
+39
+00:03:26,000 --> 00:03:32,000
+black holes surrounded by a magnetized disk of gas left over from their parent stars.
+
+40
+00:03:32,000 --> 00:03:36,000
+In these environments, the rotation winds up the magnetic field,
+
+41
+00:03:36,000 --> 00:03:40,000
+which funnels hot jets of particles traveling at maybe the speed of light.
+
+42
+00:03:40,000 --> 00:03:46,000
+The gas in this funnel creates two tight jets of high-energy gamma rays, like a celestial laser gun.
+
+43
+00:03:46,000 --> 00:03:50,000
+So, unlike other cosmic explosions, which spread out and fade,
+
+44
+00:03:50,000 --> 00:03:54,000
+GRBs stay focused and can be seen from much further.
+
+45
+00:03:54,000 --> 00:03:59,000
+Any more detail would require too much mathematics for a YouTube video.
+
+46
+00:03:59,000 --> 00:04:05,000
+The universe is full of these cosmic snipers, firing blindly and randomly into the dark,
+
+47
+00:04:05,000 --> 00:04:07,000
+and they are hitting us all the time.
+
+48
+00:04:07,000 --> 00:04:13,000
+On average, we detect one per day. Fortunately, most are harmless.
+
+49
+00:04:13,000 --> 00:04:19,000
+All the bursts we have detected so far originated outside the Milky Way, too far away to hurt us.
+
+50
+00:04:19,000 --> 00:04:22,000
+But a nearby GRB could be disastrous.
+
+51
+00:04:22,000 --> 00:04:27,000
+If one goes off within a few light-years of us, it would totally cook the surface of the Earth,
+
+52
+00:04:27,000 --> 00:04:29,000
+or at least the half that's facing it.
+
+53
+00:04:29,000 --> 00:04:33,000
+But even a more distant GRB could still end life on Earth.
+
+54
+00:04:33,000 --> 00:04:36,000
+And it wouldn't need to score a headshot to kill us.
+
+55
+00:04:36,000 --> 00:04:42,000
+If originating from a few thousand light-years away, it would be a hundred light-years wide by the time it reaches us,
+
+56
+00:04:42,000 --> 00:04:46,000
+washing over the solar system like a tidal wave.
+
+57
+00:04:46,000 --> 00:04:52,000
+Again, the ozone layer protects us, but it's better equipped to handle the trickle of ultraviolet from the Sun.
+
+58
+00:04:52,000 --> 00:04:57,000
+A gamma-ray burst would overwhelm it, leaving us exposed to deadly solar radiation.
+
+59
+00:04:57,000 --> 00:05:01,000
+Ozone takes years to replenish itself by natural processes,
+
+60
+00:05:01,000 --> 00:05:08,000
+which is more than enough time for the Sun to burn the Earth sterile, or at least to kill most complex life.
+
+61
+00:05:08,000 --> 00:05:11,000
+In fact, this may have already happened.
+
+62
+00:05:11,000 --> 00:05:18,000
+A GRB has been suggested as one possible cause of the Ordovician extinction 450 million years ago,
+
+63
+00:05:18,000 --> 00:05:24,000
+that eradicated almost 85% of all marine species, although it's pretty much impossible to prove.
+
+64
+00:05:24,000 --> 00:05:29,000
+Gamma-ray bursts could even be one reason we don't see life anywhere else in the universe.
+
+65
+00:05:29,000 --> 00:05:34,000
+They might be wiping clean huge chunks of it on a regular basis.
+
+66
+00:05:34,000 --> 00:05:42,000
+It's been suggested that because of GRBs, only 10% of all galaxies might be hospitable to life similar to us.
+
+67
+00:05:42,000 --> 00:05:46,000
+So, are they going to kill us? Probably not.
+
+68
+00:05:46,000 --> 00:05:54,000
+In a galaxy like ours, there may only be one GRB per millennia, and to harm us, they must be close and directed at us.
+
+69
+00:05:54,000 --> 00:05:59,000
+But since gamma-rays travel at the speed of light, we won't know when it's headed our way until it arrives.
+
+70
+00:05:59,000 --> 00:06:06,000
+So there could already be a GRB on its way to kill us all, and we won't know it until it hits us and we're dead.
+

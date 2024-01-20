@@ -1,0 +1,56 @@
+1
+00:00:00,000 --> 00:00:03,600
+Cooking a chicken with a particle accelerator? How would that work?
+
+2
+00:00:03,600 --> 00:00:08,480
+First, we need a raw chicken. That's easy. Then, we need a particle accelerator.
+
+3
+00:00:08,480 --> 00:00:13,040
+So, let's put a chicken in it. To avoid collisions between air molecules and beam particles,
+
+4
+00:00:13,040 --> 00:00:16,640
+we have to pump out all the air in the beam pipe before we even turn it on.
+
+5
+00:00:16,640 --> 00:00:20,560
+As the air pressure drops to near vacuum, moisture and other molecules vaporize,
+
+6
+00:00:20,560 --> 00:00:23,200
+leaving the outer layer of the chicken dried and brittle.
+
+7
+00:00:23,200 --> 00:00:26,960
+Then, as we cool down the magnet, any water remaining freezes.
+
+8
+00:00:26,960 --> 00:00:30,640
+When the beam is turned on, magnetic fields focus it to the width of a hair,
+
+9
+00:00:30,640 --> 00:00:34,320
+so it only collides with a narrow strand of chicken, but it completely obliterates
+
+10
+00:00:34,320 --> 00:00:38,480
+every atom in its way. The tremendous energy of the collisions burns the meat around it,
+
+11
+00:00:38,480 --> 00:00:42,320
+or it would, if there were any oxygen for it to burn, and the space around this hole
+
+12
+00:00:42,320 --> 00:00:47,520
+doesn't stay raw. Rather, it becomes radioactive. When we finally pull our chicken out of the
+
+13
+00:00:47,520 --> 00:00:52,400
+accelerator, it's not exactly raw, but it's certainly not cooked. You can take a bite
+
+14
+00:00:52,400 --> 00:00:58,960
+once it thaws. But we're not fans of food poisoning or radiation poisoning, so we can't recommend.
+

@@ -1,0 +1,580 @@
+1
+00:00:00,000 --> 00:00:07,380
+Kurzgesagt is lying to you, in every video, even in this one, because our videos distill
+
+2
+00:00:07,380 --> 00:00:14,300
+very complex subjects into flashy 10-minute pieces and, unfortunately, reality is, well,
+
+3
+00:00:14,300 --> 00:00:15,300
+complicated.
+
+4
+00:00:15,300 --> 00:00:20,340
+The question of how we deal with that is central to what we do on this channel and something
+
+5
+00:00:20,340 --> 00:00:21,620
+we think about a lot.
+
+6
+00:00:30,820 --> 00:00:35,500
+What we mean by lying is the concept of lies to children.
+
+7
+00:00:35,500 --> 00:00:40,500
+The idea that on the path to explaining something complicated, you start off with a little lie,
+
+8
+00:00:40,500 --> 00:00:45,540
+a useful oversimplification that makes it easier to grasp a concept.
+
+9
+00:00:45,540 --> 00:00:49,940
+For example, as a kid you learned that the Earth is a sphere orbiting the sun with planet
+
+10
+00:00:49,940 --> 00:00:50,940
+bodies.
+
+11
+00:00:50,940 --> 00:00:55,280
+But it's not actually a sphere and the bodies are super different in size and not close
+
+12
+00:00:55,280 --> 00:00:57,140
+to each other at all.
+
+13
+00:00:57,140 --> 00:01:02,700
+By beginning at a place of oversimplification, you're building a framework, a foundation,
+
+14
+00:01:02,700 --> 00:01:07,960
+that you can then build upon and add nuance and complexity later on.
+
+15
+00:01:07,960 --> 00:01:13,080
+Step by step, you're getting towards the real gist of the complicated subject.
+
+16
+00:01:13,080 --> 00:01:19,480
+Science communication has to use lies to children to some degree or it turns into science education.
+
+17
+00:01:19,480 --> 00:01:24,140
+And getting a proper education in all of the scientific fields would take years of intense
+
+18
+00:01:24,140 --> 00:01:26,480
+study to become fluent in them.
+
+19
+00:01:26,480 --> 00:01:31,780
+As a species we have a major interest in summarizing science and its advancements and educating
+
+20
+00:01:31,780 --> 00:01:36,520
+as many people about it as possible because we all benefit if more people have a fact-based
+
+21
+00:01:36,520 --> 00:01:38,940
+scientific worldview.
+
+22
+00:01:38,940 --> 00:01:43,540
+We will discuss what science is and how it works in different videos in more detail,
+
+23
+00:01:43,540 --> 00:01:48,600
+but for now let's just say it's a process to advance, organize, predict, and test our
+
+24
+00:01:48,600 --> 00:01:51,100
+knowledge about the universe.
+
+25
+00:01:51,100 --> 00:01:55,520
+If you understand the current state of scientific knowledge, then you can make better decisions
+
+26
+00:01:55,520 --> 00:02:01,420
+based on facts and testable ideas rather than outdated belief systems or our intuition
+
+27
+00:02:01,420 --> 00:02:06,380
+that evolved to protect our ancestors from lions but is no longer suited for the complexity
+
+28
+00:02:06,380 --> 00:02:08,580
+of our modern world.
+
+29
+00:02:08,580 --> 00:02:13,540
+Our brains are comically ill-prepared to navigate the fast-moving world we happen to live in
+
+30
+00:02:13,540 --> 00:02:17,860
+today, a world ironically created by science.
+
+31
+00:02:17,860 --> 00:02:22,180
+A few hundred years ago, it was possible to be knowledgeable at an expert level in pretty
+
+32
+00:02:22,180 --> 00:02:24,500
+much every field of study.
+
+33
+00:02:24,500 --> 00:02:31,260
+In the information age, this is a futile endeavor since knowledge and data are increasing exponentially.
+
+34
+00:02:31,260 --> 00:02:36,180
+So to even have a chance of grasping the world we live in, we need summaries that give us,
+
+35
+00:02:36,180 --> 00:02:40,620
+if not a true understanding of all the details, a solid overview.
+
+36
+00:02:40,620 --> 00:02:45,320
+Explaining science to many people is not about enlightening the ignorant but necessary for
+
+37
+00:02:45,320 --> 00:02:48,220
+the progress of our species at large.
+
+38
+00:02:48,220 --> 00:02:52,520
+To make this possible, we need to find metaphors and stories that capture the true nature of
+
+39
+00:02:52,560 --> 00:02:57,280
+things as much as possible while using a language that our brains can deal with.
+
+40
+00:02:57,280 --> 00:03:00,560
+A great example here is physics.
+
+41
+00:03:00,560 --> 00:03:05,160
+Quarks are often depicted as blue, red, and green with different spins.
+
+42
+00:03:05,160 --> 00:03:10,680
+But just saying spin and using colors forces our brain to imagine colorful spinning balls,
+
+43
+00:03:10,680 --> 00:03:15,300
+which is great to visualize the different types and the relationships between quarks
+
+44
+00:03:15,300 --> 00:03:20,040
+but also creates a very wrong image of reality in our heads.
+
+45
+00:03:20,080 --> 00:03:23,940
+Examples are nothing like the neat diagrams that we're taught in school, but buzzing
+
+46
+00:03:23,940 --> 00:03:28,980
+and vibrating entities held together by something we call charge that describes how certain
+
+47
+00:03:28,980 --> 00:03:33,520
+things want to be close or escape each other for some unknown reason.
+
+48
+00:03:33,520 --> 00:03:37,600
+We're describing phenomena that we're pretty sure exist in some form or another because
+
+49
+00:03:37,600 --> 00:03:42,440
+the maths works out and we can do real-world experiments and predict their results before
+
+50
+00:03:42,440 --> 00:03:43,940
+we do them.
+
+51
+00:03:43,940 --> 00:03:50,000
+In reality, these are models, tricks to summarize what we know, make up a coherent story, and
+
+52
+00:03:50,000 --> 00:03:53,600
+prepare the ground for more in-depth explanations.
+
+53
+00:03:53,600 --> 00:03:58,760
+Don't confuse the description of a thing for the thing itself.
+
+54
+00:03:58,760 --> 00:04:01,360
+Simplifications like these are not just meant to dumb things down.
+
+55
+00:04:01,360 --> 00:04:04,000
+They're actually useful for experts themselves.
+
+56
+00:04:04,000 --> 00:04:09,620
+For example, chemists who use wrong electron shell models to work out chemical bonds or
+
+57
+00:04:09,620 --> 00:04:14,560
+scientists using simplified models as the basis for discussion with colleagues across
+
+58
+00:04:14,560 --> 00:04:17,320
+different scientific fields.
+
+59
+00:04:17,400 --> 00:04:22,240
+The simplification of science can also be problematic for a bunch of reasons.
+
+60
+00:04:22,240 --> 00:04:26,400
+Finding the true nature of reality is super hard because our brains did not evolve for
+
+61
+00:04:26,400 --> 00:04:30,640
+this job and the universe doesn't care if we understand it.
+
+62
+00:04:30,640 --> 00:04:36,560
+Science is a process to work towards gaining knowledge and not an absolute truth generator.
+
+63
+00:04:36,560 --> 00:04:41,920
+The answers it provides are multi-layered and nuanced, and that complexity can get lost
+
+64
+00:04:41,920 --> 00:04:46,500
+when it's simplified, especially when it's done so for headlines.
+
+65
+00:04:46,500 --> 00:04:51,420
+When interesting cancer study turns into a potential cure, a healthy food becomes the
+
+66
+00:04:51,420 --> 00:04:54,280
+basis for a new diet.
+
+67
+00:04:54,280 --> 00:05:00,060
+Such simplifications give a misleading definiteness to science, which goes against its process-like
+
+68
+00:05:00,060 --> 00:05:01,200
+nature.
+
+69
+00:05:01,200 --> 00:05:06,640
+When cures don't materialize and diets don't turn out to be magical, we lose confidence
+
+70
+00:05:06,640 --> 00:05:12,140
+in science and start to think of all science communication as misleading.
+
+71
+00:05:12,140 --> 00:05:14,180
+Then there's the opposite effect.
+
+72
+00:05:14,220 --> 00:05:19,580
+If a simplification is too engaging, if the story it tells is too good, it can distort
+
+73
+00:05:19,580 --> 00:05:24,320
+the true complexity of a subject and give you a false sense of security and an illusion
+
+74
+00:05:24,320 --> 00:05:25,940
+of deep knowledge.
+
+75
+00:05:25,940 --> 00:05:30,100
+A gut feeling that you understand the science better than you actually do, which can lead
+
+76
+00:05:30,100 --> 00:05:36,220
+people to ignore actual experts over their dangerous, superficial knowledge and gut feeling.
+
+77
+00:05:36,220 --> 00:05:41,580
+And this can have negative consequences for all of us, because in the worst case, overconfidence
+
+78
+00:05:41,580 --> 00:05:48,020
+in your own understanding of science can lead to bad decisions made with confidence.
+
+79
+00:05:48,020 --> 00:05:52,740
+Just think of the surge of people that confidently disavow vaccines or climate change without
+
+80
+00:05:52,740 --> 00:05:55,980
+truly understanding the subject matter.
+
+81
+00:05:55,980 --> 00:06:00,100
+So considering all of this and the fact that we at Kurzgesagt reach millions of people
+
+82
+00:06:00,100 --> 00:06:03,060
+with our videos, how do we handle this?
+
+83
+00:06:03,060 --> 00:06:07,180
+Well, it has been a journey, especially the research.
+
+84
+00:06:07,180 --> 00:06:11,540
+When we started, we just read articles, then moved on to books, peer-reviewed papers, then
+
+85
+00:06:11,540 --> 00:06:13,540
+to conversations with experts.
+
+86
+00:06:13,540 --> 00:06:16,240
+We began to collect our sources.
+
+87
+00:06:16,240 --> 00:06:19,540
+With every step, we realized that we were still not doing enough.
+
+88
+00:06:19,540 --> 00:06:24,620
+Nowadays, we try to read as many primary sources as possible, talk to multiple experts and
+
+89
+00:06:24,620 --> 00:06:29,500
+document our simplifications and give further reading in our sources doc.
+
+90
+00:06:29,500 --> 00:06:32,460
+But this doesn't make our process flawless.
+
+91
+00:06:32,460 --> 00:06:35,580
+What do you do if experts disagree with each other?
+
+92
+00:06:35,580 --> 00:06:40,140
+What do you do if you find an amazing fact that perfectly fits a narrative but just can't
+
+93
+00:06:40,140 --> 00:06:42,000
+find its primary source?
+
+94
+00:06:42,000 --> 00:06:46,500
+How do you deal with the reality that many scientific results have huge error bars or
+
+95
+00:06:46,500 --> 00:06:48,720
+maybes attached to them?
+
+96
+00:06:48,720 --> 00:06:53,380
+How do you handle complex systems that defy easy answers?
+
+97
+00:06:53,380 --> 00:06:57,960
+In the end, we make 10-minute videos, so we need to make decisions about what details
+
+98
+00:06:57,960 --> 00:07:03,860
+and explanations can fit, which aspects need to be simplified, and which parts to cut.
+
+99
+00:07:03,860 --> 00:07:07,860
+There is no single best answer for how to do this, and so we weigh the different options
+
+100
+00:07:07,860 --> 00:07:09,760
+every single time.
+
+101
+00:07:09,760 --> 00:07:13,400
+It can be painful for experts to see their fields simplified.
+
+102
+00:07:13,400 --> 00:07:16,680
+Some are happy with us, while others don't like it.
+
+103
+00:07:16,680 --> 00:07:20,240
+This is fair, but also impossible to avoid.
+
+104
+00:07:20,240 --> 00:07:23,920
+We're still trying to improve and want to be transparent about what we're trying to
+
+105
+00:07:23,920 --> 00:07:24,920
+do.
+
+106
+00:07:24,920 --> 00:07:29,640
+For example, we're taking part in the Tresca project about science communication to learn
+
+107
+00:07:29,640 --> 00:07:30,780
+more.
+
+108
+00:07:30,780 --> 00:07:34,860
+All of this brings us to the purpose of our videos.
+
+109
+00:07:34,860 --> 00:07:39,340
+The most important thing we want to do with this channel is to inspire you and spark your
+
+110
+00:07:39,340 --> 00:07:43,620
+curiosity for science and the amazing universe we live in.
+
+111
+00:07:43,620 --> 00:07:48,020
+Learning often doesn't feel like fun, but with the right story it is one of the best
+
+112
+00:07:48,020 --> 00:07:51,220
+things, and we hope to provide that to you.
+
+113
+00:07:51,220 --> 00:07:55,340
+Ultimately, we hope that we light a fire in you that motivates you to read books, pay
+
+114
+00:07:55,340 --> 00:07:59,800
+more attention at school or university, and just get interested in a scientific field
+
+115
+00:07:59,800 --> 00:08:02,340
+or two and learn more on your own.
+
+116
+00:08:02,340 --> 00:08:07,380
+Not because you have to, but because you want to know more about how the world really works.
+
+117
+00:08:07,420 --> 00:08:13,280
+Because the universe is beautiful, and science is a way of seeing this beauty more clearly.
+
+118
+00:08:13,280 --> 00:08:19,280
+And we hope that knowing that we have to simplify a bit does not make you enjoy our videos less.
+
+119
+00:08:19,280 --> 00:08:25,540
+We are trying to build something with Kurzgesagt, and while we're not 100% sure yet what exactly,
+
+120
+00:08:25,540 --> 00:08:28,900
+hopefully something that gets people to think about their own life and the context they
+
+121
+00:08:28,900 --> 00:08:34,620
+exist in today, as well as the far future and the potential we all have as a species.
+
+122
+00:08:34,660 --> 00:08:40,260
+And of course, how big things are, and what happens when we blow stuff up, because it's fun.
+
+123
+00:08:40,260 --> 00:08:43,800
+Thanks for watching and sharing and supporting us.
+
+124
+00:08:43,800 --> 00:08:46,740
+We really can't do this without you.
+
+125
+00:08:46,740 --> 00:08:53,080
+Running a science communication business is a balancing act that we take extremely seriously.
+
+126
+00:08:53,080 --> 00:08:58,180
+On the one hand, we need to be responsible and look out for the team and be able to grow responsibly.
+
+127
+00:08:58,180 --> 00:09:02,160
+On the other hand, we have to protect the integrity of our videos.
+
+128
+00:09:02,160 --> 00:09:07,200
+You are enabling us to stay independent, because while we do things like sponsorships or commercial
+
+129
+00:09:07,200 --> 00:09:12,000
+work, the majority of our income comes directly from you, the burbs.
+
+130
+00:09:12,000 --> 00:09:16,880
+Kurzgesagt is fundamentally funded by its community, by you.
+
+131
+00:09:16,880 --> 00:09:22,780
+Because of you, Kurzgesagt is able to invest as much time in our videos and try to become better.
+
+132
+00:09:22,780 --> 00:09:27,600
+You get our calendar every year, support us on Patreon, and get your personal birds, watch
+
+133
+00:09:27,600 --> 00:09:31,240
+our videos without adblock or with YouTube Premium.
+
+134
+00:09:31,240 --> 00:09:35,220
+Our favorite way to keep the channel running are our sciency products from our shop that
+
+135
+00:09:35,220 --> 00:09:38,080
+hopefully add additional value to the world.
+
+136
+00:09:38,080 --> 00:09:42,460
+We love bringing little pieces of knowledge into your home or classroom that inspire you
+
+137
+00:09:42,460 --> 00:09:46,940
+to learn more about the universe in a little more detail, especially with our carefully
+
+138
+00:09:46,940 --> 00:09:49,520
+researched infographic posters.
+
+139
+00:09:49,520 --> 00:09:54,300
+Our latest one teaches you about the night sky, and showcases the stars in our night
+
+140
+00:09:54,300 --> 00:09:58,560
+sky and their special significance for humanity.
+
+141
+00:09:58,560 --> 00:10:02,760
+With every purchase, you directly support what we do on this channel.
+
+142
+00:10:02,760 --> 00:10:05,640
+Please don't feel obligated to do so, though.
+
+143
+00:10:05,640 --> 00:10:11,040
+Watching and sharing is already helping us out a lot, and we are just grateful that so
+
+144
+00:10:11,040 --> 00:10:13,920
+many of you care about what we try to do here.
+
+145
+00:10:13,920 --> 00:10:16,000
+Thank you so, so much.
+

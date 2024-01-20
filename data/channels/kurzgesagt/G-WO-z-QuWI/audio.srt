@@ -1,0 +1,512 @@
+1
+00:00:00,880 --> 00:00:05,600
+Leaving Earth to find new homes in space is an old dream of humanity,
+
+2
+00:00:05,600 --> 00:00:08,880
+and will sooner or later be necessary for our survival.
+
+3
+00:00:09,600 --> 00:00:15,600
+The planet that gets the most attention is Mars, a small, toxic, and energy-poor planet
+
+4
+00:00:15,600 --> 00:00:20,560
+that just about seems good enough for a colony of depressed humans huddled in underground cities.
+
+5
+00:00:21,280 --> 00:00:26,240
+But what if we think bigger? What if we take Venus, one of the most hostile and
+
+6
+00:00:26,240 --> 00:00:32,800
+deadly places in the solar system, and turn it into a colony? Not by building lofty cloud cities,
+
+7
+00:00:32,800 --> 00:00:37,680
+but by creating a proper second Earth. It might be easier than you think.
+
+8
+00:00:47,120 --> 00:00:51,440
+Venus is by far the hottest planet in the solar system, with a surface temperature of
+
+9
+00:00:51,440 --> 00:00:59,520
+460°C, hot enough to melt lead. This heat is due to the most extreme greenhouse effect in the solar
+
+10
+00:00:59,520 --> 00:01:08,320
+system. CO2 is great at trapping heat. Even a rise from 0.03% to 0.04% in Earth's atmosphere
+
+11
+00:01:08,320 --> 00:01:16,800
+is heating up our planet right now. Venus' atmosphere is 97% CO2. Also, Venus' atmosphere
+
+12
+00:01:16,800 --> 00:01:22,320
+is 93 times denser than Earth's. Standing on Venus' surface would feel like taking a dive
+
+13
+00:01:22,320 --> 00:01:26,880
+about 900 meters deep into the ocean. The pressure would kill you instantly.
+
+14
+00:01:27,600 --> 00:01:30,800
+It's a truly horrible place, so why should we even bother?
+
+15
+00:01:32,000 --> 00:01:37,280
+First and foremost, Venus is almost as big as Earth and has 90% of its surface gravity.
+
+16
+00:01:37,920 --> 00:01:42,480
+Surface gravity is a big problem when colonizing the solar system because it's very likely that
+
+17
+00:01:42,480 --> 00:01:48,320
+long stays in low-gravity places will have negative health effects. Venus' size means
+
+18
+00:01:48,320 --> 00:01:54,080
+it could be the second largest habitat in the solar system. A new home for billions of humans
+
+19
+00:01:54,080 --> 00:01:59,360
+and trillions of animals, with oceans, lush forests, and a beautiful blue sky.
+
+20
+00:02:00,080 --> 00:02:04,800
+A properly terraformed Venus may be the most pleasant place to live outside of Earth.
+
+21
+00:02:05,680 --> 00:02:11,360
+While we can't exactly terraform Venus today, a slightly more ambitious future version of us
+
+22
+00:02:11,360 --> 00:02:16,960
+could take this project on. It will take a few generations to complete and be a huge challenge,
+
+23
+00:02:16,960 --> 00:02:21,840
+like building the Great Pyramids was for our ancestors. But then, it's not like humans have
+
+24
+00:02:21,840 --> 00:02:27,200
+never started projects that took more than a lifetime to complete. Okay, let's do it.
+
+25
+00:02:28,000 --> 00:02:33,120
+Before anything else, we need to cool Venus down and remove the gas that makes up the extremely
+
+26
+00:02:33,120 --> 00:02:40,080
+heavy atmosphere. As mentioned, there's a lot of it. Around 465 million billion tons.
+
+27
+00:02:40,800 --> 00:02:46,320
+How do we do that? There are a few options. We could create giant solar collectors powering a
+
+28
+00:02:46,320 --> 00:02:51,040
+huge array of laser beams that heat up the atmosphere so much that it's blasted into space.
+
+29
+00:02:51,600 --> 00:02:56,640
+Although we would need thousands of times the entire power-generating capacity of humanity,
+
+30
+00:02:56,640 --> 00:03:01,840
+and it would still take thousands of years to remove the atmosphere. Another way is to
+
+31
+00:03:01,840 --> 00:03:07,360
+sequester the atmosphere, binding the CO2 in different compounds through chemical reactions.
+
+32
+00:03:08,000 --> 00:03:13,280
+We could mine elements like calcium or magnesium on Mercury and shoot them at Venus via mass
+
+33
+00:03:13,280 --> 00:03:19,920
+driver systems, electric rails that make rockets unnecessary on smaller planets. The metals would
+
+34
+00:03:19,920 --> 00:03:26,080
+combine to bind the CO2 into different carbonates basically forever. But the scale makes the whole
+
+35
+00:03:26,080 --> 00:03:32,720
+thing impractical. We would need several hundred billion tons of material to sequester the CO2 this
+
+36
+00:03:32,720 --> 00:03:39,280
+way. Seems like a waste of material and might take too long. An equally ridiculous idea that
+
+37
+00:03:39,280 --> 00:03:46,240
+could actually work is to put Venus in the shade, literally, by constructing a huge mirror to blot
+
+38
+00:03:46,240 --> 00:03:51,760
+out the sun to just freeze the atmosphere. The mirror doesn't need to be complex or massive,
+
+39
+00:03:51,760 --> 00:03:57,200
+just a very thin foil with a little structural support. Building such a large flat surface so
+
+40
+00:03:57,200 --> 00:04:01,920
+close to the sun will turn it effectively into a solar sail and push it out of position,
+
+41
+00:04:01,920 --> 00:04:06,960
+so instead of one giant circular object, our mirror will consist of many different pieces.
+
+42
+00:04:07,680 --> 00:04:12,560
+Annular slats of angled mirrors can reflect sunlight from one set of mirrors to the next.
+
+43
+00:04:12,560 --> 00:04:17,600
+Mirrors would be angled, reflecting light from one to another until the light is redirected to
+
+44
+00:04:17,600 --> 00:04:23,280
+the back, balancing the force on the front and holding them in position. After a few years of
+
+45
+00:04:23,280 --> 00:04:29,920
+getting the infrastructure in place, things start slowly and then escalate. For the first few decades,
+
+46
+00:04:29,920 --> 00:04:36,320
+the atmosphere slowly cools down but stays dense and deadly until, after some 60 years,
+
+47
+00:04:36,320 --> 00:04:42,880
+it reaches the critical temperature of 31 degrees Celsius. Suddenly, the great flood begins on Venus
+
+48
+00:04:42,880 --> 00:04:49,760
+as CO2 turns to liquid at this pressure and begins to rain down. A constant global rainstorm of
+
+49
+00:04:49,760 --> 00:04:56,080
+unbelievable proportions lasting 30 years. The pressure and temperature suddenly begin to drop
+
+50
+00:04:56,080 --> 00:05:02,800
+in unison. For almost a century, puddles turn into lakes and oceans. The surface temperature
+
+51
+00:05:02,800 --> 00:05:08,160
+is now minus 56 degrees Celsius and the pressure has dropped to only seven times the pressure on
+
+52
+00:05:08,160 --> 00:05:14,720
+Earth. Finally, at a really unpleasant minus 81 degrees Celsius, the CO2 oceans begin to freeze
+
+53
+00:05:14,720 --> 00:05:20,560
+and the rain turns into snow. This leaves us with a frozen Venus covered in oceans as hard as rock
+
+54
+00:05:20,560 --> 00:05:27,120
+and gigantic CO2 glaciers. What remains of the atmosphere is mostly nitrogen at about three times
+
+55
+00:05:27,120 --> 00:05:31,840
+Earth's surface pressure. If you don't mind freezing and suffocating, you can now take a
+
+56
+00:05:31,840 --> 00:05:37,840
+stroll over Venus's surface. But the frozen CO2 remains a bit of a problem. At some point,
+
+57
+00:05:37,840 --> 00:05:43,600
+we want to warm up the planet but if we do, the CO2 ice will melt and fill up the atmosphere again.
+
+58
+00:05:43,600 --> 00:05:48,960
+So we need some way to keep it from doing that. One is to simply cover it all with cheap plastic
+
+59
+00:05:48,960 --> 00:05:54,560
+insulation and cover it up with ground up Venus rock or water oceans. Although some planetary
+
+60
+00:05:54,560 --> 00:05:59,200
+scientists will be very stressed out about us building a new planet containing a potential
+
+61
+00:05:59,200 --> 00:06:06,000
+time bomb like that. A few unfortunately timed volcanoes could melt a lot of CO2 at once and ruin
+
+62
+00:06:06,000 --> 00:06:11,840
+everything. Another obvious solution is to shoot it all out into space and collect it into a small
+
+63
+00:06:11,840 --> 00:06:17,200
+moon for storage and future use. We can make this more efficient by using mass drivers instead of
+
+64
+00:06:17,200 --> 00:06:22,080
+rockets, but moving all that mass will still be a pretty intense challenge that will take some time
+
+65
+00:06:22,080 --> 00:06:27,360
+to solve. Whatever we end up doing with the atmosphere to move forward, we need water which
+
+66
+00:06:27,360 --> 00:06:33,440
+we could get from ice moons. Europa, a moon of Jupiter has twice as much water as Earth's oceans.
+
+67
+00:06:34,080 --> 00:06:39,680
+Now catching a moon and transporting it through the solar system is not exactly easy. So instead,
+
+68
+00:06:39,680 --> 00:06:45,440
+it might be easier to cut chunks of ice off Europa with an army of construction drones and shoot them
+
+69
+00:06:45,440 --> 00:06:52,000
+at Venus using more of those mass drivers. Space tethers could save us a lot of effort and energy
+
+70
+00:06:52,000 --> 00:06:57,120
+here. We made a whole video explaining how they work, but in a nutshell they are slings that can
+
+71
+00:06:57,120 --> 00:07:04,000
+take a payload on both ends. On Europa, they do most of the work needed to catapult our ice to Venus.
+
+72
+00:07:04,960 --> 00:07:10,800
+The ice hits the Venus tethers which gently drop it into the atmosphere where it falls down as snow.
+
+73
+00:07:10,800 --> 00:07:17,760
+In exchange, the Venus tethers get to catch CO2 ice shot up from below and accelerate it into
+
+74
+00:07:17,760 --> 00:07:23,840
+orbit. We can remove excess nitrogen using this same method to further lower our atmospheric
+
+75
+00:07:23,840 --> 00:07:30,080
+pressure. After a few decades or centuries, Venus would be covered by a nice shallow frozen ocean
+
+76
+00:07:30,080 --> 00:07:35,920
+a few hundred meters deep. It would look extremely different from today. A few continents and
+
+77
+00:07:35,920 --> 00:07:42,240
+countless islands have formed. This is beginning to look a bit like our planet. Now the last and
+
+78
+00:07:42,240 --> 00:07:47,920
+most magnificent phase of terraforming begins, making the atmosphere breathable and adding life.
+
+79
+00:07:48,720 --> 00:07:55,440
+First, we need light though and we need to heat the planet up again. A Venus day is 2,802 hours
+
+80
+00:07:55,440 --> 00:08:02,880
+long, more than 116 Earth days. So if we just remove our giant mirror, we would grill half of
+
+81
+00:08:02,880 --> 00:08:08,400
+our planet. Even without the massive atmosphere, temperatures would reach unbearable levels.
+
+82
+00:08:09,120 --> 00:08:14,240
+The simplest way to create a day-night cycle and let some energy in again is with another set of
+
+83
+00:08:14,240 --> 00:08:19,600
+mirrors to illuminate our continents and melt our water oceans, which would let us completely
+
+84
+00:08:19,600 --> 00:08:25,920
+control how much energy we get and where it goes. The atmosphere is now mostly made up of nitrogen
+
+85
+00:08:25,920 --> 00:08:31,920
+and basically devoid of oxygen. So the first inhabitants will likely be trillions and trillions
+
+86
+00:08:31,920 --> 00:08:38,480
+of cyanobacteria, which can get photosynthesizing and release oxygen. We know that they can quickly
+
+87
+00:08:38,480 --> 00:08:42,480
+turn around the atmosphere of a planet because billions of years ago, they were probably
+
+88
+00:08:42,480 --> 00:08:47,520
+responsible for turning the toxic atmosphere of our young Earth into an atmosphere with enough
+
+89
+00:08:47,520 --> 00:08:54,000
+oxygen for more complex animal life. But not only that, cyanobacteria can fix nitrogen from
+
+90
+00:08:54,000 --> 00:08:59,840
+the atmosphere and turn it into nutrients that can be used by living beings. This way, they will
+
+91
+00:08:59,840 --> 00:09:04,640
+essentially fertilize our dead ocean water and prepare it for more complex organisms.
+
+92
+00:09:05,600 --> 00:09:10,880
+On land, our colonists need to grind down some of the former Venusian surface to make soil for
+
+93
+00:09:10,880 --> 00:09:16,720
+nitrogen-fixing plants to grow on. Eventually, billions of trees would spread, creating large
+
+94
+00:09:16,720 --> 00:09:23,920
+forests covering massive parts of the continents. Venus would turn green. To speed things up,
+
+95
+00:09:23,920 --> 00:09:29,760
+CO2 would be strategically released to supply the plants and cyanobacteria. Areas already covered
+
+96
+00:09:29,760 --> 00:09:34,160
+with plants could get extra daylight from our orbital mirrors so the plants would be active
+
+97
+00:09:34,160 --> 00:09:39,040
+for most of each day. Maybe we won't have to do this with the same plants and animals we know
+
+98
+00:09:39,040 --> 00:09:44,480
+today. As genetic engineering matures and our understanding of genetics and the machinery of
+
+99
+00:09:44,480 --> 00:09:50,800
+life expands, we might just engineer life as we need it. All in all, it would take several
+
+100
+00:09:50,800 --> 00:09:55,680
+thousand years to make the atmosphere breathable by humans. In the meantime, you could stroll
+
+101
+00:09:55,680 --> 00:10:01,120
+around with nothing more than regular clothes and an oxygen mask. Settlers would enjoy a vast
+
+102
+00:10:01,120 --> 00:10:06,960
+new planet filled with resources and bathed in sunlight. They might think of new ways to use the
+
+103
+00:10:06,960 --> 00:10:13,440
+vast amounts of carbon dioxide ice and nitrogen orbiting in space above, industrial processes,
+
+104
+00:10:13,440 --> 00:10:20,000
+rocket fuel, or even boosting the terraforming of another planet like tiny Mars. Venus is fully
+
+105
+00:10:20,000 --> 00:10:27,600
+terraformed. Animals roam through vast ecosystems. Cities are being constructed. Billions of settlers
+
+106
+00:10:27,600 --> 00:10:33,680
+and their descendants make this world their home. They will see images of the past. How Venus was
+
+107
+00:10:33,680 --> 00:10:39,280
+once the most hostile planet around. How it took hundreds of years to freeze hell and to ship in
+
+108
+00:10:39,280 --> 00:10:45,280
+the oceans and another few thousand years to make it possible to breathe freely. They will barely be
+
+109
+00:10:45,280 --> 00:10:52,400
+able to believe it. Okay, maybe it's not that easy to terraform Venus and a lot of things must go
+
+110
+00:10:52,400 --> 00:10:57,920
+right for this future to become reality. But it is possible and with technology that is within
+
+111
+00:10:57,920 --> 00:11:02,800
+the reach of a motivated and slightly more advanced humanity that wants to venture into space.
+
+112
+00:11:03,440 --> 00:11:08,960
+The only thing that's stopping it is our imagination and that at least is a problem that's
+
+113
+00:11:08,960 --> 00:11:15,840
+easy to overcome. If you think about it, your imagination is the only thing stopping you from
+
+114
+00:11:15,840 --> 00:11:20,400
+doing all kinds of things. All you need is a little nudge and we might just have the right
+
+115
+00:11:20,400 --> 00:11:26,000
+thing to get you started. We are big fans of Skillshare, an online learning community that
+
+116
+00:11:26,000 --> 00:11:30,800
+offers thousands of classes for all skill levels in tons of creative disciplines like illustration,
+
+117
+00:11:30,800 --> 00:11:36,480
+animation, or film and video. Or you could try a class on home decoration, growing houseplants,
+
+118
+00:11:36,480 --> 00:11:42,240
+or playing the guitar. There's something for everyone really. The first 1000 Kurzgesagt viewers
+
+119
+00:11:42,240 --> 00:11:46,080
+to click the link in the description will get a one month free trial of Skillshare.
+
+120
+00:11:46,720 --> 00:11:53,040
+Since we started working with Skillshare, you our viewers have taken over 100,000 hours of classes,
+
+121
+00:11:53,040 --> 00:11:57,760
+including our own three Skillshare classes on how we make our animations. If you want to learn more
+
+122
+00:11:57,760 --> 00:12:03,680
+about motion graphics, give them a try. And if you need an extra little push to get you going,
+
+123
+00:12:03,680 --> 00:12:10,000
+maybe get started with some advice on motivation and inspiration. We liked the scientific method
+
+124
+00:12:10,000 --> 00:12:16,560
+for artists find inspiration, get motivated and grow your creative skills by Kendall Hillegas.
+
+125
+00:12:16,560 --> 00:12:20,880
+In this class, Kendall explains her four phase process for exploring and figuring out your
+
+126
+00:12:20,880 --> 00:12:25,920
+direction as an artist. For us, it was a great way to get into the flow of creating something.
+
+127
+00:12:25,920 --> 00:12:30,880
+But anything that makes you feel excited and sparks new ideas is a great first step.
+
+128
+00:12:30,880 --> 00:12:47,040
+If you want to get creative with new skills and support Kurzgesagt, give it a go.
+

@@ -1,0 +1,376 @@
+1
+00:00:00,000 --> 00:00:07,000
+Every living being needs to fight off other living beings that want to feast on them.
+
+2
+00:00:07,000 --> 00:00:13,000
+So as multicellular life evolved over billions of years, it came up with ways to defend itself.
+
+3
+00:00:13,000 --> 00:00:21,000
+Today, humans have a sophisticated defense network, like physical barriers, defense cells, and weapons factories.
+
+4
+00:00:21,000 --> 00:00:28,000
+But one of the most important defenses of our body is largely unknown, the complement system.
+
+5
+00:00:28,000 --> 00:00:38,000
+It evolved over 700 million years ago, and is an army of over 30 different proteins that work together in a complex and elegant dance to stop intruders.
+
+6
+00:00:38,000 --> 00:00:44,000
+All in all, about 15 quintillion of them are saturating every fluid in your body right now.
+
+7
+00:00:44,000 --> 00:00:51,000
+Guided by nothing but chemistry, these proteins are one of the most effective weapons we have against invaders.
+
+8
+00:00:51,000 --> 00:00:56,000
+Many other parts of the immune system are just tools to activate the complement system.
+
+9
+00:00:56,000 --> 00:01:03,000
+But it's also really dangerous. Imagine having trillions of little bombs inside your blood that could go off at any moment.
+
+10
+00:01:03,000 --> 00:01:10,000
+So our cells use numerous mechanisms to prevent complement from accidentally attacking them.
+
+11
+00:01:10,000 --> 00:01:14,000
+Okay, what exactly does it do, and what makes it so dangerous?
+
+12
+00:01:14,000 --> 00:01:27,000
+In a nutshell, the complement system does three things.
+
+13
+00:01:27,000 --> 00:01:33,000
+It cripples enemies, it activates the immune system, and it rips holes in things until they die.
+
+14
+00:01:33,000 --> 00:01:40,000
+But how? After all, these are mindless proteins randomly drifting around without will or direction.
+
+15
+00:01:40,000 --> 00:01:47,000
+Well, this is actually part of the strategy. Complement proteins float around in a sort of passive mode.
+
+16
+00:01:47,000 --> 00:01:52,000
+They do nothing, until they get activated and change their shape.
+
+17
+00:01:52,000 --> 00:01:57,000
+In the world of proteins, your shape determines what you can and cannot do.
+
+18
+00:01:57,000 --> 00:02:02,000
+Because shape determines what you can interact with and in what way.
+
+19
+00:02:02,000 --> 00:02:06,000
+For example, in your passive shape you might do nothing.
+
+20
+00:02:06,000 --> 00:02:14,000
+In your active shape, however, you might, for example, change the shape of other proteins, activating them so they can activate others.
+
+21
+00:02:14,000 --> 00:02:19,000
+Mechanisms like this one can start cascades that spread very quickly.
+
+22
+00:02:19,000 --> 00:02:25,000
+Imagine the complement proteins as being like millions of matches, very close together.
+
+23
+00:02:25,000 --> 00:02:32,000
+Once one catches fire, it ignites the ones around it, they ignite more, and suddenly you have a big fire.
+
+24
+00:02:32,000 --> 00:02:40,000
+To show the actual mechanisms of the complement system is a tad complicated and overwhelming, so we'll simplify here.
+
+25
+00:02:40,000 --> 00:02:46,000
+Now, let's imagine you cut yourself and a bunch of bacteria enter the wound and make it into the surrounding tissue.
+
+26
+00:02:46,000 --> 00:02:49,000
+Our complement attack begins with C3.
+
+27
+00:02:49,000 --> 00:02:54,000
+C3 is the first match, the initial spark that will start our fire.
+
+28
+00:02:54,000 --> 00:02:58,000
+And to do that, C3 needs to switch from passive to active.
+
+29
+00:02:58,000 --> 00:03:07,000
+How this happens is complex, but let's just say it can happen randomly through other complement proteins that bind to enemies or through antibodies.
+
+30
+00:03:07,000 --> 00:03:15,000
+All you really need to know is that C3 breaks into two smaller proteins, C3a and C3b, that are now activated.
+
+31
+00:03:15,000 --> 00:03:22,000
+One of these parts, the C3b protein, is like a sika missile specialized in bacteria, fungi, and viruses.
+
+32
+00:03:22,000 --> 00:03:27,000
+It has a fraction of a second to find a victim or it will be neutralized by water molecules.
+
+33
+00:03:27,000 --> 00:03:34,000
+If C3b does find a target, it anchors itself very tightly to its surface and doesn't let go.
+
+34
+00:03:34,000 --> 00:03:37,000
+By doing so, the protein changes its shape again.
+
+35
+00:03:37,000 --> 00:03:47,000
+In its new shape, it's now able to grab other proteins and start a small cascade, changing its shape multiple times, adding other complement proteins to itself.
+
+36
+00:03:47,000 --> 00:03:53,000
+Finally, it transforms itself into a recruiting platform known as C3 Convertus.
+
+37
+00:03:53,000 --> 00:03:59,000
+This platform is an expert at activating more C3 proteins that start the whole cycle anew.
+
+38
+00:03:59,000 --> 00:04:02,000
+An amplification loop begins.
+
+39
+00:04:02,000 --> 00:04:05,000
+Soon, thousands of proteins cover the bacteria.
+
+40
+00:04:05,000 --> 00:04:08,000
+For the bacteria, this is very bad.
+
+41
+00:04:08,000 --> 00:04:12,000
+It can cripple the bacteria and make them helpless or slow them down.
+
+42
+00:04:12,000 --> 00:04:15,000
+Imagine being covered by thousands of flies.
+
+43
+00:04:15,000 --> 00:04:16,000
+But there's more.
+
+44
+00:04:16,000 --> 00:04:18,000
+Do you remember the other part of C3?
+
+45
+00:04:18,000 --> 00:04:20,000
+The C3a protein?
+
+46
+00:04:20,000 --> 00:04:23,000
+C3a is like a distress beacon.
+
+47
+00:04:23,000 --> 00:04:27,000
+Thousands of them flood away from the site of battle, screaming for attention.
+
+48
+00:04:27,000 --> 00:04:35,000
+Passive immune cells notice the C3a proteins and awaken from their slumber to follow the protein tracks to the site of infection.
+
+49
+00:04:35,000 --> 00:04:39,000
+The more alarm proteins they encounter, the more aggressive they get.
+
+50
+00:04:39,000 --> 00:04:45,000
+This way, complement guides reinforcements exactly to the place where they're needed the most.
+
+51
+00:04:45,000 --> 00:04:49,000
+So far, the complement has slowed down the invaders and called for help.
+
+52
+00:04:49,000 --> 00:04:53,000
+Now, it's beginning to actively help to kill the enemy.
+
+53
+00:04:53,000 --> 00:04:57,000
+The first immune cells to arrive at the battlefield are phagocytes,
+
+54
+00:04:57,000 --> 00:05:03,000
+which means cells that swallow you whole, trap you in a tiny prison, and then kill you with acid.
+
+55
+00:05:03,000 --> 00:05:06,000
+But to swallow an enemy, they need to grab it first,
+
+56
+00:05:06,000 --> 00:05:11,000
+which is not easy because bacteria prefer not to be grabbed and are sort of slippery.
+
+57
+00:05:11,000 --> 00:05:19,000
+But now the complement that has anchored itself to the bacteria acts as a sort of glue that makes it easy for the immune cells to catch their victims.
+
+58
+00:05:19,000 --> 00:05:21,000
+But it gets even better.
+
+59
+00:05:21,000 --> 00:05:23,000
+Imagine being covered in flies again.
+
+60
+00:05:23,000 --> 00:05:26,000
+Now, imagine them turning into wasps.
+
+61
+00:05:26,000 --> 00:05:29,000
+Another cascade is about to begin.
+
+62
+00:05:29,000 --> 00:05:36,000
+On the surface of the bacteria, the C3 recruitment platform changes its shape again and begins to recruit new proteins.
+
+63
+00:05:36,000 --> 00:05:41,000
+Together, they begin the construction of a bigger structure, a membrane attack complex.
+
+64
+00:05:41,000 --> 00:05:48,000
+Piece by piece, new proteins shaped like long spears anchor themselves deep into the bacteria's membranes,
+
+65
+00:05:48,000 --> 00:05:51,000
+until they rip a hole into them that can't be closed again.
+
+66
+00:05:51,000 --> 00:05:55,000
+Fluids rush into the bacteria and their insides spill out.
+
+67
+00:05:55,000 --> 00:05:57,000
+They bleed to death.
+
+68
+00:05:57,000 --> 00:06:04,000
+The remaining bacteria are maimed and distracted by the complement and quickly taken care of by the arriving immune cells.
+
+69
+00:06:04,000 --> 00:06:09,000
+The invasion has been nipped in the bud before it had the opportunity to become dangerous.
+
+70
+00:06:09,000 --> 00:06:11,000
+You probably didn't even notice it.
+
+71
+00:06:11,000 --> 00:06:19,000
+But while bacteria are not happy about complement, the enemies it might be the most useful against are actually viruses.
+
+72
+00:06:19,000 --> 00:06:21,000
+Viruses have one problem.
+
+73
+00:06:21,000 --> 00:06:23,000
+They need to travel from cell to cell.
+
+74
+00:06:23,000 --> 00:06:29,000
+Outside of cells, they're basically hoping to randomly bump against a cell to infect by pure chance.
+
+75
+00:06:29,000 --> 00:06:32,000
+Here, they're completely defenseless.
+
+76
+00:06:32,000 --> 00:06:40,000
+And here, complement is able to intercept and cripple them so they become harmless and guide the immune system to devour them.
+
+77
+00:06:40,000 --> 00:06:44,000
+Without complement, virus infections would be a lot more deadly.
+
+78
+00:06:44,000 --> 00:06:49,000
+But wait, if we have such an effective weapon, why do we ever get sick?
+
+79
+00:06:49,000 --> 00:06:52,000
+The problem is that in a war, both sides adapt.
+
+80
+00:06:52,000 --> 00:06:59,000
+For example, when the vaccinia virus infects a cell, it forces it to produce a protein that shuts complement activation down.
+
+81
+00:06:59,000 --> 00:07:04,000
+This way, the virus creates safe zones around the cells it infects.
+
+82
+00:07:04,000 --> 00:07:09,000
+When it kills them and tries to infect more, it has a higher chance of being successful.
+
+83
+00:07:09,000 --> 00:07:17,000
+Or some bacteria, for example, can grab certain molecules from the blood that keep the complement system calm and make themselves invisible.
+
+84
+00:07:17,000 --> 00:07:26,000
+So the complement system, while being extremely important, is only one player in the complex and beautiful organization that is our immune system.
+
+85
+00:07:26,000 --> 00:07:32,000
+A beautiful example of how many mindless things can do smart things together.
+
+86
+00:07:34,000 --> 00:07:37,000
+This video was sponsored by you.
+
+87
+00:07:37,000 --> 00:07:41,000
+Without your direct support, this channel would not exist.
+
+88
+00:07:41,000 --> 00:07:44,000
+And it's hard to overstate how grateful we are for that.
+
+89
+00:07:44,000 --> 00:07:50,000
+In 2019, an average Kurzgesagt video took at least 1200 hours to produce.
+
+90
+00:07:51,000 --> 00:08:00,000
+We need months to research and write our scripts, clear them with experts, illustrate and animate every scene from scratch, and to compose original music.
+
+91
+00:08:00,000 --> 00:08:10,000
+This is only possible through a combination of sponsorships, your support on Patreon, and selling merch, like this poster and postcards we made about the complement system.
+
+92
+00:08:10,000 --> 00:08:20,000
+If you yourself want to support us, you can do so by watching, becoming a Patreon, and maybe getting a personal bird, or by getting one of our calendars or posters.
+
+93
+00:08:20,000 --> 00:08:25,000
+The purpose of Kurzgesagt is to make the best videos we can, and to make science more approachable.
+
+94
+00:08:25,000 --> 00:08:28,000
+Thank you so much for making this possible.
+

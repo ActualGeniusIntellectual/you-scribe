@@ -1,0 +1,344 @@
+1
+00:00:00,000 --> 00:00:06,000
+An ant is pretty stupid. It doesn't have much of a brain, no will, no plan.
+
+2
+00:00:06,000 --> 00:00:10,000
+And yet, many ants together are smart.
+
+3
+00:00:10,000 --> 00:00:14,000
+An ant colony can construct complex structures.
+
+4
+00:00:14,000 --> 00:00:19,000
+Some colonies keep farms of fungi, others take care of cattle.
+
+5
+00:00:19,000 --> 00:00:22,000
+They can wage war or defend themselves.
+
+6
+00:00:22,000 --> 00:00:28,000
+How is this possible? How can a bunch of stupid things do smart things together?
+
+7
+00:00:28,000 --> 00:00:36,000
+This phenomenon is called emergence, and it's one of the most fascinating and mysterious features of our universe.
+
+8
+00:00:36,000 --> 00:00:44,000
+In a nutshell, it describes small things forming bigger things that have different properties than the sum of their parts.
+
+9
+00:00:44,000 --> 00:00:48,000
+Emergence is complexity arising from simplicity.
+
+10
+00:00:48,000 --> 00:00:52,000
+And emergence is everywhere.
+
+11
+00:00:59,000 --> 00:01:06,000
+Water has vastly different properties to the molecules that make it up, like the concept of wetness.
+
+12
+00:01:06,000 --> 00:01:15,000
+Take wet fabric. If you zoom in far enough, there is no wetness, there are just molecules sitting in the spaces between the atoms of the cloth.
+
+13
+00:01:15,000 --> 00:01:24,000
+Wetness is an emerging property of water, something new only created by a lot of individual interactions between water molecules.
+
+14
+00:01:25,000 --> 00:01:33,000
+And this is sort of it. Many things interact under a certain set of rules, creating something above and beyond themselves.
+
+15
+00:01:33,000 --> 00:01:36,000
+It turns out that more is different.
+
+16
+00:01:36,000 --> 00:01:43,000
+This different property is itself a new thing, and that new thing can couple with other new things to repeat the process.
+
+17
+00:01:43,000 --> 00:01:49,000
+You can imagine this as layers stacked upon each other, every layer made from more complex parts.
+
+18
+00:01:50,000 --> 00:02:02,000
+Atoms form molecules, molecules form proteins, proteins make up cells, cells make up organs, organs form individuals, individuals form societies.
+
+19
+00:02:02,000 --> 00:02:05,000
+But how can something be more than the sum of its parts?
+
+20
+00:02:05,000 --> 00:02:10,000
+How do ants form the sort of cloudy entity that is a colony?
+
+21
+00:02:10,000 --> 00:02:14,000
+By following a rule set that produces order through chaos.
+
+22
+00:02:14,000 --> 00:02:18,000
+For example, let's look at how an ant colony distributes jobs.
+
+23
+00:02:18,000 --> 00:02:27,000
+Let's assume that a colony should have 25% workers, 25% caretakers, 25% soldiers, and 25% gatherers.
+
+24
+00:02:27,000 --> 00:02:30,000
+Ants communicate their current job via chemicals.
+
+25
+00:02:30,000 --> 00:02:35,000
+For example, a worker ant constantly secretes chemicals that say, I'm a worker.
+
+26
+00:02:35,000 --> 00:02:42,000
+When ants meet other ants, they smell each other to gather information, telling each other their job and what they're doing.
+
+27
+00:02:42,000 --> 00:02:45,000
+Both keep track of who they met in the past.
+
+28
+00:02:45,000 --> 00:02:49,000
+Now, imagine an anteater kills most of the gatherers.
+
+29
+00:02:49,000 --> 00:02:52,000
+If this isn't fixed quickly, the colony will starve.
+
+30
+00:02:52,000 --> 00:02:58,000
+Many worker ants need to switch jobs, but how do you tell this to thousands of them?
+
+31
+00:02:58,000 --> 00:03:00,000
+Simple, you don't.
+
+32
+00:03:00,000 --> 00:03:07,000
+Our worker ant will still meet and smell other ants, but it will encounter almost no gatherers at all.
+
+33
+00:03:07,000 --> 00:03:13,000
+It counts too few gatherers until it reaches a critical point and then it changes its job.
+
+34
+00:03:13,000 --> 00:03:15,000
+The worker becomes a gatherer.
+
+35
+00:03:15,000 --> 00:03:20,000
+Other ants will do the same until after a while there are enough gatherers again.
+
+36
+00:03:20,000 --> 00:03:23,000
+The balance is restored all by itself.
+
+37
+00:03:23,000 --> 00:03:27,000
+The actions and interactions of an individual are random.
+
+38
+00:03:27,000 --> 00:03:30,000
+You can't plan which ant will encounter which other ant.
+
+39
+00:03:30,000 --> 00:03:37,000
+But the simple set of rules is so elegant that a colony's many operations emerge as a consequence.
+
+40
+00:03:37,000 --> 00:03:45,000
+On an even more fundamental level, hundreds of millions of complicated molecules interact to maintain a robust and amazing structure.
+
+41
+00:03:45,000 --> 00:03:50,000
+A being with vastly different properties than the sum of its dead parts emerges.
+
+42
+00:03:50,000 --> 00:03:53,000
+The smallest unit of life, a cell.
+
+43
+00:03:53,000 --> 00:04:00,000
+We still don't have a clear definition of what living things are, we just know they emerge from things that are not alive.
+
+44
+00:04:00,000 --> 00:04:03,000
+Cells combine and cooperate.
+
+45
+00:04:03,000 --> 00:04:11,000
+They specialize and respond to one another and over time we develop into complex organisms with remarkable capacities.
+
+46
+00:04:11,000 --> 00:04:20,000
+Your arms and legs and heart are an incredibly complex and complicated system made of trillions of individual stupid things.
+
+47
+00:04:20,000 --> 00:04:25,000
+And yet we breathe, digest and watch YouTube videos.
+
+48
+00:04:25,000 --> 00:04:28,000
+How do your cells know what to do?
+
+49
+00:04:28,000 --> 00:04:31,000
+Think of the pacemaker cells in your heart.
+
+50
+00:04:31,000 --> 00:04:37,000
+Billions of them need to send out an impulse just at the right moment to collectively create a heartbeat.
+
+51
+00:04:37,000 --> 00:04:44,000
+Our cells exchange chemical information with their neighbor cells to see what they're up to and then decide what to do.
+
+52
+00:04:44,000 --> 00:04:51,000
+If it's among a lot of cells that are working on the same task, it will start working on that task as well and sync up with them.
+
+53
+00:04:51,000 --> 00:05:00,000
+There is no mastermind giving commands, just single units communicating with their neighbors and acting according to the feedback they get.
+
+54
+00:05:00,000 --> 00:05:07,000
+What about our most important part? What is the thing that asks these kinds of questions?
+
+55
+00:05:07,000 --> 00:05:12,000
+Is our consciousness then an emergent property of the cells in our brain?
+
+56
+00:05:12,000 --> 00:05:18,000
+This question is too big and important, it deserves a video of its own.
+
+57
+00:05:18,000 --> 00:05:21,000
+Some things that emerge are hard to define.
+
+58
+00:05:21,000 --> 00:05:25,000
+You can't touch an ant colony, only its parts.
+
+59
+00:05:25,000 --> 00:05:28,000
+It has neither brain nor face nor body.
+
+60
+00:05:28,000 --> 00:05:31,000
+And yet the colony interacts with the world.
+
+61
+00:05:31,000 --> 00:05:38,000
+Just like colonies emerge from ants, things emerge from humans, like nations.
+
+62
+00:05:38,000 --> 00:05:40,000
+What actually is a nation?
+
+63
+00:05:40,000 --> 00:05:41,000
+Is it its population?
+
+64
+00:05:41,000 --> 00:05:43,000
+Is it its institutions?
+
+65
+00:05:43,000 --> 00:05:47,000
+Its symbols like its flag, colors or anthems?
+
+66
+00:05:47,000 --> 00:05:50,000
+The physical things it makes like cities?
+
+67
+00:05:50,000 --> 00:05:52,000
+The territory it occupies?
+
+68
+00:05:52,000 --> 00:05:55,000
+All of these things are fluid.
+
+69
+00:05:55,000 --> 00:05:58,000
+Populations change and are replaced.
+
+70
+00:05:58,000 --> 00:06:03,000
+Institutions come and go, cities can be constructed and abandoned.
+
+71
+00:06:03,000 --> 00:06:06,000
+Borders have changed all the time for most of history.
+
+72
+00:06:06,000 --> 00:06:10,000
+And symbols get replaced by new symbols.
+
+73
+00:06:10,000 --> 00:06:15,000
+A nation has no face, no brain, no body.
+
+74
+00:06:15,000 --> 00:06:17,000
+Are nations not real then?
+
+75
+00:06:17,000 --> 00:06:18,000
+Of course they are.
+
+76
+00:06:18,000 --> 00:06:22,000
+Just like ant colonies, nations interact with the world.
+
+77
+00:06:22,000 --> 00:06:28,000
+They can change landscapes, wage wars, grow or decline and they can stop existing.
+
+78
+00:06:28,000 --> 00:06:33,000
+But they only exist because of a lot of humans interacting with each other.
+
+79
+00:06:33,000 --> 00:06:35,000
+But not just nations.
+
+80
+00:06:35,000 --> 00:06:39,000
+All the complex structures that surround us emerge from us.
+
+81
+00:06:39,000 --> 00:06:43,000
+Even if we don't intend to, we are constantly creating.
+
+82
+00:06:43,000 --> 00:06:48,000
+Communities, companies, cities, societies.
+
+83
+00:06:48,000 --> 00:06:56,000
+All of these things are entities that have fundamentally different properties and abilities than the pretty stupid apes they emerged from.
+
+84
+00:06:56,000 --> 00:06:58,000
+We don't know why any of this happens.
+
+85
+00:06:58,000 --> 00:07:03,000
+We just observe it and it seems to be a fundamental property of our universe.
+
+86
+00:07:03,000 --> 00:07:08,000
+It may be the most beautiful and wondrous property of our universe.
+

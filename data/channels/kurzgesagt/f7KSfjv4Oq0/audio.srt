@@ -1,0 +1,368 @@
+1
+00:00:00,000 --> 00:00:06,560
+Let's start this video by throwing a mouse, a dog, and an elephant from a skyscraper onto something soft.
+
+2
+00:00:06,560 --> 00:00:08,560
+Let's say, a stack of mattresses.
+
+3
+00:00:08,560 --> 00:00:14,240
+The mouse lands and is stunned for a moment before it shakes itself off and walks away pretty annoyed,
+
+4
+00:00:14,240 --> 00:00:16,240
+because that's a very rude thing to do.
+
+5
+00:00:16,240 --> 00:00:20,160
+The dog breaks all of its bones and dies in an unspectacular way,
+
+6
+00:00:20,160 --> 00:00:26,080
+and the elephant explodes into a red puddle of bones and insides and has no chance to be annoyed.
+
+7
+00:00:26,320 --> 00:00:30,080
+Why does the mouse survive, but the elephant and dog don't?
+
+8
+00:00:30,080 --> 00:00:32,640
+The answer is size.
+
+9
+00:00:32,640 --> 00:00:36,640
+Size is the most underappreciated regulator of living things.
+
+10
+00:00:36,640 --> 00:00:43,440
+Size determines everything about our biology, how we're built, how we experience the world, how we live and die.
+
+11
+00:00:43,440 --> 00:00:48,160
+It does so because the physical laws are different for different-sized animals.
+
+12
+00:00:48,560 --> 00:00:59,360
+Life spans seven orders of magnitude, from invisible bacteria to mites, ants, mice, dogs, humans, elephants, and blue whales.
+
+13
+00:00:59,360 --> 00:01:07,120
+Every size lives in its own unique universe right next to each other, each with its own rules, upsides, and downsides.
+
+14
+00:01:07,120 --> 00:01:11,040
+We'll explore these different worlds in a series of videos.
+
+15
+00:01:11,040 --> 00:01:13,280
+Let's get back to the initial question.
+
+16
+00:01:13,280 --> 00:01:16,960
+Why did our mouse survive the fall?
+
+17
+00:01:16,960 --> 00:01:23,120
+Because of how scaling size changes everything, a principle that we'll meet over and over again.
+
+18
+00:01:23,120 --> 00:01:27,280
+Very small things, for example, are practically immune to falling from great heights,
+
+19
+00:01:27,280 --> 00:01:32,080
+because the smaller you are, the less you care about the effect of gravity.
+
+20
+00:01:32,080 --> 00:01:35,920
+Imagine a theoretical spherical animal the size of a marble.
+
+21
+00:01:35,920 --> 00:01:41,520
+It has three features, its length, its surface area, which is covered in skin, and its volume,
+
+22
+00:01:41,520 --> 00:01:46,480
+or all the stuff inside it like organs, muscles, hopes, and dreams.
+
+23
+00:01:46,480 --> 00:01:53,360
+If we make it ten times longer, say the size of a basketball, the rest of its features don't just grow ten times.
+
+24
+00:01:53,360 --> 00:02:00,560
+Its skin will grow one hundred times, and its insides, or its volume, grows by one thousand times.
+
+25
+00:02:00,560 --> 00:02:05,440
+The volume determines the weight, or more accurately, mass of the animal.
+
+26
+00:02:05,440 --> 00:02:11,680
+The more mass you have, the higher your kinetic energy before you hit the ground, and the stronger the impact shock.
+
+27
+00:02:11,760 --> 00:02:15,200
+The more surface area in relation to your volume or mass you have,
+
+28
+00:02:15,200 --> 00:02:21,520
+the more the impact gets distributed and softened, and also the more air resistance will slow you down.
+
+29
+00:02:21,520 --> 00:02:26,320
+An elephant is so big that it has extremely little surface area in ratio to its volume,
+
+30
+00:02:26,320 --> 00:02:32,000
+so a lot of kinetic energy gets distributed over a small space, and the air doesn't slow it down much at all.
+
+31
+00:02:32,000 --> 00:02:38,000
+That's why it's completely destroyed in an impressive explosion of goo when it hits the ground.
+
+32
+00:02:38,000 --> 00:02:42,880
+The other extreme, insects, have a huge surface area in relation to their tiny mass,
+
+33
+00:02:42,880 --> 00:02:47,840
+so you can literally throw an ant from an airplane, and it will not be seriously harmed.
+
+34
+00:02:47,840 --> 00:02:52,640
+But while falling is irrelevant in the small world, there are other forces that are harmless for us,
+
+35
+00:02:52,640 --> 00:02:55,600
+but extremely dangerous for small beings.
+
+36
+00:02:55,600 --> 00:03:01,040
+Like surface tension, which turns water into a potentially deadly substance for insects.
+
+37
+00:03:01,040 --> 00:03:05,200
+How does it work? Water has the tendency to stick to itself.
+
+38
+00:03:05,200 --> 00:03:08,880
+Its molecules are attracted to each other through a force called cohesion,
+
+39
+00:03:08,880 --> 00:03:14,240
+which creates a tension on its surface that you can imagine as a sort of invisible skin.
+
+40
+00:03:14,240 --> 00:03:18,080
+For us, this skin is so weak that we don't even notice it normally.
+
+41
+00:03:18,080 --> 00:03:23,920
+If you get wet, about 800 grams of water or about 1% of your body weight sticks to you.
+
+42
+00:03:23,920 --> 00:03:30,160
+A wet mouse has about 3 grams of water sticking to it, which is more than 10% of its body weight.
+
+43
+00:03:30,160 --> 00:03:34,720
+Imagine having eight full water bottles sticking to you when you leave the shower.
+
+44
+00:03:34,720 --> 00:03:38,320
+But for an insect, the force of water's surface tension is so strong
+
+45
+00:03:38,320 --> 00:03:41,840
+that getting wet is a question of life and death.
+
+46
+00:03:41,840 --> 00:03:44,960
+If we were to shrink you to the size of an ant, and you touch water,
+
+47
+00:03:44,960 --> 00:03:47,520
+it would be like you were reaching into glue.
+
+48
+00:03:47,520 --> 00:03:53,040
+It would quickly engulf you, its surface tension too hard for you to break, and you'd drown.
+
+49
+00:03:53,040 --> 00:03:56,400
+So insects evolved to be water repellent.
+
+50
+00:03:56,400 --> 00:04:01,440
+For one, their exoskeleton is covered with a thin layer of wax, just like a car.
+
+51
+00:04:01,440 --> 00:04:07,040
+This makes their surface at least partly water repellent because it can't stick to it very well.
+
+52
+00:04:07,040 --> 00:04:11,440
+Many insects are also covered with tiny hairs that serve as a barrier.
+
+53
+00:04:11,440 --> 00:04:16,400
+They vastly increase their surface area and prevent the droplets from touching their exoskeleton
+
+54
+00:04:16,400 --> 00:04:19,360
+and make it easier to get rid of droplets.
+
+55
+00:04:19,360 --> 00:04:25,600
+To make use of surface tension, evolution cracked nanotechnology billions of years before us.
+
+56
+00:04:25,600 --> 00:04:28,480
+Some insects have evolved a surface covered by a short
+
+57
+00:04:28,480 --> 00:04:31,840
+and extremely dense coat of water-repelling hair.
+
+58
+00:04:31,840 --> 00:04:35,520
+Some have more than a million hairs per square millimeter.
+
+59
+00:04:35,520 --> 00:04:40,880
+When the insect dives underwater, air stays inside their fur and forms a coat of air.
+
+60
+00:04:40,880 --> 00:04:44,960
+Water can't enter because the hairs are too tiny to break its surface tension.
+
+61
+00:04:44,960 --> 00:04:46,560
+But it gets even better.
+
+62
+00:04:46,560 --> 00:04:49,040
+As the oxygen of the air bubble runs out,
+
+63
+00:04:49,040 --> 00:04:52,000
+new oxygen diffuses into the bubble from the water around it,
+
+64
+00:04:52,000 --> 00:04:55,840
+while the carbon dioxide diffuses outwards into the water.
+
+65
+00:04:55,840 --> 00:04:58,960
+And so the insect carries its own outside lung around
+
+66
+00:04:58,960 --> 00:05:02,640
+and can basically breathe underwater thanks to surface tension.
+
+67
+00:05:02,640 --> 00:05:06,960
+This is the same principle that enables pond skaters to walk on water, by the way.
+
+68
+00:05:06,960 --> 00:05:09,680
+Tiny anti-water hairs.
+
+69
+00:05:09,680 --> 00:05:12,640
+The smaller you get, the weirder the environment becomes.
+
+70
+00:05:12,640 --> 00:05:16,400
+At some point, even air becomes more and more solid.
+
+71
+00:05:16,400 --> 00:05:19,120
+Let's now zoom down to the smallest insects known,
+
+72
+00:05:19,120 --> 00:05:24,080
+about half the size of a grain of salt, only 0.15 millimeters long.
+
+73
+00:05:24,080 --> 00:05:24,960
+The fairy fly.
+
+74
+00:05:25,840 --> 00:05:28,800
+They live in a world even weirder than other insects.
+
+75
+00:05:28,800 --> 00:05:31,600
+For them, air itself is like thin jello,
+
+76
+00:05:31,600 --> 00:05:33,920
+a syrup-like mass surrounding them at all times.
+
+77
+00:05:34,800 --> 00:05:36,400
+Movement through it is not easy.
+
+78
+00:05:36,960 --> 00:05:39,920
+Flying on this level is not like elegant gliding.
+
+79
+00:05:39,920 --> 00:05:42,000
+They have to kind of grab and hold onto air.
+
+80
+00:05:42,720 --> 00:05:46,800
+So their wings look like big hairy arms rather than proper insect wings.
+
+81
+00:05:47,680 --> 00:05:51,680
+They literally swim through the air like a tiny gross alien through syrup.
+
+82
+00:05:52,400 --> 00:05:54,560
+Things only become stranger from here on
+
+83
+00:05:54,560 --> 00:05:57,280
+as we explore more universes of different sizes.
+
+84
+00:05:57,920 --> 00:06:00,720
+The physical rules are so different for each size
+
+85
+00:06:00,720 --> 00:06:03,840
+that evolution had to engineer around them over and over
+
+86
+00:06:03,840 --> 00:06:06,320
+as life grew in size in the last billion years.
+
+87
+00:06:07,120 --> 00:06:09,760
+So why are there no ants the size of horses?
+
+88
+00:06:10,640 --> 00:06:12,560
+Why no elephants the size of amoeba?
+
+89
+00:06:13,440 --> 00:06:14,400
+Why?
+
+90
+00:06:14,400 --> 00:06:16,080
+We'll discuss this in the next part.
+
+91
+00:06:18,080 --> 00:06:19,840
+We have a monthly newsletter now.
+
+92
+00:06:19,840 --> 00:06:24,560
+Sign up if you don't want to miss new videos and for bonus videos.
+

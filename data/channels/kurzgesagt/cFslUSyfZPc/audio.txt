@@ -1,0 +1,117 @@
+Black holes can destroy everything. But can they be destroyed?
+What happens if we push physics to the absolute limit, maybe even breaking it and the universe in the process?
+Let's create a tiny black hole about the mass of our moon in the Kurzgesagt labs and try to rip it apart.
+Experiment 1. Nuke it.
+Big booms break things, so to set the mood, let's explode the world's entire nuclear arsenal around our black hole.
+Boom. Black holes swallow whatever crosses their event horizon, matter and energy.
+And since E equals mc2, all the energy that enters a black hole increases its mass.
+The mass of a black hole is proportional to its size, so as we nuke our tiny black hole, it just gets bigger and more massive.
+Experiment 2. Antimatter.
+Matter and antimatter annihilate each other. What will happen if we throw a moon's mass of antimatter at it?
+Unfortunately, when an object enters a black hole, the black hole will completely delete its past identity, whether it's made of matter or of antimatter.
+Black holes only care about gravity, which only depends on the total mass energy of an object.
+And the mass of a particle is the same as its corresponding antiparticle, so throwing an antimoon has the same effect as throwing a moon.
+The black hole just gets more massive.
+This deleting ability of black holes is pretty interesting.
+It means that despite their size and power, black holes are, in a way, similar to elementary particles.
+An elementary particle like an electron is an extremely simple object, fully specified by just three numbers, its mass, spin and charge.
+And, amazingly, the same is true for black holes. They have a mass, they can rotate and carry an electric charge.
+Once a black hole forms, it doesn't matter if it comes from a collapsed star, an anti-star or a banana, it will always be fully described by those three numbers, nothing else.
+But if a black hole is basically a weird particle, could we destroy it with an anti-black hole?
+Experiment 3. Anti-black hole.
+How exciting! A particle has the same mass as its corresponding antiparticle, but opposite charge.
+Since a black hole has mass and electric charge, its corresponding anti-black hole should have the same mass and opposite electric charge.
+What if we make them collide?
+Sadly, the charge will just add up and cancel out.
+So, after the collision, we'll just get a new black hole twice as massive with no charge.
+Okay, we need to think bigger and stretch physics harder.
+Experiment 4. Destroy the event horizon.
+It's true that a black hole can carry spin and charge, but even for these crazy objects, there are limits.
+If the spin or the charge of a black hole becomes too large, something really weird will happen. The event horizon will dissolve.
+In a simplified way, we think of black holes as hiding a singularity inside, an infinitely compressed mass with such strong gravity that absolutely nothing can escape from its surroundings, not even light.
+This is why a black hole looks like a black sphere of nothingness.
+The event horizon is the outer edge of this ultimate prism. Cross it, and you'll never be able to come back.
+But when a black hole rotates, it works a bit like a spinning washing machine.
+It's as if the rotation wants to repel nearby objects and push them out of the black hole, which doesn't happen because its gravity is so strong.
+But, if the rotation gets too fast, this effect will win and the event horizon will disappear.
+Nearby objects won't be imprisoned forever anymore.
+The same thing happens with the electric charge. Make it too large, and our ironclad jail will break open.
+If we manage to destroy the event horizon, the singularity would still be there, and objects would still naturally fall towards it.
+If you hit it, you would still die horribly and quickly.
+But the vicinity of the singularity won't be an inescapable prison anymore. You could get as close as you want and come back.
+This should count as destroying the black hole. Can we do it?
+All we have to do is to overcharge or overspin the black hole.
+We could do this by throwing objects with a small mass and a lot of charge or angular momentum so that the charge or spin increases faster than the mass.
+We have to overfeed the black hole until it reaches the point where it breaks open.
+However, whether you can actually do this is the subject of passionate argument among physicists.
+Think of a charged black hole.
+Equal charges repel each other, and the more of the same charges you squish together, the more they push back.
+So let's say that we have a negatively charged black hole and we want to overfeed it with electrons, for example, whose charge is far larger than its mass.
+The electrons will feel an electrostatic repulsion, and the more electrons we throw, the larger the negative charge of the black hole will be and the stronger the repulsion.
+But once we reach the upper limit, the electrostatic repulsion will be so strong that it won't allow any more electrons to come in.
+At this point, the black hole will refuse to be overfed.
+With the spin, it's similar. Once the black hole reaches its upper limit, it won't gobble more spin.
+But some scientists have discovered what looks like a loophole.
+If an instant before the black hole reaches the limit, we throw the right amount of matter in in just the right way, it looks like we could actually overfeed it.
+Most scientists are skeptical, but let's give it a try anyway.
+The end. Breaking physics.
+There is a catch, though. The event horizon of a black hole hides the singularity.
+So destroying the horizon would leave us with a naked singularity, one that is not hidden by an event horizon.
+And this poses a problem. It could mean the end of physics as we know it.
+There's a big dirty secret about black holes. Contrary to widespread belief, the singularity of a black hole is not really at its center.
+No. It's in the future of whatever crosses the horizon.
+Black holes warp the universe so drastically that at the event horizon, space and time switch their roles.
+Once you cross it, falling towards the center means going towards the future.
+That's why you can't escape.
+Stopping your fall and turning back would be just as impossible as stopping time and traveling to the past.
+So the singularity is actually in your future, not in front of you.
+And just like you can't see your own future, you won't see the singularity until you hit it.
+But you also can't hit something that's in your future, only sort of experience it, like you'll experience your next birthday when it happens.
+Singularities that are in the future are not a problem because we can't see them or interact with them.
+But a naked singularity would be in front of us for all of us to see. What would we see?
+Well, the whole point is that it's impossible to know.
+A singularity is a region of infinite gravity and gravity is the bending of space-time.
+At a singularity, the bending is so radical that the fabric of space-time is literally broken.
+Space and time don't exist anymore.
+This means that you can't predict anything since predicting means making a forecast about where and when something will happen.
+But where and when have lost their meaning.
+So we have an unpredictable thing with infinite gravity and therefore infinite energy.
+This means that anything could come out of it for no reason, from a pile of bananas to lost socks or a solar system.
+Predictability, causality, and physics as we know it would break down.
+We think that singularities should exist in nature because we can prove that under very general conditions, gravitational collapse leads to the formation of singularities.
+However, scientists think that nature forbids the formation of naked singularities.
+Something enforces the creation of an event horizon around them to prevent their insanity from infecting the rest of the universe.
+Without event horizons, physics may not make sense at all.
+So although black holes have been portrayed as the ultimate monsters of the universe, they may actually be the heroes that keep us safe from the madness of singularities.
+So if we do destroy the horizon, we might destroy the fundamental rules of the universe.
+You know what? Let's not do that.
+As far as we know, there's just one safe method to destroy a black hole.
+All black holes emit tiny particles, a phenomenon called Hawking radiation.
+This process causes them to slowly lose mass until they eventually evaporate, leaving behind no horizon and no naked singularity.
+The time it takes for a black hole to completely evaporate depends on its mass.
+For our mini black hole, the size of a speck of dust, it will be about 10 to the power of 44 years.
+10 billion, trillion, trillion times the present age of the universe.
+So is it possible to destroy a black hole?
+Yes, we just have to wait.
+But you don't have to wait that long.
+There are plenty of fascinating things to explore right here on this planet right now, if you have the knowledge to understand them.
+To help you with that, we've created a series of lessons to take your scientific knowledge to the next level.
+Made in collaboration with our friends at Brilliant.org, these lessons give you a deeper understanding of the topics from our most popular videos,
+from rabies and mammalian metabolism to climate science and supernovas.
+There's even a lesson on black holes where you can delve into the fundamental principles behind their behavior and life cycle.
+Brilliant is the best way to master key concepts in everything from maths and science to computer science and beyond.
+Just set your goal and Brilliant designs the perfect path and equips you with the right tools to reach it.
+Brilliant has thousands of lessons to explore and each one is interactive like a one-on-one version of a Kurzgesagt video.
+Their latest course, Exploring Data Visually, will teach you everything you need and nothing you don't to start your journey in data science.
+No coding skills required.
+You'll analyze real data sets like one about Starbucks and learn the skills to draw insights for yourself.
+In a world overflowing with information, data skills are becoming essential in virtually every field.
+Brilliant is the perfect place to start learning them.
+To get hands-on with Kurzgesagt lessons and explore everything Brilliant has to offer,
+you can start your free 30-day trial by signing up at Brilliant.org slash nutshell.
+There's even an extra perk for Kurzgesagt viewers.
+The first 200 people to use the link get 20% off an annual membership once their trial ends.
+We love seeing how the gears interlock with our research.
+Brilliant gives you the tools to understand how everything fits together.
+Brilliant is the perfect place to start your journey in data science.
+Brilliant is the perfect place to start your journey in data science.

@@ -1,0 +1,95 @@
+start	end	text
+0	5440	So, have you ever wondered who actually invented the internet?
+5440	9880	Some people have become zillionaires thanks to the internet, but all they did was invent
+9880	12340	clever ways of using the internet.
+12340	17760	So the person who invented the internet should be a gazillionaire equivalent to say God,
+17760	18760	shouldn't they?
+18760	21040	Who should get the credit then?
+21040	23640	Was it a British geek in a Swiss underground lab?
+23640	24640	Maybe.
+24640	28360	Clever Americans threatened with nuclear annihilation by the Russians?
+28360	29680	Nice idea.
+29720	35120	Or was it French scientists who decided to call their computer network the l'internet?
+35120	36120	Interesting.
+36120	41080	Or was it thanks to a myriad of smart scientists working on something they knew was useful
+41080	44440	but didn't realize would be so big?
+51440	54040	Well, let's try and get some facts straight.
+54040	58400	There's the internet, a whole bunch of computer networks connected to each other, and then
+58440	64060	there's the World Wide Web, a way of making it easier to share information using all those
+64060	66260	interconnected computers.
+66260	70980	The internet as we know it today was at least 40 years in the making.
+70980	76640	One popular but wrong story is that the internet was developed by the USA, so they had a communication
+76640	80000	network that would survive a nuclear war.
+80000	84680	According to one of the founders of the first network, the ARPANET, in the 1960s, this first
+84680	89880	network experiment wasn't about communication at all, it was about optimizing processor
+89880	94840	usage or timesharing, which basically meant that scientists could share computer power
+94840	95920	too.
+95920	100600	That was because until the 1960s, there was basically no network, you had big machines
+100600	106380	called mainframes, which sat in a room and processed computing tasks one at a time.
+106380	110840	With timesharing, these behemoths could process several tasks at a time, which meant their
+110840	114640	power could be used by several scientists at once.
+114640	119360	And obviously, once you start connecting computers together, you start to wonder about
+119360	124240	what you need to do to make communications between them easier.
+124240	127220	Scientists around the world were trying to solve this problem.
+127220	131960	So let's look at some of the other key concepts that were developed elsewhere.
+131960	133680	Starting with packet switching.
+133680	138000	In Britain, there was a commercial network developed by the National Physical Laboratory,
+138000	141920	but which never really got off the ground because it didn't get funding.
+142040	147040	They did come up with the idea of packet switching, a way of avoiding congestion in busy networks
+147040	151600	by cutting up data at one end and putting it back together at the other.
+151600	153680	The French also played a role.
+153680	158080	They were working on a scientific network called Cyclades, but they didn't have a big
+158080	163460	budget, so they decided to work on direct connections between computers as opposed to
+163460	166000	working with gateway computers.
+166000	171440	Now as an aside here, this admittedly isn't very scientific, but according to one theory,
+171440	175640	a spin-off of their research was the word Antacnet.
+175640	178560	But you don't have to believe it if you don't want to.
+178560	181000	So now it's the early 1970s.
+181000	185440	There's quite a lot of computer infrastructure, but communication is awkward and patchy because
+185440	188480	different networks can't talk to each other.
+188480	191400	TCP IP solves this problem.
+191400	196480	The TCP IP protocols form the basic communication language of the internet, which labels the
+196480	201240	packets of data and makes sure that even though some pieces of the same data take a different
+201240	206260	route, they all arrive at their destination and can be reassembled.
+206260	210160	Networks really began communicating with each other in 1975.
+210160	213680	So you could argue that was the beginning of the internet.
+213680	215380	Email was also very important.
+215380	218720	It was developed for ARPANET in 1972.
+218720	224320	Most internet traffic in 1976 was email, because academics thought electronic post-it notes
+224320	226220	were dead cool.
+226220	230780	With networks that could talk to each other, communication was becoming easier.
+230820	236500	But all this communication was just text-based, and it was pretty ugly to look at.
+236500	241700	In the 1980s, a brick called Timothy Berners-Lee spent time with CERN, the European Organization
+241700	246900	for Nuclear Research, where physicists are trying to work out what the universe is made
+246900	247900	of.
+247900	252100	He wanted to manage the scientists' information and make it possible for them to share and
+252100	256580	interconnect their work easily, making progress more likely.
+256580	263180	He did so by inventing an interface using HTTP, HTML, and URLs that made internet browsers
+263180	264300	possible.
+264300	267260	He called his browser the World Wide Web.
+267260	272240	So he didn't invent the internet, but he did invent the web.
+272240	278060	The first ever website which he created was at CERN in France in August 1991.
+278060	283060	So once the initial infrastructure was in place, the key technologies had been invented,
+283060	287420	internet message boards exploded in the 1980s, the phone companies saw the commercial potential
+287420	292720	of digital communication, web browsers spread like wildfire in the early 1990s, and ordinary
+292720	294420	people discovered email.
+294420	299940	Then, the internet expanded rapidly and steadily and became workable for the masses from about
+299940	300940	1995.
+300940	306260	Hold on, didn't US Vice President Al Gore invent the internet?
+306260	307520	Ah, no.
+307520	312200	And if you read what he said exactly, you'd know he never claimed to have done.
+312200	317020	But many people credit him with energetically pushing legislation that encouraged the spread
+317020	318900	of the internet.
+318900	325040	The internet exists because we need to communicate, and most of us like doing it.
+325040	329020	That's why humans have become the dominant species on Earth.
+329020	334880	You could argue that the internet is a natural evolutionary step and a manifestation of that
+334880	336320	need.
+336320	340680	It wasn't invented by anyone in particular, but when the building blocks were put together
+340680	345660	by all those cool scientists from all over the place, the internet became a communication
+345660	352460	tool, a retail tool, a research tool, a propaganda tool, a spying tool, a shopping tool, a dating
+352460	356820	tool, an entertainment tool, and a way of skiving off work while making it look like
+356820	360460	you're working or studying, which is what you may be doing now.
+360460	365300	Ultimately though, you're communicating, especially if you leave a comment, and that
+365300	367180	might make you a better human being.
+370680	371680	Thanks for watching.
+371680	371700	I'll see you next time.

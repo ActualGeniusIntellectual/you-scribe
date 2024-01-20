@@ -1,0 +1,692 @@
+WEBVTT
+
+00:00.000 --> 00:05.880
+Imagine you were alive back in the 1980s, and were told that computers would soon take
+
+00:05.880 --> 00:10.820
+over everything, from shopping, to dating, and the stock market.
+
+00:10.820 --> 00:14.640
+That billions of people would be connected via a kind of web.
+
+00:14.640 --> 00:20.080
+That you would own a handheld device, orders of magnitude more powerful than supercomputers.
+
+00:20.080 --> 00:24.080
+It would seem absurd, but then all of it happened.
+
+00:24.080 --> 00:28.440
+Science fiction became our reality, and we don't even think about it.
+
+00:28.440 --> 00:31.780
+We're at a similar point today with genetic engineering.
+
+00:31.780 --> 00:33.920
+So let's talk about it.
+
+00:33.920 --> 00:38.480
+Where it came from, what we're doing right now, and about a recent breakthrough that
+
+00:38.480 --> 00:43.120
+will change how we live and what we perceive as normal forever.
+
+00:43.120 --> 01:00.120
+Humans have been engineering life for thousands of years.
+
+01:00.120 --> 01:04.720
+Through selective breeding, we strengthened useful traits in plants and animals.
+
+01:04.720 --> 01:09.760
+We became very good at this, but never truly understood how it works, until we discovered
+
+01:09.760 --> 01:14.360
+the code of life, deoxyribonucleic acid, DNA.
+
+01:14.360 --> 01:18.720
+A complex molecule that guides the growth, development, function, and reproduction of
+
+01:18.720 --> 01:20.680
+everything alive.
+
+01:20.680 --> 01:23.920
+Information is encoded in the structure of the molecule.
+
+01:23.920 --> 01:28.860
+Four nucleotides are paired and make up a code that carries instructions.
+
+01:28.860 --> 01:32.800
+Change the instructions, and you change the being carrying it.
+
+01:32.800 --> 01:36.560
+As soon as DNA was discovered, people tried to tinker with it.
+
+01:36.560 --> 01:41.760
+In the 1960s, scientists bombarded plants with radiation to cause random mutations in
+
+01:41.760 --> 01:43.360
+the genetic code.
+
+01:43.360 --> 01:47.300
+The idea was to get a useful plant variation by pure chance.
+
+01:47.300 --> 01:49.940
+Sometimes it actually worked, too.
+
+01:49.940 --> 01:55.220
+In the 70s, scientists inserted DNA snippets into bacteria, plants, and animals to study
+
+01:55.220 --> 02:00.560
+and modify them, for research, medicine, agriculture, and for fun.
+
+02:00.560 --> 02:06.000
+The earliest genetically modified animal was born in 1974, making mice a standard tool
+
+02:06.000 --> 02:08.720
+for research, saving millions of lives.
+
+02:08.720 --> 02:11.400
+In the 80s, we got commercial.
+
+02:11.400 --> 02:15.240
+The first patent was given for a microbe engineered to absorb oil.
+
+02:15.240 --> 02:20.320
+Today, we produce many chemicals by means of engineered life, like life-saving clotting
+
+02:20.320 --> 02:24.880
+factors, growth hormones, and insulin, all things we had to harvest from the organs of
+
+02:24.880 --> 02:26.700
+animals before that.
+
+02:26.700 --> 02:32.600
+The first food modified in the lab went on sale in 1994, the flavor-saver tomato, a tomato
+
+02:32.600 --> 02:37.200
+given a much longer shelf life via an extra gene that suppressed the buildup of a rotting
+
+02:37.200 --> 02:38.840
+enzyme.
+
+02:38.840 --> 02:44.040
+But GM food and the controversy surrounding them deserve a video of their own.
+
+02:44.040 --> 02:48.080
+In the 1990s, there was also a brief foray into human engineering.
+
+02:48.080 --> 02:52.060
+To treat maternal infertility, babies were made that carried genetic information from
+
+02:52.060 --> 02:57.920
+three humans, making them the first humans ever to have three genetic parents.
+
+02:58.240 --> 03:04.800
+Today, there are super muscled pigs, fast-growing salmon, featherless chickens, and see-through frogs.
+
+03:04.800 --> 03:07.560
+On the fun side, we made things glow in the dark.
+
+03:07.560 --> 03:11.760
+Fluorescent zebrafish are available for as little as $10.
+
+03:11.760 --> 03:16.600
+All of this is already very impressive, but until recently, gene editing was extremely
+
+03:16.600 --> 03:20.460
+expensive, complicated, and took a long time to do.
+
+03:20.460 --> 03:27.360
+This has now changed with a revolutionary new technology now entering the stage, CRISPR.
+
+03:27.360 --> 03:31.520
+Tonight, the costs of engineering have shrunk by 99%.
+
+03:31.520 --> 03:36.060
+Instead of a year, it takes a few weeks to conduct experiments, and basically everybody
+
+03:36.060 --> 03:38.540
+with a lab can do it.
+
+03:38.540 --> 03:42.400
+It's hard to get across how big a technical revolution CRISPR is.
+
+03:42.400 --> 03:46.400
+It literally has the potential to change humanity forever.
+
+03:46.400 --> 03:50.720
+Why did this sudden revolution happen, and how does it work?
+
+03:50.720 --> 03:59.360
+Bacteria and viruses have been fighting since the dawn of life.
+
+03:59.360 --> 04:03.160
+So-called bacteriophages, or phages, hunt bacteria.
+
+04:03.160 --> 04:07.680
+In the ocean, phages kill 40% of them every single day.
+
+04:07.680 --> 04:11.820
+Phages do this by inserting their own genetic code into the bacteria and taking them over
+
+04:11.820 --> 04:13.640
+to use them as factories.
+
+04:13.640 --> 04:17.800
+The bacteria try to resist, but fail most of the time because their protection tools
+
+04:17.800 --> 04:19.560
+are too weak.
+
+04:19.600 --> 04:22.600
+Sometimes, bacteria survive an attack.
+
+04:22.600 --> 04:27.960
+Only if they do so, can they activate their most effective antivirus system.
+
+04:27.960 --> 04:33.960
+They save a part of the virus' DNA in their own genetic code in a DNA archive called CRISPR.
+
+04:33.960 --> 04:37.720
+Here, it's stored safely until it's needed.
+
+04:37.720 --> 04:43.000
+When the virus attacks again, the bacterium quickly makes an RNA copy from the DNA archive
+
+04:43.000 --> 04:47.480
+and arms a secret weapon, a protein called Cas9.
+
+04:47.480 --> 04:52.800
+The protein now scans the bacterium's insides for signs of the virus invader by comparing
+
+04:52.800 --> 04:56.920
+every bit of DNA it finds to the sample from the archive.
+
+04:56.920 --> 05:02.520
+When it finds a 100% perfect match, it's activated and cuts out the virus' DNA, making
+
+05:02.520 --> 05:06.160
+it useless, protecting the bacterium against the attack.
+
+05:06.160 --> 05:12.260
+What's special is that Cas9 is very precise, almost like a DNA surgeon.
+
+05:12.260 --> 05:17.800
+The revolution began when scientists figured out that the CRISPR system is programmable.
+
+05:17.800 --> 05:23.340
+You can just give it a copy of DNA you want to modify and put the system into a living cell.
+
+05:23.340 --> 05:28.860
+If the old techniques of genetic manipulation were like a map, CRISPR is like a GPS system.
+
+05:28.860 --> 05:34.500
+Aside from being precise, cheap, and easy, CRISPR offers the ability to edit live cells,
+
+05:34.500 --> 05:39.440
+to switch genes on and off, and target and study particular DNA sequences.
+
+05:39.440 --> 05:46.000
+It also works for every type of cell, microorganisms, plants, animals, or humans.
+
+05:46.000 --> 05:51.760
+But despite the revolution CRISPR is for science, it's still just a first-generation tool.
+
+05:51.760 --> 06:00.120
+More precise tools are already being created and used as we speak.
+
+06:00.120 --> 06:05.560
+In 2015, scientists used CRISPR to cut the HIV virus out of living cells from patients
+
+06:05.560 --> 06:08.520
+in the lab, proving that it was possible.
+
+06:08.520 --> 06:12.280
+Only about a year later, they carried out a larger-scale project with rats that had
+
+06:12.280 --> 06:15.860
+the HIV virus in basically all of their body cells.
+
+06:15.860 --> 06:19.840
+By simply injecting CRISPR into the rats' tails, they were able to remove more than
+
+06:19.840 --> 06:23.160
+50% of the virus from cells all over the body.
+
+06:23.160 --> 06:27.520
+In a few decades, a CRISPR therapy might cure HIV.
+
+06:27.520 --> 06:35.160
+And other retroviruses, viruses that hide inside human DNA like herpes, could be eradicated this way.
+
+06:35.160 --> 06:39.400
+CRISPR could also defeat one of our worst enemies, cancer.
+
+06:39.400 --> 06:43.620
+Cancer occurs when cells refuse to die and keep multiplying while concealing themselves
+
+06:43.620 --> 06:45.520
+from the immune system.
+
+06:45.520 --> 06:50.480
+CRISPR gives us the means to edit your immune cells and make them better cancer hunters.
+
+06:50.480 --> 06:54.320
+Getting rid of cancer might eventually mean getting just a couple of injections of a few
+
+06:54.320 --> 06:59.640
+thousand of your own cells that have been engineered in the lab to heal you for good.
+
+06:59.640 --> 07:03.780
+The first clinical trial for a CRISPR cancer treatment on human patients was approved in
+
+07:03.780 --> 07:06.340
+early 2016 in the US.
+
+07:06.340 --> 07:10.100
+Not even a month later, Chinese scientists announced that they would treat lung cancer
+
+07:10.100 --> 07:14.420
+patients with immune cells modified with CRISPR in August 2016.
+
+07:14.420 --> 07:17.060
+Things are picking up pace quickly.
+
+07:17.060 --> 07:19.500
+And then there are genetic diseases.
+
+07:19.500 --> 07:24.700
+There are thousands of them, and they range from mildly annoying to deadly or entail decades
+
+07:24.700 --> 07:25.860
+of suffering.
+
+07:25.860 --> 07:30.320
+With a powerful tool like CRISPR, we may be able to end this.
+
+07:30.320 --> 07:36.320
+The 3,000 genetic diseases are caused by a single incorrect letter in your DNA.
+
+07:36.320 --> 07:40.880
+We are already building a modified version of Cas9 that is made to change just a single
+
+07:40.880 --> 07:43.880
+letter fixing the disease in the cell.
+
+07:43.880 --> 07:48.580
+In a decade or two, we could possibly cure thousands of diseases forever.
+
+07:48.580 --> 07:52.100
+But all of these medical applications have one thing in common.
+
+07:52.100 --> 07:57.100
+They are limited to the individual and die with them, except if you use them on reproductive
+
+07:57.100 --> 07:59.720
+cells or very early embryos.
+
+07:59.720 --> 08:03.380
+But CRISPR can and probably will be used for much more.
+
+08:03.380 --> 08:09.240
+The creation of modified humans, designer babies, and will mean gradual but irreversible
+
+08:09.240 --> 08:17.080
+changes to the human gene pool.
+
+08:17.080 --> 08:22.640
+The means to edit the genome of a human embryo already exist, though the technology is still
+
+08:22.640 --> 08:24.160
+in its early stages.
+
+08:24.160 --> 08:26.480
+But it has already been attempted twice.
+
+08:27.240 --> 08:33.840
+In 2015 and 2016, Chinese scientists experimented with human embryos and were partially successful
+
+08:33.840 --> 08:35.680
+on their second attempt.
+
+08:35.680 --> 08:40.040
+They showed the enormous challenges we still face in gene editing embryos, but also that
+
+08:40.040 --> 08:42.920
+scientists are working on solving them.
+
+08:42.920 --> 08:45.420
+This is like the computer in the 70s.
+
+08:45.420 --> 08:48.400
+There will be better computers.
+
+08:48.400 --> 08:53.820
+Regardless of your personal take on genetic engineering, it will affect you.
+
+08:53.820 --> 08:57.460
+Designed humans could alter the genome of our entire species because their engineered
+
+08:57.460 --> 09:01.500
+traits will be passed on to their children and could spread over generations, slowly
+
+09:01.500 --> 09:04.700
+modifying the whole gene pool of humanity.
+
+09:04.700 --> 09:06.300
+It will start slowly.
+
+09:06.300 --> 09:09.280
+The first designer babies will not be overly designed.
+
+09:09.280 --> 09:13.140
+It's most likely that they will be created to eliminate a deadly genetic disease running
+
+09:13.140 --> 09:14.540
+in a family.
+
+09:14.540 --> 09:18.900
+As the technology progresses and gets more refined, more and more people may argue that
+
+09:18.900 --> 09:24.220
+not using genetic modification is unethical, because it condemns children to preventable
+
+09:24.220 --> 09:27.880
+suffering and death and denies them the cure.
+
+09:27.880 --> 09:32.580
+But as soon as the first engineered kid is born, a door is opened that can't be closed
+
+09:32.580 --> 09:33.860
+anymore.
+
+09:33.860 --> 09:38.660
+Early on, vanity traits will mostly be left alone, but as genetic modification becomes
+
+09:38.660 --> 09:44.680
+more accepted and our knowledge of our genetic code enhances, the temptation will grow.
+
+09:44.680 --> 09:50.720
+If you make your offspring immune to Alzheimer, why not also give them an enhanced metabolism?
+
+09:50.720 --> 09:53.040
+Why not throw in perfect eyesight?
+
+09:53.040 --> 09:55.800
+How about height or muscular structure?
+
+09:55.800 --> 09:56.920
+Full hair?
+
+09:56.920 --> 10:00.780
+How about giving your child the gift of extraordinary intelligence?
+
+10:00.780 --> 10:05.880
+Huge changes are made as a result of the personal decisions of millions of individuals that
+
+10:05.880 --> 10:07.000
+accumulate.
+
+10:07.000 --> 10:09.480
+This is a slippery slope.
+
+10:09.480 --> 10:12.280
+Modified humans could become the new standard.
+
+10:12.280 --> 10:16.600
+But as engineering becomes more normal and our knowledge improves, we could solve the
+
+10:16.600 --> 10:20.360
+single biggest mortality risk factor – aging.
+
+10:20.360 --> 10:26.000
+Two-thirds of the 150,000 people who die today will die of age-related causes.
+
+10:26.000 --> 10:30.520
+Currently, we think aging is caused by the accumulation of damage to our cells, like
+
+10:30.520 --> 10:35.900
+DNA breaks and the systems responsible for fixing those wearing off over time.
+
+10:35.900 --> 10:38.880
+But there are also genes that directly affect aging.
+
+10:38.880 --> 10:43.760
+A combination of genetic engineering and other therapy could stop or slow down aging,
+
+10:43.760 --> 10:46.280
+maybe even reverse it.
+
+10:46.280 --> 10:49.760
+We know from nature that there are animals immune to aging.
+
+10:49.760 --> 10:53.920
+Maybe we could even borrow a few genes for ourselves.
+
+10:53.920 --> 10:58.420
+Some scientists even think biological aging could be something that eventually just stops
+
+10:58.420 --> 10:59.960
+being a thing.
+
+10:59.960 --> 11:05.140
+We would still die at some point, but instead of doing so in hospitals at age 90, we might
+
+11:05.140 --> 11:08.880
+be able to spend a few thousand years with our loved ones.
+
+11:08.880 --> 11:12.400
+Research into this is in its infancy.
+
+11:12.400 --> 11:16.460
+And many scientists are rightly skeptical about the end of aging.
+
+11:16.460 --> 11:21.100
+The challenges are enormous, and maybe it is unachievable.
+
+11:21.100 --> 11:25.240
+But it is conceivable that people alive today might be the first to profit from effective
+
+11:25.240 --> 11:27.360
+anti-aging therapy.
+
+11:27.360 --> 11:31.040
+All we might need is for someone to convince a smart billionaire to make it their next
+
+11:31.040 --> 11:33.040
+problem to solve.
+
+11:33.040 --> 11:38.300
+On a bigger scale, we certainly could solve many problems by having a modified population.
+
+11:38.300 --> 11:41.820
+Engineered humans might be better equipped to cope with high-energy food, eliminating
+
+11:41.820 --> 11:45.140
+many diseases of civilization like obesity.
+
+11:45.140 --> 11:49.660
+In possession of a modified immune system, with a library of potential threats, we might
+
+11:49.660 --> 11:53.440
+become immune to most diseases that haunt us today.
+
+11:53.440 --> 11:58.740
+Even further into the future, we could engineer humans to be equipped for extended space travel
+
+11:58.740 --> 12:04.240
+and to cope with different conditions on other planets, which would be extremely helpful
+
+12:04.240 --> 12:11.860
+in keeping us alive in our hostile universe.
+
+12:11.860 --> 12:17.900
+Still a few major challenges await us, some technological, some ethical.
+
+12:17.900 --> 12:21.800
+Many of you watching will feel uncomfortable and fear that we will create a world in which
+
+12:21.800 --> 12:27.100
+we will reject non-perfect humans and pre-select features and qualities based on our idea of
+
+12:27.100 --> 12:28.460
+what's healthy.
+
+12:28.460 --> 12:31.700
+The thing is, we are already living in this world.
+
+12:31.700 --> 12:36.500
+Tests for dozens of genetic diseases or complications have become standard for pregnant women in
+
+12:36.500 --> 12:39.020
+much of the world.
+
+12:39.020 --> 12:44.780
+Often the mere suspicion of a genetic defect can lead to the end of a pregnancy.
+
+12:44.780 --> 12:49.100
+Take Down syndrome, for example, one of the most common genetic defects.
+
+12:49.100 --> 12:54.400
+In Europe, about 92% of all pregnancies where it's detected are terminated.
+
+12:54.400 --> 12:58.720
+The decision to terminate a pregnancy is incredibly personal, but it's important to acknowledge
+
+12:58.720 --> 13:03.300
+the reality that we are pre-selecting humans based on medical conditions.
+
+13:03.300 --> 13:08.340
+There is also no use in pretending this will change, so we have to act carefully and respectfully
+
+13:08.340 --> 13:12.840
+as we advance the technology and can make more and more selections.
+
+13:12.840 --> 13:15.360
+But none of this will happen soon.
+
+13:15.360 --> 13:20.240
+As powerful as CRISPR is, and it is, it's not infallible yet.
+
+13:20.480 --> 13:24.960
+Wrong edits still happen, as well as unknown errors that could occur anywhere in the DNA
+
+13:24.960 --> 13:26.920
+and might go unnoticed.
+
+13:26.920 --> 13:32.140
+The gene edit might achieve the desired result, disabling a disease, but also might accidentally
+
+13:32.140 --> 13:34.360
+trigger unwanted changes.
+
+13:34.360 --> 13:38.920
+We just don't know enough yet about the complex interplay of our genes to avoid unpredictable
+
+13:38.920 --> 13:41.040
+consequences.
+
+13:41.040 --> 13:45.760
+Working on accuracy and monitoring methods is a major concern as the first human trials
+
+13:45.760 --> 13:46.940
+begin.
+
+13:46.940 --> 13:52.320
+And since we've discussed a possible positive future, there are darker visions too.
+
+13:52.320 --> 13:57.340
+Imagine what a state like North Korea could do if they embraced genetic engineering.
+
+13:57.340 --> 14:02.960
+Could a state cement its rule forever by forcing gene editing on their subjects?
+
+14:02.960 --> 14:08.180
+What would stop a totalitarian regime from engineering an army of modified super soldiers?
+
+14:08.180 --> 14:10.500
+It is doable in theory.
+
+14:10.500 --> 14:15.340
+Scenarios like this one are far, far off into the future, if they ever become possible at
+
+14:15.340 --> 14:16.340
+all.
+
+14:16.340 --> 14:20.720
+No basic proof of concept for genetic engineering like this already exists today.
+
+14:20.720 --> 14:23.620
+The technology really is that powerful.
+
+14:23.620 --> 14:28.080
+While this might be a tempting reason to ban genetic editing and related research, that
+
+14:28.080 --> 14:30.620
+would certainly be a mistake.
+
+14:30.620 --> 14:34.660
+Banning human genetic engineering would only lead to the science wandering off to a place
+
+14:34.660 --> 14:38.800
+with jurisdiction and rules that we're uncomfortable with.
+
+14:38.800 --> 14:43.940
+Only by participating can we make sure that further research is guided by caution, reason,
+
+14:43.940 --> 14:50.140
+oversight and transparency.
+
+14:50.140 --> 14:52.500
+Do you feel uncomfortable now?
+
+14:52.500 --> 14:54.600
+Most of us have something wrong with them.
+
+14:54.600 --> 14:59.440
+In the future that lies ahead of us, would we have been allowed to exist?
+
+14:59.440 --> 15:04.360
+The technology is certainly a bit scary, but we have a lot to gain and genetic engineering
+
+15:04.360 --> 15:09.700
+might just be a step in the natural evolution of intelligent species in the universe.
+
+15:09.700 --> 15:11.860
+We might end disease.
+
+15:11.860 --> 15:16.380
+We could extend our life expectancy by centuries and travel to the stars.
+
+15:16.380 --> 15:20.300
+There's no need to think small when it comes to this topic.
+
+15:20.300 --> 15:25.380
+Whatever your opinion on genetic engineering, the future is approaching no matter what.
+
+15:25.380 --> 15:31.180
+What has been insane science fiction is about to become our new reality, a reality full
+
+15:31.180 --> 15:38.860
+of opportunities and challenges.
+
+15:38.860 --> 15:42.800
+Things like this would not be possible without viewer donations on patreon.com.
+
+15:42.800 --> 15:47.000
+If you want to support us explaining complicated stuff and maybe get your own bird in return,
+
+15:47.000 --> 15:48.460
+you can do so here.
+
+15:48.460 --> 15:52.740
+If you want to learn more about CRISPR, we put the sources and further reading in the
+
+15:52.740 --> 15:53.740
+description.
+
+15:53.740 --> 15:56.060
+More videos about the whole topic area will follow.
+
+15:56.060 --> 15:58.700
+If you want to be notified when it happens, you can follow us here.
+

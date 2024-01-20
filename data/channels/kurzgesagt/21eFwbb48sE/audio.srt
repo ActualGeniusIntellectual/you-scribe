@@ -1,0 +1,376 @@
+1
+00:00:00,000 --> 00:00:05,440
+So, have you ever wondered who actually invented the internet?
+
+2
+00:00:05,440 --> 00:00:09,880
+Some people have become zillionaires thanks to the internet, but all they did was invent
+
+3
+00:00:09,880 --> 00:00:12,340
+clever ways of using the internet.
+
+4
+00:00:12,340 --> 00:00:17,760
+So the person who invented the internet should be a gazillionaire equivalent to say God,
+
+5
+00:00:17,760 --> 00:00:18,760
+shouldn't they?
+
+6
+00:00:18,760 --> 00:00:21,040
+Who should get the credit then?
+
+7
+00:00:21,040 --> 00:00:23,640
+Was it a British geek in a Swiss underground lab?
+
+8
+00:00:23,640 --> 00:00:24,640
+Maybe.
+
+9
+00:00:24,640 --> 00:00:28,360
+Clever Americans threatened with nuclear annihilation by the Russians?
+
+10
+00:00:28,360 --> 00:00:29,680
+Nice idea.
+
+11
+00:00:29,720 --> 00:00:35,120
+Or was it French scientists who decided to call their computer network the l'internet?
+
+12
+00:00:35,120 --> 00:00:36,120
+Interesting.
+
+13
+00:00:36,120 --> 00:00:41,080
+Or was it thanks to a myriad of smart scientists working on something they knew was useful
+
+14
+00:00:41,080 --> 00:00:44,440
+but didn't realize would be so big?
+
+15
+00:00:51,440 --> 00:00:54,040
+Well, let's try and get some facts straight.
+
+16
+00:00:54,040 --> 00:00:58,400
+There's the internet, a whole bunch of computer networks connected to each other, and then
+
+17
+00:00:58,440 --> 00:01:04,060
+there's the World Wide Web, a way of making it easier to share information using all those
+
+18
+00:01:04,060 --> 00:01:06,260
+interconnected computers.
+
+19
+00:01:06,260 --> 00:01:10,980
+The internet as we know it today was at least 40 years in the making.
+
+20
+00:01:10,980 --> 00:01:16,640
+One popular but wrong story is that the internet was developed by the USA, so they had a communication
+
+21
+00:01:16,640 --> 00:01:20,000
+network that would survive a nuclear war.
+
+22
+00:01:20,000 --> 00:01:24,680
+According to one of the founders of the first network, the ARPANET, in the 1960s, this first
+
+23
+00:01:24,680 --> 00:01:29,880
+network experiment wasn't about communication at all, it was about optimizing processor
+
+24
+00:01:29,880 --> 00:01:34,840
+usage or timesharing, which basically meant that scientists could share computer power
+
+25
+00:01:34,840 --> 00:01:35,920
+too.
+
+26
+00:01:35,920 --> 00:01:40,600
+That was because until the 1960s, there was basically no network, you had big machines
+
+27
+00:01:40,600 --> 00:01:46,380
+called mainframes, which sat in a room and processed computing tasks one at a time.
+
+28
+00:01:46,380 --> 00:01:50,840
+With timesharing, these behemoths could process several tasks at a time, which meant their
+
+29
+00:01:50,840 --> 00:01:54,640
+power could be used by several scientists at once.
+
+30
+00:01:54,640 --> 00:01:59,360
+And obviously, once you start connecting computers together, you start to wonder about
+
+31
+00:01:59,360 --> 00:02:04,240
+what you need to do to make communications between them easier.
+
+32
+00:02:04,240 --> 00:02:07,220
+Scientists around the world were trying to solve this problem.
+
+33
+00:02:07,220 --> 00:02:11,960
+So let's look at some of the other key concepts that were developed elsewhere.
+
+34
+00:02:11,960 --> 00:02:13,680
+Starting with packet switching.
+
+35
+00:02:13,680 --> 00:02:18,000
+In Britain, there was a commercial network developed by the National Physical Laboratory,
+
+36
+00:02:18,000 --> 00:02:21,920
+but which never really got off the ground because it didn't get funding.
+
+37
+00:02:22,040 --> 00:02:27,040
+They did come up with the idea of packet switching, a way of avoiding congestion in busy networks
+
+38
+00:02:27,040 --> 00:02:31,600
+by cutting up data at one end and putting it back together at the other.
+
+39
+00:02:31,600 --> 00:02:33,680
+The French also played a role.
+
+40
+00:02:33,680 --> 00:02:38,080
+They were working on a scientific network called Cyclades, but they didn't have a big
+
+41
+00:02:38,080 --> 00:02:43,460
+budget, so they decided to work on direct connections between computers as opposed to
+
+42
+00:02:43,460 --> 00:02:46,000
+working with gateway computers.
+
+43
+00:02:46,000 --> 00:02:51,440
+Now as an aside here, this admittedly isn't very scientific, but according to one theory,
+
+44
+00:02:51,440 --> 00:02:55,640
+a spin-off of their research was the word Antacnet.
+
+45
+00:02:55,640 --> 00:02:58,560
+But you don't have to believe it if you don't want to.
+
+46
+00:02:58,560 --> 00:03:01,000
+So now it's the early 1970s.
+
+47
+00:03:01,000 --> 00:03:05,440
+There's quite a lot of computer infrastructure, but communication is awkward and patchy because
+
+48
+00:03:05,440 --> 00:03:08,480
+different networks can't talk to each other.
+
+49
+00:03:08,480 --> 00:03:11,400
+TCP IP solves this problem.
+
+50
+00:03:11,400 --> 00:03:16,480
+The TCP IP protocols form the basic communication language of the internet, which labels the
+
+51
+00:03:16,480 --> 00:03:21,240
+packets of data and makes sure that even though some pieces of the same data take a different
+
+52
+00:03:21,240 --> 00:03:26,260
+route, they all arrive at their destination and can be reassembled.
+
+53
+00:03:26,260 --> 00:03:30,160
+Networks really began communicating with each other in 1975.
+
+54
+00:03:30,160 --> 00:03:33,680
+So you could argue that was the beginning of the internet.
+
+55
+00:03:33,680 --> 00:03:35,380
+Email was also very important.
+
+56
+00:03:35,380 --> 00:03:38,720
+It was developed for ARPANET in 1972.
+
+57
+00:03:38,720 --> 00:03:44,320
+Most internet traffic in 1976 was email, because academics thought electronic post-it notes
+
+58
+00:03:44,320 --> 00:03:46,220
+were dead cool.
+
+59
+00:03:46,220 --> 00:03:50,780
+With networks that could talk to each other, communication was becoming easier.
+
+60
+00:03:50,820 --> 00:03:56,500
+But all this communication was just text-based, and it was pretty ugly to look at.
+
+61
+00:03:56,500 --> 00:04:01,700
+In the 1980s, a brick called Timothy Berners-Lee spent time with CERN, the European Organization
+
+62
+00:04:01,700 --> 00:04:06,900
+for Nuclear Research, where physicists are trying to work out what the universe is made
+
+63
+00:04:06,900 --> 00:04:07,900
+of.
+
+64
+00:04:07,900 --> 00:04:12,100
+He wanted to manage the scientists' information and make it possible for them to share and
+
+65
+00:04:12,100 --> 00:04:16,580
+interconnect their work easily, making progress more likely.
+
+66
+00:04:16,580 --> 00:04:23,180
+He did so by inventing an interface using HTTP, HTML, and URLs that made internet browsers
+
+67
+00:04:23,180 --> 00:04:24,300
+possible.
+
+68
+00:04:24,300 --> 00:04:27,260
+He called his browser the World Wide Web.
+
+69
+00:04:27,260 --> 00:04:32,240
+So he didn't invent the internet, but he did invent the web.
+
+70
+00:04:32,240 --> 00:04:38,060
+The first ever website which he created was at CERN in France in August 1991.
+
+71
+00:04:38,060 --> 00:04:43,060
+So once the initial infrastructure was in place, the key technologies had been invented,
+
+72
+00:04:43,060 --> 00:04:47,420
+internet message boards exploded in the 1980s, the phone companies saw the commercial potential
+
+73
+00:04:47,420 --> 00:04:52,720
+of digital communication, web browsers spread like wildfire in the early 1990s, and ordinary
+
+74
+00:04:52,720 --> 00:04:54,420
+people discovered email.
+
+75
+00:04:54,420 --> 00:04:59,940
+Then, the internet expanded rapidly and steadily and became workable for the masses from about
+
+76
+00:04:59,940 --> 00:05:00,940
+1995.
+
+77
+00:05:00,940 --> 00:05:06,260
+Hold on, didn't US Vice President Al Gore invent the internet?
+
+78
+00:05:06,260 --> 00:05:07,520
+Ah, no.
+
+79
+00:05:07,520 --> 00:05:12,200
+And if you read what he said exactly, you'd know he never claimed to have done.
+
+80
+00:05:12,200 --> 00:05:17,020
+But many people credit him with energetically pushing legislation that encouraged the spread
+
+81
+00:05:17,020 --> 00:05:18,900
+of the internet.
+
+82
+00:05:18,900 --> 00:05:25,040
+The internet exists because we need to communicate, and most of us like doing it.
+
+83
+00:05:25,040 --> 00:05:29,020
+That's why humans have become the dominant species on Earth.
+
+84
+00:05:29,020 --> 00:05:34,880
+You could argue that the internet is a natural evolutionary step and a manifestation of that
+
+85
+00:05:34,880 --> 00:05:36,320
+need.
+
+86
+00:05:36,320 --> 00:05:40,680
+It wasn't invented by anyone in particular, but when the building blocks were put together
+
+87
+00:05:40,680 --> 00:05:45,660
+by all those cool scientists from all over the place, the internet became a communication
+
+88
+00:05:45,660 --> 00:05:52,460
+tool, a retail tool, a research tool, a propaganda tool, a spying tool, a shopping tool, a dating
+
+89
+00:05:52,460 --> 00:05:56,820
+tool, an entertainment tool, and a way of skiving off work while making it look like
+
+90
+00:05:56,820 --> 00:06:00,460
+you're working or studying, which is what you may be doing now.
+
+91
+00:06:00,460 --> 00:06:05,300
+Ultimately though, you're communicating, especially if you leave a comment, and that
+
+92
+00:06:05,300 --> 00:06:07,180
+might make you a better human being.
+
+93
+00:06:10,680 --> 00:06:11,680
+Thanks for watching.
+
+94
+00:06:11,680 --> 00:06:11,700
+I'll see you next time.
+

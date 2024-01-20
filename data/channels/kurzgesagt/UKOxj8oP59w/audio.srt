@@ -1,0 +1,56 @@
+1
+00:00:00,000 --> 00:00:02,000
+What's the smallest possible black hole?
+
+2
+00:00:02,000 --> 00:00:06,200
+Well, anything can be turned into a black hole if you squeeze hard enough, even dark.
+
+3
+00:00:06,200 --> 00:00:10,900
+All matter has some gravity, and that gravity depends on the mass of the object and how far away it is.
+
+4
+00:00:10,900 --> 00:00:12,200
+The further, the weaker.
+
+5
+00:00:12,200 --> 00:00:16,700
+For example, when you feel Earth's gravity, you're already feeling the gravity of all the planet's atoms.
+
+6
+00:00:16,700 --> 00:00:20,800
+The ones close to you under your feet, and the ones far away on the other side of the planet.
+
+7
+00:00:20,800 --> 00:00:24,600
+But if you squeezed Earth, making it smaller, all those atoms would be closer together,
+
+8
+00:00:24,600 --> 00:00:28,500
+meaning they're closer to you, so you'd feel stronger gravity on Earth's surface.
+
+9
+00:00:28,600 --> 00:00:32,200
+So the trick to making a black hole is getting a lot of mass close enough together.
+
+10
+00:00:32,200 --> 00:00:35,400
+When duck is regular-sized, you don't notice its gravity.
+
+11
+00:00:35,400 --> 00:00:41,100
+But if you squeeze it to the size of one micron, a bacteria standing on it experiences gravity comparable to Earth's.
+
+12
+00:00:41,100 --> 00:00:45,100
+Keep squeezing until duck is a trillion times smaller than a proton.
+
+13
+00:00:45,100 --> 00:00:49,800
+Its gravity will become so strong, not even light can escape, collapsing duck into a black hole.
+
+14
+00:00:49,800 --> 00:00:54,000
+So black holes can be any size, but good luck squeezing hard enough to make one.
+

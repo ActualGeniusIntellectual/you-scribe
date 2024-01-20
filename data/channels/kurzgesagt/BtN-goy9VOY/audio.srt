@@ -1,0 +1,524 @@
+1
+00:00:00,000 --> 00:00:05,240
+In December 2019, the Chinese authorities notified the world that a virus was spreading
+
+2
+00:00:05,240 --> 00:00:06,840
+through their communities.
+
+3
+00:00:06,840 --> 00:00:11,680
+In the following months, it spread to other countries, with cases doubling within days.
+
+4
+00:00:11,680 --> 00:00:16,920
+This virus is the severe acute respiratory syndrome-related coronavirus-2 that causes
+
+5
+00:00:16,920 --> 00:00:22,000
+the disease called COVID-19 and that everyone simply calls coronavirus.
+
+6
+00:00:22,000 --> 00:00:25,720
+What actually happens when it infects a human, and what should we all do?
+
+7
+00:00:30,000 --> 00:00:40,140
+A virus is really just a hull around genetic material and a few proteins, arguably not
+
+8
+00:00:40,140 --> 00:00:41,860
+even a living thing.
+
+9
+00:00:41,860 --> 00:00:45,780
+It can only make more of itself by entering a living cell.
+
+10
+00:00:45,780 --> 00:00:50,700
+Corona may spread via surfaces, but it's still uncertain how long it can survive on them.
+
+11
+00:00:50,700 --> 00:00:54,940
+Its main way of spreading seems to be droplet infection, when people cough, or if you touch
+
+12
+00:00:54,940 --> 00:00:59,540
+someone who's ill and then your face, say rubbing your eyes or nose.
+
+13
+00:00:59,540 --> 00:01:04,000
+The virus starts its journey here and then hitches a ride as a stowaway deeper into
+
+14
+00:01:04,000 --> 00:01:05,420
+the body.
+
+15
+00:01:05,420 --> 00:01:10,280
+Its destinations are the intestines, the spleen, or the lungs, where it can have the most dramatic
+
+16
+00:01:10,280 --> 00:01:11,600
+effect.
+
+17
+00:01:11,600 --> 00:01:16,080
+Even just a few coronaviruses can cause quite a dramatic situation.
+
+18
+00:01:16,080 --> 00:01:19,840
+The lungs are lined with billions of epithelial cells.
+
+19
+00:01:19,840 --> 00:01:26,080
+These are the border cells of your body, lining your organs and mucosa, waiting to be infected.
+
+20
+00:01:26,080 --> 00:01:30,660
+Corona connects to a specific receptor on its victims' membranes to inject its genetic
+
+21
+00:01:30,660 --> 00:01:31,860
+material.
+
+22
+00:01:31,860 --> 00:01:36,780
+The cell, ignorant of what's happening, executes the new instructions, which are pretty simple,
+
+23
+00:01:36,780 --> 00:01:39,100
+copy and reassemble.
+
+24
+00:01:39,100 --> 00:01:43,300
+It fills up with more and more copies of the original virus until it reaches a critical
+
+25
+00:01:43,300 --> 00:01:47,700
+point and receives one final order, self-destruct.
+
+26
+00:01:47,700 --> 00:01:53,860
+The cell sort of melts away, releasing new corona particles, ready to attack more cells.
+
+27
+00:01:53,860 --> 00:01:57,440
+The number of infected cells grows exponentially.
+
+28
+00:01:57,440 --> 00:02:02,680
+After about ten days, millions of body cells are infected and billions of viruses swarm
+
+29
+00:02:02,680 --> 00:02:04,160
+the lungs.
+
+30
+00:02:04,160 --> 00:02:09,100
+The virus has not caused too much damage yet, but corona is now going to release a real
+
+31
+00:02:09,100 --> 00:02:12,280
+beast on you, your own immune system.
+
+32
+00:02:12,280 --> 00:02:16,720
+The immune system, while there to protect you, can actually be pretty dangerous to yourself
+
+33
+00:02:16,720 --> 00:02:19,260
+and needs tight regulation.
+
+34
+00:02:19,260 --> 00:02:24,440
+And as immune cells pour into the lungs to fight the virus, corona infects some of them
+
+35
+00:02:24,440 --> 00:02:27,040
+and creates confusion.
+
+36
+00:02:27,040 --> 00:02:28,720
+Cells have neither ears nor eyes.
+
+37
+00:02:28,720 --> 00:02:33,200
+They communicate mostly via tiny information proteins called cytokines.
+
+38
+00:02:33,200 --> 00:02:37,200
+Nearly every important immune reaction is controlled by them.
+
+39
+00:02:37,200 --> 00:02:41,400
+Corona causes infected immune cells to overreact and yell bloody murder.
+
+40
+00:02:41,400 --> 00:02:46,220
+In a sense, it puts the immune system into a fighting frenzy and sends way more soldiers
+
+41
+00:02:46,220 --> 00:02:50,400
+than it should, wasting its resources and causing damage.
+
+42
+00:02:50,400 --> 00:02:53,600
+Two kinds of cells in particular wreak havoc.
+
+43
+00:02:53,600 --> 00:02:58,920
+First, neutrophiles, which are great at killing stuff, including ourselves.
+
+44
+00:02:58,920 --> 00:03:03,660
+As they arrive in their thousands, they start pumping out enzymes that destroy as many friends
+
+45
+00:03:03,660 --> 00:03:05,400
+as enemies.
+
+46
+00:03:05,400 --> 00:03:10,040
+The other important type of cells that go into a frenzy are killer T cells, which usually
+
+47
+00:03:10,040 --> 00:03:14,080
+order infected cells to commit controlled suicide.
+
+48
+00:03:14,080 --> 00:03:18,700
+Just as they are, they start ordering healthy cells to kill themselves too.
+
+49
+00:03:18,700 --> 00:03:22,660
+The more and more immune cells arrive, the more damage they do, and the more healthy
+
+50
+00:03:22,660 --> 00:03:24,760
+lung tissue they kill.
+
+51
+00:03:24,760 --> 00:03:29,780
+This might get so bad that it can cause permanent, irreversible damage that leads to lifelong
+
+52
+00:03:29,780 --> 00:03:31,300
+disabilities.
+
+53
+00:03:31,300 --> 00:03:35,100
+In most cases, the immune system slowly regains control.
+
+54
+00:03:35,100 --> 00:03:39,820
+It kills the infected cells, intercepts the viruses trying to infect new ones, and cleans
+
+55
+00:03:39,820 --> 00:03:41,660
+up the battlefield.
+
+56
+00:03:41,660 --> 00:03:42,940
+Recovery begins.
+
+57
+00:03:42,940 --> 00:03:48,680
+The majority of people infected by corona will get through it with relatively mild symptoms.
+
+58
+00:03:48,680 --> 00:03:52,140
+But many cases become severe or even critical.
+
+59
+00:03:52,140 --> 00:03:55,880
+We don't know the percentage because not all cases have been identified, but it's safe
+
+60
+00:03:55,880 --> 00:03:59,080
+to say that there is a lot more than with the flu.
+
+61
+00:03:59,080 --> 00:04:03,620
+In more severe cases, millions of epithelial cells have died, and with them, the lung's
+
+62
+00:04:03,620 --> 00:04:06,000
+protective lining is gone.
+
+63
+00:04:06,000 --> 00:04:10,680
+That means that the alveoli, tiny air sacs via which breathing occurs, can be infected
+
+64
+00:04:10,680 --> 00:04:14,380
+by bacteria that aren't usually a big problem.
+
+65
+00:04:14,380 --> 00:04:19,660
+Patients get pneumonia, respiration becomes hard or even fails, and patients need ventilators
+
+66
+00:04:19,660 --> 00:04:21,440
+to survive.
+
+67
+00:04:21,440 --> 00:04:27,140
+The immune system has fought at full capacity for weeks and made millions of antiviral weapons.
+
+68
+00:04:27,140 --> 00:04:31,300
+And as thousands of bacteria rapidly multiply, it is overwhelmed.
+
+69
+00:04:31,300 --> 00:04:34,120
+They enter the blood and overrun the body.
+
+70
+00:04:34,120 --> 00:04:37,320
+If this happens, death is very likely.
+
+71
+00:04:37,320 --> 00:04:42,720
+The coronavirus is often compared to the flu, but actually, it is much more dangerous.
+
+72
+00:04:42,720 --> 00:04:47,140
+While the exact death rate is hard to pin down during an ongoing pandemic, we know for
+
+73
+00:04:47,140 --> 00:04:52,420
+sure that it is much more contagious and spreads faster than the flu.
+
+74
+00:04:52,420 --> 00:04:57,340
+There are two futures for a pandemic like corona, fast and slow.
+
+75
+00:04:57,340 --> 00:05:02,660
+Which future we will see depends on how we all react to it in the early days of the outbreak.
+
+76
+00:05:02,660 --> 00:05:06,780
+A fast pandemic will be horrible and cost many lives.
+
+77
+00:05:06,780 --> 00:05:10,640
+A slow pandemic will not be remembered by the history books.
+
+78
+00:05:10,640 --> 00:05:15,400
+The worst case scenario for a fast pandemic begins with a very rapid rate of infection
+
+79
+00:05:15,400 --> 00:05:19,000
+because there are no countermeasures in place to slow it down.
+
+80
+00:05:19,000 --> 00:05:20,740
+Why is this so bad?
+
+81
+00:05:20,740 --> 00:05:24,800
+In a fast pandemic, many people get sick at the same time.
+
+82
+00:05:24,800 --> 00:05:29,280
+If the numbers get too large, healthcare systems become unable to handle it.
+
+83
+00:05:29,280 --> 00:05:33,260
+There aren't enough resources like medical staff or equipment like ventilators left to
+
+84
+00:05:33,260 --> 00:05:34,840
+help everybody.
+
+85
+00:05:34,840 --> 00:05:37,020
+People will die untreated.
+
+86
+00:05:37,020 --> 00:05:42,180
+And as more healthcare workers get sick themselves, the capacity of healthcare systems falls even
+
+87
+00:05:42,180 --> 00:05:43,180
+further.
+
+88
+00:05:43,180 --> 00:05:48,120
+If this becomes the case, then horrible decisions will have to be made about who gets to live
+
+89
+00:05:48,120 --> 00:05:49,720
+and who doesn't.
+
+90
+00:05:49,720 --> 00:05:54,300
+The number of deaths rises significantly in such a scenario.
+
+91
+00:05:54,300 --> 00:05:59,540
+To avoid this, the world, that means all of us, needs to do what it can to turn this into
+
+92
+00:05:59,540 --> 00:06:01,540
+a slow pandemic.
+
+93
+00:06:01,540 --> 00:06:07,240
+A pandemic is slowed down by the right responses, especially in the early phase, so that everyone
+
+94
+00:06:07,240 --> 00:06:12,660
+who gets sick can get treatment and there's no crunch point with overwhelmed hospitals.
+
+95
+00:06:12,660 --> 00:06:17,840
+Since we don't have a vaccine for corona, we have to socially engineer our behavior
+
+96
+00:06:17,840 --> 00:06:20,480
+to act like a social vaccine.
+
+97
+00:06:20,480 --> 00:06:22,960
+This simply means two things.
+
+98
+00:06:22,960 --> 00:06:26,600
+Not getting infected and not infecting others.
+
+99
+00:06:26,600 --> 00:06:31,240
+Although it sounds trivial, the very best thing you can do is to wash your hands.
+
+100
+00:06:31,240 --> 00:06:34,000
+Soap is actually a powerful tool.
+
+101
+00:06:34,000 --> 00:06:38,020
+The coronavirus is encased in what is basically a layer of fat.
+
+102
+00:06:38,020 --> 00:06:42,140
+Soap breaks that fat apart and leaves it unable to infect you.
+
+103
+00:06:42,140 --> 00:06:46,740
+It also makes your hands slippery, and with the mechanical motions of washing, viruses
+
+104
+00:06:46,740 --> 00:06:48,380
+are ripped away.
+
+105
+00:06:48,380 --> 00:06:53,020
+To do it properly, wash your hands as if you've just cut up some jalapeños and want to put
+
+106
+00:06:53,020 --> 00:06:55,400
+in your contacts next.
+
+107
+00:06:55,400 --> 00:07:00,260
+The next thing is social distancing, which is not a nice experience, but a nice thing
+
+108
+00:07:00,260 --> 00:07:01,340
+to do.
+
+109
+00:07:01,340 --> 00:07:04,100
+This means no hugging, no handshakes.
+
+110
+00:07:04,100 --> 00:07:09,760
+If you can stay at home, stay at home to protect those who need to be out for society to function.
+
+111
+00:07:09,760 --> 00:07:12,880
+From doctors to cashiers or police officers.
+
+112
+00:07:12,880 --> 00:07:14,460
+You depend on all of them.
+
+113
+00:07:14,460 --> 00:07:17,860
+They all depend on you to not get sick.
+
+114
+00:07:17,860 --> 00:07:21,660
+On a larger level, there are quarantines, which can mean different things from travel
+
+115
+00:07:21,660 --> 00:07:25,180
+restrictions or actual orders to stay at home.
+
+116
+00:07:25,180 --> 00:07:28,680
+Quarantines are not great to experience and certainly not popular.
+
+117
+00:07:28,760 --> 00:07:33,780
+They buy us, and especially the researchers working on medication and vaccination, crucial
+
+118
+00:07:33,780 --> 00:07:34,780
+time.
+
+119
+00:07:34,780 --> 00:07:39,720
+So if you are put under quarantine, you should understand why and respect it.
+
+120
+00:07:39,720 --> 00:07:41,600
+None of this is fun.
+
+121
+00:07:41,600 --> 00:07:46,120
+But looking at the big picture, it is a really small price to pay.
+
+122
+00:07:46,120 --> 00:07:50,160
+The question of how pandemics end depends on how they start.
+
+123
+00:07:50,160 --> 00:07:53,820
+If they start fast with a steep slope, they end badly.
+
+124
+00:07:53,820 --> 00:07:58,380
+If they start slow with a not-so-steep slope, they end okayish.
+
+125
+00:07:58,380 --> 00:08:02,540
+And in this day and age, it really is in all of our hands.
+
+126
+00:08:02,540 --> 00:08:06,260
+Literally and figuratively.
+
+127
+00:08:06,260 --> 00:08:10,620
+A huge thanks to the experts who helped us on short notice with this video, especially
+
+128
+00:08:10,620 --> 00:08:15,000
+Our World in Data, the online publication for research and data on the world's largest
+
+129
+00:08:15,000 --> 00:08:17,860
+problems and how to make progress solving them.
+
+130
+00:08:17,860 --> 00:08:18,860
+Check out their site.
+
+131
+00:08:18,860 --> 00:08:23,220
+It also includes a constantly updated page on the corona pandemic.
+

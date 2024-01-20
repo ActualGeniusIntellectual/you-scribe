@@ -1,0 +1,416 @@
+1
+00:00:00,000 --> 00:00:07,240
+What is the largest star in the universe? And why is it that large? And what are stars anyway?
+
+2
+00:00:07,240 --> 00:00:14,760
+Things that would like to be stars. We begin our journey with Earth, not to learn anything,
+
+3
+00:00:14,760 --> 00:00:20,800
+just to get a vague sense of scale. The smallest things that have some star-like properties are
+
+4
+00:00:20,800 --> 00:00:27,480
+large gas giants or sub-brown dwarfs. Like Jupiter, the most massive planet in the solar system.
+
+5
+00:00:27,480 --> 00:00:34,600
+11 times larger and 317 times more massive than Earth and more or less made of the same stuff as
+
+6
+00:00:34,600 --> 00:00:41,960
+our Sun. Just much much less of it. The transition towards stars begins with brown dwarfs, failed
+
+7
+00:00:41,960 --> 00:00:48,640
+stars that are a huge disappointment to their mums. They have between 13 and 90 times the mass
+
+8
+00:00:48,640 --> 00:00:54,560
+of Jupiter. So even if we took 90 Jupiters and threw them at each other, although fun to watch,
+
+9
+00:00:54,560 --> 00:01:00,560
+it wouldn't be enough to create a star. Interestingly, adding lots of mass to a brown
+
+10
+00:01:00,560 --> 00:01:07,240
+dwarf doesn't make it much bigger, just its insides denser. This increases the pressure in
+
+11
+00:01:07,240 --> 00:01:12,720
+the core enough to make certain nuclear fusion reactions happen slowly and the object glow a
+
+12
+00:01:12,720 --> 00:01:19,600
+little. So brown dwarfs are a sort of glowy gas giant that don't fit into any category very well.
+
+13
+00:01:19,640 --> 00:01:25,040
+But we want to talk about stars, not failed wannabe stars, so let's move on.
+
+14
+00:01:25,040 --> 00:01:34,120
+Main sequence stars. Once large gas balls pass a certain mass threshold, their cores become hot and
+
+15
+00:01:34,120 --> 00:01:41,240
+dense enough to ignite. Hydrogen is fused to helium in their cores, releasing tremendous
+
+16
+00:01:41,240 --> 00:01:47,560
+amounts of energy. Stars that do that are called main sequence stars. The more massive a main
+
+17
+00:01:47,600 --> 00:01:53,360
+sequence star is, the hotter and brighter it burns and the shorter its life is. Once the
+
+18
+00:01:53,360 --> 00:01:59,880
+hydrogen burning phase is over, stars grow up to hundreds of thousands of times their original
+
+19
+00:01:59,880 --> 00:02:06,760
+size. But these giant phases only last for a fraction of their lifespan. So we'll be
+
+20
+00:02:06,760 --> 00:02:12,120
+comparing stars at drastically different stages in their lives. This doesn't make them less
+
+21
+00:02:12,160 --> 00:02:17,400
+impressive, but maybe it's good to keep in mind that we'll be comparing babies to adults.
+
+22
+00:02:17,400 --> 00:02:24,920
+Now back to the beginning. The smallest real stars are red dwarfs, about 100 times the mass
+
+23
+00:02:24,920 --> 00:02:30,920
+of Jupiter, barely massive enough to fuse hydrogen to helium. Because they are not very massive,
+
+24
+00:02:30,920 --> 00:02:37,160
+they are small, not very hot, and shine pretty dimly. They are the only stars in the main
+
+25
+00:02:37,200 --> 00:02:44,360
+sequence that don't grow once they die, but sort of fizzle out. Red dwarfs are by far the most
+
+26
+00:02:44,360 --> 00:02:50,800
+abundant type in the universe. Because they burn their fuel very slowly, it lasts them up to 10
+
+27
+00:02:50,800 --> 00:02:57,080
+trillion years, a thousand times the current age of the universe. For example, one of the
+
+28
+00:02:57,080 --> 00:03:02,880
+closest stars to Earth is a red dwarf star, Barnard star, but it shines too dimly to be seen
+
+29
+00:03:02,880 --> 00:03:08,920
+without a telescope. We made a whole video on red dwarfs if you want to learn more. The next stage
+
+30
+00:03:08,920 --> 00:03:15,440
+are stars like our Sun. To say the Sun dominates the solar system is not doing it justice, since
+
+31
+00:03:15,440 --> 00:03:23,960
+it makes up 99.86% of all its mass. It burns far hotter and brighter than red dwarfs, which reduces
+
+32
+00:03:23,960 --> 00:03:29,840
+its lifetime to about 10 billion years. The Sun is seven times more massive than Barnard star,
+
+33
+00:03:29,880 --> 00:03:37,000
+but that makes it nearly 300 times brighter with twice its surface temperature. Let's go bigger.
+
+34
+00:03:37,000 --> 00:03:44,560
+Small changes in mass produce enormous changes in a main sequence star's brightness. The brightest
+
+35
+00:03:44,560 --> 00:03:51,000
+star in the night sky, Sirius, is two solar masses with a radius 1.7 times that of the Sun,
+
+36
+00:03:51,000 --> 00:03:58,800
+but its surface is nearly 10,000 degrees Celsius, making it shine 25 times brighter. Burning that
+
+37
+00:03:58,800 --> 00:04:07,280
+hot reduces its total lifespan by four times to 2.5 billion years. Stars close to 10 times the
+
+38
+00:04:07,280 --> 00:04:14,080
+mass of our Sun have surface temperatures near 25,000 degrees Celsius. Beta Centauri contains
+
+39
+00:04:14,080 --> 00:04:20,080
+two of these massive stars, each shining with about 20,000 times the power of the Sun. That's
+
+40
+00:04:20,080 --> 00:04:25,560
+a lot of power coming from something only 13 times larger, but they'll only burn for about
+
+41
+00:04:25,600 --> 00:04:32,240
+20 million years. Entire generations of these blue stars die in the time it takes the Sun to
+
+42
+00:04:32,240 --> 00:04:40,360
+orbit the galaxy once. So is this the formula? The more massive, the larger the star. The most
+
+43
+00:04:40,360 --> 00:04:48,840
+massive star that we know is R136a1. It has 315 solar masses and is nearly 9 million times
+
+44
+00:04:48,880 --> 00:04:54,840
+brighter than the Sun. And yet, despite its tremendous mass and power, it's barely 30
+
+45
+00:04:54,840 --> 00:05:02,160
+times the size of the Sun. The star is so extreme and barely held together by gravity that it loses
+
+46
+00:05:02,160 --> 00:05:10,360
+321,000 billion tons of material through its stellar wind every single second. Stars of this
+
+47
+00:05:10,360 --> 00:05:16,040
+sort are extremely rare because they break the rules of star formation a tiny bit. When
+
+48
+00:05:16,040 --> 00:05:22,120
+supermassive stars are born, they burn extremely hot and bright. And this blows away any extra gas
+
+49
+00:05:22,120 --> 00:05:28,680
+that could make them more massive. So the mass limit for such a star is around 150 times the Sun.
+
+50
+00:05:28,680 --> 00:05:35,560
+The stars like R136a1 are probably formed through the merger of several high mass stars in dense
+
+51
+00:05:35,560 --> 00:05:42,080
+star forming regions and burn their core hydrogen in only a few million years. So this means they
+
+52
+00:05:42,080 --> 00:05:49,160
+are rare and short-lived. From here, the trick to going bigger isn't adding more mass. To make
+
+53
+00:05:49,160 --> 00:05:57,600
+the biggest stars, we have to kill them. Red giants. When main sequence stars begin to exhaust
+
+54
+00:05:57,600 --> 00:06:03,800
+the hydrogen in their core, it contracts, making it hotter and denser. This leads to hotter and
+
+55
+00:06:03,800 --> 00:06:09,920
+faster fusion, which pushes back against gravity and makes the outer layers swell in a giant phase.
+
+56
+00:06:09,920 --> 00:06:19,440
+And these stars become truly giant indeed. For example, Gakrax. Only 30% more massive than the Sun,
+
+57
+00:06:19,440 --> 00:06:26,080
+it has swollen to about 84 times its radius. Still, when the Sun enters the last stage of
+
+58
+00:06:26,080 --> 00:06:33,640
+its life, it will swell and become even bigger. 200 times its current radius. In this final phase
+
+59
+00:06:33,640 --> 00:06:39,360
+of its life, it will swallow the inner planets. And if you think that's impressive, let's finally
+
+60
+00:06:39,360 --> 00:06:46,280
+introduce the largest stars in the universe, hypergiants. Hypergiants are the giant phase
+
+61
+00:06:46,280 --> 00:06:52,840
+of the most massive stars in the universe. They have an enormous surface area that can radiate
+
+62
+00:06:52,840 --> 00:07:00,080
+an insane amount of light. Being so large, they're basically blowing themselves apart as gravity at
+
+63
+00:07:00,080 --> 00:07:05,680
+the surface is too weak to hold on to the hot mass, which is lifted away in powerful stellar
+
+64
+00:07:05,680 --> 00:07:13,720
+winds. Pistol Star is 25 solar masses, but 300 times the radius of the Sun, a blue hypergiant
+
+65
+00:07:13,720 --> 00:07:19,840
+aptly named for its energetic blue starlight. It's hard to say exactly how long Pistol Star
+
+66
+00:07:19,840 --> 00:07:25,920
+will live, but probably just a few million years. Even larger than the blue hypergiants are the
+
+67
+00:07:25,920 --> 00:07:32,000
+yellow hypergiants. The most well-studied is Rho Cassiopeia, a star so bright it can be seen
+
+68
+00:07:32,040 --> 00:07:37,800
+with the naked eye, although it's thousands of light-years from Earth. At 40 solar masses,
+
+69
+00:07:37,800 --> 00:07:45,880
+this star is around 500 times the radius of the Sun and 500,000 times brighter. If the Earth were
+
+70
+00:07:45,880 --> 00:07:51,800
+as close to Rho Cassiopeia as it is to the Sun, it'd be inside it and you would be very dead.
+
+71
+00:07:51,800 --> 00:07:59,680
+Yellow hypergiants are very rare though, only 15 are known. This means they're likely just a
+
+72
+00:07:59,680 --> 00:08:05,960
+short-lived intermediate state as a star grows or shrinks between other phases of hypergiantness.
+
+73
+00:08:05,960 --> 00:08:13,320
+With red hypergiants, we reach the largest stars known to us, probably the largest stars even
+
+74
+00:08:13,320 --> 00:08:22,320
+possible. So who's the winner of this insane contest? Well, the truth is we don't know. Red
+
+75
+00:08:22,320 --> 00:08:28,280
+hypergiants are extremely bright and far away, which means that even tiny uncertainties in our
+
+76
+00:08:28,280 --> 00:08:34,760
+measurements can give us a huge margin of error for their size. Worse still, red hypergiants are
+
+77
+00:08:34,760 --> 00:08:39,720
+solar system-sized behemoths that are blowing themselves apart, which makes them harder to
+
+78
+00:08:39,720 --> 00:08:46,720
+measure. As we do more science and our instruments improve, whatever the largest star is will change.
+
+79
+00:08:46,720 --> 00:08:53,560
+The star that is currently thought to be among the largest we found is Stevenson 218. It was
+
+80
+00:08:53,560 --> 00:08:59,080
+probably born as a main sequence star a few tens of times the mass of the Sun and has likely lost
+
+81
+00:08:59,080 --> 00:09:06,320
+about half its mass by now. While typical red hypergiants are 1,500 times the size of the Sun,
+
+82
+00:09:06,320 --> 00:09:15,280
+the largest rough estimate places Stevenson 218 at 2,150 solar radii and shining with almost half
+
+83
+00:09:15,280 --> 00:09:23,240
+a million times the power of the Sun. By comparison, the Sun seems like a grain of dust. Our brains
+
+84
+00:09:23,420 --> 00:09:29,040
+don't really have a way of grasping this kind of scale. Even at light speed, it would take you
+
+85
+00:09:29,040 --> 00:09:37,120
+8.7 hours to travel around at once. The fastest plane on Earth would take around 500 years. Dropped
+
+86
+00:09:37,120 --> 00:09:44,400
+on the Sun, it would fill Saturn's orbit. As it evolves, it will probably shed even more mass and
+
+87
+00:09:44,400 --> 00:09:50,720
+shrink down into another hotter hypergiant phase, accumulate heavy elements in its core before
+
+88
+00:09:50,720 --> 00:09:58,520
+finally exploding in a core collapse supernova, giving its gas back to the galaxy. This gas will
+
+89
+00:09:58,520 --> 00:10:05,360
+then go on to form another generation of stars of all sizes, starting the cycle of birth and death
+
+90
+00:10:05,360 --> 00:10:12,440
+again to light up our universe. Let's make this journey again, but this time without the talking.
+
+91
+00:10:12,960 --> 00:10:16,960
+The universe is big. There are many large things in it.
+
+92
+00:10:34,960 --> 00:10:42,160
+If you want to play a bit more with science stuff, we have good news. We've created our
+
+93
+00:10:42,200 --> 00:10:48,620
+first app, Universe in a Nutshell, together with Tim Urban, the brain behind Wait But Why. You can
+
+94
+00:10:48,620 --> 00:10:53,360
+seamlessly travel from the smallest things in existence, past the coronavirus, human cells,
+
+95
+00:10:53,360 --> 00:10:59,720
+and dinosaurs, all the way to the largest stars and galaxies, and marvel at the whole observable
+
+96
+00:10:59,720 --> 00:11:06,600
+universe. You can learn more about each object, or simply enjoy the sheer scale of it all. The
+
+97
+00:11:06,600 --> 00:11:11,320
+app is inspired by the Scale of the Universe website by the Huang twins that we spent a lot
+
+98
+00:11:11,320 --> 00:11:15,720
+of time with when it came out years ago, and felt that it was finally time to create a Wait
+
+99
+00:11:15,720 --> 00:11:21,200
+But Why and Kurzgesagt version. You can get it in your app store, there are no in-app purchases and
+
+100
+00:11:21,200 --> 00:11:27,400
+no ads. All future updates are included. And since this is our first app, we'd love to hear
+
+101
+00:11:27,400 --> 00:11:32,800
+your feedback so we can improve it over time. If this sounds good to you, download the Universe
+
+102
+00:11:32,800 --> 00:11:37,960
+in a Nutshell app now and leave us a 5-star review if you want to support it. Kurzgesagt
+
+103
+00:11:38,000 --> 00:11:44,320
+and all the projects we do are mostly funded by viewers like you. So if you like the app,
+
+104
+00:11:44,320 --> 00:11:48,120
+we'll make more digital things in future. Thank you for watching.
+

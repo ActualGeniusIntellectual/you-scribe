@@ -1,0 +1,352 @@
+1
+00:00:00,000 --> 00:00:10,160
+The Solar System, our home in space.
+
+2
+00:00:10,160 --> 00:00:13,900
+We live in a peaceful part of the Milky Way.
+
+3
+00:00:13,900 --> 00:00:18,860
+Our home is the Solar System, a four and a half billion year old formation that races
+
+4
+00:00:18,860 --> 00:00:27,180
+around the galactic center at 200,000 kilometers per hour and circles it once every 250 million
+
+5
+00:00:27,180 --> 00:00:29,840
+years.
+
+6
+00:00:29,840 --> 00:00:34,220
+Our star, the Sun, is at the center of the Solar System.
+
+7
+00:00:34,220 --> 00:00:41,260
+It's orbited by eight planets, trillions of asteroids and comets, and a few dwarf planets.
+
+8
+00:00:41,260 --> 00:00:47,800
+The eight planets are divided into four planets like ours, Mercury, Venus, Earth and Mars,
+
+9
+00:00:47,800 --> 00:00:54,240
+and four gas giants, Jupiter, Saturn, Uranus and Neptune.
+
+10
+00:00:54,240 --> 00:00:57,320
+Mercury is the smallest and lightest of all the planets.
+
+11
+00:00:57,320 --> 00:01:04,360
+A mercury year is shorter than a mercury day, which leads to enormous fluctuations in temperature.
+
+12
+00:01:04,360 --> 00:01:08,960
+Mercury does not have an atmosphere or a moon.
+
+13
+00:01:08,960 --> 00:01:14,120
+Venus is one of the brightest objects in the Solar System and by far the hottest planet
+
+14
+00:01:14,120 --> 00:01:20,760
+with atmospheric pressure that is 92 times higher than on Earth.
+
+15
+00:01:20,760 --> 00:01:29,320
+An out of control greenhouse effect means that Venus never cools below 437 degrees Celsius.
+
+16
+00:01:29,320 --> 00:01:33,440
+Venus also doesn't have a moon.
+
+17
+00:01:33,440 --> 00:01:37,560
+Earth is our home and the only planet with temperatures that are moderate enough to allow
+
+18
+00:01:37,560 --> 00:01:40,320
+for a surplus of liquid water.
+
+19
+00:01:40,320 --> 00:01:46,500
+Furthermore, it's so far the only place where life is known to exist.
+
+20
+00:01:46,500 --> 00:01:50,560
+The Earth has one moon.
+
+21
+00:01:50,560 --> 00:01:54,520
+Venus is the second smallest planet in the Solar System and hardly massive enough to
+
+22
+00:01:54,520 --> 00:01:56,880
+keep a very thin atmosphere.
+
+23
+00:01:56,880 --> 00:02:01,400
+Its Olympus Mons is the largest mountain in the Solar System, more than three times as
+
+24
+00:02:01,400 --> 00:02:04,440
+high as Mount Everest.
+
+25
+00:02:04,440 --> 00:02:09,440
+Mars has two small moons.
+
+26
+00:02:09,440 --> 00:02:13,280
+Jupiter is the largest and most massive planet in the Solar System.
+
+27
+00:02:13,280 --> 00:02:17,760
+It consists largely of hydrogen and helium and is the theatre for the largest and most
+
+28
+00:02:17,760 --> 00:02:21,260
+powerful storms we know.
+
+29
+00:02:21,260 --> 00:02:26,160
+Its largest storm, the Great Red Spot, is three times as large as Earth.
+
+30
+00:02:26,160 --> 00:02:29,880
+Jupiter has 67 moons.
+
+31
+00:02:29,880 --> 00:02:35,720
+Saturn is the second largest planet and possesses the smallest density of all the planets.
+
+32
+00:02:35,720 --> 00:02:40,440
+If you had a sufficiently large bathtub, Saturn would swim in it.
+
+33
+00:02:40,440 --> 00:02:45,580
+Saturn is also known for its extended, very visible ring system.
+
+34
+00:02:45,580 --> 00:02:48,140
+It has 62 moons.
+
+35
+00:02:48,140 --> 00:02:52,660
+Uranus is the third largest planet and one of the coldest.
+
+36
+00:02:52,660 --> 00:02:55,980
+Of all the gas giants, it's also the smallest.
+
+37
+00:02:55,980 --> 00:03:01,260
+The special thing about Uranus is that its axis of rotation is tilted sideways in contrast
+
+38
+00:03:01,260 --> 00:03:03,200
+to the seven other planets.
+
+39
+00:03:03,200 --> 00:03:06,660
+It has 27 moons.
+
+40
+00:03:06,660 --> 00:03:11,420
+Neptune is the last planet in the Solar System and is similar to Uranus.
+
+41
+00:03:11,540 --> 00:03:18,540
+It's so far removed from the Sun that a Neptune year is 164 Earth years long.
+
+42
+00:03:18,540 --> 00:03:24,680
+The highest wind speed ever measured was in a storm on Neptune at just under 2,100 kilometres
+
+43
+00:03:24,680 --> 00:03:27,820
+per hour.
+
+44
+00:03:27,820 --> 00:03:32,380
+Neptune has 14 moons.
+
+45
+00:03:32,380 --> 00:03:38,380
+If we compare the sizes of the planets, the differences between them become even clearer.
+
+46
+00:03:38,740 --> 00:03:43,220
+Jupiter is the leader in terms of size and weight.
+
+47
+00:03:43,220 --> 00:03:49,020
+Small Mercury, on the other hand, is even smaller than one of Jupiter's moons, Ganymede.
+
+48
+00:03:49,020 --> 00:03:54,820
+Jupiter is so massive that alone it contains roughly 70% of the mass of all the other planets
+
+49
+00:03:54,820 --> 00:03:58,460
+and has a massive impact on its surroundings.
+
+50
+00:03:58,460 --> 00:04:03,300
+That's a blessing for Earth, since Jupiter draws most of the dangerously large asteroids
+
+51
+00:04:03,300 --> 00:04:07,520
+that could wipe out life on Earth.
+
+52
+00:04:07,560 --> 00:04:12,360
+But even Jupiter is a dwarf in comparison to our star, the Sun.
+
+53
+00:04:12,360 --> 00:04:15,880
+Calling it massive does not do justice to the Sun.
+
+54
+00:04:15,880 --> 00:04:21,020
+It makes up 99.86% of the mass in our Solar System.
+
+55
+00:04:21,020 --> 00:04:24,440
+For the most part, it consists of hydrogen and helium.
+
+56
+00:04:24,440 --> 00:04:29,760
+Only less than 2% is made up of heavy elements like oxygen or iron.
+
+57
+00:04:29,760 --> 00:04:36,040
+At its core, the Sun fuses 620 million tonnes of hydrogen each second and generates enough
+
+58
+00:04:36,080 --> 00:04:41,800
+energy to satisfy mankind's needs for years.
+
+59
+00:04:41,800 --> 00:04:44,880
+But not only the eight planets orbit our Sun.
+
+60
+00:04:44,880 --> 00:04:49,220
+Trillions of asteroids and comets also circle it.
+
+61
+00:04:49,220 --> 00:04:55,280
+Most of them are concentrated into two belts, the asteroid belt between Mars and Jupiter
+
+62
+00:04:55,280 --> 00:04:59,060
+and the Kuiper belt at the edge of the Solar System.
+
+63
+00:04:59,060 --> 00:05:03,320
+These belts are home to countless objects, some as large as a dust particle, others the
+
+64
+00:05:03,320 --> 00:05:06,480
+size of dwarf planets.
+
+65
+00:05:06,480 --> 00:05:10,000
+The most well-known object in the asteroid belt is Ceres.
+
+66
+00:05:10,000 --> 00:05:15,920
+The most well-known objects in the Kuiper belt are Pluto, Makemake and Haumea.
+
+67
+00:05:15,920 --> 00:05:21,120
+Usually, we describe the asteroid belt as a dense collection of bodies that constantly
+
+68
+00:05:21,120 --> 00:05:23,120
+collide.
+
+69
+00:05:23,120 --> 00:05:28,400
+But in fact, the asteroids are distributed across an area that is so indescribably large
+
+70
+00:05:28,400 --> 00:05:32,960
+that it's even difficult to see two asteroids at once.
+
+71
+00:05:32,960 --> 00:05:38,160
+Despite the billions of objects in them, the asteroid belts are fairly empty places.
+
+72
+00:05:38,160 --> 00:05:42,060
+And nonetheless, there are collisions over and over again.
+
+73
+00:05:42,060 --> 00:05:45,240
+The mass of both belts is also unimpressive.
+
+74
+00:05:45,240 --> 00:05:49,900
+The asteroid belt has a little less than 4% of our Moon's mass.
+
+75
+00:05:49,900 --> 00:05:57,440
+And the Kuiper belt is only between 1.25th and 1.10th of Earth's mass.
+
+76
+00:05:57,440 --> 00:06:00,660
+One day the Solar System will cease to exist.
+
+77
+00:06:00,660 --> 00:06:06,800
+The Sun will die and Mercury, Venus and maybe Earth too will be destroyed.
+
+78
+00:06:06,800 --> 00:06:12,260
+In 500 million years, it will become hotter and hotter until at some point it will melt
+
+79
+00:06:12,260 --> 00:06:15,600
+Earth's crust.
+
+80
+00:06:15,600 --> 00:06:20,540
+Then the Sun will grow and grow and either swallow Earth or at least turn it into a sea
+
+81
+00:06:20,540 --> 00:06:24,700
+of lava.
+
+82
+00:06:24,700 --> 00:06:29,040
+When it has burnt up all its fuel and lost most of its mass, it will shrink to a white
+
+83
+00:06:29,040 --> 00:06:36,960
+dwarf and burn gently for a few billion more years before it goes out entirely.
+
+84
+00:06:36,960 --> 00:06:41,700
+Then at the latest, life in the Solar System will no longer be possible.
+
+85
+00:06:41,700 --> 00:06:44,280
+The Milky Way will not even notice it.
+
+86
+00:06:44,280 --> 00:06:49,200
+A small part of it in one of its arms will become just a tiny bit darker.
+
+87
+00:06:49,200 --> 00:06:52,520
+And mankind will cease to exist.
+
+88
+00:06:52,520 --> 00:06:56,720
+Or leave the Solar System in search of a new home.
+

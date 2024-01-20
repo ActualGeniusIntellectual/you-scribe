@@ -1,0 +1,292 @@
+1
+00:00:00,000 --> 00:00:04,500
+What would happen if you were to bring a tiny piece of the Sun to Earth?
+
+2
+00:00:04,500 --> 00:00:06,500
+Short answer, you'd die.
+
+3
+00:00:06,500 --> 00:00:10,000
+Long answer, it depends which piece of the Sun.
+
+4
+00:00:10,000 --> 00:00:16,500
+Like most of the matter in the universe, our Sun is neither solid, liquid, or gas, but plasma.
+
+5
+00:00:16,500 --> 00:00:23,000
+Plasma is when stuff is so hot that the nuclei and electrons can separate and flow around freely,
+
+6
+00:00:23,000 --> 00:00:25,000
+which creates a goo-like substance.
+
+7
+00:00:25,500 --> 00:00:31,500
+So you can imagine our Sun as an extremely big, spherical ocean of very hot goo.
+
+8
+00:00:31,500 --> 00:00:36,000
+The deeper you go, the denser and weirder the goo becomes.
+
+9
+00:00:36,000 --> 00:00:42,000
+So let's bring three samples, each the size of a house, to our lab here on Earth and see what happens.
+
+10
+00:00:42,000 --> 00:00:56,000
+First sample, the chromosphere.
+
+11
+00:00:56,000 --> 00:01:02,500
+The chromosphere is the atmosphere of the Sun, a layer of sparse gas up to 5,000 km deep
+
+12
+00:01:02,500 --> 00:01:07,000
+that's covered in a forest of plasma spikes that can be almost as big as Earth.
+
+13
+00:01:07,500 --> 00:01:11,500
+It's pretty hot here, between 6,000 and 20,000 degrees Celsius,
+
+14
+00:01:11,500 --> 00:01:15,500
+but if we brought a sample of it to Earth, we're not really getting our money's worth.
+
+15
+00:01:15,500 --> 00:01:21,000
+In the area where we take our sample, the chromosphere is over a million times less dense than air,
+
+16
+00:01:21,000 --> 00:01:27,000
+so compared to our atmosphere at sea level, it's basically the same as bringing the vacuum of space down to Earth.
+
+17
+00:01:27,000 --> 00:01:33,000
+The moment our sample arrives, it would immediately be crushed by Earth's atmospheric pressure and implode.
+
+18
+00:01:33,500 --> 00:01:40,500
+Air would rush to fill the vacuum and use as much energy as 12 kg of TNT in the process.
+
+19
+00:01:40,500 --> 00:01:47,000
+This creates a high-pressure shockwave which shatters glass, ruptures eardrums and maybe some internal organs.
+
+20
+00:01:47,000 --> 00:01:52,000
+If you're standing too close, it could kill you, so you'd better keep your distance.
+
+21
+00:01:52,000 --> 00:01:54,000
+Let's go deeper.
+
+22
+00:01:54,000 --> 00:01:57,000
+Second sample, the photosphere.
+
+23
+00:01:57,000 --> 00:02:03,500
+Beneath the chromosphere is the glowing surface of the Sun, the photosphere, which produces the light we see.
+
+24
+00:02:03,500 --> 00:02:06,500
+It's covered in a grid of a million hotspots called granules,
+
+25
+00:02:06,500 --> 00:02:12,000
+each of them about as big as the United States and over 5,000 degrees Celsius.
+
+26
+00:02:12,000 --> 00:02:15,000
+These granules are the tops of convective columns,
+
+27
+00:02:15,000 --> 00:02:19,000
+churning gas that brings the heat up from the center of the Sun to its surface.
+
+28
+00:02:19,000 --> 00:02:24,000
+In these columns, a few hundred kilometers down, we take our second plasma sample.
+
+29
+00:02:24,000 --> 00:02:27,000
+It has about the same pressure as our atmosphere on Earth.
+
+30
+00:02:27,000 --> 00:02:32,000
+Though still much less dense than air, its heat supports it, so it won't implode.
+
+31
+00:02:32,000 --> 00:02:40,000
+Our sphere now carries twice as much energy, as much as 25 kg of TNT, but this time as heat.
+
+32
+00:02:40,000 --> 00:02:46,000
+For a dazzling instant, this plasma would glow with a million times the brightness of the Sun seen from Earth,
+
+33
+00:02:46,000 --> 00:02:49,000
+instantly lighting fires throughout our lab.
+
+34
+00:02:49,000 --> 00:02:52,000
+But a few milliseconds later, those fires are all that's left.
+
+35
+00:02:52,000 --> 00:02:57,000
+The plasma has cooled to harmless gas, floating up from the flaming ruins.
+
+36
+00:02:57,000 --> 00:02:59,000
+What if we go deeper?
+
+37
+00:03:00,000 --> 00:03:03,000
+Third sample, the radiative zone.
+
+38
+00:03:03,000 --> 00:03:08,000
+Here, the plasma is about 2 million degrees Celsius and so dense and tightly packed
+
+39
+00:03:08,000 --> 00:03:11,000
+that it creates a sort of maze for itself.
+
+40
+00:03:11,000 --> 00:03:16,000
+Energy in the form of photons tries to escape, but has to wander for hundreds of thousands of years,
+
+41
+00:03:16,000 --> 00:03:21,000
+bouncing endlessly from particle to particle until it eventually finds an exit.
+
+42
+00:03:21,000 --> 00:03:27,000
+Bringing matter from here to our lab is what experts call a very bad idea.
+
+43
+00:03:27,000 --> 00:03:32,000
+As soon as it arrives in our lab, the extreme pressure that holds the plasma tightly together is gone,
+
+44
+00:03:32,000 --> 00:03:36,000
+and the material explodes with the power of a thermonuclear weapon.
+
+45
+00:03:36,000 --> 00:03:40,000
+Our lab, as well as the city around it, will be destroyed in an instant.
+
+46
+00:03:40,000 --> 00:03:43,000
+On the bright side, there won't be any radioactive fallout.
+
+47
+00:03:43,000 --> 00:03:48,000
+With our lab destroyed, we can abandon the illusion that we're trying to do any science today.
+
+48
+00:03:48,000 --> 00:03:51,000
+What if we go much, much deeper?
+
+49
+00:03:52,000 --> 00:03:54,000
+Last sample, the core.
+
+50
+00:03:54,000 --> 00:03:59,000
+Here, in the central 1% of the star, we find a third of the Sun's mass.
+
+51
+00:03:59,000 --> 00:04:04,000
+The matter here is compressed by the weight of the entire star above it.
+
+52
+00:04:04,000 --> 00:04:08,000
+In the center of the core, the temperature is 15 million degrees,
+
+53
+00:04:08,000 --> 00:04:14,000
+hot enough to make helium by smashing together hydrogen powering the Sun by nuclear fusion.
+
+54
+00:04:15,000 --> 00:04:21,000
+In billions of years after the death of the Sun, this core will remain as a white dwarf.
+
+55
+00:04:21,000 --> 00:04:25,000
+If we brought a sample of it to Earth, it would cause a lot of inconvenience.
+
+56
+00:04:25,000 --> 00:04:30,000
+The biggest nuclear weapon ever detonated had an energy of 40 megatons of TNT,
+
+57
+00:04:30,000 --> 00:04:33,000
+or a cube the size of the Empire State Building.
+
+58
+00:04:33,000 --> 00:04:37,000
+Our sample has the equivalent of 4,000 megatons.
+
+59
+00:04:37,000 --> 00:04:43,000
+This is 4 billion tons of TNT, or a cube 1.3 kilometers high.
+
+60
+00:04:43,000 --> 00:04:48,000
+To give you a sense of scale, this is the cube inside Manhattan.
+
+61
+00:04:48,000 --> 00:04:53,000
+Once the sphere arrives on Earth, this super-dense matter expands instantly
+
+62
+00:04:53,000 --> 00:04:58,000
+and creates an explosion with the force of, well, the Sun.
+
+63
+00:04:58,000 --> 00:05:04,000
+If we get the sample in Paris in the morning, the citizens of London would see what looks like a second sunrise,
+
+64
+00:05:04,000 --> 00:05:10,000
+but one that gets brighter and brighter and hotter and hotter until London burns to ashes.
+
+65
+00:05:10,000 --> 00:05:15,000
+In a radius of about 300 kilometers around the blast, everything would be burnt.
+
+66
+00:05:15,000 --> 00:05:20,000
+The shockwave would travel around the Earth multiple times.
+
+67
+00:05:20,000 --> 00:05:24,000
+Most buildings in Central Europe would be flattened, eardrums would rupture,
+
+68
+00:05:24,000 --> 00:05:27,000
+and windows break across the continent.
+
+69
+00:05:27,000 --> 00:05:32,000
+The explosion would be apocalyptic, possibly human civilization ending.
+
+70
+00:05:32,000 --> 00:05:38,000
+If humans did survive, we could count on the dust blown into the atmosphere to create a small ice age.
+
+71
+00:05:38,000 --> 00:05:43,000
+So, if there is one tiny bright side, it would be that the explosion might be an effective way
+
+72
+00:05:43,000 --> 00:05:46,000
+to control human-caused climate change for a few decades.
+
+73
+00:05:46,000 --> 00:05:53,000
+While this is definitely a good thing, all in all we conclude that we should not try to bring the Sun to Earth.
+

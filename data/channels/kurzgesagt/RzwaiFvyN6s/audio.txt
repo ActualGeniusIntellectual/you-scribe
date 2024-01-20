@@ -1,0 +1,22 @@
+How lasers work.
+Laser beams are high-energy light beams that can be focused very tightly.
+But what's cool is that all photons in a laser beam have the exact same frequency, or tone,
+much like a choir of light.
+But who are the singers?
+Atoms can have different levels of energy.
+In their lowest energy state, they can absorb energy to get excited.
+If a photon with the right frequency bumps into an excited atom,
+the atom will release a perfect copy of the first photon before relaxing again,
+like a singer that sings along to the tune of the photon.
+Now, to create a choir of cloned photons, we only need three things.
+One, a box of excited atoms.
+Two, mirrors.
+Three, and one photon to begin with.
+The photon enters the box, gets cloned,
+the mirrors send them back at the atoms over and over again.
+The original photon gets multiplied that way until the beam is released through a hole in the box.
+When the first light choir, sorry, laser, was built in 1960,
+it was jokingly coined a solution in search of a problem.
+But nowadays, lasers are used everywhere.
+A choir that sings with light.
+That's basically.

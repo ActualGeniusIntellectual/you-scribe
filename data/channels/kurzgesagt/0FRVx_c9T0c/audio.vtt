@@ -1,0 +1,767 @@
+WEBVTT
+
+00:00.000 --> 00:05.360
+Hello everybody. Today we're doing something different. An exclusive preview.
+
+00:06.080 --> 00:10.800
+We'll listen to the introduction and a chapter from the Kurzgesagt book Immune,
+
+00:10.800 --> 00:15.840
+a journey into the mysterious system that keeps you alive, written by Kurzgesagt founder and
+
+00:15.840 --> 00:21.840
+head writer Philip Debmer. It's about the epic story of the immune system, the most important
+
+00:21.840 --> 00:26.400
+thing you don't know enough about, and will forever change how you think about your body.
+
+00:27.040 --> 00:31.840
+Immune will be released on November 2nd and you can pre-order it right now.
+
+00:32.640 --> 00:38.240
+Links in the description. So now, get comfy for a rare audio-only experience.
+
+00:41.120 --> 00:41.840
+Introduction
+
+00:44.400 --> 00:50.080
+Imagine waking up tomorrow feeling a bit under the weather. An annoying pain in your throat,
+
+00:50.080 --> 00:55.360
+your nose is runny, you cough a bit. All in all, not bad enough to skip work, you think,
+
+00:55.360 --> 00:58.960
+as you step into the shower, pretty annoyed about how hard your life is.
+
+00:59.600 --> 01:04.560
+While you are totally not being a whiny little baby, your immune system is not complaining.
+
+01:05.200 --> 01:09.920
+It is busy keeping you alive so you can live to whine another day.
+
+01:09.920 --> 01:14.880
+And so, while intruders roam your body killing hundreds of thousands of your cells,
+
+01:14.880 --> 01:20.720
+your immune system is organizing complex defenses, communicating over vast distances,
+
+01:20.720 --> 01:25.920
+activating intricate defense networks, and dishing out a swift death to millions,
+
+01:25.920 --> 01:31.600
+if not billions of enemies, all while you are standing in the shower, mildly annoyed.
+
+01:33.040 --> 01:39.200
+But this complexity is largely hidden. Which is a real shame, because there are not many things
+
+01:39.200 --> 01:45.840
+that have such a crucial impact on the quality of your life as your immune system. It is all-embracing
+
+01:45.840 --> 01:50.880
+and all-encompassing, protecting you from bothersome nuisances like the common cold,
+
+01:50.880 --> 01:56.480
+scratches and cuts, to life-threatening stuff from cancer and pneumonia to deadly infections
+
+01:56.480 --> 02:02.800
+like COVID-19. Your immune system is as indispensable as your heart or your lungs.
+
+02:02.800 --> 02:08.560
+And actually, it is one of the largest and most widespread organ systems throughout your body,
+
+02:08.560 --> 02:11.200
+although we don't tend to think about it in these terms.
+
+02:11.200 --> 02:17.760
+For most of us, the immune system is a vague and cloud-like entity that follows
+
+02:17.760 --> 02:23.760
+strange and untransparent rules, and which seemed to sometimes work and sometimes not.
+
+02:24.320 --> 02:30.160
+It is a bit like the weather, extremely hard to predict and subject to endless speculations
+
+02:30.160 --> 02:36.320
+and opinions, resulting in actions that feel random to us. Unfortunately, many people speak
+
+02:36.320 --> 02:41.280
+about the immune system with confidence, but without actually understanding it. It
+
+02:41.280 --> 02:48.080
+can be hard to know which information to trust and why. But what even is the immune system,
+
+02:48.080 --> 02:54.240
+and how does it actually work? Understanding the mechanisms that are keeping you alive as
+
+02:54.240 --> 03:00.320
+you read this is not just a nice exercise in intellectual curiosity, it is desperately needed
+
+03:00.320 --> 03:05.920
+knowledge. If you know how the immune system works, you can understand and appreciate vaccines
+
+03:05.920 --> 03:11.360
+and how they can save your life or the lives of your children, and approach disease and sickness
+
+03:11.360 --> 03:17.680
+with a very different mindset and far less fear. You become less susceptible to snake-all salesmen
+
+03:17.680 --> 03:23.200
+who offer wonder drugs that are entirely devoid of logic. You get a better grasp on the kinds
+
+03:23.200 --> 03:28.800
+of medication that might actually help you when you are sick. You get to know what you can do to
+
+03:28.800 --> 03:34.240
+boost your immune system. You can protect your kids from dangerous microbes, while also not
+
+03:34.240 --> 03:40.400
+being too stressed out if they get dirty playing outside. And in the very unlikely case of, say,
+
+03:40.400 --> 03:46.080
+a global pandemic, knowing what a virus does to you and how your body fights it might help you
+
+03:46.080 --> 03:52.640
+understand what the public health experts say. Besides all these practical and useful things,
+
+03:52.640 --> 03:59.040
+the immune system is also simply beautiful, a wonder of nature like no other. The immune system
+
+03:59.040 --> 04:05.200
+is not a mere tool to make your cough go away. It is inextricably tied into almost all other
+
+04:05.200 --> 04:11.440
+processes in your body. And while it is centrally important to keeping you alive, it is likely that
+
+04:11.440 --> 04:18.160
+it may also be the part of your body that causes your untimely death either by failing or by being
+
+04:18.160 --> 04:24.960
+too active. I have been fascinated and obsessed by the incredible complexity of the human immune
+
+04:24.960 --> 04:30.480
+system for the better part of a decade now. It began in university, where I was studying
+
+04:30.480 --> 04:35.600
+information design and was looking for a semester project and the immune system seemed like a good
+
+04:35.600 --> 04:41.840
+idea. So I got a large pile of books about immunology and began digging in, but no matter
+
+04:41.840 --> 04:47.600
+how much I read, things just did not get less complicated. The more I learned, the more
+
+04:47.600 --> 04:53.360
+impossible it seemed to simplify the immune system as every layer revealed more mechanisms,
+
+04:53.360 --> 05:00.240
+more exceptions, more complexity. And so a project that was supposed to last the spring
+
+05:00.240 --> 05:06.240
+took the summer and then the fall and the winter. The interactions of the parts of the immune system
+
+05:06.240 --> 05:10.720
+were too elegant and the dance they danced was too beautiful to stop learning about them.
+
+05:11.440 --> 05:16.400
+This progress fundamentally changed how I experienced and felt about my body.
+
+05:17.760 --> 05:22.240
+When I got the flu, I could no longer just complain, but had to look at my body,
+
+05:22.240 --> 05:27.760
+touch my swollen lymph nodes, and visualize what my immune cells were doing right then,
+
+05:27.760 --> 05:33.760
+which part of the network was activated, and how T cells killed millions of intruders to protect me.
+
+05:34.640 --> 05:40.160
+When I cut myself while being careless in the forest, I felt gratitude for my macrophages,
+
+05:40.160 --> 05:45.360
+large immune cells hunting scared bacteria and ripping them into pieces to protect the open
+
+05:45.360 --> 05:51.360
+wound from infection. After taking a bite of the wrong granola bar and suffering an allergic shock
+
+05:51.360 --> 05:56.400
+while being rushed to the hospital, I thought about mast cells and IGE antibodies
+
+05:56.400 --> 06:01.680
+and how they had almost killed me in a misguided attempt to protect me from scary foodstuffs.
+
+06:03.120 --> 06:08.000
+When I was diagnosed with cancer at the age of 32 and had to undergo a couple of operations
+
+06:08.000 --> 06:12.720
+and then chemotherapy, my obsession with immunology became even more intense.
+
+06:13.360 --> 06:18.640
+One of the jobs of my immune system is to kill cancer. In this case, it had failed.
+
+06:19.600 --> 06:25.120
+But I somehow could not be angry or too upset as I had learned how hard of a job this was for my
+
+06:25.120 --> 06:31.360
+immune cells and how hard cancer had to work to keep them in check. And as the chemo melted the
+
+06:31.360 --> 06:37.440
+cancer, my thoughts again went to my immune cells invading the dying tumors and eating them up one
+
+06:37.440 --> 06:45.120
+cell after another. Disease and sickness are scary and unsettling, and I have had plenty of that in
+
+06:45.600 --> 06:52.080
+my life. But knowing how my cells, my immune system, this integral and personal part of myself,
+
+06:52.080 --> 06:58.560
+defended the entity that is me, how it fought and died and healed and restored this body I inhabit,
+
+06:58.560 --> 07:04.320
+always gave me a lot of comfort. Learning about the immune system made my life better and more
+
+07:04.320 --> 07:10.880
+interesting and it alleviated a lot of the anxiety that comes with being sick. Knowing about the
+
+07:10.880 --> 07:18.240
+immune system always put things in perspective. So because of this positive effect and just
+
+07:18.240 --> 07:23.360
+because of the fun of learning and reading about the immune system, it became an ongoing hobby,
+
+07:23.360 --> 07:29.200
+as I eventually became a science communicator and explaining complex things became my purpose in
+
+07:29.200 --> 07:35.520
+life. About eight years ago, I started Kurzgesagt in a Nutshell, a YouTube channel dedicated to
+
+07:35.520 --> 07:40.160
+making information easy to understand and beautiful while trying to be as true to the
+
+07:40.160 --> 07:47.040
+science as possible. In early 2021, the Kurzgesagt team has grown to over 40 people working on this
+
+07:47.040 --> 07:52.800
+vision, while the channel has attracted over 14 million subscribers and reaches about 30 million
+
+07:52.800 --> 07:59.280
+viewers each month. So if this large platform exists, why go through the horrible process
+
+07:59.280 --> 08:05.200
+of writing this book? Well, while some of our most successful videos have been about the immune
+
+08:05.200 --> 08:10.400
+system, it has always bugged me that I could not explore this wonderful topic in the depth it
+
+08:10.400 --> 08:17.040
+deserves. A 10-minute video is simply not the right medium for that. So this book is a way to
+
+08:17.040 --> 08:22.480
+turn my decade-long love affair with the immune system into something tangible that will hopefully
+
+08:22.480 --> 08:28.240
+be a helpful and entertaining way to learn about the stunning and beautiful complexity that makes
+
+08:28.240 --> 08:34.800
+it possible for you to survive each day. Unfortunately, the immune system is very
+
+08:34.800 --> 08:40.240
+complicated, although that is not strong enough a word. The immune system is complicated in the
+
+08:40.240 --> 08:46.640
+sense that climbing Mount Everest is a nice stroll through nature. It is intuitive, like reading the
+
+08:46.640 --> 08:52.960
+Chinese translation of the tax code of Germany is a fun Sunday afternoon. The immune system
+
+08:52.960 --> 08:58.240
+is the most complex biological system known to humanity other than the human brain.
+
+08:59.680 --> 09:04.560
+The bigger the immunology textbook you read, the more layers of detail start piling on,
+
+09:04.560 --> 09:08.800
+the more exceptions to rules appear, the more intricate the system becomes,
+
+09:08.800 --> 09:14.400
+the more specific it seems to be for every possible eventuality. Every single one of its
+
+09:14.400 --> 09:20.000
+many parts has multiple jobs and functions and areas of expertise that overlap and influence
+
+09:20.000 --> 09:24.560
+each other. Even if you make it past these challenges and still want to understand the
+
+09:24.560 --> 09:29.200
+immune system, you will encounter another problem, the humans who described it.
+
+09:30.800 --> 09:35.680
+Scientists have laid the foundation for the amazing modern world we get to enjoy today
+
+09:35.680 --> 09:40.880
+through hard work and endless curiosity, and we owe them a great deal of gratitude.
+
+09:40.880 --> 09:46.080
+Unfortunately, though, many scientists are really bad at choosing good names and coming up with
+
+09:46.080 --> 09:51.520
+accessible language for the things they discover. The science of immunology is one of the worst
+
+09:51.520 --> 09:57.440
+culprits of any scientific discipline in this regard. An already breathtakingly complex field
+
+09:57.440 --> 10:04.480
+is spiked with words like major histocompatibility complex class 1 and 2, gamma-delta T cells
+
+10:04.480 --> 10:12.000
+interfere on alpha, beta, gamma, and kappa, and the complement system with actors named C4B2A3B
+
+10:12.000 --> 10:17.120
+complex. None of this makes it a pleasure to pick up a textbook and learn about the immune system
+
+10:17.120 --> 10:22.240
+on your own. But even without this barrier, the complex relationships of the many different
+
+10:22.240 --> 10:28.080
+actors of the immune system, with countless exceptions and unintuitive rules, are a challenge
+
+10:28.080 --> 10:34.240
+all by themselves. Immunology is hard even for the people working in public health, even for the
+
+10:34.240 --> 10:41.600
+people studying immunology, even for the foremost experts in the field. All of this makes the immune
+
+10:41.600 --> 10:47.360
+system horrible to explain. If you venture too far into simplification, you deprive the learner
+
+10:47.360 --> 10:53.120
+of the beauty and wonder that lie in the evolutionary genius of the sheer endless complexity
+
+10:53.120 --> 10:58.960
+that deals with the most crucial problems of living beings. But if you include too much detail,
+
+10:58.960 --> 11:05.280
+it quickly becomes mind-numbingly hard to keep up with. Listing everything, every part of the immune
+
+11:05.280 --> 11:11.360
+system, is just too much. It would be like telling someone your whole life story on the first date,
+
+11:11.360 --> 11:15.760
+overwhelming, and very likely to make them less interested in dating you.
+
+11:17.040 --> 11:23.440
+So my aim for this book is to try to carefully dance around all these problems. It will use human
+
+11:23.440 --> 11:29.440
+language and use complicated words only when necessary. Where appropriate, processes and
+
+11:29.440 --> 11:35.360
+interactions will be simplified while staying as true to the science as possible. Complexity between
+
+11:35.360 --> 11:41.120
+chapters will go up and down, so after you are fed a lot of information, there will be more chill parts
+
+11:41.120 --> 11:47.520
+to relax a bit. And we will summarize what we learned in regular intervals. I want this book to
+
+11:47.520 --> 11:53.040
+make it possible for everybody to understand their own immune system and have a bit of fun doing so.
+
+11:53.040 --> 11:58.000
+And since this complexity and beauty are deeply connected to your health and survival,
+
+11:58.000 --> 12:03.040
+you might actually learn something useful. And of course, the next time you are sick or have
+
+12:03.040 --> 12:07.360
+to deal with disease, you hopefully can look at your body from a different perspective.
+
+12:07.360 --> 12:14.880
+Also, the obligatory disclaimer. I am not an immunologist, but a science communicator
+
+12:14.880 --> 12:22.160
+and immune system enthusiast. This book will not make every immunologist happy. What became obvious
+
+12:22.160 --> 12:27.120
+right from the start of the research is that there are a lot of different ideas and concepts about
+
+12:27.120 --> 12:32.000
+the details of the immune system and there is a lot of disagreement between the scientists holding
+
+12:32.000 --> 12:38.640
+these ideas, which is how science is supposed to work. For example, some immunologists consider
+
+12:38.640 --> 12:43.520
+certain cells useless fossils, while others think they are crucial for your defenses.
+
+12:44.080 --> 12:48.800
+So as much as possible, this book is based on conversations with scientists,
+
+12:48.800 --> 12:53.520
+the current literature that is used to teach immunology and peer-reviewed papers.
+
+12:54.960 --> 12:59.040
+Still, at some point in the future, parts of this book will need an update,
+
+12:59.040 --> 13:04.800
+which is a good thing. The science of immunology is a dynamic field where a lot of amazing things
+
+13:04.800 --> 13:10.480
+are happening and different theories and ideas are in flux with each other. The immune system is a
+
+13:10.480 --> 13:15.840
+living topic where great discoveries are still happening, which is great because it means we
+
+13:15.840 --> 13:22.880
+are learning more about ourselves and the world we live in. Okay, before we jump in and explore
+
+13:22.880 --> 13:28.880
+what your immune system is doing, let us define the premise first so we have solid ground to stand
+
+13:28.880 --> 13:35.200
+on. What is the immune system? What is the context it works in? And what are the tiny parts that do
+
+13:35.200 --> 13:40.800
+the actual work? After we have covered these basics, we will explore what happens if you hurt
+
+13:40.800 --> 13:47.040
+yourself and how your immune system rushes in to defend you. Then we'll explore your most vulnerable
+
+13:47.040 --> 13:53.600
+parts and see how your body scrambles to protect from a serious infection. And lastly, we'll take
+
+13:53.600 --> 13:58.720
+a look at different immune disorders like allergies and autoimmune disease and discuss how you can
+
+13:58.720 --> 14:08.720
+boost your immune system. But now, let us get to the very beginning of this story. Two, what is there to
+
+14:08.720 --> 14:16.000
+defend? Before we can really learn about your intricate defense system, we should take a look
+
+14:16.000 --> 14:23.520
+at what needs to be defended, your body. In a sense, this seems pretty straightforward. It is the entire
+
+14:23.520 --> 14:31.040
+area under and including your skin. Simple enough, right? But just like looking at a planet in space,
+
+14:31.040 --> 14:34.800
+you will never see anything remotely approaching the full picture from orbit.
+
+14:36.240 --> 14:42.240
+So, before we do anything else, first we need to go on a journey together into a strange and foreign
+
+14:42.240 --> 14:49.040
+world, stranger than the deep sea or an alien planet. A world where no living being therein
+
+14:49.040 --> 14:56.160
+even knows that it exists, where monsters are a daily reality but nobody cares. A world billions
+
+14:56.160 --> 15:03.360
+of years old that exists within yourself, within everybody and everything, all around us, omnipresent
+
+15:03.360 --> 15:10.320
+but invisible. This is the world of the tiny where the border between dead and alive becomes fuzzy,
+
+15:10.320 --> 15:17.360
+where biochemistry becomes life for reasons we still do not understand. Let us zoom into you
+
+15:17.360 --> 15:24.080
+and take a look into your organs through the tissue to our most fundamental building blocks, your cells.
+
+15:25.760 --> 15:30.880
+Cells are extremely tiny living things among the smallest units of life on earth.
+
+15:31.520 --> 15:37.360
+For a single cell, your body is a planet drifting through a hostile universe. To understand the
+
+15:37.360 --> 15:41.680
+enormous dimensions of your body, we need to look at it from a cell's perspective.
+
+15:42.400 --> 15:48.880
+At the scale of a cell, your body is an utterly gigantic structure of pipes as wide as mountains,
+
+15:48.880 --> 15:54.000
+filled with oceans of fluids, rapid torrents permeating intricate cave systems,
+
+15:54.000 --> 15:59.760
+stretching as far as whole countries. With the exception of the crystallized and hard parts of
+
+15:59.760 --> 16:05.200
+your bones, all of the environment, all of the world really, is to a cell, alive.
+
+16:06.320 --> 16:12.160
+A cell can politely ask a wall to let it pass and then squeeze through a tiny gap that closes
+
+16:12.160 --> 16:18.560
+behind it. It can swim through channels and hike up mountains of meat to get anywhere it needs to go.
+
+16:19.920 --> 16:25.760
+If you were the size of one of your cells, the body of a human would be in the area of 15 to
+
+16:25.760 --> 16:32.800
+20 Mount Everest stacked on top of each other. It would be a mountain of flesh at least 60 miles,
+
+16:32.800 --> 16:39.520
+100 kilometers tall, reaching into space. If you are near a window, take a second and look into
+
+16:39.520 --> 16:46.160
+the sky. Try to imagine this for a moment. A giant so large that passenger planes would crash against
+
+16:46.160 --> 16:50.640
+its lower legs, its head so far above you that you would not be able to see it.
+
+16:51.360 --> 16:58.160
+The cells of your immune system are tasked to defend all of that, especially the weak points
+
+16:58.160 --> 17:04.400
+where intruders can enter it, which is mostly the borders, the outsides of the body. When you think
+
+17:04.400 --> 17:10.640
+about your outsides, the first thing that comes to mind is, of course, your skin. The total surface
+
+17:10.640 --> 17:16.800
+area of your skin is about two square yards, meters, about half the size of a pool table,
+
+17:17.360 --> 17:23.280
+and luckily is not that hard to defend since most of it is made out of a hard and thick barrier
+
+17:23.280 --> 17:29.360
+covered with its own defense system. It feels soft, but it is pretty hard to breach if it is intact.
+
+17:30.800 --> 17:36.320
+Your real weak points to infections are your mucous membranes, the surface that lines your
+
+17:36.320 --> 17:43.200
+windpipe and lungs, eyelids, mouth and nose, your stomach and intestines, your reproductive tracks
+
+17:43.200 --> 17:49.120
+and bladder. It is hard to give their total surface area since numbers vary so much from
+
+17:49.120 --> 17:55.600
+person to person, but on average there are about 200 square yards, meters of mucous membranes and
+
+17:55.600 --> 18:01.840
+a healthy adult, about the same as a tennis court, most of them being your lungs and your digestive
+
+18:01.840 --> 18:09.440
+tract. You may mistakenly think of your mucous membranes as your insides, but this is not true.
+
+18:09.440 --> 18:16.000
+Your mucous membranes are outsides. If we took an honest look at what you are, you are in a sense
+
+18:16.000 --> 18:23.280
+nothing more than a complex tube, granted a tube that can close both ends, also a lot wetter,
+
+18:23.280 --> 18:30.320
+slimier and grosser. Your reproductive organs, nostrils and ears are extra holes,
+
+18:30.320 --> 18:34.480
+entrances to large tunnels and additional cave systems that reach through you.
+
+18:35.280 --> 18:41.520
+All of these places are your direct borders, contact points with the outside world. Your body
+
+18:41.520 --> 18:47.680
+is just wrapped around them. These outsides, within your insides, represent surfaces where
+
+18:47.680 --> 18:53.520
+millions of intruders are trying to enter you every day. A lot of ground to defend when you are
+
+18:53.520 --> 18:59.680
+the size of a cell. For your cells, the surface area of the mucous membranes is as big as central
+
+18:59.680 --> 19:05.840
+Europe or the central United States are to you. Building border walls would not do the trick for
+
+19:05.840 --> 19:11.920
+them since they don't need to defend just the borders, but the entire surface. It's not like
+
+19:11.920 --> 19:16.960
+intruders are trying to enter just at the edges. They could sort of drop in with parachutes.
+
+19:17.600 --> 19:25.600
+So your cells need to defend the entire continent, all of it. Still, it's much easier to catch an
+
+19:25.600 --> 19:30.400
+enemy at one of these points than somewhere else. For example, if we took all the blood
+
+19:30.400 --> 19:35.440
+vessels and capillaries from your body and laid them out in a straight line, they would be a
+
+19:35.440 --> 19:43.840
+baffling 74,000 miles, 120,000 kilometers long, three times the circumference of Earth, with about
+
+19:43.840 --> 19:52.560
+1,400 square yards, 1,200 square meters of surface area. So, better catch enemies at the borders that
+
+19:52.560 --> 20:00.480
+are significantly smaller and therefore easier to defend. But easier does not mean easy. Let's
+
+20:00.480 --> 20:06.000
+do a fun experiment and imagine that we wanted to build a human body to scale, but from actual
+
+20:06.000 --> 20:11.920
+people like you, living, breathing humans, just to see what sort of crazy dimensions we encounter
+
+20:11.920 --> 20:20.000
+here. So first, we need a lot of people for that. The average human body is made from around 40
+
+20:20.000 --> 20:32.880
+trillion cells. Trillion. 40 trillion is 40,000,000,000,000,000. A truly impressive number.
+
+20:33.760 --> 20:39.040
+If we want your cells to be represented by individual people, then we need more than 100
+
+20:39.040 --> 20:44.960
+times as many people as have lived in the 250,000-year-long history of humanity.
+
+20:45.840 --> 20:52.320
+Let's try to visualize this a bit. Right now, around 7.8 billion people are alive.
+
+20:52.960 --> 20:57.520
+If we put them shoulder to shoulder, they surprisingly would only cover an area
+
+20:57.520 --> 21:03.680
+of around 700 square miles, 1,800 square kilometers, which is a little bit more
+
+21:03.680 --> 21:10.880
+than the surface area of London. To get 40 trillion people, we need to multiply this by 120.
+
+21:10.880 --> 21:18.160
+And this is only half of the story because your body hosts bacteria that you need to survive.
+
+21:18.160 --> 21:23.680
+How many? One bacterium for each of the 40 trillion cells in your body, which happens
+
+21:23.680 --> 21:28.880
+to be a pretty good ballpark in terms of size. If you were the size of an average body cell,
+
+21:28.880 --> 21:34.720
+a bacterium would be roughly the size of a bunny. Let us imagine them as baby bunnies to make the
+
+21:34.720 --> 21:40.160
+thought less horrifying. Most of these cute bunnies live in your gut. In this ginormous
+
+21:40.160 --> 21:46.160
+cave, 36 trillion bunnies live their lives constantly dying and reproducing, breaking
+
+21:46.160 --> 21:50.960
+down chunks of food the size of skyscrapers so it can be distributed to all the people making
+
+21:50.960 --> 21:56.640
+up the continent of flesh. The other 4 trillion bunnies are crawling on your skin, are inside
+
+21:56.640 --> 22:01.280
+your lungs, hopping over your teeth and your tongue, they swim in the fluid of your eyes,
+
+22:01.280 --> 22:06.320
+crawl in and out of your ears. We'll talk more about them later, but for now, just imagine
+
+22:06.320 --> 22:11.760
+yourself as being covered by cute bunnies who are your friends and have only your best interests in
+
+22:11.760 --> 22:20.080
+mind. Okay, so we now have 40 trillion people standing shoulder to shoulder. This ocean of
+
+22:20.080 --> 22:25.040
+people would cover the whole of the United Kingdom, every last corner, lake and mountain.
+
+22:25.760 --> 22:30.640
+To make a body to scale, made of people representing cells, we need to stack them
+
+22:30.640 --> 22:35.920
+until trillions of people are standing on top of each other, holding hands and linking arms,
+
+22:35.920 --> 22:43.360
+forming living structures. A giant made out of flesh rises 60 miles, 100 kilometers, into the
+
+22:43.360 --> 22:50.160
+sky, reaching the edge of space. The giant is made up of caverns as wide as small countries,
+
+22:50.160 --> 22:56.560
+bones as dense and wide as mountains, filled with intricate caves and tunnels. Its arteries
+
+22:56.560 --> 23:02.240
+are filled with oceans of fluid and people carrying food and oxygen tanks to every last corner.
+
+23:03.120 --> 23:08.560
+If you were a red blood cell, or in this case, red blood person, you would travel the distance
+
+23:08.560 --> 23:14.080
+from Paris to Rome and back once a minute in a stream pumped by a heart as large as a city.
+
+23:14.880 --> 23:20.320
+Things could be great. Everybody would work together to keep the mountain of flesh and,
+
+23:20.320 --> 23:27.120
+in consequence, themselves alive. But the enormous richness of resources and food
+
+23:27.120 --> 23:33.760
+and the abundance of moist, warm space is just too attractive. The giant is not only the size
+
+23:33.760 --> 23:40.640
+of a continent for its inhabitants, but also for unwelcome visitors. Literally billions of parasites
+
+23:40.640 --> 23:46.480
+are trying to get inside the flesh giant. Some are as large as elephants or blue whales,
+
+23:46.480 --> 23:51.920
+and they want to lay giant eggs so their young can feast on the poor people that make up the tissues.
+
+23:52.560 --> 23:57.760
+Others are the size of raccoons or rats who want to steal the food and make the giant their
+
+23:57.760 --> 24:03.360
+permanent home to raise generations of their offspring. They may not intend to harm the
+
+24:03.360 --> 24:08.960
+people making up the body, but they will do so by defecating everywhere, making life miserable.
+
+24:09.680 --> 24:15.440
+The most disgusting vermin our flesh giant has to deal with daily are billions of spiders who
+
+24:15.440 --> 24:20.160
+want to enter the cell people's mouths or ears to breed in the stomachs of their victims.
+
+24:20.720 --> 24:26.320
+For a giant made up of trillions of people, losing a few here and there is not really dangerous.
+
+24:26.320 --> 24:32.800
+But if the vermin were allowed to procreate freely, it could be its end. Isn't the idea horrifying?
+
+24:34.320 --> 24:39.520
+This is what your cells deal with every single day and night from your birth until the day you die.
+
+24:40.160 --> 24:45.360
+Staying alive is not a thing you should take for granted. But don't let this idea of being
+
+24:45.360 --> 24:51.120
+attacked distress you too much. You are not just a mountain of flesh waiting to be conquered.
+
+24:51.120 --> 24:55.920
+Thankfully, you have a great ally in this fight for survival that, as we now know,
+
+24:55.920 --> 25:01.200
+we simply don't cherish and celebrate as much as it deserves your immune system.
+
+25:02.720 --> 25:08.320
+It makes you a fortress, and even more, a fortress filled with billions of the most
+
+25:08.320 --> 25:14.240
+effective and fierce soldiers in the universe. They have countless weapons at their disposal,
+
+25:14.240 --> 25:20.080
+and they use them without mercy. Your immune system army has already killed billions of
+
+25:20.080 --> 25:25.680
+enemies and parasites in your life, and it is ready to kill billions or trillions more.
+
+25:28.640 --> 25:33.600
+Okay, that's it for now. If you want to learn more about the epic tale of your immune system,
+
+25:34.240 --> 25:39.840
+you can pre-order the book via the links below. It's available as an audiobook and as a real book
+
+25:39.840 --> 25:55.280
+with 45 illustrations in German and English. Thank you for listening.
+

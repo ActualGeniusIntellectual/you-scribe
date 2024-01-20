@@ -1,0 +1,416 @@
+1
+00:00:00,000 --> 00:00:05,960
+Let's shrink an elephant to the size of a mouse and enlarge a mouse and make it the
+
+2
+00:00:05,960 --> 00:00:09,840
+size of an elephant, because this is our video and we want to see what happens.
+
+3
+00:00:09,840 --> 00:00:14,740
+First, our now tiny elephant stumbles around and then drops dead.
+
+4
+00:00:14,740 --> 00:00:18,480
+Tiny elephant buddy is very cold, frozen to death in minutes.
+
+5
+00:00:18,480 --> 00:00:23,100
+Our giant mouse looks very uncomfortable for a moment, and then it explodes, leaving hot
+
+6
+00:00:23,100 --> 00:00:25,360
+mouse insides everywhere.
+
+7
+00:00:25,360 --> 00:00:26,840
+Why?
+
+8
+00:00:26,840 --> 00:00:28,060
+Because of size.
+
+9
+00:00:28,060 --> 00:00:32,360
+We are optimized to function precisely for the size we are, and would die horribly in
+
+10
+00:00:32,360 --> 00:00:33,620
+any other environment.
+
+11
+00:00:33,620 --> 00:00:35,840
+But why exactly?
+
+12
+00:00:35,840 --> 00:00:51,300
+Why does our mouse explode, and can we do this to our elephant too if we try hard?
+
+13
+00:00:51,300 --> 00:00:53,780
+Life on this planet is based on cells.
+
+14
+00:00:53,780 --> 00:00:58,180
+Cells do vary in size, but they're pretty similar in their dimensions across all species.
+
+15
+00:00:58,180 --> 00:01:03,740
+A blue whale doesn't have bigger cells than a hummingbird, just a lot more of them.
+
+16
+00:01:03,740 --> 00:01:08,420
+Cells have to do a lot of stuff to stay alive, and they need energy to be able to do so.
+
+17
+00:01:08,420 --> 00:01:14,680
+To get this energy, animal cells convert food and oxygen into usable chemical energy.
+
+18
+00:01:14,680 --> 00:01:18,880
+This happens in our mitochondria, the powerhouse of the cell.
+
+19
+00:01:18,880 --> 00:01:23,000
+They're like little coal engines that spit out tiny ATP batteries, which the cell can
+
+20
+00:01:23,000 --> 00:01:26,040
+use for almost everything it needs to do.
+
+21
+00:01:26,040 --> 00:01:30,000
+Just like an engine, mitochondria get really hot while working.
+
+22
+00:01:30,000 --> 00:01:34,220
+In human skin cells, they reach a scorching 50 degrees Celsius.
+
+23
+00:01:34,220 --> 00:01:39,880
+And some of our cells have up to 2,000 mitochondria which are radiating their heat into the cell.
+
+24
+00:01:39,880 --> 00:01:43,000
+So being alive generates a lot of heat.
+
+25
+00:01:43,000 --> 00:01:46,840
+The more cells you have, the more heat your body generates in total.
+
+26
+00:01:46,840 --> 00:01:51,480
+If our bodies didn't find ways of losing this heat, we would be cooked from the inside and
+
+27
+00:01:51,480 --> 00:01:53,040
+die.
+
+28
+00:01:53,040 --> 00:01:57,120
+But this is a problem for bigger animals because of the way bodies change as living beings
+
+29
+00:01:57,120 --> 00:01:59,000
+scale up.
+
+30
+00:01:59,000 --> 00:02:01,840
+Animals have three properties here that are important.
+
+31
+00:02:01,840 --> 00:02:07,100
+Their length, their outsides or skin, and their insides like organs, bones, and hopes
+
+32
+00:02:07,100 --> 00:02:08,560
+and dreams.
+
+33
+00:02:08,560 --> 00:02:12,560
+The thing that's hard to wrap your head around is that when things grow, their insides grow
+
+34
+00:02:12,560 --> 00:02:15,320
+faster than their outsides.
+
+35
+00:02:15,320 --> 00:02:17,200
+Imagine a fleshy cube.
+
+36
+00:02:17,200 --> 00:02:21,760
+If you double the length of its sides, its surface and volume do not double.
+
+37
+00:02:21,760 --> 00:02:26,240
+In fact, the surface is now four times the original size and the volume of the cube eight
+
+38
+00:02:26,240 --> 00:02:31,760
+times the original size, which is called the square cube law and has been annoying nature
+
+39
+00:02:31,760 --> 00:02:34,100
+for billions of years.
+
+40
+00:02:34,100 --> 00:02:37,120
+So why is this a problem for big animals?
+
+41
+00:02:37,120 --> 00:02:40,560
+Because heat can only leave an object via its surface.
+
+42
+00:02:40,560 --> 00:02:46,760
+So if we make our mouse the size of an elephant or 60 times longer, it has 3,600 times more
+
+43
+00:02:46,760 --> 00:02:53,200
+surface from which to lose heat, but it has 216,000 times more volume filled with trillions
+
+44
+00:02:53,200 --> 00:02:57,760
+and trillions of new hot mitochondria that produce more heat.
+
+45
+00:02:57,760 --> 00:03:01,360
+A lot more insides, not that much more skin.
+
+46
+00:03:01,360 --> 00:03:05,200
+Our mouse is very dead very fast.
+
+47
+00:03:05,200 --> 00:03:07,800
+But big things like elephants exist.
+
+48
+00:03:07,800 --> 00:03:10,440
+So how do they deal with the heat?
+
+49
+00:03:10,440 --> 00:03:14,880
+For one, they evolved ways to get rid of energy more easily, like huge flat ears that have
+
+50
+00:03:14,880 --> 00:03:18,160
+a lot of surface where heat can escape.
+
+51
+00:03:18,160 --> 00:03:19,620
+But that's not enough.
+
+52
+00:03:19,620 --> 00:03:22,860
+Nature's solution is actually very elegant.
+
+53
+00:03:22,860 --> 00:03:26,680
+Elephant cells are much, much slower than mice cells.
+
+54
+00:03:26,680 --> 00:03:30,440
+The bigger an animal is, the less active its cells are.
+
+55
+00:03:30,440 --> 00:03:34,880
+If we classify animals by their metabolic rates and compare that to their overall mass,
+
+56
+00:03:34,880 --> 00:03:36,760
+it's clearly visible.
+
+57
+00:03:36,760 --> 00:03:41,260
+It's not 100% accurate, but it is a good rule of thumb.
+
+58
+00:03:41,260 --> 00:03:45,920
+Elephants are huge meat sacks filled with trillions and trillions of little coal ovens.
+
+59
+00:03:45,920 --> 00:03:51,260
+So they keep the ovens just active enough to keep them running and never at full power.
+
+60
+00:03:51,260 --> 00:03:53,440
+Their whole metabolism is slow.
+
+61
+00:03:53,440 --> 00:03:56,500
+Things move at a nice, chill pace.
+
+62
+00:03:56,500 --> 00:03:59,160
+Small animals need to go the exact opposite way.
+
+63
+00:03:59,160 --> 00:04:03,860
+If you're small, you have a lot of surface area compared to not a lot of volume.
+
+64
+00:04:03,860 --> 00:04:08,860
+You don't have a lot of cell ovens and lose the heat they produce very fast.
+
+65
+00:04:08,860 --> 00:04:13,020
+So very tiny mammals came up with a very extreme solution.
+
+66
+00:04:13,020 --> 00:04:18,220
+Meet the Etruscan Shrew, the smallest mammal on Earth, a mole-like thing that's more closely
+
+67
+00:04:18,220 --> 00:04:20,740
+related to hedgehogs than to mice.
+
+68
+00:04:20,740 --> 00:04:26,680
+With a body length of 4 centimeters, it only weighs about 1.8 grams, as much as a paperclip.
+
+69
+00:04:26,680 --> 00:04:29,100
+It's a tiny, ridiculous being.
+
+70
+00:04:29,100 --> 00:04:34,140
+It would basically cool off immediately, so its cells run on overdrive to stay warm.
+
+71
+00:04:34,140 --> 00:04:37,420
+Its tiny ovens are filled at maximum capacity.
+
+72
+00:04:37,420 --> 00:04:42,960
+Its heart beats up to 1,200 times a minute, and it breathes up to 800 times a minute.
+
+73
+00:04:42,960 --> 00:04:47,760
+This creates an extreme need for energy, so the shrew has to eat constantly.
+
+74
+00:04:47,760 --> 00:04:51,660
+After only four hours without food, it starves to death.
+
+75
+00:04:51,660 --> 00:04:56,100
+And while an African elephant consumes around 4% of its body weight in food each day, our
+
+76
+00:04:56,100 --> 00:05:00,900
+shrew needs 200% of its body weight in food a day just to survive.
+
+77
+00:05:00,900 --> 00:05:05,100
+Imagine having to eat 2,000 Big Macs a day, more than one a minute.
+
+78
+00:05:05,100 --> 00:05:08,060
+One for a while, but then not so much.
+
+79
+00:05:08,060 --> 00:05:13,660
+So a cubic centimeter of shrew needs 40 times more food than a cubic centimeter of elephant.
+
+80
+00:05:13,660 --> 00:05:18,500
+If an elephant's cells suddenly become as active as the cells of a shrew, a crazy amount
+
+81
+00:05:18,500 --> 00:05:20,460
+of heat would be generated.
+
+82
+00:05:20,460 --> 00:05:24,660
+All the liquids in the elephant would suddenly start boiling, and then it would explode in
+
+83
+00:05:24,660 --> 00:05:29,060
+an impressive explosion of steaming hot, burning elephant parts.
+
+84
+00:05:29,060 --> 00:05:33,540
+In reality, before an explosion occurred, the proteins making up our cells would probably
+
+85
+00:05:33,540 --> 00:05:36,480
+be denatured and stop producing heat.
+
+86
+00:05:36,480 --> 00:05:41,060
+But a meat explosion is much more fun than melting an elephant into a massive hot goo.
+
+87
+00:05:41,060 --> 00:05:46,540
+Regardless, the scaling of the speed of metabolism happens everywhere, even in places we don't
+
+88
+00:05:46,540 --> 00:05:48,860
+expect, like pregnant women.
+
+89
+00:05:48,860 --> 00:05:52,740
+A baby in the womb of its mother behaves as if it were a part of her.
+
+90
+00:05:52,740 --> 00:05:58,180
+Its cells have about the same metabolic rate, the same speed of life as its mother's organs.
+
+91
+00:05:58,180 --> 00:06:02,220
+It is truly a part of a bigger whole rather than an individual.
+
+92
+00:06:02,220 --> 00:06:04,340
+Until it's not anymore.
+
+93
+00:06:04,340 --> 00:06:09,180
+The very moment a baby is born, a switch is flipped and all its internal processes speed
+
+94
+00:06:09,180 --> 00:06:10,620
+up rapidly.
+
+95
+00:06:10,620 --> 00:06:17,900
+36 hours after birth, the baby's cells have the same activity rate as a mammal its size.
+
+96
+00:06:17,900 --> 00:06:23,180
+Babies literally transition from being an organ to being an individual in mere hours.
+
+97
+00:06:23,180 --> 00:06:28,300
+But there's one thing where big and small things are very similar, heartbeats.
+
+98
+00:06:28,300 --> 00:06:32,140
+Elephants tend to have a similar amount of heartbeats over their lifetime, typically
+
+99
+00:06:32,140 --> 00:06:34,540
+around 1 billion.
+
+100
+00:06:34,540 --> 00:06:39,300
+So while the shrew and elephant are very different, they share a similar number of heartbeats
+
+101
+00:06:39,300 --> 00:06:41,780
+over the course of their lives.
+
+102
+00:06:41,780 --> 00:06:46,500
+Their speed of life is the opposite and somehow still the same.
+
+103
+00:06:46,500 --> 00:06:51,240
+And for a video in which we made elephants explode for no good reason, this is the most
+
+104
+00:06:51,240 --> 00:06:53,220
+romantic ending we could come up with.
+

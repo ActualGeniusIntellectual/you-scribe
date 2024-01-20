@@ -1,0 +1,452 @@
+1
+00:00:00,000 --> 00:00:04,000
+Do we need nuclear energy to stop climate change?
+
+2
+00:00:04,000 --> 00:00:11,000
+More and more voices from science, environmental activists and the press have been saying so in recent years.
+
+3
+00:00:11,000 --> 00:00:17,000
+But this comes as a shock to those who are fighting against nuclear energy and the problems that come with it.
+
+4
+00:00:17,000 --> 00:00:22,000
+So who's right? Well, it's complicated.
+
+5
+00:00:22,000 --> 00:00:28,000
+To slow rapid climate change, the world needs to reduce greenhouse gas emissions to net zero.
+
+6
+00:00:28,000 --> 00:00:35,000
+In 2018, three-quarters of global emissions were released through energy production, namely by burning fossil fuels.
+
+7
+00:00:35,000 --> 00:00:41,000
+Energy is a broad term that describes all sorts of stuff from moving things and people around,
+
+8
+00:00:41,000 --> 00:00:45,000
+to putting things big and small together, or heating our homes.
+
+9
+00:00:45,000 --> 00:00:50,000
+Currently, 84% of the world's primary energy comes from fossil fuels.
+
+10
+00:00:50,000 --> 00:00:55,000
+33% from oil, 27% from coal and 24% from gas.
+
+11
+00:00:55,000 --> 00:01:02,000
+Around 10% of the global oil supply is just used to burn in boilers to make our homes cozy and warm.
+
+12
+00:01:02,000 --> 00:01:07,000
+Only about 16% of global energy is from low emission sources,
+
+13
+00:01:07,000 --> 00:01:15,000
+almost 7% from hydroelectric, 5% from solar, wind, bioenergy, wave, tidal and geothermal combined,
+
+14
+00:01:15,000 --> 00:01:18,000
+and about 4% from nuclear.
+
+15
+00:01:19,000 --> 00:01:24,000
+So we pretty much rely on coal, oil and gas to keep our civilization going,
+
+16
+00:01:24,000 --> 00:01:28,000
+which means it's actually very hard to transition away from them.
+
+17
+00:01:28,000 --> 00:01:33,000
+To have a chance of escaping fossil fuels without throwing humanity back into the Stone Age,
+
+18
+00:01:33,000 --> 00:01:39,000
+one of the most impactful things we can do is to electrify as many sectors as possible.
+
+19
+00:01:39,000 --> 00:01:46,000
+Electricity is the stuff that appears like magic when you plug something into a socket so you can watch YouTube.
+
+20
+00:01:46,000 --> 00:01:55,000
+Every industry that can switch from burning fossil fuels to electricity needs to do so from electric cars to electric heaters.
+
+21
+00:01:55,000 --> 00:01:58,000
+Why do we need to bet so hard on electricity?
+
+22
+00:01:58,000 --> 00:02:05,000
+Because we can produce electricity with low emission technologies like solar, wind or nuclear.
+
+23
+00:02:05,000 --> 00:02:09,000
+So electricity is a real lever for a radical transition.
+
+24
+00:02:09,000 --> 00:02:14,000
+But there are a few problems making this transition really hard.
+
+25
+00:02:14,000 --> 00:02:21,000
+First of all, in most places in the world, electricity is still generated mostly by burning fossil fuels.
+
+26
+00:02:21,000 --> 00:02:29,000
+And not only that, in the last 20 years, the world's electricity usage increased 73% in absolute terms.
+
+27
+00:02:29,000 --> 00:02:34,000
+While we are installing renewables at record speeds, at the same time,
+
+28
+00:02:34,000 --> 00:02:39,000
+the amount of fossil fuel we're burning for electricity still keeps rising year by year.
+
+29
+00:02:39,000 --> 00:02:44,000
+Renewables have so far not been able to catch up with the demand for new electricity,
+
+30
+00:02:44,000 --> 00:02:50,000
+and so despite our progress, emissions from electricity are still rising worldwide.
+
+31
+00:02:50,000 --> 00:02:53,000
+The other alternative to fossil fuels is nuclear.
+
+32
+00:02:53,000 --> 00:03:00,000
+And even though it's not renewable, its greenhouse gas emissions are tiny compared to burning stuff.
+
+33
+00:03:00,000 --> 00:03:04,000
+But in the last 20 years, nuclear has basically stagnated.
+
+34
+00:03:04,000 --> 00:03:08,000
+Countries like China, India and South Korea built new reactors,
+
+35
+00:03:08,000 --> 00:03:13,000
+while Germany and Japan have been actively taking their nuclear plants offline.
+
+36
+00:03:13,000 --> 00:03:19,000
+Which seems a bit weird if we look at the countries with the most low carbon electricity in the world
+
+37
+00:03:19,000 --> 00:03:24,000
+that get most of their juice mainly from two sources, nuclear or hydropower.
+
+38
+00:03:24,000 --> 00:03:26,000
+Take France and Sweden.
+
+39
+00:03:26,000 --> 00:03:30,000
+In France, only around 10% comes from fossil fuels,
+
+40
+00:03:30,000 --> 00:03:36,000
+while 67% comes from nuclear and 23% from renewables, primarily hydro.
+
+41
+00:03:36,000 --> 00:03:42,000
+In Sweden, almost 30% comes from nuclear power and about 45% from hydro.
+
+42
+00:03:42,000 --> 00:03:46,000
+So we know that nuclear energy can work at scale.
+
+43
+00:03:46,000 --> 00:03:51,000
+On the technical side, because of the lack of investment and innovation in the last few decades,
+
+44
+00:03:51,000 --> 00:03:57,000
+the majority of the world's nuclear reactors are pretty old technology that's very costly to replace.
+
+45
+00:03:57,000 --> 00:04:04,000
+In most Western countries, building nuclear reactors has become very expensive for a variety of reasons,
+
+46
+00:04:04,000 --> 00:04:09,000
+like a loss of know-how in constructing them, policy changes and increased regulatory constraints,
+
+47
+00:04:09,000 --> 00:04:13,000
+so it can take a decade or longer just to finish a power plant.
+
+48
+00:04:13,000 --> 00:04:17,000
+In contrast, countries like South Korea, China, India and Russia
+
+49
+00:04:17,000 --> 00:04:22,000
+are able to build new nuclear reactors comparatively quickly and at a competitive cost.
+
+50
+00:04:22,000 --> 00:04:26,000
+Still, generally in the West, the current generation of nuclear power plants
+
+51
+00:04:26,000 --> 00:04:31,000
+are more expensive to build and maintain than most fossil fuel alternatives.
+
+52
+00:04:31,000 --> 00:04:35,000
+There are also the concerns about nuclear waste and the fear of accidents,
+
+53
+00:04:35,000 --> 00:04:38,000
+but we cover those in other videos in more detail.
+
+54
+00:04:38,000 --> 00:04:43,000
+We have designs for nuclear reactors that solve many of their problems,
+
+55
+00:04:43,000 --> 00:04:47,000
+namely small reactors that take less time and money to get started.
+
+56
+00:04:47,000 --> 00:04:53,000
+There are also next-generation technologies that can already turn radioactive waste into new fuel,
+
+57
+00:04:53,000 --> 00:05:00,000
+but so far, these have not been deployed at a scale where they can have a significant impact on the nuclear sector.
+
+58
+00:05:00,000 --> 00:05:06,000
+Considering these uncertainties, some argue that nuclear power is a dangerous relic of the past
+
+59
+00:05:06,000 --> 00:05:10,000
+and that we should just let it go and focus on renewables.
+
+60
+00:05:10,000 --> 00:05:14,000
+But while renewables undoubtedly are the future of electricity,
+
+61
+00:05:14,000 --> 00:05:17,000
+they still have their own huge challenges to overcome
+
+62
+00:05:17,000 --> 00:05:21,000
+before they can take over the vast majority of the electricity grid.
+
+63
+00:05:21,000 --> 00:05:25,000
+The main problem is reliability and consistency.
+
+64
+00:05:25,000 --> 00:05:28,000
+It's not always windy and the sun doesn't always shine,
+
+65
+00:05:28,000 --> 00:05:33,000
+especially in the mornings and evenings when humans need the most electricity.
+
+66
+00:05:33,000 --> 00:05:38,000
+The variations between seasons don't make this issue easier.
+
+67
+00:05:38,000 --> 00:05:41,000
+To make renewables reliable and not risk blackouts,
+
+68
+00:05:41,000 --> 00:05:47,000
+we need massive storage capacities where we can save energy collected when the sun or wind are at their peak
+
+69
+00:05:47,000 --> 00:05:50,000
+and release it later when we actually need it.
+
+70
+00:05:50,000 --> 00:05:56,000
+Until this is possible, other sources of electricity need to provide a controllable load
+
+71
+00:05:56,000 --> 00:06:01,000
+that creates the reliability of supply that our civilization needs to run properly.
+
+72
+00:06:01,000 --> 00:06:08,000
+Eventually, we will be able to do this with renewables, but we need a lot of batteries or storage power plants.
+
+73
+00:06:09,000 --> 00:06:16,000
+Right now, we simply don't have the tech and the capacities to make this transition fast enough to replace fossil fuels.
+
+74
+00:06:16,000 --> 00:06:21,000
+But even if we could, there's another aspect we have to take into account.
+
+75
+00:06:21,000 --> 00:06:28,000
+We're not just trying to kick fossil fuels out of electricity, we're trying to replace energy with electricity.
+
+76
+00:06:28,000 --> 00:06:34,000
+If we're going to electrify sectors that currently use fossil fuels, like cars or heating,
+
+77
+00:06:34,000 --> 00:06:40,000
+we will need significantly more electricity than we're currently using everywhere around the world.
+
+78
+00:06:40,000 --> 00:06:48,000
+And if the electricity needs of the world population continue to grow as they have over the last 20 years, we'll need even more.
+
+79
+00:06:48,000 --> 00:06:54,000
+It all comes down to one thing. No energy source is perfect. All have their own unique problems.
+
+80
+00:06:54,000 --> 00:07:00,000
+Both renewables and nuclear energy require time, investment, and technological innovation.
+
+81
+00:07:00,000 --> 00:07:08,000
+On their own, neither is ready to remove fossil fuels from our electricity grid, although activists on both sides claim that they are.
+
+82
+00:07:08,000 --> 00:07:13,000
+In the end, the question is how we want to deal with all these challenges.
+
+83
+00:07:13,000 --> 00:07:19,000
+Should we give up nuclear immediately and at least temporarily accept higher emissions?
+
+84
+00:07:19,000 --> 00:07:28,000
+Will we try to extend the life of current nuclear reactors and shut them down afterwards while solving the shortcomings of renewables?
+
+85
+00:07:28,000 --> 00:07:35,000
+Or will we invest in new nuclear technology to get new nuclear reactor types that are cheaper and safer?
+
+86
+00:07:35,000 --> 00:07:38,000
+Or will we maybe do both?
+
+87
+00:07:38,000 --> 00:07:41,000
+Opinion part starts here.
+
+88
+00:07:41,000 --> 00:07:51,000
+Considering the risks that climate change poses for the biosphere and humanity, any technology that has a chance of contributing to a solution should be pursued.
+
+89
+00:07:51,000 --> 00:07:54,000
+That's just good risk management and strategy.
+
+90
+00:07:54,000 --> 00:08:03,000
+If preventing rapid climate change as quickly as possible is our goal, it might be a good idea to see nuclear and renewables not as opponents, but as partners.
+
+91
+00:08:03,000 --> 00:08:09,000
+We know there's no time to waste, so we should keep all of our low-emission players on the field.
+
+92
+00:08:09,000 --> 00:08:14,000
+As things are, both nuclear and renewables need innovation and investment.
+
+93
+00:08:14,000 --> 00:08:21,000
+But if we don't know yet which technology will be ready how quickly, why not just invest in both and see what happens?
+
+94
+00:08:21,000 --> 00:08:32,000
+And on the topic of current capacities, if we take nuclear energy offline right now, then that missing capacity will be replaced, at least partially, by fossil fuels.
+
+95
+00:08:32,000 --> 00:08:46,000
+Even if new nuclear power plants in the West are expensive, in the long run it may be cheaper to build them as long as they prevent more fossil fuel capacity being added and paying for the consequences of rapid climate change.
+
+96
+00:08:46,000 --> 00:08:49,000
+So, do we need nuclear energy?
+
+97
+00:08:49,000 --> 00:08:54,000
+Well, it really depends how hard we choose to make things for ourselves.
+
+98
+00:08:54,000 --> 00:09:01,000
+And in a world that's already having a really hard time quitting fossil fuels, why should we make things harder than necessary?
+
+99
+00:09:01,000 --> 00:09:07,000
+Starting the change process and trying something new is always difficult.
+
+100
+00:09:07,000 --> 00:09:10,000
+Luckily, you don't have to do it all on your own.
+
+101
+00:09:10,000 --> 00:09:13,000
+If you want to get out of a rut, we've got something for you.
+
+102
+00:09:14,000 --> 00:09:24,000
+We are big fans of Skillshare, an online learning community that offers thousands of classes for all skill levels in tons of creative disciplines like illustration, animation, or film and video.
+
+103
+00:09:24,000 --> 00:09:31,000
+Or you could try a class on home decoration, growing house plants, or playing the guitar. There's something for everyone, really.
+
+104
+00:09:31,000 --> 00:09:40,000
+Unlimited access to all the classes is less than $10 a month with an annual premium membership, and the first 1000 Kurzgesagt viewers to click the link in the description will get a free trial.
+
+105
+00:09:40,000 --> 00:09:50,000
+Since we started working with Skillshare, you, our viewers, have taken over 100,000 hours of classes, including our own three Skillshare classes on how we make our animations.
+
+106
+00:09:50,000 --> 00:09:53,000
+If you want to learn more about motion graphics, give them a try.
+
+107
+00:09:53,000 --> 00:10:01,000
+And if you need an extra little push to get you going, maybe get started with some advice on motivation and inspiration.
+
+108
+00:10:02,000 --> 00:10:10,000
+We liked the scientific method for artists. Find inspiration, get motivated, and grow your creative skills by Kendall Hillegas.
+
+109
+00:10:10,000 --> 00:10:16,000
+In this class, Kendall explains her four-phase process for exploring and figuring out your direction as an artist.
+
+110
+00:10:16,000 --> 00:10:19,000
+For us, it was a great way to get into the flow of creating something.
+
+111
+00:10:19,000 --> 00:10:24,000
+But anything that makes you feel excited and sparks new ideas is a great first step.
+
+112
+00:10:24,000 --> 00:10:29,000
+If you want to get creative with new skills and support Kurzgesagt, give it a go.
+
+113
+00:10:31,000 --> 00:10:42,000
+www.kurzgesagt.com
+

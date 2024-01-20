@@ -1,0 +1,256 @@
+1
+00:00:00,000 --> 00:00:05,680
+Human society is extremely complex and fragile, built upon various pillars.
+
+2
+00:00:05,680 --> 00:00:12,400
+One of them is the honeybee. One out of three meals eaten by humans is made possible by honeybees.
+
+3
+00:00:12,400 --> 00:00:16,160
+They are so important that if all the honeybees were to die out,
+
+4
+00:00:16,160 --> 00:00:20,960
+thousands of plants would follow, which could lead to millions of people starving in the following
+
+5
+00:00:20,960 --> 00:00:26,320
+years. On top of that, honeybees have a huge economic impact. The dollar value of plants
+
+6
+00:00:26,320 --> 00:00:32,080
+pollinated by them each year is around 265 billion. Food we take for granted would just
+
+7
+00:00:32,080 --> 00:00:37,200
+stop existing without them, or there would be a massive decrease in productivity. Food including
+
+8
+00:00:37,200 --> 00:00:42,400
+apples, onions, pumpkins, and also plants used for feeding livestock are thus extremely important for
+
+9
+00:00:42,400 --> 00:00:48,240
+our milk and meat. Einstein is often quoted as having said, if honeybees die out, humans will
+
+10
+00:00:48,240 --> 00:00:53,360
+follow a few years later. Actually, he probably didn't say that, but there might be some truth
+
+11
+00:00:53,360 --> 00:00:59,440
+in the statement. It's unsettling, but honeybees have started to disappear. Millions of hives have
+
+12
+00:00:59,440 --> 00:01:06,240
+died in the last few years. Beekeepers all over the world have seen an annual loss of 30 to 90%
+
+13
+00:01:06,240 --> 00:01:12,880
+of their colonies. In the US alone, bees are steadily declining, from 5 million hives in 1988
+
+14
+00:01:12,880 --> 00:01:20,080
+to 2.5 million today. Since 2006, a phenomenon called colony collapse disorder has affected
+
+15
+00:01:20,080 --> 00:01:25,760
+honeybees in many countries, and we're not entirely sure what's causing it. All we know
+
+16
+00:01:25,760 --> 00:01:37,600
+is that it's pretty serious. Over the last few decades, bees have seen an invasion of very
+
+17
+00:01:37,600 --> 00:01:44,400
+dangerous foes. Parasites straight out of a horror movie, like a carapace woody. Microscopic mites
+
+18
+00:01:44,400 --> 00:01:50,000
+that infect the trachea, that's the breathing tubes, of bees. Here, they lay their eggs and
+
+19
+00:01:50,000 --> 00:01:55,120
+feed from the fluids of their victims, weakening them considerably and spending their whole life
+
+20
+00:01:55,120 --> 00:02:01,280
+inside the bees. Or Varroa destructor, a fitting name because they can only reproduce in honeybee
+
+21
+00:02:01,280 --> 00:02:07,040
+hives and are one of the bee's greatest enemies. The female mite enters a honeybee brood cell and
+
+22
+00:02:07,040 --> 00:02:12,320
+lays eggs on the bee larva before it's about to pupate and before the hive bees cover the cell
+
+23
+00:02:12,320 --> 00:02:17,840
+with a wax capping. The eggs hatch and the young mites and their mother feed on the developing bee
+
+24
+00:02:17,840 --> 00:02:22,960
+in the safety of the capped cell. The bee is not normally killed at this stage, just weakened,
+
+25
+00:02:22,960 --> 00:02:27,360
+so it still has enough strength to chew its way through the wax capping and release itself from
+
+26
+00:02:27,360 --> 00:02:32,800
+the cell. As it does, it releases the mother mite and her new offspring from the cell and these are
+
+27
+00:02:32,800 --> 00:02:38,240
+free to spread across the hive, starting the process over again in a cycle of about 10 days.
+
+28
+00:02:38,240 --> 00:02:43,120
+Their numbers grow exponentially and after a few months, this can lead to the collapse of the
+
+29
+00:02:43,120 --> 00:02:49,440
+entire beehive. Once outside of the cell, adult mites also suck the bodily fluids of bees and
+
+30
+00:02:49,440 --> 00:02:54,800
+weaken them considerably. To make things worse, they also transmit viruses that harm the bees
+
+31
+00:02:54,800 --> 00:03:00,480
+even more and can lead to birth defects like useless wings. But there are other threats too,
+
+32
+00:03:00,480 --> 00:03:05,760
+such as viruses and fungi. Under normal circumstances, these phenomena should be
+
+33
+00:03:05,760 --> 00:03:11,120
+manageable and are not enough to explain the horrendous amount of dying going on in bees.
+
+34
+00:03:11,120 --> 00:03:16,160
+Over recent years, new insecticides have been introduced that are deadly to bees.
+
+35
+00:03:16,160 --> 00:03:21,840
+Neonicotinoids, a chemical family similar to nicotine, was approved in the early 1990s as
+
+36
+00:03:21,840 --> 00:03:28,080
+an alternative to chemicals like DDT. They attack insects by harming their nervous systems. Today,
+
+37
+00:03:28,080 --> 00:03:34,080
+they are the most widely used insecticides in the world. Globally, they saw sales of 1.5 billion
+
+38
+00:03:34,080 --> 00:03:41,840
+euros in 2008, representing 24% of the global market for insecticides. In 2013, neonicotinoids
+
+39
+00:03:41,840 --> 00:03:48,160
+were used in the US on about 95% of corn and canola crops and also on the vast majority of
+
+40
+00:03:48,160 --> 00:03:55,120
+fruit and vegetables like apples, cherries, peaches, oranges, berries, leafy greens, tomatoes,
+
+41
+00:03:55,120 --> 00:04:02,400
+potatoes, cereal grains, rice, nuts, grapes, and many more. Bees come into contact with the toxin
+
+42
+00:04:02,400 --> 00:04:07,440
+while collecting pollen or via contaminated water, often bringing material into the hive
+
+43
+00:04:07,440 --> 00:04:13,760
+where it can accumulate and slowly kill the whole colony. The toxins harm bees in a variety of
+
+44
+00:04:13,760 --> 00:04:19,600
+horrible ways. In high enough doses, it quickly leads to convulsions, paralysis, and death. But
+
+45
+00:04:19,600 --> 00:04:24,880
+even in small doses, it can be fatal. It may lead to bees forgetting how to navigate the world,
+
+46
+00:04:24,880 --> 00:04:31,120
+so bees fly into the wild, get lost, and die alone, separated from their hives. If this happens
+
+47
+00:04:31,120 --> 00:04:36,800
+often enough, a hive can lose its ability to sustain itself. We know that neonicotinoids
+
+48
+00:04:36,800 --> 00:04:42,000
+are harmful to bees and that we urgently need an alternative to it. But there are billions of
+
+49
+00:04:42,000 --> 00:04:47,040
+dollars to be made in delaying this. Studies sponsored by the chemical industry magically
+
+50
+00:04:47,040 --> 00:04:52,160
+appear to prove a much lower toxicity to bees compared to those produced by independent
+
+51
+00:04:52,160 --> 00:04:56,880
+scientists. There are even more factors contributing to the demise of bees, like too
+
+52
+00:04:56,880 --> 00:05:02,640
+much genetic uniformity, crop monocultures, poor nutrition due to overcrowding, stress because of
+
+53
+00:05:02,640 --> 00:05:08,160
+human activities, and other pesticides. Each of those factors on its own is a major problem for
+
+54
+00:05:08,160 --> 00:05:14,000
+bees, but together, they probably account for colony collapse disorder. With parasites upping
+
+55
+00:05:14,000 --> 00:05:18,960
+their game in recent decades, the honey bees are now fighting for survival. It would be a
+
+56
+00:05:18,960 --> 00:05:25,440
+catastrophe if they lost this fight. This is a conundrum we have to solve if we want to continue
+
+57
+00:05:25,440 --> 00:05:31,440
+living with a relative abundance and diversity of food. Humanity is deeply interconnected with
+
+58
+00:05:31,440 --> 00:05:36,800
+Earth and the other life forms on it. Even if we pretend that we're not, we have to take better
+
+59
+00:05:36,800 --> 00:05:41,920
+care of our surroundings. If not to preserve the beauty of nature, then at least to ensure our own
+
+60
+00:05:41,920 --> 00:05:48,880
+survival. This video is supported by the Australian Academy of Science, which promotes and supports
+
+61
+00:05:48,880 --> 00:05:54,480
+excellence in science. See more at nova.org.au. It was a blast to work with them,
+
+62
+00:05:54,480 --> 00:06:00,240
+so go check out their site. Our videos are also made possible by your support on patreon.com.
+
+63
+00:06:00,240 --> 00:06:05,200
+Recently, we passed an important milestone, which is why there will be an additional video in July.
+
+64
+00:06:05,200 --> 00:06:11,200
+If you want to support us and become part of the Kurzgesagt bird army, check out our Patreon page.
+

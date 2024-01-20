@@ -1,0 +1,588 @@
+1
+00:00:00,880 --> 00:00:04,160
+Supernovae are the most powerful explosions in the universe,
+
+2
+00:00:04,160 --> 00:00:07,200
+unleashing enough energy to outshine galaxies.
+
+3
+00:00:08,000 --> 00:00:10,240
+We have no real metaphor for their power.
+
+4
+00:00:10,800 --> 00:00:13,040
+If the sun were to magically go supernova,
+
+5
+00:00:13,040 --> 00:00:18,400
+it would feel like you were being hit by the energy of a nuclear explosion every second for weeks.
+
+6
+00:00:19,680 --> 00:00:22,480
+While supernovae are the engines of creation,
+
+7
+00:00:22,480 --> 00:00:27,760
+forging the elements that enable life, they also burn sterile whole regions of galaxies.
+
+8
+00:00:28,640 --> 00:00:30,960
+So what would happen if one hit Earth?
+
+9
+00:00:40,480 --> 00:00:43,840
+There are, roughly speaking, two ways to make a supernova.
+
+10
+00:00:43,840 --> 00:00:47,280
+Either the core of a massive star implodes, or less common,
+
+11
+00:00:47,280 --> 00:00:51,360
+a white dwarf gains mass to the point where it ignites explosive nuclear fusion.
+
+12
+00:00:52,000 --> 00:00:55,360
+The outcome is the same, a supernova explosion.
+
+13
+00:00:56,320 --> 00:01:00,640
+When we think of an explosion on Earth, we think of something that happens fast and ends.
+
+14
+00:01:01,200 --> 00:01:05,440
+But a supernova is more like a volcanic eruption followed by a tsunami.
+
+15
+00:01:06,000 --> 00:01:09,760
+At first, there's a colorful ball of hot, expanding gas,
+
+16
+00:01:09,760 --> 00:01:13,680
+creating a spectacular cloud that will shine for about a month.
+
+17
+00:01:13,680 --> 00:01:15,280
+But then, it doesn't stop.
+
+18
+00:01:16,160 --> 00:01:20,480
+Hot and dangerous gas rushes outwards at speeds of 10,000 kilometers a second
+
+19
+00:01:20,480 --> 00:01:24,000
+through the near vacuum of space, sweeping up the sparse gas of the galaxy.
+
+20
+00:01:24,880 --> 00:01:28,400
+This wall of gas expands for tens of thousands of years,
+
+21
+00:01:28,400 --> 00:01:32,960
+and will eventually span up to dozens of lightyears until it finally cools off
+
+22
+00:01:32,960 --> 00:01:35,840
+and disperses its substance back into the galaxy.
+
+23
+00:01:36,800 --> 00:01:39,920
+So what if this star tsunami hits us?
+
+24
+00:01:40,880 --> 00:01:43,920
+Well, the damage depends on how far away it is.
+
+25
+00:01:48,560 --> 00:01:53,200
+Humans have witnessed dozens of supernovae, but all of them were thousands of lightyears away.
+
+26
+00:01:53,760 --> 00:02:00,160
+They appeared as new stars, some outshining the moon, twinkling for a few weeks, and disappearing.
+
+27
+00:02:00,160 --> 00:02:03,520
+Aside from looking very pretty at this distance, they don't do much to us.
+
+28
+00:02:07,680 --> 00:02:12,080
+Things begin to get a bit icky once a supernova occurs around 300 lightyears away.
+
+29
+00:02:12,640 --> 00:02:16,320
+We can expect one this close to us every few million years.
+
+30
+00:02:16,320 --> 00:02:20,160
+A single star giving the night sky an eerie glow like twilight.
+
+31
+00:02:20,640 --> 00:02:25,760
+And while this is far enough away and dim enough to not do harm to us, they can affect the Earth.
+
+32
+00:02:26,400 --> 00:02:31,200
+At these distances, it's like being hit by the last weak waves of the star tsunami.
+
+33
+00:02:31,920 --> 00:02:35,040
+Not strong enough to do real damage, but still noticeable.
+
+34
+00:02:35,920 --> 00:02:38,800
+In fact, we know that over the past 10 million years,
+
+35
+00:02:38,800 --> 00:02:41,840
+multiple supernovae have struck Earth from these distances,
+
+36
+00:02:41,840 --> 00:02:44,560
+because we can find radioactive isotopes of iron
+
+37
+00:02:44,560 --> 00:02:47,040
+deep in the rocks and sediments at the bottom of the ocean.
+
+38
+00:02:47,920 --> 00:02:50,640
+Amazingly, these supernovae around the solar system
+
+39
+00:02:50,640 --> 00:02:55,200
+have cleared a 1000 lightyear wide pocket of space that's called the local bubble.
+
+40
+00:02:55,920 --> 00:02:58,880
+They blew away the interstellar gas and dust,
+
+41
+00:02:58,880 --> 00:03:02,720
+creating a lumpy wall of gas that's now a cradle for star formation.
+
+42
+00:03:03,840 --> 00:03:06,720
+Stage 3, 150 lightyears away.
+
+43
+00:03:08,080 --> 00:03:11,760
+Once a supernova happens much closer than 300 lightyears,
+
+44
+00:03:11,760 --> 00:03:14,480
+we're approaching the zone where it does real damage.
+
+45
+00:03:15,280 --> 00:03:18,640
+Stars have extremely powerful magnetic fields.
+
+46
+00:03:18,640 --> 00:03:23,760
+When they die, the tsunami of dead star actually retains a lot of this magnetic energy
+
+47
+00:03:23,760 --> 00:03:26,320
+woven through the shockwave that expands outwards.
+
+48
+00:03:27,200 --> 00:03:31,760
+In this highly magnetized cloud, we get conditions like in a huge particle accelerator
+
+49
+00:03:31,760 --> 00:03:37,280
+that's accelerating charged particles like protons, nuclei, and electrons to immense speeds.
+
+50
+00:03:37,280 --> 00:03:42,560
+Which means we have an expanding cloud that is shooting deadly radiation in all directions,
+
+51
+00:03:42,560 --> 00:03:45,920
+long after the bright light from the initial explosion has faded away.
+
+52
+00:03:46,640 --> 00:03:48,960
+If a supernova happens too close by,
+
+53
+00:03:48,960 --> 00:03:53,840
+waves of these cosmic rays will wash over the solar system for thousands of years.
+
+54
+00:03:54,720 --> 00:03:58,640
+While we're mostly protected on Earth's surface by the atmosphere and ozone layer,
+
+55
+00:03:58,640 --> 00:04:02,560
+the influx of extra radiation will still increase cancer and mutation rates.
+
+56
+00:04:03,200 --> 00:04:06,640
+Not enough to cause a mass extinction, but it will be noticeable.
+
+57
+00:04:07,360 --> 00:04:09,920
+Spaceflight would become impossible in the solar system,
+
+58
+00:04:09,920 --> 00:04:13,040
+as astronauts wouldn't survive the waves of radiation for long.
+
+59
+00:04:13,920 --> 00:04:18,560
+We don't know exactly how bad this would be, but a supernova that is close enough
+
+60
+00:04:18,560 --> 00:04:22,960
+may trap our species on Earth for generations, maybe thousands of years.
+
+61
+00:04:23,680 --> 00:04:25,360
+It only gets worse from here.
+
+62
+00:04:26,080 --> 00:04:28,880
+Stage four, closer than 100 lightyears.
+
+63
+00:04:29,760 --> 00:04:32,400
+Within 100 lightyears, things get bad,
+
+64
+00:04:32,400 --> 00:04:36,320
+as a supernova disrupts our climate in ways that we don't fully understand yet.
+
+65
+00:04:37,040 --> 00:04:40,240
+There are a few unpleasant things happening all one after another.
+
+66
+00:04:40,800 --> 00:04:43,840
+First, the high-energy photons arrive from the explosion,
+
+67
+00:04:43,840 --> 00:04:47,360
+followed by many decades of radiation from the radioactive tsunami,
+
+68
+00:04:47,360 --> 00:04:52,640
+both of which seriously damage the ozone layer, Earth's shield against harmful radiation.
+
+69
+00:04:52,640 --> 00:04:56,960
+The ozone layer absorbs ultraviolet radiation by breaking apart ozone,
+
+70
+00:04:56,960 --> 00:05:03,120
+O3, into O2 and a free oxygen atom, which later reforms back into another ozone molecule.
+
+71
+00:05:03,760 --> 00:05:08,320
+But the supernova radiation breaks up nitrogen molecules that gobble up the free oxygen,
+
+72
+00:05:08,320 --> 00:05:11,520
+breaking the cycle, and depleting the ozone layer quickly.
+
+73
+00:05:12,320 --> 00:05:13,840
+Without a radiation shield,
+
+74
+00:05:13,840 --> 00:05:19,200
+everybody living on the surface is exposed to very high levels of UV radiation from our sun.
+
+75
+00:05:19,200 --> 00:05:23,760
+Cancer rates would skyrocket, and just going outside during the day could be life-threatening.
+
+76
+00:05:24,480 --> 00:05:29,040
+The extra radiation would also kill a lot, if not most, of the plankton in the oceans
+
+77
+00:05:29,040 --> 00:05:32,800
+that live near the surface and are the basis for the marine food chains.
+
+78
+00:05:33,360 --> 00:05:35,280
+This leads to a mass extinction.
+
+79
+00:05:35,280 --> 00:05:38,960
+Worse still, supernova radiation would ionize gas in the atmosphere,
+
+80
+00:05:38,960 --> 00:05:42,800
+which means that it would punch through molecules and knock electrons off nuclei,
+
+81
+00:05:42,800 --> 00:05:47,840
+leaving them charged. These charged nuclei then act as seeds for water vapor to gather
+
+82
+00:05:47,840 --> 00:05:49,600
+and form massive global clouds.
+
+83
+00:05:50,320 --> 00:05:53,920
+In the worst case, they would reflect enough sunlight to trigger an ice age.
+
+84
+00:05:54,960 --> 00:06:00,080
+In fact, it's thought that the ice age two and a half million years ago was caused by a supernova.
+
+85
+00:06:00,080 --> 00:06:03,920
+Some scientists even think that a supernova about 60 light years away
+
+86
+00:06:03,920 --> 00:06:08,160
+might have been the cause of the Devonian mass extinction 350 million years ago.
+
+87
+00:06:08,880 --> 00:06:10,320
+But wait, there's more.
+
+88
+00:06:11,040 --> 00:06:15,680
+The electrons punched free by the radiation form enormous electric avalanches,
+
+89
+00:06:15,680 --> 00:06:17,360
+or in other words, lightning.
+
+90
+00:06:18,000 --> 00:06:21,200
+Earth is hit by some of the worst thunderstorms in millions of years.
+
+91
+00:06:21,920 --> 00:06:26,400
+The intense lightning causes global wildfires that consume forests and crops,
+
+92
+00:06:26,400 --> 00:06:31,200
+devastate cities, disrupt our electrical grids and global supply chains,
+
+93
+00:06:31,200 --> 00:06:34,800
+all while a decimated ozone layer leaks deadly radiation.
+
+94
+00:06:35,840 --> 00:06:40,560
+While in the past, the ecosystem may have bounced back from a nearby supernova after a few thousand
+
+95
+00:06:40,560 --> 00:06:45,280
+or million years, there's no guarantee modern civilization can take a hit of this magnitude.
+
+96
+00:06:45,840 --> 00:06:49,680
+We would face food shortages, skyrocketing prices and wars
+
+97
+00:06:49,680 --> 00:06:52,560
+as nations struggle to not be consumed by chaos.
+
+98
+00:06:53,360 --> 00:06:57,120
+So a supernova this close would at the very least do significant damage
+
+99
+00:06:57,120 --> 00:07:01,520
+for hundreds or thousands of years, if not end our modern civilization,
+
+100
+00:07:01,520 --> 00:07:04,240
+and with its millions or even billions of lives.
+
+101
+00:07:04,960 --> 00:07:08,320
+Still, humanity would likely survive and could recover.
+
+102
+00:07:13,200 --> 00:07:17,840
+A supernova closer than 25 light years means that we're in its kill radius,
+
+103
+00:07:17,920 --> 00:07:20,320
+where a mass extinction is all but guaranteed.
+
+104
+00:07:20,880 --> 00:07:23,680
+Probably about half of the ozone layer would be destroyed,
+
+105
+00:07:23,680 --> 00:07:27,680
+and massive climatic disruption on a scale we've never witnessed would ravage Earth.
+
+106
+00:07:28,240 --> 00:07:32,160
+Entire ecosystems would swiftly be wiped out by radiation
+
+107
+00:07:32,160 --> 00:07:34,720
+as global wildfires envelop the planet.
+
+108
+00:07:35,280 --> 00:07:40,000
+All the things described before happen, but way more intensely and much faster.
+
+109
+00:07:40,560 --> 00:07:44,400
+A few people might survive for years in bunkers if they have food supplies,
+
+110
+00:07:44,400 --> 00:07:48,560
+but the world they return to will be devastated and hostile to life
+
+111
+00:07:48,560 --> 00:07:53,680
+for hundreds of thousands of years. Human extinction is extremely likely.
+
+112
+00:07:57,840 --> 00:08:02,640
+Being any closer to a supernova is very unlikely because space is big,
+
+113
+00:08:03,200 --> 00:08:07,200
+but the effects would be extreme. Even from four light years away,
+
+114
+00:08:07,200 --> 00:08:11,920
+the distance to Alpha Centauri, a supernova would be almost as bright as the sun in the sky.
+
+115
+00:08:12,480 --> 00:08:16,800
+While casting two shadows could be fun for a few hours, within days the Earth's surface
+
+116
+00:08:16,800 --> 00:08:21,040
+gets as hot as a sauna, baking the surface for weeks until the explosion fades.
+
+117
+00:08:21,600 --> 00:08:26,800
+The surface of Earth burns, scoured of life. Even the oceans aren't safe.
+
+118
+00:08:26,800 --> 00:08:30,560
+The massive amount of radiation that follows burns away the ozone layer,
+
+119
+00:08:30,560 --> 00:08:35,920
+killing everything that sees sunlight. It would be the largest extinction event in history,
+
+120
+00:08:35,920 --> 00:08:40,240
+reducing life to a few survivors in the deep sea and critters in the deep soil.
+
+121
+00:08:40,960 --> 00:08:42,720
+Life basically has to start over.
+
+122
+00:08:44,240 --> 00:08:46,720
+Conclusion. How worried do you need to be?
+
+123
+00:08:47,840 --> 00:08:54,000
+So, should you worry? No. Fortunately, there are only a handful of stars that may explode
+
+124
+00:08:54,000 --> 00:08:58,240
+within 1000 light years of Earth, and none are close enough to be a serious threat.
+
+125
+00:08:58,960 --> 00:09:03,200
+Even better, these stars will probably not go supernova for many millions of years.
+
+126
+00:09:04,160 --> 00:09:08,560
+So you are safe. But there's no guarantee for the far future.
+
+127
+00:09:08,560 --> 00:09:14,160
+As stars orbit the galaxy, our descendants may find themselves dangerously close to a supernova.
+
+128
+00:09:14,160 --> 00:09:20,000
+But by then, a far more advanced and wiser humanity will hopefully be able to just
+
+129
+00:09:20,000 --> 00:09:26,720
+move out of the way. In any case, you can sleep well tonight, under the beautiful night sky.
+
+130
+00:09:29,520 --> 00:09:34,080
+And if you dream about understanding the physics behind this video and others,
+
+131
+00:09:34,080 --> 00:09:38,480
+we've created a series of lessons to build your understanding of fundamental science.
+
+132
+00:09:39,120 --> 00:09:43,120
+Made in collaboration with our friends at Brilliant, these lessons dive deeper into
+
+133
+00:09:43,120 --> 00:09:48,560
+topics from our most popular videos, including things like cosmology, biology, and even climate
+
+134
+00:09:48,560 --> 00:09:53,760
+science. Brilliant is an interactive learning tool that makes science accessible with a hands-on
+
+135
+00:09:53,760 --> 00:09:59,040
+approach. Because we know that to really learn something, you've got to do it. Think of each
+
+136
+00:09:59,040 --> 00:10:04,560
+lesson as a one-on-one tutoring version of a Kurzgesagt video. In our latest lesson, you'll
+
+137
+00:10:04,560 --> 00:10:09,120
+journey further into the conditions that can trigger a supernova, and how to determine the
+
+138
+00:10:09,120 --> 00:10:15,120
+impact of one on a planet like ours. Brilliant has thousands of lessons to explore, from maths-based
+
+139
+00:10:15,120 --> 00:10:19,840
+topics like algebra and probability, to the concepts behind machine learning and quantum
+
+140
+00:10:19,840 --> 00:10:25,840
+computing. And with new lessons added each month, including ones from Kurzgesagt, you'll always find
+
+141
+00:10:25,840 --> 00:10:31,920
+something fascinating to learn. To get hands-on with Kurzgesagt lessons now, go to brilliant.org
+
+142
+00:10:32,480 --> 00:10:36,800
+and sign up for free. And with a free trial of Brilliant Premium, you can explore everything
+
+143
+00:10:36,800 --> 00:10:41,920
+Brilliant has to offer. There's even an extra perk for Kurzgesagt viewers. The first 200 people
+
+144
+00:10:41,920 --> 00:10:46,160
+to use the link get 20% off their annual membership, which unlocks all of Brilliant's
+
+145
+00:10:46,160 --> 00:10:52,320
+courses in maths, science, and computer science. We'd love to go above and beyond with our research.
+
+146
+00:10:52,320 --> 00:10:55,840
+Brilliant will be the catalyst to expand the limits of your knowledge.
+
+147
+00:10:55,840 --> 00:11:04,560
+There are still a few copies left of our 12,023 human calendar. Get it now for a whole year of joy.
+

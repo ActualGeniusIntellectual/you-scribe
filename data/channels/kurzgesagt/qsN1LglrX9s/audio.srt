@@ -1,0 +1,384 @@
+1
+00:00:00,000 --> 00:00:06,000
+Humans can survive in this universe as long as we have an energy source.
+
+2
+00:00:06,000 --> 00:00:09,000
+Unfortunately, the universe will die.
+
+3
+00:00:09,000 --> 00:00:14,000
+It will happen slowly, over many billions of years, but it will happen.
+
+4
+00:00:14,000 --> 00:00:19,000
+On a universal timescale, stars like our Sun will be gone in no time.
+
+5
+00:00:19,000 --> 00:00:24,000
+Luckily, there are places that will exist practically forever from a human perspective.
+
+6
+00:00:25,000 --> 00:00:27,000
+The corpses of dead stars.
+
+7
+00:00:27,000 --> 00:00:29,000
+White dwarfs.
+
+8
+00:00:29,000 --> 00:00:34,000
+They could be humanity's last home right before the death of the universe.
+
+9
+00:00:34,000 --> 00:00:39,000
+What are these strange things, and what happens when they finally die?
+
+10
+00:00:39,000 --> 00:00:54,000
+How long stars live varies drastically, depending on how massive they are.
+
+11
+00:00:54,000 --> 00:00:58,000
+For example, really massive stars burn hot and fast,
+
+12
+00:00:58,000 --> 00:01:02,000
+dying violently in supernova a few million years after birth.
+
+13
+00:01:02,000 --> 00:01:04,000
+But they're the exception.
+
+14
+00:01:04,000 --> 00:01:09,000
+97% of all stars will end their existence as white dwarfs.
+
+15
+00:01:09,000 --> 00:01:12,000
+There are two ways this can happen.
+
+16
+00:01:12,000 --> 00:01:16,000
+Small stars, so-called red dwarfs, burn out over trillions of years,
+
+17
+00:01:16,000 --> 00:01:19,000
+until they eventually quietly turn into white dwarfs.
+
+18
+00:01:19,000 --> 00:01:23,000
+Medium-sized stars like our Sun are more interesting.
+
+19
+00:01:23,000 --> 00:01:30,000
+Imagine the Sun as a huge pressure cooker that fuses hydrogen into helium in its core through its gravity.
+
+20
+00:01:30,000 --> 00:01:33,000
+The fusion of elements releases extreme amounts of energy
+
+21
+00:01:33,000 --> 00:01:38,000
+that pushes outwards and stabilizes the star, keeping it in a delicate balance.
+
+22
+00:01:38,000 --> 00:01:42,000
+When the Sun is old, the hydrogen in the core is exhausted,
+
+23
+00:01:42,000 --> 00:01:45,000
+and the Sun will begin to burn helium into heavier elements.
+
+24
+00:01:45,000 --> 00:01:49,000
+While doing so, it will shed its outer layers.
+
+25
+00:01:49,000 --> 00:01:54,000
+When this process is over, more than half of the Sun's mass will be lost into space
+
+26
+00:01:54,000 --> 00:01:58,000
+as a spectacular planetary nebula millions of kilometers across.
+
+27
+00:01:58,000 --> 00:02:01,000
+What remains will be its former core.
+
+28
+00:02:01,000 --> 00:02:05,000
+A white dwarf is born, a star-corped.
+
+29
+00:02:05,000 --> 00:02:08,000
+While its former self was about 100 times its diameter,
+
+30
+00:02:08,000 --> 00:02:14,000
+now it's only about as big as Earth, but still with about half of its former mass.
+
+31
+00:02:14,000 --> 00:02:17,000
+This means it's extremely dense.
+
+32
+00:02:17,000 --> 00:02:21,000
+A teaspoon of white dwarf is about as massive as a car.
+
+33
+00:02:21,000 --> 00:02:27,000
+Its surface gravity is over 100,000 times higher than Earth's.
+
+34
+00:02:27,000 --> 00:02:34,000
+If you tried to land on it, you'd immediately be compressed into a steaming puddle.
+
+35
+00:02:34,000 --> 00:02:38,000
+Life around a white dwarf is very unlikely, but possible.
+
+36
+00:02:38,000 --> 00:02:42,000
+Most of them that exist now were former stars that, well, died,
+
+37
+00:02:42,000 --> 00:02:45,000
+which probably ruined any planets they once had.
+
+38
+00:02:45,000 --> 00:02:47,000
+But that's not all.
+
+39
+00:02:47,000 --> 00:02:50,000
+Since they are so small, a planet would need to orbit them
+
+40
+00:02:50,000 --> 00:02:55,000
+about 75 times closer than Earth is to the Sun to have liquid water.
+
+41
+00:02:55,000 --> 00:02:57,000
+This proximity has up and downsides.
+
+42
+00:02:57,000 --> 00:03:04,000
+For one, it would tidally lock the planet, giving it a permanent day and permanent night.
+
+43
+00:03:04,000 --> 00:03:08,000
+At the edges of these day and night zones, life could be possible.
+
+44
+00:03:08,000 --> 00:03:11,000
+But white dwarfs have a very stable energy output,
+
+45
+00:03:11,000 --> 00:03:15,000
+so they might actually be safer to live around than many red dwarfs.
+
+46
+00:03:15,000 --> 00:03:17,000
+This is still speculation at this point,
+
+47
+00:03:17,000 --> 00:03:20,000
+but if we could find a white dwarf with the right conditions to settle around,
+
+48
+00:03:20,000 --> 00:03:24,000
+we could have a home for many billions of years.
+
+49
+00:03:24,000 --> 00:03:28,000
+But why do they shine so much longer than other star types?
+
+50
+00:03:28,000 --> 00:03:33,000
+White dwarfs are very, very hot, up to 40 times hotter than our Sun,
+
+51
+00:03:33,000 --> 00:03:36,000
+ranking among the hottest objects in the universe.
+
+52
+00:03:36,000 --> 00:03:38,000
+But they are not incredibly active.
+
+53
+00:03:38,000 --> 00:03:41,000
+All the heat inside of them is trapped and has nowhere to go.
+
+54
+00:03:41,000 --> 00:03:44,000
+Only on its outer layer can it escape into space.
+
+55
+00:03:44,000 --> 00:03:49,000
+But space is mostly empty, so heat can't be transferred by conduction.
+
+56
+00:03:49,000 --> 00:03:53,000
+The only way energy can escape is by radiation.
+
+57
+00:03:53,000 --> 00:03:58,000
+This is so inefficient that white dwarfs will take trillions of years to cool down,
+
+58
+00:03:58,000 --> 00:04:01,000
+which may make them humanity's last refuge.
+
+59
+00:04:01,000 --> 00:04:06,000
+They might be the last sources of light and energy in a dying universe.
+
+60
+00:04:06,000 --> 00:04:12,000
+According to some estimates, white dwarfs might shine as long as 100 billion billion years,
+
+61
+00:04:12,000 --> 00:04:15,000
+10 billion times longer than the universe has existed,
+
+62
+00:04:15,000 --> 00:04:20,000
+so far into the future that no regular stars will shine anymore,
+
+63
+00:04:20,000 --> 00:04:22,000
+galaxies will have evaporated,
+
+64
+00:04:22,000 --> 00:04:27,000
+and only then will the first white dwarf turn into the first black dwarf.
+
+65
+00:04:27,000 --> 00:04:31,000
+When this happens, the last hope for life will die off.
+
+66
+00:04:31,000 --> 00:04:35,000
+Black dwarfs will be inactive spheres with no energy left to give,
+
+67
+00:04:35,000 --> 00:04:39,000
+still massive enough to kill you if you get too close,
+
+68
+00:04:39,000 --> 00:04:43,000
+so cold that they'll be near the coldest possible temperature in the universe,
+
+69
+00:04:43,000 --> 00:04:47,000
+so dark that they are practically invisible.
+
+70
+00:04:47,000 --> 00:04:51,000
+The universe will enter its last stage, heat death,
+
+71
+00:04:51,000 --> 00:04:55,000
+which will leave the universe unrecognizable.
+
+72
+00:04:55,000 --> 00:04:58,000
+An absolutely dark and cold graveyard,
+
+73
+00:04:58,000 --> 00:05:03,000
+with black holes and black dwarfs scattered over trillions of light years.
+
+74
+00:05:03,000 --> 00:05:07,000
+We don't know for sure what will happen with black dwarfs in the end.
+
+75
+00:05:07,000 --> 00:05:11,000
+If the proton, one of the fundamental parts of atoms, has a limited lifespan,
+
+76
+00:05:11,000 --> 00:05:15,000
+black dwarfs will slowly evaporate over many trillions of years.
+
+77
+00:05:15,000 --> 00:05:17,000
+If the proton does not decay,
+
+78
+00:05:17,000 --> 00:05:21,000
+black dwarfs will probably turn into spheres of pure iron via quantum tunneling,
+
+79
+00:05:21,000 --> 00:05:27,000
+over a timespan so obscenely gigantic that calling it forever is okay.
+
+80
+00:05:27,000 --> 00:05:32,000
+These iron spheres will then travel completely alone through a dark universe.
+
+81
+00:05:32,000 --> 00:05:35,000
+Nothing new will happen anymore.
+
+82
+00:05:35,000 --> 00:05:36,000
+Forever.
+
+83
+00:05:36,000 --> 00:05:40,000
+While this may sound kind of dark, this is so far away,
+
+84
+00:05:40,000 --> 00:05:44,000
+that for our purposes today, it might as well not happen at all.
+
+85
+00:05:44,000 --> 00:05:47,000
+It doesn't matter what happens in a billion trillion years.
+
+86
+00:05:47,000 --> 00:05:51,000
+Right now, we happen to exist at an excellent time,
+
+87
+00:05:51,000 --> 00:05:57,000
+able to be in awe about a universe filled with endless stars and light and planets,
+
+88
+00:05:57,000 --> 00:06:01,000
+and enough time to visit them one day.
+
+89
+00:06:03,000 --> 00:06:06,000
+Our music is finally available on Spotify and iTunes.
+
+90
+00:06:06,000 --> 00:06:09,000
+It's composed by our good friends at Epic Mountain,
+
+91
+00:06:09,000 --> 00:06:12,000
+two guys with a studio who make music for a living.
+
+92
+00:06:12,000 --> 00:06:15,000
+You can check them out here and follow them on Facebook and Twitter.
+
+93
+00:06:15,000 --> 00:06:18,000
+And if you like our videos, please consider supporting us on Patreon.
+
+94
+00:06:18,000 --> 00:06:21,000
+It really would be extremely helpful.
+
+95
+00:06:21,000 --> 00:06:24,000
+If you need an excuse to delay work a little bit longer,
+
+96
+00:06:24,000 --> 00:06:27,000
+here's a playlist with more space videos.
+

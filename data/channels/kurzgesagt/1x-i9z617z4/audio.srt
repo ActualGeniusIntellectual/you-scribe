@@ -1,0 +1,588 @@
+1
+00:00:00,000 --> 00:00:06,960
+In 2023, Kurzgesagt has existed for 10 years, insanely long in internet years.
+
+2
+00:00:06,960 --> 00:00:10,560
+We're among the largest science-y channels on YouTube and still a bit of a black box
+
+3
+00:00:10,560 --> 00:00:11,560
+to people.
+
+4
+00:00:11,560 --> 00:00:16,920
+So let's talk about ourselves a bit in three parts – our backstory, how we finance our
+
+5
+00:00:16,920 --> 00:00:20,040
+work and the values of Kurzgesagt.
+
+6
+00:00:20,040 --> 00:00:23,260
+Let's jump back to a more innocent time.
+
+7
+00:00:23,260 --> 00:00:29,320
+From humble beginnings to today, Kurzgesagt's foundation was laid when Philipp, our founder,
+
+8
+00:00:29,320 --> 00:00:32,080
+dropped out of high school as a teenager.
+
+9
+00:00:32,080 --> 00:00:36,440
+Learning seemed daft and useless, and he wasn't interested in anything.
+
+10
+00:00:36,440 --> 00:00:41,680
+Until a very special teacher at a school for dropouts grabbed him by the neck.
+
+11
+00:00:41,680 --> 00:00:43,880
+The way she taught was different.
+
+12
+00:00:43,880 --> 00:00:46,620
+She talked about connections and the big picture.
+
+13
+00:00:46,620 --> 00:00:47,620
+She told a story.
+
+14
+00:00:47,620 --> 00:00:52,040
+For the first time ever, Philipp wanted to learn more without being forced.
+
+15
+00:00:52,040 --> 00:00:54,200
+It was a key life experience.
+
+16
+00:00:54,200 --> 00:00:58,000
+Kurzgesagt tries to recreate this experience for you.
+
+17
+00:00:58,200 --> 00:01:02,300
+Nothing is boring if you tell a good story, and we try to tell these stories to spark
+
+18
+00:01:02,300 --> 00:01:05,960
+excitement and make you want to go on and learn more.
+
+19
+00:01:05,960 --> 00:01:09,580
+Because of the one teacher that could do this, Philipp got a high school degree, studied
+
+20
+00:01:09,580 --> 00:01:14,280
+history and design, and eventually started Kurzgesagt as a passion project inspired by
+
+21
+00:01:14,280 --> 00:01:16,120
+Crash Course World History.
+
+22
+00:01:16,120 --> 00:01:20,720
+In 2012, YouTube was less commercial and more idealistic.
+
+23
+00:01:20,720 --> 00:01:24,920
+You couldn't make a living with videos as involved as ours, and that was fine.
+
+24
+00:01:24,920 --> 00:01:29,120
+The goal was creative freedom, and so for the first few years, it actually cost money
+
+25
+00:01:29,120 --> 00:01:30,760
+to make Kurzgesagt.
+
+26
+00:01:30,760 --> 00:01:35,940
+We had no outside funding, just intrinsic motivation and a few friends from university.
+
+27
+00:01:35,940 --> 00:01:41,760
+We worked for clients during the day and on Kurzgesagt at night, 80 to 100 hours a week.
+
+28
+00:01:41,760 --> 00:01:45,680
+It was a real struggle, but also very rewarding.
+
+29
+00:01:45,680 --> 00:01:51,040
+But then Patreon launched, sponsorship started, our views increased, YouTube changed.
+
+30
+00:01:51,200 --> 00:01:56,160
+In 2015, the channel began to break even, and then to earn a profit.
+
+31
+00:01:56,160 --> 00:02:00,320
+But we were pretty burned out at this point, so we decided to bring in more friends and
+
+32
+00:02:00,320 --> 00:02:04,760
+hire the first team members full time, creating a legal entity.
+
+33
+00:02:04,760 --> 00:02:09,380
+More people meant that we could stop overworking, do more, and improve.
+
+34
+00:02:09,380 --> 00:02:11,440
+But we also needed to earn more.
+
+35
+00:02:11,440 --> 00:02:14,440
+The livelihood of real humans depended upon it.
+
+36
+00:02:14,440 --> 00:02:17,140
+None of us had any experience in running a company.
+
+37
+00:02:17,140 --> 00:02:21,240
+We didn't plan to become big or to grow, it sort of just happened.
+
+38
+00:02:21,240 --> 00:02:25,860
+A decade later, Kurzgesagt is not a small project anymore.
+
+39
+00:02:25,860 --> 00:02:29,940
+We are an animation studio with offices in Munich and Berlin.
+
+40
+00:02:29,940 --> 00:02:36,660
+We need computers, monitors, tablets, desks, coffee, contracts, pay licenses, taxes, rent
+
+41
+00:02:36,660 --> 00:02:38,740
+and insurance.
+
+42
+00:02:38,740 --> 00:02:46,000
+In 2023, our team consists of over 60 employees and a lot of freelancers around the world.
+
+43
+00:02:46,000 --> 00:02:50,820
+Banners alone cost millions of dollars a year just to stay around.
+
+44
+00:02:50,820 --> 00:02:53,160
+This creates an interesting problem.
+
+45
+00:02:53,160 --> 00:02:58,700
+With such high production costs, how can we publish our work for free?
+
+46
+00:02:58,700 --> 00:03:01,220
+How we finance Kurzgesagt.
+
+47
+00:03:01,220 --> 00:03:05,520
+We have added up our earnings from 2015 through 2022.
+
+48
+00:03:05,520 --> 00:03:09,760
+Our sources of funding change depending on opportunities and the state of the world.
+
+49
+00:03:09,760 --> 00:03:13,240
+Early on, agency work was our main source of income.
+
+50
+00:03:13,240 --> 00:03:14,840
+Ad revenue varies.
+
+51
+00:03:14,840 --> 00:03:17,800
+In some years we got more sponsorships than in others.
+
+52
+00:03:17,800 --> 00:03:21,840
+The shop didn't exist for a long time, then it became pretty big after we launched our
+
+53
+00:03:21,840 --> 00:03:22,840
+calendar.
+
+54
+00:03:22,840 --> 00:03:28,200
+62% of our revenue comes indirectly or directly from you.
+
+55
+00:03:28,200 --> 00:03:33,500
+You watch our videos with ads, support us on Patreon, or buy from our shop.
+
+56
+00:03:33,500 --> 00:03:39,320
+The single biggest source of income by far is our shop that alone accounted for 40% over
+
+57
+00:03:39,320 --> 00:03:40,940
+the last 8 years.
+
+58
+00:03:40,940 --> 00:03:45,860
+The shop started small, but once we published our calendar for the first time in 2016, we
+
+59
+00:03:45,860 --> 00:03:50,300
+realized it could really help us do more things and we started producing more and more science
+
+60
+00:03:50,300 --> 00:03:55,700
+products from our posters to our gratitude journal or universe-centered candles.
+
+61
+00:03:55,700 --> 00:04:00,300
+YouTube ads accounted for 13% and Patreon 9%.
+
+62
+00:04:00,300 --> 00:04:04,320
+So without your support, we would cease to exist.
+
+63
+00:04:04,320 --> 00:04:09,200
+Our shop and Patreon are our most important sources of revenue and because we see ourselves
+
+64
+00:04:09,200 --> 00:04:13,960
+as science communicators, we don't just do merch, but sciency products that we spend
+
+65
+00:04:13,960 --> 00:04:18,240
+hundreds of hours researching, discussing with experts, polishing up and working on
+
+66
+00:04:18,240 --> 00:04:20,840
+directly with the manufacturers.
+
+67
+00:04:20,840 --> 00:04:24,200
+They are part of the science story we try to tell.
+
+68
+00:04:24,200 --> 00:04:28,820
+It also just feels good to get directly funded by you guys and give you something back for
+
+69
+00:04:28,820 --> 00:04:30,960
+it on top of our videos.
+
+70
+00:04:30,960 --> 00:04:36,600
+YouTube ads are a crucial part of our funding as well, but they are not within our control.
+
+71
+00:04:36,600 --> 00:04:40,760
+Then there's paid agency work, which we stopped doing in 2022.
+
+72
+00:04:40,760 --> 00:04:44,600
+It accounted for 9% of our revenue over the last 8 years.
+
+73
+00:04:44,600 --> 00:04:48,280
+A lot in the beginning, not much by the end.
+
+74
+00:04:48,280 --> 00:04:51,440
+Then there are commercial sponsors advertising products.
+
+75
+00:04:51,440 --> 00:04:54,240
+They accounted for 12% of our revenue.
+
+76
+00:04:54,240 --> 00:04:59,400
+We also got about 7% from German public broadcasting for the German channel, but ended this partnership
+
+77
+00:04:59,400 --> 00:05:00,920
+in 2022.
+
+78
+00:05:00,920 --> 00:05:05,840
+Finally, there are institutional sponsors representing about 10%.
+
+79
+00:05:05,840 --> 00:05:09,880
+Some people take issue with this, especially Bill Gates has come under public scrutiny
+
+80
+00:05:09,880 --> 00:05:14,280
+and we've been criticized for even working with organizations funded by him.
+
+81
+00:05:14,280 --> 00:05:17,500
+So let's look at this 10% in more detail.
+
+82
+00:05:17,500 --> 00:05:22,260
+About 3% of our revenue over the last 8 years came from the Gates organizations for a wide
+
+83
+00:05:22,260 --> 00:05:25,560
+variety of topics often suggested by us.
+
+84
+00:05:25,560 --> 00:05:31,000
+5% comes from open philanthropy and is only used for specific projects.
+
+85
+00:05:31,000 --> 00:05:36,160
+With these funds, we've started Arabic, Hindi, Korean, Japanese, Portuguese, and French
+
+86
+00:05:36,160 --> 00:05:40,560
+channels bringing more free science content to more people.
+
+87
+00:05:40,560 --> 00:05:44,360
+Then there's a 2-year funding for original TikTok content, which gives us freedom to
+
+88
+00:05:44,360 --> 00:05:48,500
+explore and learn how to do short-form science communication.
+
+89
+00:05:48,500 --> 00:05:54,780
+The final 2% came from other organizations like the Red Cross or the UN for example.
+
+90
+00:05:54,780 --> 00:05:59,560
+We choose institutional sponsors carefully, but if organizations want to fund videos that
+
+91
+00:05:59,560 --> 00:06:04,200
+help us spread quality information about relevant topics, this is an easy yes for us
+
+92
+00:06:04,200 --> 00:06:06,600
+if we have the capacity for it.
+
+93
+00:06:06,600 --> 00:06:11,720
+On top of that, the institutional sponsors we're working with align with our values.
+
+94
+00:06:11,720 --> 00:06:16,960
+We have contracts with every grant-giver or sponsor that bars them from editorial influence
+
+95
+00:06:16,960 --> 00:06:21,640
+other than suggesting topic areas like global health or climate change.
+
+96
+00:06:21,640 --> 00:06:27,740
+We agree on video topics together, but sponsors can neither influence details nor our conclusions.
+
+97
+00:06:27,740 --> 00:06:30,940
+The final decision always remains with us.
+
+98
+00:06:30,940 --> 00:06:34,860
+And usually we develop the topics of the videos autonomously and tell the sponsor what we're
+
+99
+00:06:34,860 --> 00:06:36,420
+doing afterwards.
+
+100
+00:06:36,420 --> 00:06:40,540
+If you're interested in how we research our videos in detail, our head of research wrote
+
+101
+00:06:40,540 --> 00:06:42,580
+an article about it.
+
+102
+00:06:42,580 --> 00:06:47,740
+Running an educational YouTube channel is a balancing act that we take very seriously.
+
+103
+00:06:47,740 --> 00:06:52,380
+We're doing our best to maintain this balance, adjusting whenever necessary.
+
+104
+00:06:52,380 --> 00:06:56,980
+As a team and a company, we want to grow to give more people access to a science-based
+
+105
+00:06:56,980 --> 00:06:59,220
+outlook on the world.
+
+106
+00:06:59,220 --> 00:07:01,460
+This brings us to our final topic.
+
+107
+00:07:01,460 --> 00:07:04,100
+Why are we doing Kotzgesagt?
+
+108
+00:07:04,100 --> 00:07:07,260
+Our values and our vision.
+
+109
+00:07:07,260 --> 00:07:10,300
+Our core mission is to spark curiosity.
+
+110
+00:07:10,300 --> 00:07:14,960
+We want to make science and humanism accessible for as many people as possible.
+
+111
+00:07:14,960 --> 00:07:19,480
+The effort we put into creating our videos is a way of achieving that.
+
+112
+00:07:19,480 --> 00:07:24,420
+Our videos are beautiful because that helps to spark curiosity, to understand complex
+
+113
+00:07:24,420 --> 00:07:28,540
+topics and because it just feels good to create and watch.
+
+114
+00:07:28,540 --> 00:07:33,780
+Our research is as intensive as it is, so our videos are a good simplification of very
+
+115
+00:07:33,780 --> 00:07:35,820
+complicated topics.
+
+116
+00:07:35,820 --> 00:07:40,340
+We want to make people excited about science so they rediscover subjects they hated in
+
+117
+00:07:40,340 --> 00:07:43,780
+school and see how amazing they are.
+
+118
+00:07:43,780 --> 00:07:50,300
+On top of curiosity, we want to inspire long-term thinking and a positive, constructive outlook.
+
+119
+00:07:50,300 --> 00:07:56,520
+Being optimistic about the future of humanity is not mainstream, and we think this is horrible.
+
+120
+00:07:56,520 --> 00:08:01,800
+Pessimism often sounds smart and gets more views, while optimism can sound naive.
+
+121
+00:08:01,800 --> 00:08:05,420
+But this is a bias that's not helpful for us as a species.
+
+122
+00:08:05,420 --> 00:08:09,760
+So despite the gloominess of many topics, we want to approach them with informed and
+
+123
+00:08:09,760 --> 00:08:11,980
+well-researched optimism.
+
+124
+00:08:11,980 --> 00:08:16,420
+Not brushing humanity's very real challenges aside, but also not falling into the trap
+
+125
+00:08:16,420 --> 00:08:17,980
+of pessimism.
+
+126
+00:08:17,980 --> 00:08:22,180
+We want to inspire you to dream a little about the glorious future that we could actually
+
+127
+00:08:22,180 --> 00:08:25,940
+build, but only if we believe it's possible.
+
+128
+00:08:25,940 --> 00:08:29,440
+In the long run, we don't only want to do this on YouTube.
+
+129
+00:08:29,440 --> 00:08:34,180
+The idea is for Kurzgesagt to be a positive influence across more media.
+
+130
+00:08:34,180 --> 00:08:39,180
+On our TikTok channel, in the long-form content we're exploring, in apps, in the VR game
+
+131
+00:08:39,180 --> 00:08:43,580
+that will be released later this year, and the games we plan to make in the future.
+
+132
+00:08:43,580 --> 00:08:46,340
+Our shop is a central part of this vision.
+
+133
+00:08:46,340 --> 00:08:50,620
+We start our stories with a video and end them with a poster.
+
+134
+00:08:50,620 --> 00:08:52,940
+There are so many things we want to do.
+
+135
+00:08:52,940 --> 00:08:57,260
+And thanks to you watching this right now, we have the freedom to work to the best of
+
+136
+00:08:57,260 --> 00:08:59,040
+our knowledge and ability.
+
+137
+00:08:59,040 --> 00:09:03,220
+In the end, we hope you like what we offer and that we'll be doing something worthwhile
+
+138
+00:09:03,220 --> 00:09:05,600
+for as long as we exist.
+
+139
+00:09:05,600 --> 00:09:10,920
+And hopefully, we'll have a lasting impact by making science and learning more fun for
+
+140
+00:09:10,920 --> 00:09:13,260
+as many people as possible.
+
+141
+00:09:13,260 --> 00:09:17,280
+If you personally want to help us do this, you can watch and share our videos, check
+
+142
+00:09:17,280 --> 00:09:21,700
+out our shop, become a Patreon, or give us an Adblocker exception.
+
+143
+00:09:21,700 --> 00:09:27,260
+We exist because of you, and you have no idea how much we appreciate that you're here.
+
+144
+00:09:27,260 --> 00:09:30,440
+And hopefully, we're less of a black box now.
+
+145
+00:09:30,440 --> 00:09:35,760
+In any case, doing Kurzgesagt for a decade has been a pretty crazy ride.
+
+146
+00:09:35,760 --> 00:09:41,180
+And so, from the whole team, thank you so much for being with us all these years.
+
+147
+00:09:43,260 --> 00:09:45,420
+Thank you.
+

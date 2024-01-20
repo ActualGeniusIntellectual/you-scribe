@@ -1,0 +1,131 @@
+start	end	text
+0	7340	Here in the Kurzgesagt labs, we test very important ideas to see what happens when you blow things up or play with black holes.
+8100	11780	Many of you suggested that we look into an idea that sounds reasonable.
+12300	14540	Shooting nuclear waste into space.
+14860	20740	It's one of those concepts that seems like an easy fix for one of the main problems with the nuclear energy.
+20860	27540	But it turns out this idea is not just bad, but horribly bad, and it gets worse the longer you think about it.
+27740	29740	Why is that?
+30000	36000	What is nuclear waste?
+37000	45000	Nuclear waste is a fuzzy term and comes in categories which vary from country to country.
+45000	48000	But in general, there are three broad levels.
+48000	58000	90% is low-level nuclear waste, tools, gloves, or trash used at a nuclear facility that could be weakly contaminated with some short-lived radioactivity.
+58000	61000	This stuff is generally safe for normal disposal.
+61000	71000	7% is intermediate-level nuclear waste, mostly materials that have been in close proximity to a reactor core long enough to become dangerously radioactive.
+71000	78000	With proper handling, it's either safely buried or melted down and mixed into glass or concrete and stored deep underground.
+78000	83000	So 97% of nuclear waste is similar to toxic byproducts from other industries.
+83000	87000	Not great, not terrible. We can handle it.
+87000	91000	The remaining 3% is where our problems begin.
+91000	97000	High-level nuclear waste is very concentrated spent fuel taken out of a reactor core.
+97000	103000	Formerly uranium, it's now made of various dangerous and often highly radioactive elements.
+103000	108000	As a bonus, it's also incredibly hot and not easy to handle at all.
+108000	111000	This is what we want to shoot into space.
+111000	119000	All in all, around 440 active nuclear reactors create about 11,000 tons of high-level nuclear waste each year.
+119000	125000	Since 1954, we've accumulated 400,000 tons of dangerous radioactive waste.
+125000	130000	Most countries are dealing with it by not dealing with it and kicking the can towards the future.
+130000	133000	Great, so let's launch it into space.
+134000	142000	According to scientists, space is big and nobody lives there, so it seems perfect for yeeting away this mess.
+142000	145000	There are a few tiny problems though.
+149000	154000	Even though spaceflight is getting more affordable, it's still extremely expensive.
+154000	160000	Just to get something into low Earth orbit costs on average about $4,000 per kilogram.
+160000	168000	Putting that into perspective, it costs about $1,600 to mine, separate and fabricate one kilogram of nuclear fuel,
+168000	174000	so launching waste into space has suddenly made nuclear fuel for reactors way more expensive
+174000	178000	and greatly increased the cost of the electricity they produce.
+178000	185000	To launch one reactor's worth of nuclear waste would cost at least $100 million per year.
+185000	190000	To deal with all the 440 operational nuclear power plants' high-level nuclear waste
+190000	197000	would cost some $44 billion per year for space launch before packaging, transport and security costs are added.
+197000	200000	Okay, let's pretend we don't care.
+200000	204000	Currently, we couldn't shoot all the nuclear waste into space even if we wanted to.
+204000	207000	There just aren't enough rockets.
+207000	212000	In 2021, we saw a record 135 launches into space.
+212000	216000	If we repurposed each of those rockets and filled them all with nuclear waste,
+216000	223000	the total amount that could be lifted into a low Earth orbit, which is the closest orbit above the atmosphere, is nearly 800 tons.
+223000	228000	We'd need at least 14 times more rockets to handle just today's nuclear waste,
+228000	232000	let alone get rid of the hundreds of thousands of tons in temporary storage.
+232000	239000	We would need to create entire new space industries to keep up with the demand for giant, toxic space trash trucks.
+239000	242000	And it gets worse.
+242000	245000	Problem two, space is hard.
+245000	251000	We only made the calculation for low Earth orbit, where we send most of our rockets and satellites.
+251000	255000	Littering the space around Earth with thousands of casts of spent nuclear fuel
+255000	260000	would be a nightmare for space junk management and satellite collision avoidance.
+260000	265000	Worse still, at this altitude, there's still a little bit of atmosphere causing a tiny bit of drag,
+265000	269000	so we might have nuclear waste raining down from space within just a few years.
+269000	273000	Experts would call this a huge problem.
+273000	276000	Clearly, we have to launch our waste further.
+276000	281000	If we wanted to send it to, perhaps, the Moon, we either need way more rockets,
+281000	285000	or we need to build much bigger ones, making it even more expensive.
+285000	289000	A single Saturn V, the rocket used by the Apollo program,
+289000	293000	which cost around 1.5 billion adjusted for inflation per launch,
+293000	297000	could get about 43.5 tons from the Earth to the Moon.
+297000	301000	So we'd need about 260 Saturn V rocket launches every year.
+301000	308000	And of course, using the Moon as target practice for nuclear waste-tipped rockets kind of makes a huge mess.
+308000	313000	So maybe don't aim for anything. Space is empty. Do we really need a target?
+313000	319000	Shooting waste in any random direction is, you guessed it, also a bad idea.
+319000	324000	Orbits are loops, which means they have a tendency to come back to where they started.
+324000	329000	Put enough in the sky in random directions, and you'll get one back eventually.
+329000	333000	So we'd want to launch our nuclear waste deep into space,
+333000	337000	which means we need even bigger rockets that would be even more expensive.
+337000	340000	Not that we would be completely safe then.
+340000	344000	Earth might run into these interplanetary caskets at some time in the far future,
+344000	349000	and experience a pretty meteor shower made from radioactive dust.
+349000	353000	Okay, how about we shoot it into the Sun?
+353000	357000	Ironically, the Sun is pretty hard to hit.
+357000	362000	While the Sun has very strong gravity, everything on Earth is moving with respect to the Sun,
+362000	364000	including the rockets that we launch,
+364000	368000	meaning a rocket would have to cancel out all the orbital motion it has around the Sun,
+368000	371000	so it can stop orbiting and fall in.
+371000	376000	Because of this, it's actually easier to launch a rocket entirely out of the solar system
+376000	379000	than it is to launch it into the Sun.
+379000	383000	But to do either of these things, we need even bigger rockets,
+383000	385000	probably the biggest we've ever built.
+385000	388000	Hmm, nothing works.
+388000	392000	The thing is, it gets even worse.
+392000	396000	Problem three, rockets go brrr.
+396000	400000	Rocket engineering has taken huge steps since the Apollo era.
+400000	402000	We've made them relatively safe.
+402000	406000	We've mostly replaced the toxic explosive cancer fuels of the past decades
+406000	411000	with much saner mixes of liquid, oxygen, and hydrogen or kerosene.
+411000	416000	The newest designs even land themselves so that they can be reused.
+416000	422000	And yet, out of the 146 launches in 2021, there were 11 failures,
+422000	426000	which means that a sizable number of our rockets carrying high-level radioactive waste
+426000	431000	would be exploding on the launch pad or, in the worst case, disassembling at high altitude
+431000	434000	or crashing from hypersonic speeds.
+434000	437000	Each failure would be at least equivalent to a mini Chernobyl,
+437000	442000	but instead of being contained under a slab of concrete, spread throughout the atmosphere.
+442000	447000	Radioactive particles could make their way to faraway places by riding on the winds.
+447000	452000	Most would fall into the ocean, but some would land on the inhabited parts of the world.
+452000	458000	They could cover farmlands and get concentrated into our food or enter our water supply,
+458000	460000	which is, well, bad.
+460000	463000	Imagine regular large-scale nuclear disasters happening.
+463000	465000	People wouldn't be happy.
+465000	468000	Conclusion and opinion part.
+468000	473000	Nuclear waste is scary, but the fear of it and horrible ideas like shooting it into space
+473000	476000	reveals how bad we are at understanding risk,
+476000	482000	because the largest amounts of radioactive elements like uranium and radon are actually released by coal.
+482000	487000	Burning millions of tons of coal each year leaves ash as a waste product
+487000	491000	that includes about 36,000 tons of radioactive materials.
+491000	496000	Less radioactive than high-level nuclear waste, but there's also a lot more of it,
+496000	498000	and it's handled way less carefully.
+499000	504000	Some of this ash is caught by filters, but most is simply pushed back into leaky mines,
+504000	510000	shoved into piles exposed to the wind, or poured into ponds that regularly spill into rivers and lakes.
+510000	518000	Living within 1.6 kilometers of an ash pile increases your cancer risk up to 2,000 times over the acceptable limit,
+518000	525000	and this is on top of other toxic chemicals like heavy metals and, of course, their massive CO2 emissions.
+525000	531000	And yet, while nuclear energy is flawed and its current form may only be a transitory technology,
+531000	534000	nuclear power plants are a harder sell than coal.
+534000	539000	Nuclear waste and the lack of willingness to deal with it are a real issue.
+539000	541000	It's not insurmountable, though.
+541000	548000	There are good methods to handle it, like burying it deep underground or reprocessing some of it into new fuel.
+548000	553000	But however we ultimately deal with this issue, we hope one thing is clear.
+553000	558000	Shooting nuclear waste into space is one of the worst ideas ever.
+559000	565000	Researching this crazy thing, conducting all of these important tests, and, of course, creating this video,
+565000	570000	took us around 2,000 hours, which is insane for a YouTube video.
+570000	573000	And we couldn't do it without you.
+573000	578000	If you like what you just saw, you can continue your science journey with one of our products.
+578000	582000	They're true pieces of Kurzgesagt you can take home and touch.
+582000	590000	And they're the best way to support this channel, like our limited edition Human Era Calendar that will bring you a whole year of joy.
+590000	594000	Learn more about the world with our carefully researched infographic posters,
+594000	598000	get our habit and gratitude journals to improve your life with science,
+598000	601000	or update your wardrobe with our new hoodie editions.
+601000	605000	If your room is in need of a literal glow-up, get one of these posters.
+605000	613000	We've also got notebooks, plushies, mugs, and more, all designed with love and produced with care by us at Kurzgesagt.
+613000	620000	And if you sign up to our newsletter, we'll keep you up to date on everything happening in the Kurzgesagt universe.
+620000	623000	Thank you so, so much for your support.

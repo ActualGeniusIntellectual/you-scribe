@@ -1,0 +1,88 @@
+1
+00:00:00,000 --> 00:00:01,400
+How lasers work.
+
+2
+00:00:01,400 --> 00:00:05,200
+Laser beams are high-energy light beams that can be focused very tightly.
+
+3
+00:00:05,200 --> 00:00:09,900
+But what's cool is that all photons in a laser beam have the exact same frequency, or tone,
+
+4
+00:00:09,900 --> 00:00:11,500
+much like a choir of light.
+
+5
+00:00:11,500 --> 00:00:12,800
+But who are the singers?
+
+6
+00:00:12,800 --> 00:00:14,900
+Atoms can have different levels of energy.
+
+7
+00:00:14,900 --> 00:00:18,300
+In their lowest energy state, they can absorb energy to get excited.
+
+8
+00:00:18,300 --> 00:00:21,100
+If a photon with the right frequency bumps into an excited atom,
+
+9
+00:00:21,100 --> 00:00:24,800
+the atom will release a perfect copy of the first photon before relaxing again,
+
+10
+00:00:24,800 --> 00:00:27,600
+like a singer that sings along to the tune of the photon.
+
+11
+00:00:27,700 --> 00:00:31,700
+Now, to create a choir of cloned photons, we only need three things.
+
+12
+00:00:31,700 --> 00:00:33,700
+One, a box of excited atoms.
+
+13
+00:00:33,700 --> 00:00:34,900
+Two, mirrors.
+
+14
+00:00:34,900 --> 00:00:37,200
+Three, and one photon to begin with.
+
+15
+00:00:37,200 --> 00:00:39,600
+The photon enters the box, gets cloned,
+
+16
+00:00:39,600 --> 00:00:42,200
+the mirrors send them back at the atoms over and over again.
+
+17
+00:00:42,200 --> 00:00:46,900
+The original photon gets multiplied that way until the beam is released through a hole in the box.
+
+18
+00:00:46,900 --> 00:00:50,800
+When the first light choir, sorry, laser, was built in 1960,
+
+19
+00:00:50,800 --> 00:00:54,100
+it was jokingly coined a solution in search of a problem.
+
+20
+00:00:54,100 --> 00:00:56,400
+But nowadays, lasers are used everywhere.
+
+21
+00:00:56,400 --> 00:00:58,500
+A choir that sings with light.
+
+22
+00:00:58,500 --> 00:00:59,700
+That's basically.
+

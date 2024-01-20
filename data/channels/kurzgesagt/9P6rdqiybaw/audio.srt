@@ -1,0 +1,368 @@
+1
+00:00:00,000 --> 00:00:07,100
+If you saw a wormhole in reality, it would appear round, spherical, a bit like a black hole.
+
+2
+00:00:07,900 --> 00:00:12,580
+Light from the other side passes through and gives you a window to a faraway place.
+
+3
+00:00:13,460 --> 00:00:20,120
+Once crossed, the other side comes fully into view, with your old home now receding into that shimmering spherical window.
+
+4
+00:00:20,980 --> 00:00:26,260
+But are wormholes real, or are they just magic disguised as physics and maths?
+
+5
+00:00:27,160 --> 00:00:30,840
+If they are real, how do they work, and where can we find them?
+
+6
+00:00:41,240 --> 00:00:48,180
+For most of human history, we thought space was pretty simple, a big flat stage where the events of the universe unfold.
+
+7
+00:00:48,840 --> 00:00:53,100
+Even if you take down the set of planets and stars, there's still something left.
+
+8
+00:00:53,940 --> 00:00:59,260
+That empty stage is space, and it exists, unchanging and eternal.
+
+9
+00:01:00,060 --> 00:01:02,780
+Einstein's theory of relativity changed that.
+
+10
+00:01:03,340 --> 00:01:09,180
+It says that space and time make up that stage together, and they aren't the same everywhere.
+
+11
+00:01:10,220 --> 00:01:15,220
+The things on the stage can affect the stage itself, stretching and warping it.
+
+12
+00:01:16,020 --> 00:01:21,660
+If the old stage was like unmoving hardwood, Einstein's stage is more like a waterbed.
+
+13
+00:01:22,420 --> 00:01:29,760
+This kind of elastic space can be bent and maybe even torn and patched together, which could make wormholes possible.
+
+14
+00:01:30,820 --> 00:01:35,840
+Let's see what that would look like in 2D. Our universe is like a big flat sheet.
+
+15
+00:01:36,360 --> 00:01:44,520
+Bent in just the right way, wormholes could connect two very, very distant spots with a short bridge that you could cross almost instantaneously,
+
+16
+00:01:45,180 --> 00:01:48,620
+enabling you to travel the universe even faster than the speed of light.
+
+17
+00:01:49,340 --> 00:01:51,660
+So, where can we find a wormhole?
+
+18
+00:01:52,540 --> 00:01:54,540
+Presently, only on paper.
+
+19
+00:01:55,020 --> 00:01:59,620
+General relativity says they might be possible, but that doesn't mean they have to exist.
+
+20
+00:02:00,380 --> 00:02:08,580
+General relativity is a mathematical theory. It's a set of equations that have many possible answers, but not all maths describes reality.
+
+21
+00:02:09,180 --> 00:02:12,740
+But they are theoretically possible, and there are different kinds.
+
+22
+00:02:12,740 --> 00:02:20,860
+The first kind of wormholes to be theorized were Einstein-Rosen bridges.
+
+23
+00:02:21,140 --> 00:02:25,760
+They describe every black hole as a sort of portal to an infinite parallel universe.
+
+24
+00:02:26,240 --> 00:02:32,340
+Let's try to picture them in 2D again. Empty space-time is flat, but curved by objects on it.
+
+25
+00:02:32,340 --> 00:02:36,840
+If we compress that object, space-time gets more curved around it.
+
+26
+00:02:37,560 --> 00:02:43,560
+Eventually, space-time becomes so warped that it has no choice but to collapse into a black hole.
+
+27
+00:02:44,760 --> 00:02:50,520
+A one-way barrier forms the event horizon, which anything can enter, but nothing can escape,
+
+28
+00:02:51,000 --> 00:02:53,960
+trapped forever at the singularity at its core.
+
+29
+00:02:54,520 --> 00:02:57,240
+But maybe there is no singularity here.
+
+30
+00:02:57,640 --> 00:03:02,960
+One possibility is that the other side of the event horizon looks a bit like our universe again,
+
+31
+00:03:03,120 --> 00:03:06,720
+but mirrored upside down, where time runs backwards.
+
+32
+00:03:07,680 --> 00:03:10,320
+In our universe, things fall into the black hole.
+
+33
+00:03:11,200 --> 00:03:17,280
+In the parallel universe, with backwards time, the mirror black hole is spewing things out a bit like a big bang.
+
+34
+00:03:18,000 --> 00:03:20,000
+This is called a white hole.
+
+35
+00:03:20,300 --> 00:03:23,360
+Unfortunately, Einstein-Rosen bridges can't actually be crossed.
+
+36
+00:03:23,760 --> 00:03:28,800
+It takes an infinite amount of time to cross over to the opposite universe, and they crimp shut in the middle.
+
+37
+00:03:29,440 --> 00:03:35,200
+If you go into a black hole, you won't become the stuff coming out of the white hole. You'll only become dead.
+
+38
+00:03:36,320 --> 00:03:42,800
+So, to travel the cosmos in the blink of an eye, humans need a different kind of wormhole, a traversable wormhole.
+
+39
+00:03:47,760 --> 00:03:52,240
+If string theory, or one of its variations, is the correct description of our universe,
+
+40
+00:03:52,560 --> 00:03:58,160
+then we could be lucky, and our universe might even have a tangled web of countless wormholes already.
+
+41
+00:03:59,040 --> 00:04:05,600
+Shortly after the big bang, quantum fluctuations in the universe at the smallest scales, far, far smaller than an atom,
+
+42
+00:04:05,920 --> 00:04:08,980
+may have created many, many traversable wormholes.
+
+43
+00:04:09,920 --> 00:04:12,960
+Threaded through them are strings, called cosmic strings.
+
+44
+00:04:13,760 --> 00:04:21,760
+In the first billionth of a trillionth of a second after the big bang, the ends of these tiny, tiny wormholes were pulled light-years apart,
+
+45
+00:04:22,080 --> 00:04:24,080
+scattering them through the universe.
+
+46
+00:04:24,480 --> 00:04:29,440
+If wormholes were made in the early universe, whether with cosmic strings or some other way,
+
+47
+00:04:29,840 --> 00:04:32,880
+they could be all over, just waiting to be discovered.
+
+48
+00:04:33,680 --> 00:04:35,680
+One might even be closer than we realize.
+
+49
+00:04:36,720 --> 00:04:40,320
+From the outside, black holes and wormholes can look very similar,
+
+50
+00:04:40,560 --> 00:04:46,400
+leading some physicists to suggest the supermassive black holes in the center of galaxies are actually wormholes.
+
+51
+00:04:47,120 --> 00:04:52,000
+It will be very hard to go all the way to the center of the Milky Way to find out, though, but that's okay.
+
+52
+00:04:52,960 --> 00:04:58,320
+There might be an equally extremely hard way to get our hands on a wormhole. We could try to make one.
+
+53
+00:05:02,640 --> 00:05:07,440
+To be traversable and useful, there are a few properties we want a wormhole to have.
+
+54
+00:05:08,080 --> 00:05:11,700
+First, it must obviously connect two distant parts of space-time,
+
+55
+00:05:12,480 --> 00:05:14,480
+like your bedroom and the bathroom,
+
+56
+00:05:15,280 --> 00:05:17,280
+or Earth and Jupiter.
+
+57
+00:05:17,280 --> 00:05:23,440
+Second, it should not contain any event horizons, which would block two-way travel.
+
+58
+00:05:24,160 --> 00:05:29,440
+Third, it should be sufficiently sized so that the gravitational forces don't kill human travelers.
+
+59
+00:05:30,000 --> 00:05:33,280
+The biggest problem we have to solve is keeping our wormholes open.
+
+60
+00:05:34,080 --> 00:05:37,520
+No matter how we make wormholes, gravity tries to close them.
+
+61
+00:05:38,320 --> 00:05:43,280
+Gravity wants to pinch it closed and cut the bridge, leaving only black holes at the ends.
+
+62
+00:05:44,080 --> 00:05:49,040
+Whether it's a traversable wormhole with both ends in ours, or a wormhole to another universe,
+
+63
+00:05:49,360 --> 00:05:52,480
+it will try to close unless we have something propping it open.
+
+64
+00:05:53,360 --> 00:05:57,200
+For very old string theory wormholes, that's the cosmic strings job.
+
+65
+00:05:57,920 --> 00:06:00,640
+For man-made wormholes, we need a new ingredient.
+
+66
+00:06:03,420 --> 00:06:06,720
+This isn't anything like we find on Earth, or even antimatter.
+
+67
+00:06:07,120 --> 00:06:13,680
+It's something totally new and different and exciting, with crazy properties like nothing that's ever been seen before.
+
+68
+00:06:14,540 --> 00:06:17,200
+Exotic matter is stuff that has negative mass.
+
+69
+00:06:18,000 --> 00:06:23,120
+Positive mass, like people and planets and everything else in the universe, is attractive because of gravity.
+
+70
+00:06:23,840 --> 00:06:27,120
+But negative mass would be repulsive. It would push you away.
+
+71
+00:06:27,920 --> 00:06:31,780
+This makes a kind of anti-gravity that props open our wormholes.
+
+72
+00:06:32,500 --> 00:06:39,940
+And exotic matter must exert enormous pressure to push space-time open, greater even than the pressure at the centers of neutron stars.
+
+73
+00:06:40,980 --> 00:06:44,900
+With exotic matter, we could weave space-time however we see fit.
+
+74
+00:06:46,740 --> 00:06:51,380
+We may even have a candidate for this exotic matter, the vacuum of space itself.
+
+75
+00:06:52,980 --> 00:07:01,060
+Quantum fluctuations in empty space are constantly creating pairs of particles and antiparticles, only for them to be annihilated an instant later.
+
+76
+00:07:01,860 --> 00:07:10,020
+The vacuum of space is boiling with them, and we can already manipulate them to produce an effect similar to the negative mass we're looking for.
+
+77
+00:07:11,060 --> 00:07:14,100
+We could use this to stabilize our wormholes.
+
+78
+00:07:15,140 --> 00:07:21,380
+Once we're keeping it open, the ends would start together, so we'd have to move them around to interesting places.
+
+79
+00:07:22,180 --> 00:07:27,300
+We could start by wiring the solar system, leaving one end of each wormhole in orbit around the Earth.
+
+80
+00:07:28,100 --> 00:07:30,100
+We could fling others into deep space.
+
+81
+00:07:30,660 --> 00:07:39,220
+The Earth could be a wormhole hub for a vast interstellar human civilization, spread over light-years, but only a wormhole away.
+
+82
+00:07:40,180 --> 00:07:42,500
+However, wormholes have a dark side.
+
+83
+00:07:43,220 --> 00:07:53,060
+Even opening a single wormhole kind of breaks the universe in fundamental ways, potentially creating time travel paradoxes and violating the causal structure of the universe.
+
+84
+00:07:53,060 --> 00:08:01,300
+Many scientists think that this not only means they should be impossible to make, but that it's impossible for them to exist at all.
+
+85
+00:08:02,420 --> 00:08:08,020
+So for now, we only know that wormholes exist in our hearts and on paper in the form of equations.
+
+86
+00:08:08,900 --> 00:08:13,220
+We know you want to know more about universe stuff, so we're trying something new.
+
+87
+00:08:13,780 --> 00:08:19,540
+Kurzgesagt and Brilliant are collaborating on a six-part video series about our favorite science and space things.
+
+88
+00:08:20,500 --> 00:08:24,500
+Thanks to their help, there will be more videos on this channel in the next six months.
+
+89
+00:08:25,460 --> 00:08:29,540
+Kurzgesagt has worked with Brilliant for a while now, and we love what they're doing.
+
+90
+00:08:30,260 --> 00:08:38,180
+In a nutshell, Brilliant helps you to get ahead by mastering maths and science skills through actively solving challenging and fascinating problems.
+
+91
+00:08:38,820 --> 00:08:44,420
+To support our collaboration with them, visit brilliant.org slash nutshell and sign up for free today.
+
+92
+00:08:44,420 --> 00:08:51,620
+The first 688 people that use the link will get 20% off their annual Premium subscription.
+

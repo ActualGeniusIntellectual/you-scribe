@@ -1,0 +1,468 @@
+1
+00:00:00,000 --> 00:00:07,240
+Rogue planets are planets that travel through the universe alone.
+
+2
+00:00:07,240 --> 00:00:12,400
+They inhabit the dark and vast space between the stars.
+
+3
+00:00:12,400 --> 00:00:16,980
+Drifting alone through eternal darkness, no light warms their surfaces and they are exposed
+
+4
+00:00:16,980 --> 00:00:19,600
+to the freezing cold of outer space.
+
+5
+00:00:19,600 --> 00:00:24,900
+They know no seasons, no days, and no nights which could give away the passing of time.
+
+6
+00:00:24,900 --> 00:00:30,180
+And yet, rogue planets might carry alien life to all corners of the galaxy.
+
+7
+00:00:30,180 --> 00:00:44,640
+How would that work, and how does a planet become a rogue anyway?
+
+8
+00:00:44,640 --> 00:00:48,420
+There are several very different things that get called rogue planets.
+
+9
+00:00:48,420 --> 00:00:53,620
+For example, sub-brown dwarfs, gas giants that form from collapsing gas clouds and the
+
+10
+00:00:53,620 --> 00:00:56,140
+boring little brothers of brown dwarfs.
+
+11
+00:00:56,140 --> 00:01:00,900
+They're a sort of failed star, and we'll now stop talking about them.
+
+12
+00:01:00,900 --> 00:01:05,980
+A far more interesting sort of rogue are terrestrial planets similar to Earth that got kicked out
+
+13
+00:01:05,980 --> 00:01:07,900
+of their planetary system.
+
+14
+00:01:07,900 --> 00:01:13,020
+Young star systems are dangerous places where protoplanets are battling for the available
+
+15
+00:01:13,020 --> 00:01:16,480
+mass guzzling up as much material as possible.
+
+16
+00:01:16,480 --> 00:01:20,540
+In this fight for dominance, they collide with each other or get dangerously close to
+
+17
+00:01:20,540 --> 00:01:22,140
+each other's orbits.
+
+18
+00:01:22,140 --> 00:01:26,900
+If a very massive planet moves its orbit closer to the star, it can kick smaller planets
+
+19
+00:01:26,900 --> 00:01:28,500
+out of the system.
+
+20
+00:01:28,500 --> 00:01:33,260
+But just because a planet has survived the growing pains of formation doesn't mean it's
+
+21
+00:01:33,260 --> 00:01:34,260
+safe.
+
+22
+00:01:34,260 --> 00:01:39,560
+Planetary systems can be disrupted by flybys from stars or black holes at any point.
+
+23
+00:01:39,560 --> 00:01:43,940
+Up to half of all planets born could end up as rogues.
+
+24
+00:01:43,940 --> 00:01:47,260
+Scientists don't agree on the numbers, but it's likely that at the very least, there
+
+25
+00:01:47,260 --> 00:01:51,020
+are billions of rogue planets in the Milky Way alone.
+
+26
+00:01:51,020 --> 00:01:53,740
+Most rogues will share the same depressing fate.
+
+27
+00:01:53,740 --> 00:01:58,540
+As their star becomes smaller day by day, the planet's surface quickly cools down to
+
+28
+00:01:58,540 --> 00:02:02,160
+minus 270 degrees Celsius.
+
+29
+00:02:02,160 --> 00:02:05,900
+If they have oceans, they'll freeze and become as hard as bedrock.
+
+30
+00:02:05,900 --> 00:02:10,820
+Their atmospheres will sink down to the surface and eventually freeze too.
+
+31
+00:02:10,820 --> 00:02:17,880
+But weirdly enough, some of these frozen, dark deserts could harbor life.
+
+32
+00:02:17,880 --> 00:02:22,240
+To understand how, let's imagine a planet similar to Earth in the same order of magnitude
+
+33
+00:02:22,240 --> 00:02:25,440
+in terms of mass and composition.
+
+34
+00:02:25,440 --> 00:02:29,980
+If we put it into deep space, how could it still support life?
+
+35
+00:02:29,980 --> 00:02:35,120
+As far as we understand the nature of life, there is one indispensable ingredient it needs
+
+36
+00:02:35,120 --> 00:02:37,680
+— liquid water.
+
+37
+00:02:37,680 --> 00:02:43,140
+Water is important because it mixes things, both matter and energy, which lets interesting
+
+38
+00:02:43,140 --> 00:02:46,400
+chemistry happen, like life.
+
+39
+00:02:46,400 --> 00:02:50,240
+So our planet needs enough energy to keep at least a part of our oceans warm enough
+
+40
+00:02:50,240 --> 00:02:52,280
+to sustain liquid water.
+
+41
+00:02:52,280 --> 00:02:58,160
+Annoyingly, about 99.97% of Earth's energy budget comes from the sun.
+
+42
+00:02:58,160 --> 00:03:04,120
+So our imaginary rogue Earth needs to work with the 0.03% of energy it has left, which
+
+43
+00:03:04,120 --> 00:03:07,320
+almost exclusively comes from its hot center.
+
+44
+00:03:07,320 --> 00:03:12,440
+Earth's inner core is a giant metal ball, about as hot as the surface of the sun, that's
+
+45
+00:03:12,440 --> 00:03:17,640
+surrounded by the outer core made up of liquid metals that are very, very slowly solidifying,
+
+46
+00:03:17,640 --> 00:03:20,120
+releasing a lot of heat in the process.
+
+47
+00:03:20,120 --> 00:03:25,000
+As long as this process is ongoing, our planet will be geologically active, with solid and
+
+48
+00:03:25,000 --> 00:03:29,680
+liquid material moving around and transporting energy to the surface where it can be harnessed
+
+49
+00:03:29,680 --> 00:03:31,800
+as geothermal energy.
+
+50
+00:03:31,800 --> 00:03:36,480
+While the hot core of every planet will cool off eventually, this process takes billions
+
+51
+00:03:36,480 --> 00:03:41,840
+of years, enough time for life to come into existence and thrive.
+
+52
+00:03:41,840 --> 00:03:45,480
+There's even one scenario that could allow an Earth-like planet to have oceans that are
+
+53
+00:03:45,480 --> 00:03:47,120
+not frozen over.
+
+54
+00:03:47,120 --> 00:03:52,680
+If the planet had an extremely dense and high-pressure hydrogen atmosphere, the gas would not freeze
+
+55
+00:03:52,680 --> 00:03:57,040
+and could trap enough of the heat trying to escape the planet to enable oceans that extend
+
+56
+00:03:57,040 --> 00:03:59,360
+all the way to the surface.
+
+57
+00:03:59,360 --> 00:04:02,880
+And there's another possible way to stay warm, moons.
+
+58
+00:04:02,880 --> 00:04:06,800
+If a rogue planet brings a moon or more along with them, a large enough moon could inject
+
+59
+00:04:06,800 --> 00:04:10,620
+additional energy into the system via tidal forces.
+
+60
+00:04:10,620 --> 00:04:15,460
+These forces stretch and squeeze the planet a little bit every day, like kneading dough,
+
+61
+00:04:15,460 --> 00:04:16,900
+keeping it warm.
+
+62
+00:04:16,900 --> 00:04:21,980
+But the most likely scenario for a rogue-bearing life is one with subglacial oceans under a
+
+63
+00:04:21,980 --> 00:04:25,100
+kilometer-thick layer of mostly water ice.
+
+64
+00:04:25,100 --> 00:04:29,980
+These are not completely absurd, since we already have a few of them in the solar system.
+
+65
+00:04:29,980 --> 00:04:35,940
+So how could life sustain itself at the bottom of a completely dark, cold ocean?
+
+66
+00:04:35,940 --> 00:04:40,500
+On Earth, deep down in our oceans in complete darkness, in volcanically active areas, there
+
+67
+00:04:40,500 --> 00:04:43,800
+are hydrothermal vents called black smokers.
+
+68
+00:04:43,800 --> 00:04:48,820
+They spew out a cloud of black material and hot water, providing a constant flow of minerals
+
+69
+00:04:48,820 --> 00:04:51,340
+from Earth's mantle.
+
+70
+00:04:51,340 --> 00:04:55,980
+Bacteria feed on the minerals and produce organic materials which attracts crustaceans,
+
+71
+00:04:55,980 --> 00:05:02,120
+bivalves, snails, fish, octopus, and tube worms up to two meters long.
+
+72
+00:05:02,120 --> 00:05:06,440
+Not only are hydrothermal vents home to an incredibly diverse group of living beings,
+
+73
+00:05:06,440 --> 00:05:10,400
+but also a contender for the place where life could have begun on Earth billions of
+
+74
+00:05:10,400 --> 00:05:11,860
+years ago.
+
+75
+00:05:11,860 --> 00:05:16,880
+In the dark ocean of a rogue planet, similar vents or volcanic activity could be the starting
+
+76
+00:05:16,880 --> 00:05:22,260
+point and basis for complex ecosystems we can only imagine right now.
+
+77
+00:05:22,260 --> 00:05:27,240
+One upside an ecosystem in a rogue planet ocean has is that the environment is extremely
+
+78
+00:05:27,240 --> 00:05:28,400
+stable.
+
+79
+00:05:28,400 --> 00:05:32,560
+The thick ice sheet protects it from all sorts of extinction events, and as long as the energy
+
+80
+00:05:32,560 --> 00:05:37,000
+from the core keeps on coming, things stay pretty much the same.
+
+81
+00:05:37,000 --> 00:05:42,400
+The most likely forms of life are bacteria and other microorganisms, but given enough
+
+82
+00:05:42,400 --> 00:05:47,300
+time, more complex alien animals could feed on the smaller beings and thrive.
+
+83
+00:05:47,300 --> 00:05:51,680
+It's not impossible that intelligent life could emerge in such an environment.
+
+84
+00:05:51,680 --> 00:05:55,920
+If it did, it would find itself in a pretty weird world.
+
+85
+00:05:55,920 --> 00:06:01,120
+Constricted by an impassable wall of rock-hard ice at the top and bedrock at the bottom,
+
+86
+00:06:01,120 --> 00:06:06,500
+without any plants to store star energy, there would be no wood, oil, or coal.
+
+87
+00:06:06,500 --> 00:06:11,120
+Even if there were, it's not like you'd discover fire at the bottom of an ocean.
+
+88
+00:06:11,120 --> 00:06:15,680
+Without this energy, metals may never be forged into useful things.
+
+89
+00:06:15,680 --> 00:06:19,440
+Our intelligent alien friends might never break through the ice.
+
+90
+00:06:19,440 --> 00:06:23,800
+They might never realize that there is such a thing as outside, and assume that their
+
+91
+00:06:23,800 --> 00:06:26,720
+small world is all there is.
+
+92
+00:06:26,720 --> 00:06:31,900
+Hundreds of generations might live and die in these dark oceans, ignorant of the unbelievably
+
+93
+00:06:31,900 --> 00:06:39,200
+big universe above the ice, until the core of their planet cools off and all life vanishes.
+
+94
+00:06:39,200 --> 00:06:44,240
+As the oceans completely freeze, the remnants of cultures and ecosystems will be trapped
+
+95
+00:06:44,240 --> 00:06:46,520
+in an icy grave forever.
+
+96
+00:06:46,520 --> 00:06:50,780
+If you think about it, it might be better not to be aware of all that.
+
+97
+00:06:50,780 --> 00:06:54,700
+But the concept is disturbing and exciting.
+
+98
+00:06:54,700 --> 00:06:59,260
+The universe might be teeming with life, trapped on planets that are basically impossible
+
+99
+00:06:59,260 --> 00:07:00,660
+to leave.
+
+100
+00:07:00,660 --> 00:07:05,400
+Worlds like this could frequently pass the solar system without us even knowing.
+
+101
+00:07:05,400 --> 00:07:11,000
+Maybe one day, in the far future, humans will set foot on one of these frozen worlds and
+
+102
+00:07:11,000 --> 00:07:13,780
+try to say hello.
+
+103
+00:07:13,780 --> 00:07:20,120
+Okay, so we love gloomy future scenarios, but let's go back to the present for a different
+
+104
+00:07:20,120 --> 00:07:21,520
+kind of surprise.
+
+105
+00:07:21,520 --> 00:07:26,300
+Many of you want to know how we make our videos, so we made a video about that.
+
+106
+00:07:26,300 --> 00:07:30,980
+Kurzgesagt teamed up with Skillshare, our favorite online learning community for creators,
+
+107
+00:07:30,980 --> 00:07:35,040
+to make a three-part series of classes where you can learn our unique animation style with
+
+108
+00:07:35,040 --> 00:07:36,720
+scenes from our videos.
+
+109
+00:07:36,720 --> 00:07:40,920
+But we're not the only ones telling you our tips and tricks there.
+
+110
+00:07:40,920 --> 00:07:46,040
+A Skillshare Premium Membership gives you unlimited access to more than 25,000 classes
+
+111
+00:07:46,040 --> 00:07:52,000
+in all kinds of skills like writing, design, and animation from experts who know their
+
+112
+00:07:52,000 --> 00:07:53,000
+stuff.
+
+113
+00:07:53,000 --> 00:07:58,020
+The Premium Membership is as low as $10 a month, but as a treat, the first 1,000 people
+
+114
+00:07:58,020 --> 00:08:02,520
+to use the link in the description will get their first two months for free.
+
+115
+00:08:02,520 --> 00:08:06,780
+If you've always wanted to see how we animate our videos and learn to do it yourself, this
+
+116
+00:08:06,780 --> 00:08:07,720
+is your chance.
+
+117
+00:08:16,040 --> 00:08:19,160
+Thank you.
+

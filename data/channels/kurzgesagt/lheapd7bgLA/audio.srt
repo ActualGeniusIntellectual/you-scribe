@@ -1,0 +1,700 @@
+1
+00:00:00,000 --> 00:00:05,420
+Today, we are answering an age-old, very scientific, and important question.
+
+2
+00:00:05,420 --> 00:00:08,120
+What if the Moon crashes into Earth?
+
+3
+00:00:08,120 --> 00:00:12,520
+It's more interesting and weird than you probably think.
+
+4
+00:00:12,520 --> 00:00:14,720
+Let's start with the basics.
+
+5
+00:00:14,720 --> 00:00:18,020
+Why isn't the Moon on its way to crash into us already?
+
+6
+00:00:25,020 --> 00:00:29,420
+We know that Earth's gravity pulls everything towards it, including the Moon,
+
+7
+00:00:29,420 --> 00:00:34,420
+but somehow, it stays up, as if suspended by some opposite force.
+
+8
+00:00:34,420 --> 00:00:37,120
+But there is no other force countering gravity.
+
+9
+00:00:37,120 --> 00:00:42,920
+Instead, the trick to staying up is a sideways motion that we call an orbit.
+
+10
+00:00:42,920 --> 00:00:44,420
+You see orbits every day.
+
+11
+00:00:44,420 --> 00:00:47,420
+When you throw a ball, it makes a tiny little orbit.
+
+12
+00:00:47,420 --> 00:00:53,420
+The only difference between the ball's orbit and the Moon's is that the ball eventually hits the ground.
+
+13
+00:00:53,420 --> 00:00:56,920
+Basically, the reason is speed.
+
+14
+00:00:56,920 --> 00:01:01,420
+If you could throw your ball fast enough, it would bend around the world and come back to you.
+
+15
+00:01:01,420 --> 00:01:05,420
+If there were no air slowing it down, it could orbit forever.
+
+16
+00:01:05,420 --> 00:01:07,420
+And this is what the Moon does.
+
+17
+00:01:07,420 --> 00:01:11,920
+Falling sideways around Earth, very fast, with no air slowing it down.
+
+18
+00:01:11,920 --> 00:01:17,420
+Orbiting Earth every 27 days at 3600 kilometers an hour.
+
+19
+00:01:17,420 --> 00:01:20,920
+So, for the Moon to just stop in its orbit and plummet to the Earth,
+
+20
+00:01:20,920 --> 00:01:24,420
+would break more laws of physics than we have time to explain.
+
+21
+00:01:24,420 --> 00:01:27,420
+So, how do we crash it into Earth?
+
+22
+00:01:27,420 --> 00:01:31,920
+In a nutshell, to change an object's orbit, you need to change its speed,
+
+23
+00:01:31,920 --> 00:01:34,920
+which changes where gravity takes it.
+
+24
+00:01:34,920 --> 00:01:37,920
+But even small changes require enormous forces,
+
+25
+00:01:37,920 --> 00:01:42,920
+which is why all the large objects in the solar system are so stable nowadays.
+
+26
+00:01:42,920 --> 00:01:46,420
+According to science, the Moon is big and very massive.
+
+27
+00:01:46,420 --> 00:01:51,920
+Even igniting billions of rocket engines all over its surface would barely move the Moon.
+
+28
+00:01:51,920 --> 00:01:55,420
+It looks like nothing short of magic will make the Moon fall,
+
+29
+00:01:55,420 --> 00:01:58,920
+so we'll use a magic spell that slows down the Moon so much,
+
+30
+00:01:58,920 --> 00:02:02,920
+that it changes its orbit and spirals towards Earth.
+
+31
+00:02:02,920 --> 00:02:08,920
+To get the most from the experience, the Moon will take exactly one year before it hits Earth.
+
+32
+00:02:08,920 --> 00:02:09,920
+Ready?
+
+33
+00:02:09,920 --> 00:02:13,920
+Three, two, one.
+
+34
+00:02:13,920 --> 00:02:15,920
+Magic.
+
+35
+00:02:15,920 --> 00:02:18,420
+Month one.
+
+36
+00:02:18,420 --> 00:02:20,920
+For the first few days, nothing really changes.
+
+37
+00:02:20,920 --> 00:02:24,420
+The Moon gets a tiny bit brighter and scientists get confused,
+
+38
+00:02:24,420 --> 00:02:27,420
+but the rest of us don't notice anything different.
+
+39
+00:02:27,420 --> 00:02:31,420
+The only noticeable real effect of the Moon on the Earth are the tides.
+
+40
+00:02:31,420 --> 00:02:33,920
+Tides exist because while Earth pulls on the Moon,
+
+41
+00:02:33,920 --> 00:02:36,920
+the Moon's gravity pulls back on the Earth.
+
+42
+00:02:36,920 --> 00:02:39,420
+Since the strength of gravity gets weaker with distance,
+
+43
+00:02:39,420 --> 00:02:42,920
+different parts of the Earth feel a slightly different pull,
+
+44
+00:02:42,920 --> 00:02:44,920
+which causes the Earth, especially the oceans,
+
+45
+00:02:44,920 --> 00:02:49,920
+to bulge when the Moon is above them and contract a little on the sides when it's not.
+
+46
+00:02:49,920 --> 00:02:52,420
+As Earth rotates every day underneath the Moon,
+
+47
+00:02:52,420 --> 00:02:53,920
+the Moon's influence fluctuates,
+
+48
+00:02:53,920 --> 00:02:59,420
+causing the water level of the oceans to rise and fall by about half a meter twice a day.
+
+49
+00:02:59,420 --> 00:03:04,420
+But with the Moon drawing ever closer, high tide gets higher every day.
+
+50
+00:03:04,420 --> 00:03:08,920
+At first barely noticeable, within a month the Moon has covered half the distance to the Earth,
+
+51
+00:03:08,920 --> 00:03:11,920
+and ocean tides have grown to four meters.
+
+52
+00:03:11,920 --> 00:03:15,920
+Every day high tide comes and waves flood coastal cities.
+
+53
+00:03:15,920 --> 00:03:18,420
+And there's no end in sight.
+
+54
+00:03:18,420 --> 00:03:21,920
+With the Moon drawing ever closer, tides rise ever higher,
+
+55
+00:03:21,920 --> 00:03:27,420
+inundating another city and more inhabited land with salty water every day.
+
+56
+00:03:30,420 --> 00:03:34,420
+By the end of month two, the Moon has covered two-thirds of the distance to Earth,
+
+57
+00:03:34,420 --> 00:03:38,920
+and global infrastructure is crumbling as tides rise above ten meters,
+
+58
+00:03:38,920 --> 00:03:43,420
+displacing up to a billion people who happen to live near the coastlines.
+
+59
+00:03:43,420 --> 00:03:47,420
+As ports become inoperable, shipping grinds to a halt.
+
+60
+00:03:47,420 --> 00:03:50,920
+Not only will it slow down the delivery of Kurzgesagt products,
+
+61
+00:03:50,920 --> 00:03:53,420
+but also less exciting things like food.
+
+62
+00:03:53,420 --> 00:03:56,420
+Global communications fall into disarray.
+
+63
+00:03:56,420 --> 00:03:59,920
+95% of the Internet is carried by ocean-crossing cables,
+
+64
+00:03:59,920 --> 00:04:04,920
+and while these largely don't mind the water, their terminals on land do.
+
+65
+00:04:04,920 --> 00:04:07,920
+Living inland doesn't guarantee safety either.
+
+66
+00:04:07,920 --> 00:04:10,420
+Tidal boards cause rivers to flow backwards,
+
+67
+00:04:10,420 --> 00:04:14,920
+carrying salt water to contaminate surface and groundwater supplies.
+
+68
+00:04:14,920 --> 00:04:19,420
+Gas shortages follow as oil refineries near the coast are abandoned.
+
+69
+00:04:19,420 --> 00:04:22,420
+Countries are left with the supplies they had on their shelves,
+
+70
+00:04:22,420 --> 00:04:25,420
+and strict rationing will begin.
+
+71
+00:04:25,420 --> 00:04:29,420
+In the cities, chaos reigns during the scavenging hours of low tide,
+
+72
+00:04:29,420 --> 00:04:33,920
+while survivors take refuge in high-rises when the water returns.
+
+73
+00:04:35,920 --> 00:04:41,420
+Three months in, and the Moon is close enough to disrupt communication and navigation satellites.
+
+74
+00:04:41,420 --> 00:04:45,920
+While it's normally far too distant for its gravity to cause any major problems for our satellites,
+
+75
+00:04:45,920 --> 00:04:49,920
+the closer it gets, the more warped their orbits become.
+
+76
+00:04:49,920 --> 00:04:55,920
+As their fuel for orbital corrections runs out, satellites careen out of control.
+
+77
+00:04:55,920 --> 00:04:57,920
+Months 4 and 5.
+
+78
+00:04:59,420 --> 00:05:03,420
+On Earth, the tides are rapidly growing to about 30 meters,
+
+79
+00:05:03,420 --> 00:05:07,920
+and will be reaching 100 meters in height in a few short weeks.
+
+80
+00:05:07,920 --> 00:05:10,920
+At low tide, the ocean recedes hundreds of kilometers,
+
+81
+00:05:10,920 --> 00:05:13,920
+exposing the continental shelf like vast deserts,
+
+82
+00:05:13,920 --> 00:05:19,420
+while at high tide, walls of water drown agriculture, houses, and skyscrapers.
+
+83
+00:05:19,420 --> 00:05:24,920
+And now, almost five months in, the apocalypse has finished its warm-up act.
+
+84
+00:05:24,920 --> 00:05:28,420
+Since the oceans are on average only three kilometers deep,
+
+85
+00:05:28,420 --> 00:05:30,420
+the tides have reached their maximum.
+
+86
+00:05:30,420 --> 00:05:33,420
+Up until now, the water in the oceans could flow,
+
+87
+00:05:33,420 --> 00:05:36,420
+absorbing most of the Moon's gravitational squeezing,
+
+88
+00:05:36,420 --> 00:05:41,420
+but now the Earth itself is really feeling the squeeze of the ever-approaching Moon.
+
+89
+00:05:41,420 --> 00:05:45,920
+These aren't so much tides of water, but tides of rock.
+
+90
+00:05:45,920 --> 00:05:49,920
+The squeezing of the planet, combined with the weight of quintillions of tons of water
+
+91
+00:05:49,920 --> 00:05:54,420
+sloshing on and off the tectonic plate, creates enormous stresses below,
+
+92
+00:05:54,420 --> 00:05:58,920
+and begins to cause earthquakes of increasing magnitude and intensity.
+
+93
+00:05:58,920 --> 00:06:03,420
+It's impossible to say how serious these earthquakes might be or where they occur,
+
+94
+00:06:03,420 --> 00:06:05,920
+but like a child jumping on their bed until it breaks,
+
+95
+00:06:05,920 --> 00:06:07,920
+no good can come of it.
+
+96
+00:06:07,920 --> 00:06:11,920
+Strong tidal forces lead to volcanism on other planets and moons.
+
+97
+00:06:11,920 --> 00:06:16,420
+On Earth, squeezing the planet disrupts the magma reservoirs inside the crust,
+
+98
+00:06:16,420 --> 00:06:23,420
+triggering sizable, climate-altering eruptions in Chile, New Zealand, Yellowstone, and elsewhere.
+
+99
+00:06:23,420 --> 00:06:27,920
+Meanwhile, watching patiently above is the Moon.
+
+100
+00:06:27,920 --> 00:06:30,920
+Still no bigger in the sky than a small cloud.
+
+101
+00:06:30,920 --> 00:06:37,420
+Within 75,000 kilometers of Earth, it is bright enough to illuminate the night sky like twilight.
+
+102
+00:06:37,420 --> 00:06:39,920
+Months 6 and 7.
+
+103
+00:06:39,920 --> 00:06:44,920
+After half a year, the Moon is entering the space once occupied by geosynchronous satellites,
+
+104
+00:06:44,920 --> 00:06:47,920
+where it orbits Earth every 24 hours.
+
+105
+00:06:47,920 --> 00:06:50,920
+It appears to float at one spot in the sky, unmoving,
+
+106
+00:06:50,920 --> 00:06:56,420
+cycling through a full set of phases every day, but only visible to half the planet.
+
+107
+00:06:56,420 --> 00:07:01,420
+With the Moon stationary above the Earth, the tides seem to freeze in place.
+
+108
+00:07:01,420 --> 00:07:05,920
+Half the world flooded, half with its water seemingly returned to the sea,
+
+109
+00:07:05,920 --> 00:07:09,420
+as if Earth is holding its breath to prepare for the worst.
+
+110
+00:07:09,420 --> 00:07:13,920
+As the Moon sinks further, you might wonder if its gravity would overpower Earth's,
+
+111
+00:07:13,920 --> 00:07:16,420
+pulling you up and ending your misery.
+
+112
+00:07:16,420 --> 00:07:18,420
+Fortunately not.
+
+113
+00:07:18,420 --> 00:07:21,920
+The Earth's surface gravity is about six times stronger than the Moon's,
+
+114
+00:07:21,920 --> 00:07:27,420
+so even if the Moon were hovering right on top of you, you would still stay on the ground.
+
+115
+00:07:27,420 --> 00:07:29,420
+On the Moon, things are different though.
+
+116
+00:07:29,420 --> 00:07:32,920
+The near side of the Moon is more strongly affected by Earth's gravity,
+
+117
+00:07:32,920 --> 00:07:38,420
+so during the next few months, it starts to stretch forward towards the Earth into something of an egg,
+
+118
+00:07:38,420 --> 00:07:42,920
+triggering deep moonquakes as the lunar rock flexes and changes shape.
+
+119
+00:07:42,920 --> 00:07:49,920
+Though barely noticeable now, this squish will grow to hundreds of kilometers in a matter of months.
+
+120
+00:07:49,920 --> 00:07:51,920
+Months 8 to 11.
+
+121
+00:07:51,920 --> 00:07:57,420
+At this point, the apocalypse has arrived, and we can summarize the months before the crash,
+
+122
+00:07:57,420 --> 00:08:00,920
+as everybody left has a really bad time.
+
+123
+00:08:00,920 --> 00:08:05,420
+The tides sweeping over the Earth slow down and then reverse their direction,
+
+124
+00:08:05,420 --> 00:08:09,920
+because the Moon now orbits Earth faster than it rotates.
+
+125
+00:08:09,920 --> 00:08:14,420
+The planet will experience an abundance of earthquakes and volcanism.
+
+126
+00:08:14,420 --> 00:08:17,920
+Massive amounts of volcanic aerosols rise high into the stratosphere,
+
+127
+00:08:17,920 --> 00:08:20,920
+shiny enough to reflect sunlight back into space.
+
+128
+00:08:20,920 --> 00:08:26,420
+What little light gets through is rust red and is periodically diminished by daily eclipses.
+
+129
+00:08:26,420 --> 00:08:32,920
+The result is a rapid global cooling, with acid rains and summer snows killing even the hardiest plants.
+
+130
+00:08:32,920 --> 00:08:35,920
+The clock runs out on civilization.
+
+131
+00:08:35,920 --> 00:08:40,420
+Billions have perished, while an X-shaped Moon is still drawing closer.
+
+132
+00:08:40,420 --> 00:08:43,420
+Let's get ready for the grand finale.
+
+133
+00:08:43,420 --> 00:08:45,420
+Month 12.
+
+134
+00:08:45,420 --> 00:08:49,920
+Finally, at the end of the year, the Moon has reached the Roche limit.
+
+135
+00:08:49,920 --> 00:08:56,420
+That's the point where Earth's gravitational pull on the Moon is stronger than the Moon's own gravity.
+
+136
+00:08:56,420 --> 00:09:01,420
+Things on the lunar surface start falling towards Earth, and by the time it crosses 10,000 kilometers,
+
+137
+00:09:01,420 --> 00:09:08,420
+the entire Moon disintegrates into rubble, smearing itself into a massive ring system around the Earth.
+
+138
+00:09:08,420 --> 00:09:13,420
+Fortunately, the Moon's disintegration means the misery on Earth has ended.
+
+139
+00:09:13,420 --> 00:09:18,420
+No Moon means the general apocalyptic nature of things comes to a halt.
+
+140
+00:09:18,420 --> 00:09:22,920
+The oceans recede, flowing off the land one last time.
+
+141
+00:09:22,920 --> 00:09:28,420
+Any survivors are treated to a view of tremendous arches spanning the sky,
+
+142
+00:09:28,420 --> 00:09:33,920
+glimmering in the sunlight, illuminating the night sky more brilliantly than any full Moon ever could,
+
+143
+00:09:33,920 --> 00:09:37,420
+while meteor showers of Moon dust fill the sky.
+
+144
+00:09:37,420 --> 00:09:41,920
+It's hard to say what happens next, but the tranquility may be short-lived.
+
+145
+00:09:41,920 --> 00:09:47,920
+If too much Moon dust rains down, friction heats the atmosphere, possibly boiling the oceans.
+
+146
+00:09:47,920 --> 00:09:54,420
+If not, the enormous shadows cast by the rings, combined with all the volcanic and meteoric aerosols,
+
+147
+00:09:54,420 --> 00:10:02,420
+block even more sunlight, and a period of runaway cooling could begin that freezes much of Earth's surface solid.
+
+148
+00:10:04,420 --> 00:10:11,420
+In any case, at some point, people will emerge again, from submarines or bunkers or mountaintops.
+
+149
+00:10:11,920 --> 00:10:18,420
+They will not have a great time before rebuilding civilization, and their success is not guaranteed,
+
+150
+00:10:18,420 --> 00:10:22,920
+but at least they'll be trying to do so with beautiful rings in the sky.
+
+151
+00:10:27,920 --> 00:10:30,420
+So, how do you calculate that sort of thing?
+
+152
+00:10:30,420 --> 00:10:33,920
+Well, you just need a bit of insanity and some maths.
+
+153
+00:10:33,920 --> 00:10:40,920
+If you need to brush up on the latter, our friends from Brilliant are the perfect coaches to turn your curiosity into practical skills.
+
+154
+00:10:40,920 --> 00:10:46,420
+Brilliant is a problem-solving website and app that makes science accessible with a hands-on approach.
+
+155
+00:10:46,420 --> 00:10:51,920
+More than 60 interactive courses like The Joy of Problem Solving or Scientific Thinking
+
+156
+00:10:51,920 --> 00:10:55,420
+give you the tools to crack problems in maths, science, and computer science
+
+157
+00:10:55,420 --> 00:10:58,420
+in a way that feels more like playing a game than doing homework.
+
+158
+00:10:58,420 --> 00:11:03,920
+Lessons will surprise you with storytelling, code-writing tasks, and interactive challenges,
+
+159
+00:11:03,920 --> 00:11:07,920
+basically using whatever keeps you interested and entertained.
+
+160
+00:11:08,420 --> 00:11:10,420
+All the content is interactive.
+
+161
+00:11:10,420 --> 00:11:13,420
+Instead of just reading and listening to explanations,
+
+162
+00:11:13,420 --> 00:11:18,420
+you drag and drop, manipulate shapes and diagrams, make selections, and answer questions.
+
+163
+00:11:18,420 --> 00:11:21,420
+This way, you learn something almost without you noticing it.
+
+164
+00:11:21,420 --> 00:11:29,420
+And tiny step-by-step, you'll build up your long-term understanding of science and get closer to your STEM goals.
+
+165
+00:11:29,420 --> 00:11:32,420
+To start looking at the world of science from a different perspective,
+
+166
+00:11:32,420 --> 00:11:36,420
+go to brilliant.org slash Nutshell and sign up for free.
+
+167
+00:11:36,420 --> 00:11:38,920
+When there's an extra perk for Kurzgesagt viewers,
+
+168
+00:11:38,920 --> 00:11:43,420
+the first 200 people to use the link get 20% off their annual membership,
+
+169
+00:11:43,420 --> 00:11:47,920
+which unlocks all of Brilliant's courses in maths, science, and computer science.
+
+170
+00:11:47,920 --> 00:11:52,920
+At Kurzgesagt, we love to create things that seem impossible at first.
+
+171
+00:11:52,920 --> 00:11:55,920
+Brilliant can help you acquire the skills to do that.
+
+172
+00:11:58,420 --> 00:12:02,420
+This year, we'll release three very special limited edition pins.
+
+173
+00:12:02,420 --> 00:12:05,920
+The first one is this very shiny Mooncrash pin set.
+
+174
+00:12:05,920 --> 00:12:11,420
+Pre-order is available for only 72 hours, so you can order it now and then, never again.
+
+175
+00:12:11,420 --> 00:12:16,420
+Be sure to watch out for pin number two and three to complete your 12,022 collection.
+

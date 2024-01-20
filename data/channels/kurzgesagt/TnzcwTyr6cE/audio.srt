@@ -1,0 +1,280 @@
+1
+00:00:00,000 --> 00:00:07,000
+What if you could use genetic engineering to stop humanity's most dangerous predator?
+
+2
+00:00:07,000 --> 00:00:11,820
+The deadliest animal on the planet responsible for the death of billions,
+
+3
+00:00:11,820 --> 00:00:17,800
+the mighty mosquito. Along with other diseases, it plays host to malaria,
+
+4
+00:00:17,800 --> 00:00:23,120
+one of the cruelest parasites on Earth, possibly the single biggest killer of humans in history.
+
+5
+00:00:23,120 --> 00:00:29,040
+In 2015 alone, hundreds of millions were infected and almost half a million people died.
+
+6
+00:00:29,040 --> 00:00:34,780
+A new technology could help us eradicate malaria forever. But to do so,
+
+7
+00:00:34,780 --> 00:00:40,880
+we need to engineer a whole animal population. This is not a hypothetical problem. The modified
+
+8
+00:00:40,880 --> 00:00:48,000
+mosquitoes already exist in a lab. Should we use the technology and is malaria bad enough to risk it?
+
+9
+00:00:48,000 --> 00:01:05,160
+Malaria is caused by a group of microorganisms, plasmodia. Very weird microorganisms that consist
+
+10
+00:01:05,160 --> 00:01:11,720
+of just a single cell. They're parasites that completely rely on mosquitoes. Malaria always
+
+11
+00:01:11,720 --> 00:01:17,280
+starts with an insect bite. In its salivary glands, thousands of sporozoites wait until
+
+12
+00:01:17,280 --> 00:01:22,280
+the insect penetrates your skin. Immediately after invading you, they head for the liver,
+
+13
+00:01:22,280 --> 00:01:27,400
+where they quietly enter big cells and hide from the immune system. For up to a month,
+
+14
+00:01:27,400 --> 00:01:32,800
+they stay here in stealth mode, consuming the cells alive and changing into their next form,
+
+15
+00:01:32,800 --> 00:01:39,280
+small drop-like myriozoites. They multiply, generating thousands of themselves and then
+
+16
+00:01:39,280 --> 00:01:44,920
+burst out of the cells. So thousands of parasites head into the bloodstream to look for their next
+
+17
+00:01:44,920 --> 00:01:50,520
+victims, red blood cells. To stay unnoticed, they wrap themselves in the membranes of the
+
+18
+00:01:50,520 --> 00:01:56,200
+cells they killed. Imagine that, killing someone from the inside and then taking their skin as
+
+19
+00:01:56,200 --> 00:02:03,040
+camouflage. Brutal. They now violently attack red blood cells, multiplying inside them until they
+
+20
+00:02:03,040 --> 00:02:09,240
+burst, then finding more red blood cells, and this cycle repeats over and over. Pieces of dead cells
+
+21
+00:02:09,240 --> 00:02:14,000
+spread lots of toxic waste material, which activates a powerful immune response, causing
+
+22
+00:02:14,000 --> 00:02:20,120
+flu-like symptoms. Among the symptoms are high fever, sweats and chills, convulsions, headaches,
+
+23
+00:02:20,120 --> 00:02:25,920
+and sometimes vomiting and diarrhea. If malaria breaches the blood-brain barrier, it can cause
+
+24
+00:02:25,920 --> 00:02:32,600
+coma, neurological damage, or death. The parasites are ready for evacuation now. When another
+
+25
+00:02:32,600 --> 00:02:39,200
+mosquito bites the infected human, they get a ride. The cycle can start over. In 2015,
+
+26
+00:02:39,200 --> 00:02:43,040
+the Zika virus, which causes horrible birth defects if it infects pregnant women,
+
+27
+00:02:43,080 --> 00:02:49,680
+spread rapidly into new areas around the globe. It too is carried by a mosquito. The mosquito is
+
+28
+00:02:49,680 --> 00:02:54,840
+the perfect carrier for human diseases. They've been around for at least 200 million years. There
+
+29
+00:02:54,840 --> 00:03:01,460
+are trillions of them, and a single one can lay up to 300 eggs at a time. They are practically
+
+30
+00:03:01,460 --> 00:03:07,440
+impossible to eradicate and the perfect parasite taxi. But today we have new revolutionary
+
+31
+00:03:07,440 --> 00:03:13,200
+technology that could enable us to finally win the war against them. CRISPR. For the first time
+
+32
+00:03:13,200 --> 00:03:19,160
+in human history, we have the tools to make fast, large-scale changes to entire species,
+
+33
+00:03:19,160 --> 00:03:26,480
+changing their genetic information as we please. So instead of attacking isolated groups of insects,
+
+34
+00:03:26,480 --> 00:03:33,120
+why not just change the types that transmit diseases? Using genetic engineering, scientists
+
+35
+00:03:33,120 --> 00:03:38,360
+successfully created a strain of mosquitoes that are immune to the malaria parasite by adding a
+
+36
+00:03:38,360 --> 00:03:44,360
+new antibody gene that specifically targets plasmodium. These mosquitoes will never spread
+
+37
+00:03:44,360 --> 00:03:51,240
+malaria. But just changing genetic information is not enough. The edits would only be inherited
+
+38
+00:03:51,240 --> 00:03:56,760
+by half the offspring because most genes have two versions inside the genome as a fail-safe. So
+
+39
+00:03:56,760 --> 00:04:01,280
+after just two generations, at most only half of the offspring would carry the engineered gene.
+
+40
+00:04:01,280 --> 00:04:07,440
+In a population of billions of mosquitoes, they would hardly make a difference. A genetic
+
+41
+00:04:07,440 --> 00:04:12,760
+engineering method called the gene drive solves this problem. It forces the new gene to become
+
+42
+00:04:12,760 --> 00:04:18,360
+dominant in the following generations, overpowering the old gene almost completely. Thanks to this
+
+43
+00:04:18,360 --> 00:04:24,720
+twist, 99.5% of all the engineered mosquitoes' offspring will carry the anti-malaria edit.
+
+44
+00:04:24,720 --> 00:04:30,320
+If we were to release enough engineered mosquitoes into the wild to mate with normal mosquitoes,
+
+45
+00:04:30,360 --> 00:04:36,000
+the malaria blocking genes would spread extremely quickly. As the new gene becomes a permanent
+
+46
+00:04:36,000 --> 00:04:41,240
+feature of the mosquito population, plasmodium would lose its home base. Scientists hope that
+
+47
+00:04:41,240 --> 00:04:46,560
+the change would be so fast that they could not adapt to it quickly enough. Malaria could virtually
+
+48
+00:04:46,560 --> 00:04:51,400
+disappear. If you take into account that nearly half a million children are killed by it every
+
+49
+00:04:51,400 --> 00:04:56,760
+year, about five have died since this video started. Some scientists argue that we should
+
+50
+00:04:56,760 --> 00:05:02,080
+use the technology sooner rather than later. The mosquitoes themselves would probably only
+
+51
+00:05:02,080 --> 00:05:08,000
+profit from this. They don't have anything to gain from carrying parasites. And this might only be the
+
+52
+00:05:08,000 --> 00:05:14,040
+first step. Malaria might just be the beginning. Different mosquitoes also carry dengue fever and
+
+53
+00:05:14,040 --> 00:05:21,080
+Zika. Ticks transmit Lyme disease. Flies transmit sleeping sickness. Fleas transmit the plague. We
+
+54
+00:05:21,080 --> 00:05:27,600
+could save millions of lives and prevent suffering on an unbelievable scale. So why haven't we done
+
+55
+00:05:27,600 --> 00:05:34,120
+this yet? For one, CRISPR editing is barely four years old, so until very recently, we just couldn't
+
+56
+00:05:34,120 --> 00:05:40,560
+do it as fast and easily. And there are valid concerns. Never before have humans consciously
+
+57
+00:05:40,560 --> 00:05:46,880
+changed the genetic code of a free-living organism on this scale. Once we do it, there is no going
+
+58
+00:05:46,880 --> 00:05:52,720
+back. So it has to be done right, because there could be unwanted consequences if we set out to
+
+59
+00:05:52,720 --> 00:05:58,440
+edit nature. In the specific case of malaria, though, the risk might be acceptable, since the
+
+60
+00:05:58,440 --> 00:06:03,080
+genetic modification doesn't make a big change in the overall genome, it only changes a very
+
+61
+00:06:03,080 --> 00:06:08,880
+specific part. The worst-case scenario here is probably that it might not work, or that the
+
+62
+00:06:08,880 --> 00:06:16,640
+parasite adapts in a negative way. There is still much debate. Technology as powerful as gene drive
+
+63
+00:06:16,960 --> 00:06:22,520
+needs to be handled with a lot of care. But at some point, we have to ask ourselves, is it
+
+64
+00:06:22,520 --> 00:06:30,040
+unethical to not use this technology when every day 1,000 children die? Humanity has to decide
+
+65
+00:06:30,040 --> 00:06:35,520
+how to act on this in the next few years. The public discussion is way behind the technology
+
+66
+00:06:35,520 --> 00:06:44,000
+in this case. What do you think? This video was made possible in part by viewer donations on
+
+67
+00:06:44,000 --> 00:06:49,360
+Patreon. If you want to help us make more videos like this and get nice rewards in return, you can
+
+68
+00:06:49,360 --> 00:06:54,880
+do so here. We really appreciate it. If you want to learn more about the topic of genetic engineering,
+
+69
+00:06:54,880 --> 00:07:00,240
+we have another video about CRISPR and GMOs. And in case that's too much biology for you,
+
+70
+00:07:00,240 --> 00:07:01,640
+here's a space playlist.
+

@@ -1,0 +1,528 @@
+1
+00:00:00,000 --> 00:00:05,480
+You're not a person. You're a planet made of roughly 40 trillion cells.
+
+2
+00:00:06,600 --> 00:00:13,340
+There is so much of you that if your cells were human-sized, you'd be as big as 20 Mount Everest's.
+
+3
+00:00:13,980 --> 00:00:17,880
+For your creepy-crawly inhabitants, this makes your body an
+
+4
+00:00:18,360 --> 00:00:24,560
+ecosystem rich in resources and warmth and space. A perfect place to move into and have a family.
+
+5
+00:00:25,360 --> 00:00:29,200
+While some of these guests are welcome, most are not.
+
+6
+00:00:30,000 --> 00:00:37,720
+Your immune system is the guardian of this planet, the force tasked with protecting yourself against the constant danger of invasion.
+
+7
+00:00:38,840 --> 00:00:43,400
+Unfortunately, your enemies in the tiny world have a huge advantage.
+
+8
+00:00:52,520 --> 00:00:56,960
+Consider the effort it takes to make a single copy of yourself and your trillions of cells.
+
+9
+00:00:57,400 --> 00:01:04,100
+First, you need to find someone who thinks you're cute, date and be awkward, and if things work out in a
+
+10
+00:01:04,520 --> 00:01:07,340
+complicated dance, two of your cells merge together.
+
+11
+00:01:08,080 --> 00:01:15,280
+Then, you need to wait for months while the cell multiplies over and over until it's released into the world as a human being.
+
+12
+00:01:15,800 --> 00:01:21,320
+And even then, you only have a mini copy that needs years to become remotely useful.
+
+13
+00:01:22,320 --> 00:01:27,920
+A bacterium consists of one cell. It can make a fully grown copy in about half an hour.
+
+14
+00:01:28,440 --> 00:01:32,700
+A virus can turn into hundreds within hours and billions within days.
+
+15
+00:01:33,520 --> 00:01:37,480
+Your enemies multiply orders of magnitude faster than you.
+
+16
+00:01:37,920 --> 00:01:43,640
+Even worse, for a bacterium or virus, your body is a hostile ecosystem applying selective pressure.
+
+17
+00:01:44,400 --> 00:01:47,400
+Because they go through so many generations so quickly,
+
+18
+00:01:47,920 --> 00:01:55,860
+eventually, by pure chance, there will be an individual that mutates and adapts in just the right way to resist your defenses and then
+
+19
+00:01:56,120 --> 00:01:58,600
+multiply quickly again. In other words,
+
+20
+00:01:58,600 --> 00:02:05,100
+you're facing a sheer endless variety of different enemies and you're too slow to keep up with their evolution.
+
+21
+00:02:05,560 --> 00:02:07,560
+This is bad.
+
+22
+00:02:07,600 --> 00:02:11,880
+Luckily, your immune system is just about the most amazing thing ever.
+
+23
+00:02:12,400 --> 00:02:17,440
+The second most complex biological system known to us after the human brain and
+
+24
+00:02:17,800 --> 00:02:21,600
+so sophisticated that we still haven't discovered all its secrets.
+
+25
+00:02:22,000 --> 00:02:23,680
+Since it's so complicated,
+
+26
+00:02:23,680 --> 00:02:28,640
+we have to simplify and focus on one thing at a time. If you want the full story,
+
+27
+00:02:29,000 --> 00:02:31,360
+wait for the announcement at the end of the video.
+
+28
+00:02:32,000 --> 00:02:37,320
+Okay, so why are we not all killed by some new bacteria or virus? In a nutshell,
+
+29
+00:02:37,400 --> 00:02:42,840
+you actually have two immune systems, the innate and the adaptive immune system.
+
+30
+00:02:43,440 --> 00:02:49,360
+The innate immune system was ready when you were born. It mostly consists of general-purpose soldiers.
+
+31
+00:02:49,360 --> 00:02:51,900
+We introduced them in the last immune video.
+
+32
+00:02:52,520 --> 00:02:59,780
+The adaptive immune system carries two types of cells, T-cells and B-cells, that are your super weapons and are
+
+33
+00:03:00,080 --> 00:03:02,500
+incredibly effective and deadly for your enemies.
+
+34
+00:03:03,220 --> 00:03:10,060
+These cells are complicated to produce and take a lot of time to deploy, but once they're ready, they pack a real punch.
+
+35
+00:03:10,900 --> 00:03:17,300
+What makes your adaptive immune system so powerful is that it has the largest library in the universe.
+
+36
+00:03:17,580 --> 00:03:19,580
+It has an answer to everything.
+
+37
+00:03:19,860 --> 00:03:27,180
+You have at least one of these super weapon cells inside you to fight the Black Death, the coronavirus and the first deadly
+
+38
+00:03:27,340 --> 00:03:30,660
+bacteria that will emerge in a city on Mars in 100 years.
+
+39
+00:03:31,220 --> 00:03:37,160
+This makes it possible for you to counter the ability of bacteria and viruses to change so rapidly.
+
+40
+00:03:37,800 --> 00:03:39,580
+How is this possible?
+
+41
+00:03:39,580 --> 00:03:43,460
+To understand what's going on here, we need to take one step back.
+
+42
+00:03:44,020 --> 00:03:48,940
+All organisms on Earth are made from the same basic parts, mostly proteins.
+
+43
+00:03:49,780 --> 00:03:56,660
+Proteins are the building blocks of life and can have billions of different shapes. You can imagine them as 3D puzzle pieces.
+
+44
+00:03:57,420 --> 00:04:02,180
+There are billions of different puzzle pieces your enemies can use to construct their bodies.
+
+45
+00:04:02,780 --> 00:04:08,900
+Why is this important? Because proteins are, in a way, the language of the micro world.
+
+46
+00:04:09,460 --> 00:04:11,460
+Cells don't have eyes or ears,
+
+47
+00:04:11,500 --> 00:04:18,460
+so to tell friend from foe, they have to touch them and recognize if their protein is part of a friend or part of an enemy.
+
+48
+00:04:19,740 --> 00:04:26,640
+Recognizing means that cells have countless tiny devices called receptors that are able to connect with a specific protein puzzle piece.
+
+49
+00:04:27,060 --> 00:04:34,480
+So your cells have tiny puzzle pieces on their outsides that are able to click together or recognize other protein puzzle pieces.
+
+50
+00:04:34,800 --> 00:04:37,420
+When a cell connects together with a protein and
+
+51
+00:04:38,180 --> 00:04:41,600
+recognizes it as enemy, it knows that it has to attack.
+
+52
+00:04:42,420 --> 00:04:49,000
+Only if your cells can make this distinction between friend or foe is your immune system able to fight an invader.
+
+53
+00:04:49,580 --> 00:04:56,340
+But since there are billions of possible protein puzzle pieces, this means there are billions of possible enemy puzzle pieces.
+
+54
+00:04:57,020 --> 00:05:02,000
+This is also one of the reasons we still have to deal with diseases like the flu each year. The
+
+55
+00:05:02,380 --> 00:05:07,960
+influenza virus mutates very rapidly and so the proteins that make up its hull constantly change a tiny bit.
+
+56
+00:05:08,620 --> 00:05:15,300
+The soldiers of your innate immune system have a large number of the puzzle pieces for common bacteria and viruses memorized.
+
+57
+00:05:15,380 --> 00:05:17,840
+That's why they are your all-purpose weapons.
+
+58
+00:05:18,300 --> 00:05:25,100
+But they are ineffective against many billions of mutations and adaptations that your enemies can develop.
+
+59
+00:05:25,540 --> 00:05:32,180
+So the reason you are still alive is that your adaptive immune system is able to recognize between 1 billion and
+
+60
+00:05:32,420 --> 00:05:38,140
+10 billion different enemy protein puzzle pieces, which is enough to be prepared for every possible enemy.
+
+61
+00:05:38,540 --> 00:05:40,380
+But how is this possible?
+
+62
+00:05:40,380 --> 00:05:47,020
+How could your immune system possibly have this much of a variety to be prepared for every possible protein puzzle piece?
+
+63
+00:05:47,820 --> 00:05:52,020
+Well, the cells of your adaptive immune system found a cheat code,
+
+64
+00:05:52,460 --> 00:05:57,220
+mixing and matching their own genetic code to create this stunning variety of receptors.
+
+65
+00:05:57,600 --> 00:06:00,260
+The details are way too complicated for this video,
+
+66
+00:06:00,260 --> 00:06:02,940
+but in a nutshell your adaptive immune cells have
+
+67
+00:06:03,020 --> 00:06:09,900
+official permission to take a tiny part of their own genetic code and mix it in random ways to create billions of different
+
+68
+00:06:10,180 --> 00:06:16,940
+receptors. A good way to explain this is by asking you to imagine an army of cooks with each of them wanting their own
+
+69
+00:06:16,940 --> 00:06:18,260
+special recipe.
+
+70
+00:06:18,260 --> 00:06:26,260
+They have 100 different ingredients to choose from. Each ingredient stands for one tiny piece of genetic code in this metaphor.
+
+71
+00:06:27,060 --> 00:06:31,620
+So each cook takes a few random ingredients and randomly mixes them together.
+
+72
+00:06:32,020 --> 00:06:35,860
+Maybe tomato, chicken, rice, and half an onion as entree,
+
+73
+00:06:36,380 --> 00:06:43,540
+marshmallow, pepper, strawberries, and a quarter banana as a dessert. Or cucumber, beef, potatoes, and two carrots, and
+
+74
+00:06:43,900 --> 00:06:46,300
+blueberries, chocolate, and cream with a pinch of cinnamon.
+
+75
+00:06:47,300 --> 00:06:53,540
+Even with slight variation and with only 100 ingredients, there are billions of possible recipes.
+
+76
+00:06:54,540 --> 00:06:59,820
+And likewise, with just a small selection of gene fragments, your cells create billions of receptors.
+
+77
+00:07:00,300 --> 00:07:06,180
+The details of this are so cool that they should get their own video or their own chapter in a book.
+
+78
+00:07:06,420 --> 00:07:11,980
+In any case, by mixing up gene fragments you get up to 10 billion different combinations.
+
+79
+00:07:12,580 --> 00:07:20,580
+So in the end, you get billions of immune cells and each of them has one specific and unique receptor, the dish from our metaphor,
+
+80
+00:07:20,580 --> 00:07:24,220
+that is able to recognize one specific protein puzzle piece.
+
+81
+00:07:24,780 --> 00:07:29,500
+In total, you end up with at least one cell for every enemy that could possibly exist.
+
+82
+00:07:30,100 --> 00:07:33,060
+But here we run into a pretty dangerous problem.
+
+83
+00:07:33,060 --> 00:07:38,940
+If your adaptive immune system is making weapons that can attack every possible protein puzzle piece in the universe,
+
+84
+00:07:39,100 --> 00:07:42,260
+wouldn't it also make some that can attack your own cells?
+
+85
+00:07:42,940 --> 00:07:44,940
+Yes, it happens all the time.
+
+86
+00:07:45,420 --> 00:07:52,060
+This is so fundamentally dangerous to your survival that you have a whole organ that does nothing but work on preventing this.
+
+87
+00:07:52,700 --> 00:07:55,380
+The murder university of your thymus.
+
+88
+00:07:55,860 --> 00:08:01,100
+Your thymus is a chicken wing sized organ above your heart, and you've probably never heard of it.
+
+89
+00:08:01,740 --> 00:08:06,380
+Interestingly, your thymus is one of the reasons why your immune system weakens as you age,
+
+90
+00:08:06,620 --> 00:08:09,780
+because it's in a constant state of decline once you reach puberty.
+
+91
+00:08:10,420 --> 00:08:12,420
+But what does the thymus do?
+
+92
+00:08:12,860 --> 00:08:20,220
+In your murder university, your immune system is putting your adaptive immune cells through an intense and deadly curriculum.
+
+93
+00:08:21,300 --> 00:08:27,100
+Basically, it's showing them all sorts of protein puzzle pieces that are used by your own cells to see how they react.
+
+94
+00:08:27,820 --> 00:08:34,260
+When a young cell recognizes a body puzzle piece and wants to attack it, the teacher cells order them to kill themselves,
+
+95
+00:08:34,380 --> 00:08:36,900
+and they are eaten up and recycled.
+
+96
+00:08:37,780 --> 00:08:41,660
+The immune system is so particular about this process that around
+
+97
+00:08:42,420 --> 00:08:46,860
+98% of your adaptive immune cells that enter murder university die there.
+
+98
+00:08:47,780 --> 00:08:51,900
+2% graduate and get to do their job of protecting you for real.
+
+99
+00:08:52,540 --> 00:08:59,420
+If this process goes wrong and the cells escape that can recognize your own protein puzzle pieces, this can lead to auto-immune disease,
+
+100
+00:08:59,780 --> 00:09:03,300
+where your immune system attacks your own body from the inside.
+
+101
+00:09:03,700 --> 00:09:06,500
+And this, again, is another story for another time.
+
+102
+00:09:07,380 --> 00:09:09,380
+Okay, let's summarize.
+
+103
+00:09:09,780 --> 00:09:17,220
+Your immune system has two parts, one that defends you right after birth, and one that carries the largest library of super weapons in the universe,
+
+104
+00:09:17,580 --> 00:09:19,580
+but needs to boot up first.
+
+105
+00:09:19,740 --> 00:09:26,400
+To create billions of different super weapons, your adaptive immune cells recombine a part of their genetic code to create a
+
+106
+00:09:26,780 --> 00:09:28,780
+breathtaking variety of attack weapons.
+
+107
+00:09:29,020 --> 00:09:35,020
+Then they enter a murder university that only 2% survive to make sure they don't attack you, and
+
+108
+00:09:35,300 --> 00:09:41,940
+then you end up with billions of different cells that in total are able to protect you against every possible enemy in the universe.
+
+109
+00:09:43,060 --> 00:09:47,220
+Now, wait a second. If this is all true, why do we get sick at all?
+
+110
+00:09:48,140 --> 00:09:55,380
+Why was a new disease like COVID-19 able to kill millions of people? And how do vaccines boost the mechanisms
+
+111
+00:09:55,380 --> 00:10:00,020
+we explained in this video to supercharge your immune system and defend you from the worst
+
+112
+00:10:00,220 --> 00:10:04,460
+diseases humanity has ever encountered, from smallpox to COVID-19?
+
+113
+00:10:05,260 --> 00:10:12,900
+Well, everything we've just learned about is a tiny, tiny window into the amazing struggle for life and death that plays out every day
+
+114
+00:10:13,020 --> 00:10:17,140
+inside your body, and there are so many amazing details and questions here.
+
+115
+00:10:17,460 --> 00:10:21,300
+How does your body actually find the right cell in time to protect you?
+
+116
+00:10:21,660 --> 00:10:29,420
+How do your enemies fight back and overcome your immune system anyway? And what about all the things that didn't fit in this video?
+
+117
+00:10:30,580 --> 00:10:37,300
+Well, today finally marks the release of Immune, a journey into the mysterious system that keeps you alive,
+
+118
+00:10:37,740 --> 00:10:41,460
+written by Philip Detmer, the founder and head writer of Kurzgesagt.
+
+119
+00:10:41,820 --> 00:10:47,980
+First, we had to push the release back because of cargo trouble, and then because so many of you pre-ordered that we didn't have enough
+
+120
+00:10:48,020 --> 00:10:51,940
+copies for the original launch day. Thank you so, so much for that.
+
+121
+00:10:52,780 --> 00:10:58,700
+Immune tells the epic story of your immune system and will forever change how you think about your own body, how you
+
+122
+00:10:58,940 --> 00:11:00,940
+experience being sick and healthy.
+
+123
+00:11:00,940 --> 00:11:04,740
+The book is written to be as fun and easy to grasp as Kurzgesagt videos,
+
+124
+00:11:04,820 --> 00:11:11,020
+but is able to dive way deeper into its subject. So go on a journey through the hidden microverse within yourself.
+
+125
+00:11:11,540 --> 00:11:16,460
+Witness deadly wars between billions of invaders and cells, learn how your immune system
+
+126
+00:11:16,780 --> 00:11:20,740
+actually works and protects you from cuts, cancer, and COVID.
+
+127
+00:11:21,300 --> 00:11:25,700
+Never before have we so urgently needed to learn about how immunity works.
+
+128
+00:11:26,420 --> 00:11:30,260
+Immune is fun and great to look at, and it even smells good.
+
+129
+00:11:30,900 --> 00:11:33,060
+Follow the link in the description to order it today.
+
+130
+00:11:33,660 --> 00:11:40,180
+This is the end of a decade-long personal journey working on this, so thank you all so, so much for your support, and
+
+131
+00:11:40,620 --> 00:11:42,900
+thank you for watching and reading.
+
+132
+00:11:46,460 --> 00:11:48,460
+you
+
