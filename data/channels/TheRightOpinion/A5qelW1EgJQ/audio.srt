@@ -1,0 +1,2300 @@
+1
+00:00:00,000 --> 00:00:19,800
+Hello ladies and gentlemen, welcome to The Right Opinion, the home of a twat with too much free time,
+
+2
+00:00:19,800 --> 00:00:27,100
+and boy oh boy, is this a video I've been waiting to do for a while. In fact, I had originally planned to do this as some 500k subscriber special,
+
+3
+00:00:27,100 --> 00:00:32,980
+but alas, time flies, and so many events occurred at that time that it was impossible to find a place for this video,
+
+4
+00:00:32,980 --> 00:00:39,420
+but now everything's opened up a tiny bit more, I'm feeling more comfortable to take the time to talk about, well, a lot.
+
+5
+00:00:39,420 --> 00:00:44,140
+At one point, I'd also planned to make this a New Year's kinda thing, kinda resolution sort of vibe,
+
+6
+00:00:44,140 --> 00:00:49,500
+but knowing how long these videos take, I think there's a reasonable chance that it's closer to next year by the time this video's out.
+
+7
+00:00:49,500 --> 00:00:55,100
+That is, of course, a hilarious joke, though knowing how long it takes on my videos, you may well have believed it.
+
+8
+00:00:55,140 --> 00:01:00,340
+Obviously, this is a minor instalment in the Troe catalogue, but I still think it's a necessary one.
+
+9
+00:01:00,340 --> 00:01:06,460
+As implied in the title, there will be a Q&A that will hopefully provide you with a little more insight on the man behind the Avatar.
+
+10
+00:01:06,460 --> 00:01:13,700
+I also have a fair few announcements to make, but first of all, I would love to spend some time thanking those who have helped me on this rather chaotic journey.
+
+11
+00:01:13,700 --> 00:01:18,900
+The main party who has probably played the most prominent part in this advancement are of course the editors,
+
+12
+00:01:18,900 --> 00:01:23,620
+now as you probably know, I have a fair few editors, so I'll be leaving them all in the pinned comment,
+
+13
+00:01:23,660 --> 00:01:30,620
+however, I do want to give a few special mentions to individuals who have gone above and beyond the Call of Duty in the past few months in particular.
+
+14
+00:01:30,620 --> 00:01:33,980
+It's hard to know exactly who to start with, but I'd like to mention Peter Day.
+
+15
+00:01:33,980 --> 00:01:40,220
+He has worked around the clock with some of the toughest edits and post-edits, when other people haven't been quite able to follow through,
+
+16
+00:01:40,220 --> 00:01:45,140
+he has been on call every time, no exception. The dude is a superhuman, and I can't understate that.
+
+17
+00:01:45,140 --> 00:01:50,180
+We're going to be working on a new channel project together ourselves, and I can't wait to get that off the ground.
+
+18
+00:01:50,180 --> 00:01:56,340
+I'd also like to give thanks to anyone who has helped post-edit on a regular basis, most notably to Linuski and Mullenax.
+
+19
+00:01:56,340 --> 00:02:02,180
+If you've ever heard the Danganronpa music in the background, then I can tell you that was the product of Mullenax's magic.
+
+20
+00:02:02,180 --> 00:02:07,540
+They're both also really talented editors on their own terms with incredibly distinctive styles, I love what they do,
+
+21
+00:02:07,540 --> 00:02:13,380
+and all three of these beautiful people have been working with me for over a year, and I hope that we can continue working through this one.
+
+22
+00:02:13,380 --> 00:02:18,180
+I'd also like to give a mention to people who have consistently delivered high quality edits on a regular basis.
+
+23
+00:02:18,180 --> 00:02:22,340
+A large majority of my editors have, and we've all worked on improving throughout the year.
+
+24
+00:02:22,340 --> 00:02:26,260
+It's good to slowly work to push the bar higher, and I hope I can match their quality.
+
+25
+00:02:26,260 --> 00:02:32,260
+I also want to give a big shoutout to my Discord server, the admins, and the head admin, and furry, Derumasis.
+
+26
+00:02:32,260 --> 00:02:37,620
+Many of you probably don't know that when I was starting off on YouTube, I ran Colossalist's crazy server for a bit,
+
+27
+00:02:37,620 --> 00:02:43,140
+and it was an absolute nightmare. Discord has obviously made it easier to manage certain elements since then,
+
+28
+00:02:43,140 --> 00:02:47,460
+but it's still a challenge, and when I was working on it, it was always tough to make a decision that I felt
+
+29
+00:02:47,460 --> 00:02:53,860
+would represent the Discord owner in question, so if you see him, tell him he does an alright job, and that he's a furry.
+
+30
+00:02:53,860 --> 00:02:58,260
+He loves to be told that he's a furry, guys. I'd also like to thank my Patreons for their support,
+
+31
+00:02:58,260 --> 00:03:02,180
+it gives me a bit more security when talking about topics that may be sensitive.
+
+32
+00:03:02,180 --> 00:03:08,180
+Obviously, I'm always paying money to others for their work on my videos, and so their contributions are a lifeline.
+
+33
+00:03:08,180 --> 00:03:15,700
+I don't really plug my Patreon too much, I only mention it right at the end of the videos, and a lot of people tend to click off before that point.
+
+34
+00:03:15,700 --> 00:03:20,020
+So the fact that some actively seek it out and involve themselves like that does mean a lot to me.
+
+35
+00:03:20,020 --> 00:03:27,300
+I want to give a special mention to my $50 Patreons, Sumhala Baloo, Nico Deschamps, Caroline, Cole P Hennessy, and Hypercube,
+
+36
+00:03:27,300 --> 00:03:33,780
+they are all doing a fantastic job, thank you so much, guys. Sumhala Baloo has been supporting for over a year now,
+
+37
+00:03:33,780 --> 00:03:39,620
+which I just think is incredible, and I'd also like to give an extra special mention to Brandon Stanton,
+
+38
+00:03:39,620 --> 00:03:46,180
+Christopher Kraz, and Be More Cool J, my $100 Patreons. Brandon, who once again has been donating for over a year now.
+
+39
+00:03:46,180 --> 00:03:52,020
+I actually have never spoken to him, but if you are watching from afar, know that your generosity does not go unnoticed.
+
+40
+00:03:52,020 --> 00:03:57,540
+I want to thank all my friends, YouTube and non-YouTube, you need both to maintain some semblance of sanity.
+
+41
+00:03:57,540 --> 00:04:02,180
+It's been really cool building public bonds with fantastic creators like Primink and J Aubrey,
+
+42
+00:04:02,180 --> 00:04:06,740
+which is the only time I plan on pronouncing his name correctly, it will be J Aubrey for eternity.
+
+43
+00:04:06,740 --> 00:04:14,260
+I will be starting a podcast with our good friend Jon soon, and I'll leave a link in the pinned comment if you want to go and subscribe to it.
+
+44
+00:04:14,260 --> 00:04:19,620
+I know a lot of people were anticipating a podcast with Primink too, and as much as I want that, we both really do,
+
+45
+00:04:19,620 --> 00:04:24,340
+because our banter is uncontested. Unfortunately, he's got a few other issues to deal with first,
+
+46
+00:04:24,340 --> 00:04:29,300
+but I'm confident we'll make it a real thing eventually. Beyond that, I have a load of fellow creators to thank,
+
+47
+00:04:29,300 --> 00:04:35,620
+IHE, Colossal, anyone who got me started and promoted my work, and on top of that, I want to thank everyone
+
+48
+00:04:35,620 --> 00:04:40,580
+I've had the pleasure of meeting at events, VidCon, Insomnia, all of them are really enlightening,
+
+49
+00:04:40,580 --> 00:04:45,300
+and a reminder that at the end of the day, we're all human, even if we're behind a screen most of the time.
+
+50
+00:04:45,300 --> 00:04:50,020
+Any viewers I've met at those events too, it's really cool, I actually do want to do more meetups,
+
+51
+00:04:50,020 --> 00:04:56,420
+but I find them a bit daunting, I had a couple experiences that put me off, but overall, they've been really positive ones that I have had.
+
+52
+00:04:56,420 --> 00:05:00,740
+So yeah, I've mentioned a lot of people, however, most importantly, I have you guys to thank,
+
+53
+00:05:00,740 --> 00:05:05,380
+I want to thank you for your continued support, and I hope I can represent that in the best way possible.
+
+54
+00:05:05,380 --> 00:05:09,300
+It's admittedly been an interesting year, and I'll go into more detail about that soon,
+
+55
+00:05:09,300 --> 00:05:14,740
+but it's good to have some people who will pull you through regardless. Without stroking your ego too much,
+
+56
+00:05:14,740 --> 00:05:18,820
+it's good to have an audience who are pretty constructive in how they respond, how they reach out,
+
+57
+00:05:18,820 --> 00:05:24,020
+and even how they deliver criticism. I'm not perfect, and we'll probably talk about that more in the Q&A section,
+
+58
+00:05:24,020 --> 00:05:28,900
+but someone messaged me saying that they really appreciated that in spite of my rather pessimistic outlook,
+
+59
+00:05:28,900 --> 00:05:34,740
+I try and see the best in people. I don't think that would be possible without people around me who take a similar philosophy,
+
+60
+00:05:34,740 --> 00:05:40,420
+I am truly grateful for that. For now, I think it's best we enter the Q&A section, because some of you people
+
+61
+00:05:40,420 --> 00:05:46,340
+really want to find out more about me, to be honest. Well, there's a lot to discuss, so I suggest we get into it.
+
+62
+00:05:54,500 --> 00:05:59,220
+Alright, so before we get into this, I'll make it clear that if you haven't watched my last Q&A,
+
+63
+00:05:59,220 --> 00:06:03,540
+I don't tend to go from question to question, I tend to try and give overarching answers that
+
+64
+00:06:03,540 --> 00:06:07,460
+hopefully satisfy general points of interest, though of course I'll show some examples of
+
+65
+00:06:07,460 --> 00:06:11,780
+questions so it doesn't look like I'm conducting an interview of myself. I'd also stress that there
+
+66
+00:06:11,780 --> 00:06:16,420
+are some things that I may not talk about again, because I already spoke about them in my previous
+
+67
+00:06:16,420 --> 00:06:21,300
+Q&A, and I don't want to be merely repeating myself, though I probably will. There's still a lot to talk
+
+68
+00:06:21,300 --> 00:06:26,340
+about though, a lot, because last time I made one of these, I wasn't too detailed. Today I'll be
+
+69
+00:06:26,340 --> 00:06:30,740
+showing a bit more, and maybe throwing a little shade, so I hope you do enjoy that.
+
+70
+00:06:30,740 --> 00:06:37,300
+I guess one of the questions that I receive a lot is why I started, and that's a complex story, which,
+
+71
+00:06:37,300 --> 00:06:41,860
+if asked before, I probably didn't go into too much depth, I probably said something like,
+
+72
+00:06:41,860 --> 00:06:50,020
+oh I was bored, which isn't entirely true, so let's do that now. We go back to 2015, I believe.
+
+73
+00:06:50,020 --> 00:06:55,460
+I decided to take a gap year, mainly because I wasn't quite confident that I knew exactly what I
+
+74
+00:06:55,460 --> 00:06:59,700
+wanted to do at university. Initially, I had applied for script writing, but I began to have
+
+75
+00:06:59,700 --> 00:07:04,020
+cold feet that it would be a very difficult industry to infiltrate, so instead of taking any
+
+76
+00:07:04,020 --> 00:07:08,340
+of the offers I had received, I decided to hang back and make some new applications.
+
+77
+00:07:08,340 --> 00:07:13,060
+After a bit of rumination, I found a course at a prestigious university that suited my interest,
+
+78
+00:07:13,060 --> 00:07:18,900
+and I decided to apply for that. I also had various backup offers, but once I set my mind
+
+79
+00:07:18,900 --> 00:07:24,740
+on a goal, it's hard to turn it onto anything else. Nonetheless, it was a painful process,
+
+80
+00:07:24,740 --> 00:07:29,300
+there are a few stages, and it ends in a final interview stage at the actual college,
+
+81
+00:07:29,300 --> 00:07:34,340
+so obviously I had to submit my application, and then I had to take this test, which I vigorously
+
+82
+00:07:34,340 --> 00:07:38,660
+revised for with one of my close friends, shout out to Cheyenne, you're a legend. That went well,
+
+83
+00:07:38,660 --> 00:07:43,460
+and then I was invited to the university. Now, at this point, I probably had a false sense of
+
+84
+00:07:43,460 --> 00:07:48,740
+security, because I'm quite good at interviews generally speaking, or at least I thought I was,
+
+85
+00:07:48,740 --> 00:07:53,140
+and when I was there, I had such an incredible time, they make it an incredible time, they hold
+
+86
+00:07:53,140 --> 00:07:57,460
+these events, make you feel part of their family. Looking back on it, they kinda led me on.
+
+87
+00:07:57,460 --> 00:08:02,980
+Because of that, I began to envision my future a bit too keenly, I had an idea in my mind of where
+
+88
+00:08:02,980 --> 00:08:08,900
+I wanted to be, I had my mind on the university experience, and I should've managed my expectations
+
+89
+00:08:08,900 --> 00:08:13,860
+better, because it didn't work out, and I think when I found out was one of the first times that
+
+90
+00:08:13,860 --> 00:08:19,780
+I just felt this emotional black hole swallowing me. When I received the test results, which you
+
+91
+00:08:19,780 --> 00:08:24,180
+receive after their verdict for some reason, because they were pretty high, I decided to make
+
+92
+00:08:24,180 --> 00:08:29,620
+an inquiry about what they felt I could've done better, and after just a month, they gave me this
+
+93
+00:08:29,620 --> 00:08:34,500
+email. The assessing tutors thought you gave a good interview, but unfortunately, given the
+
+94
+00:08:34,500 --> 00:08:40,260
+competition for places, they felt there were stronger candidates. Oh, really, I thought the
+
+95
+00:08:40,260 --> 00:08:48,180
+tutors were purposely giving places to weaker candidates. I felt insulted. I had waited almost
+
+96
+00:08:48,180 --> 00:08:54,740
+a month to basically be told, you lost because other people beat you. This was 2016 by the way,
+
+97
+00:08:54,740 --> 00:09:00,420
+I should probably clarify that, we are now into 2016, and this kinda flipped my mentality on its
+
+98
+00:09:00,420 --> 00:09:05,540
+head at the time, because I've always sought out the idea that I do need to improve, right the
+
+99
+00:09:05,540 --> 00:09:12,820
+wrongs, and yet, I gave this so much of my all, and received such a vague answer regarding something
+
+100
+00:09:12,820 --> 00:09:20,260
+I cared about so much. I felt like I didn't know what to do better, and neither did they, and I
+
+101
+00:09:20,260 --> 00:09:25,620
+didn't like that feeling, and because of that, I felt like no matter how much I gave, I would never
+
+102
+00:09:25,620 --> 00:09:31,540
+be good enough in other people's eyes, or my own eyes. I was having a rough time in life with
+
+103
+00:09:31,540 --> 00:09:37,300
+General, I felt like a failure, I was an emotional mess who probably flipped out a few times, because
+
+104
+00:09:38,100 --> 00:09:43,140
+plans in my head had fallen apart, I had a good family providing me security, but I didn't have much
+
+105
+00:09:43,140 --> 00:09:48,500
+money, and I always wanted to do something that could change my life. Other career paths were cool,
+
+106
+00:09:48,500 --> 00:09:53,300
+but they were also pretty risky, YouTube seemed like that medium that could work out with a small
+
+107
+00:09:53,300 --> 00:09:58,260
+initial investment, and the idea you could make gradual progress while continuing to support
+
+108
+00:09:58,260 --> 00:10:04,580
+yourself. A few of my friends were doing YouTube at the time as well, Ollie, Ram, Isaac, you know who
+
+109
+00:10:04,580 --> 00:10:09,220
+you are, and they seemed to be having a good time, so I thought it'd be an interesting thing to throw
+
+110
+00:10:09,220 --> 00:10:13,300
+myself into. I think at that point I needed something to take my mind away from various
+
+111
+00:10:13,300 --> 00:10:17,780
+insecurities, and I also wanted to prove to myself that I was good enough. I'm a perfectionist, and
+
+112
+00:10:17,780 --> 00:10:23,060
+for multiple reasons that I'm probably going to go into eventually, my life had felt less than
+
+113
+00:10:23,060 --> 00:10:27,860
+perfect. I was inspired by creators such as I Hate Everything, Odessa Buckley, and music critics such
+
+114
+00:10:27,860 --> 00:10:32,740
+as Todd in the Shadows. I based the persona on a rather British stereotype due to my demeanor, and
+
+115
+00:10:32,740 --> 00:10:38,580
+of course the accent, which yes, it is real, I thought it was good branding at least. Obviously,
+
+116
+00:10:38,580 --> 00:10:43,380
+when I started, I made quite different content to what I do today. A lot of the first videos focused
+
+117
+00:10:43,380 --> 00:10:48,500
+on political commentary, quite casual but stinging criticism of the then incumbent Conservative Party
+
+118
+00:10:48,500 --> 00:10:53,220
+and many of their policies, politics was something that I was highly passionate about at the time,
+
+119
+00:10:53,220 --> 00:10:57,780
+and therefore I thought maybe mixing the genre of politics with short form commentary could work
+
+120
+00:10:57,780 --> 00:11:03,300
+out. With the help from my friends Isaac, also now known as Viri, and Jack, I managed to put
+
+121
+00:11:03,300 --> 00:11:08,260
+out a decent amount of content, however I wasn't particularly invested in the channel at the time.
+
+122
+00:11:08,260 --> 00:11:13,620
+I just wanted to make some videos where I chatted about stuff. I still had a lot of friends, and we
+
+123
+00:11:13,620 --> 00:11:18,580
+partook in various activities, for example we even went to Rome on the back of a few hundred quid that
+
+124
+00:11:18,580 --> 00:11:23,380
+each of us had, and that was fun. There are vlogs of that trip online still, I'll leave them in the
+
+125
+00:11:23,380 --> 00:11:28,740
+pinned comment if you wanna see some footage of me prior to this fun little hobby. For the first few
+
+126
+00:11:28,740 --> 00:11:34,020
+months I didn't really see YouTube beyond that hobby that would maybe blow up if I was fortunate.
+
+127
+00:11:34,020 --> 00:11:39,140
+That all changed when I started university, which is strange because I was expecting university to
+
+128
+00:11:39,140 --> 00:11:44,420
+be the end of my YouTube career. I went to Amsterdam to keep it vague, and it didn't go well,
+
+129
+00:11:44,420 --> 00:11:51,700
+it wasn't good on the basis that it was already a disappointing result in my head, and this was also
+
+130
+00:11:51,700 --> 00:11:56,980
+in the wake of the very significant Brexit vote, and a fair few people at the college had taken it
+
+131
+00:11:56,980 --> 00:12:00,900
+very personally. Now, I'm not particularly enthusiastic about Britain's withdrawal from
+
+132
+00:12:00,900 --> 00:12:05,460
+the European Union, but if you have watched my old videos, in spite of my generally left political
+
+133
+00:12:05,460 --> 00:12:10,420
+persuasion, you'll know that I'm a firm critic of the European Union, much of their procedure and
+
+134
+00:12:10,420 --> 00:12:16,740
+structure. Go back half a century, and a lot of Eurosceptics were on the left, but by 2016 it was
+
+135
+00:12:16,740 --> 00:12:22,020
+clearly associated with right-wing ideology, and I think a lot of people jumped to conclusions about
+
+136
+00:12:22,020 --> 00:12:28,660
+my own views, and people were emotional. That sort of stuff happens. I'm not mad about it, but the
+
+137
+00:12:28,660 --> 00:12:34,100
+consequences were not great, people saw a few critical Facebook posts and it spiralled. I tried
+
+138
+00:12:34,100 --> 00:12:38,740
+to shake it off at the start of the year by really involving myself in various activities, but I think
+
+139
+00:12:38,740 --> 00:12:43,940
+I gave up after a month and just receded onto the online world. Probably one of the most defining
+
+140
+00:12:43,940 --> 00:12:48,820
+experiences was in the second week. I remember I had a few new friends around to watch a film on
+
+141
+00:12:48,820 --> 00:12:54,100
+my TV, and I went to grab my laundry. I always did my laundry really late at night, because I hated
+
+142
+00:12:54,100 --> 00:12:58,180
+taking my laundry there and finding all the washing machines occupied. Some other British
+
+143
+00:12:58,180 --> 00:13:02,580
+freshman who had clearly been drinking too much with his friends ended up swearing at me in the
+
+144
+00:13:02,580 --> 00:13:08,660
+street, and although I returned verbal fire, which was foolish, I felt very shaken. And following that,
+
+145
+00:13:08,660 --> 00:13:13,060
+I felt always some distance from other students. I'm not gonna make myself out to be some kind of
+
+146
+00:13:13,140 --> 00:13:17,940
+victim, but knowing you're being subjected to differing levels of judgement from people,
+
+147
+00:13:17,940 --> 00:13:22,420
+and never knowing what they think about you, and knowing that people are talking about you behind
+
+148
+00:13:22,420 --> 00:13:27,940
+your back, is isolating. At that point, I became more involved with the online world again. I'd
+
+149
+00:13:27,940 --> 00:13:33,380
+work on ColossusCrazy's Discord server, I'd work on more videos, I think I aimed to get three a week
+
+150
+00:13:33,380 --> 00:13:38,340
+at some point. A lot of them are videos that frankly I don't really remember, nor do I really
+
+151
+00:13:38,340 --> 00:13:42,900
+want to remember, though I might have a more cynical memory than that which is warranted.
+
+152
+00:13:42,900 --> 00:13:47,460
+However, as you know, that's not the content that I was making today. Let's talk about that then,
+
+153
+00:13:47,460 --> 00:13:48,580
+and how I got here.
+
+154
+00:13:51,460 --> 00:13:57,540
+So that's the question, how did I end up making what I do today from my very humble beginnings,
+
+155
+00:13:57,540 --> 00:14:01,700
+and the evolution that has occurred, because you know, for a long time, I had been making
+
+156
+00:14:01,700 --> 00:14:06,740
+short form videos relating to political topics, so I guess we have to tackle two more things.
+
+157
+00:14:06,740 --> 00:14:11,300
+Why did I make my videos longer, and why do I not cover political topics anymore?
+
+158
+00:14:11,300 --> 00:14:17,060
+Let's talk about my political evolution first, because my political journey was much like an arc.
+
+159
+00:14:17,060 --> 00:14:21,620
+I spoke about this in my previous Q&A, but once again we have more time for the Tro-Law than
+
+160
+00:14:21,620 --> 00:14:27,380
+previous, so since I've left university, I've felt less motivation to conceal my feelings and
+
+161
+00:14:27,380 --> 00:14:32,100
+the drama that occurred. The first couple years had pushed me in various directions politically,
+
+162
+00:14:32,100 --> 00:14:37,060
+the exposure to rather hostile individuals in Amsterdam definitely made me bitter to a cause
+
+163
+00:14:37,060 --> 00:14:41,860
+that I previously identified with, and it had made me more outspoken in a way. It was a late
+
+164
+00:14:41,860 --> 00:14:47,060
+stage rebellious period in my mind, and I didn't stay at Amsterdam, which is very important.
+
+165
+00:14:47,860 --> 00:14:53,060
+That's a fun little story actually. In February 2017, I suffered from probably one of the worst
+
+166
+00:14:53,060 --> 00:14:57,700
+illnesses that I'd ever had in my life. They never actually diagnosed it, but my temperature
+
+167
+00:14:57,700 --> 00:15:03,540
+was soaring, I had jaundice, it was really nasty stuff, I lost a month of class, and I even went
+
+168
+00:15:03,540 --> 00:15:08,820
+home for treatment. Because of this, I missed a significant number of courses, five if I recall.
+
+169
+00:15:08,820 --> 00:15:13,540
+Now, for four of the courses, the tutors were highly accommodating, and allowed me to partake
+
+170
+00:15:13,540 --> 00:15:17,940
+in any of the assessments that I had missed. However, there was this one class, of which I
+
+171
+00:15:17,940 --> 00:15:23,140
+didn't have the best experience anyway, the tutor wasn't fond of my outspoken nature, and the
+
+172
+00:15:23,140 --> 00:15:28,020
+feeling was mutual. I had missed the last week of lessons, which of course, wouldn't normally be a
+
+173
+00:15:28,020 --> 00:15:34,100
+big deal, but because it was an intensive course, she insisted that I had to retake the whole 23
+
+174
+00:15:34,100 --> 00:15:39,620
+lessons, an idea that I did not find palace ball, considering I'd been there for 19 lessons.
+
+175
+00:15:39,620 --> 00:15:44,740
+So I appealed to the relevant academic board, who decided that actually, they wanted to support the
+
+176
+00:15:44,740 --> 00:15:48,900
+tutor's decision. I assumed at first they were ill informed, and sent them all the relevant
+
+177
+00:15:48,900 --> 00:15:54,100
+documentation, doctor's assessments, contributions, I even met with them, I offered compromises, even
+
+178
+00:15:54,100 --> 00:15:58,180
+offering to retake the part of the course that I had missed. Even though I'd done the written
+
+179
+00:15:58,180 --> 00:16:04,180
+assessment, the exam, and worked on part of the group project, they insisted that I had to do the
+
+180
+00:16:04,180 --> 00:16:09,060
+whole thing again. In the end, I took it to the higher appeals board, and although I won the case
+
+181
+00:16:09,060 --> 00:16:14,340
+against them on that level, I had attended a tribunal where I had to represent myself against
+
+182
+00:16:14,340 --> 00:16:21,060
+my own academic board, and that was surreal, and it probably has shaped why I have very little trust
+
+183
+00:16:21,060 --> 00:16:25,940
+in authority. It was undoubtedly the most stressful experience of my life, and at the time, it led to a
+
+184
+00:16:25,940 --> 00:16:31,140
+lot of specific resentment towards the stereotype of what the typical liberal arts represented,
+
+185
+00:16:31,140 --> 00:16:36,020
+leading to a lot of videos that probably served as the antithesis to the philosophy of their
+
+186
+00:16:36,020 --> 00:16:41,540
+attitude. In hindsight, that wasn't the right way to deal with it, and the lesson that I should have
+
+187
+00:16:41,540 --> 00:16:47,540
+learned was much broader than that. You can't rely on others to do the right thing for you, but in 2017,
+
+188
+00:16:47,540 --> 00:16:52,580
+I was definitely at my most political, and it was not in the right way, I was ideologically channeling
+
+189
+00:16:52,580 --> 00:16:57,540
+frustrations against an issue that was beyond ideology, which is why a lot of those videos just
+
+190
+00:16:57,540 --> 00:17:02,100
+aren't up anymore. After this mess, I made a conscious decision to move to a different university.
+
+191
+00:17:02,100 --> 00:17:07,140
+Now, I really didn't want to do this on principle, because I didn't want to lose the academic progress
+
+192
+00:17:07,140 --> 00:17:11,460
+that I made throughout that year, but fortunately, the University of Groningen, also in the Netherlands,
+
+193
+00:17:11,460 --> 00:17:16,100
+offered a straight transfer that allowed me to start in my second year, and that was a very
+
+194
+00:17:16,100 --> 00:17:20,900
+different environment, which completely dissipated many of my frustrations that I had at the previous
+
+195
+00:17:20,900 --> 00:17:25,620
+university. Now, let me make it clear, this wasn't without its problems, I had some issues when I
+
+196
+00:17:25,620 --> 00:17:31,220
+started, but they weren't social. I go along with people fine, even though at that point, I dedicated
+
+197
+00:17:31,220 --> 00:17:36,180
+a significant amount of time to my YouTube grind. I got drunk on many Saturday nights, made a fair
+
+198
+00:17:36,180 --> 00:17:41,220
+few friends, big shout out to Sush You Mad Lad, if you're watching this. It took a few months,
+
+199
+00:17:41,220 --> 00:17:46,340
+probably until January, February, but my opinion on these stereotypes in my head really began to
+
+200
+00:17:46,340 --> 00:17:50,740
+soften, and I tried to diversify my content a little. I remember making a critical video on
+
+201
+00:17:50,740 --> 00:17:56,260
+White Boy by Tom McDonald, and that just got absolutely swarmed with a mix of McDonald fans,
+
+202
+00:17:56,260 --> 00:18:01,380
+and actual alt writers who, for some reason, weren't the nicest. You know they say there's always
+
+203
+00:18:01,380 --> 00:18:05,940
+one video where you gotta have a negative like to dislike ratio, that was it. At that point,
+
+204
+00:18:05,940 --> 00:18:10,260
+I had a policy of replying to nearly every comment that was made on my videos, but I have to admit
+
+205
+00:18:10,260 --> 00:18:14,900
+my patience began to wither after that one. I realised that my brand of what I viewed as a
+
+206
+00:18:14,900 --> 00:18:19,140
+gender-driven activism probably wasn't the healthiest for me, and that it often pushed
+
+207
+00:18:19,140 --> 00:18:24,420
+me to one side of the debate, when really I wanted to think myself as quite an open-minded person.
+
+208
+00:18:24,420 --> 00:18:29,780
+I think what I realised is that I was still politically naive to a lot of ideas that I had,
+
+209
+00:18:29,780 --> 00:18:34,900
+where I stood, and there was this part of me that I wanted to figure that out, and that a YouTube
+
+210
+00:18:34,900 --> 00:18:39,540
+channel where you post all your thoughts with some degree of confidence and conviction
+
+211
+00:18:39,540 --> 00:18:44,500
+probably wasn't the best if you had changed your mind in a few years. However, I still wanted to
+
+212
+00:18:44,500 --> 00:18:49,300
+make content that could involve me looking at situations, applying various levels of logic and
+
+213
+00:18:49,300 --> 00:18:54,340
+reasoning, something that would challenge me, and at the time a lot of my friends were involved in
+
+214
+00:18:54,340 --> 00:18:59,460
+commentary. In spite of my political narratives, I'd never really fit into any political clique,
+
+215
+00:18:59,460 --> 00:19:03,780
+and no one had ever really invited me, which was fine, but because of that, the only reason that
+
+216
+00:19:03,780 --> 00:19:08,660
+I made those videos was because of my own personal interest, my own attachment, I didn't
+
+217
+00:19:08,660 --> 00:19:14,980
+have an obligation to anyone else. At around that time, early 2018, I also attended an Insomnia
+
+218
+00:19:14,980 --> 00:19:20,100
+gaming festival, which was the first event that I attended as a YouTuber, and it inspired me to take
+
+219
+00:19:20,100 --> 00:19:25,700
+the leap into commentary. However, I was aware of one thing, that there were a lot of commentators,
+
+220
+00:19:25,700 --> 00:19:30,500
+and I'd made commentary videos in the past, and they hadn't done much. The most successful video
+
+221
+00:19:30,500 --> 00:19:35,460
+I had made at that point was a video called Matt Hoss Could Win, and that seemed more like a fluke
+
+222
+00:19:35,460 --> 00:19:39,860
+than anything else. So I realised that I had to do something unique, I had to leave an impact with
+
+223
+00:19:39,860 --> 00:19:44,980
+my content, so I took a look at my resources and what I had going for me, I had relatively strong
+
+224
+00:19:44,980 --> 00:19:49,460
+community standing, a persistent determination, some experience in writing, and a strong
+
+225
+00:19:49,460 --> 00:19:54,260
+relationship with some very talented editors. So I thought, well, let's put it all together,
+
+226
+00:19:54,260 --> 00:19:59,220
+make longer videos, videos with a more personal style, something that will set me apart in what
+
+227
+00:19:59,220 --> 00:20:04,580
+I'm doing, and yet maintain a decent upload schedule, and so I began making videos in that
+
+228
+00:20:04,580 --> 00:20:08,820
+style. This wasn't without its problems, and it still isn't, there are obviously going to be some
+
+229
+00:20:08,820 --> 00:20:13,620
+inconsistencies in the visuals, and even though there is consistency, some people just can't get
+
+230
+00:20:13,620 --> 00:20:18,980
+into that style of video, and I can't blame people if they don't like that approach. For me though,
+
+231
+00:20:18,980 --> 00:20:23,780
+what I think is most important is that feeling of progress, that sentiment that I hope with regards
+
+232
+00:20:23,780 --> 00:20:28,260
+to quality, my videos are moving forward. Obviously, that's subjective to an extent,
+
+233
+00:20:28,260 --> 00:20:32,180
+but if you go back to my earlier videos in this format, and compare them with the ones that I'm
+
+234
+00:20:32,180 --> 00:20:36,660
+doing today, I hope that there is some visible difference, and hopefully one that is for the
+
+235
+00:20:36,660 --> 00:20:42,340
+better, but as said, it hasn't been without its challenges. Let's talk about that a bit more.
+
+236
+00:20:46,500 --> 00:20:51,060
+One of the most significant burning questions that I've received from people is about the mental
+
+237
+00:20:51,060 --> 00:20:56,340
+effect that such content has had on me, and it's a good question, one that is kind of difficult
+
+238
+00:20:56,340 --> 00:21:02,180
+to respond to, but I'll do my best. It's not been great, no one said this stuff would be easy,
+
+239
+00:21:02,180 --> 00:21:07,700
+and I embrace the challenge, but it's a large burden, and I guess this ties into the questions
+
+240
+00:21:07,700 --> 00:21:12,980
+that I receive about maintaining some emotional distance from the topics. I've even had a few
+
+241
+00:21:12,980 --> 00:21:18,260
+people ask me in the past if I'm a sociopath, which I'm definitely not, but I understand why
+
+242
+00:21:18,260 --> 00:21:22,660
+someone may think that. To enter the topics with the level of emotional distance that I often do
+
+243
+00:21:22,660 --> 00:21:26,980
+is difficult. I think trying to untie your personal feelings from these issues is something
+
+244
+00:21:26,980 --> 00:21:31,540
+that many find too much of a challenge to do themselves, and it's a challenge that I don't
+
+245
+00:21:31,540 --> 00:21:37,380
+always successfully traverse myself, but I guess I was set up for it in a way. When I was growing up,
+
+246
+00:21:37,380 --> 00:21:42,420
+I was an emotional person, extremely emotional, I was very volatile, and my moods often swung from
+
+247
+00:21:42,420 --> 00:21:46,420
+one pole to the other. I've always been very perceptive, so when I felt someone was being
+
+248
+00:21:46,420 --> 00:21:51,940
+unfair, unreasonable, or vindictive, I was prone to being quite abruptly hostile. However, I came
+
+249
+00:21:51,940 --> 00:21:56,020
+to realise that many people wouldn't often come around to your point of view through such an
+
+250
+00:21:56,020 --> 00:22:01,460
+attitude, and that often you had to use other more restrained techniques. When I was around 12, I had
+
+251
+00:22:01,460 --> 00:22:05,300
+anger management therapy, and this definitely improved me, and although I was still prone to
+
+252
+00:22:05,300 --> 00:22:10,980
+making emotionally based and often rash decisions, in the next few years I continued to work on myself.
+
+253
+00:22:12,100 --> 00:22:16,260
+Life was pretty good through a majority of my teenage years, but I think my gap year combined
+
+254
+00:22:16,260 --> 00:22:21,780
+with my first year of university really fractured my mentality. There were a lot of times where I
+
+255
+00:22:21,780 --> 00:22:26,660
+probably got too emotionally invested in my own expectations, which led to disappointment, and I
+
+256
+00:22:26,660 --> 00:22:32,420
+think that sort of continuous cycle wears you down, and eventually my body just said no to heavy
+
+257
+00:22:32,420 --> 00:22:37,780
+emotional investment, and excitement, and looking forward to things. And this isn't to say I don't
+
+258
+00:22:37,780 --> 00:22:43,060
+still feel things because I do, but I often get this very weird dynamic where I experience more
+
+259
+00:22:43,060 --> 00:22:49,140
+physical emotional reactions than what I feel inside. For example, sometimes I'll do karaoke,
+
+260
+00:22:49,140 --> 00:22:54,100
+and I know it makes me very nervous, and although I won't feel nervous in my head, I'll experience
+
+261
+00:22:54,100 --> 00:22:59,860
+the most terrible tremors. It feels like there's some emotional disconnect between how I feel and
+
+262
+00:22:59,860 --> 00:23:05,140
+how my head tells me to feel, and this I think has allowed me to look at drama from a relatively
+
+263
+00:23:05,140 --> 00:23:11,940
+distant standpoint while still integrating some emotionally based reasoning. It's a blessing and
+
+264
+00:23:11,940 --> 00:23:16,660
+a curse. However, with that said, when I started this new style and began obtaining success,
+
+265
+00:23:16,660 --> 00:23:20,820
+I definitely still experienced an excitement for the first eight months or so. When a video
+
+266
+00:23:20,820 --> 00:23:26,340
+performed well, I got a rush from what I was experiencing. However, after a while, that began
+
+267
+00:23:26,340 --> 00:23:30,100
+to wear off, maybe due to the fact that you gradually become desensitized to these things
+
+268
+00:23:30,100 --> 00:23:34,660
+after they happen on a regular basis, but also likely because I was aware that with more people
+
+269
+00:23:34,660 --> 00:23:39,460
+watching you, there's a greater responsibility to deliver content that represents the brand that
+
+270
+00:23:39,460 --> 00:23:43,700
+a lot of you guys watch me for. As you grow your channel, there's more to lose on a mistake,
+
+271
+00:23:43,700 --> 00:23:48,500
+it's a lot of pressure to deliver that content all the time, and on occasion I've failed to
+
+272
+00:23:48,500 --> 00:23:53,300
+make it to a standard that I'll be happy with and it'll play on my mind. I'll go into more detail
+
+273
+00:23:53,300 --> 00:23:57,540
+regarding that soon, but every upload is a lot of pressure, that thought that there's been some
+
+274
+00:23:57,540 --> 00:24:01,700
+glitch that you didn't pick up, some comment that you made being read a different way,
+
+275
+00:24:01,700 --> 00:24:07,220
+some misunderstanding that you've made, and those are valid concerns because I've made all of those
+
+276
+00:24:07,220 --> 00:24:12,820
+mistakes in my videos. Am I paranoid? Probably, but when you're talking about drama, you're never
+
+277
+00:24:12,820 --> 00:24:17,220
+too far away from it. On top of that, it's a lot to emotionally restrain yourself when there's
+
+278
+00:24:17,220 --> 00:24:21,940
+parts of me encouraging to absolutely let loose on people who come at you. There's still a part
+
+279
+00:24:21,940 --> 00:24:25,940
+of me that wants to respond to everyone and everything, but once you reach a certain point,
+
+280
+00:24:25,940 --> 00:24:30,100
+you realise that there's a lot of realism you have to apply. I think one of the other things is that
+
+281
+00:24:30,100 --> 00:24:34,580
+when a lot of people become popular, they often adapt a different mindset, because when you have
+
+282
+00:24:34,580 --> 00:24:39,700
+so much of your life at the public's disposal, you kinda have to take a different approach to it.
+
+283
+00:24:39,700 --> 00:24:44,500
+For me though, I feel that it's a necessity that my content requires grounding from the eyes of the
+
+284
+00:24:44,500 --> 00:24:48,900
+audience, which means I can never really become particularly invested in my own success, because
+
+285
+00:24:48,900 --> 00:24:53,540
+I worry that it would probably inflate my ego to the point where I lose touch with the perspectives
+
+286
+00:24:53,540 --> 00:24:59,140
+that I want to relay in my content. Just look at the Slazo video. These are all things that cause
+
+287
+00:24:59,140 --> 00:25:03,700
+a strong amount of pressure, which brings me to another very popular question that people ask me,
+
+288
+00:25:03,700 --> 00:25:08,740
+how do these serious topics affect my mental state? And to be honest, it's difficult to describe,
+
+289
+00:25:08,740 --> 00:25:13,140
+because for me, although the details obviously cause a level of repulsion, there's a part of me
+
+290
+00:25:13,140 --> 00:25:17,780
+that is just determined to push through and make sure that the content is delivered regardless of
+
+291
+00:25:17,780 --> 00:25:22,660
+what I find. I guess I do feel an element that takes its toll, but I also want to talk about
+
+292
+00:25:22,660 --> 00:25:26,740
+these things, the really sensitive topics sometimes, such as Etika, where no one had really
+
+293
+00:25:26,740 --> 00:25:31,700
+said anything the way that I wanted to. I guess my philosophy has always been what doesn't kill you
+
+294
+00:25:31,700 --> 00:25:35,780
+makes you stronger, and although that's not exactly true, and I'll be more than happy to tell you that,
+
+295
+00:25:35,780 --> 00:25:40,660
+I do find that experience grants one an element of mental immunity, although I'm not sure what the
+
+296
+00:25:40,660 --> 00:25:45,620
+cost of that has been. One of my former friends who I even collaborated with has managed to become
+
+297
+00:25:45,620 --> 00:25:51,620
+popular off the Minecraft resurgence, and I couldn't be happier for him, but part of me feels like
+
+298
+00:25:51,620 --> 00:25:58,900
+I could have made this easier for myself, I haven't chosen the easier path. My child's
+
+299
+00:25:58,900 --> 00:26:02,900
+development has not been without its flaws, some people reached out to me with these problems,
+
+300
+00:26:02,900 --> 00:26:07,620
+some I agree with and pledge to work on, others I disagree with and accept it's probably a
+
+301
+00:26:07,620 --> 00:26:12,500
+difference of opinion that separates us. I think probably my greatest challenge is making sure I
+
+302
+00:26:12,500 --> 00:26:17,860
+provide an analysis that separates observation from my own personal opinion, even though my videos
+
+303
+00:26:17,860 --> 00:26:22,500
+come out after a while, I still have to be considerate of the facts around the case changing, and keep an
+
+304
+00:26:22,500 --> 00:26:28,580
+open mind and be sympathetic to possible conditions that may yield it. I have biases, I will probably
+
+305
+00:26:28,580 --> 00:26:34,020
+always have biases, I am human, but I can still do better, and I need to avoid biases like those
+
+306
+00:26:34,020 --> 00:26:38,500
+which state that just because circumstances dictate something is likely doesn't mean it's certain,
+
+307
+00:26:38,500 --> 00:26:43,940
+and I need to emphasise that, but not necessarily compromise on the criticism that I want to deliver.
+
+308
+00:26:43,940 --> 00:26:48,900
+An example of where I failed on that was the ProJared video, which I unlisted a while back but
+
+309
+00:26:48,900 --> 00:26:54,180
+never really got round to talking about why, and although I have my criticisms, I was far too harsh
+
+310
+00:26:54,180 --> 00:26:58,660
+and channeled too many personal frustrations about responses rather than being sympathetic to
+
+311
+00:26:58,660 --> 00:27:03,940
+possible explanations and circumstances. I also missed details that would've altered my perspective,
+
+312
+00:27:03,940 --> 00:27:08,900
+and that's not good enough, I am sorry about that. A lot of people asked if I'd make a new version of
+
+313
+00:27:08,900 --> 00:27:13,860
+the video, but in the end I just didn't feel happy trying to redo it, I have very conflicted feelings
+
+314
+00:27:13,860 --> 00:27:19,460
+on the whole situation and his video. It wouldn't feel right to me picking through the topic with
+
+315
+00:27:19,460 --> 00:27:26,100
+a level of distance and superiority knowing that I could've done better myself. I didn't feel
+
+316
+00:27:26,100 --> 00:27:30,580
+comfortable putting myself in that position at that point, so I think sometimes you have to take
+
+317
+00:27:30,580 --> 00:27:37,700
+the L, move on, and take it as a learning experience. Talking about moving on, we'll slide over to a new topic.
+
+318
+00:27:49,460 --> 00:28:10,260
+Another question that I received a lot is regarding the process I make my videos with,
+
+319
+00:28:10,260 --> 00:28:14,740
+how do I end up releasing these videos on a regular basis? It reminded me of a comment left
+
+320
+00:28:14,740 --> 00:28:20,420
+on my video that an editor sent me once, which basically said, so all you do is write an essay?
+
+321
+00:28:20,420 --> 00:28:26,020
+Listen mate, I wish it was that easy. Let's talk about how I make my videos. Firstly, it's picking
+
+322
+00:28:26,020 --> 00:28:30,660
+a topic. I have a google doc which lists all the possible topics that I could undertake. It's a
+
+323
+00:28:30,660 --> 00:28:35,540
+long list, a lot of people ask me if I run out of topics, and I can definitely say that's not really
+
+324
+00:28:35,540 --> 00:28:39,540
+a problem with me. With all these communities on YouTube, there's seldom a time when there isn't
+
+325
+00:28:39,540 --> 00:28:44,020
+something to talk about. I like to think that my style can always bring something new even if it's
+
+326
+00:28:44,020 --> 00:28:48,340
+a heavily visited topic. I think there's a lot of flexibility in what I can cover fortunately,
+
+327
+00:28:48,340 --> 00:28:52,340
+and that provides me with a broader range of situations to cover, so once I've picked a topic
+
+328
+00:28:52,340 --> 00:28:57,860
+I'll typically begin some research, and at that point a lot of people ask me how I do that. Well,
+
+329
+00:28:57,860 --> 00:29:02,340
+I don't do anything particularly special, I use Google, YouTube, Twitter, Advanced Search,
+
+330
+00:29:02,340 --> 00:29:07,140
+Web Archive, and if there are any search engines specific to a certain site then obviously I'll
+
+331
+00:29:07,140 --> 00:29:13,940
+use them too. I have a few secret formulas that I keep to myself, but overall it's nothing magical.
+
+332
+00:29:13,940 --> 00:29:18,420
+A lot of searching, lots of clicking, one link that will lead to another link, and then maybe
+
+333
+00:29:18,420 --> 00:29:22,820
+another link, I think it's just a case of tenacity and working through fatigue that you might
+
+334
+00:29:22,820 --> 00:29:28,340
+experience. The research at first though is not too heavy, I do not do it all at once. Often I'll
+
+335
+00:29:28,340 --> 00:29:33,540
+work in research as I do my scripts, it's like a learning process for me as much as it is with
+
+336
+00:29:33,540 --> 00:29:38,740
+my audience, so you can see the evolution of my ideas and opinions throughout the video.
+
+337
+00:29:39,300 --> 00:29:44,180
+Some people ask if my opinions evolve too much during the research of a topic, and generally
+
+338
+00:29:44,180 --> 00:29:49,220
+they don't, mainly because I avoid assuming too much. I guess the one that I kind of changed my
+
+339
+00:29:49,220 --> 00:29:53,860
+opinion on was Oxhorn, I remember when I first looked into that, I hit a few videos that didn't
+
+340
+00:29:53,860 --> 00:29:59,060
+really convince me, and I even watched Oxhorn's response video, and I think around three videos
+
+341
+00:29:59,060 --> 00:30:03,380
+in when someone actually showed some evidence that my mind was swayed to be slightly more
+
+342
+00:30:03,380 --> 00:30:08,420
+skeptical of how he handled himself. Generally speaking though, I don't find my expectations
+
+343
+00:30:08,420 --> 00:30:12,900
+too easily subverted, obviously when the James Charles case went down, I was swayed one way,
+
+344
+00:30:12,900 --> 00:30:17,060
+and then swayed back the other, but that was all kind of happening in real time, so it's hard to
+
+345
+00:30:17,060 --> 00:30:22,500
+exactly compare it to other stories. When I'm writing, as said, there's an element of spontaneity
+
+346
+00:30:22,500 --> 00:30:27,460
+to it, a lot of people ask how I approach scripting, and for me I always say it is written
+
+347
+00:30:27,460 --> 00:30:31,940
+quite like an essay, but I use a lot of rhetorical devices that would typically be absent from a
+
+348
+00:30:31,940 --> 00:30:37,140
+written piece. I often imagine how I would say it in person, I may even repeat myself out loud when
+
+349
+00:30:37,140 --> 00:30:41,460
+reading through the script to make sure it flows relatively naturally, obviously these things aren't
+
+350
+00:30:41,460 --> 00:30:45,860
+completely perfect, but generally I think they flow quite smoothly with my approach. Once I'm
+
+351
+00:30:45,860 --> 00:30:50,820
+happy with the script, I will go into the recording studio, which is right now the cloak room in my
+
+352
+00:30:50,820 --> 00:30:55,620
+house, though I am working on another room to hopefully make that a bit easier. I take a stool,
+
+353
+00:30:55,700 --> 00:30:59,220
+put a load of cushion so I'm at a good angle with my microphone on the desk,
+
+354
+00:30:59,220 --> 00:31:04,820
+and I get going. It's not the most convenient, but we make it work. I know that's why my audio
+
+355
+00:31:04,820 --> 00:31:09,940
+can be a tad inconsistent, and some people with sensitive ears will pick it up, so once I have
+
+356
+00:31:09,940 --> 00:31:14,260
+a more solid studio hopefully that'll ease the issue. I often record it in one sitting,
+
+357
+00:31:14,260 --> 00:31:18,180
+though because I'm rather pedantic I will often make changes to these scripts because I'm never
+
+358
+00:31:18,180 --> 00:31:22,580
+satisfied. I'll go back and redo lines, and send them through to the editors with caveats,
+
+359
+00:31:22,580 --> 00:31:26,420
+I use strikethrough for text that I want to remove, and bold text for the script that I
+
+360
+00:31:26,420 --> 00:31:31,060
+want to add. After the audio is cut, I send it to the editors for visuals, I get a lot of questions
+
+361
+00:31:31,060 --> 00:31:35,460
+about the hiring of editors, but really it's just people contacting me, me seeing it, and then
+
+362
+00:31:35,460 --> 00:31:40,900
+initiating a discussion. I have an idea of what I like in my head, but I allow diversity, I think
+
+363
+00:31:40,900 --> 00:31:45,220
+it could make the video more colourful, even if it's not to everyone's taste. I will sometimes
+
+364
+00:31:45,220 --> 00:31:50,260
+split edits tactically, maybe if I feel one editor is more suited to one part. I typically split my
+
+365
+00:31:50,260 --> 00:31:55,620
+audios into 5-7 minute segments, so there's some way that it can be followed. My editors tend to
+
+366
+00:31:55,620 --> 00:32:00,020
+do their own thing with some guidance, they also pick up various character stills, which,
+
+367
+00:32:00,020 --> 00:32:04,340
+if you are an artist, I've decided to create a crediting list for these videos, so please
+
+368
+00:32:04,340 --> 00:32:09,300
+contact me if your stills are being used in these videos. However, the work doesn't end there,
+
+369
+00:32:09,300 --> 00:32:14,100
+first I need to write up a reference list for the editors, I learned this fairly early on in
+
+370
+00:32:14,100 --> 00:32:18,820
+my career that this was necessary or else you're not going to see what you envision to be on the
+
+371
+00:32:18,820 --> 00:32:23,540
+screen, and I liked showing relevant footage for the topics that I discuss. That's also at the
+
+372
+00:32:23,540 --> 00:32:28,180
+reference sheet that you guys see if you've ever looked for them in the pinned comment, I used to
+
+373
+00:32:28,180 --> 00:32:32,500
+put them directly in the pinned comment, but I had situations where I was posting them, and I guess
+
+374
+00:32:32,500 --> 00:32:36,820
+the comment was too long or YouTube didn't like it, so in the end I just put them in another
+
+375
+00:32:36,820 --> 00:32:41,540
+document and left the link in the pinned comment. I'll do references, and provided I don't make too
+
+376
+00:32:41,540 --> 00:32:46,180
+many changes, I will receive people's versions, at that point I'll have another editor compile
+
+377
+00:32:46,180 --> 00:32:50,420
+these versions, and then send it over to me. Now the first draft often isn't perfect,
+
+378
+00:32:50,420 --> 00:32:54,740
+I've either forgotten to add something, an editor's misinterpreted a direction,
+
+379
+00:32:54,740 --> 00:32:58,980
+either of us could've made mistakes. So what happens is that either I'll have an editor
+
+380
+00:32:58,980 --> 00:33:03,140
+for post make the correction, or I'll have the original editor make the correction themselves,
+
+381
+00:33:03,140 --> 00:33:07,140
+sometimes an editor will want to make the change to their own part for the sake of continuity,
+
+382
+00:33:07,140 --> 00:33:10,980
+sometimes they're rather indifferent, sometimes we've had communication issues on this,
+
+383
+00:33:10,980 --> 00:33:15,460
+but overall I like to think we do it alright. I'm really proud of the progress and how many
+
+384
+00:33:15,460 --> 00:33:20,500
+editors have managed to keep up as the style has evolved, and I think that's something to celebrate.
+
+385
+00:33:21,620 --> 00:33:26,180
+The viewers times we've gone over a video is twice, but sometimes we've gone over it
+
+386
+00:33:26,180 --> 00:33:31,460
+six or seven times, and then come to release. Obviously I've got uploads, normally I try and
+
+387
+00:33:31,460 --> 00:33:36,500
+get the video review for monetisation pre-upload, it's very important due to the resources that I'm
+
+388
+00:33:36,500 --> 00:33:40,740
+already sinking into these videos, and I often don't trust YouTube to keep it monetised post
+
+389
+00:33:40,740 --> 00:33:45,220
+released. There was a pretty rough patch last year with monetisation around the time of the
+
+390
+00:33:45,220 --> 00:33:50,100
+Matt Watson drama, but since then it's been okay, I don't tend to do too much with the metadata,
+
+391
+00:33:50,100 --> 00:33:55,220
+I used to do more, but in hindsight I don't think it has a huge stake in the performance of videos.
+
+392
+00:33:55,220 --> 00:33:59,300
+I put the video intro into the description sometimes, seems like a nice little touch,
+
+393
+00:33:59,300 --> 00:34:03,460
+and it might help out with the search algorithm. We'll try and get a nice thumbnail,
+
+394
+00:34:03,460 --> 00:34:07,620
+almost all my thumbnails have come from the man himself, Starfo, although grade A under-ray part
+
+395
+00:34:07,620 --> 00:34:14,020
+2 was done by my main man Linuski, and around three weeks after we began, we upload, and I
+
+396
+00:34:14,020 --> 00:34:18,420
+anxiously anticipate that hopefully I haven't missed a glaring issue. One of the times where
+
+397
+00:34:18,420 --> 00:34:23,380
+that annoyingly happened was my Austin Jones video, although a piece I'm obviously very proud of.
+
+398
+00:34:23,380 --> 00:34:29,380
+Around the 35 minute mark you can hear this very high pitched background noise, which continues
+
+399
+00:34:29,380 --> 00:34:34,340
+until around the 40 minute mark if I recall correctly. That was pretty frustrating, so to
+
+400
+00:34:34,340 --> 00:34:38,900
+have to proof watch all these videos multiple times can be a task, and sometimes my friends
+
+401
+00:34:38,900 --> 00:34:43,060
+will watch it for me. Obviously there are some changes that they cannot advise on, but they'll
+
+402
+00:34:43,060 --> 00:34:47,860
+typically pick up if there are any glitches. The behaviour of uploads is strange, I'm a bit
+
+403
+00:34:47,860 --> 00:34:51,940
+pedantic, and therefore that leads to indecision over things like titles, which you may have seen
+
+404
+00:34:51,940 --> 00:34:56,500
+me change in the past mid-upload, and I do apologise if anyone has been confused into
+
+405
+00:34:56,500 --> 00:35:01,700
+thinking I've uploaded a new video. Honestly, I sometimes feel slightly uncertain about stuff,
+
+406
+00:35:02,260 --> 00:35:06,500
+but we made it this far, and I think that'll lead me to my next parts.
+
+407
+00:35:12,740 --> 00:35:17,220
+A lot of people ask me what my plans are, how all of my previous plans have proceeded,
+
+408
+00:35:17,220 --> 00:35:21,540
+and I have talked about my personal ideas in previous videos, so I appreciate people
+
+409
+00:35:21,540 --> 00:35:26,740
+keeping me focused on them. Obviously I spoke about the progress with the podcast and so on,
+
+410
+00:35:26,740 --> 00:35:31,140
+but there's a load of other stuff. I heard a fair few questions about music,
+
+411
+00:35:31,140 --> 00:35:36,020
+and although I've probably mentioned this before, my favourite artists are Elton John, Queen, Robbie
+
+412
+00:35:36,020 --> 00:35:41,540
+Williams, ELO, that sort of vibe. I'm into a large majority of genres, providing it's not too loud or
+
+413
+00:35:41,540 --> 00:35:46,420
+aggressive, or lacking a structure that I myself enjoy, which is a pretty conventional one,
+
+414
+00:35:46,420 --> 00:35:51,220
+apologies to all you metalheads. Nonetheless, that's not the crux of the question, because
+
+415
+00:35:51,220 --> 00:35:55,540
+as some of you may know, I'm a trained vocalist. In fact, back in an older video,
+
+416
+00:35:55,540 --> 00:35:58,980
+the legendary TikTok predator, I wanted to do a music clip.
+
+417
+00:35:58,980 --> 00:36:06,660
+Whatever happened to the love that we used to send?
+
+418
+00:36:06,660 --> 00:36:12,660
+Whatever happened to the time I could be the one you could depend?
+
+419
+00:36:12,660 --> 00:36:17,940
+Whatever happened to the time we used to spend?
+
+420
+00:36:17,940 --> 00:36:24,580
+Together, I thought this was forever, now it's way till the end.
+
+421
+00:36:24,580 --> 00:36:29,140
+Because I didn't want to be claimed, I decided that I would use one of my own songs,
+
+422
+00:36:29,140 --> 00:36:34,580
+which is Until The End by Jaydance, though I think on Spotify it's called Waiting For The End.
+
+423
+00:36:34,580 --> 00:36:39,540
+I made the song when I was 16, I've always had a bit of an if melodies, and my other song of
+
+424
+00:36:39,540 --> 00:36:43,460
+That One Morning Sun is quite popular with the people I've shared it with. I'm definitely
+
+425
+00:36:43,460 --> 00:36:47,940
+planning on doing more music this year, but I probably need more time and resources to
+
+426
+00:36:47,940 --> 00:36:53,300
+dedicate to that hustle. The final goal is an album, but I'd like to feel like I have creative
+
+427
+00:36:53,300 --> 00:36:57,860
+control, and that's not something that I quite have yet. I'd love to maybe drop a little demo,
+
+428
+00:36:57,860 --> 00:37:02,100
+and then use it to maybe build a platform off. When I started, the initial plan was to use this
+
+429
+00:37:02,100 --> 00:37:06,980
+as a platform to hopefully launch some of my other media-oriented careers, but at the same time,
+
+430
+00:37:06,980 --> 00:37:11,780
+I'm not sure at which point I should attempt to launch it. I'm actually working on a few rap tracks
+
+431
+00:37:11,780 --> 00:37:16,420
+with an editor and friend by the name of Cold, if you follow my Instagram you may have heard a clip
+
+432
+00:37:16,420 --> 00:37:20,980
+from one of them, it's a fun thing to do, and though I'm not expecting it of any great success,
+
+433
+00:37:21,060 --> 00:37:27,460
+it would be pretty cool. Regarding other media, I have a load of film ideas, I recently started
+
+434
+00:37:27,460 --> 00:37:31,620
+a document where I write them all down, one of the things I've always wanted to do is to
+
+435
+00:37:31,620 --> 00:37:36,180
+screenwrite and direct a film. As mentioned earlier, I had considered agreeing it at one
+
+436
+00:37:36,180 --> 00:37:40,820
+point, but thought it was too risky. I don't have too much formal training, but I do like to think
+
+437
+00:37:40,820 --> 00:37:45,540
+that I would be in touch with human conflicts that could drive my plots and dialogue, though
+
+438
+00:37:45,540 --> 00:37:50,420
+I'm not sure if that's enough for such a challenge. I would really like to consider it
+
+439
+00:37:50,420 --> 00:37:55,300
+at one point, but for now I guess I'll just leave it on the back burner. I did make a parody movie
+
+440
+00:37:55,300 --> 00:37:57,860
+with my friends, maybe you guys will see it one day.
+
+441
+00:37:57,860 --> 00:38:24,260
+A truly classic clip, my ultimate goal is creative media, I cannot lie, but you also gotta be realistic
+
+442
+00:38:24,260 --> 00:38:28,260
+sometimes, you can't just waltz in and declare yourself the next Laurence Olivier, you have to
+
+443
+00:38:28,260 --> 00:38:34,340
+prove your worth in such a cutthroat industry, so I don't hold out hope, any success there will be
+
+444
+00:38:34,340 --> 00:38:39,140
+a pleasant surprise. Relating to this channel, obviously I hope I can be more ambitious, maybe
+
+445
+00:38:39,140 --> 00:38:43,700
+try and integrate a sense of self into some of my videos, there are also some burning issues that have
+
+446
+00:38:43,700 --> 00:38:49,220
+been on my mind relating to YouTube that I want to talk about, however I feel like a facecam character
+
+447
+00:38:49,220 --> 00:38:54,180
+break would be a good way to do them. Back when H3 did their YouTube callout videos, it's a shame
+
+448
+00:38:54,180 --> 00:38:58,900
+they don't do them anymore, it's not like people have fewer bones to pick with YouTube, and even
+
+449
+00:38:58,900 --> 00:39:03,220
+other transpiring situations that I don't feel comfortable with my current format would be good
+
+450
+00:39:03,220 --> 00:39:07,780
+to talk about too, however I don't want to commit to too much, because it is quite a nerve-wracking
+
+451
+00:39:07,780 --> 00:39:12,900
+thought for me. I also get a lot of political questions, whether I'm gonna go back into politics,
+
+452
+00:39:12,900 --> 00:39:17,380
+and although I addressed this in my previous Q&A, I guess I'm prepared to talk about it briefly here.
+
+453
+00:39:17,380 --> 00:39:22,500
+I have considered trying political content again, not on this channel, but maybe starting up another
+
+454
+00:39:22,500 --> 00:39:27,220
+channel where I do more live footage, content talking about politics, maybe integrated with some
+
+455
+00:39:27,220 --> 00:39:32,580
+creative ideas that would allow me to try out some of my cinematic tendencies. However, as a lot of
+
+456
+00:39:32,580 --> 00:39:37,540
+people have noted, it's a really toxic environment, and I'm not sure I'm mentally ready to do something
+
+457
+00:39:37,540 --> 00:39:42,820
+like that. Politically, there are no creators out there that fully represent how I feel. I'm not
+
+458
+00:39:42,820 --> 00:39:47,860
+right-wing, I like a lot the leftist guys, and that's how I identify, but some of the communities
+
+459
+00:39:47,860 --> 00:39:54,580
+seriously concern me with their strange drive for ideological purity, and I'll be honest, I'm not
+
+460
+00:39:54,580 --> 00:40:00,340
+pure, I'm not perfect, and I'm not out here to let angry people affect my political views.
+
+461
+00:40:00,340 --> 00:40:05,540
+I'm not gonna have what I believe in be based on tone policing, but if I ever did politics again,
+
+462
+00:40:05,540 --> 00:40:10,340
+I doubt I would try and be part of a greater political community. I'm not here to tell others
+
+463
+00:40:10,340 --> 00:40:15,540
+how to feel or how to handle their grievances with a broken system, but I've just never had
+
+464
+00:40:15,540 --> 00:40:21,620
+the personal ability to be that vitriolic to people with differing opinions within reason,
+
+465
+00:40:21,620 --> 00:40:26,900
+and I feel I'd be dead by 25 if I took that mentality. I might be anyway, but I at least gotta
+
+466
+00:40:26,900 --> 00:40:32,340
+try and take care of myself. As for other channels, yeah, I have a few projects in the mixer, I'm setting
+
+467
+00:40:32,340 --> 00:40:37,140
+up a Twitch channel, and that would be pretty swell. I might have a highlights channel, as said,
+
+468
+00:40:37,140 --> 00:40:41,220
+when I see some of my friends having such a good time, I feel like I should try and get in on this
+
+469
+00:40:41,220 --> 00:40:46,340
+as well, although obviously I'll be doing my own thing. I'm also setting up some side projects,
+
+470
+00:40:46,340 --> 00:40:52,020
+lower pressure, less dramatic things, maybe even some very light entertainment. I don't expect it
+
+471
+00:40:52,020 --> 00:40:56,580
+to affect my upload schedule, I can work quite efficiently where I need to, and to be honest,
+
+472
+00:40:56,580 --> 00:41:00,580
+I think the chaos is dying down for the start of the year, and I'm prepared to take it on.
+
+473
+00:41:00,580 --> 00:41:05,540
+If you hear my voice on another channel, don't be fazed that I'm doing something that you might not
+
+474
+00:41:05,540 --> 00:41:10,500
+expect me to do. Then there's merch, I receive a few questions about that, I am doing merch soon,
+
+475
+00:41:10,500 --> 00:41:15,780
+I've been beta testing some products, I'm gonna be releasing this really nice twat mug which reveals
+
+476
+00:41:15,780 --> 00:41:21,940
+itself when heated, that's one thing that I actually actively like, which is a rarity. I also
+
+477
+00:41:21,940 --> 00:41:27,060
+have this white text on black hoodie which reads too much free time for all you people out there
+
+478
+00:41:27,060 --> 00:41:31,940
+who feel the vibe. The other thing that I'm trying to do a tad more are sponsorships, as I'm still
+
+479
+00:41:32,020 --> 00:41:36,180
+rather cagey on YouTube's monetisation policy and the fact that they could change tomorrow.
+
+480
+00:41:36,180 --> 00:41:40,420
+There's never a feeling of security in anything that you earn, but the whole drama with better
+
+481
+00:41:40,420 --> 00:41:44,820
+help really switched me off, and since then I've only done two sponsorships. The latter was
+
+482
+00:41:44,820 --> 00:41:49,540
+obviously the raid one, which was great fun, because they let me and the internet historian
+
+483
+00:41:49,540 --> 00:41:54,820
+take the piss, but I wanna do some sponsorships where I can go in and say this brand is actually
+
+484
+00:41:54,820 --> 00:41:59,460
+really good. However, on top of that, I actually want to use sponsor slots as a way to platform
+
+485
+00:41:59,460 --> 00:42:03,540
+other creators, with the assurance of giving them a cut of the money made through that as well,
+
+486
+00:42:03,540 --> 00:42:07,380
+it'll give them some space to show off their creative abilities and sell themselves,
+
+487
+00:42:07,380 --> 00:42:11,940
+as well as the product, so although it's gonna take me a while to probably sort this out,
+
+488
+00:42:11,940 --> 00:42:16,580
+that's another idea that's been playing on my mind. I also have a few other things I want to
+
+489
+00:42:16,580 --> 00:42:21,780
+talk about too, and some other casual questions that I'll be happy to respond to, so let's go there right now.
+
+490
+00:42:23,780 --> 00:42:29,060
+It's time to clean up some of the questions here and there, that I wasn't sure quite how to fit in.
+
+491
+00:42:29,060 --> 00:42:32,820
+A fairly regular question has been about topics, obviously I explained how I pick them,
+
+492
+00:42:32,820 --> 00:42:37,380
+and my process, but I do get questions about these sorts of topics. I want to keep this channel's main
+
+493
+00:42:37,380 --> 00:42:42,260
+focus on YouTube topics, I will probably push the boat out here and there, I have a plan for
+
+494
+00:42:42,260 --> 00:42:47,380
+collab where I talk about a TV show for example, but there'll be more treats of sorts, and they still
+
+495
+00:42:47,380 --> 00:42:52,260
+talk about similar dynamics. I may make another channel where I occasionally post videos about
+
+496
+00:42:52,260 --> 00:42:56,900
+less YouTube related topics, there has been one very highly requested topic that I don't really
+
+497
+00:42:56,900 --> 00:43:00,900
+want to cover on this channel, but it has my attention given certain details which have piqued
+
+498
+00:43:00,900 --> 00:43:06,420
+my interest. I do feel my channel works for a certain type of video, and I'm still coming to grips
+
+499
+00:43:06,420 --> 00:43:10,900
+with which ones work best. A few times I've spoken about predators and their behaviour,
+
+500
+00:43:10,900 --> 00:43:16,580
+and since then I've often received messages from people about others doing some very terrible
+
+501
+00:43:16,580 --> 00:43:21,540
+things, often criminal, and asking me if I would expose them, and often that stuff makes me very
+
+502
+00:43:21,540 --> 00:43:26,100
+nervous, and I typically suggest that it's referred to criminal authorities first. It's why I've become
+
+503
+00:43:26,100 --> 00:43:30,420
+a lot more tentative when people are offered to send me evidence privately, I take preference to
+
+504
+00:43:30,420 --> 00:43:35,620
+talking about what's out there already right now. Some people ask me about my branding and what I
+
+505
+00:43:35,620 --> 00:43:40,420
+consider myself to be, and I don't like to make too many comments because although it's a cliche,
+
+506
+00:43:40,420 --> 00:43:44,500
+I like to be myself and let people interpret what they think of me, whether that means they think
+
+507
+00:43:44,500 --> 00:43:50,340
+I'm a commentator, an entertainer, a philosopher, an investigator, or a dickhead, so be it. I don't
+
+508
+00:43:50,340 --> 00:43:55,300
+run any specific algorithm in my head for how I create my content, obviously I have methods,
+
+509
+00:43:55,300 --> 00:44:00,100
+but I never really think about what I can do and what specific reaction it may provoke,
+
+510
+00:44:00,100 --> 00:44:04,740
+but I guess that brings me to my next point about advice that I would give to people, and I never
+
+511
+00:44:04,740 --> 00:44:09,140
+really say too much generally speaking, because the formula will always differ depending on the
+
+512
+00:44:09,140 --> 00:44:14,500
+person, but I guess the best thing that I would say to a creator is to ask yourself, why would a
+
+513
+00:44:14,500 --> 00:44:19,220
+viewer want to watch your content as opposed to other creators on the platform, and I think that's
+
+514
+00:44:19,220 --> 00:44:23,700
+a good question because it was the one detail I often overlooked when making my earlier content,
+
+515
+00:44:23,700 --> 00:44:28,900
+I never left an impact. When I ask that question, I don't mean it to discourage anyone or play on
+
+516
+00:44:28,900 --> 00:44:34,100
+their insecurities, but more to stimulate them to think about how they can innovate their brand
+
+517
+00:44:34,100 --> 00:44:39,220
+and carve out their own niche, and I think that's my other point, try not to be dissuaded by the
+
+518
+00:44:39,220 --> 00:44:44,420
+fact that some people won't enjoy what you're doing, everyone has different tastes, try not
+
+519
+00:44:44,420 --> 00:44:49,940
+to take it too personally, even if they try and make it personal. A lot of questions about dating
+
+520
+00:44:49,940 --> 00:44:55,060
+and a few people asking me out, calling me cute, which I'm very flattered by, I think that's one
+
+521
+00:44:55,060 --> 00:44:59,860
+of the things about YouTube life, it has definitely made it harder for dating. I've had two formal
+
+522
+00:44:59,860 --> 00:45:04,340
+dates in the last year, they were both nice, but in the end it just became impractical when I'm
+
+523
+00:45:04,340 --> 00:45:09,780
+still so restless. There are a lot of online ships, and I'd be lying if I didn't say I catch feelings,
+
+524
+00:45:09,780 --> 00:45:15,460
+but it's complicated. I'm a person with very high walls, and I'm unsure how involved with YouTube
+
+525
+00:45:15,460 --> 00:45:21,220
+I'd want my spouse to be. It's lonely, and I'm lonely, but you can't force these things.
+
+526
+00:45:21,220 --> 00:45:25,220
+I also have a lot of identity questions that I've never really got the chance to think about because
+
+527
+00:45:25,220 --> 00:45:30,500
+my life has been so hectic, and I want to resolve some of them before I can commit to someone else,
+
+528
+00:45:30,500 --> 00:45:35,860
+who may fall in love with someone I don't feel I really am. A lot of people ask me what my type is,
+
+529
+00:45:35,860 --> 00:45:40,820
+and I don't like to say too much, but I like people who I describe as energetic introverts,
+
+530
+00:45:40,820 --> 00:45:45,700
+there's an element of reservation but a shade of optimism too. I think I need that balance in my
+
+531
+00:45:45,700 --> 00:45:51,620
+life, I think I need someone stable to provide some security and ease my paranoia. My celebrity
+
+532
+00:45:51,620 --> 00:45:57,620
+crush would be Tom Holland I suppose, so if you want a general idea of what I'm into appearance-wise,
+
+533
+00:45:57,620 --> 00:46:03,300
+well there it is, but there's flexibility on those fronts. Some people ask what I do to try and relax,
+
+534
+00:46:03,300 --> 00:46:08,820
+emphasis on the try there. I like sports, I play some squash to mainly maintain fitness,
+
+535
+00:46:08,820 --> 00:46:13,380
+I'd like to do more football, or soccer, as you may call it, in fact, I think I'm pretty good in a
+
+536
+00:46:13,380 --> 00:46:17,700
+wing-bat position. However, I suffer from these nerve problems in my arms which make it more
+
+537
+00:46:17,700 --> 00:46:22,580
+difficult to participate in such activities, really bad pins and needles, and no one knows
+
+538
+00:46:22,580 --> 00:46:26,820
+exactly what to do about them, although I've had a couple appointments here and there and attempts
+
+539
+00:46:26,820 --> 00:46:32,260
+to alleviate it. I obviously enjoy music, and I spoke about that, I also enjoy cinema, you guys
+
+540
+00:46:32,260 --> 00:46:36,580
+probably know my favourite movie as Hot Fuzz, but if you're more interested in following my film
+
+541
+00:46:36,580 --> 00:46:42,420
+taste you can check out my Letterboxd. I like TV shows, I'm currently watching Fargo and Better
+
+542
+00:46:42,420 --> 00:46:48,260
+Call Saul with my family, both pretty epic, I like them. I also enjoy quizzing, for people who know me
+
+543
+00:46:48,260 --> 00:46:53,540
+I have a bit of an obsession with the acquisition of information, and that can be seen in pub quizzes.
+
+544
+00:46:53,540 --> 00:46:58,260
+I would really like to go on a game show, so if there are any game show executives watching this
+
+545
+00:46:58,260 --> 00:47:04,740
+video, hey, hit me up, I have applied a fair few times. The final goal is to win Who Wants To Be
+
+546
+00:47:04,740 --> 00:47:09,300
+A Millionaire. I don't know if I'll ever have the opportunity, but a boy can dream, eh?
+
+547
+00:47:09,300 --> 00:47:14,020
+As for YouTube, the creators that I watch, I watch Todd and the Shadows, Billboard Breakdown
+
+548
+00:47:14,020 --> 00:47:19,620
+by Spectrum, Pulse, I Hate Everything, Internet Historian, Pyrocynical, Mr. Gigi, obviously The
+
+549
+00:47:19,620 --> 00:47:26,020
+Boys, Primink, J. Aubrey, Average Pixel, all those beautiful lads, I could go on. If there's a topic
+
+550
+00:47:26,020 --> 00:47:30,180
+that captures my interest, then I'll probably watch the video, providing I don't actually dislike the
+
+551
+00:47:30,180 --> 00:47:34,420
+creator's content. An interesting question is about who I really want to collaborate with, and that's
+
+552
+00:47:34,420 --> 00:47:39,060
+a difficult one, because I can collaborate with a lot of people who I haven't yet that are pretty
+
+553
+00:47:39,060 --> 00:47:43,940
+obvious, and I could just say, you know, Primink, and obviously you guys would know that completely,
+
+554
+00:47:43,940 --> 00:47:49,140
+so I guess I can throw a curveball in there, one person who I think would be cool is Pyrocynical.
+
+555
+00:47:49,140 --> 00:47:52,660
+He's always been really pleasant, treats me like an individual, remembers details that
+
+556
+00:47:52,660 --> 00:47:57,300
+I don't remember telling him, so that would be good. I haven't really had much contact though, as
+
+557
+00:47:57,300 --> 00:48:02,100
+he's wise enough to stay off social media. A lot of people have asked me about alternative career
+
+558
+00:48:02,100 --> 00:48:06,260
+paths, if YouTube packed up tomorrow, what I'd do, and I think that's a hard question. I'd really
+
+559
+00:48:06,260 --> 00:48:10,900
+like to politics again, I'm very interested in local politics, I recently rejoined my local
+
+560
+00:48:10,900 --> 00:48:15,380
+liberal Democrat party because I feel like there are still a lot of local issues that matter to me.
+
+561
+00:48:15,380 --> 00:48:20,180
+I walk down the street, and the town is just so depressing, and I feel like there's so much more
+
+562
+00:48:20,180 --> 00:48:26,260
+that can be done, but I also still don't know if I belong with them. Creative arts, of course,
+
+563
+00:48:26,260 --> 00:48:30,260
+who knows what would happen there. I always worry that my status as a YouTube commentator would
+
+564
+00:48:30,260 --> 00:48:35,300
+prevent me from being accepted in other places, but I think maybe that's a bit more of my paranoia,
+
+565
+00:48:35,300 --> 00:48:39,540
+it's tiring stuff being this eccentric. I'm not sure if there are too many other questions that I
+
+566
+00:48:39,540 --> 00:48:45,060
+want to respond to now, obviously gotta save some for my next Q&A. I'll score some quick fire points,
+
+567
+00:48:45,060 --> 00:48:50,100
+my favourite colour is red, my favourite animals are probably dogs, I'd love to dye my hair silvery
+
+568
+00:48:50,100 --> 00:48:56,100
+white sometimes, thank you Franny, I'd marry them all and maybe kill them afterwards. I actually
+
+569
+00:48:56,100 --> 00:49:00,020
+love Mario Kart and I will beat you at it, you were never allowed out of the basement, probably
+
+570
+00:49:00,580 --> 00:49:06,420
+Asda, bees are good, I am hydrated, and no I have not heard about Raid Shadow Legends, please tell me more.
+
+571
+00:49:06,980 --> 00:49:13,140
+Really? No. Oh, and my favourite video? Well, I guess it could be this one, it's refreshing and
+
+572
+00:49:13,140 --> 00:49:17,140
+different, I know I can't do them every day, but it allowed me to talk about things that are close
+
+573
+00:49:17,140 --> 00:49:21,940
+to me, and things that have been playing on my mind, hopefully you learned a bit too, but if you
+
+574
+00:49:21,940 --> 00:49:26,820
+discount this one, probably Austin Jones, in spite of the annoying glitch. Thank you guys for watching,
+
+575
+00:49:26,820 --> 00:49:29,460
+I'm The Right Opinion, and I'll see you in the next one.
+

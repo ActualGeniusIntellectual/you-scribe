@@ -1,0 +1,5572 @@
+1
+00:00:00,000 --> 00:00:09,780
+Hello ladies and gentlemen, and welcome to The Right Opinion, the home of a twat with too much free time,
+
+2
+00:00:09,780 --> 00:00:16,580
+and many of you are likely well acquainted with my established status as a gamer, in fact probably one of the best gamers there is out there.
+
+3
+00:00:16,580 --> 00:00:22,820
+Truth is, I only don't compete in tournaments because I'd really hate to put any of these so-called competitive players out of a job,
+
+4
+00:00:22,820 --> 00:00:26,860
+especially when I am so blessed to have alternative sources of entertainment.
+
+5
+00:00:26,920 --> 00:00:32,460
+Yes, my field of interest isn't merely restricted to one meadow. You see, like most people, I love a good mystery,
+
+6
+00:00:32,460 --> 00:00:38,460
+and today we have nothing less than one of the online world's strangest happenings, one that has baffled observers,
+
+7
+00:00:38,460 --> 00:00:41,920
+and even after its resolution, left far more questions than answers.
+
+8
+00:00:41,920 --> 00:00:49,060
+Nonetheless, whereas most of our topics are embroilments on our resident platform, we have to turn our attention to our YouTube's contemporaries,
+
+9
+00:00:49,060 --> 00:00:53,220
+and dare I say it, competitors for today's situation, Twitch.
+
+10
+00:00:53,340 --> 00:00:59,660
+Twitch, like YouTube, is a video sharing platform, where one can tune in to their favourite creators and view various genres of content.
+
+11
+00:00:59,660 --> 00:01:05,900
+However, unlike YouTube, Twitch's format prioritises live streams, which often provides more direct interaction between a creator,
+
+12
+00:01:05,900 --> 00:01:12,420
+the content, and their audience. It's fair to say that YouTube also offers this feature, and most people have taken advantage of it at some point,
+
+13
+00:01:12,420 --> 00:01:18,700
+however as YouTube isn't thought to provide the same attention to it that Twitch does, most tend to opt the latter when it comes to streaming.
+
+14
+00:01:18,740 --> 00:01:23,740
+With that said, Twitch isn't without its issues either, many of which have been on display in the last few years,
+
+15
+00:01:23,740 --> 00:01:28,220
+particularly their policy which has often led to accusations of hypocrisy and double standards.
+
+16
+00:01:31,820 --> 00:01:38,540
+Now with these large platforms, some sort of double standard is inevitable, particularly given the special treatment that larger creators have been known to afford.
+
+17
+00:01:38,540 --> 00:01:45,820
+With that said, Twitch's attempts to find any consistency have often led to criticisms of the opposite, and their nature to double down hasn't helped that.
+
+18
+00:01:45,820 --> 00:01:51,580
+I'm not going to detail each individual example because we'd be here all year, and that's a bit longer than I want to make my video,
+
+19
+00:01:51,580 --> 00:01:57,740
+but their lack of transparency on the matter has left some streamers believing they've been indefinitely banned for the most milk toast of faux pas,
+
+20
+00:01:57,740 --> 00:02:03,460
+and in the live stream business where there are no editing tools between the video and the viewer, that can be risky business.
+
+21
+00:02:03,460 --> 00:02:11,220
+On the other hand though, there are platform darlings, who have been welcomed back despite multiple breaches of their supposed all encompassing creator guidelines.
+
+22
+00:02:11,300 --> 00:02:14,420
+For many, there's unfairness, and then there's Twitch.
+
+23
+00:02:14,420 --> 00:02:20,980
+There are fair few theories about why Twitch is so wildly inconsistent, but I think the most deeply rooted one is that simply put, they're a business.
+
+24
+00:02:20,980 --> 00:02:26,580
+They need to hold onto the main sources of that business, especially when there are alternative platforms offering the same service.
+
+25
+00:02:26,580 --> 00:02:33,380
+If they went and banned their biggest names, even if it was for good reason, those names may just migrate to a competitor who will tolerate their antics,
+
+26
+00:02:33,380 --> 00:02:40,500
+taking all their audience and income with them. Even if it leads to greater moral inconsistency, their current practice keeps their platform afloat,
+
+27
+00:02:40,500 --> 00:02:47,860
+which is probably their prime concern. However, at the core of this pretty logically sound explanation, there is one rather significant exception to that rule,
+
+28
+00:02:47,860 --> 00:02:51,060
+so I think it's high time to introduce our title character.
+
+29
+00:02:51,060 --> 00:03:20,180
+This is Doctor Disrespect, he's a streamer with a pretty significant recurrent following, he's mostly known for playing shooters,
+
+30
+00:03:20,180 --> 00:03:27,300
+although he's not too fussy, and will play whatever takes his fancy, really. In a way, he doesn't need to specialise, because over the years, his success hasn't
+
+31
+00:03:27,300 --> 00:03:35,700
+necessarily been attributed to his in-game performance, not that it is lacking. More so, though, his on-screen persona, with a defined brand and attire to match.
+
+32
+00:03:35,700 --> 00:03:42,740
+He's always been a bit of a gamer, though, even claiming to have won Blockbuster video game tournaments in 93 and 94, back in the day.
+
+33
+00:03:42,740 --> 00:03:56,100
+I'm sitting there at the Blockbuster World Championships at Marine World in Vallejo, California, 200 tube TVs lined up, right, on all these tables, right?
+
+34
+00:03:56,100 --> 00:04:08,260
+Maybe a couple hundred people, maybe just kind of walking around the area, not sure what's going on, but it was probably the first LAN event slash tournament in the history of video games.
+
+35
+00:04:09,220 --> 00:04:17,380
+However, gaming hasn't been his only interest. In 2005, he graduated Cal Poly with a degree in business and marketing management, with a stint in the college basketball team.
+
+36
+00:04:17,380 --> 00:04:25,380
+In the years following, he dabbled in gaming, but began working behind the scenes at video game company Sledgehammer, and a live streaming website known as Justin.tv,
+
+37
+00:04:25,380 --> 00:04:33,780
+which had a pretty thriving gaming section at that time. However, in 2011, Justin TV decided to separate this section to a humble spin-off site known as Twitch,
+
+38
+00:04:33,860 --> 00:04:40,820
+and well, the rest was history there. With experience in community management, gaming, and business with some of the most media-relevant companies,
+
+39
+00:04:40,820 --> 00:04:46,340
+the doc decided to chance his arm on the other side of the stage curtains, to pretty resounding results.
+
+40
+00:04:46,340 --> 00:04:48,340
+So the winner is...
+
+41
+00:04:48,340 --> 00:05:06,900
+One thing when I started my channel, I had no idea what I was getting into. It was just having a good time. Let's just do our thing.
+
+42
+00:05:09,140 --> 00:05:11,700
+But a year and a half later, I realized a lot of things.
+
+43
+00:05:12,580 --> 00:05:25,860
+I've realized that I've provided an outlet for a lot of people that are dealing with a lot of hardships, and it makes me proud.
+
+44
+00:05:25,860 --> 00:05:30,580
+In the years coming up to 2020, our trash-talking Twitter amassed a multi-million following,
+
+45
+00:05:30,580 --> 00:05:36,740
+won numerous awards, acquired a variety of mainstream sponsorships and endorsements, and instituted himself as a force to be reckoned with.
+
+46
+00:05:36,820 --> 00:05:39,620
+However, he was not entirely unproblematic in his time.
+
+47
+00:05:51,620 --> 00:05:58,660
+Dr Disrespect was known for having a somewhat abrasive and even divisive persona, and in a way that makes sense, it's part of the appeal.
+
+48
+00:05:58,660 --> 00:06:07,220
+Javi did occasionally straggle the line between abrasiveness and offensiveness, his outspoken nature often clashing with those who disagreed with him or held disdain for his comments.
+
+49
+00:06:07,220 --> 00:06:16,260
+In 2019, he was suspended from Twitch for two weeks after he filmed inside a public restroom at the annual E3 convention, violating Twitch's own guidelines and California state law.
+
+50
+00:06:16,260 --> 00:06:22,980
+In that case, following the restoration of his channel, some perceived Doc as part of the Twitch cabal that could never face real repercussions for their mishaps.
+
+51
+00:06:22,980 --> 00:06:29,940
+As a creator with millions of followers and a cemented history at the company he represented, he was obviously going to possess some power in his channel's status.
+
+52
+00:06:29,940 --> 00:06:36,500
+At its heart, it was a synergetic relationship, one that perhaps bent the rules a little, but worked for both of the interested parties.
+
+53
+00:06:36,500 --> 00:06:44,900
+In an esports article, the author wryly commented that as long as he didn't stream from Bathroom again, it was safe to assume that the Doc won't be going anywhere in 2020.
+
+54
+00:06:45,780 --> 00:06:47,540
+How wrong they were.
+
+55
+00:06:47,540 --> 00:06:56,340
+And I'll just say this right now, champs. There's a reason why we're suing the fuck out of them, okay?
+
+56
+00:06:56,340 --> 00:07:06,820
+Yes, my friends, today's mystery will investigate the slaying and subsequent aftermath of one of Twitch's most recognisable creators, with discourse surrounding the many postulators that have arisen since that time.
+
+57
+00:07:06,820 --> 00:07:14,260
+However, to fully understand many of these discussions, it's important that we first set the scene, so allow me to take you all back to a simpler time.
+
+58
+00:07:14,900 --> 00:07:18,420
+2020. Yeah, I can't believe it was simpler than either.
+
+59
+00:07:18,420 --> 00:07:24,820
+Don't get too nostalgic, as you join me to investigate the disappearance of Dr Disrespect.
+
+60
+00:07:24,820 --> 00:07:29,860
+But you know what won't disappear? Your enjoyment of Rage Shadow Legends!
+
+61
+00:07:29,860 --> 00:07:40,180
+Rage Shadow Legends is the best game ever made. With over 600 champions and riveting AAA gameplay, you'll love Rage Shadow Legends, millions of champion combinations and endless dungeons to run through.
+
+62
+00:07:40,180 --> 00:07:42,980
+You will never need to play another game in your life.
+
+63
+00:07:42,980 --> 00:07:47,540
+I stopped eating and sleeping, why bother? I have Raid now.
+
+64
+00:07:47,540 --> 00:07:56,100
+And if you, somehow, get bored of raiding dungeons, you can beat the shit out of people in the PvP mode and become the Shadow Legend.
+
+65
+00:07:56,100 --> 00:08:05,780
+My favourite Shadow Legends are Herndig, because he is a dwarf and he can nuke everyone. I also like Gorgorra, because I mean, come on, look at him!
+
+66
+00:08:05,780 --> 00:08:12,420
+Gorbgorrib and Herndig are also married. Right now, Raid is hosting a spooky Halloween event.
+
+67
+00:08:12,420 --> 00:08:20,180
+They have plenty of in-game and IRL prizes, like a 1000 Amazon gift card! You could buy Herndig a gift with that.
+
+68
+00:08:20,180 --> 00:08:28,660
+The event only runs until November the 5th, so be sure to get the game! Go, go! What are you waiting for? Get it now!
+
+69
+00:08:28,660 --> 00:08:33,060
+If you want to consume the most influential piece of media since Homer's Odyssey,
+
+70
+00:08:33,060 --> 00:08:40,660
+then use this link in the description or the QR code screen to download the game and get a free starter pack worth $30!
+
+71
+00:08:40,660 --> 00:08:44,900
+That's $30 you can spend on Herndig!
+
+72
+00:08:44,900 --> 00:08:50,820
+You can find me raiding Shadow Legends in-game under the name The Left Opinion.
+
+73
+00:08:50,820 --> 00:09:00,020
+And if you love Herndig enough, you may even be able to join my Herndig fan club clan! See you there, gamers!
+
+74
+00:09:20,820 --> 00:09:29,860
+Now, I've already outlined the status of Dr Dispect at the start of 2020.
+
+75
+00:09:29,860 --> 00:09:34,180
+He was creating content for adoring fans, and everything seemed fairly ordinary on that front.
+
+76
+00:09:34,180 --> 00:09:37,620
+However, there had been some tension stirred between platforms around that time.
+
+77
+00:09:37,620 --> 00:09:43,620
+I've already mentioned YouTube's streaming feature, but I also noted that, as opposed to Twitch, it wasn't their primary selling point.
+
+78
+00:09:43,620 --> 00:09:48,020
+However, around this time, there was another player in the market, which had shook up the industry a little.
+
+79
+00:09:48,020 --> 00:09:50,020
+The name of this player was Mixer.
+
+80
+00:09:50,020 --> 00:09:54,500
+Mixer was a relatively new online service, launched in 2016 under the name Beam,
+
+81
+00:09:54,500 --> 00:09:58,020
+not too long after it was brought by Microsoft and rebranded for the global stage.
+
+82
+00:09:58,020 --> 00:10:04,020
+Microsoft harbored great ambitions with this platform, gradually expanding the range of available services, streaming included.
+
+83
+00:10:04,020 --> 00:10:10,020
+Arguably, though, the most significant development was in 2019, when renowned streamer Ninja, or Tyler Blevins,
+
+84
+00:10:10,020 --> 00:10:13,300
+announced he would be leaving Twitch to join Mixer on an exclusive deal.
+
+85
+00:10:13,300 --> 00:10:23,300
+I know this may come as a shock to many of you, but as of today, I will be streaming exclusively on Mixer.
+
+86
+00:10:23,300 --> 00:10:27,540
+This caused quite the commotion at the time, with many pointing the finger at a variety of sources,
+
+87
+00:10:27,540 --> 00:10:33,140
+including Twitch themselves for supposedly harbouring a toxic environment that Blevins no longer wish to tolerate.
+
+88
+00:10:33,140 --> 00:10:36,340
+Ninja was not the only streamer to leave Twitch for the market competitor, though.
+
+89
+00:10:36,340 --> 00:10:42,260
+Among others, FPS streamers Shroud, Ewok, and Kinggothalian also migrated platforms on an exclusive deal,
+
+90
+00:10:42,260 --> 00:10:46,580
+and in this time, Mixer reported a notable increase in hours of content streamed on their platform,
+
+91
+00:10:46,580 --> 00:10:50,420
+appearing to win over new and aspiring creators from their rival streaming service.
+
+92
+00:10:50,420 --> 00:10:55,460
+This would have inevitably put a squeeze on the bigwigs over at Twitch, with another platform to poach their creators,
+
+93
+00:10:55,460 --> 00:11:00,180
+they would need to approach each controversy with a heightened sensitivity to the consequences of their decisions.
+
+94
+00:11:00,180 --> 00:11:04,660
+This would obviously not be a popular decision with some, but with one of the tech behemoths breathing down their throat,
+
+95
+00:11:04,660 --> 00:11:06,660
+it seemed like the only viable option.
+
+96
+00:11:06,660 --> 00:11:11,060
+In the meantime, there were questions surrounding who the next big name would be, perhaps XQC,
+
+97
+00:11:11,060 --> 00:11:14,340
+Pokimane, or maybe Dr Disrespect.
+
+98
+00:11:14,340 --> 00:11:17,620
+Let's say a move for the doc to Mixer.
+
+99
+00:11:17,620 --> 00:11:24,580
+Let's just like theoretically say, right, the number would have to be crazy.
+
+100
+00:11:26,260 --> 00:11:35,220
+Like, I'm talking, I don't know what Ninja got, but it's got to be at Ninja's level or higher.
+
+101
+00:11:36,580 --> 00:11:38,580
+I mean, it's just a stronger brand, right?
+
+102
+00:11:38,580 --> 00:11:46,020
+It would have to be.
+
+103
+00:11:46,020 --> 00:11:49,300
+In August's stream, he appeared to have little regard for what platform he streamed on,
+
+104
+00:11:49,300 --> 00:11:52,660
+stating that his patronage would go to the highest bidder, though a few months later,
+
+105
+00:11:52,660 --> 00:11:56,500
+after the news that more streamers had left Twitch, he was confronted by audience members once more,
+
+106
+00:11:56,500 --> 00:12:00,020
+wondering if he would be part of the large exodus to the up and coming platform.
+
+107
+00:12:00,020 --> 00:12:02,580
+However, he appears to shoot these rumours down fairly swiftly,
+
+108
+00:12:02,580 --> 00:12:06,260
+using his business acumen to point out the problems with the service in reference.
+
+109
+00:12:06,260 --> 00:12:09,540
+Easy button, move to Mixer, I would never move to Mixer, trust me.
+
+110
+00:12:11,300 --> 00:12:11,940
+It's stupid.
+
+111
+00:12:12,500 --> 00:12:16,580
+Right now, they probably have maybe a total 40 to 50,000 concurrent viewers
+
+112
+00:12:16,580 --> 00:12:18,180
+across the entire platform.
+
+113
+00:12:18,180 --> 00:12:22,660
+Right now, currently on Twitch, right now, currently across the entire platform, concurrent,
+
+114
+00:12:22,660 --> 00:12:25,700
+1.5 million concurrent viewers, right?
+
+115
+00:12:25,700 --> 00:12:29,140
+So you tell me, you step into my face and say, yeah, they're making big moves.
+
+116
+00:12:29,140 --> 00:12:30,820
+No, they're not, right?
+
+117
+00:12:30,820 --> 00:12:36,020
+Like, I have double the amount of viewers that Ninja has right now, and I'm still in my intro,
+
+118
+00:12:36,500 --> 00:12:37,620
+reality check.
+
+119
+00:12:37,620 --> 00:12:40,100
+Those moves, they're not doing anything for the platform.
+
+120
+00:12:40,100 --> 00:12:41,540
+You can't pay for a community.
+
+121
+00:12:41,540 --> 00:12:43,140
+You can't buy viewership.
+
+122
+00:12:43,140 --> 00:12:44,100
+It's right here.
+
+123
+00:12:44,100 --> 00:12:47,140
+The Twitch community, it's built on video games.
+
+124
+00:12:47,140 --> 00:12:48,820
+It's built on communities.
+
+125
+00:12:48,820 --> 00:12:49,380
+And you know what?
+
+126
+00:12:49,380 --> 00:12:51,940
+The Doc's reservations were slowly being proven correct,
+
+127
+00:12:51,940 --> 00:12:54,420
+because not all was completely steady on the Mixer ship,
+
+128
+00:12:54,420 --> 00:12:57,220
+and although more content than ever was being streamed on the site,
+
+129
+00:12:57,220 --> 00:12:59,060
+the actual viewership numbers were waning,
+
+130
+00:12:59,060 --> 00:13:03,620
+and the co-founders James Berman and Matt Salsamendi left in very quick succession.
+
+131
+00:13:03,620 --> 00:13:06,900
+Although both their posts appeared to express optimism for the future of Mixer,
+
+132
+00:13:06,900 --> 00:13:09,860
+attributing their departure to a mere change in personal priorities,
+
+133
+00:13:09,860 --> 00:13:13,140
+it's hard to ignore the interrelation between the exit of these figureheads.
+
+134
+00:13:13,140 --> 00:13:16,900
+As viewer traffic is arguably the most integral element to a website in that domain,
+
+135
+00:13:16,900 --> 00:13:19,780
+the information regarding their numbers was not a good sign.
+
+136
+00:13:19,780 --> 00:13:24,820
+As a matter of fact, by the end of 2019, their market share still only equalled Facebook gaming,
+
+137
+00:13:24,820 --> 00:13:28,420
+and at that point, I'm pretty sure most people on Facebook don't even know how to use that.
+
+138
+00:13:28,420 --> 00:13:31,460
+However, though they weren't experiencing great success in that moment,
+
+139
+00:13:31,460 --> 00:13:34,660
+their presence and their ostensible ambition was enough of a threat to
+
+140
+00:13:34,660 --> 00:13:36,980
+provoke action from other players in the market.
+
+141
+00:13:37,540 --> 00:13:40,340
+This threat wasn't just limited to Mixer or YouTube either though,
+
+142
+00:13:40,340 --> 00:13:43,780
+although I joke about it, Facebook gaming did poach a couple streamers for their site,
+
+143
+00:13:43,780 --> 00:13:48,900
+and another more controversial fringe site called Dlive did sign a brief deal with PewDiePie in 2019,
+
+144
+00:13:48,900 --> 00:13:52,980
+and though that was due to expire pretty soon, it could've definitely ruffled some feathers.
+
+145
+00:13:52,980 --> 00:13:57,220
+In response to these hawkish business techniques, both Twitch and YouTube sought to cement their
+
+146
+00:13:57,220 --> 00:13:59,220
+status with a variety of commercial deals.
+
+147
+00:13:59,220 --> 00:14:02,900
+In Twitch's case, this included lucrative contracts with the creators themselves,
+
+148
+00:14:02,900 --> 00:14:06,500
+such as Pokimane, Dr. Lupo, and of course, Dr. Disrespect,
+
+149
+00:14:06,500 --> 00:14:09,220
+who in spite of pledging loyalty to the platform the year before,
+
+150
+00:14:09,220 --> 00:14:11,780
+clearly brought an inalienable presence to the network.
+
+151
+00:14:11,780 --> 00:14:16,900
+On March the 12th of 2020, Dr. Disrespect tweeted out a video from his account,
+
+152
+00:14:16,900 --> 00:14:21,940
+promoting the stream platform once more, and emphasizing the exclusivity of his presence,
+
+153
+00:14:21,940 --> 00:14:23,220
+only on Twitch.
+
+154
+00:14:23,220 --> 00:14:29,060
+You know the biggest difference between me and you boys?
+
+155
+00:14:30,340 --> 00:14:43,220
+Is that I can fly without a suit.
+
+156
+00:14:43,220 --> 00:14:56,100
+The contract was for two years, and although no specific figures were disclosed,
+
+157
+00:14:56,100 --> 00:14:59,140
+it was definitely no Mickey Mouse Monopoly money to say the least.
+
+158
+00:14:59,140 --> 00:15:03,300
+In interviews, the doc himself described it as life-changing, and it made perfect sense.
+
+159
+00:15:03,300 --> 00:15:07,220
+It was true he was one of their most successful streamers, but he was more than that in a way.
+
+160
+00:15:07,220 --> 00:15:09,140
+I mean, it's just a stronger brand, right?
+
+161
+00:15:09,140 --> 00:15:14,340
+A lot of the most viewed streamers are defined by their in-game skill,
+
+162
+00:15:14,340 --> 00:15:16,660
+or just on the basis of the content they engage with,
+
+163
+00:15:16,660 --> 00:15:19,300
+especially those in the more reaction-oriented genre.
+
+164
+00:15:19,300 --> 00:15:22,420
+The problem is that when your success is based on the relevance of the game,
+
+165
+00:15:22,420 --> 00:15:25,540
+or videos that fuel your content, you're often placing an expiry date
+
+166
+00:15:25,540 --> 00:15:29,540
+when those games or those videos fall out of favour with the greater audience.
+
+167
+00:15:29,540 --> 00:15:33,700
+Dr. Disrespect was more than that, he was a character, a divisive one for sure,
+
+168
+00:15:33,700 --> 00:15:37,060
+but you don't garner prestige a lot of the time without making a few enemies,
+
+169
+00:15:37,060 --> 00:15:40,260
+and sometimes it's better as a creator to evoke a strong reaction,
+
+170
+00:15:40,260 --> 00:15:43,540
+positive or negative, because it's what will keep some people coming back.
+
+171
+00:15:43,540 --> 00:15:46,020
+Sure, when he dropped a hot take or just another streamer,
+
+172
+00:15:46,020 --> 00:15:49,700
+it would typically end up in an article, even drawing some negative press towards him,
+
+173
+00:15:49,700 --> 00:15:52,100
+but he was always described as the Twitch streamer,
+
+174
+00:15:52,100 --> 00:15:56,500
+and if any coverage was good coverage, then he was the prime example of that.
+
+175
+00:15:56,500 --> 00:15:59,940
+I think Twitch identified the longevity in Dr. Disrespect's appeal,
+
+176
+00:15:59,940 --> 00:16:01,700
+and sought to secure it on their platform.
+
+177
+00:16:01,700 --> 00:16:03,780
+With the competition gearing up for the new year,
+
+178
+00:16:03,780 --> 00:16:07,460
+it made perfect sense that they retained one of their most identifiable creators,
+
+179
+00:16:07,460 --> 00:16:09,060
+what could ever change that?
+
+180
+00:16:09,060 --> 00:16:10,500
+Well, I don't know.
+
+181
+00:16:11,380 --> 00:16:13,380
+Okay, that's the part over,
+
+182
+00:16:13,380 --> 00:16:17,620
+and if you chose to listen to audio for that part, you may now resume watching, hopefully.
+
+183
+00:16:27,940 --> 00:16:30,820
+June 2020 was a chaotic month to say the least,
+
+184
+00:16:30,820 --> 00:16:34,180
+for everyone who could possibly be involved in this serpentine story.
+
+185
+00:16:34,180 --> 00:16:37,780
+Despite their strong corporate foundations, Mixer was faltering in views.
+
+186
+00:16:37,780 --> 00:16:41,380
+A March report showed that although livestream viewership had doubled over the year before,
+
+187
+00:16:41,380 --> 00:16:46,740
+Mixer's growth tally at 0.2%, which with their exorbitant financial deals considered,
+
+188
+00:16:46,740 --> 00:16:48,980
+was nothing less than astounding.
+
+189
+00:16:48,980 --> 00:16:50,180
+Astoundingly bad.
+
+190
+00:16:50,180 --> 00:16:54,020
+When June came around, they appeared to be coming to terms with the fact that their platform
+
+191
+00:16:54,020 --> 00:16:57,620
+was not sustainable with its expenditure, and on the 22nd of June,
+
+192
+00:16:57,620 --> 00:16:59,780
+Mixer announced they were shutting down.
+
+193
+00:16:59,780 --> 00:17:01,380
+This should have been great news for Twitch,
+
+194
+00:17:01,380 --> 00:17:04,820
+who could recapture some of their creators who had previously exited the platform.
+
+195
+00:17:04,820 --> 00:17:09,140
+However, this positive news was also being overshadowed by a series of criticism directed
+
+196
+00:17:09,140 --> 00:17:12,740
+at Twitch and prominent gaming figures from female streamers who believe that Twitch's
+
+197
+00:17:12,740 --> 00:17:16,020
+current system enabled misogyny and harassment on the platform,
+
+198
+00:17:16,020 --> 00:17:20,740
+with many female streamers sharing their stories of unsavoury experiences with those in the industry.
+
+199
+00:17:20,740 --> 00:17:23,940
+With the CEO pledging to listen and cooperate in every way possible,
+
+200
+00:17:23,940 --> 00:17:27,540
+it was a pretty challenging time for the platform and the online community as a whole,
+
+201
+00:17:27,540 --> 00:17:31,300
+but all seemed committed to seeing it through, with new policy designed to take permanent
+
+202
+00:17:31,300 --> 00:17:34,340
+action against those who had committed these misdeeds in reference.
+
+203
+00:17:34,340 --> 00:17:38,260
+Earlier in the month, Twitch had also been under pressure following a series of DMCA takedowns
+
+204
+00:17:38,260 --> 00:17:42,180
+issued against a variety of channels relating to copyrighted music being used in streams,
+
+205
+00:17:42,180 --> 00:17:45,780
+and their potential legal liability, with their company's Twitter account posting a
+
+206
+00:17:45,780 --> 00:17:48,180
+statement expressing respect for these laws.
+
+207
+00:17:48,180 --> 00:17:52,340
+Dr Dispect was not someone whose name had been included amongst any of these discussions,
+
+208
+00:17:52,340 --> 00:17:55,700
+and overall there was no controversy surrounding him at this time.
+
+209
+00:17:55,780 --> 00:17:59,140
+In the months before, he had been involved in a few incidents, most notably regarding
+
+210
+00:17:59,140 --> 00:18:02,500
+content he'd shared during the start of COVID that many felt was inaccurate.
+
+211
+00:18:02,500 --> 00:18:06,260
+Needless to say, though, he's not a medical doctor, so most of the time what he said didn't
+
+212
+00:18:06,260 --> 00:18:09,700
+seem to have any staying power outside a few response articles and tweets.
+
+213
+00:18:09,700 --> 00:18:14,180
+Dr Dispect was arguably the last person to have any eyes cast on him at this time.
+
+214
+00:18:14,180 --> 00:18:18,660
+He wasn't a part of any known narratives, he had distanced himself from Mix and other competitors,
+
+215
+00:18:18,660 --> 00:18:23,380
+all while maintaining a steady schedule and viewership on the website that adoringly hosted him.
+
+216
+00:18:23,380 --> 00:18:27,540
+Yet on the 26th of June 2020, all of that seemed to turn on its head.
+
+217
+00:18:35,300 --> 00:18:38,820
+Yes, without even the slightest of warnings, announcements, or messages,
+
+218
+00:18:38,820 --> 00:18:43,620
+Dr Disrespect's Twitch page went dark, and for the first day left people scrambling for an
+
+219
+00:18:43,620 --> 00:18:45,460
+explanation on what exactly happened.
+
+220
+00:18:45,460 --> 00:18:48,340
+Twitch would not comment, and some were questioning whether he'd even been banned
+
+221
+00:18:48,340 --> 00:18:50,100
+because of the lack of commentary around it.
+
+222
+00:18:50,100 --> 00:18:54,260
+The day after, video games journalist Rod Slasher-Breslau claimed that he had been informed
+
+223
+00:18:54,260 --> 00:18:58,660
+as to why the doc had his platform withdrawn, but considered the reasons too legally sensitive
+
+224
+00:18:58,660 --> 00:18:59,940
+to disclose at this point.
+
+225
+00:18:59,940 --> 00:19:04,100
+He was one of the first to break the news of Dr Disrespect's permanent ban, and his background
+
+226
+00:19:04,100 --> 00:19:06,660
+in journalism seemed to give him some authority on the matter.
+
+227
+00:19:06,660 --> 00:19:10,580
+However, he was not the only person to claim to be in the know, though nobody who did seemed
+
+228
+00:19:10,580 --> 00:19:14,820
+interested in sharing this knowledge, making this whole premise somewhat dubious.
+
+229
+00:19:14,820 --> 00:19:18,580
+On the same day, Twitch released a statement to CNN's Shannon Lau stating that they took
+
+230
+00:19:18,580 --> 00:19:23,140
+appropriate action in response to a violation of their community guidelines, as is their
+
+231
+00:19:23,140 --> 00:19:23,620
+process.
+
+232
+00:19:24,180 --> 00:19:27,700
+Not the most believable given their track record, but maybe they had a good reason.
+
+233
+00:19:27,700 --> 00:19:31,540
+However, the day after, the doc himself tweeted that he had been given no reason from Twitch
+
+234
+00:19:31,540 --> 00:19:35,620
+as to why he had been banned, and if Dr Disrespect wasn't going to find out, then there was no
+
+235
+00:19:35,620 --> 00:19:39,700
+chance that any of the wider audiences were going to find out any time soon either.
+
+236
+00:19:39,700 --> 00:19:43,460
+On the same day, Disrespect's final minutes from his last stream on Twitch were uploaded
+
+237
+00:19:43,460 --> 00:19:47,220
+to YouTube, prompting many viewers to comb through to try and find any indication or
+
+238
+00:19:47,220 --> 00:19:48,900
+foreshadowing of the trouble that followed.
+
+239
+00:19:51,060 --> 00:19:54,740
+With that said, I have yet to see someone.
+
+240
+00:19:59,380 --> 00:20:01,140
+That's on my fucking level, baby.
+
+241
+00:20:01,780 --> 00:20:06,020
+Many viewers seem to note that Doc's demeanor visibly altered after the two-minute mark,
+
+242
+00:20:06,020 --> 00:20:09,380
+where he appears to check his phone following what was a presumed notification.
+
+243
+00:20:17,220 --> 00:20:25,460
+So I should just put it on just chatting.
+
+244
+00:20:25,460 --> 00:20:28,100
+I mean, like, I kind of wanted to get off, but now I don't want to get off.
+
+245
+00:20:28,740 --> 00:20:33,220
+He goes on a brief inspirational spiel about his fan base and how they gotta stay resolute,
+
+246
+00:20:33,220 --> 00:20:37,540
+before going off on a tangent about David Icke, a former footballer and commentator turned
+
+247
+00:20:37,540 --> 00:20:41,060
+conspiracy theorist, who advocates for the idea that the world has been taken over by
+
+248
+00:20:41,060 --> 00:20:45,300
+reptilian elites who are veering the world towards a global fascism hell-bent on eliminating
+
+249
+00:20:45,300 --> 00:20:46,260
+all human freedoms.
+
+250
+00:20:46,980 --> 00:20:48,100
+David Icke.
+
+251
+00:20:48,100 --> 00:20:49,220
+Yes, Alex.
+
+252
+00:20:49,220 --> 00:20:51,140
+Yes, I like him.
+
+253
+00:20:53,140 --> 00:20:57,380
+All it allows you to do is just sort of like, you know, allows you to step outside of the
+
+254
+00:20:57,380 --> 00:20:58,340
+box just a little bit.
+
+255
+00:20:59,780 --> 00:21:03,780
+It could recently been censored on a variety of online platforms in response to his claims.
+
+256
+00:21:03,780 --> 00:21:08,740
+However, the Doc vocalizes his admiration of it's outside of the box thinking, a strange
+
+257
+00:21:08,740 --> 00:21:12,740
+turn of discourse, but not completely unfeasible, though,
+
+258
+00:21:13,620 --> 00:21:19,620
+Whether some of the stuff is not true or not, whatever, I think the whole, the whole goal, though, is
+
+259
+00:21:23,060 --> 00:21:24,100
+to wake up!
+
+260
+00:21:29,940 --> 00:21:30,440
+Yeah.
+
+261
+00:21:30,820 --> 00:21:34,820
+Anyhow, someone recommends he play Roblox Hide and Seek next stream in his chat.
+
+262
+00:21:34,820 --> 00:21:39,060
+The Doc seems to pull it up, engage with some YouTube content on it, and maintain a rather
+
+263
+00:21:39,700 --> 00:21:43,380
+stoic expression, only breaking the science to once more promote David Icke.
+
+264
+00:21:43,380 --> 00:21:47,220
+He then appears to break character to talk directly to his fans with more motivational
+
+265
+00:21:47,220 --> 00:21:50,900
+language and acknowledgement of some sort of unspecified challenge in his life.
+
+266
+00:21:52,420 --> 00:21:53,780
+I appreciate everyone watching today.
+
+267
+00:21:53,780 --> 00:21:54,740
+Who is it in the backyard?
+
+268
+00:21:54,740 --> 00:21:56,180
+Who is going to be looking?
+
+269
+00:21:56,180 --> 00:22:00,420
+We'll get through this Champions Club.
+
+270
+00:22:01,380 --> 00:22:04,500
+I know it's a tough, life's weird right now.
+
+271
+00:22:05,700 --> 00:22:08,980
+Who knows what he's exactly referring to, but before we know it, he appears to be in
+
+272
+00:22:09,620 --> 00:22:12,260
+drops a cheeky expletive and cuts the credits in.
+
+273
+00:22:20,420 --> 00:22:24,020
+Unsurprisingly, with a fair bit out of the ordinary going on here, many people began
+
+274
+00:22:24,020 --> 00:22:28,100
+to speculate, some more reasonable, some a little more far-fetched, but it represented
+
+275
+00:22:28,100 --> 00:22:30,340
+the uncertainty in the Doc's world at this moment.
+
+276
+00:22:30,340 --> 00:22:33,780
+He said he didn't know the reason for the ban, but there seems to be some recognition
+
+277
+00:22:33,780 --> 00:22:37,380
+of an obstacle that appears to be troubling him during the stream, and the rather chaotic
+
+278
+00:22:37,380 --> 00:22:41,060
+ending left many wondering if he'd been arrested, or an even worse fate had befallen
+
+279
+00:22:41,060 --> 00:22:44,820
+him, with Twitch being able to act accordingly with whichever authorities requested them
+
+280
+00:22:44,820 --> 00:22:45,140
+to.
+
+281
+00:22:45,140 --> 00:22:48,500
+However, in the days following, no reports were released that corroborated this theory,
+
+282
+00:22:48,500 --> 00:22:51,300
+and Dr Disrespect seemed to be at least alive.
+
+283
+00:22:51,300 --> 00:22:55,220
+However, this didn't provide clarity for those seeking it, and if anyone was expecting
+
+284
+00:22:55,220 --> 00:22:58,420
+a further explanation anytime soon, they were not going to receive it.
+
+285
+00:22:58,420 --> 00:23:02,100
+The permanence of this ban was seemingly confirmed when Twitch refunded viewer's subscription
+
+286
+00:23:02,100 --> 00:23:04,660
+to the Doc's channel, and eliminated his emotes.
+
+287
+00:23:05,220 --> 00:23:09,540
+In the space of a few days, the seas of chaos and controversy seemed to part for this one
+
+288
+00:23:09,540 --> 00:23:12,900
+man, and his unrevealed breach of Twitch's conditions.
+
+289
+00:23:12,900 --> 00:23:16,820
+So much was changing around the Doc in that moment that it was hard to assign a causality
+
+290
+00:23:16,820 --> 00:23:20,900
+to anything clear, and although some had some pretty solid theories, there was a lack of
+
+291
+00:23:20,900 --> 00:23:23,620
+confirmation that planted the seed of uncertainty.
+
+292
+00:23:23,620 --> 00:23:25,700
+Would the silence ever be broken?
+
+293
+00:23:25,700 --> 00:23:27,220
+Well, let's find out.
+
+294
+00:23:27,220 --> 00:23:36,180
+Over the following weeks, there was silence from the parties involved, some articles were
+
+295
+00:23:36,180 --> 00:23:38,820
+published, and some hypotheses shared on the Doc's fate.
+
+296
+00:23:38,820 --> 00:23:42,980
+Yet most of this was hearsay, and with nobody willing to speak on the matter, very little
+
+297
+00:23:42,980 --> 00:23:44,180
+progress was made.
+
+298
+00:23:44,180 --> 00:23:48,500
+How this changed around mid-July, when our friendly PC physician decided to publish a
+
+299
+00:23:48,500 --> 00:23:50,660
+somewhat foreboding trailer onto his Twitter.
+
+300
+00:23:57,220 --> 00:24:17,700
+There's not really too much to read into here, but I think everyone figured that the
+
+301
+00:24:17,700 --> 00:24:19,220
+Doc had unfinished business.
+
+302
+00:24:19,220 --> 00:24:23,700
+On the same day, he granted interviews to both PC Gamer and the Washington Post relating
+
+303
+00:24:23,700 --> 00:24:27,620
+to the state of affairs that concerned his removal and the aftermath, including possible
+
+304
+00:24:27,620 --> 00:24:28,620
+causes of action.
+
+305
+00:24:28,620 --> 00:24:32,540
+In these interviews, disrespect continues to emphasise that he is still none the wiser
+
+306
+00:24:32,540 --> 00:24:36,500
+as to why Twitch terminated his contract, however, he seems reluctant to entertain any
+
+307
+00:24:36,500 --> 00:24:39,300
+theories or provide any further details on his perspective.
+
+308
+00:24:39,300 --> 00:24:43,020
+At one point in the PC Gamer interview, he begins responding to a question about the
+
+309
+00:24:43,020 --> 00:24:47,180
+stream comments that touched on COVID misinformation, however, before he can elaborate on what he
+
+310
+00:24:47,180 --> 00:24:51,380
+thinks, he's interrupted by his publicist who believes they're entering risky territory,
+
+311
+00:24:51,380 --> 00:24:53,180
+and the question is shut down.
+
+312
+00:24:53,180 --> 00:24:56,420
+One of the most significant details revealed in these interviews was that the Doc was seeking
+
+313
+00:24:56,420 --> 00:25:00,460
+counsel for possible legal action, far the reason why he is not particularly forthcoming
+
+314
+00:25:00,460 --> 00:25:03,260
+with many details relating to his ban as of then.
+
+315
+00:25:03,260 --> 00:25:07,100
+One thing he does want to distance himself from is the behaviour in his final stream,
+
+316
+00:25:07,100 --> 00:25:10,820
+affirming that the two incidents are unrelated, and that he was just feeling the pressure
+
+317
+00:25:10,820 --> 00:25:13,020
+from the world around him at that moment.
+
+318
+00:25:13,020 --> 00:25:16,820
+He acknowledges it was a curious coincidence, but assures interviewers that he was genuinely
+
+319
+00:25:16,820 --> 00:25:20,260
+ignorant to what was about to transpire, and that he still is.
+
+320
+00:25:20,260 --> 00:25:23,500
+It's hard to fully take his word at face value, but there isn't really much else
+
+321
+00:25:23,500 --> 00:25:26,820
+to take at this point, so this is the best that most could settle for.
+
+322
+00:25:26,820 --> 00:25:30,420
+There was another lull in developments, with the occasional crypto post here and there.
+
+323
+00:25:30,420 --> 00:25:34,980
+On July 22nd, a few days after the interviews, one of Dr Disrespect's top Discord mods
+
+324
+00:25:34,980 --> 00:25:38,480
+shared an old message which seemed to imply that something was in the works, though no
+
+325
+00:25:38,480 --> 00:25:40,100
+further specifics were provided.
+
+326
+00:25:40,100 --> 00:25:44,780
+Lo and behold though, barely a fortnight later, the prophecies were fulfilled, with a Twitter
+
+327
+00:25:44,780 --> 00:25:47,700
+post from the Doc himself announcing his return.
+
+328
+00:25:47,700 --> 00:25:51,820
+Tomorrow we arrive, with a link to a video uploaded to YouTube.
+
+329
+00:26:17,940 --> 00:26:21,820
+Now with his previous video also being uploaded onto YouTube, some had already thought this
+
+330
+00:26:21,820 --> 00:26:25,940
+would be the platform of choice, but this seemed to confirm it even if it wasn't outwardly
+
+331
+00:26:25,940 --> 00:26:26,940
+stated.
+
+332
+00:26:26,940 --> 00:26:30,620
+The second was a music video accompanying a song by Jplus1, a regular collaborator with
+
+333
+00:26:30,620 --> 00:26:33,220
+the Doc, in which he seems to provide the vocals here.
+
+334
+00:26:33,220 --> 00:26:37,060
+The lyrics include the line, I don't even know why I try anymore, repeated multiple
+
+335
+00:26:37,060 --> 00:26:40,820
+times, and you can't replace me, remarks that seem applicable to Twitch's recent
+
+336
+00:26:40,820 --> 00:26:42,300
+measures taken against him.
+
+337
+00:26:42,300 --> 00:26:46,560
+In this video he's seen in a dark room, looking over an inclement skyline, while serenading
+
+338
+00:26:46,560 --> 00:26:49,760
+the bright lights, reaching out but never quite reaching them.
+
+339
+00:26:49,760 --> 00:26:53,680
+Ok, I'll try not to get too artsy here, but there seems to be a lot of subliminal messages
+
+340
+00:26:53,680 --> 00:26:58,760
+on show, but the most important one was the tweet itself, referring to tomorrow.
+
+341
+00:26:58,760 --> 00:27:02,880
+This was the date set for his grand return, with many anticipating what he might finally
+
+342
+00:27:02,880 --> 00:27:07,320
+reveal now he has a platform once more, albeit a new one.
+
+343
+00:27:07,320 --> 00:27:08,320
+What would he say?
+
+344
+00:27:08,360 --> 00:27:10,360
+We have no idea.
+
+345
+00:27:16,400 --> 00:27:19,440
+And I'm gonna tell you this right now.
+
+346
+00:27:19,440 --> 00:27:27,600
+As far as I'm concerned, we didn't do anything to warrant a ban, let alone how they went
+
+347
+00:27:27,600 --> 00:27:30,040
+about banning us.
+
+348
+00:27:30,040 --> 00:27:35,320
+No communication before, no reaching out, nothing.
+
+349
+00:27:35,320 --> 00:27:36,320
+Boom.
+
+350
+00:27:36,320 --> 00:27:37,320
+Done.
+
+351
+00:27:37,320 --> 00:27:41,040
+Well, nothing particularly new in its core message, that boils down to the fact that
+
+352
+00:27:41,040 --> 00:27:44,560
+he still doesn't know what he has done wrong, and that it had not been communicated to him,
+
+353
+00:27:44,560 --> 00:27:47,720
+but it's certainly a lot more convincing when delivered with the trademark bravado
+
+354
+00:27:47,720 --> 00:27:49,640
+that people had come to know the doc for.
+
+355
+00:27:49,640 --> 00:27:53,000
+He also once more criticises those who have jumped to conclusions on the nature of his
+
+356
+00:27:53,000 --> 00:27:57,780
+ban, expressing understanding that although people may be looking for an answer, sometimes
+
+357
+00:27:57,780 --> 00:28:02,000
+one doesn't come too easily, and that he'd be best left with the professionals for now.
+
+358
+00:28:02,000 --> 00:28:13,880
+The problem is too, there's people in the community that are anxious for an answer.
+
+359
+00:28:13,880 --> 00:28:24,680
+So what that does, it creates a level of urgency and speculation.
+
+360
+00:28:24,680 --> 00:28:26,800
+And I think it's just a fucking cockroach approach.
+
+361
+00:28:26,800 --> 00:28:30,920
+There's big money involved.
+
+362
+00:28:30,920 --> 00:28:37,160
+So let the legal professionals do what they need to do, that's it.
+
+363
+00:28:37,160 --> 00:28:40,440
+Now this is a fair way to close discussion on the matter for the moment, he is a streamer
+
+364
+00:28:40,440 --> 00:28:44,280
+with his own persona to maintain, he can't let this drama be the defining aspect of his
+
+365
+00:28:44,280 --> 00:28:48,080
+long and illustrious career, however, his response is also revealing in the fact that
+
+366
+00:28:48,080 --> 00:28:51,780
+it shows he's still exploring legal options, and clearly believes he may have a strong
+
+367
+00:28:51,780 --> 00:28:55,620
+case to make for himself, provided what he said in that moment is the case, then of course
+
+368
+00:28:55,620 --> 00:28:56,620
+he would.
+
+369
+00:28:56,620 --> 00:29:00,340
+However, I wouldn't be giving the stream it's due credit if I focused on a rather
+
+370
+00:29:00,340 --> 00:29:05,780
+derisory portion of it, let me make this clear, this video is more than that, it's a stone
+
+371
+00:29:05,780 --> 00:29:11,700
+cold statement, you all better pay some fucking attention, because Dr Disrespect was back,
+
+372
+00:29:11,700 --> 00:29:14,420
+and this time he was intent on not going anywhere.
+
+373
+00:29:14,420 --> 00:29:20,700
+I'm gonna stay here and watch him on the screen the whole time, I'm gonna wait right
+
+374
+00:29:20,700 --> 00:29:25,780
+here underneath the fucking staircase, and I'm gonna wait, and I'm gonna screen watch,
+
+375
+00:29:25,780 --> 00:29:29,140
+I'm gonna stare at him, and I'm gonna-
+
+376
+00:29:29,140 --> 00:29:33,300
+With his duration exceeding an entire day, and review counts surpassing seven million,
+
+377
+00:29:33,300 --> 00:29:37,200
+the doc buckled down to some classic gamer antics providing the fans more of what they
+
+378
+00:29:37,200 --> 00:29:41,600
+knew him for, and the bunches of video games, banter, and one-liners to boot.
+
+379
+00:29:41,600 --> 00:29:44,920
+Unfortunately, due to it's protracted length, the video is no longer available to watch
+
+380
+00:29:44,920 --> 00:29:48,660
+in it's entirety, though the doc did upload a little highlight reel for all those who
+
+381
+00:29:48,660 --> 00:29:50,860
+missed the first stage of his new journey.
+
+382
+00:29:50,860 --> 00:29:54,160
+You can also find parts of the stream on other channels that caught it, so you can enjoy
+
+383
+00:29:54,160 --> 00:29:56,040
+the moment one more time.
+
+384
+00:29:56,040 --> 00:30:04,460
+I ain't coming, I ain't coming back.
+
+385
+00:30:04,460 --> 00:30:08,820
+This felt good in many ways for his audience, this was his homecoming, sure, it was a new
+
+386
+00:30:08,820 --> 00:30:13,340
+home, but it was the same furniture, it was a new chapter, yet the same book.
+
+387
+00:30:13,340 --> 00:30:18,180
+Over the year, he grew his view base on YouTube, continuing his collaboration with other creators
+
+388
+00:30:18,180 --> 00:30:22,560
+and studios, even appearing to plan his own entry into the video games market.
+
+389
+00:30:22,560 --> 00:30:26,260
+Everything was progressing fairly smoothly, and the instant the doc described as a speed
+
+390
+00:30:26,260 --> 00:30:32,360
+bump seemed to be firmly in the rear view mirror, and yet, in spite of this, he couldn't
+
+391
+00:30:32,360 --> 00:30:33,360
+stop glancing back.
+
+392
+00:30:33,360 --> 00:30:45,620
+Don't be mistaken, there was a lot to celebrate for members of the Champions Club, however
+
+393
+00:30:45,620 --> 00:30:47,960
+this was also still deeply bittersweet.
+
+394
+00:30:47,960 --> 00:30:51,700
+Although he had found a new platform, the legacy of the past controversy still casts
+
+395
+00:30:51,700 --> 00:30:53,400
+a long and dark shadow.
+
+396
+00:30:53,400 --> 00:30:57,580
+I know nobody's probably gonna shed a tear over the state of his finances, the dude probably
+
+397
+00:30:57,580 --> 00:31:01,980
+does alright for himself, but proportionally speaking, he loves a lot, and a channel.
+
+398
+00:31:01,980 --> 00:31:05,940
+It still holds a lot of emotional value, value that he clearly felt attached to.
+
+399
+00:31:31,980 --> 00:31:38,920
+This was something unprecedented for him, let alone everyone else, and he wanted closure.
+
+400
+00:31:38,920 --> 00:31:40,420
+How was he going to do that?
+
+401
+00:31:40,420 --> 00:31:41,420
+Well…
+
+402
+00:31:41,420 --> 00:31:51,900
+Uh, whether it's obvious or not, the blacklisting, the shadow banning, it's happening, as well
+
+403
+00:31:51,900 --> 00:32:01,580
+as you think we're doing, and I think, again, we're doing well enough, I'll tell you man,
+
+404
+00:32:01,580 --> 00:32:07,240
+it's been extremely disheartening, it's been a rollercoaster of emotion, and it absolutely
+
+405
+00:32:07,240 --> 00:32:08,240
+fucking sucks.
+
+406
+00:32:08,360 --> 00:32:12,520
+Over a year passed since any progress on legal proceedings had been announced, and for some
+
+407
+00:32:12,520 --> 00:32:17,160
+the case had probably gone cold, however in August of 2021, while responding to a question
+
+408
+00:32:17,160 --> 00:32:21,080
+in a fairly casual stream, the doc had some news to impart for his eager viewers.
+
+409
+00:32:21,080 --> 00:32:25,020
+After talking about how his Twitch ban had impacted him, and his business, he revealed
+
+410
+00:32:25,020 --> 00:32:26,920
+some new information regarding his ban.
+
+411
+00:32:26,920 --> 00:32:31,020
+But a lot of people ask me, do you know the reason, yeah, I do know the reason why now,
+
+412
+00:32:31,020 --> 00:32:37,480
+I've known for months now, the reason why, and I'll just say this right now champs,
+
+413
+00:32:37,520 --> 00:32:43,480
+there's a reason why we're suing the fuck out of him, okay?
+
+414
+00:32:43,480 --> 00:32:52,120
+I don't know how else to put it, the amount of damages, and you just don't, nah, nah,
+
+415
+00:32:52,120 --> 00:33:01,720
+um, gotta, I can, I, I, I, anyways.
+
+416
+00:33:01,720 --> 00:33:06,200
+This was the first time that Dr Disrespect publicly stated he knew why he had been banned,
+
+417
+00:33:06,240 --> 00:33:08,560
+alongside the fact that he was taking legal action.
+
+418
+00:33:08,560 --> 00:33:13,000
+It was only a single sentence, but news outlets rushed to cover it with a plethora of postulations
+
+419
+00:33:13,000 --> 00:33:17,560
+about the rationale behind this decision, however if he initiated a lawsuit, one thing
+
+420
+00:33:17,560 --> 00:33:20,640
+was true, he believed he had a case.
+
+421
+00:33:20,640 --> 00:33:22,840
+What did that case constitute?
+
+422
+00:33:22,840 --> 00:33:26,680
+Well my friends, I think it's high time we bring in our resident Twitch expert into
+
+423
+00:33:26,680 --> 00:33:31,560
+this discussion as well, and I know what you're thinking, you have a resident Twitch expert,
+
+424
+00:33:31,560 --> 00:33:33,420
+how come we've never met him?
+
+425
+00:33:33,420 --> 00:33:37,420
+Well he's a hardworking guy, and he's also allowed only one hour of sunlight a week,
+
+426
+00:33:37,420 --> 00:33:41,060
+so if he exceeds that in this video, we'll be having works.
+
+427
+00:33:41,060 --> 00:33:45,500
+Ladies, gentlemen, and all far and wide, allow me to introduce you to my good friend Poutine,
+
+428
+00:33:45,500 --> 00:33:50,340
+who will be looking into Twitch's legal liabilities, and the prospective case our streamer friend
+
+429
+00:33:50,340 --> 00:33:53,420
+possessed, take it away my man.
+
+430
+00:33:53,420 --> 00:33:58,060
+When I first learned about Dr Disrespect's ban, like many others I was baffled, how could
+
+431
+00:33:58,060 --> 00:34:02,120
+Twitch ban one of their biggest creators, and not even tell them why?
+
+432
+00:34:02,120 --> 00:34:06,720
+After a couple years of streaming on Twitch, that answer has become a lot more clear.
+
+433
+00:34:06,720 --> 00:34:11,100
+One thing you need to understand about Twitch is they care a lot about maintaining a professional
+
+434
+00:34:11,100 --> 00:34:12,280
+public image.
+
+435
+00:34:12,280 --> 00:34:16,960
+The last thing Twitch wants is to be seen caught up in some petty drama regarding somebody's
+
+436
+00:34:16,960 --> 00:34:17,960
+ban.
+
+437
+00:34:17,960 --> 00:34:22,680
+As a result, they've created PR and support teams that rival YouTube and how unhelpful
+
+438
+00:34:22,680 --> 00:34:24,080
+and robotic they can be.
+
+439
+00:34:24,080 --> 00:34:28,920
+Their policy when banning streamers, regardless of size or context, is not to make comments
+
+440
+00:34:28,920 --> 00:34:31,560
+of any kind, public or private.
+
+441
+00:34:31,560 --> 00:34:35,640
+This includes giving streamers themselves specific reasons for their ban.
+
+442
+00:34:35,640 --> 00:34:40,040
+For example, Twitch used to send out templates that looked like this whenever somebody got
+
+443
+00:34:40,040 --> 00:34:41,040
+banned.
+
+444
+00:34:41,040 --> 00:34:43,980
+If you were lucky, a vague reason would be given, with a simple link to their community
+
+445
+00:34:43,980 --> 00:34:46,600
+guidelines to, quote, learn more.
+
+446
+00:34:46,600 --> 00:34:50,120
+If you weren't so lucky, sometimes you wouldn't be given a reason at all.
+
+447
+00:34:50,120 --> 00:34:54,960
+The fate of any wrongdoers on the platform is decided by a very small, completely anonymous
+
+448
+00:34:54,960 --> 00:34:58,800
+moderation team, and they have notoriously tight lips.
+
+449
+00:34:59,040 --> 00:35:03,560
+Not being given a reason for his ban wasn't an exception, it was the rule.
+
+450
+00:35:03,560 --> 00:35:07,560
+It feels like every month there's a new streamer getting banned without a clear reason,
+
+451
+00:35:07,560 --> 00:35:12,240
+and beyond making a few tweets, most take this sort of treatment sitting down.
+
+452
+00:35:12,240 --> 00:35:13,840
+But not the doc.
+
+453
+00:35:13,840 --> 00:35:19,000
+He had something so strong it was worth suing a multi-billion dollar company over.
+
+454
+00:35:19,000 --> 00:35:20,000
+What was it?
+
+455
+00:35:20,000 --> 00:35:22,840
+I've spent the past week reading California state law.
+
+456
+00:35:22,840 --> 00:35:25,600
+That is to say, it's not been a very fun week.
+
+457
+00:35:25,600 --> 00:35:27,360
+And I think I've narrowed it down.
+
+458
+00:35:27,360 --> 00:35:32,520
+Before we understand Dr. Disrespect's lawsuit, we first need to understand how Twitch's
+
+459
+00:35:32,520 --> 00:35:33,520
+contracts work.
+
+460
+00:35:33,520 --> 00:35:37,080
+On YouTube, there's one partner program for everybody on the platform.
+
+461
+00:35:37,080 --> 00:35:40,040
+Twitch, on the other hand, has a multi-tiered system.
+
+462
+00:35:40,040 --> 00:35:44,440
+On the lowest levels are affiliates, above them are partners, and above them is a more
+
+463
+00:35:44,440 --> 00:35:48,860
+secretive tier of top creators who have personalized contracts with Twitch.
+
+464
+00:35:48,860 --> 00:35:52,820
+In order to get one of these more exclusive contracts, streamers often negotiate directly
+
+465
+00:35:52,820 --> 00:35:57,120
+with Twitch for things like higher revenue splits and a flat payout for streaming a certain
+
+466
+00:35:57,200 --> 00:35:58,560
+number of hours every month.
+
+467
+00:35:58,560 --> 00:36:02,160
+Dr. Disrespect no doubt had one of these contracts.
+
+468
+00:36:02,160 --> 00:36:06,160
+With that in mind, the first conclusion many people came to regarding the lawsuit was a
+
+469
+00:36:06,160 --> 00:36:08,040
+breach of that contract.
+
+470
+00:36:08,040 --> 00:36:12,080
+Perhaps Twitch had in some way violated the terms of their own contract.
+
+471
+00:36:12,080 --> 00:36:13,920
+Now I'm gonna level with you here.
+
+472
+00:36:13,920 --> 00:36:17,480
+Knowing the specifics of Doc's contract is virtually impossible.
+
+473
+00:36:17,480 --> 00:36:20,360
+Twitch keeps all of their agreements under NDA.
+
+474
+00:36:20,360 --> 00:36:23,560
+But that doesn't mean we have nothing to go off of.
+
+475
+00:36:23,560 --> 00:36:28,680
+Going into 2016, James Varga, better known as Phantom Lord, was on the top of his career.
+
+476
+00:36:28,680 --> 00:36:33,360
+You might not know his name today, but he was once the most followed streamer on Twitch.
+
+477
+00:36:33,360 --> 00:36:37,880
+He would routinely stream himself gambling CSGO skins on several different sites and
+
+478
+00:36:37,880 --> 00:36:38,880
+winning big.
+
+479
+00:36:38,880 --> 00:36:43,320
+Unfortunately for him, it came out that one of these sites was not only rigged in his
+
+480
+00:36:43,320 --> 00:36:45,840
+favor but it was created by him.
+
+481
+00:36:45,840 --> 00:36:49,520
+For Twitch, this was the last straw as he had already violated their terms of service
+
+482
+00:36:49,520 --> 00:36:54,840
+in the past, and I'm guessing the whole running in a legal gambling operation thing
+
+483
+00:36:54,840 --> 00:36:56,840
+probably didn't really help his case.
+
+484
+00:36:56,840 --> 00:37:01,840
+Phantom Lord was banned in July of that year, and two years later in early 2018, Phantom
+
+485
+00:37:01,840 --> 00:37:04,000
+Lord filed a lawsuit against Twitch.
+
+486
+00:37:04,000 --> 00:37:09,440
+He was suing them for violating California's unfair competition laws, breach of contract,
+
+487
+00:37:09,440 --> 00:37:12,320
+and intentional and negligent misrepresentation.
+
+488
+00:37:12,320 --> 00:37:25,000
+Unlike Dr. Disrespect, Phantom Lord claimed he was entitled to millions.
+
+489
+00:37:25,000 --> 00:37:27,800
+We can break down his claims into one of two categories.
+
+490
+00:37:27,800 --> 00:37:32,280
+Twitch violated specific terms of their contract, and Twitch mishandled the ban, causing damages
+
+491
+00:37:32,280 --> 00:37:33,280
+to Phantom Lord.
+
+492
+00:37:33,280 --> 00:37:35,760
+For the first category, the court sided with Phantom Lord.
+
+493
+00:37:35,760 --> 00:37:39,960
+Within his contract was a provision that guaranteed him 30 days notice if Twitch were to ban him.
+
+494
+00:37:39,960 --> 00:37:44,040
+Twitch failed to do this and was ordered to pay just over $20,000 as a result.
+
+495
+00:37:44,040 --> 00:37:47,360
+The second category, however, was a different story altogether.
+
+496
+00:37:47,360 --> 00:37:51,520
+While it was obvious to many in the public why Phantom Lord had been banned, Twitch hadn't
+
+497
+00:37:51,520 --> 00:37:55,000
+explicitly given him a reason until five months afterward.
+
+498
+00:37:55,000 --> 00:37:56,000
+Sound familiar?
+
+499
+00:37:56,000 --> 00:38:00,040
+When he finally got through to a Twitch representative, he was told the ban was the result of fraudulent
+
+500
+00:38:00,040 --> 00:38:04,620
+payments being made to his channel, an allegation that many in the media were already acutely
+
+501
+00:38:04,620 --> 00:38:05,620
+aware of.
+
+502
+00:38:05,620 --> 00:38:09,040
+The reason for his ban was later seemingly changed to reflect the gambling site scam
+
+503
+00:38:09,120 --> 00:38:11,400
+he ran, among other guideline violations.
+
+504
+00:38:11,400 --> 00:38:14,680
+He argues that Twitch misrepresented their terms of service to him, and that by banning
+
+505
+00:38:14,680 --> 00:38:18,400
+him in the manner they did, Twitch's business practices are unfair.
+
+506
+00:38:18,400 --> 00:38:22,340
+The courts agreed with some aspects of his claims, but ultimately sided with Twitch and
+
+507
+00:38:22,340 --> 00:38:25,000
+Phantom Lord was never unbanned.
+
+508
+00:38:25,000 --> 00:38:29,400
+On paper, Phantom Lord came out on top, $20,000 richer.
+
+509
+00:38:29,400 --> 00:38:33,560
+But it's important to point out that this lawsuit lasted for over three years, and it
+
+510
+00:38:33,560 --> 00:38:37,380
+didn't get anywhere near the millions of dollars he claimed he was owed.
+
+511
+00:38:37,380 --> 00:38:41,020
+Given that this case was the closest legal battle to what Dr. Disrespect was about to
+
+512
+00:38:41,020 --> 00:38:45,140
+go through, and Twitch had no doubt changed their contract since, the odds of winning
+
+513
+00:38:45,140 --> 00:38:48,580
+anything substantial must have seemed slim at best.
+
+514
+00:38:48,580 --> 00:38:51,900
+But Doc still had one more ace up his sleeve.
+
+515
+00:38:51,900 --> 00:38:56,480
+You see, when Twitch terminated their contract with Doc, he lost a lot more than just what
+
+516
+00:38:56,480 --> 00:38:58,100
+that contract entailed.
+
+517
+00:38:58,100 --> 00:39:02,220
+Third party sponsors and events immediately backed out of any deals with him, seemingly
+
+518
+00:39:02,220 --> 00:39:06,460
+out of a fear of association, despite not even knowing why he was banned in the first
+
+519
+00:39:06,460 --> 00:39:28,980
+place.
+
+520
+00:39:28,980 --> 00:39:33,740
+Speculation ran wild, and the safest thing for these brands to do was to distance themselves.
+
+521
+00:39:33,740 --> 00:39:36,900
+From the outside looking in, there was a degree of weight to Doc's ban.
+
+522
+00:39:36,900 --> 00:39:40,660
+It seemed so serious that nobody felt comfortable even discussing it.
+
+523
+00:39:40,660 --> 00:39:45,320
+I mean, maybe the reason for the ban was trivial, but none of these brands wanted to stick around
+
+524
+00:39:45,320 --> 00:39:46,320
+and find out.
+
+525
+00:39:46,320 --> 00:39:50,580
+Doc losing these deals in partnerships that were made independently of Twitch as a result
+
+526
+00:39:50,580 --> 00:39:54,180
+of how Twitch handled things seems a bit unfair.
+
+527
+00:39:54,180 --> 00:39:57,460
+But it's more than just unfair, it's illegal.
+
+528
+00:39:57,460 --> 00:40:03,140
+Tort is a category of civil law that focuses on emotional, physical, or economic damages
+
+529
+00:40:03,140 --> 00:40:04,140
+caused.
+
+530
+00:40:04,140 --> 00:40:09,220
+Within this category is something called negligent interference with prospective economic relations.
+
+531
+00:40:09,220 --> 00:40:12,160
+This complete jumble of words was his golden ticket.
+
+532
+00:40:12,160 --> 00:40:16,700
+While simple contract violations got Phantom Lord twenty thousand dollars, this could get
+
+533
+00:40:16,700 --> 00:40:19,020
+Doc a whole lot more.
+
+534
+00:40:19,020 --> 00:40:23,160
+In order to win the lawsuit in California, where Twitch is based, Doc would have to prove
+
+535
+00:40:23,160 --> 00:40:24,160
+eight points.
+
+536
+00:40:24,160 --> 00:40:27,600
+First, that there was a relationship between him and his sponsor, with the possibility
+
+537
+00:40:27,600 --> 00:40:31,940
+of future income, that Twitch knew about this relationship, that Twitch knew Doc's relationship
+
+538
+00:40:31,940 --> 00:40:37,220
+would be damaged if they failed to act with reasonable care, that Twitch did not act with
+
+539
+00:40:37,220 --> 00:40:41,020
+reasonable care, that Twitch engaged in wrongful conduct.
+
+540
+00:40:41,020 --> 00:40:44,740
+This one is a bit of a mystery, but it could be a number of things, from breach of contract
+
+541
+00:40:44,740 --> 00:40:49,620
+to slander or misrepresentation, or any other wrongful act that Twitch might have done towards
+
+542
+00:40:49,620 --> 00:40:51,300
+Doc relating to his ban.
+
+543
+00:40:51,300 --> 00:40:55,540
+That Doc's relationship with his sponsor was actually damaged, and that Doc was economically
+
+544
+00:40:55,540 --> 00:40:56,860
+harmed as a result.
+
+545
+00:40:56,860 --> 00:41:00,460
+It would be easy to argue that Twitch knew about his sponsorships, and knew banning Doc
+
+546
+00:41:00,460 --> 00:41:03,420
+in such a secretive manner would harm those sponsorships.
+
+547
+00:41:03,420 --> 00:41:07,580
+Instead of clarifying the reason for the ban, Twitch allowed theories to run wild.
+
+548
+00:41:07,580 --> 00:41:12,060
+I don't know about you, but to me, this doesn't seem like reasonable care to somebody who
+
+549
+00:41:12,060 --> 00:41:14,100
+was one of their biggest creators.
+
+550
+00:41:14,100 --> 00:41:18,420
+And if the courts agreed, millions of dollars in damages were on the table.
+
+551
+00:41:18,420 --> 00:41:22,540
+In Phantom Lord's case, his lawyers did mention that Twitch caused him serious monetary and
+
+552
+00:41:22,540 --> 00:41:26,860
+reputational damage, but interestingly, they didn't seem to pursue those claims further,
+
+553
+00:41:26,860 --> 00:41:31,060
+possibly because they knew his reputation and job opportunities were already damaged
+
+554
+00:41:31,060 --> 00:41:34,860
+before the ban by countless articles and videos documenting his actions.
+
+555
+00:41:34,860 --> 00:41:38,140
+In short, he burned those bridges just fine without any help from Twitch.
+
+556
+00:41:38,140 --> 00:41:40,900
+The same can't be said for Dr. Disrespect, however.
+
+557
+00:41:40,900 --> 00:41:44,700
+In his case, the ban blindsided both his partners and the public alike.
+
+558
+00:41:44,700 --> 00:41:48,900
+Look, I'll be the first to admit, there's no shortage of reasons to sue somebody in
+
+559
+00:41:48,900 --> 00:41:49,900
+the US.
+
+560
+00:41:49,900 --> 00:41:54,580
+And to be honest with you, Doc could be suing Twitch for pretty much anything, but if Doc
+
+561
+00:41:54,580 --> 00:41:58,740
+had any real chance of getting the millions of dollars he claimed Twitch took from him,
+
+562
+00:41:58,740 --> 00:42:03,060
+it was in this convoluted and wordy section of California law.
+
+563
+00:42:03,060 --> 00:42:05,540
+The road ahead did not look easy for Doc.
+
+564
+00:42:05,540 --> 00:42:09,240
+He was going up against one of the biggest companies in the world, with one of the most
+
+565
+00:42:09,240 --> 00:42:11,380
+well-funded legal teams.
+
+566
+00:42:11,380 --> 00:42:16,460
+Despite this, he was confident, though it remained to be seen if this confidence was
+
+567
+00:42:16,460 --> 00:42:17,460
+misplaced.
+
+568
+00:42:17,460 --> 00:42:23,420
+Wow, what an eloquently spoken chap, only a true genius would have the artistic inspiration
+
+569
+00:42:23,420 --> 00:42:25,220
+to feature them in a video of theirs.
+
+570
+00:42:25,220 --> 00:42:28,300
+Anyhow, I shan't stand on ceremony any further.
+
+571
+00:42:28,300 --> 00:42:32,940
+Regardless of the specifics, Dr. Disrespect believed he had a case, and with the details
+
+572
+00:42:32,940 --> 00:42:37,620
+behind this exclusive contract, it's understandable why he held that belief, but belief is only
+
+573
+00:42:37,620 --> 00:42:39,000
+half the battle.
+
+574
+00:42:39,000 --> 00:42:42,100
+Those looking at his case would need to share his perspective, and when dealing with these
+
+575
+00:42:42,100 --> 00:42:45,580
+online situations, there's often an element of unpredictability.
+
+576
+00:42:45,580 --> 00:42:49,260
+Nevertheless, going into the new year, his resolutions were a bit more ambitious.
+
+577
+00:42:49,260 --> 00:42:53,420
+At the start of this saga, he expressed no intent on returning to Twitch following his
+
+578
+00:42:53,420 --> 00:42:58,720
+ban, however entering 2022, this had changed, with a large payout and a grand return part
+
+579
+00:42:58,720 --> 00:43:00,000
+of his yearly aims.
+
+580
+00:43:00,000 --> 00:43:04,300
+He clearly had an expectation that this lawsuit would yield a favourable result for him, and
+
+581
+00:43:04,300 --> 00:43:08,260
+given the far reaching impact that his rejection had onto his finances, if the grounds for
+
+582
+00:43:08,260 --> 00:43:12,620
+his removal were found to be unfounded, then surely he would be entitled to serious compensation.
+
+583
+00:43:12,620 --> 00:43:16,580
+And we've gotten to such a good point, ladies and gentlemen, Champions Club, we got to such
+
+584
+00:43:16,580 --> 00:43:17,580
+a good point.
+
+585
+00:43:17,580 --> 00:43:24,360
+I mean, I'm talking all cylinders firing, the conscious just feels extremely just incredible.
+
+586
+00:43:24,360 --> 00:43:28,280
+And then to have that taken away from you, and to not know why, and to not know anything
+
+587
+00:43:28,280 --> 00:43:34,200
+about it, not to be told nothing, boom, taken, grabbed, everything we built, all the eggs
+
+588
+00:43:34,200 --> 00:43:36,480
+in one bucket, boom, taken away.
+
+589
+00:43:36,480 --> 00:43:40,520
+The fact that I am here live on YouTube, it's been a fantastic return, I'm telling you,
+
+590
+00:43:40,520 --> 00:43:41,520
+it is.
+
+591
+00:43:41,520 --> 00:43:47,260
+The anxiety levels, it's something that comes in these huge waves, and I'm having a hard
+
+592
+00:43:47,260 --> 00:43:50,340
+time dealing with it, I'll be honest.
+
+593
+00:43:50,340 --> 00:43:53,060
+However, did Twitch have a case to make as well?
+
+594
+00:43:53,060 --> 00:43:56,880
+Dr Disrespect always pushed the boundaries of what was acceptable on the platform, and
+
+595
+00:43:56,880 --> 00:44:00,660
+even if it wasn't their honest reason for banning him, could they refer to these incidents
+
+596
+00:44:00,660 --> 00:44:05,340
+as factors for nullifying a contract, and find loopholes with such a known provocateur?
+
+597
+00:44:05,340 --> 00:44:08,720
+The fact that Twitch weren't just taking it lying down seemed to imply that they also
+
+598
+00:44:08,720 --> 00:44:12,540
+believed they had a case too, but what was the reality?
+
+599
+00:44:12,540 --> 00:44:16,780
+Well after a couple months of further litigation, an announcement was made on behalf of both
+
+600
+00:44:16,780 --> 00:44:18,640
+Dr Disrespect and Twitch.
+
+601
+00:44:18,640 --> 00:44:23,080
+These statements were nearly identical, both conveying that the parties had come to a settlement,
+
+602
+00:44:23,080 --> 00:44:25,900
+although neither of them admit any fault for their part.
+
+603
+00:44:25,900 --> 00:44:30,020
+In a way, this result is not surprising, lawsuits can be lengthy and arduous, incurring great
+
+604
+00:44:30,020 --> 00:44:33,980
+costs for all, and if conditions that each person involved is satisfied with can be agreed
+
+605
+00:44:33,980 --> 00:44:38,060
+upon, then that is nearly always more preferable than rolling the dice in court.
+
+606
+00:44:38,060 --> 00:44:41,800
+However, in a follow up comment to his initial statement, the doc clarifies he will not be
+
+607
+00:44:41,800 --> 00:44:46,440
+returning to Twitch, seemingly contradicting his post a couple months prior.
+
+608
+00:44:46,440 --> 00:44:50,620
+Had anything changed in that time, or was his case not quite as strong as he believed
+
+609
+00:44:50,620 --> 00:44:51,620
+it to be?
+
+610
+00:44:51,620 --> 00:44:55,720
+While it's hard to read too much into it, on the surface, some might assume Dr Disrespect's
+
+611
+00:44:55,720 --> 00:44:58,300
+case wasn't compelling enough for him to follow through on.
+
+612
+00:44:58,300 --> 00:45:02,040
+We know he perceives Twitch as the superior platform for streaming, and as a long term
+
+613
+00:45:02,040 --> 00:45:06,240
+result his return to the platform may have been financially preferable given his impressive
+
+614
+00:45:06,240 --> 00:45:07,240
+viewership.
+
+615
+00:45:07,240 --> 00:45:11,660
+Trudy noted another lawsuit that resulted in a plaintiff victory yielded an amount that
+
+616
+00:45:11,660 --> 00:45:15,500
+probably didn't go particularly far, and although Twitch probably did breach aspects
+
+617
+00:45:15,500 --> 00:45:19,140
+of their contract, this complaint probably wouldn't yield the payout that the doc was
+
+618
+00:45:19,140 --> 00:45:21,280
+hoping for, even if proven.
+
+619
+00:45:21,280 --> 00:45:25,620
+The money was in the implication of Twitch's actions, which is what the doc seemed focused
+
+620
+00:45:25,620 --> 00:45:48,120
+on, however, proving that would have been a
+
+621
+00:45:48,120 --> 00:45:51,720
+greater challenge.
+
+622
+00:45:51,720 --> 00:46:05,800
+As noted, some critics may have viewed the settlement as a reflection of weakness in
+
+623
+00:46:05,800 --> 00:46:10,280
+Dr Disrespect, or his case, after all he was not prepared to follow through with it, and
+
+624
+00:46:10,280 --> 00:46:11,760
+actually acquire the desired result.
+
+625
+00:46:11,760 --> 00:46:15,840
+However, this didn't necessarily reflect a weak case, either it depends on the details
+
+626
+00:46:15,840 --> 00:46:21,080
+and settlement, if the payout offered to him was large enough, he might have just taken
+
+627
+00:46:21,080 --> 00:46:23,080
+that deal and gone its own way.
+
+628
+00:46:23,080 --> 00:46:26,580
+I don't think the doc had a weak case in regards to how Twitch handled their severance
+
+629
+00:46:26,580 --> 00:46:30,520
+of him, they clearly dealt with it poorly, but that wasn't where the money was.
+
+630
+00:46:30,520 --> 00:46:33,920
+The following part is mostly theory, but I think it's worth exploring a little, and
+
+631
+00:46:33,920 --> 00:46:37,500
+it is based on the assumption that what the doc was banned for wasn't quite as shocking
+
+632
+00:46:37,500 --> 00:46:40,000
+as certain figures had suggested it was.
+
+633
+00:46:40,000 --> 00:46:44,120
+I think the greatest financial damage in the doc's mind came in the aftermath, and it's
+
+634
+00:46:44,120 --> 00:46:48,600
+persisting presence on his ability to attend events and garner sponsorships.
+
+635
+00:46:48,600 --> 00:46:51,560
+Anybody who's banned from Twitch is also restricted from attending events for which
+
+636
+00:46:51,560 --> 00:46:55,480
+Twitch may be affiliated with, and appearing on any other creator's Twitch streams.
+
+637
+00:46:55,480 --> 00:46:59,560
+We don't know exactly on what grounds Dr Disrespect sued, but we can estimate that
+
+638
+00:46:59,560 --> 00:47:02,320
+was probably in the domain that Taut allows.
+
+639
+00:47:02,320 --> 00:47:05,760
+Although there are few routes he could have taken, he wasted a decent amount of time to
+
+640
+00:47:05,760 --> 00:47:10,000
+file the lawsuit, despite exploring it from pretty much the onset of his banishment, which
+
+641
+00:47:10,000 --> 00:47:13,760
+would imply that they wanted to let the dust settle, and the upshot to show itself with
+
+642
+00:47:13,760 --> 00:47:14,760
+clarity.
+
+643
+00:47:14,760 --> 00:47:18,680
+At the start, some had considered the additional publicity that he received as actually a positive
+
+644
+00:47:18,680 --> 00:47:22,840
+result given that many people sympathised with his situation, however over time that
+
+645
+00:47:22,840 --> 00:47:27,480
+sympathy faded and the financial ramifications became clear because of how dominant Twitch
+
+646
+00:47:27,480 --> 00:47:29,320
+truly are on the market.
+
+647
+00:47:29,320 --> 00:47:33,800
+I mean there's a reason why Activision doesn't do a Call of Duty partner code, or we don't
+
+648
+00:47:33,800 --> 00:47:37,040
+work directly with Call of Duty, or haven't been.
+
+649
+00:47:37,080 --> 00:47:44,640
+There's so much defamation relating to the ban that we've had to deal with, it's insane.
+
+650
+00:47:44,640 --> 00:47:48,280
+These were strong words, but they were ones that emphasised the damage that Twitch had
+
+651
+00:47:48,280 --> 00:47:52,560
+caused to Dr Disrespect, he needed to drive this home to people, and he was smart about
+
+652
+00:47:52,560 --> 00:47:53,560
+it in many ways.
+
+653
+00:47:53,560 --> 00:47:57,640
+Part of me thinks that Twitch were hoping that the Dr following his ban would have angrily
+
+654
+00:47:57,640 --> 00:48:02,120
+taken to stream and revealed details that would have been detrimental in his court case,
+
+655
+00:48:02,120 --> 00:48:03,120
+but he didn't.
+
+656
+00:48:03,120 --> 00:48:06,640
+In interviews he focused on the damage, but in all the details he spoke about the mental
+
+657
+00:48:06,640 --> 00:48:10,640
+anguish, and although I have no doubt he experienced that, his focus on that was important
+
+658
+00:48:10,640 --> 00:48:14,080
+to drive home the point that Twitch's actions caused visible harm.
+
+659
+00:48:14,080 --> 00:48:18,640
+To me there was little question that Dr Disrespect had proven that Twitch's actions had tangible
+
+660
+00:48:18,640 --> 00:48:23,140
+negative consequences on his mobility in the industry and his own mental state in dealing
+
+661
+00:48:23,140 --> 00:48:25,560
+with the evolving circumstances.
+
+662
+00:48:25,560 --> 00:48:28,800
+Twitch played an undeniable role in this, sure they didn't want to show their hand
+
+663
+00:48:28,800 --> 00:48:32,520
+too soon in case people quickly countered them and undermined their reasoning for the
+
+664
+00:48:32,520 --> 00:48:33,520
+Dr Disrespect ban.
+
+665
+00:48:33,520 --> 00:48:37,640
+However in this case, as Puti noted, beyond their direct involvement with many other companies,
+
+666
+00:48:37,640 --> 00:48:41,120
+their ambiguity prompted uncertainty within brands who would typically partner with our
+
+667
+00:48:41,120 --> 00:48:42,740
+streamer friend in question.
+
+668
+00:48:42,740 --> 00:48:46,700
+When you're a large company, the last thing you want is someone who is an unknown quantity,
+
+669
+00:48:46,700 --> 00:48:49,840
+and for a while Dr Disrespect was just that.
+
+670
+00:48:49,840 --> 00:48:54,320
+Even brands he shared well established relationships with distanced themselves, and although some
+
+671
+00:48:54,320 --> 00:48:58,640
+returned in time, it was demonstrative of how ignorance could be weaponised as much
+
+672
+00:48:58,640 --> 00:49:00,240
+as any form of knowledge.
+
+673
+00:49:00,480 --> 00:49:05,040
+But surely that would depend on whether Dr Disrespect's removal from the platform was justified.
+
+674
+00:49:05,040 --> 00:49:10,080
+Twitch's statement on Dr Disrespect's ban, as in our process, we take appropriate action
+
+675
+00:49:10,080 --> 00:49:14,140
+when we have evidence that a streamer has acted in violation of our community guidelines
+
+676
+00:49:14,140 --> 00:49:15,540
+or terms of service.
+
+677
+00:49:15,540 --> 00:49:19,600
+These apply to all streamers regardless of status or prominence in the community.
+
+678
+00:49:19,600 --> 00:49:20,600
+I suppose.
+
+679
+00:49:20,600 --> 00:49:24,120
+I mean of course if their statement was found to lack sufficient merit then they could have
+
+680
+00:49:24,120 --> 00:49:27,880
+been in hot water, however I'm sure Twitch had considered that and probably assembled
+
+681
+00:49:27,880 --> 00:49:31,320
+a reason that they could defend themselves with in the scenario that the Doc took them
+
+682
+00:49:31,320 --> 00:49:32,320
+to court.
+
+683
+00:49:32,320 --> 00:49:36,180
+Nonetheless, even if they did find a few breaches of contract or guidelines to use against our
+
+684
+00:49:36,180 --> 00:49:39,760
+disrespectful friend, would they be completely in the clear?
+
+685
+00:49:39,760 --> 00:49:43,120
+While you're entering tricky territory, because if he was banned for a justified reason
+
+686
+00:49:43,120 --> 00:49:46,360
+then Twitch's statement on the matter wouldn't necessarily be false.
+
+687
+00:49:46,360 --> 00:49:50,200
+It also depends on their actual reasoning behind the ban, we're going to explore theories
+
+688
+00:49:50,200 --> 00:49:54,200
+very soon, but there are a variety of violations that the Doc could have been banned from Twitch
+
+689
+00:49:54,200 --> 00:49:58,120
+for, yet probably wouldn't have been too affected by in other parts of the community.
+
+690
+00:49:58,120 --> 00:50:02,100
+If they had been revealed, even if they were still fair reasons for Twitch's perspective,
+
+691
+00:50:02,100 --> 00:50:05,100
+he likely would have experienced less impact to his business.
+
+692
+00:50:05,100 --> 00:50:08,640
+In this case, you could feasibly prove that Twitch's failure to disclose any reason had
+
+693
+00:50:08,640 --> 00:50:13,780
+a worse impact than actually disclosing a reason, which included lesser breaches.
+
+694
+00:50:13,780 --> 00:50:15,760
+This is what this is all about.
+
+695
+00:50:15,760 --> 00:50:18,400
+This is the reason Joshua Holcomb was pulled over.
+
+696
+00:50:18,400 --> 00:50:24,660
+New Mexico statute 66-3-846, driving with an obstructed window.
+
+697
+00:50:24,660 --> 00:50:29,640
+This morning I did an informal survey of the courthouse parking lot, and by my count, over
+
+698
+00:50:29,640 --> 00:50:33,920
+a third of the vehicles had something similar hanging from their rear view mirrors.
+
+699
+00:50:33,920 --> 00:50:40,120
+So unless you and 47 of our colleagues have outstanding tickets, I'd argue that this
+
+700
+00:50:40,120 --> 00:50:42,840
+statute is not regularly enforced.
+
+701
+00:50:42,840 --> 00:50:46,640
+I know this isn't the most academic reference, but there's a brief scene in the new season
+
+702
+00:50:46,640 --> 00:50:50,960
+of Better Call Saul, where lawyer Kim Wexler illustrates how attentive law had been selectively
+
+703
+00:50:50,960 --> 00:50:54,000
+applied against one of her clients in a discriminatory fashion.
+
+704
+00:50:54,000 --> 00:50:59,360
+Kim Wexler- Your honor, this was a perfectly reasonable routine stop for cause.
+
+705
+00:50:59,360 --> 00:51:01,200
+This was not routine.
+
+706
+00:51:01,200 --> 00:51:02,540
+Officer Connell knew my client.
+
+707
+00:51:02,540 --> 00:51:06,320
+In fact, he arrested him five years ago, and Officer Connell's record shows that this
+
+708
+00:51:06,320 --> 00:51:10,980
+is only the third citation he's written for this statute in almost 20 years.
+
+709
+00:51:10,980 --> 00:51:16,980
+So either this is an incredible coincidence, or Officer Connell recognized my client and
+
+710
+00:51:16,980 --> 00:51:20,020
+used the dangler as a pretext to violate his fourth amendment rights.
+
+711
+00:51:20,020 --> 00:51:23,920
+So that even if it was technically correct, it's poor enforcement had indulged a culture
+
+712
+00:51:23,920 --> 00:51:25,940
+that normalized that behavior.
+
+713
+00:51:25,940 --> 00:51:29,900
+I think within reason you could easily make the same argument against Twitch.
+
+714
+00:51:29,900 --> 00:51:33,740
+In this case, doctors suspect may have felt he had pretty strong grounds to file a lawsuit,
+
+715
+00:51:33,740 --> 00:51:37,420
+and even if Twitch were happy with their reasoning behind the ban, they may have also been very
+
+716
+00:51:37,420 --> 00:51:41,380
+hesitant to roll the dice in court this time round, because although in previous cases
+
+717
+00:51:41,380 --> 00:51:44,980
+they have probably given viewers enough to go off when working out reasons for a ban,
+
+718
+00:51:44,980 --> 00:51:49,140
+even if not overtly stated, here it was all rather up in the air, particularly given their
+
+719
+00:51:49,140 --> 00:51:53,820
+inconsistent record on actually disciplining other creators, who similarly pushed the envelope.
+
+720
+00:51:53,820 --> 00:51:58,900
+Make no mistake, Dr Disrespect is not your ideal Twitch creator, he's not entirely unproblematic,
+
+721
+00:51:58,900 --> 00:52:02,380
+it wouldn't be particularly difficult to compile a file of all the numerous times he pushed
+
+722
+00:52:02,380 --> 00:52:06,400
+this stick a little too far for some people's liking, yet Twitch's continuous and even
+
+723
+00:52:06,400 --> 00:52:10,840
+renewed consent for his presence on the platform set a standard in his mind that he thought
+
+724
+00:52:10,840 --> 00:52:11,840
+was acceptable.
+
+725
+00:52:11,840 --> 00:52:15,760
+The moments where he was arguably at his most audacious was in many people's minds the
+
+726
+00:52:15,760 --> 00:52:17,800
+moments where he was most in character.
+
+727
+00:52:17,800 --> 00:52:22,260
+The possibility is that Twitch is failure to distinguish that and impose standards consistently
+
+728
+00:52:22,260 --> 00:52:27,000
+could have undermined the solidity of their own guidelines, but why would they do that
+
+729
+00:52:27,000 --> 00:52:29,820
+in the first place?
+
+730
+00:52:29,820 --> 00:52:33,460
+The greatest question that has pervaded this case is why.
+
+731
+00:52:33,460 --> 00:52:35,360
+Why was Dr Disrespect banned?
+
+732
+00:52:35,360 --> 00:52:39,120
+I think we're at a point where we may have to accept that we will never know for certain,
+
+733
+00:52:39,120 --> 00:52:42,360
+and that is the case with a lot of situations, if you're not there, it's hard to exactly
+
+734
+00:52:42,360 --> 00:52:43,360
+know what happened.
+
+735
+00:52:43,360 --> 00:52:46,880
+Nonetheless, it's one of those instances where there isn't really even a vague consensus
+
+736
+00:52:46,880 --> 00:52:51,080
+of what exactly inspired Twitch to take action, theories wildly range from the most severe
+
+737
+00:52:51,080 --> 00:52:55,280
+transgressions to minor and petty motivations that would surprise everyone.
+
+738
+00:52:55,280 --> 00:52:57,880
+Why can't we think of a proper reason and agree on it?
+
+739
+00:52:57,880 --> 00:53:01,120
+Well, I think there are a few factors at play that we can pin down.
+
+740
+00:53:01,120 --> 00:53:05,200
+The first is, and this one's quite obvious, consistency.
+
+741
+00:53:05,200 --> 00:53:09,040
+Twitch's failure to enforce rules consistently didn't just affect creators, but affected
+
+742
+00:53:09,040 --> 00:53:11,480
+an audience understanding of the Twitch rules as well.
+
+743
+00:53:11,480 --> 00:53:15,080
+Unless you're very accustomed with the platform, I'm sure that many people here wouldn't know
+
+744
+00:53:15,080 --> 00:53:19,400
+if some of Dr Disrespect's more irreverent behaviour was even in breach of the rules,
+
+745
+00:53:19,400 --> 00:53:23,260
+and even if we could, we could probably also think of times where people weren't punished
+
+746
+00:53:23,260 --> 00:53:27,080
+for the exact same transgression, if a large majority of creators wouldn't be punished
+
+747
+00:53:27,080 --> 00:53:31,040
+for it, why would a creator as universal as Dr Disrespect be?
+
+748
+00:53:31,040 --> 00:53:34,200
+Other than explaining that the doc was banned for a contravention of the guidelines, the
+
+749
+00:53:34,200 --> 00:53:38,240
+Twitch statement also subtly implies that said guidelines are consistent, whether this
+
+750
+00:53:38,240 --> 00:53:41,240
+was an attempt to try and set the standard that their rules have been applied fairly
+
+751
+00:53:41,240 --> 00:53:44,760
+to try and cover the fact that they were acutely aware that they weren't is not really for
+
+752
+00:53:44,760 --> 00:53:48,700
+me to say, but it's a curious detail that I think is worth observing.
+
+753
+00:53:48,700 --> 00:53:51,920
+We know that Twitch is not the most consistent, but something must have changed in the months
+
+754
+00:53:51,920 --> 00:53:55,560
+running up to the doc's ban that ultimately led to his removal from the platform.
+
+755
+00:53:55,560 --> 00:53:59,300
+Well, as mentioned earlier on in the video, there were some changing circumstances that
+
+756
+00:53:59,300 --> 00:54:02,560
+could have altered Twitch's stance on their creators, Twitch couldn't attribute the
+
+757
+00:54:02,560 --> 00:54:06,360
+changing environment alone to their decision in taking the two time off the platform, however
+
+758
+00:54:06,360 --> 00:54:10,340
+deep down, given everything going on, it felt like it must have played a role.
+
+759
+00:54:10,340 --> 00:54:13,560
+The ongoing discussion surrounding the industry's problem with the treatment of women had led
+
+760
+00:54:13,560 --> 00:54:17,080
+some to draw a connection between the two, but I think the even more significant development
+
+761
+00:54:17,080 --> 00:54:20,400
+was the retreat at Mixer and their aggressive tactics.
+
+762
+00:54:20,400 --> 00:54:23,880
+Now Mixer was never the greatest threat to the market, but the way they went about their
+
+763
+00:54:23,880 --> 00:54:28,960
+business certainly was, and the nature poached large creators if anything disrupted the ecosystem
+
+764
+00:54:28,960 --> 00:54:30,120
+in an unfavourable way.
+
+765
+00:54:30,120 --> 00:54:34,200
+I also think the presence of aggressive competition made Doctor Disrespect one of Twitch's most
+
+766
+00:54:34,200 --> 00:54:38,440
+valuable creators, because he commanded a loyal audience and a unique appeal that would
+
+767
+00:54:38,440 --> 00:54:42,200
+probably follow him to another platform, many of whom subsequently did.
+
+768
+00:54:42,200 --> 00:54:46,480
+Now ultimately, with what we know, he couldn't have been absolutely indispensable, and some
+
+769
+00:54:46,480 --> 00:54:50,440
+may point out the fact that when he left, he actually went to a more competitive platform
+
+770
+00:54:50,440 --> 00:54:54,700
+than Mixer, and I'd say that's a fair point, however his departure at a sensitive time
+
+771
+00:54:54,700 --> 00:54:58,400
+definitely could have swung momentum in a way that other creators failed to do so, a
+
+772
+00:54:58,440 --> 00:55:02,720
+narrative had formed that maybe this was the end of Twitch's market domination, and someone
+
+773
+00:55:02,720 --> 00:55:06,120
+like the Doc going to another platform could have easily fuelled that.
+
+774
+00:55:06,120 --> 00:55:10,040
+In hindsight, even if Mixer's statistics showed they never really posed that much of
+
+775
+00:55:10,040 --> 00:55:14,560
+a menace, their demise allowed Twitch to retain that symbolic stranglehold on the market,
+
+776
+00:55:14,560 --> 00:55:17,200
+allowing them to act with more confidence and ruthlessness.
+
+777
+00:55:17,200 --> 00:55:21,100
+It seems that regardless of the actual reason behind Doctor Disrespect's ban, it was more
+
+778
+00:55:21,100 --> 00:55:25,340
+a result of the evolving circumstances around Twitch, who either felt compelled to do something
+
+779
+00:55:25,340 --> 00:55:28,860
+in that specific moment, or felt like they finally had the freedom to.
+
+780
+00:55:28,860 --> 00:55:33,220
+There is a ton of speculation out there, and that's all it is right now, it's complete
+
+781
+00:55:33,220 --> 00:55:37,080
+and utter speculation, you know, it is the elephant in the room, we have to put it out
+
+782
+00:55:37,080 --> 00:55:42,020
+there, and we also have to say, we just don't know.
+
+783
+00:55:42,020 --> 00:55:45,140
+This meant that when reviewing the case, people didn't really have much of a pattern to
+
+784
+00:55:45,140 --> 00:55:48,340
+work with, they didn't have an established rulebook for Twitch, and they struggled to
+
+785
+00:55:48,340 --> 00:55:52,940
+decipher what about the Doc's behaviour was exceptional in the run up to his ban.
+
+786
+00:55:53,060 --> 00:55:54,060
+WAKE UP!
+
+787
+00:55:58,060 --> 00:56:02,780
+Yeah, sure, his final stream was weird, his behaviour erratic, and narrative rather curious,
+
+788
+00:56:02,780 --> 00:56:06,480
+but it's hard to really read too much into it, the most you could say is that it seems
+
+789
+00:56:06,480 --> 00:56:10,380
+like he found out something, and obviously didn't take it well, whether that information
+
+790
+00:56:10,380 --> 00:56:13,700
+was merely part of the Twitch situation, he wasn't prepared to talk about it, and in
+
+791
+00:56:13,700 --> 00:56:17,980
+this instance, we can't really do much about it, particularly given that it didn't really
+
+792
+00:56:17,980 --> 00:56:22,620
+lead to much directly, he wasn't arrested, he wasn't sued, he was just banned from
+
+793
+00:56:22,620 --> 00:56:25,940
+Twitch, and we still don't know for sure if the two are related, or if the guy was
+
+794
+00:56:25,940 --> 00:56:27,660
+just acting up a bit.
+
+795
+00:56:27,660 --> 00:56:31,500
+There is a further factor to consider when trying to deconstruct audience bemusement,
+
+796
+00:56:31,500 --> 00:56:34,580
+and that being journalism and coverage surrounding the matter.
+
+797
+00:56:34,580 --> 00:56:38,660
+Not too long after his ban, certain seemingly credible sources in the industry stated that
+
+798
+00:56:38,660 --> 00:56:42,380
+they'd been informed as to why the Doc had been banned, with many stating that the reason
+
+799
+00:56:42,380 --> 00:56:46,660
+was really bad, however, if the reason was as serious as they framed it, why would it
+
+800
+00:56:46,660 --> 00:56:50,100
+be left in the dark to the point where he is still essentially operating the way he
+
+801
+00:56:50,100 --> 00:56:51,300
+previously did?
+
+802
+00:56:51,300 --> 00:56:54,660
+Although these people seemed believable in their intent, it was hard to buy it without
+
+803
+00:56:54,660 --> 00:56:55,660
+any accompaniment.
+
+804
+00:56:55,660 --> 00:56:59,180
+And I'm not saying that I think these people were lying when they said they'd been informed
+
+805
+00:56:59,180 --> 00:57:03,040
+of the supposed reason, I think it's very feasible they were told something, but nobody
+
+806
+00:57:03,040 --> 00:57:06,340
+had the confidence in the reason they'd been told to actually say it.
+
+807
+00:57:06,340 --> 00:57:10,140
+Slash himself said he was afraid of a defamation lawsuit, and when it's not your information
+
+808
+00:57:10,140 --> 00:57:11,900
+I can understand that.
+
+809
+00:57:11,900 --> 00:57:15,660
+Nevertheless, defamation is only valid when the claim is false, and therefore it seems
+
+810
+00:57:15,660 --> 00:57:19,220
+that many were aware that there could be an error within this reason, or a lack of
+
+811
+00:57:19,220 --> 00:57:32,940
+supporting evidence to back up these claims if given proper scrutiny.
+
+812
+00:57:32,940 --> 00:57:56,120
+Eventually, many media sources seemed to retreat, saying, well, we're just as confused
+
+813
+00:57:56,120 --> 00:57:58,360
+as you are, and the lead went cold.
+
+814
+00:57:58,360 --> 00:58:02,220
+The focus on something more serious, particularly given the environmental circumstances at the
+
+815
+00:58:02,220 --> 00:58:06,300
+time, served to add to the broad church of theories regarding Dr Disrespect.
+
+816
+00:58:06,300 --> 00:58:09,720
+The final factor, of course, is the fact that neither Twitch nor Dr Disrespect ever even
+
+817
+00:58:09,720 --> 00:58:10,940
+alluded to the reason.
+
+818
+00:58:10,940 --> 00:58:14,980
+The closest we reached was the doc downplaying any in-stream behaviour, and being interrupted
+
+819
+00:58:14,980 --> 00:58:18,940
+by his publicist, but that was supposedly before he was aware of the reason himself.
+
+820
+00:58:18,940 --> 00:58:22,660
+The fact that nobody said a thing implied to viewers that there had to be a benefit
+
+821
+00:58:22,660 --> 00:58:26,820
+to not discussing it, and sure, the legal explanation is pretty comprehensive, and it's
+
+822
+00:58:26,820 --> 00:58:31,540
+possible that part of their as-a-court settlement was an agreement to not disclose this information,
+
+823
+00:58:31,540 --> 00:58:35,380
+and there's that lingering sentiment that surely someone would say something if it was
+
+824
+00:58:35,380 --> 00:58:40,220
+clear cut one way or the other, if it was so serious that the doc had to go, or if it
+
+825
+00:58:40,220 --> 00:58:43,020
+was so serious that the doc had to sue.
+
+826
+00:58:43,020 --> 00:58:47,060
+People have this insatiable desire to find out why, even when the answer isn't in front
+
+827
+00:58:47,060 --> 00:58:51,380
+of us, yet with all the factors considered, so many theories ran amok, and clouded any
+
+828
+00:58:51,380 --> 00:58:55,900
+attempt to really analyse each explanation on the basis of its merits, so why don't we
+
+829
+00:58:55,900 --> 00:58:56,900
+do that now?
+
+830
+00:58:56,900 --> 00:59:05,380
+There are a lot of theories, and obviously we can't cover every individual defining
+
+831
+00:59:05,380 --> 00:59:09,540
+detail that makes each hypothesis unique, however, most of these speculations do share
+
+832
+00:59:09,540 --> 00:59:14,100
+features, and we'll be focusing on the overarching narratives behind them, the arguments in favour,
+
+833
+00:59:14,100 --> 00:59:15,500
+and against their likelihood.
+
+834
+00:59:15,500 --> 00:59:19,020
+As with other parts, this is obviously not a definitive statement, and what actually
+
+835
+00:59:19,020 --> 00:59:22,980
+happened may be completely different to anything we discuss here today.
+
+836
+00:59:23,060 --> 00:59:27,820
+So with that in mind, let's start with the most unexceptional theories, that being Dr Disrespect
+
+837
+00:59:27,820 --> 00:59:32,380
+committed a simple breach of the rules, and Twitch decide to ban him on that basis.
+
+838
+00:59:32,380 --> 00:59:35,300
+How boring, but is it really that improbable?
+
+839
+00:59:52,980 --> 00:59:58,780
+I mean, Dr Disrespect had certainly received a bit of blowback for his statements surrounding
+
+840
+00:59:58,780 --> 01:00:02,900
+Covid, and it certainly indulged some interesting antics, including claiming he had purchased
+
+841
+01:00:02,900 --> 01:00:08,620
+Shungite to combat the alleged radiation from 5G, as advocated by some conspiracy theorists.
+
+842
+01:00:09,620 --> 01:00:14,700
+There's a bigger agenda happening, bigger agenda going on, man.
+
+843
+01:00:14,700 --> 01:00:20,740
+I'm with Elon, I'll just say it, I'm with Elon Musk, like, look at the data, just look
+
+844
+01:00:20,740 --> 01:00:25,160
+at it, man, and we are prolonging something, I gotta stop.
+
+845
+01:00:25,160 --> 01:00:28,900
+Now this can all be interpreted in good humour, but in a time where conspiracy theories were
+
+846
+01:00:28,900 --> 01:00:33,040
+receiving a lot of harsh criticism, particularly given the pandemic, it's completely plausible
+
+847
+01:00:33,040 --> 01:00:36,720
+that some at the top may have been rubbed the wrong way, hell, in his final stream he
+
+848
+01:00:36,720 --> 01:00:40,520
+promotes David Icke, who's mention certainly would have turned a few heads on its own.
+
+849
+01:00:40,520 --> 01:00:44,400
+Twitch had received a bit of flack from media sources for their inaction on conspiracy theories,
+
+850
+01:00:44,400 --> 01:00:46,480
+with Kotaku mentioning the dot by name.
+
+851
+01:00:46,480 --> 01:00:51,360
+It was clear there was a frustration in his behaviour, even if it was part of the character,
+
+852
+01:00:51,360 --> 01:00:55,480
+maybe Twitch decided that they had to take action to send a message to other creators.
+
+853
+01:00:55,480 --> 01:00:58,560
+However, was this even against the community guidelines?
+
+854
+01:00:58,560 --> 01:01:03,040
+Well nowadays it would be, however back in 2020, the community guidelines only covered
+
+855
+01:01:03,040 --> 01:01:07,920
+this on very vague terms, highlighting misinformation as a breach of the guidelines, however not
+
+856
+01:01:07,920 --> 01:01:12,080
+really saying too much about what that misinformation included, in fact the examples they provide
+
+857
+01:01:12,080 --> 01:01:15,840
+point towards misinformation in a different sense, more relating to how you present your
+
+858
+01:01:15,840 --> 01:01:20,120
+channel on the platform, though it does list feigning distress as an example, something
+
+859
+01:01:20,120 --> 01:01:23,040
+that the doc may have been accused of in his final stream.
+
+860
+01:01:23,040 --> 01:01:27,320
+At the same time, how would you prove something like that is feigned beyond a reasonable doubt?
+
+861
+01:01:27,320 --> 01:01:30,000
+Without a confession, there's really no way you could.
+
+862
+01:01:30,000 --> 01:01:31,840
+Would this have been enough to peg the doc?
+
+863
+01:01:31,840 --> 01:01:33,720
+It's possible, but far from definitive.
+
+864
+01:01:33,720 --> 01:01:37,160
+He was far from the only person discussing these theories, and surely if Twitch had merely
+
+865
+01:01:37,160 --> 01:01:40,880
+spoken to him and communicated that they weren't happy with some of his behaviour, he would
+
+866
+01:01:40,880 --> 01:01:42,300
+have changed it accordingly.
+
+867
+01:01:42,300 --> 01:01:46,800
+Many would argue that he committed worse transgressions on the platform and received lesser punishment,
+
+868
+01:01:46,800 --> 01:01:50,240
+and if they were looking to make an example of him, surely they would have emphasised
+
+869
+01:01:50,240 --> 01:01:52,080
+the reason why he was banned.
+
+870
+01:01:52,080 --> 01:01:56,240
+The owners of Twitch, Amazon, have a very sympathetic film on David Icke available on
+
+871
+01:01:56,240 --> 01:01:57,240
+their website.
+
+872
+01:01:57,240 --> 01:02:00,340
+It would seem a little hypocritical to say the least.
+
+873
+01:02:00,340 --> 01:02:04,140
+So although possible, this alone probably would have put them in a bit of a tight spot,
+
+874
+01:02:04,140 --> 01:02:07,580
+and they presumably didn't have too much to gain from it, especially as the spotlight
+
+875
+01:02:07,580 --> 01:02:11,620
+wasn't on the doc at the time, lest we be reminded that despite reaching a settlement
+
+876
+01:02:11,620 --> 01:02:15,900
+the Dr Dispect found satisfactory, it still didn't entail him returning to the platform
+
+877
+01:02:15,900 --> 01:02:18,380
+like he aimed, they did not want him back.
+
+878
+01:02:18,380 --> 01:02:21,780
+Surely a basic breach of the rules was not enough of a motivation on its own.
+
+879
+01:02:21,780 --> 01:02:25,540
+Twitch needed to be looking out for themselves when they took this action, and this is where
+
+880
+01:02:25,540 --> 01:02:26,980
+other theories can be introduced.
+
+881
+01:02:26,980 --> 01:02:35,620
+As noted, the banning of Dr Disrespect followed shortly after the collapse of the competing
+
+882
+01:02:35,620 --> 01:02:40,180
+streaming platform Mixer, many of our duty to Mixer's demise as a factor in the expulsion
+
+883
+01:02:40,180 --> 01:02:41,180
+of the doc.
+
+884
+01:02:41,180 --> 01:02:43,620
+But what if it wasn't just a factor, but the motive?
+
+885
+01:02:43,620 --> 01:03:01,900
+A variety of theories have been expounded on this one, the simpler one suggests that
+
+886
+01:03:01,900 --> 01:03:06,060
+Dr Disrespect had been expected to transfer to Mixer after a deal had been made behind
+
+887
+01:03:06,060 --> 01:03:09,900
+closed doors, and the discontinuation of Mixer had caused this information to be leaked to
+
+888
+01:03:09,900 --> 01:03:13,820
+Twitch executives, who saw this deal as a breach of the contract signed by the doc.
+
+889
+01:03:13,820 --> 01:03:17,660
+A more elaborate theory states that upon hearing about the dire straits faced by the Microsoft
+
+890
+01:03:17,660 --> 01:03:21,700
+owned platform, the prudent minded businessmen approached other large streamers on the website,
+
+891
+01:03:21,700 --> 01:03:25,740
+including Ninja, with the mind to start a new Spotify backstream platform by the name
+
+892
+01:03:25,740 --> 01:03:29,180
+of Brine, which suspiciously resembles Pride.
+
+893
+01:03:29,180 --> 01:03:32,420
+Somehow this made it back to Twitch, and once again they took action against our streamer
+
+894
+01:03:32,420 --> 01:03:33,420
+friend.
+
+895
+01:03:33,420 --> 01:03:36,780
+Another one advocated by some from the community suggests that the doc allegedly lied about
+
+896
+01:03:36,780 --> 01:03:40,800
+offers from Mixer to receive more money from Twitch during contract negotiations, and once
+
+897
+01:03:40,800 --> 01:03:43,900
+more when Mixer shut down, Twitch found out and took action.
+
+898
+01:03:43,900 --> 01:03:46,380
+Are there any merits to these sorts of theories?
+
+899
+01:03:46,380 --> 01:03:50,180
+Well it would certainly give Twitch a stronger motive to ban Dr Disrespect, after all his
+
+900
+01:03:50,180 --> 01:03:53,920
+presence on the platform could have been used as leverage to encourage other creators and
+
+901
+01:03:53,920 --> 01:03:57,700
+viewers to leave Twitch, although it's questionable whether this behaviour would have constituted
+
+902
+01:03:57,700 --> 01:04:02,140
+a breach of the rules, or even an exclusivity contract, they may have felt it more economically
+
+903
+01:04:02,140 --> 01:04:05,540
+viable to ban him as they saw his presence as a liability.
+
+904
+01:04:05,540 --> 01:04:09,220
+Dr Disrespect's ban reduces his mobility in the community at least, and may make it
+
+905
+01:04:09,220 --> 01:04:14,000
+harder for him to set up any sort of competing service, or go anywhere else, there is a long
+
+906
+01:04:14,000 --> 01:04:18,900
+term financial motive here, but is there anything else, or is it just people trying to find
+
+907
+01:04:18,900 --> 01:04:20,620
+a reason when there isn't one?
+
+908
+01:04:20,620 --> 01:04:25,000
+First of all, the Brine theory didn't really seem to take off, mainly because Spotify themselves
+
+909
+01:04:25,000 --> 01:04:29,420
+never seemed interested in launching that sort of service, and its source wasn't particularly
+
+910
+01:04:29,420 --> 01:04:30,420
+strong.
+
+911
+01:04:30,420 --> 01:04:34,060
+Brine as a streaming website did seem to have some credibility, they do have some social
+
+912
+01:04:34,060 --> 01:04:37,820
+pages, but it never really went anywhere, and it's hard to see why the Doc would be
+
+913
+01:04:37,820 --> 01:04:42,000
+related to that, especially as they kept uploading promotional material after he had allegedly
+
+914
+01:04:42,000 --> 01:04:43,000
+moved to YouTube.
+
+915
+01:04:43,000 --> 01:04:47,140
+Dr Disrespect going to Mixer at the end of its lifespan also seems pretty unlikely, the
+
+916
+01:04:47,140 --> 01:04:50,540
+Doc would already explain the problems with that sort of platform, and even if they had
+
+917
+01:04:50,540 --> 01:04:54,460
+approached him when facing its own closure, which seems unlikely in itself, surely there
+
+918
+01:04:54,460 --> 01:04:58,260
+was no way that the Doc would have been able to ignore the signs that this was a company
+
+919
+01:04:58,260 --> 01:05:00,880
+struggling, regardless of how much money they offered him.
+
+920
+01:05:00,880 --> 01:05:03,920
+Probably the most plausible theories out of these is the one where he doesn't actually
+
+921
+01:05:03,920 --> 01:05:09,120
+go anywhere, and he just utilises other supposed offers to haggle a good financial rate, but
+
+922
+01:05:09,120 --> 01:05:11,280
+once again, is that something the Doc would do?
+
+923
+01:05:11,280 --> 01:05:16,240
+It's very hard to say, he was probably being offered a monumental amount of money anyway,
+
+924
+01:05:16,240 --> 01:05:20,000
+was it his time to get greedy, and would Twitch have really been gullible enough to believe
+
+925
+01:05:20,000 --> 01:05:23,280
+a struggling company was offering big bucks?
+
+926
+01:05:23,280 --> 01:05:27,080
+But alright, maybe we don't know the platform he was considering, but maybe he was just
+
+927
+01:05:27,080 --> 01:05:29,800
+considering a move of sorts that annoyed Twitch.
+
+928
+01:05:29,840 --> 01:05:34,040
+Well, I suppose, but the dude seemed genuinely happy at the platform, and didn't seem like
+
+929
+01:05:34,040 --> 01:05:35,520
+he wanted to upset that.
+
+930
+01:05:35,520 --> 01:05:39,800
+I know you gotta put on a persona, but even if this explanation gave Twitch a motive,
+
+931
+01:05:39,800 --> 01:05:44,840
+it didn't really give Dr Disrespect one, why would he go to any other platform unless
+
+932
+01:05:44,840 --> 01:05:45,800
+he was forced?
+
+933
+01:05:55,800 --> 01:05:59,480
+We've spoken a lot about the reasons that Twitch may have to ban Dr Disrespect, and
+
+934
+01:05:59,480 --> 01:06:03,440
+many of them have and will harp on some sort of social motive, some sort of misconduct
+
+935
+01:06:03,440 --> 01:06:07,280
+that causes them to take action, however what if the motive was purely financial?
+
+936
+01:06:07,280 --> 01:06:08,280
+Is it possible?
+
+937
+01:06:08,280 --> 01:06:11,840
+Well as we know Mixer just shut down, and the Doc had been given a very sizable offer
+
+938
+01:06:11,840 --> 01:06:15,640
+to stay on the platform a few months prior, however with Mixer's closure, the newfound
+
+939
+01:06:15,640 --> 01:06:19,920
+availability of other large creators, and the decreased competitiveness of the market,
+
+940
+01:06:19,920 --> 01:06:24,560
+could Twitch release a few bags by cutting ties with one of their most expensive investments,
+
+941
+01:06:24,560 --> 01:06:28,480
+claiming he'd reached terms and conditions, and nullifying a pricey contract?
+
+942
+01:06:28,480 --> 01:06:31,640
+Some have suggested that Twitch couldn't afford creators like Shroud or Ninja if they
+
+943
+01:06:31,640 --> 01:06:35,320
+had retained the services of Dr Disrespect, however I don't think it would be the case
+
+944
+01:06:35,320 --> 01:06:39,800
+of couldn't in this scenario, it's more likely to be a case of wouldn't, but would
+
+945
+01:06:39,800 --> 01:06:40,800
+they?
+
+946
+01:06:40,800 --> 01:06:44,480
+On one hand this theory fits into the established timeline rather neatly, and would provide
+
+947
+01:06:44,480 --> 01:06:48,800
+a clear incentive for his removal, and the Doc's subsequent reaction and lawsuit, however
+
+948
+01:06:48,800 --> 01:06:52,520
+there are also uncertainties, with the litigation considered, was it really that profitable
+
+949
+01:06:52,520 --> 01:06:53,520
+a move for Twitch?
+
+950
+01:06:53,520 --> 01:06:57,340
+Would it really have been so troublesome to see out a contract and retain a high profile
+
+951
+01:06:57,340 --> 01:07:01,020
+figure who drew viewers, and why wouldn't they let him back on the platform despite
+
+952
+01:07:01,020 --> 01:07:02,560
+offering a payout?
+
+953
+01:07:02,560 --> 01:07:06,160
+Surely there had to be a greater motive than breaking an undesirable contract with a creator
+
+954
+01:07:06,160 --> 01:07:09,380
+whose longevity has outlasted many of his contemporaries?
+
+955
+01:07:09,380 --> 01:07:13,500
+Well let's entertain those now, as we know Twitch was having a bit of an image crisis
+
+956
+01:07:13,500 --> 01:07:16,820
+around this time, particularly with how they were presented in the media, and how some
+
+957
+01:07:16,820 --> 01:07:21,000
+of their industry executives have been caught behaving, I think the phrase toxic masculinity
+
+958
+01:07:21,000 --> 01:07:24,920
+might come to the lips of some when analysing the culture that have prevailed for a long
+
+959
+01:07:24,920 --> 01:07:28,360
+time, dotted disrespect had not been at the centre of the public conscience regarding
+
+960
+01:07:28,360 --> 01:07:32,520
+this controversy, and maybe he had no reason to be, but in many ways his behaviour did
+
+961
+01:07:32,520 --> 01:07:36,400
+offend the sensibilities of some around him, Twitch clearly wanted to pride themselves
+
+962
+01:07:36,400 --> 01:07:40,480
+on being a safer space for creators, and to distance themselves from the traditional image
+
+963
+01:07:40,480 --> 01:07:41,700
+of the toxic gamer.
+
+964
+01:07:41,700 --> 01:07:45,320
+We had this discussion earlier with Ninja, who left the platform and subsequently criticised
+
+965
+01:07:45,320 --> 01:07:49,360
+its toxicity, like himself, a lot of people who may have been associated with that image
+
+966
+01:07:49,360 --> 01:07:53,280
+had distanced themselves since, and even come to attack it, with large streams like Ninja
+
+967
+01:07:53,280 --> 01:07:57,720
+becoming available again from Mix's demise, was this the perfect time for Twitch to revamp
+
+968
+01:07:57,720 --> 01:07:58,720
+their own reputation?
+
+969
+01:07:58,720 --> 01:08:02,880
+I'm talking a lot, this chubby cheeks, 13 year old bratty attitude because his parents
+
+970
+01:08:02,880 --> 01:08:08,680
+never disciplined him type of mind frame, it's chatting it up in the chat, uh, I'd like
+
+971
+01:08:08,680 --> 01:08:11,200
+to see, where's your top 10?
+
+972
+01:08:11,200 --> 01:08:13,520
+You haven't even gotten a victory!
+
+973
+01:08:13,520 --> 01:08:18,280
+Ugly kid, let's go through your little specs here, outdated, outdated, everything about
+
+974
+01:08:18,280 --> 01:08:19,800
+your life is outdated.
+
+975
+01:08:19,840 --> 01:08:25,240
+No one's following your channel, it's horrible, your graphics, terrible, Jacob, your name,
+
+976
+01:08:25,240 --> 01:08:29,260
+misspelled your own name, you can't even spell your own name.
+
+977
+01:08:29,260 --> 01:08:30,260
+Get out of my face.
+
+978
+01:08:30,260 --> 01:08:34,760
+Dr Dispat was, in many senses, a trash talking villainess character who was all kitted out
+
+979
+01:08:34,760 --> 01:08:39,080
+to ruin some kid's day, and that was part of his appeal, but as we know, it made him
+
+980
+01:08:39,080 --> 01:08:43,140
+a very contentious character point, who probably made his fair share of enemies.
+
+981
+01:08:43,140 --> 01:08:47,440
+It's very possible that Twitch had some reservations regarding his behaviour, and even if he wasn't
+
+982
+01:08:47,440 --> 01:08:50,840
+directly breaching the guidelines, there was something immutable about his brand that
+
+983
+01:08:50,840 --> 01:08:54,240
+conflicted with the sort of platform that Twitch was aspiring to be, and the people
+
+984
+01:08:54,240 --> 01:08:55,760
+they were hoping to attract.
+
+985
+01:08:55,760 --> 01:08:59,400
+All it took was a couple of those enemies to have the right opportunity to pounce and
+
+986
+01:08:59,400 --> 01:09:03,520
+make a case for his removal from the platform, not for any specific reason, but because he
+
+987
+01:09:03,520 --> 01:09:08,280
+represented a bygone era for them, a generation of gamers that didn't create a welcoming environment
+
+988
+01:09:08,280 --> 01:09:10,280
+for those that Twitch wanted to appeal to.
+
+989
+01:09:10,280 --> 01:09:14,520
+The only reason he had been kept on was because Mix and other platforms had been placing pressure
+
+990
+01:09:14,520 --> 01:09:18,120
+on Twitch to retain him as a draw for viewing numbers, but once that pressure was gone,
+
+991
+01:09:18,120 --> 01:09:22,640
+they could finally take action in shaping the market the way they wanted to, and Dr Disrespect
+
+992
+01:09:22,640 --> 01:09:24,760
+was that vision's sacrificial lamb.
+
+993
+01:09:24,760 --> 01:09:26,480
+Is there anything to support this theory?
+
+994
+01:09:26,480 --> 01:09:30,040
+While it would certainly explain why Twitch were highly vague in their explanation, and
+
+995
+01:09:30,040 --> 01:09:34,260
+why Dr Disrespect believed in his case enough to initiate a lawsuit against the platform,
+
+996
+01:09:34,260 --> 01:09:37,720
+it would provide an underlying motive for the streaming platform's decision, one that
+
+997
+01:09:37,720 --> 01:09:41,800
+could to them have a long term benefit, while fitting in with the broadly held idea that
+
+998
+01:09:41,800 --> 01:09:45,680
+the doctor in the house hadn't committed any major malfeasances, or serious breaches
+
+999
+01:09:45,680 --> 01:09:46,680
+of a contract.
+
+1000
+01:09:46,680 --> 01:09:49,920
+It would explain why Twitch didn't want him back on the platform, in spite of offering
+
+1001
+01:09:49,920 --> 01:09:53,560
+a settlement that he felt was susceptible, implying that they perhaps had a bit of doubt
+
+1002
+01:09:53,560 --> 01:09:55,320
+in the reasoning behind their case.
+
+1003
+01:09:55,320 --> 01:09:59,240
+It would also clarify why they really couldn't confront him about it, or ask him to tune
+
+1004
+01:09:59,240 --> 01:10:03,120
+it down, because it would be fundamentally opposed to who he is as a persona.
+
+1005
+01:10:03,120 --> 01:10:07,100
+Still, that's a lot for Twitch to gamble on without any actual incident to instigate a
+
+1006
+01:10:07,100 --> 01:10:11,380
+measure with a creator who was signed for a long term multi-million dollar deal.
+
+1007
+01:10:11,380 --> 01:10:12,900
+Would it really be worth it?
+
+1008
+01:10:12,900 --> 01:10:16,560
+Although Dr Disrespect was certainly a more controversial large creator than most, his
+
+1009
+01:10:16,560 --> 01:10:20,400
+behaviour still didn't really approach the boundary of exceptional, and in a time where
+
+1010
+01:10:20,400 --> 01:10:24,640
+all eyes were basically on anyone else but him, it would be a peculiar moment to begin
+
+1011
+01:10:24,640 --> 01:10:29,420
+working on your image by banning someone who was seemingly unrelated to the present controversies.
+
+1012
+01:10:29,420 --> 01:10:33,300
+With that said, there was always the possibility that Twitch banned Dr Disrespect to distract
+
+1013
+01:10:33,300 --> 01:10:36,640
+from the controversies they were dealing with, but once again, surely there would be a less
+
+1014
+01:10:36,640 --> 01:10:40,380
+costly way to deflect attention than banning one of your most popular creators.
+
+1015
+01:10:40,380 --> 01:10:43,700
+I think the main problem with this theory is that it's one that is built around what
+
+1016
+01:10:43,700 --> 01:10:47,280
+we don't know rather than what we do know, and although it could fit nicely in with some
+
+1017
+01:10:47,280 --> 01:10:51,800
+of the black boxes of information, it can never really be the only option, particularly
+
+1018
+01:10:51,800 --> 01:10:55,360
+when those black boxes are so broad that they yield multiple different theories.
+
+1019
+01:10:55,360 --> 01:10:57,240
+What could be more substantial than this?
+
+1020
+01:10:57,240 --> 01:11:02,440
+I can confirm with my sources that it is a permanent ban, and I can confirm that it is
+
+1021
+01:11:02,440 --> 01:11:11,260
+not DMCA, but I do not have any information on what it is, other than it's pretty serious.
+
+1022
+01:11:11,260 --> 01:11:14,940
+Well, I suppose there is one more theory, which is the elephant in the room, and that
+
+1023
+01:11:14,940 --> 01:11:19,160
+is that obviously Dr Disrespect was alleged to have done something so serious that Twitch
+
+1024
+01:11:19,160 --> 01:11:22,860
+could no longer ignore it, and had to take action against it, or else they could have
+
+1025
+01:11:22,860 --> 01:11:24,820
+faced serious repercussions themselves.
+
+1026
+01:11:24,820 --> 01:11:26,740
+Do we know what Dr Disrespect would have done?
+
+1027
+01:11:26,740 --> 01:11:31,540
+No, and honestly, when it comes to more serious matters, I feel uneasy even speculating, but
+
+1028
+01:11:31,540 --> 01:11:35,440
+we know that some who claim to know thought it was too serious to even mention, so there
+
+1029
+01:11:35,440 --> 01:11:38,180
+must have been some possible legal implications.
+
+1030
+01:11:38,180 --> 01:11:39,680
+What does this story say then?
+
+1031
+01:11:39,680 --> 01:11:43,400
+Well, Twitch uncovered something, or informed us something, they couldn't take it public
+
+1032
+01:11:43,400 --> 01:11:46,960
+because of those exact reasons themselves, and they didn't want to put themselves in
+
+1033
+01:11:46,960 --> 01:11:51,240
+the firing line or jeopardise a possible investigation, however, with the knowledge they had, they
+
+1034
+01:11:51,240 --> 01:11:54,600
+needed to take action so that person wasn't present on their platform.
+
+1035
+01:11:54,600 --> 01:11:59,140
+Assumedly, in their mind, this person posed a present threat to other users on the platform,
+
+1036
+01:11:59,140 --> 01:12:02,860
+maybe the medium he was operating over was through these networks, and Twitch believed
+
+1037
+01:12:02,860 --> 01:12:05,280
+it to be their duty to cut those networks off.
+
+1038
+01:12:05,280 --> 01:12:08,540
+Additionally, with the recent criticism that they've been receiving of an action where
+
+1039
+01:12:08,540 --> 01:12:12,740
+severe misconduct was present, it would have reflected very poorly on them if information
+
+1040
+01:12:12,740 --> 01:12:16,740
+was released that showed they were aware of the wrongdoings taking place, and had subsequently
+
+1041
+01:12:16,740 --> 01:12:17,740
+done nothing.
+
+1042
+01:12:17,740 --> 01:12:21,720
+I'll add that this doesn't mean Dr Disrespect has done anything criminal, maybe he was completely
+
+1043
+01:12:21,720 --> 01:12:25,200
+innocent of whatever he'd been accused of, but given the external pressure and tense
+
+1044
+01:12:25,200 --> 01:12:28,820
+environment, Twitch felt compelled to act, as reluctant as they were to ban one of their
+
+1045
+01:12:28,820 --> 01:12:33,140
+largest most recognisable names, maybe the risk of doing nothing was just too great for
+
+1046
+01:12:33,140 --> 01:12:36,180
+them to roll the dice with, there was really no other option for them.
+
+1047
+01:12:36,180 --> 01:12:37,700
+What can be said in this story's favour?
+
+1048
+01:12:37,700 --> 01:12:41,360
+Well, I suppose the first thing to note was obviously the claim that some names in the
+
+1049
+01:12:41,360 --> 01:12:45,060
+industry corroborated this theory, and made public statements that seemed to imply that
+
+1050
+01:12:45,060 --> 01:12:46,540
+something serious had occurred.
+
+1051
+01:12:46,540 --> 01:12:50,900
+It provides a rationale behind Twitch's behaviour and both parties' reluctance to speak about
+
+1052
+01:12:50,900 --> 01:12:55,500
+the actual reason, as whether true or false could affect either credibility or culpability.
+
+1053
+01:12:55,500 --> 01:12:58,620
+It would explain some of the brand reactions if they'd been informed of the reason for
+
+1054
+01:12:58,620 --> 01:13:02,980
+his ban, and would explain why he has struggled to obtain contracts for any other large platform
+
+1055
+01:13:02,980 --> 01:13:04,060
+as far as we know.
+
+1056
+01:13:04,060 --> 01:13:07,900
+That sort of information may be considered privileged, and it may explain why we don't
+
+1057
+01:13:07,900 --> 01:13:11,940
+know, but surely if this was the case, we would have heard something, or at least we
+
+1058
+01:13:11,940 --> 01:13:13,380
+should have heard something.
+
+1059
+01:13:13,380 --> 01:13:16,700
+Twitch didn't just unpartner Dr Disrespect, they deplatformed him.
+
+1060
+01:13:16,700 --> 01:13:21,040
+A few days before Dr Disrespect launched on YouTube, Slash reported that although YouTube
+
+1061
+01:13:21,040 --> 01:13:24,740
+would not stop the doc from streaming on his platform, they wouldn't be signing any deals
+
+1062
+01:13:24,740 --> 01:13:27,300
+with him, as if that was some sort of point against him.
+
+1063
+01:13:27,300 --> 01:13:32,620
+I have seen no evidence, I have investigated fully, there's a possibility of him going
+
+1064
+01:13:32,620 --> 01:13:38,740
+to another platform, okay, YouTube is out, they have not been in any discussions with
+
+1065
+01:13:38,740 --> 01:13:39,740
+Dr Disrespect.
+
+1066
+01:13:39,740 --> 01:13:47,740
+We started 11 years ago here on YouTube, and boy oh boy oh boy does it feel good to be
+
+1067
+01:13:47,740 --> 01:13:48,740
+back.
+
+1068
+01:13:48,740 --> 01:13:52,020
+The dude has still done well for himself in spite of YouTube's occasionally sub-passed
+
+1069
+01:13:52,020 --> 01:13:53,020
+streaming system.
+
+1070
+01:13:53,020 --> 01:13:55,560
+He has a fully monetised channel with 4 million subscribers.
+
+1071
+01:13:55,560 --> 01:13:58,720
+Some would look at this and conclude that what he did couldn't have been that heinous
+
+1072
+01:13:58,720 --> 01:14:02,400
+because he still had the opportunity to succeed elsewhere in the industry.
+
+1073
+01:14:02,400 --> 01:14:05,960
+Many would also note that Disrespect took Twitch to court over this, and although criminals
+
+1074
+01:14:05,960 --> 01:14:09,980
+have certainly made bolder moves, for someone whose public reputation is so integral to
+
+1075
+01:14:09,980 --> 01:14:13,960
+his work, it would be surprising for him to put that at stake on a court case, which could
+
+1076
+01:14:13,960 --> 01:14:16,760
+have exposed him when he could have just as easily moved on.
+
+1077
+01:14:16,760 --> 01:14:21,120
+It seems this theory of serious malfeasance seemed the most plausible at first, but as
+
+1078
+01:14:21,120 --> 01:14:25,720
+time passed it began to appear a little doubtful, though it's fair to say, not impossible.
+
+1079
+01:14:25,720 --> 01:14:30,280
+However, not impossible isn't really the level of certainty we want to operate on,
+
+1080
+01:14:30,280 --> 01:14:33,560
+but I ask you now, do we have any other option?
+
+1081
+01:14:33,560 --> 01:14:43,280
+As I said earlier, the truth may be completely unrelated to all the theories we've discussed
+
+1082
+01:14:43,280 --> 01:14:44,280
+today.
+
+1083
+01:14:44,280 --> 01:14:47,120
+There are many variables in a case like this that it's too hard to account for every
+
+1084
+01:14:47,120 --> 01:14:51,840
+single one, but judging previous cases, general human behaviour, and the nature of many of
+
+1085
+01:14:51,840 --> 01:14:55,480
+these large corporations, these hypotheses seem to be the most popular.
+
+1086
+01:14:55,480 --> 01:15:00,280
+Each one has their individual merit and logic behind it, yet there's a negative relationship
+
+1087
+01:15:00,280 --> 01:15:02,240
+within each of the theories.
+
+1088
+01:15:02,240 --> 01:15:06,460
+That being, the theories that give more reason behind Twitch's behaviour give less reason
+
+1089
+01:15:06,460 --> 01:15:08,500
+behind Dr Disrespect's behaviour.
+
+1090
+01:15:08,500 --> 01:15:12,000
+The alternative streaming platform theory is probably the most believable in regards
+
+1091
+01:15:12,000 --> 01:15:16,320
+to how Twitch would act, but it seems really out of character for Dr Disrespect to do anything
+
+1092
+01:15:16,320 --> 01:15:17,320
+like that.
+
+1093
+01:15:17,320 --> 01:15:21,600
+Although we do have clear evidence of Dr Disrespect leaning into conspiracy theories, there's
+
+1094
+01:15:21,600 --> 01:15:26,240
+no real evidence of Twitch ever taking action against it in the past, and no reason to not
+
+1095
+01:15:26,240 --> 01:15:28,880
+just approach him and tell him to cut it out.
+
+1096
+01:15:28,880 --> 01:15:32,440
+Over time, I think many have tended towards those theories that are more sympathetic to
+
+1097
+01:15:32,440 --> 01:15:36,780
+the Doc, not just because of the actual evolving facts surrounding the case, but because they
+
+1098
+01:15:36,780 --> 01:15:39,860
+want to believe that the guy genuinely didn't do anything wrong.
+
+1099
+01:15:39,860 --> 01:15:43,600
+They saw someone who had been singled out by a platform for a reason that they never
+
+1100
+01:15:43,600 --> 01:15:57,600
+explained and suffered consequences for being himself, and it's understandable to be honest,
+
+1101
+01:15:57,600 --> 01:16:01,840
+because one of the more thought-provoking questions I'd say is who or how Twitch actually
+
+1102
+01:16:01,840 --> 01:16:03,200
+helped by doing this.
+
+1103
+01:16:03,200 --> 01:16:06,400
+Obviously, on the surface, Twitch didn't really help themselves, they lost a creative
+
+1104
+01:16:06,400 --> 01:16:10,920
+brought in revenue and viewers, and was subjected to a lawsuit, certainly didn't help Dr Disrespect
+
+1105
+01:16:10,920 --> 01:16:14,900
+who felt so aggrieved he initiated the lawsuit in the first place, and although it did lead
+
+1106
+01:16:14,900 --> 01:16:18,800
+to some hijinks, I don't really think fans found the drama particularly gratifying.
+
+1107
+01:16:18,800 --> 01:16:23,360
+If Twitch's aim was to protect any particular party, they haven't really done much either,
+
+1108
+01:16:23,360 --> 01:16:27,140
+sure they've covered their own asses, but the dude just went to another platform and
+
+1109
+01:16:27,140 --> 01:16:31,280
+still possesses enough power to hold tournaments and attend events, even if the opportunities
+
+1110
+01:16:31,280 --> 01:16:32,520
+aren't quite as vast.
+
+1111
+01:16:32,520 --> 01:16:37,220
+If it ever did come out that Dr Disrespect had been behaving, dare I say it, less than
+
+1112
+01:16:37,220 --> 01:16:40,880
+respectfully, would Twitch be completely in the clear for how they handled it?
+
+1113
+01:16:40,880 --> 01:16:44,160
+I have a hunch that they wouldn't be, early on there were some viewers who believed this
+
+1114
+01:16:44,160 --> 01:16:49,480
+was all a large ruse for a new era of Dr Disrespect, I don't think many people are of that school
+
+1115
+01:16:49,480 --> 01:16:54,680
+of thought anymore, but sometimes it just seems like the only remotely plausible explanation
+
+1116
+01:16:54,680 --> 01:16:58,880
+because it's just so hard to make sense of it otherwise, it's hard to find an explanation
+
+1117
+01:16:58,880 --> 01:17:02,000
+that rationalises the behaviour of everyone involved.
+
+1118
+01:17:02,000 --> 01:17:05,920
+I often find myself returning to the question of Twitch's image, as that's the only
+
+1119
+01:17:05,920 --> 01:17:07,460
+real motive that I can find.
+
+1120
+01:17:07,460 --> 01:17:12,380
+By running such a secretive and often partisan system, Twitch set no real standard of conduct,
+
+1121
+01:17:12,380 --> 01:17:16,100
+the only thing that often seemed consistent was the fact that larger creators did receive
+
+1122
+01:17:16,100 --> 01:17:19,820
+better treatment than small creators, but the disappearance of Dr Disrespect seemed
+
+1123
+01:17:19,820 --> 01:17:23,740
+to spit in the face of that belief, leading many to conclude that it must have been truly
+
+1124
+01:17:23,740 --> 01:17:28,380
+exceptional behaviour, but maybe Twitch saw an opportunity in image revamp, under pressure
+
+1125
+01:17:28,380 --> 01:17:32,220
+from a variety of media sources who all seemed to have the same grievance with him, this
+
+1126
+01:17:32,220 --> 01:17:36,380
+was their statement to say that they weren't complete pushovers, but would it have really
+
+1127
+01:17:36,380 --> 01:17:37,380
+worked?
+
+1128
+01:17:37,420 --> 01:17:39,140
+Well, I don't think so.
+
+1129
+01:17:39,140 --> 01:17:42,780
+Twitch still finds itself in and out of the spotlight for the decisions they take, they're
+
+1130
+01:17:42,780 --> 01:17:46,300
+still accused of employing double standards for their preferred creators, and it's hard
+
+1131
+01:17:46,300 --> 01:17:49,980
+to make the case that the atmosphere on the platform has changed since the Doc's departure.
+
+1132
+01:17:49,980 --> 01:17:54,100
+It's really hard to say if the Doc was an influence on that in the first place, or if
+
+1133
+01:17:54,100 --> 01:17:55,860
+he was just running his own show.
+
+1134
+01:17:55,860 --> 01:17:59,900
+Twitch is so large at this point that a creator leaving doesn't seem to exert great cultural
+
+1135
+01:17:59,900 --> 01:18:04,460
+influence, sure, he's popular, well known, influential, and he still is, but he's never
+
+1136
+01:18:04,460 --> 01:18:08,660
+been a singular spokesperson for the gaming community, Dr Disrespect's popularity was
+
+1137
+01:18:08,660 --> 01:18:13,740
+just a reflection of gaming culture, rather than being some industry-wide puppeteer, and
+
+1138
+01:18:13,740 --> 01:18:17,020
+there have been many more serious examples of toxic behaviour on the platform in the
+
+1139
+01:18:17,020 --> 01:18:21,780
+last couple of years, not to mention Dr Disrespect's own more serious antics that were often given
+
+1140
+01:18:21,780 --> 01:18:23,900
+the soft touch by the Twitch moderation team.
+
+1141
+01:18:23,900 --> 01:18:41,540
+Some could say his expulsion was in a way designed to prevent the accusations of double
+
+1142
+01:18:41,540 --> 01:18:45,420
+standards when they took more serious action against toxicity, but it's not like those
+
+1143
+01:18:45,420 --> 01:18:50,020
+accusations ever seemed to concern them in the past, the truth is Twitch really haven't
+
+1144
+01:18:50,020 --> 01:18:53,660
+done that much, they've rewritten their terms and conditions a few times, tried to stay
+
+1145
+01:18:53,660 --> 01:18:57,180
+on the pulse with popular opinion and what social media is saying, but that's not
+
+1146
+01:18:57,180 --> 01:18:58,180
+new.
+
+1147
+01:18:58,180 --> 01:19:01,900
+All of these platforms are works in progress that adapt themselves to the zeitgeist, Twitch
+
+1148
+01:19:01,900 --> 01:19:06,340
+didn't seem to undergo any radical reforms as a consequence of them banning Dr Disrespect,
+
+1149
+01:19:06,340 --> 01:19:09,720
+and you'd think if they saw creators with his attitude as that much of a threat then
+
+1150
+01:19:09,720 --> 01:19:10,720
+they would have.
+
+1151
+01:19:10,720 --> 01:19:14,900
+As a large corporate conglomerate with business interests at heart, people struggle to rationalise
+
+1152
+01:19:14,900 --> 01:19:19,580
+Twitch's behaviour, which is why many end up siding with Dr Disrespect, but how are
+
+1153
+01:19:19,580 --> 01:19:48,740
+we even to know that this was a corporate decision?
+
+1154
+01:19:48,740 --> 01:20:09,360
+There's been some discourse about how Twitch handle their bans, and I think one thing to
+
+1155
+01:20:09,360 --> 01:20:13,820
+note is that it's often a very select few who actually hand down and enforce those bans,
+
+1156
+01:20:13,820 --> 01:20:18,400
+and it's an extremely secretive process, who is to stop it from getting personal?
+
+1157
+01:20:18,400 --> 01:20:22,160
+We know Dr Disrespect is a little more than just a character, he could have easily pissed
+
+1158
+01:20:22,160 --> 01:20:26,080
+someone powerful at Twitch off with them coming to the conclusion that they just didn't want
+
+1159
+01:20:26,080 --> 01:20:29,440
+him around, maybe he didn't do anything criminal, maybe he didn't even breach the
+
+1160
+01:20:29,440 --> 01:20:33,720
+guidelines in that time, he just did or said something behind the scenes that made an individual
+
+1161
+01:20:33,720 --> 01:20:37,800
+or fellow streamer feel compelled to take action against him, maybe out of spite or
+
+1162
+01:20:37,800 --> 01:20:40,040
+maybe to save their own skin.
+
+1163
+01:20:40,040 --> 01:20:43,440
+Perhaps a personal matter overlapped into business, if it was a private matter then
+
+1164
+01:20:43,440 --> 01:20:47,520
+who knows where or when it happened, or anything that could be revealed that may bring certain
+
+1165
+01:20:47,520 --> 01:20:51,540
+figures into disrepute, we often see Twitch as an entity, and the decisions they make
+
+1166
+01:20:51,540 --> 01:20:55,360
+as collective, but the truth is, a company is still made up of a lot of people with their
+
+1167
+01:20:55,360 --> 01:20:59,680
+own motivations, choices are seldom taken without personal bias, and even if there were
+
+1168
+01:20:59,680 --> 01:21:03,760
+some forms of corporate justification, it's completely valid to suggest that this was
+
+1169
+01:21:03,760 --> 01:21:07,500
+instigated on a personal whim, even if it wasn't presented as such.
+
+1170
+01:21:07,500 --> 01:21:11,840
+This just extends the realm of possible theories to nearly intangible levels, and leaves us
+
+1171
+01:21:11,840 --> 01:21:13,960
+right back where we started.
+
+1172
+01:21:13,960 --> 01:21:18,040
+You may believe the best in Dr Disrespect because they see Dr Disrespect as the human
+
+1173
+01:21:18,040 --> 01:21:21,760
+he is, and although Twitch really didn't do the best to differentiate themselves from
+
+1174
+01:21:21,760 --> 01:21:25,960
+robots with their public statements, they're still a company full of humans too, they're
+
+1175
+01:21:25,960 --> 01:21:29,860
+just people whose decisions may only ever be known to themselves, providing us very
+
+1176
+01:21:29,860 --> 01:21:34,480
+little evidence to work with, and when looking for explanations we latch onto what we have,
+
+1177
+01:21:34,480 --> 01:21:39,520
+but as said, maybe the key here is what we haven't, and perhaps there's not much we
+
+1178
+01:21:39,520 --> 01:21:40,520
+can do about that.
+
+1179
+01:21:43,960 --> 01:21:54,440
+Many internet dwellers have this inherent desire to find out the truth of a situation,
+
+1180
+01:21:54,440 --> 01:21:58,040
+and in a way it's understandable, when we have the truth we can make a more balanced
+
+1181
+01:21:58,040 --> 01:22:02,200
+judgement, however with 99% of disputes we have to accept that we will never have the
+
+1182
+01:22:02,200 --> 01:22:05,560
+full picture to pass judgement without any reservation at all.
+
+1183
+01:22:05,560 --> 01:22:09,400
+With that said, with this case we have a lot less than that, and it makes it even harder
+
+1184
+01:22:09,400 --> 01:22:11,640
+for anyone to arbitrate with clarity.
+
+1185
+01:22:11,640 --> 01:22:15,460
+Nonetheless, people still like to have strong opinions, and in the time following his ban
+
+1186
+01:22:15,460 --> 01:22:19,120
+and looking at the record of Twitch and The Doc respectively, people decided that whatever
+
+1187
+01:22:19,120 --> 01:22:23,040
+the truth, that Dr Disrespect had probably been done dirty, and deserved better from
+
+1188
+01:22:23,040 --> 01:22:28,040
+a platform he had enthusiastically hosted his content on and supported behind the scenes
+
+1189
+01:22:28,040 --> 01:22:29,040
+for years.
+
+1190
+01:22:29,040 --> 01:22:34,320
+This is a guy who was involved in the Justin.tv years, much longer than most of Twitch's
+
+1191
+01:22:34,320 --> 01:22:46,000
+biggest names right now.
+
+1192
+01:22:46,000 --> 01:22:50,240
+Now we must accept that there are circumstances where loyalty would not be enough to exonerate
+
+1193
+01:22:50,240 --> 01:22:53,920
+one's actions, but since we have no idea what these actions are, and only rumours to
+
+1194
+01:22:53,920 --> 01:22:57,840
+base our suspicions off, it's fair that many erred on Dr Disrespect's side.
+
+1195
+01:22:57,840 --> 01:23:01,360
+I think people looked at the rumours of the more serious acts that are alleged to have
+
+1196
+01:23:01,360 --> 01:23:05,200
+occurred, and thought, if nobody's willing to put it out there, then they can't be
+
+1197
+01:23:05,200 --> 01:23:06,200
+that confident in it.
+
+1198
+01:23:06,200 --> 01:23:10,200
+There are of course other reasons why something may not be public, and no stranger to this,
+
+1199
+01:23:10,200 --> 01:23:13,840
+a lot of companies were much more anxious about the fact that nothing had been said.
+
+1200
+01:23:13,840 --> 01:23:17,320
+They likely believed that reputational damage could be inflicted if they partnered with
+
+1201
+01:23:17,320 --> 01:23:20,760
+a person who was soon revealed to be acting outside the realm of acceptability.
+
+1202
+01:23:20,760 --> 01:23:25,640
+For a while, not even Dr Disrespect appeared to know what happened, I'm sure he was probably
+
+1203
+01:23:25,640 --> 01:23:30,040
+more well informed than anyone else, but it's not like he could publicly theorise either,
+
+1204
+01:23:30,040 --> 01:23:33,320
+as that would make him liable if he believed he had grounds to take legal action.
+
+1205
+01:23:33,320 --> 01:23:37,080
+So he wasn't going to say anything, and when he did it was non-committal or dismissive
+
+1206
+01:23:37,080 --> 01:23:41,040
+of certain theories, such as the one that revolved around the final stream.
+
+1207
+01:23:41,040 --> 01:23:44,440
+Eventually legal action was initiated, and we thought that, once resolved, the one factor
+
+1208
+01:23:44,440 --> 01:23:48,280
+that may have been causing the secrecy would be relieved, and we'd finally find out the
+
+1209
+01:23:48,280 --> 01:23:51,800
+truth, especially if the Doc secured his return to Twitch.
+
+1210
+01:23:51,800 --> 01:23:55,960
+However, it seemed as part of that settlement, neither party was going to be discussing the
+
+1211
+01:23:55,960 --> 01:23:59,860
+matter any further, both releasing highly impersonal statements that could barely be
+
+1212
+01:23:59,860 --> 01:24:01,580
+distinguished between each other.
+
+1213
+01:24:01,580 --> 01:24:04,800
+Even the agreement itself was hard to read into, as it's difficult to say how much
+
+1214
+01:24:04,800 --> 01:24:08,720
+money was offered, and how that reflected in the strength of the case against Twitch.
+
+1215
+01:24:08,720 --> 01:24:12,560
+All we know is that the Doc was confident enough to file a lawsuit against the company,
+
+1216
+01:24:12,560 --> 01:24:16,160
+but also happy enough to settle, there are a lot of ways to interpret that which depend
+
+1217
+01:24:16,160 --> 01:24:18,000
+on details that we don't know.
+
+1218
+01:24:18,000 --> 01:24:22,720
+Listen, I just point out the obvious, plus, you know, once I got banned from the Purple
+
+1219
+01:24:22,720 --> 01:24:26,640
+Snakes platform, they like, secretly shadow banned and stopped talking to us, and all
+
+1220
+01:24:26,640 --> 01:24:31,040
+that stuff, and to me, like, I took it personal, like, what the fuck, dude, we made multiple
+
+1221
+01:24:31,040 --> 01:24:35,280
+commercials, we did lots of deals, and to exclude us from anything, and to not allow,
+
+1222
+01:24:35,280 --> 01:24:40,040
+like, trust me, you know, design half the maps for Advanced Warfare, like, we've done
+
+1223
+01:24:40,040 --> 01:24:44,680
+a lot with the franchise, right, and for them to turn the cold shoulder like that?
+
+1224
+01:24:44,680 --> 01:24:46,420
+Trust me, I took it personal.
+
+1225
+01:24:46,420 --> 01:24:50,200
+It's clear that the consequences of the Twitch ban are still in place, and Dr Disrespect
+
+1226
+01:24:50,200 --> 01:24:53,220
+even vents his frustration from time to time on the matter.
+
+1227
+01:24:53,220 --> 01:24:56,680
+Recently he hosted a Zero Bill tournament on Fortnite, with some popular Twitch streamers
+
+1228
+01:24:56,680 --> 01:24:57,680
+also competing.
+
+1229
+01:24:57,680 --> 01:25:01,220
+Boom TV, the host of the event, released a statement to competitors explaining that it
+
+1230
+01:25:01,220 --> 01:25:05,380
+was prohibited for them to knowingly feature the suspended gentleman in question, and providing
+
+1231
+01:25:05,380 --> 01:25:09,620
+suggestions and alternatives to avoid experiencing any negative repercussions for interacting
+
+1232
+01:25:09,620 --> 01:25:10,620
+with him.
+
+1233
+01:25:10,620 --> 01:25:15,160
+Hard to say if Doc saw the funny side to this, though he did manage a little Twitter chuckle.
+
+1234
+01:25:15,160 --> 01:25:19,560
+We understand that there may be instances where suspended users may appear on your stream
+
+1235
+01:25:19,560 --> 01:25:24,480
+due to circumstances beyond your control, such as through third party gaming tournaments,
+
+1236
+01:25:24,480 --> 01:25:29,120
+but we expect that you make a good faith effort to remove them from your broadcast, mute them,
+
+1237
+01:25:29,120 --> 01:25:32,280
+or otherwise limit their interactions with your stream.
+
+1238
+01:25:32,280 --> 01:25:35,720
+Who knows whether the truth will ever come out, and maybe at some point in the future
+
+1239
+01:25:35,720 --> 01:25:39,640
+some will decide they have very little to lose by speaking openly about it, but for
+
+1240
+01:25:39,640 --> 01:25:41,400
+the moment it remains a mystery.
+
+1241
+01:25:41,400 --> 01:25:45,280
+I'm sure some will wonder why, if the facts were in Dr Disrespect's favour as much as
+
+1242
+01:25:45,280 --> 01:25:47,400
+they were, he wouldn't just speak up.
+
+1243
+01:25:47,400 --> 01:25:51,320
+Regardless of the consequences, surely it's better to illustrate how ludicrous Twitch
+
+1244
+01:25:51,320 --> 01:25:53,600
+were in banning him, right?
+
+1245
+01:25:53,600 --> 01:25:57,420
+Well I think the greatest concern for a creator and businessman like Dr Disrespect would be
+
+1246
+01:25:57,420 --> 01:26:01,640
+to have his career defined by the ban, and in a way it was a challenge to avoid it.
+
+1247
+01:26:01,640 --> 01:26:05,440
+It was such a seismic shift in the community that very few could miss it, there's little
+
+1248
+01:26:05,440 --> 01:26:09,000
+doubt that the uncertainty has prolonged people's discourse surrounding it, making us wonder
+
+1249
+01:26:09,000 --> 01:26:12,360
+if it had been over sooner if the doc had just built the beans and allowed people to
+
+1250
+01:26:12,360 --> 01:26:13,360
+make their own judgement.
+
+1251
+01:26:13,360 --> 01:26:17,000
+However, there's no guarantee that any explanation would have provided closure, and if it was
+
+1252
+01:26:17,000 --> 01:26:20,760
+contentious enough, could have very easily instigated more conflict if someone wanted
+
+1253
+01:26:20,760 --> 01:26:21,800
+to dispute it.
+
+1254
+01:26:21,800 --> 01:26:25,640
+In this case, it may very well be that the less anyone said the better, the financial
+
+1255
+01:26:25,640 --> 01:26:29,800
+setback of being banned from Twitch is great, but the setback of having your career overshadowed
+
+1256
+01:26:29,800 --> 01:26:33,760
+by conflict, whether you're in the right or not, is so much greater.
+
+1257
+01:26:33,760 --> 01:26:36,960
+If the guy had lost everything already, then maybe he would have been a bit more tenacious
+
+1258
+01:26:36,960 --> 01:26:42,120
+in court, but he's still out of channel, a fanbase, a company, partnerships, and a
+
+1259
+01:26:42,120 --> 01:26:45,600
+variety of other outlets that were worth no less of his time.
+
+1260
+01:26:45,600 --> 01:26:49,720
+It's understandable that some people to this day still want to know what exactly happened,
+
+1261
+01:26:49,720 --> 01:26:53,680
+but the truth is, we're just not entitled to it, and there's no guarantee that knowing
+
+1262
+01:26:53,680 --> 01:26:56,800
+would enhance our lives or our judgement in any way at all.
+
+1263
+01:26:56,800 --> 01:27:00,660
+There's nothing wrong with theorising, but sometimes we just have to settle with theories
+
+1264
+01:27:00,660 --> 01:27:04,680
+inside who we want to support in a situation, I think that's what Dr Disrespect would
+
+1265
+01:27:04,680 --> 01:27:05,680
+prefer at least.
+
+1266
+01:27:05,680 --> 01:27:09,860
+He knew he had to address it, but his tone in the interviews always showed a bit of disdain
+
+1267
+01:27:09,860 --> 01:27:13,080
+for the theories that people were advocating, and even hinting at.
+
+1268
+01:27:13,080 --> 01:27:16,280
+The general impression I receive from him is that he's the sort of guy who believes
+
+1269
+01:27:16,280 --> 01:27:20,200
+that he will rebuild everything if he has to, with or without Twitch, and he'd much
+
+1270
+01:27:20,200 --> 01:27:21,640
+rather talk about that.
+
+1271
+01:27:21,640 --> 01:27:24,960
+He spent long enough in the industry to know how to survive, whether he'll truly ever
+
+1272
+01:27:24,960 --> 01:27:28,920
+have the last laugh is something that's yet to be revealed, but for now it seems that
+
+1273
+01:27:28,920 --> 01:27:31,280
+everyone got what they wanted.
+
+1274
+01:27:31,280 --> 01:27:35,200
+As a company, Twitch has continued to dominate in their domain, YouTube and Facebook Gaming
+
+1275
+01:27:35,200 --> 01:27:38,520
+have both retained their presence, but they can't come close to the control that Twitch
+
+1276
+01:27:38,520 --> 01:27:39,520
+exerts on the market.
+
+1277
+01:27:39,520 --> 01:27:43,080
+Don't get me wrong, they're still on their bullshit, but creators are still going to
+
+1278
+01:27:43,080 --> 01:27:46,520
+stream, and viewers are still going to tune in, because there's no platform that can
+
+1279
+01:27:46,520 --> 01:27:49,540
+provide you with the streaming dream like Twitch does.
+
+1280
+01:27:49,540 --> 01:27:53,560
+You can't blame people for wanting to take advantage of that, but as Dr Disrespect found
+
+1281
+01:27:53,560 --> 01:27:56,280
+out, sometimes you have to modify your dreams a little.
+
+1282
+01:27:57,280 --> 01:28:05,280
+Millions of minutes watched is the number one metric, and it's right here on Twitch.
+
+1283
+01:28:05,280 --> 01:28:09,280
+It's a shame that the Dr Disrespect Twitch era ever had to come to an end, but whether
+
+1284
+01:28:09,280 --> 01:28:13,680
+there was a good reason or not, there's always an opportunity for a new era to begin.
+
+1285
+01:28:26,280 --> 01:28:38,400
+I'm excited, extremely excited that a team at Midnight Society absolutely busted their
+
+1286
+01:28:38,400 --> 01:28:42,260
+asses off, and we're here to change the game.
+
+1287
+01:28:42,260 --> 01:28:45,720
+Twitch and Dr Disrespect had a very prosperous business relationship.
+
+1288
+01:28:45,720 --> 01:28:49,520
+In many ways, it was one that seemed mutually beneficial and deeply rooted for the large
+
+1289
+01:28:49,520 --> 01:28:51,440
+proportion of its existence.
+
+1290
+01:28:51,440 --> 01:28:55,160
+Twitch as a platform trying to cement its status in the gaming scene, and the Doc as
+
+1291
+01:28:55,160 --> 01:29:00,000
+an ambitious and outspoken persona looking for a medium that supported his antics.
+
+1292
+01:29:00,000 --> 01:29:04,140
+Over the years, Dr Disrespect drew his channel, but also his brand, becoming an identifiable
+
+1293
+01:29:04,140 --> 01:29:09,160
+figure for those inside and outside the community, garnering a media presence like few other
+
+1294
+01:29:09,160 --> 01:29:10,160
+creators.
+
+1295
+01:29:10,160 --> 01:29:13,920
+Twitch obviously provided the platform, but Dr Disrespect did provide a standout persona
+
+1296
+01:29:13,920 --> 01:29:18,400
+in a sea of creators whose appeal was often based on other aspects of their content.
+
+1297
+01:29:18,400 --> 01:29:22,320
+That's not a discredit to them, but it's definitely a credit to the Doc, whose longevity
+
+1298
+01:29:22,320 --> 01:29:25,400
+on an ever-evolving platform seemed nearly guaranteed.
+
+1299
+01:29:25,400 --> 01:29:30,000
+When the competition picked up, and certain creators migrated to other platforms, our
+
+1300
+01:29:30,000 --> 01:29:33,920
+titular character only strengthened his relationship with the website that had fostered his growth
+
+1301
+01:29:33,920 --> 01:29:38,240
+over the years, pledging his allegiance in the most binding way possible with a life-changing
+
+1302
+01:29:38,240 --> 01:29:41,200
+contract that likely produced eye-watering sums of money.
+
+1303
+01:29:41,200 --> 01:29:45,880
+In spite of his illustrious career up to this point, this was still a significant step forward,
+
+1304
+01:29:45,880 --> 01:29:50,200
+everything seemed to be going right, which was the perfect time for something to go wrong.
+
+1305
+01:29:50,200 --> 01:29:53,720
+As we've seen, there are a plethora of theories for what exactly happened, but the underlying
+
+1306
+01:29:53,720 --> 01:29:57,680
+theme of it was that Twitch likely made the judgement that that mutual benefit of their
+
+1307
+01:29:57,680 --> 01:30:01,520
+relationship had run its course, and the Doc had become a liability.
+
+1308
+01:30:01,520 --> 01:30:05,360
+Whether that was due to divergence in common goals, or a specific incident that left Twitch
+
+1309
+01:30:05,360 --> 01:30:09,880
+feeling like they had to take action is hard to entirely know, but the impact was long
+
+1310
+01:30:09,880 --> 01:30:10,880
+felt.
+
+1311
+01:30:10,880 --> 01:30:37,200
+That was the thing, regardless of who you sided with, or your own personal suspicions,
+
+1312
+01:30:37,200 --> 01:30:40,520
+there was always cause for concern, whether you felt that it was a stark reminder that
+
+1313
+01:30:40,520 --> 01:30:44,540
+Twitch could take a person's platform away without even blinking twice, or whether you
+
+1314
+01:30:44,540 --> 01:30:48,640
+felt it represented concern for how creator may have behaved, not being shielded from
+
+1315
+01:30:48,640 --> 01:30:51,080
+people who may be affected by their behaviour.
+
+1316
+01:30:51,080 --> 01:30:55,440
+This had a ripple effect on audiences, platforms, and even other businesses who were previously
+
+1317
+01:30:55,440 --> 01:31:00,040
+affiliated with the Doc, collaterally influencing not only his direct income in the moment,
+
+1318
+01:31:00,040 --> 01:31:03,720
+but also his mobility in the community, and all the perks that he'd previously derived
+
+1319
+01:31:03,720 --> 01:31:05,080
+from being a streamer.
+
+1320
+01:31:05,080 --> 01:31:08,640
+It put Dr Disrespect in a position where he could suck it up and move on, or try to
+
+1321
+01:31:08,640 --> 01:31:25,880
+fight for his place once more.
+
+1322
+01:31:25,880 --> 01:31:29,720
+In a way, he seemed to try and exploit both options, spending the first year or so rebuilding
+
+1323
+01:31:29,720 --> 01:31:33,840
+his online presence on a new platform, expanding his business avenues, and even establishing
+
+1324
+01:31:33,840 --> 01:31:34,840
+his own company.
+
+1325
+01:31:34,840 --> 01:31:38,480
+At that time, he was often quite cryptic, not really giving much during interviews,
+
+1326
+01:31:38,480 --> 01:31:42,520
+when the time was right he'd launch his lawsuit, likely playing to the visible financial
+
+1327
+01:31:42,520 --> 01:31:45,680
+damage that could be observed in the year following his banishment.
+
+1328
+01:31:45,680 --> 01:31:49,480
+We theorise on what the terms of the lawsuit could have been, but we know it probably emphasised
+
+1329
+01:31:49,480 --> 01:31:50,680
+what he had lost.
+
+1330
+01:31:50,680 --> 01:31:54,480
+Ultimately, in Dr Disrespect's ideal world, he would have made his triumph from return
+
+1331
+01:31:54,480 --> 01:31:57,760
+to Twitch, with them admitting they had made a dire mistake.
+
+1332
+01:31:57,760 --> 01:32:01,760
+However, although it was clear that the streaming platform was prepared to offer a compromise,
+
+1333
+01:32:01,760 --> 01:32:05,320
+it was not one that necessarily included his Twitch channel.
+
+1334
+01:32:05,320 --> 01:32:10,020
+Advised by legal experts with probably more experience than you and I, he took that compromise,
+
+1335
+01:32:10,020 --> 01:32:14,000
+which also entailed saying as little as possible about it, and though sometimes it feels like
+
+1336
+01:32:14,000 --> 01:32:17,200
+the Doc wants to say more than he should, he's professional enough to hold his tongue
+
+1337
+01:32:17,200 --> 01:32:19,560
+and continue on the trajectory he's set for himself.
+
+1338
+01:32:19,560 --> 01:32:23,200
+It's not easy to lose something that you've spent years building, and to feel like you're
+
+1339
+01:32:23,200 --> 01:32:26,800
+going back to the start in a way is probably one of the most demoralising things that can
+
+1340
+01:32:26,800 --> 01:32:27,800
+happen.
+
+1341
+01:32:27,840 --> 01:32:32,640
+The platform, what is just another channel, is a person's lifetime work all in one space,
+
+1342
+01:32:32,640 --> 01:32:36,520
+it's hard not to be bitter about that, and honestly, I don't think anyone would have
+
+1343
+01:32:36,520 --> 01:32:41,120
+blamed him for throwing in the towel, but Dr Disrespect is no quitter, and in many ways
+
+1344
+01:32:41,120 --> 01:32:43,680
+he turned a negative into something positive.
+
+1345
+01:32:43,680 --> 01:32:47,320
+Dr Disrespect- We're gonna make a game with our pros, and we're gonna make a game with
+
+1346
+01:32:47,320 --> 01:32:51,400
+you, our community, and we think that's a different way of making a video game than
+
+1347
+01:32:51,400 --> 01:32:56,000
+anyone's ever made one before, and even though making games is really really hard,
+
+1348
+01:32:56,000 --> 01:33:00,040
+and really really challenging, we think by doing it this way, we have a really good chance
+
+1349
+01:33:00,040 --> 01:33:01,040
+of succeeding.
+
+1350
+01:33:01,040 --> 01:33:04,400
+In the past few months there has definitely been an interest towards creator-run gaming
+
+1351
+01:33:04,400 --> 01:33:11,440
+studios, 100 Thieves, OTK, and of course Midnight Society, headed by Dr Disrespect himself and
+
+1352
+01:33:11,440 --> 01:33:14,120
+using his namesake as a significant selling point.
+
+1353
+01:33:14,120 --> 01:33:18,580
+The pivot towards creator controlled games could really influence how the industry operates,
+
+1354
+01:33:18,580 --> 01:33:22,240
+the Doc is at the forefront of that, and although there has been the occasional criticism for
+
+1355
+01:33:22,240 --> 01:33:25,960
+how the studio has been operated, there's still a lot of hope and anticipation for the
+
+1356
+01:33:25,960 --> 01:33:30,920
+output of more consumer-oriented games, however the gaming studio does represent more than
+
+1357
+01:33:30,920 --> 01:33:34,880
+that, because it amplifies the Doc's reach and gives him more of a standing in a community
+
+1358
+01:33:34,880 --> 01:33:47,200
+that he had struggled in due to his lost connections with Twitch, in a way the more conspiratorial
+
+1359
+01:33:47,200 --> 01:33:52,120
+side of me sees these enterprises as Dr Disrespect's attempt to be so omnipresent that Twitch
+
+1360
+01:33:52,120 --> 01:33:56,080
+will eventually have no other option but to acknowledge him, all these people on their
+
+1361
+01:33:56,080 --> 01:34:00,800
+platform playing a game by a person they've banned, attending his tournaments, he can't
+
+1362
+01:34:00,800 --> 01:34:05,240
+be shunned from the industry when he is the industry, wouldn't that be the sweetest
+
+1363
+01:34:05,240 --> 01:34:06,240
+revenge?
+
+1364
+01:34:06,240 --> 01:34:10,300
+I don't know, and I don't know if Twitch cares about it that much, but going forward
+
+1365
+01:34:10,300 --> 01:34:14,680
+one can't help but wonder if their paths will cross once more, and how exactly it will
+
+1366
+01:34:14,680 --> 01:34:15,680
+be navigated.
+
+1367
+01:34:15,680 --> 01:34:22,040
+All I can say is that both Twitch and Dr Disrespect seem determined to get their share, how success
+
+1368
+01:34:22,040 --> 01:34:24,760
+all they are is a story only time will tell.
+
+1369
+01:34:24,760 --> 01:34:28,760
+It's fair to say that the mystery of Dr Disrespect's disappearance from Twitch may
+
+1370
+01:34:28,760 --> 01:34:33,640
+never be solved, a man at the peak of his popularity having the rug pulled from under
+
+1371
+01:34:33,640 --> 01:34:39,560
+him so unexpectedly, an abundance of theories that never quite unscrambled the enigma, and
+
+1372
+01:34:39,560 --> 01:34:43,760
+a court case that only mystified the facts, but within that mystery there was a nugget
+
+1373
+01:34:43,760 --> 01:34:48,800
+of truth, that whatever the setback, even one where you lose your whole damn channel,
+
+1374
+01:34:49,040 --> 01:34:53,840
+it's never completely over, and for many, Dr Disrespect is still just getting started.
+
+1375
+01:34:53,840 --> 01:35:00,240
+Let's climb the mountain, let's dominate, violence, speed, and momentum, and guess what?
+
+1376
+01:35:00,240 --> 01:35:07,400
+We're at the tip of the top of the mountain, but we're really, but we're really only halfway
+
+1377
+01:35:07,400 --> 01:35:08,400
+up.
+
+1378
+01:35:08,400 --> 01:35:10,320
+Let's do it baby!
+
+1379
+01:35:18,800 --> 01:35:29,400
+Ok, so that was the video, I hope you all enjoyed it, I know I did, I'd like to give
+
+1380
+01:35:29,400 --> 01:35:34,160
+a big thanks to the editors, they all did a wonderful job, and their credits will be
+
+1381
+01:35:34,160 --> 01:35:39,600
+in the pinned comments, I'd like to give a big thanks to the patrons, all the $10 patrons
+
+1382
+01:35:39,600 --> 01:35:43,760
+are up on screen right now, thank you very much, but I also have to give a very very
+
+1383
+01:35:43,760 --> 01:35:51,080
+special thank you to the $50 patrons, Seri Tish, Velorex, Esther Bedoya, and Hypercube,
+
+1384
+01:35:51,080 --> 01:35:55,640
+thank you for your continued support, it means a lot to me, I also want to give a big shout
+
+1385
+01:35:55,640 --> 01:36:01,360
+out to anybody who's art was used in this video, once again, pinned comments, and go
+
+1386
+01:36:01,360 --> 01:36:08,560
+and send them to the lab artists too, good solid work, speaking of art, thumbnail, starfo,
+
+1387
+01:36:08,560 --> 01:36:13,440
+what a wonderful dude he is, keep it up man, big thanks to the sponsor of the video, Raid
+
+1388
+01:36:13,440 --> 01:36:21,680
+Shadow Legends, yeah, yeah, it's good fun, good fun, good fun always, working with them,
+
+1389
+01:36:21,680 --> 01:36:25,800
+and doing a little merch store project right now, if you're interested in that, check it
+
+1390
+01:36:25,800 --> 01:36:32,760
+out, we have some nice designs on show, code opinion for a really really tasty discount,
+
+1391
+01:36:32,760 --> 01:36:37,300
+I don't really have too much else to say, but I hope you guys are having a wonderful
+
+1392
+01:36:37,300 --> 01:36:43,900
+day and I hopefully will see you in the next one, no no no we need more certainty, we need
+
+1393
+01:36:43,900 --> 01:36:47,420
+more conviction, I'm The Right Opinion and I will see you in the next one.
+
