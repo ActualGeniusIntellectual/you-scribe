@@ -1,0 +1,548 @@
+Let's talk about Unity, because that's been a pretty fun rollercoaster recently.
+Back in 2005, three indie developers based out of Denmark founded the game studio Over
+the Edge Entertainment and put out their very first game, the arcade puzzler Goo Ball for
+Mac OS X.
+There's nothing really remarkable about it, it's just a Super Monkey Ball knockoff, but
+it was downloaded tons of times and it was one of the most popular games on the platform.
+However, this popularity didn't translate into commercial success for the company.
+Additionally, Over the Edge Entertainment had spent a significant amount of time building
+custom tools to make the game, since Mac OS X didn't really have anything for game development.
+Sensing a way to solve their financial problems, the company bundled its game dev tools into
+one application and sold it as the Unity game engine, the first modern game engine
+made specifically for Apple hardware.
+With the explosive success of the iPhone two years later, the Unity engine was perfectly
+poised to capitalize on the emerging market of smartphone games.
+Over the Edge Entertainment soon after changed their name to Unity Technologies.
+As Unity expanded beyond Apple's ecosystem, with versions for Android, consoles, and computers,
+it became the go-to choice for a lot of developers, especially if they lacked experience with
+game development.
+By 2012, over half of all mobile developers were using Unity to make their phone games,
+and Unity had hit 1 million registered users.
+By 2016, they had 5.5 million registered users.
+It basically became the next step up from the old RPG Maker applications of the early
+2000s.
+That was just a very simplistic game dev engine, and the only thing you could make with it
+were basically just Dragon Quest ripoffs.
+A lot of 90s kids who wanted to make games tinkered around with RPG Maker, including
+myself, I have a lot of old, deep RPG Maker lore still stuffed in my head.
+And many of those kids who did become indie devs in their 20s moved on to Unity for its
+similar ease of use.
+Unity's first big gangbuster title was Pokemon Go in 2016, after which the company's valuation
+skyrocketed.
+They went through several rounds of venture capital funding.
+They started putting out asset libraries and software development kits and VR software
+in order to further streamline game development.
+They've been making big deals with Facebook and Google.
+They've been buying out other companies like Vivox, a voice chat provider.
+They've been massively expanding their business with new employees and branches.
+And while it is paying off, Unity did post revenue of over half a billion dollars back
+in 2019.
+They have consistently operated at a loss every single year since their founding.
+In September of 2020, Unity Technologies went public, with an estimated market value of
+$13.7 billion.
+The company continued on its growth spree, buying up smaller companies left and right,
+expanding into markets everywhere between 2020 and 2022, leading us to the current 2023
+controversy.
+The story of Unity is one that seems pretty familiar to anybody who knows about the world
+of tech startups.
+A highly successful company offering an immensely popular product, but due to its own hubris
+and bloat, fails to achieve profitability, even as they grow and become a household name.
+On September 12th, 2023, Unity announced a change to their business model, adding new
+fees to their subscription plans, and the addition of a runtime fee.
+They clarified that it is indeed a price increase, but also that most Unity members won't be
+affected by it, as most Unity users don't pay anything at all.
+The only developers who will be affected are those who have successful games, and are generating
+revenues way above what Unity considers to be its threshold.
+The runtime fee install counter starts on January 1st, 2024.
+It is not retroactive, but they will charge the game developer once for every new install
+of a Unity game.
+Unity insists that they look for ways to not do this, but it seems like their perpetual
+financial troubles have finally forced their hand.
+Here's the threshold table.
+Basically, if you don't meet these thresholds, you won't be charged.
+For Unity Personal and Unity Plus, you need $200,000 in revenue and 200,000 installs.
+For Unity Pro and Enterprise, it's $1 million and 1 million installs.
+I don't know if they intend for this to be that you have to hit both thresholds or just
+one, it's ambiguous.
+Once you're over the threshold, though, Unity Personal and Unity Plus developers will be
+charged 20 cents for every install of their game, while Unity Pro and Unity Enterprise
+have a bunch of tiers for various install levels.
+Unity's confirmed that it's not every sale of a game, but every install of a game, meaning
+that hypothetically a customer could re-download the game on multiple computers, and the developer
+would be charged by Unity for every install.
+They literally made this 4chan meme real, where the company loses money for every install.
+Everybody realized that this was going to be a shitshow pretty much right away, and
+after a massive public backlash, Unity came out with a second statement.
+They clarified that demos will mostly not trigger a fee, developers won't be on the
+hook for game pass downloads, and that they're rolling back that whole install scheme, saying
+that only the first install will count.
+If that's the case, why not just make it a cut of revenue from sales, dude?
+One thing I will say, though, is that the public reaction to this whole mess got one
+critical thing wrong.
+Unity never said that the install fees would be retroactively applied, but everybody started
+acting like it would've.
+For example, this tweet went viral of an indie developer whose two games totaled 20 million
+in sales, and how he now apparently owes Unity over 5 million dollars.
+Yeah, that's pretty funny, and it's a pretty good way to hitch your brand to the latest
+outrage train, but if the install fee only actually starts in 2024, this guy's fine.
+However, Unity is potentially stepping on the toes of some very big players in the gaming
+industry by doing this.
+Genshin Impact uses Unity, Blizzard's Hearthstone uses Unity, Nintendo's Pokemon Diamond and
+Pearl remakes use Unity.
+If these companies start getting charged for every install of their games starting in 2024,
+you can bet there will be lawsuits.
+So let's actually examine that whole multiple installs thing in depth.
+Here is the pro-Unity interpretation of events.
+The general manager of Unity Create, which is a subdivision of Unity, Mark Whitten, was
+interviewed about the controversy by Jason Wyman, a game developer who uses Unity.
+One of the questions Whitten was asked was which group of their users would be the most
+affected by the new pricing changes.
+Before the way that Unity personal worked is you could use it up to $100,000 of revenue
+for your company.
+Now it's $200,000, so twice the size, so it's easier to use for more people, covers
+more cases, and it's more flexible.
+So that's number one.
+Not a part of the program, totally free, majority of our users, and a lot more flexibility.
+So the runtime fee applies for people who are over both a million dollars in sort of
+trailing 12 months revenue money they've made over the last year on kind of an ongoing basis,
+and a million engagements with new users, essentially.
+And for those users, they're following changes.
+The first one is this is with next year's LTS, which would be what is 2023 LTS, shipping
+in 2024.
+So it doesn't impact any games that have currently shipped, and it doesn't impact the games people
+may have already been working on for a very, very long period of time.
+One of the most, I think, really key pieces of feedback we heard is that it was a really
+big business model change that people didn't expect.
+And so it's very clear to us that having it start on a future version where everybody
+can make the choice to use it is really, really important.
+The second that we heard along with that is that people need to know that they can rely
+on a set of terms when they start using a version of Unity.
+So we're going to make sure that that's the case.
+There are even some pieces about that, things like the GitHub repo that, by the way, I will
+just say prior to last week, I did not know existed.
+Now I know a lot about, and we're making sure, I think it's already back up there, it has
+all of them in there.
+Obviously, our website will always have our legal terms and terms of service and all of
+those sorts of things, but we're going to make sure it's also on the GitHub so people
+can track that.
+And then the last that I would talk about is when you are using this future version
+of Unity, you have a game that's over the million dollars, million engagements, that
+there's a choice between either a 2.5% revenue share or measuring based on this calculated
+amount of initial user engagements that you can do.
+And if you do both of those, you'll always be billed the lesser of whatever that calculation
+is, but it's also up to you.
+If you only wanted to do one of them, leave the box blank, whatever.
+And again, that's only for those games that were over those thresholds.
+Sorry, one more minute, you asked me.
+And then the other key part on that one is it's self-reported.
+So it's both numbers being self-reported, both on the revenue side and on the user engagements.
+Yeah, I think that's a big one.
+I think there are a couple of questions about that that we'll get into, but I think the
+self-reporting and the mix up around there is a big one that I think people would be
+pretty happy with.
+If Witten's telling the truth, this sounds pretty good.
+The vast majority of users won't be affected at all.
+The next question was about how the multiple installs would be tracked, and Witten replied
+that basically the whole thing is going to be on the honor system.
+How will you track what version of Unity developers are using, or is that something you're even
+going to track?
+You know what version of Unity that you're using, and we're going to make sure that you're
+clear, like what terms are associated with that particular version.
+This is actually, frankly, the same as actually Unity Personal.
+When we say that you can use Unity Personal up to $200,000, we're also not tracking that.
+We're just telling you that this is what the rights are associated with this version so
+that you know, and then obviously if we find out that you're doing it, we have a conversation,
+but you know.
+Yeah, so there's not an extra tracking or anything added in, which I kind of assumed.
+I figured it would be just like the current setup where you use Unity Free, and then eventually
+you upgrade to Pro unless you don't like to follow the rules, and maybe if you get
+super huge or something, somebody at Unity might hit you up.
+Just to real quick clarify one more time for everybody, on the counting of those, that's
+just you're going in, now make sure I understand this right, I'm just going into like Steam
+and saying, hey, I sold this many, subtracting my refunds from that, and putting that in.
+Subtract refunds, exactly.
+Yeah.
+Okay, yeah.
+That's kind of what I expected.
+Yeah, those are my things.
+Yes.
+Okay.
+I've reported based on data that you easily have available, not sort of like I have to
+track some sort of user behavior that's different than I've ever done or anything like that.
+You don't have to go add in analytics or some tracking or anything, you just look at whatever
+your numbers are and then put those into the page.
+That's kind of been what I expected from the start, but it was definitely, I'll be honest,
+it was very unclear because it said there was a proprietary algorithm in there.
+I feel like those two words made the thing drastically more confusing and led to a lot
+of speculation.
+Even for me, I don't know what that means.
+Yeah, you're right.
+And we want to be super clear that self-reporting, and by the way, on both, both the revenue
+side and on that is really key.
+It's why this program is very important, but we're trying to make sure that this is easy
+for our game creators as well.
+Yeah.
+No, that's good.
+I mean, that seems like data that, at least I've always had, if you sell games and have
+people download them, you've got the info on how many are downloading it or how much
+money you're making each month.
+So, that seems relatively straightforward and a lot better than some built-in tracking
+spyware thing that I kept hearing about.
+Yeah.
+And again, I'm sorry that I had to use the corporate jargon, but the truth is there's
+just a lot of different scenarios in games.
+And so, some people might say, why isn't it sales?
+But sales doesn't work if it's a free-to-play game.
+And so, we're trying to make sure that we can clearly define that in a way that works
+for a bunch of different ways that Unity's used.
+This seems pretty above board too.
+Unity will require game developers to self-report their statistics on sales numbers and revenue
+and number of installs, all of which Steam's backend provides to the developer.
+Xbox's backend provides them.
+Most storefronts provide these numbers.
+This does mean there's a possibility that lying developers can inaccurately report their
+numbers.
+And Witten does say that if there's obvious huge discrepancies, like if a game with 10
+million players reports to Unity 10,000 sales, they reserve the right to approach the game
+developer about it.
+But for the most part, they intend to just roll with self-reporting on revenue and installs.
+Witten also clarified what was meant by an install and admits that Unity did a very bad
+job at explaining what they meant to do.
+That's an understatement.
+Yeah, and I'm going to sound a little corporatey here for a second while I use the words around
+it, but I'm just going to use them and then try to explain them a little bit.
+And that's, you know, the goal is as simple as saying that it's a legitimate user of your
+software on a particular distribution channel.
+So okay, what's a legitimate user?
+Well, a legitimate user would be an actual user, not your automated use, not whether
+there was piracy, not someone that had bought it and instantly refunded it, but like a legitimate
+first time that someone was engaging with your free-to-play game or your paid game.
+What's a distribution channel?
+Well, an app store is a distribution channel.
+So if that user went to a particular store and bought it or downloaded it or whatever,
+then you would start thinking of that as sort of doing it.
+Now if they had multiple devices or they reinstalled it, you don't count those multiple times.
+Because I might have gotten the same thing in my library from a store that I can use
+on a couple of different devices, great.
+That's one, not two.
+So there's a bunch more examples that are around that in the FAQ and we're very committed
+to making sure that we give more details around that.
+But our intent is very simple, which is that the first time that your game with our runtime
+engages with a very legitimate user on a distribution channel, use that as account.
+And then again, we think that many times that will be much less than this 2.5% revenue share.
+And so you could pay less or less through that, or you just go to the revenue share
+if you didn't want to track that.
+Whitten also went into detail on why they went with a fee for an install rather than
+a fee for a sale.
+Why was there a whole install thing in the beginning anyway?
+We think it's going to be cheaper for a lot of games.
+So listen, we're trying to build a model that we think is fair and is a good value exchange
+that works for games once they find a level of success.
+And we also want to tie it to this value that Unity brings, which is our runtime that's
+inside of the games themselves.
+And so it felt like a way where we could tie those two pieces together.
+And we think that in a pretty reasonable number of cases, that that's actually a smaller number.
+And we think that's good.
+Now what we heard, got a lot of really, really good feedback is that there were cases where
+people first off couldn't plan because they're like, well, I don't know, maybe something's
+going to go crazy or I have this particular scenario and that doesn't work.
+And so adding in the 2.5% revenue share as an option, you can only use that, or where
+you have the both.
+And so you can always plan for it and hopefully do better, definitely was, frankly, my opinion
+makes the plan better based on what we were trying to do.
+So it was really good feedback.
+Yeah, I was, to be honest, I said this in my streams earlier that the idea of being
+forced on a rev share doesn't sound appealing to me, but I've come from the background of
+MMOs and, you know, 50, $60 AAA games where a small install fee, we're looking at less
+than 1% or a 1% fee.
+So I like the option of both, but yeah, I haven't understood the argument of just force
+a rev share.
+So hopefully that doesn't change and we stay with both options.
+I assume that's the plan.
+Oh, that's absolutely the plan or the plan is that choice.
+This actually sounds reasonable, like, yeah, free to play games would have no game sales
+they could cut off.
+Also people who just own a ton of random steam games from sales or humble bundles or something,
+but never actually play them, they won't trigger a fee either.
+By the way, I have a humble bundle affiliate link in the description, make sure to use
+it to buy your games.
+Basically, I know that it's Witten's job to put his company's best foot forward.
+He's obviously not impartial here, but he did offer an apology and some decent reasons
+as to why Unity decided to change their payment structure.
+But there is a second possible reason, one that isn't quite so above board.
+Remember when I mentioned that Unity was gobbling up companies left and right?
+Well, their expansion led them to buy out IronSource back in July of 2022.
+It's a bit tricky to figure out what IronSource actually does.
+Their Wikipedia page lists them as a mobile games company, but they don't seem to have
+put out any games.
+Their website says, one platform to turn your app into a business.
+Our platform lets you focus on what you do best, creating great apps and user experiences
+while we take care of the rest.
+Get the IronSource SDK to start monetizing your app and acquiring quality users.
+SDK just stands for Software Development Kit.
+Basically, it's a set of tools you can use to make a program.
+So alright, they sell tools that developers use to make games, just like Unity.
+IronSource used to sell their tools back in 2011 under the name InstallCore, and InstallCore
+has a sordid history.
+Various anti-virus and anti-malware applications began to label InstallCore as malware starting
+in 2014.
+InstallCore was an application that allowed those using it to include monetization in
+their programs through advertising, as well as making it possible to charge companies
+per installation through install tracking.
+It could also add toolbars to your internet browser that were difficult to remove, record
+your computer's processes, and send that data back home, and it was also the main reason
+that when you went to install a legitimate application, you often found that a whole
+bunch of other garbage got installed along with it.
+InstallCore became one of the most infamous bits of malware of the 2010s.
+InstallCore was phased out in 2020, having been replaced with the IronCore SDK, which
+is basically just more of the same.
+In fact, whenever you're on the Pirate Bay or some other torrent site or downloading
+site, and you see a banner ad claiming to lead you to a Google Chrome install but actually
+goes to some malware URL, that's generally IronCore's work.
+If you were to click on one of those obvious links, IronCore would install a toolbar into
+your browser that would display ads to you, track your internet usage, and lag the fuck
+out of your PC.
+Unity completed their buyout of IronSource in November of 2022.
+As part of the deal, IronSource's CEO joined the Unity board of directors.
+A few months later, the Unity board began the discussion of how to further monetize
+Unity and eventually came up with the idea of a per-install fee.
+It's not too much of a stretch to say that Unity, having just acquired a company that
+specialized in tracking malware, might put that software to use in the tracking of their
+users.
+Right now, everybody's claiming Unity's now ex-CEO, John Risatello, for this whole
+shit show.
+There's a pretty convincing story for that interpretation of events.
+Risatello was previously the CEO at EA, a gaming company that everyone's loved to
+hate for about, I don't know, 30 years now.
+He was brought into Unity back in 2014 and began to push for the company's aggressive
+expansion.
+During an interview, Risatello explained his logic behind Unity acquiring IronSource.
+We realized we shared a common vision, and with Unity, most of the world's game content
+is built on Unity.
+We've also got a really strong monetization network.
+And what we're trying to get to, you know, over the course of many years, is a platform
+where a creator can make the best content and monetize the best content.
+And sometimes monetization is harder than it is to build the great game.
+If you don't have a great business to go with a great game, you don't have a great
+game because you don't have the resources to make it.
+And so here, what this is about is they have some tools that are pretty amazing that if
+you add them to our stack, we can get to a place where a creator can get user feedback
+on pieces of the game along the way.
+So they know how the game or the digital twin or whatever the real-time 3D content is made
+to be.
+And they get feedback on user engagement and what's working, not working, and not working,
+and also simultaneously get feedback on what it takes to acquire a user.
+So the outgrowth of a unified creation and growth platform that we could put together
+is really better content and a better business in a way that we think is really magical for
+creators.
+While I'm sure there's certainly some very positive uses for IronSource's tracking tools,
+he does make a good case for them, it's also very easy to see how it's not all sunshine
+and rainbows, where Satello went into more detail on the data front, specifically saying
+more data is good.
+means we're not dependent on any one data source, and so they've got a lot of different
+data sources and so do we.
+It's a large number, I can list them if you want.
+The second is they've got a leading mediation tool, which is an important part of a full
+stack monetization platform.
+We will bring more data, more demand to that platform, and that's helpful to both companies.
+Again, customers win, we win.
+And third, they've got a set of publishing tools that they call SuperSonic.
+And it's a great solution for the long tail.
+Firstly, everybody in the long tail makes their games on Unity.
+This is one of those peanut butter and chocolate mixes where we've got the customer that they
+need, they've got the solution we need, and we see strong synergy in that.
+When Unity went public back in September of 2020, a few choice groups bought up a significant
+amount of their stock.
+A lot of people who follow stock ownership conspiracies will likely recognize some of
+these names.
+Sequoia Capital, Silver Lake Management, The Vanguard Group.
+Ironsource was even praised by the World Economic Forum as one of their preferred global growth
+companies.
+Okay, I'm not going to be diving into the Klaus Schwab rabbit hole today, I'm not prepared
+for it right now.
+And frankly, I don't think I believe a lot of it.
+I'm bringing this up because the CEO of a public company serves at the pleasure of the
+shareholder board.
+Even if Risatello disagreed with the Ironsource merger, and he probably didn't, he wasn't
+in a position to actually reject it, considering that Silver Lake and Sequoia announced an
+additional $1 billion of investment into the company if they took the deal.
+Risatello sold 2,000 Unity shares six days before the pricing announcement.
+He's been selling shares of Unity all year.
+Other executives at Unity have been doing the same.
+I think people at Unity have a feeling that things are starting to go belly up, despite
+their public statements otherwise.
+And now that Unity's had a spectacular PR blowout, Risatello has probably decided that
+now is the time for him to step down.
+What's likely is that he saw the writing on the wall, cashed out, and abandoned the sinking
+ship.
+He may have been the accidental orchestrator of this disaster, and decided to cut his losses
+and leave.
+He might have objected to the merger and been overruled by the owners of Unity, and now
+he's taken off before things really go tits up.
+Either way, he's gone, and the internet has certainly decided to blame him for everything.
+By the way, I personally believe that the Ironsource malware tracking story is probably
+more likely than the Mark Ritten, everything is totally cool story, because Unity announced
+that it will quietly waive all of those fees if game developers switch to their in-game
+ad monetization service.
+Another bit of software that came along with the Ironsource acquisition.
+Oh, also because of that $1 billion invested from Sequoia and Silver Lake to make that
+Ironsource deal go down smoothly, a chunk of it probably went towards executive compensation
+packages.
+$45 million over three years for Risatello, and $47 million over two years to Ritten,
+not to mention the other executives.
+Neil Long, reporting for the website Mobile Gamer, was contacted by sources within Unity
+about the whole fiasco.
+They are anonymous sources, presumably because they don't want to lose their jobs, so take
+this with a grain of salt.
+This was published only a few days ago on October 23rd, and it seems to be the most
+recent news in the story.
+I would wager a guess that now that the initial controversy has blown over, these guys felt
+more comfortable talking to the press.
+A major mobile game publisher and one of Unity's biggest clients met with John Risatello himself
+after the first runtime fee policy was announced.
+They directly told him, fuck you, we're not paying.
+Unity planned to announce a 4% revenue share for games that earned over $1 million, slightly
+undercutting Unreal Engine's 5%.
+But the response was so fierce, it was knocked down to 2.5% in the second tweaked policy,
+announced a week and a half later.
+Before the original runtime fee announcement was made, a very large group of senior Unity
+managers met to discuss the proposed changes.
+Half of the people in that meeting said that the model was too complicated.
+It wasn't going to be well-received and that they should talk to other people before they
+do it.
+Apparently, Unity had spoken to people, they didn't say who it was.
+The whole thing felt very rushed.
+They had a meeting and they were told that it was happening, but they weren't told to
+date.
+This actually sounds a lot like something that Mark Whitten said in that interview from
+earlier.
+feedback and we need to do better and I can tell you you know as an example on Sunday
+I think it's been a long week so the days together a little bit but on Sunday I think
+we put up on on X a kind of a statement saying that we'll get back to you in a couple of
+days the reason we didn't get back to you in a couple of days is because we were as
+we were working through the plan we were going back and talking to big customers independent
+developers partners over and over again to get that feedback because I think the most
+fundamental thing about talking to customers is it's it's kind of an ongoing iterative
+conversation and we didn't do that well enough and you know now I'm very very convicted on
+this policy that we're doing that the source also said that the company Apple oven is dominating
+and unity tried to use this policy as a forcing agent to try and get back some market share
+it was iron source and unity's play to increase their mediation business and developers have
+been caught in the crossfire of this mediation war that's been going on for a couple of years
+now here's the deep lore on that iron source has a competitor in the advertisements in
+apps space called app lovin app lovin is a larger company without the reputation of spreading
+malware around and when unity announced their desire to merge with iron source in 2022 app
+lovin seeing their competitor merge with a major player decided to counter offer they
+would buy unity instead and offered up 17 billion dollars for the deal unity ultimately rejected
+them sticking with their iron source acquisition instead which cost them around 4.4 billion to
+complete neil long reported previously on the app love and story back in september where multiple
+game development studios using unity admitted that unity quietly offered to waive the runtime
+fee if they switched away from app lovin and used their in-app advertisement tools instead
+one developer specifically speculated that iron source has wanted to kill app lovin for a long
+time and now unity as iron sources owner and with iron source executives on their board have
+continued that goal app lovin has been dominating this specific market offering what developers
+claim is a superior product to iron sources an iron sources game plan has been to integrate
+themselves vertically to control access to other pieces of the market chain rather than develop
+their own superior product the developers have also stated that this move has come from the iron
+source side of the merged business not the unity side and that while large companies can simply
+pay the fee small developers have no choice but to accept unity's in-app advertisement tools in
+order to save their projects going back to the october article the anonymous sources inside unity
+confirmed that neil long's reporting and the developer assertions from the september article
+were actually accurate a second large mobile publisher who also refused to switch from
+app lovin to iron source was told by the company that that was the last time you could have got
+that money and that in the future presumably when the terms of service changed again they will be
+forced to use iron source and that iron source's intention is to completely wipe app lovin out
+nonetheless the source at unity doesn't believe this was done maliciously unity has lost a lot
+of money over the last 18 years billions of dollars and they need to do something to make
+money sadly this wasn't delivered well but the need to make more money is still there again this
+is very similar to something witten said earlier why did you go about doing this whole thing the
+the pricing plan change putting this up posting it out there making a lot of people angry of course
+and then rolling it back a week later like what was the point of doing all that if you're gonna
+kind of do this roll back afterwards well uh the most fundamental thing that we're trying to do is
+we're building a sustainable business for unity and for us that means that we do need to have a
+model that includes some sort of balanced exchange including shared success that's really really
+important for the the long-term future of how we think about um our business how we think about the
+engine and the main reason is really clear it has to be a sustainable business we want to keep
+massively and deeply investing in the engine we want to make sure that we can build the best
+editor and runtime for everyone to build the games today and tomorrow and that's the reason why we
+work on it very very focused on that it's very important for unity according to like your
+internal projections is this going to be enough to just keep things stable or do you feel like
+you're going to need to re-evaluate in another year or two uh well listen you know when we make
+a shift that says that it doesn't start until next year obviously that means that games that
+are participating in the runtime are going to come later so like there's a shift on sort of where some
+of that comes but this is about a business model transition this isn't about hey we need to do
+something for the next three months or something like that this is about setting up the foundation
+of the company this this program is critical for us for the foundation of the company
+to be able to continue to invest for a very very long period of time so if the shape kind of is
+like this you know like a little shape that goes like this versus being earlier that's less
+relevant than making sure that we have a right program that works for our creators that's why
+i believe that this is a better program because i think we got great feedback to make it a better
+program and works for unity it's not just resatella who's decided to abandon the unity
+sinking ship the source mentioned that many people have begun to apply elsewhere in the
+games industry the writing's on the wall unity stock was at 200 in november of 2021
+well before the iron source merger while it's now sitting at around 26 what makes this really funny
+is that unity stock price has collapsed so much since this shit show began that applevan can
+actually afford to just buy them outright again which they are currently considering
+but it turns out despite whitman's remarks about the thresholds and whatever else in that interview
+the people who will actually be affected by the changes at unity are the middle of the road
+creators the unity source remarked that a lot of the outcry from indie devs was misplaced as none
+of them will ever get anywhere near the 1 million dollar threshold anyway that rules out the indie
+underclass meanwhile anyone in a bigger developer's business team or sales team is going to be able to
+reduce those fees some big clients might leave other big clients might keep using unity and
+simply pay a fee to avoid switching over to applevan that rules out the big names the only
+ones who are going to start seeing serious money losses are the successful indies who are nonetheless
+still a small companies like the hollow knights and the shovel knights and the undertales of the
+world it's these people who will feel the pinch from unity so that brings us to the end is it
+possible that unity was actually going okay not great but okay until deciding to buy iron source
+a plague blanket of a company a deal which the executives were incentivized to take due to a
+fat stack of cash provided to them by their investors which explains why they rejected
+the applevan counteroffer a deal which left unity on the hook for a huge bill as well as ownership
+of a bunch of tracking software that they had to somehow monetize leading them to pull this
+retarded stunt on their own consumer base causing consumer confidence in their product to completely
+vanish ending with the whole house of cards collapsing it's entirely possible but without
+detailed information about the various mergers and acquisitions we can't be sure what we do know is
+that individual on the ground game developers don't trust unity anymore publishers don't trust unity
+anymore gamers don't trust unity anymore no one trusts unity anymore trust is hard to earn and
+easy to lose and unity burned over a decade of trust in one swift stupid move many game developers
+are pledging to move their games over from unity if possible others are saying that their next
+titles won't use unity people are already beginning to make quick conversion tools for people moving
+their stuff from unity to unreal or whatever people are asking if it's legal for unity to
+simply unilaterally change the terms of service and they're finding out that as long as there's
+enough time before changes are implemented and as long as customers re-sign the deal next time they
+boot up the application companies that offer a service can change that service as they see fit
+they're not bound to do the exact same thing in perpetuity just because you want them to
+this next question is one i have been wondering and i don't know anything about and they were
+wondering if it's legal to change the terms of service overnight and i don't know if it was
+necessarily overnight but do you know i don't know anything about the legal side of this stuff
+all i've heard is random speculation from people who are also not lawyers well i mean i mean i
+think at sort of one level uh all companies change their terms over time you know frequently and
+constantly and consistently you know because frankly the world changes gaming is a very
+dynamic world the world we live in is dynamic and there are obviously always new things that are
+that are being added or whatever however i want to back up from that and say you know it kind of
+comes back to your trust point which is i think one thing that i heard a lot is people very very
+deeply need to know what they're signing up for when they pick a version of unity to build their
+game on and that they can you know be sure that they can continue to use that and i think that
+feedback and there's a lot of other things that come along with trust so i just want to be clear
+but that feedback is really really really super clear and that's one reason why you know what i
+talked about today we're going to make sure that you can do that the problem with this all is that
+it requires trust the very thing that unity has just torched customers need to trust that unity
+is not darth vader altering the deal on a whim in some unfair way and that's out the window now
+whitton did state in that interview that they haven't seen a significant drop in unity developers
+like do you know that there's been a dip in users or is that something that you have to wait a
+little while to see i mean i listen i see all of it on uh like any channel where we get feedback
+obviously we see all the the feedback i haven't seen anything in our like actual numbers uh that
+would show that not saying that that means it's not happening uh and i i will just say that it's
+my job to make sure that we build the best product um so that um people don't want to do that and
+that they want to stay on unity and build great games that might be true we probably won't know
+until their next quarterly report despite all the backlash and all the pr spin from unity they
+ultimately still aren't backing down i don't even necessarily begrudge them for wanting to make a
+bit more money they're not exactly making tons of it right now though i do know where they probably
+could pull a few bucks we rift or essentially reduce um some job categories for total about
+250 and of course i i feel deeply about every individual so don't get me wrong the story for
+one person is paid so i want to be clear about whenever there's job losses and most unity users
+do actually pay them nothing for the use of their product but they bungled this so badly it might
+actually mean the end of unity and that means i'm probably never getting hollow knight silks on
+god damn it all right guys that about does it for me i know i'm late to the unity story we talked
+about it on the archcast like a month ago for example but my laziness or my my prudence has
+paid off if you want to hear more from me naomi and i recently recorded a vlog where we watched
+the classic film they live in theaters click on the link on screen and i'll see you over there
+have a good one guys i love you

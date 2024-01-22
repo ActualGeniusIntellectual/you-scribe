@@ -1,0 +1,4056 @@
+1
+00:00:00,000 --> 00:00:10,800
+Have you ever noticed how people who are particularly ignorant of the internet call 4chan or Newgrounds
+
+2
+00:00:10,800 --> 00:00:12,360
+a social media platform?
+
+3
+00:00:12,360 --> 00:00:15,720
+I've heard this from boomers who still think that TV is a new technology.
+
+4
+00:00:15,720 --> 00:00:19,160
+They have no idea what the internet is, and they're just using the terms they hear their
+
+5
+00:00:19,160 --> 00:00:20,160
+grandkids saying.
+
+6
+00:00:20,160 --> 00:00:24,280
+But I've also heard it from zoomers who only consume online content through whatever
+
+7
+00:00:24,280 --> 00:00:26,320
+apps come preloaded on their smartphone.
+
+8
+00:00:26,320 --> 00:00:29,160
+To them, the entire internet is literally just whatever is in front of the curtain.
+
+9
+00:00:29,160 --> 00:00:31,120
+I guess as a millennial, I got lucky.
+
+10
+00:00:31,120 --> 00:00:34,740
+My youngest years were in an era before the internet, and I still got a taste of that
+
+11
+00:00:34,740 --> 00:00:38,480
+it's summer, go outside with your friends and be home by dinnertime experience.
+
+12
+00:00:38,480 --> 00:00:43,060
+But when I finally did make my way online, it was amazingly decentralized.
+
+13
+00:00:43,060 --> 00:00:46,640
+Each community had its own website, its own form, its own type of service, when nowadays
+
+14
+00:00:46,640 --> 00:00:48,740
+they're all on Twitter or YouTube or whatever.
+
+15
+00:00:48,740 --> 00:00:53,040
+You can definitely see different species of sites emerge as time went on.
+
+16
+00:00:53,040 --> 00:00:57,320
+We call Twitter a social media platform, but what it really is, is a microblogging service.
+
+17
+00:00:57,320 --> 00:01:01,560
+A place where you can post short length random thoughts in a timeline structure.
+
+18
+00:01:01,560 --> 00:01:05,240
+Facebook operates this way too, same with Gab, Parler, Getter, and Truth Social.
+
+19
+00:01:05,240 --> 00:01:06,520
+They're all microbloggers.
+
+20
+00:01:06,520 --> 00:01:10,760
+To contrast, YouTube and TikTok, though they're also considered social media, they're not
+
+21
+00:01:10,760 --> 00:01:11,760
+microbloggers.
+
+22
+00:01:11,760 --> 00:01:15,900
+4chan's an image board, like 2chan and 7chan and 420chan and all the other chans that have
+
+23
+00:01:15,900 --> 00:01:17,300
+popped in and out of existence.
+
+24
+00:01:17,300 --> 00:01:21,360
+And hey, just as a side note, do you remember that one 4chan April Fools prank where Moot
+
+25
+00:01:21,360 --> 00:01:25,520
+added a cross post to Facebook option and a bunch of retards thinking it was a troll,
+
+26
+00:01:25,520 --> 00:01:29,280
+ended up putting porn and shit all over their normie Facebooks for their parents to see?
+
+27
+00:01:29,280 --> 00:01:30,820
+Ah, that was good times.
+
+28
+00:01:30,820 --> 00:01:36,060
+Point is, the phrase social media seems to have morphed into a Gen Z term for what we
+
+29
+00:01:36,060 --> 00:01:40,040
+used to call a website when there's actually multiple different types of sites.
+
+30
+00:01:40,040 --> 00:01:42,560
+From forms to blogs to video platforms.
+
+31
+00:01:42,560 --> 00:01:48,520
+The streamer Destiny's website, destiny.gg or DGG, was kind of hard to quantify using
+
+32
+00:01:48,520 --> 00:01:50,240
+this paradigm, at least for me.
+
+33
+00:01:50,240 --> 00:01:51,840
+Here was my thought process on it.
+
+34
+00:01:51,840 --> 00:01:55,720
+It's certainly a repository of his stream and YouTube content, but it also serves partially
+
+35
+00:01:55,720 --> 00:01:58,280
+as his blog, his merch store, and even his forums.
+
+36
+00:01:58,280 --> 00:02:02,820
+And it's got a particular, slick feeling that makes it stand out beyond other portals,
+
+37
+00:02:02,820 --> 00:02:04,360
+like Channel Awesome or Newgrounds.
+
+38
+00:02:04,360 --> 00:02:08,240
+Also, as somebody who's not really a part of the Twitch politics side of the internet,
+
+39
+00:02:08,240 --> 00:02:13,360
+when I first noticed that Vosh's website, VGG, was basically a carbon copy of Destiny's,
+
+40
+00:02:13,360 --> 00:02:17,160
+I figured that this was some sort of shared plugin system or drop and run setup that was
+
+41
+00:02:17,160 --> 00:02:18,160
+common among this community.
+
+42
+00:02:18,160 --> 00:02:21,720
+I don't know, is it called a GG site, is that what we're talking about here?
+
+43
+00:02:22,600 --> 00:02:24,800
+That's when I discovered what I thought was the source of these sites.
+
+44
+00:02:24,800 --> 00:02:29,520
+A service called White Leaf or White Forest, run by a person named White Nervosa.
+
+45
+00:02:29,520 --> 00:02:33,680
+Turns out, White Leaf is the type of website, White Forest is the company providing it,
+
+46
+00:02:33,680 --> 00:02:35,400
+and White Nervosa is the person.
+
+47
+00:02:35,400 --> 00:02:39,560
+White Forest is legally a worker co-op, with nine members, one member, one vote.
+
+48
+00:02:39,560 --> 00:02:43,460
+They operate White Leaf sites, as well as doing merch fulfillment, thanks to the financial
+
+49
+00:02:43,460 --> 00:02:44,640
+support of Vosh.
+
+50
+00:02:44,640 --> 00:02:48,680
+Their stated goal is to provide an accessible and independent platform for content creators.
+
+51
+00:02:48,680 --> 00:02:53,080
+And they do have an extensive list of reasonably high-profile leftist people they host.
+
+52
+00:02:53,080 --> 00:02:57,520
+The ones that I recognize personally are Vosh, Shuonhead, Kefls, Chrisraygun, The Surfs,
+
+53
+00:02:57,520 --> 00:03:02,160
+Dylan Burns, Konur, who is some femboy in Vosh's Polycule, Merrick, Xanderhal, The
+
+54
+00:03:02,160 --> 00:03:06,800
+Deer Girl, Demon Mama, and Counterpoints, who's actually a Burkean conservative, not
+
+55
+00:03:06,800 --> 00:03:07,800
+a leftist.
+
+56
+00:03:07,800 --> 00:03:11,520
+Which initially made me think this service might have been apolitical, just used primarily
+
+57
+00:03:11,520 --> 00:03:12,520
+by leftists.
+
+58
+00:03:12,520 --> 00:03:14,680
+But of course, that's actually not the case.
+
+59
+00:03:14,680 --> 00:03:18,960
+Although the White Forest company is kept afloat by patrons, it's also directly funded
+
+60
+00:03:18,960 --> 00:03:19,960
+by Vosh.
+
+61
+00:03:19,960 --> 00:03:24,540
+The fine print reads, no White Leaf users are necessarily affiliated with or endorsed
+
+62
+00:03:24,540 --> 00:03:27,500
+by White Nervosa or other members of White Forest.
+
+63
+00:03:27,500 --> 00:03:32,320
+The only content creators that pay White Forest are Vosh or those who choose to be a patron.
+
+64
+00:03:32,320 --> 00:03:35,600
+And then I noticed another interesting tidbit down there.
+
+65
+00:03:35,600 --> 00:03:40,240
+Website framework is a derivative work from DGG, Creative Commons Attribution, Share Like
+
+66
+00:03:40,240 --> 00:03:41,240
+3.0.
+
+67
+00:03:41,240 --> 00:03:42,240
+That's right!
+
+68
+00:03:42,240 --> 00:03:44,640
+DGG is not on the list of White Leaf sites.
+
+69
+00:03:44,640 --> 00:03:48,680
+DGG isn't a White Leaf site, all the White Leaf sites are ripoffs of DGG.
+
+70
+00:03:48,680 --> 00:03:51,260
+There's a fella in Destiny's community named Cake.
+
+71
+00:03:51,260 --> 00:03:52,600
+He does a lot of the tech work over there.
+
+72
+00:03:52,600 --> 00:03:55,980
+I've had a couple of casual conversations with him, nice guy, seems competent.
+
+73
+00:03:55,980 --> 00:03:58,560
+He put out a history of DGG to set the record straight.
+
+74
+00:03:58,560 --> 00:04:02,760
+The code behind DGG was open source and available for anyone to use, because Destiny wanted
+
+75
+00:04:02,760 --> 00:04:06,440
+other content creators to have something they could use for themselves to help bootstrap
+
+76
+00:04:06,440 --> 00:04:07,440
+their own careers.
+
+77
+00:04:07,600 --> 00:04:13,400
+In early 2019, White Nervosa took the DGG code and made a variant of it for Vosh, VGG,
+
+78
+00:04:13,400 --> 00:04:15,540
+which eventually became the White Leaf template.
+
+79
+00:04:15,540 --> 00:04:19,840
+There was actually early drama between Cake and White Nervosa, as Cake provided his assistants
+
+80
+00:04:19,840 --> 00:04:24,140
+believing his work was going towards White Nervosa's own site, not Vosh's site, or
+
+81
+00:04:24,140 --> 00:04:26,600
+to create a service for many other creators.
+
+82
+00:04:26,600 --> 00:04:29,960
+As somebody relatively new to this section of the internet, this stunned me.
+
+83
+00:04:29,960 --> 00:04:33,680
+How the hell was it that all of these people who hate Destiny have the gall to blatantly
+
+84
+00:04:33,680 --> 00:04:37,680
+rip off his site code, even going so far as to say Destiny's got nothing to do with
+
+85
+00:04:37,680 --> 00:04:38,680
+it?
+
+86
+00:04:38,680 --> 00:04:42,700
+Alright, here's where I would have subbed in that viral clip of Kefl's from last summer,
+
+87
+00:04:42,700 --> 00:04:46,560
+streaming during the opening of her own White Leaf site, KGG, where she made the claim that
+
+88
+00:04:46,560 --> 00:04:49,880
+her site was actually not ripped off from Destiny's and he had nothing to do with
+
+89
+00:04:49,880 --> 00:04:50,880
+it.
+
+90
+00:04:50,880 --> 00:04:52,700
+I remember seeing that clip all over the place back then.
+
+91
+00:04:52,700 --> 00:04:57,280
+It must have been retweeted back onto my timeline at least a few dozen times, but by January
+
+92
+00:04:57,280 --> 00:04:59,680
+2023, it seems to have vanished from the internet.
+
+93
+00:04:59,680 --> 00:05:01,720
+Ah well, I'm sure you all remember it.
+
+94
+00:05:01,720 --> 00:05:05,340
+It feels kind of like people trying to say that JK Rowling isn't the real creator of
+
+95
+00:05:05,340 --> 00:05:08,800
+Harry Potter now that her TERF views have come to light, or the Five Nights at Freddy's
+
+96
+00:05:08,800 --> 00:05:12,080
+guy doesn't count as the creator after it came out he was pro-life.
+
+97
+00:05:12,080 --> 00:05:13,320
+It's not hard to see how we got to this point.
+
+98
+00:05:13,320 --> 00:05:15,440
+I've done a lot of videos on this topic before.
+
+99
+00:05:15,440 --> 00:05:18,760
+Mindless consequentialism, truth is downstream from power, just make reality whatever serves
+
+100
+00:05:18,760 --> 00:05:20,900
+the politics, you know the story at this point.
+
+101
+00:05:20,900 --> 00:05:25,200
+Because of the volatility between Destiny and, like, all of the people using White Leaf
+
+102
+00:05:25,200 --> 00:05:27,360
+sites, this was obviously going to blow up eventually.
+
+103
+00:05:27,360 --> 00:05:30,480
+And it did, with the deplatforming of Rose Wriste.
+
+104
+00:05:30,480 --> 00:05:33,280
+Rose Wriste is some young Shoda kid who used to be a streamer.
+
+105
+00:05:33,280 --> 00:05:35,360
+I think he gave it up to go to school or something.
+
+106
+00:05:35,360 --> 00:05:40,080
+He's very progressive, very much a Nordic model kind of guy, but he is not a revolutionary
+
+107
+00:05:40,080 --> 00:05:41,080
+socialist.
+
+108
+00:05:41,080 --> 00:05:44,420
+During the Trump era, he and many others like him sided with the socialists online.
+
+109
+00:05:44,420 --> 00:05:49,200
+But post-Trump, Rose Wriste is another casualty on a long list of casualties from the internet's
+
+110
+00:05:49,200 --> 00:05:52,060
+socialist-slash-social-liberal split.
+
+111
+00:05:52,060 --> 00:05:55,380
+Rose Wriste helped Destiny with his huge manifesto on Kefls.
+
+112
+00:05:55,380 --> 00:05:59,240
+As far as I know, not in terms of digging up information, but in terms of grammar and
+
+113
+00:05:59,240 --> 00:06:02,140
+spell-checking, and also working over his logical inferences.
+
+114
+00:06:02,140 --> 00:06:05,220
+In other words, not on content, but on presentation and polish.
+
+115
+00:06:05,220 --> 00:06:09,600
+In response, Rose Wriste's White Leaf site, roserist.com, I think it was, was made to
+
+116
+00:06:09,600 --> 00:06:12,920
+redirect to the Drop Kiwi Farms site that Kefls put up.
+
+117
+00:06:12,920 --> 00:06:15,840
+Here's the DMs between Rose Wriste and White Nervosa.
+
+118
+00:06:15,840 --> 00:06:17,160
+Did you change my website?
+
+119
+00:06:17,160 --> 00:06:20,840
+White Forest has voted, worker co-op, remember, to discontinue servers to your site.
+
+120
+00:06:20,840 --> 00:06:22,120
+I wish you the best of luck.
+
+121
+00:06:22,120 --> 00:06:23,360
+Okay, I understand.
+
+122
+00:06:23,360 --> 00:06:26,940
+Can you then fully detach all your stuff from my purchased domain so that it's just a dead
+
+123
+00:06:26,940 --> 00:06:27,940
+link?
+
+124
+00:06:27,940 --> 00:06:28,940
+You own the domain.
+
+125
+00:06:28,940 --> 00:06:31,940
+I know that I'm not particularly adept when it comes to website stuff.
+
+126
+00:06:31,940 --> 00:06:35,140
+I could probably figure out how to disconnect it myself, but I just wanted to ask.
+
+127
+00:06:35,140 --> 00:06:39,820
+Cake charges $3,000 and then $150 a month for the services you were given.
+
+128
+00:06:39,820 --> 00:06:41,420
+You cannot ask me for help, no.
+
+129
+00:06:41,420 --> 00:06:45,240
+Okay, so to be clear, you won't even detach the stuff you've attached to my domain after
+
+130
+00:06:45,240 --> 00:06:46,580
+you decided to drop it?
+
+131
+00:06:46,580 --> 00:06:48,280
+To be clear, it is your domain.
+
+132
+00:06:48,280 --> 00:06:51,700
+If you don't understand that I can't detach it from my servers, that's not my problem.
+
+133
+00:06:51,700 --> 00:06:55,020
+Sure, but you're doing something to redirect it to Drop Kiwi Farms, right?
+
+134
+00:06:55,020 --> 00:06:56,020
+Good luck.
+
+135
+00:06:56,020 --> 00:06:57,700
+Thanks for all your help over the past two years.
+
+136
+00:06:57,700 --> 00:06:58,700
+I appreciate it.
+
+137
+00:06:59,460 --> 00:07:02,740
+Your words ring hollow, but I hope you grow to understand my position.
+
+138
+00:07:02,740 --> 00:07:04,800
+Here's the tech explanation of what's going on.
+
+139
+00:07:04,800 --> 00:07:08,900
+When you put in a website into your browser, Google.com for example, your computer communicates
+
+140
+00:07:08,900 --> 00:07:10,500
+with a domain name registrar.
+
+141
+00:07:10,500 --> 00:07:14,780
+Google owns the domain name Google.com, and the registrar links that domain with an IP
+
+142
+00:07:14,780 --> 00:07:19,600
+address, in this case 142.251.42.100.
+
+143
+00:07:19,600 --> 00:07:23,300
+If you were to type that set of numbers into your browser, you'd go to the Google homepage.
+
+144
+00:07:23,300 --> 00:07:28,200
+And believe it or not, in the very early internet, there was no domain names, only IP addresses.
+
+145
+00:07:28,200 --> 00:07:31,800
+You had to memorize which addresses led to which sites, like telephone numbers without
+
+146
+00:07:31,800 --> 00:07:32,800
+profiles attached.
+
+147
+00:07:32,800 --> 00:07:36,760
+So, the IP address is the number of a physical computer somewhere on the internet that hosts
+
+148
+00:07:36,760 --> 00:07:37,760
+the website.
+
+149
+00:07:37,760 --> 00:07:40,600
+And the domain name is a shorthand for that address, registered with the registrar.
+
+150
+00:07:40,600 --> 00:07:45,340
+Rose Wriste owns the domain name RoseWriste.com, and he asked his registrar to have it point
+
+151
+00:07:45,340 --> 00:07:48,640
+to the IP address of his White Leaf site hosted by White Forest.
+
+152
+00:07:48,640 --> 00:07:53,400
+But what White Nervosa did was have the IP address on White Forest's end redirect to
+
+153
+00:07:53,400 --> 00:07:55,240
+the Kefl's Drop Kiwi Farms page.
+
+154
+00:07:55,240 --> 00:07:59,400
+All Rose Wriste had to do to remedy the situation was to log in to his registrar and have it
+
+155
+00:07:59,400 --> 00:08:00,740
+point at a different IP.
+
+156
+00:08:00,740 --> 00:08:03,960
+But Rose Wriste, not being very tech-savvy, didn't know any of this.
+
+157
+00:08:03,960 --> 00:08:06,280
+Something that White Nervosa knew he was ignorant of.
+
+158
+00:08:06,280 --> 00:08:10,320
+That's why the only reply given when Rose Wriste asked, you're doing something to
+
+159
+00:08:10,320 --> 00:08:13,200
+redirect it to Drop Kiwi Farms, right, was, good luck.
+
+160
+00:08:13,200 --> 00:08:17,160
+No admission of guilt or innocence, no confirm or denial, just have fun figuring it out,
+
+161
+00:08:17,160 --> 00:08:18,160
+fuck you.
+
+162
+00:08:18,160 --> 00:08:21,520
+I should point out that Rose Wriste, like every other creator with White Forest, with
+
+163
+00:08:21,520 --> 00:08:24,360
+the exception of Vosh, didn't pay for a White Leaf site.
+
+164
+00:08:24,360 --> 00:08:27,960
+And White Nervosa retains the right to stop working with anyone at any time.
+
+165
+00:08:27,960 --> 00:08:31,300
+Nothing illegal has been done here, but it's certainly pretty scummy behavior, taking advantage
+
+166
+00:08:31,300 --> 00:08:33,940
+of Rose Wriste's ignorance on tech topics.
+
+167
+00:08:33,940 --> 00:08:38,480
+And eventually, Rose Wriste released a detailed manifesto describing his experience working
+
+168
+00:08:38,480 --> 00:08:42,600
+with White Forest, where it became clear that this wasn't the only scummy thing White
+
+169
+00:08:42,600 --> 00:08:43,960
+Nervosa had done.
+
+170
+00:08:43,960 --> 00:08:48,320
+Here is a list of 9 complaints Rose Wriste had regarding his time affiliated with White
+
+171
+00:08:48,320 --> 00:08:49,320
+Forest.
+
+172
+00:08:49,320 --> 00:08:50,320
+1.
+
+173
+00:08:50,320 --> 00:08:53,800
+He was not given an opportunity to make his case when White Forest voted to discontinue
+
+174
+00:08:54,240 --> 00:08:55,240
+2.
+
+175
+00:08:55,240 --> 00:08:57,240
+He was not even given notice that such a vote was happening
+
+176
+00:08:57,240 --> 00:08:58,240
+3.
+
+177
+00:08:58,240 --> 00:09:02,240
+He was not even given notice that services to his website had stopped and only found
+
+178
+00:09:02,240 --> 00:09:04,080
+out several days later 4.
+
+179
+00:09:04,080 --> 00:09:07,880
+He did not consent to White Forest and White Nervosa changing the server connected to his
+
+180
+00:09:07,880 --> 00:09:11,560
+domain to make it redirect to a website that they knew he was opposed to
+
+181
+00:09:11,560 --> 00:09:12,560
+5.
+
+182
+00:09:12,560 --> 00:09:14,640
+He was not given notice that this redirection was happening
+
+183
+00:09:14,640 --> 00:09:15,640
+6.
+
+184
+00:09:15,640 --> 00:09:18,680
+He was treated rudely by White Nervosa when he inquired into the changes
+
+185
+00:09:18,680 --> 00:09:19,680
+7.
+
+186
+00:09:19,680 --> 00:09:22,360
+He was publicly ridiculed for this interaction by White Nervosa
+
+187
+00:09:22,360 --> 00:09:23,360
+8.
+
+188
+00:09:23,920 --> 00:09:27,440
+He did not receive any follow-up regarding the handling of sensitive connections or information
+
+189
+00:09:27,440 --> 00:09:30,560
+of his or of the users who used his website 9.
+
+190
+00:09:30,560 --> 00:09:34,720
+He did not receive any assistance with resetting the DNS setting from White Nervosa who knew
+
+191
+00:09:34,720 --> 00:09:36,440
+he was incapable of doing so.
+
+192
+00:09:36,440 --> 00:09:40,660
+As a client of White Forest, you can, without notice or chance to defend yourself, have
+
+193
+00:09:40,660 --> 00:09:44,140
+your services discontinued, because the 9 members of the co-op have decided to vote
+
+194
+00:09:44,140 --> 00:09:46,180
+you out, and you won't even be told about it.
+
+195
+00:09:46,180 --> 00:09:49,540
+You can have your domain redirected to a website you are publicly opposed to.
+
+196
+00:09:49,540 --> 00:09:53,180
+You can be humiliated, publicly and privately, by White Nervosa herself.
+
+197
+00:09:53,180 --> 00:09:57,100
+You can be ignored when you ask about the handling of sensitive information stored on
+
+198
+00:09:57,100 --> 00:09:58,100
+the site.
+
+199
+00:09:58,100 --> 00:10:01,540
+And you can be left high and dry in trying to undo the damage they've caused.
+
+200
+00:10:01,540 --> 00:10:05,700
+White Forest's stated goal of providing an accessible and independent platform for
+
+201
+00:10:05,700 --> 00:10:09,980
+content creators seems to be a false one, at least if you happen to assist the guy who
+
+202
+00:10:09,980 --> 00:10:12,720
+originated the code they aped in the first place.
+
+203
+00:10:12,720 --> 00:10:16,360
+After this whole thing blew up and White Nervosa was dragged on Twitter for it, Rose Wriste
+
+204
+00:10:16,360 --> 00:10:19,740
+received an apology DM saying, I truly don't wish you deplatformed.
+
+205
+00:10:19,740 --> 00:10:20,740
+Yeah, alright.
+
+206
+00:10:20,900 --> 00:10:25,420
+Also, White Nervosa admitted to being drunk during the whole thing, which is, um, okay.
+
+207
+00:10:25,420 --> 00:10:28,300
+However, the apology only applied to the public ridiculing.
+
+208
+00:10:28,300 --> 00:10:30,500
+White Nervosa doubled down on everything else.
+
+209
+00:10:30,500 --> 00:10:34,700
+In one Twitter exchange, White Nervosa says, Rose Wriste agreed to our standard operating
+
+210
+00:10:34,700 --> 00:10:35,700
+procedure.
+
+211
+00:10:35,700 --> 00:10:39,280
+Is asked, is your standard operating procedure to redirect someone's domain name to a completely
+
+212
+00:10:39,280 --> 00:10:41,860
+different website they don't want to be affiliated with?
+
+213
+00:10:41,860 --> 00:10:46,040
+A White Nervosa supporter chimes in with, this is industry standard operating procedure.
+
+214
+00:10:46,040 --> 00:10:49,540
+When you suspend a service, it is not uncommon to redirect it to the provider's homepage
+
+215
+00:10:49,540 --> 00:10:54,440
+or a contextually relevant site, and is replied to with, the drop Kiwi Farms site is absolutely
+
+216
+00:10:54,440 --> 00:10:55,980
+not contextually relevant.
+
+217
+00:10:55,980 --> 00:11:00,420
+White Nervosa says, he called Kefles a terrorist for attempting to get Kiwi Farms taken down.
+
+218
+00:11:00,420 --> 00:11:02,100
+It is absolutely relevant.
+
+219
+00:11:02,100 --> 00:11:05,600
+What actually happened here is that at one point during the Kiwi Farms drama, Kefles
+
+220
+00:11:05,600 --> 00:11:10,140
+was pointing out that Kiwi Farms was hosted in Ukrainian server farm and then posted its
+
+221
+00:11:10,140 --> 00:11:15,140
+location, implying that Ukrainian partisans may want to attack it because Kiwi Farms hosts
+
+222
+00:11:15,140 --> 00:11:16,420
+Russian propaganda.
+
+223
+00:11:16,420 --> 00:11:21,140
+Destiny described this in his manifesto as calling for terroristic violence, the manifesto
+
+224
+00:11:21,140 --> 00:11:25,020
+that Rose Wriste edited for grammar and logic, and specifically not content.
+
+225
+00:11:25,020 --> 00:11:28,500
+To White Nervosa, this was Rose Wriste calling Kefles a terrorist.
+
+226
+00:11:28,500 --> 00:11:32,740
+The reply guy asks, so you're purposely redirecting his domain name to a website for a cause he
+
+227
+00:11:32,740 --> 00:11:35,580
+specifically doesn't agree with, and that's somehow morally okay to you?
+
+228
+00:11:35,580 --> 00:11:37,700
+And White Nervosa simply replies, yes.
+
+229
+00:11:37,700 --> 00:11:42,220
+White Nervosa also made a big dance around that standing operating procedure of theirs,
+
+230
+00:11:42,220 --> 00:11:45,980
+stating White Forest discontinues sites that have been inactive for more than 90 days.
+
+231
+00:11:45,980 --> 00:11:49,380
+When this happens, there is a default screen for if there's nothing to catch the URL.
+
+232
+00:11:49,380 --> 00:11:53,020
+Rose Wriste had passed the mark, handling over two dozen websites that wasn't a top
+
+233
+00:11:53,020 --> 00:11:54,020
+priority.
+
+234
+00:11:54,020 --> 00:11:58,360
+After he contributed to and endorsed a document calling for Cloudflare to protect Kiwi Farms,
+
+235
+00:11:58,360 --> 00:11:59,420
+it became a priority.
+
+236
+00:11:59,420 --> 00:12:00,420
+This was Sunday.
+
+237
+00:12:00,420 --> 00:12:03,500
+He didn't notice until Wednesday, which is when I acted poorly towards him.
+
+238
+00:12:03,500 --> 00:12:05,180
+I regret that and apologize.
+
+239
+00:12:05,180 --> 00:12:09,020
+Anybody who claims it's because he dared attack Kefles ignores that he streamed in
+
+240
+00:12:09,020 --> 00:12:10,540
+July critiquing Kefles.
+
+241
+00:12:10,540 --> 00:12:11,540
+This was not an issue.
+
+242
+00:12:11,540 --> 00:12:15,120
+You literally just mentioned one tweet ago that it was about the Kefles document.
+
+243
+00:12:16,120 --> 00:12:18,880
+Of course, people began to notice all the holes in this argument.
+
+244
+00:12:18,880 --> 00:12:22,800
+The dear gender person hadn't streamed in six months, but is still on White Forest.
+
+245
+00:12:22,800 --> 00:12:26,080
+White Nervosa replied, oh, it's because she's still getting automated donations.
+
+246
+00:12:26,080 --> 00:12:30,240
+This idea that Rose Wriste wasn't getting any automated donations is weird to me.
+
+247
+00:12:30,240 --> 00:12:34,040
+Rose was small but still doing well, well enough to have some automated subs or something.
+
+248
+00:12:34,040 --> 00:12:37,800
+But White Nervosa, who is the only one with access to the logs, stated, nope, Rose had
+
+249
+00:12:37,800 --> 00:12:42,000
+no donos, don't question it, even though Rose Wriste provided proof of many donations
+
+250
+00:12:42,000 --> 00:12:43,000
+during that time.
+
+251
+00:12:43,000 --> 00:12:47,920
+Moreover, Rose Wriste did in fact stream during the 90-day period, nine times, and you can
+
+252
+00:12:47,920 --> 00:12:51,400
+see the distinctive White Leaf chat overlay in those streams.
+
+253
+00:12:51,400 --> 00:12:54,920
+White Nervosa then claimed that Rose Wriste asked for a site to be deleted, which Rose
+
+254
+00:12:54,920 --> 00:12:59,280
+Wriste's own DMs disprove, and then finally claims that it actually is about Kefles, saying
+
+255
+00:12:59,280 --> 00:13:02,600
+it would not be brought back up assuming he maintained his endorsement.
+
+256
+00:13:02,600 --> 00:13:04,760
+Dude, at this point, just bite the bullet.
+
+257
+00:13:04,760 --> 00:13:07,380
+Say it was a power move and that you did it because you're in charge and you didn't
+
+258
+00:13:07,380 --> 00:13:09,240
+like what Rose Wriste did off platform.
+
+259
+00:13:09,240 --> 00:13:10,520
+We know that's why you did it.
+
+260
+00:13:10,520 --> 00:13:11,720
+You know that's why you did it.
+
+261
+00:13:11,720 --> 00:13:14,560
+All this dancing around just makes you look like even more of a fucking snake.
+
+262
+00:13:14,560 --> 00:13:18,840
+For a while, I believe that White Nervosa as a person was just a side story to the larger
+
+263
+00:13:18,840 --> 00:13:19,840
+Kefles drama.
+
+264
+00:13:19,840 --> 00:13:22,800
+A little extra bit of an intermission in between the real happenings.
+
+265
+00:13:22,800 --> 00:13:26,280
+But now, I think White Nervosa is actually a lolcow in her own right.
+
+266
+00:13:26,280 --> 00:13:29,600
+And the reason I've come to that conclusion is the Chud logic drama.
+
+267
+00:13:29,600 --> 00:13:31,400
+All the stuff with Rose Wriste was months ago.
+
+268
+00:13:31,400 --> 00:13:35,040
+It was involving White Nervosa's capacity at the head of a business, and it involved
+
+269
+00:13:35,040 --> 00:13:36,040
+Kefles.
+
+270
+00:13:36,040 --> 00:13:40,400
+But now, White Nervosa herself is just going nuts over literally nothing.
+
+271
+00:13:40,400 --> 00:13:41,400
+Let's check it out.
+
+272
+00:13:41,400 --> 00:13:43,440
+On January 17th, White Nervosa tweeted this.
+
+273
+00:13:43,440 --> 00:13:47,040
+I'm out of my mind, Chud logic, but is there any reason you're paying a person who felt
+
+274
+00:13:47,040 --> 00:13:48,620
+the need to tweet this twice?
+
+275
+00:13:48,620 --> 00:13:50,640
+Are you too lazy to find another editor?
+
+276
+00:13:50,640 --> 00:13:52,840
+Are they doing it for scraps off the plate so it's worth it?
+
+277
+00:13:52,840 --> 00:13:54,320
+Is there no connection you feel?
+
+278
+00:13:54,320 --> 00:13:58,520
+This is in response to DriftKingEdits, also known as DK, Chud's editor, tweeting the
+
+279
+00:13:58,520 --> 00:14:00,140
+following in quick succession.
+
+280
+00:14:00,140 --> 00:14:03,480
+Not really sure what's going on, but Andrew Callahan definitely didn't rape that young
+
+281
+00:14:03,480 --> 00:14:04,480
+lady.
+
+282
+00:14:04,480 --> 00:14:07,880
+Followed by, not really sure what's going on, but Andrew Callahan definitely raped that
+
+283
+00:14:07,880 --> 00:14:08,880
+young lady.
+
+284
+00:14:08,880 --> 00:14:11,800
+Now, I'm not really sure what's going on with Andrew Callahan, but I'm pretty sure
+
+285
+00:14:11,800 --> 00:14:12,800
+this is a joke.
+
+286
+00:14:12,800 --> 00:14:15,020
+It's literally the cover all your bases thing.
+
+287
+00:14:15,020 --> 00:14:18,420
+And White Nervosa was offended by it, to the point that she went to Chud logic and did
+
+288
+00:14:18,420 --> 00:14:20,960
+the cancel culture, why is he your editor thing.
+
+289
+00:14:20,960 --> 00:14:24,960
+Chud's response was to point out that while White Nervosa is tagging him into the tweet,
+
+290
+00:14:24,960 --> 00:14:28,440
+making it look like to her followers that she's inviting him to have a conversation,
+
+291
+00:14:28,440 --> 00:14:30,000
+she's actually got him blocked.
+
+292
+00:14:30,000 --> 00:14:32,480
+He can't see it, so it looks like he's ducking her.
+
+293
+00:14:32,480 --> 00:14:37,120
+But he replied anyway, simply saying, I will never kowtow to the gay retarded sensibilities
+
+294
+00:14:37,120 --> 00:14:40,920
+of leftoids based, always reject the struggle session.
+
+295
+00:14:40,920 --> 00:14:42,720
+The Twitter canceling attempt went nowhere.
+
+296
+00:14:42,720 --> 00:14:46,640
+So White Nervosa took it a step further by reporting Chud's Twitch channel to Twitch
+
+297
+00:14:46,640 --> 00:14:49,000
+because he called her a gay retard on Twitter.
+
+298
+00:14:49,000 --> 00:14:53,480
+And even though Twitch's off platform policies can be kind of ridiculous, even they weren't
+
+299
+00:14:53,480 --> 00:14:55,380
+ridiculous enough to take this bait.
+
+300
+00:14:55,380 --> 00:14:59,520
+Twitch has explicitly told me that it's okay that the partner Chud logic has called me
+
+301
+00:14:59,520 --> 00:15:01,740
+another partner, a gay retard.
+
+302
+00:15:01,740 --> 00:15:05,440
+Take that as you will and do as you wish off platform, as long as it's not an imminent
+
+303
+00:15:05,440 --> 00:15:06,440
+threat.
+
+304
+00:15:06,440 --> 00:15:10,160
+Yeah, Twitch's off service conduct policy states that Twitch will ban you if you do
+
+305
+00:15:10,160 --> 00:15:12,000
+any of the following off platform.
+
+306
+00:15:12,000 --> 00:15:13,000
+1.
+
+307
+00:15:13,000 --> 00:15:15,880
+Engage in deadly violence or terrorism or terroristic recruiting.
+
+308
+00:15:15,880 --> 00:15:16,880
+2.
+
+309
+00:15:16,880 --> 00:15:18,880
+Explicit and or credible threats of mass violence.
+
+310
+00:15:18,880 --> 00:15:19,880
+3.
+
+311
+00:15:19,880 --> 00:15:21,760
+Explicit and or credible threats against Twitch.
+
+312
+00:15:21,760 --> 00:15:22,760
+4.
+
+313
+00:15:22,760 --> 00:15:25,040
+Leadership, membership, sponsorship of a known hate group.
+
+314
+00:15:25,040 --> 00:15:26,040
+5.
+
+315
+00:15:26,040 --> 00:15:28,360
+Carrying out or acting as an accomplice to sexual assault.
+
+316
+00:15:28,360 --> 00:15:29,360
+6.
+
+317
+00:15:29,360 --> 00:15:30,360
+Sexual exploitation of youth.
+
+318
+00:15:30,360 --> 00:15:31,360
+7.
+
+319
+00:15:31,360 --> 00:15:33,080
+Compromising the physical safety of the Twitch community.
+
+320
+00:15:33,080 --> 00:15:34,080
+8.
+
+321
+00:15:34,080 --> 00:15:35,080
+Harmful misinformation.
+
+322
+00:15:35,080 --> 00:15:39,080
+And any of this stuff applied to Chud logic calling White Nervosa a gay retard.
+
+323
+00:15:39,080 --> 00:15:42,480
+It's not terrorism or violence, it's not a credible threat, it's not membership
+
+324
+00:15:42,480 --> 00:15:45,840
+in a hate group unless you count the Chud nation, it's not sexual assault or exploiting
+
+325
+00:15:45,840 --> 00:15:50,040
+youth or threatening the safety of Twitch, and perhaps most explicitly of all, it's
+
+326
+00:15:50,040 --> 00:15:51,560
+not misinformation either.
+
+327
+00:15:51,560 --> 00:15:55,040
+White Nervosa continued to complain about Twitch refusing to take action on offsite
+
+328
+00:15:55,040 --> 00:15:56,460
+behavior beyond what's listed.
+
+329
+00:15:56,460 --> 00:16:00,560
+And the reason why is explicitly because she wants Chud logic deplatformed.
+
+330
+00:16:00,560 --> 00:16:04,240
+Hey, and like with Rose Wriste, at least she has the balls to say it directly this time.
+
+331
+00:16:04,240 --> 00:16:07,680
+Or maybe it's because Chud's an easier target among leftoids than Rose Wriste was.
+
+332
+00:16:07,680 --> 00:16:08,680
+Who knows.
+
+333
+00:16:08,680 --> 00:16:12,100
+Chud's reply was to call White Nervosa a disgusting freak who has no problems with
+
+334
+00:16:12,100 --> 00:16:15,800
+abusing power and is now making a concerted effort to deplatform him.
+
+335
+00:16:15,800 --> 00:16:19,840
+White Nervosa mocks the concerted effort bit by saying she sent one email and she actually
+
+336
+00:16:19,840 --> 00:16:20,840
+doesn't really care.
+
+337
+00:16:20,840 --> 00:16:24,120
+Despite, of course, being the one who started the Nothing Burger and pushing her followers
+
+338
+00:16:24,120 --> 00:16:25,120
+to go at it.
+
+339
+00:16:25,120 --> 00:16:29,880
+Chud's editor, DK, returned to write a lengthy anime villain post about how basically, White
+
+340
+00:16:29,880 --> 00:16:33,840
+Nervosa is a fraud hack who will fade away because everything she's ever done that's
+
+341
+00:16:33,840 --> 00:16:37,520
+noteworthy has been stolen by others and the next wave of innovation will be the end
+
+342
+00:16:37,520 --> 00:16:38,680
+of her 15 minutes of fame.
+
+343
+00:16:38,680 --> 00:16:42,240
+The backlash White Nervosa received from all of this nonsense was enough to make her leave
+
+344
+00:16:42,240 --> 00:16:43,380
+Twitter for a few days.
+
+345
+00:16:43,380 --> 00:16:44,380
+But only a few.
+
+346
+00:16:44,380 --> 00:16:46,040
+These people always come back eventually.
+
+347
+00:16:46,040 --> 00:16:50,000
+White Nervosa is also a moderator for Vaush's community, though she may be on a break from
+
+348
+00:16:50,000 --> 00:16:51,000
+that position for a while.
+
+349
+00:16:51,000 --> 00:16:52,000
+She's friends with him.
+
+350
+00:16:52,000 --> 00:16:53,000
+She still runs his site.
+
+351
+00:16:53,000 --> 00:16:54,000
+She gets paid by him.
+
+352
+00:16:54,000 --> 00:16:55,240
+And was a mod for a long time.
+
+353
+00:16:55,240 --> 00:16:59,920
+While White Nervosa was offline, some other Vaush mod, Thena, publicly continued the crusade
+
+354
+00:16:59,920 --> 00:17:02,880
+in her place, repeating the calls for Twitch to ban Chud.
+
+355
+00:17:02,920 --> 00:17:07,320
+But more notably, she went into Vaush's community and began petitioning Vaush viewers to join
+
+356
+00:17:07,320 --> 00:17:12,720
+in on the dogpile, saying that Chud is violating his Twitch partner contract by harassing her
+
+357
+00:17:12,720 --> 00:17:14,200
+over her gender identity.
+
+358
+00:17:14,200 --> 00:17:16,200
+Excuse me, but where the fuck did this happen?
+
+359
+00:17:16,200 --> 00:17:19,200
+Come on, you really think you can just go on the internet and make shit up?
+
+360
+00:17:19,200 --> 00:17:24,320
+Afterward, Thena banned Chud from VGG and the Vaush subreddit, as well as a bunch of
+
+361
+00:17:24,320 --> 00:17:28,400
+other people who aren't even in these communities but have publicly spoken out against White
+
+362
+00:17:28,400 --> 00:17:32,640
+Nervosa, most notably Stardust, who's been laughing at all this nonsense on her stream.
+
+363
+00:17:33,400 --> 00:17:36,240
+Now, these people have the right to run their shitty little communities however they like.
+
+364
+00:17:36,240 --> 00:17:40,280
+But this is just like 2015, 2016 all over again, where the leftoids won't tolerate
+
+365
+00:17:40,280 --> 00:17:44,120
+anybody who disagrees with them even a little bit and will go scorched earth on everyone
+
+366
+00:17:44,120 --> 00:17:45,120
+who steps out of line.
+
+367
+00:17:45,120 --> 00:17:46,760
+And I'm not being hyperbolic.
+
+368
+00:17:46,760 --> 00:17:50,120
+There was also the White Nervosa deny milkshakes drama.
+
+369
+00:17:50,120 --> 00:17:52,440
+Deny milkshakes is some other flavor of leftist.
+
+370
+00:17:52,440 --> 00:17:54,120
+These people always eat each other.
+
+371
+00:17:54,120 --> 00:17:56,840
+And last fall, these two nobodies were at war.
+
+372
+00:17:56,840 --> 00:18:01,560
+Deny milkshakes said Japanese nuclear bombings were genocidal terror apologia and he would
+
+373
+00:18:01,560 --> 00:18:04,360
+block anyone who was partisan in favor of the bombings.
+
+374
+00:18:04,360 --> 00:18:08,520
+Nervosa replied, calling him indistinguishable from a tanky and that he was making light
+
+375
+00:18:08,520 --> 00:18:09,880
+of the Holocaust.
+
+376
+00:18:09,880 --> 00:18:13,360
+Just so we're clear, there's a reason that socialists look at every other socialist
+
+377
+00:18:13,360 --> 00:18:15,760
+except themselves and see fascists.
+
+378
+00:18:15,760 --> 00:18:20,640
+White Nervosa, a totally sane person, replied to deny milkshakes by threatening to, if he
+
+379
+00:18:20,640 --> 00:18:25,640
+did not agree to a streamed debate with her, block him, block his followers, and punish
+
+380
+00:18:25,640 --> 00:18:29,360
+everyone using White Forest by deplatforming all of them.
+
+381
+00:18:29,360 --> 00:18:30,360
+Well, hold on there.
+
+382
+00:18:30,360 --> 00:18:32,280
+I thought this was a worker co-op, White Nervosa.
+
+383
+00:18:32,280 --> 00:18:35,960
+I thought you needed a vote of the nine crumbtubers who run the whole thing in order to be able
+
+384
+00:18:35,960 --> 00:18:37,280
+to do something like this.
+
+385
+00:18:37,280 --> 00:18:42,120
+This is how the leftoid worker democracy always degenerates into an authoritarian shithole,
+
+386
+00:18:42,120 --> 00:18:43,120
+by the way.
+
+387
+00:18:43,120 --> 00:18:46,600
+It's always because another leftist disagrees with them and they can't accept disunity
+
+388
+00:18:46,600 --> 00:18:47,700
+among the proles.
+
+389
+00:18:47,700 --> 00:18:52,320
+The backlash to this event was severe, way more than anything related to tread logic,
+
+390
+00:18:52,320 --> 00:18:55,820
+to the point that White Nervosa scrubbed the internet of it in an effort to get people
+
+391
+00:18:55,820 --> 00:18:57,280
+to forget it ever happened.
+
+392
+00:18:57,280 --> 00:18:59,120
+But the internet never forgets.
+
+393
+00:18:59,120 --> 00:19:01,360
+And get a load at what the internet remembered.
+
+394
+00:19:01,360 --> 00:19:06,600
+To be more specific, they said they were okay with Kefl's, Xanderhal, Roserist, Vosch,
+
+395
+00:19:06,600 --> 00:19:10,880
+Marek, and several others being deplatformed because they refused to have a conversation
+
+396
+00:19:10,880 --> 00:19:12,960
+about calling me a genocide apologist.
+
+397
+00:19:12,960 --> 00:19:13,960
+Are you serious, bitch?
+
+398
+00:19:13,960 --> 00:19:15,960
+You were the one with the finger on the off switch.
+
+399
+00:19:15,960 --> 00:19:17,680
+This is nobody else's fault but your own.
+
+400
+00:19:17,680 --> 00:19:21,580
+Why in the fuck would you ever get yourself a White Leaf site when the dictator running
+
+401
+00:19:21,580 --> 00:19:25,360
+the whole operation can nuke you off the internet simply because she got into a Twitter
+
+402
+00:19:25,360 --> 00:19:27,720
+spat with a random person you don't even know?
+
+403
+00:19:27,720 --> 00:19:31,440
+Now this whole thing so far has just been lame twitter drama.
+
+404
+00:19:31,440 --> 00:19:34,700
+And if it were only lame twitter drama, it wouldn't really be worth it for me to do
+
+405
+00:19:34,700 --> 00:19:35,700
+a video on it.
+
+406
+00:19:35,700 --> 00:19:39,400
+I enjoy watching Chud and Stardust dream about it, it's pretty fun to watch petty drama
+
+407
+00:19:39,400 --> 00:19:40,400
+sometimes.
+
+408
+00:19:40,400 --> 00:19:43,920
+But my personal interest on its own isn't enough for me to make a video on the topic.
+
+409
+00:19:43,920 --> 00:19:47,640
+What I discovered after digging into White Nervosa myself, though, was...
+
+410
+00:19:47,640 --> 00:19:49,520
+Let's start at the surface level stuff.
+
+411
+00:19:49,520 --> 00:20:14,760
+Check out Vosha's comments on this shitshow.
+
+412
+00:20:14,760 --> 00:20:27,300
+Hold on, pause it right here.
+
+413
+00:20:27,300 --> 00:20:29,840
+Look who posted that Xanderhal tweet in Vosha's chat.
+
+414
+00:20:29,840 --> 00:20:31,280
+Oh, it's Xanderhal!
+
+415
+00:20:31,280 --> 00:20:34,480
+The only guy who would ever actually post a Xanderhal tweet anywhere.
+
+416
+00:20:34,480 --> 00:20:35,960
+He's literally doing the tattletale thing.
+
+417
+00:20:35,960 --> 00:20:39,520
+And if you look around online, you'll find a lot of these crumbtubers all trying to pile
+
+418
+00:20:39,520 --> 00:20:41,720
+on Chud and trying to get Vosha to come out against him.
+
+419
+00:20:41,720 --> 00:20:43,600
+You gotta cancel Chud logic, guys.
+
+420
+00:20:43,600 --> 00:20:45,320
+Vosha's reply, though, is kind of anemic.
+
+421
+00:20:45,320 --> 00:20:47,440
+On the one hand, he doesn't seem to care too much about this stuff.
+
+422
+00:20:47,440 --> 00:20:50,640
+But on the other, he's completely fine with his mods behaving this way.
+
+423
+00:20:50,640 --> 00:20:52,460
+Now, I personally don't think that's a problem.
+
+424
+00:20:52,460 --> 00:20:56,320
+What my mods do outside of the context of my community isn't any of my business, and
+
+425
+00:20:56,320 --> 00:20:58,320
+I extend that chariability to everyone.
+
+426
+00:20:58,320 --> 00:21:00,520
+But that's not the rules the progs use.
+
+427
+00:21:00,520 --> 00:21:05,800
+These people are losing their marbles over what DK does and how Chud is obviously co-signing
+
+428
+00:21:05,800 --> 00:21:07,500
+it all by continuing to employ him.
+
+429
+00:21:07,500 --> 00:21:12,980
+So by that standard, Vosha is a worse person because of White Nervosa's terrible behavior.
+
+430
+00:21:12,980 --> 00:21:15,060
+And the Chud deplatforming is just the tip of the iceberg.
+
+431
+00:21:15,060 --> 00:21:19,340
+It's also how, while trying to get Chud deplatformed, they cry that any pushback they
+
+432
+00:21:19,340 --> 00:21:21,020
+receive is harassment.
+
+433
+00:21:21,020 --> 00:21:24,820
+This is literally the Jani cries out in pain as she strikes you.
+
+434
+00:21:24,820 --> 00:21:29,040
+These people cry about body positivity and bigotry and trans-nonsense while at the same
+
+435
+00:21:29,040 --> 00:21:31,940
+time using low testosterone as an insult.
+
+436
+00:21:31,940 --> 00:21:35,520
+These people were the ones who face-doxed Chud logic in the first place.
+
+437
+00:21:35,520 --> 00:21:38,940
+These people were the ones who thought it was a good idea to try and cover up Vosha's
+
+438
+00:21:38,940 --> 00:21:40,860
+sexual harassment allegations.
+
+439
+00:21:40,860 --> 00:21:45,340
+White Nervosa and her White Forest crowd are the gang of people who do the on-the-ground
+
+440
+00:21:45,340 --> 00:21:49,900
+work of following around leftist streamers, most commonly Vosh, and cleaning up their
+
+441
+00:21:49,900 --> 00:21:54,420
+messes, while serving as relentless attack dogs against anyone who dares to cross their
+
+442
+00:21:54,420 --> 00:21:55,660
+parasocial daddies.
+
+443
+00:21:55,660 --> 00:21:56,660
+Let's rewind.
+
+444
+00:21:56,660 --> 00:21:58,660
+January 26th, 2018.
+
+445
+00:21:58,660 --> 00:22:03,860
+Over a year before White Nervosa took the open-source DGG code and made a closed for-profit
+
+446
+00:22:03,860 --> 00:22:04,860
+fork of it.
+
+447
+00:22:04,860 --> 00:22:07,860
+She was a member of Destiny's community, no surprise there, and debated him on the
+
+448
+00:22:07,860 --> 00:22:08,860
+topic of deplatforming.
+
+449
+00:22:08,860 --> 00:22:12,780
+I can't believe we're here, five years later, having the same fucking conversations.
+
+450
+00:22:12,780 --> 00:22:16,360
+This stream actually isn't too spicy, and there's not one clip that I can pull out
+
+451
+00:22:16,360 --> 00:22:18,060
+to explicitly prove what I'm saying.
+
+452
+00:22:18,060 --> 00:22:20,640
+It's the tone of the thing, you kinda have to watch it for yourself.
+
+453
+00:22:20,640 --> 00:22:24,980
+White Nervosa is clearly trying to nudge Destiny to the left throughout the conversation, with
+
+454
+00:22:24,980 --> 00:22:29,040
+the general tenor of the conversation being, well, these rightoids are idiots, so you should
+
+455
+00:22:29,040 --> 00:22:30,860
+be agreeing more with us leftoids, right?
+
+456
+00:22:30,860 --> 00:22:32,940
+And Destiny, to his credit, doesn't take the bait.
+
+457
+00:22:32,940 --> 00:22:38,260
+I need a criterion by which I can deplatform somebody that I can objectively argue for,
+
+458
+00:22:38,260 --> 00:22:39,420
+which is difficult.
+
+459
+00:22:39,420 --> 00:22:43,820
+The big problem with me for deplatforming is that, to deplatform somebody, it almost
+
+460
+00:22:43,820 --> 00:22:50,420
+feels like you're saying, my philosophy is objectively superior to yours, because what
+
+461
+00:22:50,420 --> 00:22:54,120
+I need is I need an argument by which I can deplatform another that wouldn't allow me
+
+462
+00:22:54,120 --> 00:22:56,420
+to get deplatformed, because I wouldn't want to be deplatformed, right?
+
+463
+00:22:56,420 --> 00:23:02,740
+So how would society deplatform people, like, if society were to do it?
+
+464
+00:23:02,740 --> 00:23:06,780
+For example, Twitter would deplatform people by, if you share fake news or something, like,
+
+465
+00:23:06,980 --> 00:23:07,980
+these would be my criterion, right?
+
+466
+00:23:07,980 --> 00:23:11,500
+Like, if you post lies or something like that, you'd be deplatformed on Twitter or something,
+
+467
+00:23:11,500 --> 00:23:13,140
+they would ban your accounts or something like that.
+
+468
+00:23:13,140 --> 00:23:13,900
+I don't know.
+
+469
+00:23:13,900 --> 00:23:17,220
+You'd have to be very rigid and very specific in your set of criteria.
+
+470
+00:23:17,220 --> 00:23:22,740
+For somebody like Warski, like, how is he supposed to platform somebody responsibly?
+
+471
+00:23:22,740 --> 00:23:26,860
+Like, what would he do to actually not be a Nazi?
+
+472
+00:23:26,860 --> 00:23:32,620
+Oh, so I'm not even on that, like, platforming people responsibly?
+
+473
+00:23:32,620 --> 00:23:34,620
+Like, I, maybe.
+
+474
+00:23:34,620 --> 00:23:37,660
+I don't know if Andy's, like, if you bring on a bunch of Nazis and you don't challenge
+
+475
+00:23:37,660 --> 00:23:41,140
+their opinion, I don't consider that to be falling under the purview of what I would
+
+476
+00:23:41,140 --> 00:23:42,300
+be going after.
+
+477
+00:23:42,300 --> 00:23:48,300
+It would be going after people who are intentionally or with gross negligence or recklessness spreading
+
+478
+00:23:48,300 --> 00:23:49,300
+fake news.
+
+479
+00:23:49,300 --> 00:23:52,500
+That would be, like, my starting ground, and that's the only part that I'm at right now.
+
+480
+00:23:52,500 --> 00:23:56,500
+So, like, if somebody wants to come on and argue, like, listen, I want to create an ethno-state,
+
+481
+00:23:56,500 --> 00:23:59,860
+I want to get all the blacks and all the Mexicans out of here, like, fine, that's fine.
+
+482
+00:23:59,860 --> 00:24:02,540
+That person gets a platform, they can argue their shit, I love free speech.
+
+483
+00:24:02,540 --> 00:24:04,140
+It's a goddamn beautiful thing.
+
+484
+00:24:04,140 --> 00:24:07,260
+But if that guy wants to get up and make that argument by spreading a bunch of bullshit
+
+485
+00:24:07,260 --> 00:24:11,620
+news around, by linking to fucking Breitbart articles that have bullshit sources, by quoting
+
+486
+00:24:11,620 --> 00:24:15,260
+headlines and sniping data and not really making an honest argument, fuck that guy.
+
+487
+00:24:15,260 --> 00:24:16,260
+Take him out.
+
+488
+00:24:16,260 --> 00:24:21,100
+So when you say Worsky doesn't, or he's irresponsibly platforming people, should he not be allowed
+
+489
+00:24:21,100 --> 00:24:22,900
+to carry on that platform, or?
+
+490
+00:24:22,900 --> 00:24:26,340
+Oh, no, Andy can, um, Andy can platform whoever he wants.
+
+491
+00:24:26,340 --> 00:24:28,260
+I just don't like that he doesn't acknowledge the reality of it.
+
+492
+00:24:28,260 --> 00:24:30,260
+I mean, if he, I don't think it should be, like, illegal.
+
+493
+00:24:30,260 --> 00:24:31,260
+Oh, yeah, now it's an immoral issue.
+
+494
+00:24:31,260 --> 00:24:32,260
+Yeah, yeah.
+
+495
+00:24:32,260 --> 00:24:33,260
+One.
+
+496
+00:24:33,380 --> 00:24:41,380
+Right, I feel like, though, like, um, some countries really, like, yeah, I feel like
+
+497
+00:24:41,380 --> 00:24:48,780
+America has a good freedom of press, freedom of speech, and you don't think that any other
+
+498
+00:24:48,780 --> 00:24:55,740
+country should adopt, or rather, reverse, you don't think we should adopt any of the...
+
+499
+00:24:55,740 --> 00:24:59,700
+I don't know, like, shit like the Germany shit, like, makes me pretty wary, like, that
+
+500
+00:24:59,700 --> 00:25:02,180
+you can't even do, like, that hail Hitler salute, or you can get in trouble, you can
+
+501
+00:25:02,180 --> 00:25:03,180
+get fined for that.
+
+502
+00:25:03,180 --> 00:25:05,180
+Why does that make you weary?
+
+503
+00:25:05,180 --> 00:25:08,300
+I don't know, because I, fuck, if I want to go outside and do the hail Hitler salute,
+
+504
+00:25:08,300 --> 00:25:09,820
+I don't want to get in trouble by the state.
+
+505
+00:25:09,820 --> 00:25:11,140
+It's fucking crazy to me.
+
+506
+00:25:11,140 --> 00:25:12,180
+Fuck that shit.
+
+507
+00:25:12,180 --> 00:25:14,180
+I'm a free goddamn American.
+
+508
+00:25:14,180 --> 00:25:18,780
+Well, you're a free American who supports responsible platforming.
+
+509
+00:25:18,780 --> 00:25:24,060
+Yeah, but supporting responsible platforming doesn't mean that I explicitly or implicitly
+
+510
+00:25:24,060 --> 00:25:27,140
+support, like, throwing people in jail for shit.
+
+511
+00:25:27,140 --> 00:25:31,620
+Well, wait, there is a, there's a thing where, like, a line that, irresponsible, irresponsibly
+
+512
+00:25:32,220 --> 00:25:34,140
+speech could get you thrown in prison.
+
+513
+00:25:34,140 --> 00:25:40,260
+I don't agree with that, unless it's literally, like, direct calls to harm or something.
+
+514
+00:25:40,260 --> 00:25:41,260
+How indirect could you get?
+
+515
+00:25:41,260 --> 00:25:43,260
+I don't fucking know.
+
+516
+00:25:43,260 --> 00:25:44,260
+It's up to the courts to decide.
+
+517
+00:25:44,260 --> 00:25:49,340
+Like, if there was a, if there was a march, and they chanted, kill all Jews, or killed
+
+518
+00:25:49,340 --> 00:25:52,580
+the Jews, is that direct, or?
+
+519
+00:25:52,580 --> 00:25:54,460
+That sounds pretty direct to me, yeah, sure.
+
+520
+00:25:54,460 --> 00:25:58,580
+Anytime you're saying kill, and then something, it's probably over the line, right?
+
+521
+00:25:58,580 --> 00:26:01,580
+Yeah, no, yeah, that makes sense.
+
+522
+00:26:01,580 --> 00:26:02,580
+Yeah.
+
+523
+00:26:02,580 --> 00:26:05,060
+So what's your opinion of hate speech laws?
+
+524
+00:26:05,060 --> 00:26:07,500
+I don't know, I would have to think really hard about it.
+
+525
+00:26:07,500 --> 00:26:09,580
+My gut tells me that I think they're bad.
+
+526
+00:26:09,580 --> 00:26:14,220
+I feel like the hate speech laws are there to give that pre-, not necessarily preemptive
+
+527
+00:26:14,220 --> 00:26:21,700
+strike, but, like, when speeches basically kill all, kill all of, you know, this group.
+
+528
+00:26:21,700 --> 00:26:22,700
+Mm-hmm.
+
+529
+00:26:22,700 --> 00:26:25,820
+I think, I think that's why the hate speech laws are there, because they're not necessarily
+
+530
+00:26:25,820 --> 00:26:29,780
+a threat towards any one person, but what do you charge them with otherwise?
+
+531
+00:26:29,780 --> 00:26:32,820
+I mean, if that's what you mean by hate speech, like, just, like, directly threatening somebody,
+
+532
+00:26:32,820 --> 00:26:36,180
+then I'm probably- Well, no, no, right, it's, it's, it's more
+
+533
+00:26:36,180 --> 00:26:38,940
+broad than just that, but- Sure.
+
+534
+00:26:38,940 --> 00:26:43,140
+I think it covers a lot of, um, areas that need to be covered.
+
+535
+00:26:43,140 --> 00:26:47,140
+Why aren't you a socialist?
+
+536
+00:26:47,140 --> 00:26:48,140
+I love capitalism.
+
+537
+00:26:48,140 --> 00:26:54,260
+Why can't you have a capitalist market system under socialist means?
+
+538
+00:26:54,260 --> 00:26:57,620
+I mean, doesn't capitalism also speak to things like labor and whatnot?
+
+539
+00:26:57,620 --> 00:27:00,660
+Which, and it doesn't let all that labor and everything work fundamentally differently
+
+540
+00:27:00,660 --> 00:27:01,660
+in a socialist system?
+
+541
+00:27:01,660 --> 00:27:09,260
+Sure, but wouldn't labor be more, um, well, couldn't unions be a form of-
+
+542
+00:27:09,260 --> 00:27:14,220
+Um, but unions don't oftentimes- Well, hold on, I have to think about whether or not,
+
+543
+00:27:14,220 --> 00:27:16,780
+do unions represent market power or not?
+
+544
+00:27:16,780 --> 00:27:20,120
+Um, basically, whenever I ask, whenever I think about a question like this, what I'm
+
+545
+00:27:20,120 --> 00:27:22,660
+trying to think of is, is there a market failure?
+
+546
+00:27:22,660 --> 00:27:26,340
+And if there's a market failure, I'm always okay with, with some sort of government intervention,
+
+547
+00:27:26,340 --> 00:27:27,340
+right?
+
+548
+00:27:27,340 --> 00:27:30,300
+So, just to trigger x skills me in the, in the chat, something like net neutrality, I
+
+549
+00:27:30,300 --> 00:27:34,580
+would consider the, um, the natural, the, the ISP's being prone to being naturalistic
+
+550
+00:27:34,580 --> 00:27:37,080
+monopolies, I would consider that a form of market failure.
+
+551
+00:27:37,080 --> 00:27:40,260
+And market failures, I think, should always be remedied by some sort of government policy.
+
+552
+00:27:40,260 --> 00:27:45,380
+So, would a company being too big to have any threat of, of unionizing happen, and where
+
+553
+00:27:45,380 --> 00:27:46,380
+no other companies could compete?
+
+554
+00:27:46,380 --> 00:27:49,280
+I mean, if that market failure existed, then yeah, I would be okay with remedying that
+
+555
+00:27:49,280 --> 00:27:50,280
+with government shit.
+
+556
+00:27:50,280 --> 00:27:51,280
+Does that make sense?
+
+557
+00:27:52,280 --> 00:27:53,280
+Yeah, that makes sense.
+
+558
+00:27:53,280 --> 00:27:54,280
+Yeah.
+
+559
+00:27:54,280 --> 00:27:56,880
+Um, a lot of people in chat are bringing up that they live in countries where the lines
+
+560
+00:27:56,880 --> 00:27:59,280
+are shared and, and ISPs have to rent the lines.
+
+561
+00:27:59,280 --> 00:28:03,560
+I mean, like, that seems like the reasonable thing for me, like, it's, it's infrastructure
+
+562
+00:28:03,560 --> 00:28:06,600
+that the whole city should care about because pretty much everybody has internet, so I'm
+
+563
+00:28:06,600 --> 00:28:08,160
+okay publicly paying for it.
+
+564
+00:28:08,160 --> 00:28:11,200
+We want to keep the lines running well, and then an ISP can open a data center and they
+
+565
+00:28:11,200 --> 00:28:14,280
+can run, you know, they can hook up at the last, you know, towards them.
+
+566
+00:28:17,680 --> 00:28:18,680
+Yeah, yeah.
+
+567
+00:28:19,080 --> 00:28:21,680
+So, so do you think U.S. should go in that direction?
+
+568
+00:28:21,680 --> 00:28:22,680
+We should start at least.
+
+569
+00:28:22,680 --> 00:28:23,680
+Probably.
+
+570
+00:28:23,680 --> 00:28:24,680
+Yeah.
+
+571
+00:28:26,680 --> 00:28:29,680
+Well, well, you sounded really hesitant there, buddy.
+
+572
+00:28:29,680 --> 00:28:32,180
+Well, because everything, everything is informed, everything is informed by the data.
+
+573
+00:28:32,180 --> 00:28:36,180
+I don't know, like, if, if, if shit turns bad, then no, but like, that seems like a
+
+574
+00:28:36,180 --> 00:28:40,180
+good, a good thing to me, I think.
+
+575
+00:28:40,180 --> 00:28:43,520
+That seems like a good direction forward, but maybe there, there might be a better argument
+
+576
+00:28:43,520 --> 00:28:47,000
+against it, but yeah, because I don't, I don't know what the argument would be for having
+
+577
+00:28:47,000 --> 00:28:49,000
+independent lines or everybody owning their own lines or whatever.
+
+578
+00:28:49,000 --> 00:28:51,400
+It just seems like a huge fucking waste.
+
+579
+00:28:51,400 --> 00:28:53,780
+There's nothing really too bombastic in this video.
+
+580
+00:28:53,780 --> 00:28:54,780
+No big blowout.
+
+581
+00:28:54,780 --> 00:28:59,000
+White Nervosa just kind of meekly says, okay, after getting pushed back every single time.
+
+582
+00:28:59,000 --> 00:29:02,360
+It feels like she wants to pull him to the left, but also doesn't want to jeopardize
+
+583
+00:29:02,360 --> 00:29:03,560
+her connection to him.
+
+584
+00:29:03,560 --> 00:29:06,240
+Some of you might be saying, Dev, you're reading into this way too much.
+
+585
+00:29:06,240 --> 00:29:07,720
+How can you possibly know that?
+
+586
+00:29:07,720 --> 00:29:11,780
+Well, I know it because of a conversation that White Nervosa had with Vosh on her channel
+
+587
+00:29:11,780 --> 00:29:16,320
+a year later on March 12th, 2019 titled, um, to kill cops.
+
+588
+00:29:16,320 --> 00:29:19,900
+This is White Nervosa's first encounter with Vosh, and it's from this meeting that becoming
+
+589
+00:29:19,900 --> 00:29:22,960
+a moderator and creating his website with the forked code that would eventually become
+
+590
+00:29:22,960 --> 00:29:24,340
+White Leaf would spring.
+
+591
+00:29:24,340 --> 00:29:26,480
+There's a few interesting things in this conversation.
+
+592
+00:29:26,480 --> 00:29:31,520
+One, White Nervosa and Vosh both consider liberals, fascists, centrists, and rightists
+
+593
+00:29:31,520 --> 00:29:32,800
+to all be the same thing.
+
+594
+00:29:32,800 --> 00:29:36,920
+Kind of like how some rightoids think that all liberals, socialists, centrists, and leftists
+
+595
+00:29:36,920 --> 00:29:38,040
+are the same thing as well.
+
+596
+00:29:38,040 --> 00:29:40,120
+It's just centrism, right?
+
+597
+00:29:40,120 --> 00:29:43,960
+It's just the typical centrist, right?
+
+598
+00:29:43,960 --> 00:29:51,920
+That's just like, like until they die, you know, both sides are radical and both sides
+
+599
+00:29:51,920 --> 00:29:56,680
+are equal and both sides need to come together.
+
+600
+00:29:56,680 --> 00:30:00,440
+Even though one side is literally Nazis.
+
+601
+00:30:00,440 --> 00:30:01,440
+Yeah.
+
+602
+00:30:01,440 --> 00:30:05,720
+Um, I mean, that sounds like some of the centrists that I've discussed in the past.
+
+603
+00:30:05,720 --> 00:30:08,800
+It is, it is fucking incredible to me.
+
+604
+00:30:08,800 --> 00:30:14,160
+It's amazing how, um, how subjective centrism is these days.
+
+605
+00:30:14,160 --> 00:30:19,640
+Um, Nazism sure is closer to the center than I, uh, than I originally interpreted.
+
+606
+00:30:19,640 --> 00:30:20,640
+Yeah.
+
+607
+00:30:20,640 --> 00:30:21,640
+Like, holy shit.
+
+608
+00:30:21,640 --> 00:30:24,920
+I just can't even tokens like Dave Rubin, right?
+
+609
+00:30:24,920 --> 00:30:27,520
+Like he's a liberal, right?
+
+610
+00:30:27,520 --> 00:30:31,200
+And like these are his talking points and the same thing with Candace Owens and the
+
+611
+00:30:31,200 --> 00:30:36,160
+same thing with Ben Shapiro and the same thing with, um, yeah, like it just goes on and on.
+
+612
+00:30:36,200 --> 00:30:39,880
+But yeah, like I think like the biggest problem is people don't perceive how like harmful
+
+613
+00:30:39,880 --> 00:30:44,400
+it is to public discourse and like centrism is fucking cancer for that.
+
+614
+00:30:44,400 --> 00:30:51,080
+Just the ignorance of like, uh, the Overton window and again, like crypto fascism and
+
+615
+00:30:51,080 --> 00:30:52,920
+I mean, I don't like, I don't know.
+
+616
+00:30:52,920 --> 00:30:55,200
+Like I fucking hate, I fucking hate him.
+
+617
+00:30:55,200 --> 00:30:58,360
+I hate him so goddamn much, fascists and centrists.
+
+618
+00:30:58,360 --> 00:30:59,360
+I don't know.
+
+619
+00:30:59,360 --> 00:31:00,360
+I don't know how to improve.
+
+620
+00:31:00,360 --> 00:31:01,360
+It just doesn't make any sense.
+
+621
+00:31:01,760 --> 00:31:07,840
+Cause I feel like every demonstrable study shows like, like these are, this is supposed
+
+622
+00:31:07,840 --> 00:31:09,840
+to be the facts over feels crowd.
+
+623
+00:31:09,840 --> 00:31:12,960
+Nope, centrists have never read a study in their entire life.
+
+624
+00:31:12,960 --> 00:31:14,640
+You can drop that right now.
+
+625
+00:31:14,640 --> 00:31:17,840
+None of them have ever read a single study.
+
+626
+00:31:17,840 --> 00:31:22,480
+Like centrists will acknowledge like psychological pitfalls, but then like they always fall back
+
+627
+00:31:22,480 --> 00:31:27,920
+on this weird, like, so, so it is like they are still right wing because they still always
+
+628
+00:31:27,920 --> 00:31:30,480
+fall back onto individual like responsibility.
+
+629
+00:31:30,480 --> 00:31:36,360
+Like, like, like for fascism, I view the only means is violence.
+
+630
+00:31:36,360 --> 00:31:38,840
+You can only defeat fascism with violence, right?
+
+631
+00:31:38,840 --> 00:31:41,200
+There is no argument.
+
+632
+00:31:41,200 --> 00:31:46,760
+There's no, like, like the centrist will always be drifted towards fascism.
+
+633
+00:31:46,760 --> 00:31:51,600
+So the only way to combat it is to dissuade fascists from protesting.
+
+634
+00:31:51,600 --> 00:31:53,360
+So you have to hit them with violence.
+
+635
+00:31:57,920 --> 00:32:01,760
+Does not exist in America because there is no revolutionary movement and how they want
+
+636
+00:32:01,760 --> 00:32:02,760
+to be a part of one.
+
+637
+00:32:02,760 --> 00:32:04,200
+I think like, I don't fucking know.
+
+638
+00:32:04,200 --> 00:32:07,000
+Like what makes a person want to be centrist?
+
+639
+00:32:07,000 --> 00:32:11,200
+Is it they, they were like a conservative, but conservatism is a cool because the average
+
+640
+00:32:11,200 --> 00:32:13,560
+age of Republican in America is 900.
+
+641
+00:32:13,560 --> 00:32:16,920
+So they want to be like the edgy fucking libertarian centrist.
+
+642
+00:32:16,920 --> 00:32:21,680
+Is it because they once went to a college campus and they think they're kind of liberal
+
+643
+00:32:21,680 --> 00:32:26,360
+and then like some, a woman with blue hair yelled at them and now they're assuming like
+
+644
+00:32:26,360 --> 00:32:27,640
+I don't, I don't know.
+
+645
+00:32:27,640 --> 00:32:31,800
+Whatever it is, it stems from ignorance or stupidity or fear.
+
+646
+00:32:31,800 --> 00:32:34,440
+It's like, like a little bit of just stunning Kruger, right?
+
+647
+00:32:34,440 --> 00:32:39,160
+They, they just know like a little bit about politics and they think they know so much.
+
+648
+00:32:39,160 --> 00:32:44,960
+Like they think they see like the extreme left and the extreme right, but like they've
+
+649
+00:32:44,960 --> 00:32:50,200
+just made this like fossil equivocation that just doesn't exist.
+
+650
+00:32:50,200 --> 00:32:52,400
+Like there is no extreme left.
+
+651
+00:32:52,400 --> 00:32:56,280
+We will become the extreme left and we will stride across this great land, um, seize the
+
+652
+00:32:56,280 --> 00:32:57,440
+means of production.
+
+653
+00:32:57,440 --> 00:32:58,440
+You know?
+
+654
+00:32:58,440 --> 00:32:59,440
+Oh yeah.
+
+655
+00:32:59,440 --> 00:33:00,440
+Yeah.
+
+656
+00:33:00,440 --> 00:33:01,440
+Okay.
+
+657
+00:33:01,440 --> 00:33:02,440
+Yeah.
+
+658
+00:33:02,440 --> 00:33:03,440
+Let's well, yeah.
+
+659
+00:33:03,440 --> 00:33:07,200
+I mean, you know, I mean, I'd say like, you know, the car was going down the wrong street
+
+660
+00:33:07,200 --> 00:33:11,240
+and you know, Charlottesville, you know, it's just White, Nervosa and Vosh talk about how
+
+661
+00:33:11,240 --> 00:33:15,560
+while a far left party winning elections would be ideal, a revolutionary movement of working
+
+662
+00:33:15,560 --> 00:33:19,600
+class people, uh, storming the seat of government is also good too.
+
+663
+00:33:19,600 --> 00:33:20,600
+As long as they're leftist.
+
+664
+00:33:20,600 --> 00:33:25,180
+Of course, I think we need at least another century, maybe a century and a half of class
+
+665
+00:33:25,180 --> 00:33:29,160
+consciousness spreading amongst the pros before we're ready to have a revolution.
+
+666
+00:33:29,160 --> 00:33:34,700
+And when it happens, I would like it to happen in conjunction with a far left political party
+
+667
+00:33:34,700 --> 00:33:40,520
+gaining prominence in the legislator, which would be able to secure a clean transition
+
+668
+00:33:40,520 --> 00:33:46,380
+of power rather than the literal like citizens up revolt against the entire United States
+
+669
+00:33:46,380 --> 00:33:50,700
+military storming Washington, taking control of the, uh, oval office.
+
+670
+00:33:50,700 --> 00:33:56,380
+Um, you know, broadcasting a message of victory to the rest of the American people.
+
+671
+00:33:56,380 --> 00:34:02,380
+I hope that in the future, the material circumstances eventually arrive at a point where, um, where
+
+672
+00:34:02,380 --> 00:34:04,300
+they feel revolution is possible.
+
+673
+00:34:04,300 --> 00:34:05,300
+They're okay.
+
+674
+00:34:05,300 --> 00:34:10,340
+If police die during this uprising, I presume you're not in favor of outlawing armor piercing
+
+675
+00:34:10,340 --> 00:34:11,340
+bullets.
+
+676
+00:34:11,340 --> 00:34:12,340
+Fuck that.
+
+677
+00:34:12,340 --> 00:34:16,080
+The only people who wear armor are cops.
+
+678
+00:34:16,080 --> 00:34:26,520
+They're hoping for a revolution that may occur in more than a century, but in the meantime,
+
+679
+00:34:26,520 --> 00:34:29,400
+we have bullets designed explicitly to kill cops.
+
+680
+00:34:29,400 --> 00:34:30,920
+Oh, I mean, yeah.
+
+681
+00:34:30,920 --> 00:34:32,640
+Whoa, whoa, whoa, wait, wait, wait, wait.
+
+682
+00:34:32,640 --> 00:34:36,200
+Just because I advocate for a revolution in the future doesn't mean I'm not okay with
+
+683
+00:34:36,200 --> 00:34:37,920
+cop killing now.
+
+684
+00:34:37,920 --> 00:34:41,480
+But at the same time, they also don't want individuals to actually own guns.
+
+685
+00:34:41,480 --> 00:34:46,060
+They want the guns to be owned by the community and kept in a community armory, which is just
+
+686
+00:34:46,060 --> 00:34:49,060
+the state owning all the guns again with a new label attached.
+
+687
+00:34:49,060 --> 00:34:51,540
+But ideally I wouldn't like guns to be kept in the house.
+
+688
+00:34:51,540 --> 00:34:58,220
+I would like there to be like, uh, community armories, um, that neighborhoods would have
+
+689
+00:34:58,220 --> 00:35:02,740
+where like, if there was ever a need to, uh, you could go to this like sort of collectively
+
+690
+00:35:02,740 --> 00:35:07,380
+owned bunker maintained by the community and you've got your fucking mousins and F4s and
+
+691
+00:35:07,380 --> 00:35:08,380
+shit.
+
+692
+00:35:08,380 --> 00:35:14,380
+For rebranding, I think like, uh, you could pitch it as just a shooting range, right?
+
+693
+00:35:14,380 --> 00:35:17,440
+Like you can even own like a automatic weapons, right?
+
+694
+00:35:17,440 --> 00:35:21,660
+Just lock them up at the shooting range and then you go grenade launchers.
+
+695
+00:35:21,660 --> 00:35:23,120
+Absolutely own that shit.
+
+696
+00:35:23,120 --> 00:35:24,120
+Grenade launchers.
+
+697
+00:35:24,120 --> 00:35:25,860
+I want the fucking anti-tank mines.
+
+698
+00:35:25,860 --> 00:35:31,060
+I want the God, I want the sniper rifles that can penetrate, um, police, uh, car doors.
+
+699
+00:35:31,060 --> 00:35:32,060
+I want all that shit.
+
+700
+00:35:32,060 --> 00:35:33,220
+I want them stock block.
+
+701
+00:35:33,220 --> 00:35:34,580
+I want the fucking barrel.
+
+702
+00:35:34,580 --> 00:35:39,460
+I want the barrel, the chamber loaded as you pick up the gun.
+
+703
+00:35:39,460 --> 00:35:40,740
+I want us to be ready.
+
+704
+00:35:40,740 --> 00:35:44,820
+They also have no real concern with what happens after the revolution either, as long as it
+
+705
+00:35:44,820 --> 00:35:47,380
+moves the world ever more leftward.
+
+706
+00:35:47,380 --> 00:35:52,100
+Is your end game to abolish the state wholesale?
+
+707
+00:35:52,100 --> 00:35:55,020
+I don't really care what happens after we overthrow capitalism.
+
+708
+00:35:55,020 --> 00:35:58,260
+The material circumstances of the time will dictate what comes next.
+
+709
+00:35:58,260 --> 00:36:00,920
+I just want to see us move forward, move leftward.
+
+710
+00:36:00,920 --> 00:36:03,460
+And by the way, they don't believe that democracy can do this.
+
+711
+00:36:03,460 --> 00:36:08,300
+I reject the idea that electoralism is the means by which we can overthrow the hold police
+
+712
+00:36:08,300 --> 00:36:10,320
+have on disenfranchised communities.
+
+713
+00:36:10,320 --> 00:36:14,720
+And finally, White, Nervosa and Vashj describe hiding their true beliefs and subverting this
+
+714
+00:36:14,720 --> 00:36:15,720
+system from the outside.
+
+715
+00:36:15,720 --> 00:36:18,800
+Like, couldn't you like falsely moralize that to yourself though?
+
+716
+00:36:18,800 --> 00:36:22,720
+Because I feel like I could very easily fall into that like psychological trap where I
+
+717
+00:36:22,720 --> 00:36:30,280
+could like moralize myself or, you know, say that I'm not doing tangible harm to public
+
+718
+00:36:30,280 --> 00:36:31,280
+discourse.
+
+719
+00:36:31,280 --> 00:36:36,280
+I'm just doing it for a paycheck to feed my family and to further like my own personal
+
+720
+00:36:36,280 --> 00:36:37,280
+goals.
+
+721
+00:36:37,280 --> 00:36:41,840
+I don't know if I could justify it ethically under my own like personal set of values,
+
+722
+00:36:41,840 --> 00:36:47,720
+but I do know, I think the only way that I could come away from that thinking like, okay,
+
+723
+00:36:47,720 --> 00:36:51,200
+maybe I'm not going to blow my brains out in this gas station bathroom.
+
+724
+00:36:51,200 --> 00:36:58,320
+The only way I could come out feeling like I'm not doing that is if I thought like, okay,
+
+725
+00:36:58,320 --> 00:37:03,720
+I'm building power from within, but one day I will unveil my true power level.
+
+726
+00:37:03,720 --> 00:37:07,160
+Personally on a personal level, I do not think that I could do it unless I had some
+
+727
+00:37:07,160 --> 00:37:11,560
+sort of like secret underlying motive, some way in which I felt I was actually supporting
+
+728
+00:37:11,560 --> 00:37:12,720
+the leftist cause.
+
+729
+00:37:12,720 --> 00:37:14,800
+I understand how other people could do it though.
+
+730
+00:37:14,800 --> 00:37:21,880
+Not everyone is as politically enfranchised as you or I have such strongly formed opinions,
+
+731
+00:37:21,880 --> 00:37:24,000
+such a firm understanding of theory.
+
+732
+00:37:24,000 --> 00:37:29,640
+The most refreshing part of all of this is seeing a more mask off Vashj than he is nowadays.
+
+733
+00:37:29,640 --> 00:37:38,520
+So then if you believe that Republicans have intent right now to bring about an LGBT genocide,
+
+734
+00:37:38,520 --> 00:37:43,720
+how can you morally object against people right now taking arms and going out and killing
+
+735
+00:37:43,720 --> 00:37:44,960
+Republican lawmakers?
+
+736
+00:37:44,960 --> 00:37:45,960
+Exactly.
+
+737
+00:37:45,960 --> 00:37:46,960
+Republican lawmakers?
+
+738
+00:37:46,960 --> 00:37:47,960
+Yes.
+
+739
+00:37:47,960 --> 00:37:51,000
+Well, it would be a utilitarian thing, wouldn't it?
+
+740
+00:37:51,000 --> 00:37:53,000
+Oh God, stop.
+
+741
+00:37:53,000 --> 00:37:54,000
+Stop.
+
+742
+00:37:54,000 --> 00:37:58,000
+Which unfortunately I don't really think it's possible to know that because I'm not God,
+
+743
+00:37:58,000 --> 00:38:01,040
+but as a general rule, that type of thing doesn't tend to work out.
+
+744
+00:38:01,040 --> 00:38:02,040
+But there are plenty of examples-
+
+745
+00:38:02,040 --> 00:38:10,580
+Ask him this, if it did work out, if they were able to kill lawmakers with no consequences,
+
+746
+00:38:10,580 --> 00:38:14,000
+would it be morally justified, question mark?
+
+747
+00:38:14,000 --> 00:38:15,640
+You know, are a legitimate-
+
+748
+00:38:15,640 --> 00:38:16,640
+Ask him.
+
+749
+00:38:16,640 --> 00:38:17,640
+Let's hear it.
+
+750
+00:38:17,640 --> 00:38:18,640
+Make him answer our question.
+
+751
+00:38:18,640 --> 00:38:22,080
+... are trying to use that power to suppress minority groups.
+
+752
+00:38:22,080 --> 00:38:23,680
+You talked about the utilitarian thing before.
+
+753
+00:38:23,680 --> 00:38:29,360
+So if it would be possible, if it were to be possible to get away with killing Republican
+
+754
+00:38:29,360 --> 00:38:31,880
+lawmakers with no consequences, would it then be-
+
+755
+00:38:31,880 --> 00:38:33,840
+Are you actually fed posting at me right now?
+
+756
+00:38:33,840 --> 00:38:34,840
+You're glowing in this convo.
+
+757
+00:38:34,840 --> 00:38:35,840
+Wait, are you being fed these questions?
+
+758
+00:38:35,840 --> 00:38:37,240
+Ah, he won't answer that question.
+
+759
+00:38:37,240 --> 00:38:38,240
+I knew he wouldn't.
+
+760
+00:38:38,240 --> 00:38:39,400
+I knew he wouldn't answer that question.
+
+761
+00:38:39,400 --> 00:38:40,440
+He won't do it.
+
+762
+00:38:40,440 --> 00:38:41,440
+He won't do it.
+
+763
+00:38:41,440 --> 00:38:43,960
+What a fucking weaselly little coward.
+
+764
+00:38:43,960 --> 00:38:47,200
+2023, Vosh is too scared to say what he really thinks.
+
+765
+00:38:47,200 --> 00:38:49,700
+He likes the Twitch bucks too much, so he hides his power level.
+
+766
+00:38:49,700 --> 00:38:51,340
+And Vosh on IRL panels?
+
+767
+00:38:51,340 --> 00:38:52,340
+Forget it.
+
+768
+00:38:52,340 --> 00:38:54,700
+The milk toast progressive opinions you can imagine.
+
+769
+00:38:54,700 --> 00:38:57,820
+If you look at any major social movement, you will see disinformation.
+
+770
+00:38:57,820 --> 00:39:01,780
+That was the case with BLM, that was the case with the civil rights movement, the suffragette
+
+771
+00:39:01,780 --> 00:39:05,620
+movement, the abolitionist movement, the American revolution, and everything prior to it.
+
+772
+00:39:05,620 --> 00:39:07,300
+Misinformation is just a part and parcel.
+
+773
+00:39:07,300 --> 00:39:11,100
+If you try to minimize it, but at the end of the day, it is something that will be produced
+
+774
+00:39:11,100 --> 00:39:12,700
+and sometimes focused on.
+
+775
+00:39:12,700 --> 00:39:16,660
+You have to take a look at the underlying social motivations and the processes that
+
+776
+00:39:16,660 --> 00:39:17,660
+led to that.
+
+777
+00:39:17,660 --> 00:39:22,140
+So with regards to the January 6th stuff, again, you can, as you said, normalize very
+
+778
+00:39:22,140 --> 00:39:26,000
+terrible stuff with the wrong descriptive understanding of the world.
+
+779
+00:39:26,000 --> 00:39:31,700
+You can take just about every heinous totalitarian ideology that's ever festered on this planet,
+
+780
+00:39:31,700 --> 00:39:35,960
+you know, whether you want to go Nazism or Stalinist, Pol Pot, wherever you want to go.
+
+781
+00:39:35,960 --> 00:39:41,460
+If you fed a person the right set of facts about the world, big air quotes, by the way,
+
+782
+00:39:41,460 --> 00:39:44,940
+you could approximate those ideologies in them.
+
+783
+00:39:44,940 --> 00:39:48,120
+Compare that take to this one and you'll see exactly what I mean.
+
+784
+00:39:48,120 --> 00:39:51,900
+There is not a good base of conservatives in this country.
+
+785
+00:39:51,900 --> 00:39:54,240
+These people are no different from the Ku Klux Klan.
+
+786
+00:39:54,240 --> 00:39:59,220
+They are no different from the fucking white nationalists who ran terror campaigns in the
+
+787
+00:39:59,220 --> 00:40:01,560
+South back during the 1920s, 30s, 40s.
+
+788
+00:40:01,560 --> 00:40:05,780
+They are absolutely no different from the frothing at the mouth screaming fucking pasty
+
+789
+00:40:05,780 --> 00:40:10,380
+male people who are throwing rocks at black folk going to integrated schools.
+
+790
+00:40:10,380 --> 00:40:11,780
+There is no difference.
+
+791
+00:40:11,780 --> 00:40:15,400
+If you have a conservative family member, I'm sorry, they're part of the problem.
+
+792
+00:40:15,400 --> 00:40:18,100
+If you have a conservative friend, I'm sorry, they're part of the problem.
+
+793
+00:40:18,100 --> 00:40:20,760
+History will crush these people beneath its feet.
+
+794
+00:40:20,760 --> 00:40:24,400
+Every single time a political party has tried this shit, every single time they've gone
+
+795
+00:40:24,400 --> 00:40:28,480
+down this road, they have been reviled through the generations.
+
+796
+00:40:28,480 --> 00:40:31,020
+There is no good history for these people.
+
+797
+00:40:31,020 --> 00:40:34,560
+And every conservative, every Republican is on the hook for this.
+
+798
+00:40:34,560 --> 00:40:35,800
+Every last one of them.
+
+799
+00:40:35,800 --> 00:40:39,620
+These people present one view when they're in real life and being challenged directly
+
+800
+00:40:39,620 --> 00:40:44,200
+and another view entirely when they feel like only their community, their people are watching
+
+801
+00:40:44,200 --> 00:40:46,480
+and they're safe from the eyes of outsiders.
+
+802
+00:40:46,480 --> 00:40:49,640
+They are just as subversive as the fascists they claim to oppose.
+
+803
+00:40:49,640 --> 00:40:51,840
+They tell the big lie just as much.
+
+804
+00:40:51,840 --> 00:40:55,360
+They too hide their real politics until the moment is right.
+
+805
+00:40:55,360 --> 00:40:59,280
+Three, stemming from their subversiveness, White-Nervosa and Vosch both admit that the
+
+806
+00:40:59,280 --> 00:41:03,640
+reason they hang around destiny is to convert him to their political beliefs and to pull
+
+807
+00:41:03,640 --> 00:41:06,040
+his audience into their sphere of influence.
+
+808
+00:41:06,040 --> 00:41:13,080
+I've seen like, yeah, you go toe to toe with destiny on economics and I kind of accidentally
+
+809
+00:41:13,080 --> 00:41:18,760
+push him further away because I pushed him towards getting rid of minimum wage.
+
+810
+00:41:19,280 --> 00:41:21,280
+Oh no.
+
+811
+00:41:21,280 --> 00:41:26,640
+I think, I honestly, the best way to radicalize destiny and leftward is to, if you're a leftist,
+
+812
+00:41:26,640 --> 00:41:32,560
+is to not talk with him because he gets really fucking angry and defensive talking to leftists.
+
+813
+00:41:32,560 --> 00:41:37,000
+I feel, I almost feel for him because he, he's like, cause he's a lib boy, you know,
+
+814
+00:41:37,000 --> 00:41:45,080
+he's a good old lib guy and, and because he gets popular debating on these idiot right-wingers,
+
+815
+00:41:45,080 --> 00:41:47,560
+he'll like sort of throw him in with the lefties.
+
+816
+00:41:47,560 --> 00:41:52,000
+But now he feels like this performative need to distance himself from them so he can stand
+
+817
+00:41:52,000 --> 00:41:57,320
+alone on his own little, like, yeah, yeah, he definitely loves, like it, it's almost
+
+818
+00:41:57,320 --> 00:42:02,680
+like a virtue signal, like that he loves to like say like, oh man, I guess you're a communist,
+
+819
+00:42:02,680 --> 00:42:03,680
+right?
+
+820
+00:42:03,680 --> 00:42:09,400
+Like, like, like, uh, in a condescending way in a discussion, um, we'll get them one day.
+
+821
+00:42:09,400 --> 00:42:10,400
+Yeah.
+
+822
+00:42:10,400 --> 00:42:16,360
+I mean, well, I, I feel like, like, like, again, like just by accident, right?
+
+823
+00:42:16,360 --> 00:42:23,640
+Just by him, I mean, cause fuck, he used to be a libertarian, so he's on the right track.
+
+824
+00:42:23,640 --> 00:42:25,720
+He just has to get there.
+
+825
+00:42:25,720 --> 00:42:29,640
+White Nervosa also decries the equivalence between the radical left and the radical right
+
+826
+00:42:29,640 --> 00:42:33,840
+as a symptom of fascism, which destiny did in their previous conversation, but she was
+
+827
+00:42:33,840 --> 00:42:35,160
+too cucked to speak up about.
+
+828
+00:42:35,160 --> 00:42:39,120
+Like Dave Rubin, I think it's an easy example that shouldn't have a platform.
+
+829
+00:42:39,160 --> 00:42:41,640
+Well, no, I'm not sure I would have to think about Ruben.
+
+830
+00:42:41,640 --> 00:42:43,520
+So again, I want to be really, really, really careful here.
+
+831
+00:42:43,520 --> 00:42:44,520
+Okay.
+
+832
+00:42:44,520 --> 00:42:47,800
+So remember primarily my value system is usually going after what is true.
+
+833
+00:42:47,800 --> 00:42:49,240
+I don't care about political agendas.
+
+834
+00:42:49,240 --> 00:42:52,080
+I have no desire to push a political agenda whatsoever.
+
+835
+00:42:52,080 --> 00:42:53,080
+I don't care.
+
+836
+00:42:53,080 --> 00:42:54,520
+I have no interest, no desire.
+
+837
+00:42:54,520 --> 00:42:57,800
+So I think that all offensive ideas should be spoken about.
+
+838
+00:42:57,800 --> 00:43:02,960
+So pedophilia, incest, Ku Klux Klan, Nazism, ethno states, all of that shit, communism,
+
+839
+00:43:02,960 --> 00:43:03,960
+whatever the fuck.
+
+840
+00:43:03,960 --> 00:43:05,640
+All of these ideas should be up for discussion.
+
+841
+00:43:05,640 --> 00:43:06,640
+I'm okay with that.
+
+842
+00:43:06,640 --> 00:43:09,840
+And I'm okay with people providing a platform to discuss these ideas.
+
+843
+00:43:09,840 --> 00:43:11,200
+The ideas don't bother me.
+
+844
+00:43:11,200 --> 00:43:17,160
+It's just engaging in disinformation or misinformation or reckless, like reckless reporting that
+
+845
+00:43:17,160 --> 00:43:19,360
+is like horrendously disingenuous.
+
+846
+00:43:21,360 --> 00:43:26,880
+Yeah, I don't have, I don't want to name drop too many people, but the reason I specifically
+
+847
+00:43:26,880 --> 00:43:32,760
+think of Ruben instantly is because he really, really interviews a lot of people who are
+
+848
+00:43:32,760 --> 00:43:38,640
+far to the alt-right and even further so, and I feel like platforming those people and
+
+849
+00:43:38,640 --> 00:43:45,640
+giving them just basically a softball interview to pitch their platform, I feel like really
+
+850
+00:43:45,640 --> 00:43:47,840
+does a disservice to everybody that's watching.
+
+851
+00:43:47,840 --> 00:43:49,120
+I don't, I don't agree with that.
+
+852
+00:43:49,120 --> 00:43:51,320
+I mean, it gets the ideas out there.
+
+853
+00:43:51,320 --> 00:43:53,720
+Even if you might find them offensive or horrible, it just gets the ideas out.
+
+854
+00:43:53,720 --> 00:43:56,440
+I mean, do you make all softball interviews illegal then or?
+
+855
+00:43:56,440 --> 00:44:01,360
+Well, no, not at all, but I mean, isn't that, isn't that your point though?
+
+856
+00:44:01,360 --> 00:44:05,040
+Cause isn't that sort of fake news on, on steroids.
+
+857
+00:44:05,040 --> 00:44:06,040
+No, I don't think so.
+
+858
+00:44:06,040 --> 00:44:07,040
+The pinnacle of that.
+
+859
+00:44:07,040 --> 00:44:08,040
+Well, like, so here's a question.
+
+860
+00:44:08,040 --> 00:44:11,320
+If you want to go after people that give softball interviews to extremists, what about somebody
+
+861
+00:44:11,320 --> 00:44:15,400
+that has a channel where they interview like Contra points or the interview Sean and January
+
+862
+00:44:15,400 --> 00:44:21,120
+somebody, and they give them all softball questions, would that be no, I feel like that's
+
+863
+00:44:21,120 --> 00:44:22,120
+entirely different.
+
+864
+00:44:22,120 --> 00:44:29,160
+If your channel, give me some, wow, very clearly a stilted, uh, slant, you know, you're just
+
+865
+00:44:29,160 --> 00:44:30,160
+an interview channel.
+
+866
+00:44:30,160 --> 00:44:34,840
+But Dave Rubin, I don't feel like is presented as such as it's presented as the marketplace
+
+867
+00:44:34,840 --> 00:44:37,280
+of ideas, which it very clearly isn't.
+
+868
+00:44:37,280 --> 00:44:38,280
+Yeah.
+
+869
+00:44:38,280 --> 00:44:39,280
+Maybe.
+
+870
+00:44:39,280 --> 00:44:40,280
+I don't know.
+
+871
+00:44:40,280 --> 00:44:41,280
+I guess it's, it's, I like to focus on branding and presentation.
+
+872
+00:44:41,280 --> 00:44:44,520
+I like to focus on fake news because I can do a hard line objective.
+
+873
+00:44:44,520 --> 00:44:45,840
+Like this is bullshit.
+
+874
+00:44:45,840 --> 00:44:48,040
+You're screenshotting article headlines.
+
+875
+00:44:48,040 --> 00:44:49,720
+You have no fucking idea what you're talking about.
+
+876
+00:44:49,720 --> 00:44:51,880
+Like you're, you're lying to your teeth.
+
+877
+00:44:51,880 --> 00:44:56,400
+That's easy to target saying somebody like Dave Rubin, disingenuously, disingenuously
+
+878
+00:44:56,400 --> 00:44:57,400
+presents as policy.
+
+879
+00:44:57,400 --> 00:45:00,680
+I feel like that line is a lot harder to walk.
+
+880
+00:45:00,680 --> 00:45:03,200
+Yeah, maybe so.
+
+881
+00:45:03,200 --> 00:45:04,200
+Maybe.
+
+882
+00:45:04,200 --> 00:45:09,800
+So this is all a year and a half before destiny and Vash stopped publicly being friends after
+
+883
+00:45:09,800 --> 00:45:14,200
+that infamous Kyle Rittenhouse debate destiny always described Vash as his friend, white
+
+884
+00:45:14,200 --> 00:45:18,960
+nervosa spent time in his community as a noted orbiter, but it seems to be increasingly obvious,
+
+885
+00:45:18,960 --> 00:45:23,680
+at least to me that these people were simply using him the whole time for, and to tie it
+
+886
+00:45:23,680 --> 00:45:28,480
+all into one neat package, Vash and white nervosa advocate for direct violence against
+
+887
+00:45:28,480 --> 00:45:32,400
+fascists, keeping in mind that to them, fascists are not only fascists, but liberals, centrists
+
+888
+00:45:32,400 --> 00:45:33,400
+and rightists.
+
+889
+00:45:33,400 --> 00:45:35,680
+And she even readmits as much in the statement.
+
+890
+00:45:35,680 --> 00:45:42,880
+And I feel like we can win on like, like socialism because emotional appeals or emotional propaganda
+
+891
+00:45:42,880 --> 00:45:43,880
+is very, very easy.
+
+892
+00:45:43,880 --> 00:45:47,360
+How do you win on like against fascism?
+
+893
+00:45:47,360 --> 00:45:51,760
+Like, because that's a really tough, like, you know, they, they show like the other and
+
+894
+00:45:51,760 --> 00:45:56,280
+they're going to take, you know, your kid's job, like, I mean, I don't, I don't think
+
+895
+00:45:56,280 --> 00:45:57,480
+you can argue with fascists.
+
+896
+00:45:57,480 --> 00:45:59,080
+I think they just need to be killed or something.
+
+897
+00:45:59,080 --> 00:46:04,160
+I don't disagree with you, but I mean, like from a, like for attacking, uh, like centrists,
+
+898
+00:46:04,160 --> 00:46:10,320
+like how do you attack, especially since it's so crypto in the first place, like, like it's
+
+899
+00:46:10,320 --> 00:46:13,720
+not usually Charlottesville and like it's a wordness.
+
+900
+00:46:13,720 --> 00:46:19,080
+I mean, ideally I think a lot of centrists are crypto fascist too, and they get the bullet
+
+901
+00:46:19,080 --> 00:46:20,080
+as well.
+
+902
+00:46:20,080 --> 00:46:23,640
+But the system we live in today is full of violence as it exists.
+
+903
+00:46:23,640 --> 00:46:24,640
+And to ignore that.
+
+904
+00:46:24,640 --> 00:46:25,640
+Yeah.
+
+905
+00:46:25,640 --> 00:46:26,640
+Oh God.
+
+906
+00:46:26,640 --> 00:46:27,640
+That fucking triggers me.
+
+907
+00:46:27,640 --> 00:46:28,640
+This is literally nothing.
+
+908
+00:46:28,640 --> 00:46:34,280
+Well, like, I mean, people don't realize that a government is just a society agreeing on
+
+909
+00:46:34,280 --> 00:46:35,280
+violence.
+
+910
+00:46:35,280 --> 00:46:41,520
+Like, you know, like, like if guns are being passed around, like fucking, I mean, I, like,
+
+911
+00:46:41,520 --> 00:46:44,320
+I don't know, fucking well, like let's go.
+
+912
+00:46:44,320 --> 00:46:48,280
+What matters is if you see me in the street with my Mosin, okay, what matters is that
+
+913
+00:46:49,280 --> 00:46:50,280
+I join you with two.
+
+914
+00:46:50,280 --> 00:46:51,280
+Okay.
+
+915
+00:46:51,280 --> 00:46:52,280
+All right.
+
+916
+00:46:52,280 --> 00:46:53,280
+Yeah.
+
+917
+00:46:53,280 --> 00:46:54,280
+My fucking comrades.
+
+918
+00:46:54,280 --> 00:46:58,400
+Hey, destiny being a liberal is only there to either be subverted or destroyed.
+
+919
+00:46:58,400 --> 00:47:02,160
+And because they both failed to subvert him and they're both too bitch baby to actually
+
+920
+00:47:02,160 --> 00:47:06,080
+do anything outside their own houses, destroying him online is the next best thing.
+
+921
+00:47:06,080 --> 00:47:10,500
+With all of this additional context, look at white nervosa statement on the Rose wrist
+
+922
+00:47:10,500 --> 00:47:15,400
+thing again, allow this to be a larger statement on those who look towards DGG for a place
+
+923
+00:47:15,400 --> 00:47:18,000
+to be rather than a place to move on from.
+
+924
+00:47:18,720 --> 00:47:19,720
+They don't watch your content.
+
+925
+00:47:19,720 --> 00:47:20,720
+Never.
+
+926
+00:47:20,720 --> 00:47:21,720
+You're nothing but a tool to them.
+
+927
+00:47:21,720 --> 00:47:22,720
+This isn't picking sides.
+
+928
+00:47:22,720 --> 00:47:24,640
+This is understanding that DGG isn't a place for growth.
+
+929
+00:47:24,640 --> 00:47:25,840
+On the one hand, you're entirely wrong.
+
+930
+00:47:25,840 --> 00:47:29,680
+There's a ton of content creators who have benefited greatly from the destiny bump, erudite,
+
+931
+00:47:29,680 --> 00:47:32,880
+stardust, counterpoints, even vosh, but the difference is that they took the exposure
+
+932
+00:47:32,880 --> 00:47:37,200
+destiny gave them and then made something that was new, something that was them using
+
+933
+00:47:37,200 --> 00:47:38,640
+the opportunity properly.
+
+934
+00:47:38,640 --> 00:47:43,400
+White nervosa didn't like DK said, everything she's done is simply a copy of the work of
+
+935
+00:47:43,400 --> 00:47:44,400
+better people.
+
+936
+00:47:44,400 --> 00:47:48,200
+On the other hand, though, this mindset of white nervosas pretty much proves my point
+
+937
+00:47:48,200 --> 00:47:51,040
+that her and her crowd are just users.
+
+938
+00:47:51,040 --> 00:47:55,040
+To them, DGG is a stepping stone to appeal to when it builds them up and to attack when
+
+939
+00:47:55,040 --> 00:47:56,040
+it builds them up.
+
+940
+00:47:56,040 --> 00:47:57,620
+Vash and Asan did this to destiny.
+
+941
+00:47:57,620 --> 00:48:00,700
+A bunch of crumb tubers did it too, book smarts, Merrick, Xanderhal.
+
+942
+00:48:00,700 --> 00:48:02,960
+This is also what's happening to chud logic right now.
+
+943
+00:48:02,960 --> 00:48:06,880
+And now that twitch politics has become an insular lefty only space, they're turning
+
+944
+00:48:06,880 --> 00:48:09,080
+on each other for clout as they always do.
+
+945
+00:48:09,080 --> 00:48:13,020
+Right now, as I'm recording this bad bunny and keffles are getting into a fight because
+
+946
+00:48:13,020 --> 00:48:16,280
+they're both fucking irrelevant, contributing nothing of substance to anything.
+
+947
+00:48:16,280 --> 00:48:20,220
+And despite their public exclamations of commitment to the leftist cause, they're only here
+
+948
+00:48:20,220 --> 00:48:21,220
+to make money.
+
+949
+00:48:21,220 --> 00:48:25,980
+And yes, underneath all of the rhetoric, that's all it is for any of these leftoids.
+
+950
+00:48:25,980 --> 00:48:29,780
+You don't need to actually build socialism if you're a rich socialist because you've
+
+951
+00:48:29,780 --> 00:48:31,180
+got the correct beliefs.
+
+952
+00:48:31,180 --> 00:48:35,260
+So whatever is a good consequentialist end for you is what the good is.
+
+953
+00:48:35,260 --> 00:48:39,060
+In fact, with white nervosa, it's even more blatant because the main reason she even tried
+
+954
+00:48:39,060 --> 00:48:43,000
+to be a streamer before the whole white forest thing is so that she could stream snipe other
+
+955
+00:48:43,000 --> 00:48:46,440
+people's auto-hosts and turn those donations into cocaine.
+
+956
+00:48:46,440 --> 00:48:49,940
+And no, this isn't just some Kiwi Farms rumor, though they get a kick out of it too.
+
+957
+00:48:49,940 --> 00:48:52,160
+This is something that is actually confirmed by her.
+
+958
+00:48:52,160 --> 00:48:58,960
+Yeah, I mean, I just love the EU streams, I'm trying to jack the auto-hosts from everybody
+
+959
+00:48:58,960 --> 00:49:01,560
+else so, you know, we start early as fuck.
+
+960
+00:49:01,560 --> 00:49:04,900
+Listen, just know that if you support the White Leaf Project, all that money is going
+
+961
+00:49:04,900 --> 00:49:06,500
+straight up her nose.
+
+962
+00:49:06,500 --> 00:49:08,480
+At this point, let's check out the big picture.
+
+963
+00:49:08,480 --> 00:49:12,640
+White Nervosa is a core part of Vasha's community, paid by him to rip off Destiny's
+
+964
+00:49:12,680 --> 00:49:15,400
+code for his, and later, all of BreadTube's use.
+
+965
+00:49:15,400 --> 00:49:19,520
+This entire group shares the same ethics, which constitute a violent support of revolutionary
+
+966
+00:49:19,520 --> 00:49:23,640
+leftism without any concern of the actual behaviors involved, or concern for any of
+
+967
+00:49:23,640 --> 00:49:25,760
+the outcomes beyond what is simply good for them.
+
+968
+00:49:25,760 --> 00:49:28,920
+And beneath that mask, what is good is whatever makes them money.
+
+969
+00:49:28,920 --> 00:49:32,640
+And people who disagree with what they consider the good to be exist only to be exploited
+
+970
+00:49:32,640 --> 00:49:36,280
+by them, to either be converted to their cause or discarded and destroyed.
+
+971
+00:49:36,280 --> 00:49:40,540
+And in order to accomplish all of this, these people are willing to lie, to cheat, to steal,
+
+972
+00:49:40,540 --> 00:49:43,580
+to attack you in the street if they had the opportunity, to deprive you of your income
+
+973
+00:49:43,580 --> 00:49:47,420
+so that you and your dependents starve, to go against every stated value that they claim
+
+974
+00:49:47,420 --> 00:49:50,820
+to hold, including things like universal human rights or democracy.
+
+975
+00:49:50,820 --> 00:49:55,160
+There is a direct throughline between the rhetoric these people used in 2018 and 2019
+
+976
+00:49:55,160 --> 00:49:57,440
+and their morally reprehensible behaviors today.
+
+977
+00:49:57,440 --> 00:49:59,460
+They were always going to become this.
+
+978
+00:49:59,460 --> 00:50:03,540
+This is why people in my area of the internet spoke out about it all those years ago.
+
+979
+00:50:03,540 --> 00:50:05,780
+We all told Shu on head she was going to get backstabbed.
+
+980
+00:50:05,780 --> 00:50:06,780
+She didn't believe us.
+
+981
+00:50:06,780 --> 00:50:07,780
+And here we are.
+
+982
+00:50:07,780 --> 00:50:12,140
+She was scamming chudlogic in like April 2022 or something, saying, I bet demon mama backstabs
+
+983
+00:50:12,140 --> 00:50:13,140
+you within the next six months.
+
+984
+00:50:13,140 --> 00:50:14,540
+And he was like, I don't know, man.
+
+985
+00:50:14,540 --> 00:50:15,820
+And lo and behold, she did.
+
+986
+00:50:15,820 --> 00:50:19,700
+When I spoke to Dylan Burns, I told him there will probably eventually be backlash for you
+
+987
+00:50:19,700 --> 00:50:21,740
+and I talking, especially if you do it regularly.
+
+988
+00:50:21,740 --> 00:50:22,740
+And it hasn't come yet.
+
+989
+00:50:22,740 --> 00:50:24,000
+But, you know, it will.
+
+990
+00:50:24,000 --> 00:50:26,660
+I don't agree with Sargon or ArchWarhammer all the time.
+
+991
+00:50:26,660 --> 00:50:30,740
+We have some very rowdy debates in private, but we never violate the meta-ethic that is
+
+992
+00:50:30,740 --> 00:50:31,740
+the friendship.
+
+993
+00:50:31,740 --> 00:50:33,660
+Over some political disagreement, why would we?
+
+994
+00:50:33,660 --> 00:50:36,540
+Even though they're drifting away from me politically, and I agree with them less and
+
+995
+00:50:36,540 --> 00:50:41,100
+less over time, they are vastly better people than any of these BreadTube fucks.
+
+996
+00:50:41,100 --> 00:50:43,920
+White Nervosa herself is just a blip on the radar.
+
+997
+00:50:43,920 --> 00:50:47,540
+She will fade in the same way that Kefles is fading, now that her Drop Kiwi Farms campaign
+
+998
+00:50:47,540 --> 00:50:49,380
+has failed spectacularly.
+
+999
+00:50:49,380 --> 00:50:53,260
+Even if you were braindead enough to be interested in the BreadTube socialist type of thing,
+
+1000
+00:50:53,260 --> 00:50:57,700
+all of her content is just what the larger BreadTubers say, only strictly worse.
+
+1001
+00:50:57,700 --> 00:51:00,140
+Her only claim to fame is exactly as DK said.
+
+1002
+00:51:00,140 --> 00:51:01,780
+She stole the work of better people.
+
+1003
+00:51:01,780 --> 00:51:04,300
+She enriched herself, temporarily, off that work.
+
+1004
+00:51:04,300 --> 00:51:06,880
+She has no ability to innovate on that foundation.
+
+1005
+00:51:06,880 --> 00:51:09,740
+And so, when the ecosystem moves on, she will be left behind.
+
+1006
+00:51:09,740 --> 00:51:14,660
+Her one claim to fame is fleeting fast, and nothing else she's ever done has any substance
+
+1007
+00:51:14,660 --> 00:51:15,660
+whatsoever.
+
+1008
+00:51:15,660 --> 00:51:19,140
+She will one day wake up and discover that the cocaine money has dried up, nobody's
+
+1009
+00:51:19,140 --> 00:51:23,180
+keeping up with her anymore, nobody's using the few dollops of value she stole from others
+
+1010
+00:51:23,180 --> 00:51:24,180
+anymore.
+
+1011
+00:51:24,180 --> 00:51:26,660
+Theirs is a community of users, in many ways.
+
+1012
+00:51:26,660 --> 00:51:30,180
+And White Nervosa is rapidly reaching the end of her usefulness.
+
+1013
+00:51:30,180 --> 00:51:34,060
+I don't know why she thinks she won't be discarded, in the same way that she and
+
+1014
+00:51:34,060 --> 00:51:36,260
+her ilk have discarded so many others.
+

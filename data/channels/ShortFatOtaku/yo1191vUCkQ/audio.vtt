@@ -1,0 +1,1301 @@
+WEBVTT
+
+00:00.000 --> 00:09.620
+I was on eFAP last week with a whole bunch of other guests to talk about the current
+
+00:09.620 --> 00:11.740
+drama surrounding the React meta of Twitch.
+
+00:11.740 --> 00:12.740
+I had a really good time.
+
+00:12.740 --> 00:13.740
+I love going on eFAP.
+
+00:13.740 --> 00:17.220
+But large panels like this aren't always the best way to get a point across.
+
+00:17.220 --> 00:21.260
+That, plus I've had a bit of time to think about it, so I want to give a more nuanced
+
+00:21.260 --> 00:22.340
+take regarding the topic.
+
+00:22.340 --> 00:26.700
+To really understand what's going on, you have to watch like five videos on Destiny's
+
+00:26.700 --> 00:28.780
+channel, and they're each several hours long.
+
+00:28.780 --> 00:30.460
+And ain't nobody got time for that.
+
+00:30.460 --> 00:32.020
+Let me give you a quick TLDR.
+
+00:32.020 --> 00:35.780
+xQc and Hassan are two of the most popular streamers in the world.
+
+00:35.780 --> 00:40.380
+Hassan is explicitly a socialist, while xQc seems to be more apolitical.
+
+00:40.380 --> 00:45.300
+They both got into a lot of controversy last week, when they reacted to Lomino's hour-and-a-half-long
+
+00:45.300 --> 00:47.820
+documentary on the assassination of JFK.
+
+00:47.820 --> 00:51.560
+Lomino is a YouTuber with over five million subs, and his bread and butter seems to be
+
+00:51.560 --> 00:55.020
+highly researched, highly edited long-form videos like this.
+
+00:55.020 --> 00:59.900
+xQc and Hassan both got into trouble for playing the entire video on their stream,
+
+00:59.900 --> 01:01.900
+though xQc caught a lot more heat.
+
+01:01.900 --> 01:06.300
+This sparked multiple debates across multiple channels about the ethics of reacting to other
+
+01:06.300 --> 01:10.100
+people's content on stream, on Destiny's stream, on the E5 episode that I was a part
+
+01:10.100 --> 01:15.820
+of, ultimately culminating with xQc going on to the H3H3 podcast to debate Ethan Klein
+
+01:15.820 --> 01:16.820
+on the topic.
+
+01:16.820 --> 01:17.820
+And you know what?
+
+01:17.820 --> 01:20.940
+As much as I absolutely fucking hate Ethan Klein, I gotta hand it to him.
+
+01:20.940 --> 01:23.380
+He stomped xQc into the dirt.
+
+01:23.380 --> 01:27.020
+So when I say minimal commentary, how minimal are we talking here?
+
+01:27.020 --> 01:31.580
+Well, xQc's reaction on stream was cut into a video by his editor and uploaded to his
+
+01:31.580 --> 01:32.580
+YouTube channel.
+
+01:32.580 --> 01:35.820
+That stream segment clocked in at one hour and fifty-three minutes.
+
+01:35.820 --> 01:38.620
+Lomino's original video clocks in at an hour thirty-eight.
+
+01:38.620 --> 01:43.500
+That means that if we give xQc any sort of time devoted to intro and outro, pre- and
+
+01:43.500 --> 01:48.420
+post-discussion of the video, he added fifteen minutes of his own content to Lomino's video.
+
+01:48.420 --> 01:52.860
+Is that enough for it to be considered ethical, or is this simply xQc stealing other people's
+
+01:52.860 --> 01:55.200
+hard work and letting it run on his stream?
+
+01:55.200 --> 01:56.620
+How about Hassan's reaction?
+
+01:56.620 --> 01:58.820
+His VOD is two hours and twenty-three minutes.
+
+01:58.820 --> 02:01.920
+Good faith assumption that he added forty-five minutes of his own commentary.
+
+02:01.920 --> 02:04.120
+Is that enough for it to be considered ethical?
+
+02:04.120 --> 02:07.820
+Lots of people look to fair use, which is an American legal argument.
+
+02:07.820 --> 02:11.960
+Fair use permits the use of copyrighted material without permission from the owner under specific
+
+02:11.960 --> 02:14.660
+circumstances for various artistic purposes.
+
+02:14.660 --> 02:18.880
+Current American law has a four-point checklist that can help determine whether or not a use
+
+02:18.880 --> 02:22.380
+of a copyrighted work is copyright infringement or is actually fair use.
+
+02:22.380 --> 02:26.620
+When determining whether the use made of a work in any particular case is a fair use,
+
+02:26.620 --> 02:29.260
+the factors to be considered shall include 1.
+
+02:29.260 --> 02:33.420
+The purpose and character of the use, including whether such use is of a commercial nature
+
+02:33.420 --> 02:36.140
+or is for non-profit educational purposes 2.
+
+02:36.140 --> 02:38.220
+The nature of the copyrighted work 3.
+
+02:38.220 --> 02:42.320
+The amount and substantiality of the portion used in relation to the copyrighted work as
+
+02:42.320 --> 02:43.680
+a whole 4.
+
+02:43.680 --> 02:48.240
+The effect of the use upon the potential market for or value of the copyrighted work
+
+02:48.240 --> 02:50.220
+Now to be clear, this isn't a hard and fast checklist.
+
+02:50.260 --> 02:53.780
+Like, you don't have to tick off the four boxes for a use to be considered fair use.
+
+02:53.780 --> 02:58.000
+It's judged on a case-by-case basis, because fair use is what is known as an affirmative
+
+02:58.000 --> 02:59.000
+defense.
+
+02:59.000 --> 03:02.420
+An affirmative defense is, basically, when you don't dispute the facts of the case.
+
+03:02.420 --> 03:04.940
+You make the argument that you had a really good reason to do what you did.
+
+03:04.940 --> 03:07.060
+Self-defense is a great example of an affirmative defense.
+
+03:07.060 --> 03:10.040
+For example, nobody disputes that Rittenhouse shot those people.
+
+03:10.040 --> 03:12.900
+His defense is that he had a really good reason to do so, that he was under attack by them
+
+03:12.900 --> 03:14.020
+and afraid for his life.
+
+03:14.020 --> 03:16.580
+When you claim fair use, it's an affirmative defense.
+
+03:16.580 --> 03:18.860
+You're not denying that you're using the copyrighted material.
+
+03:18.860 --> 03:20.980
+You're claiming that you have a good reason to use it.
+
+03:20.980 --> 03:25.020
+And these four points can help a judge determine whether or not your reason is actually a good
+
+03:25.020 --> 03:26.020
+one.
+
+03:26.020 --> 03:28.440
+Point one is basically about the social good of the use.
+
+03:28.440 --> 03:30.980
+Are you just making a bunch of money ripping off somebody else's work?
+
+03:30.980 --> 03:33.920
+Or are you not making any money and instead using it to educate?
+
+03:33.920 --> 03:36.140
+Point two is taking into account what you used.
+
+03:36.140 --> 03:39.720
+Using a song is different from using a movie, which is different from using a photo.
+
+03:39.720 --> 03:43.740
+What the work is will help you determine whether or not your use of it was legitimate.
+
+03:43.740 --> 03:46.660
+Point three is taking into account how much of the work you used.
+
+03:46.660 --> 03:49.660
+If you're reviewing a movie, you probably shouldn't include the entire movie in your
+
+03:49.660 --> 03:52.900
+review and only use the clips necessary to make your points.
+
+03:52.900 --> 03:56.300
+But that doesn't mean that under the right circumstances, using a whole work wouldn't
+
+03:56.300 --> 03:57.300
+be valid.
+
+03:57.300 --> 03:59.700
+It depends on what you're doing with it and if it's necessary.
+
+03:59.700 --> 04:02.680
+Point four is taking into account the loss of the copyright holder.
+
+04:02.680 --> 04:06.100
+For example, I remember a fan-made project where you tour the Enterprise-D from Star
+
+04:06.100 --> 04:10.540
+Trek Next Generation, which Paramount had successfully shut down as they had for sale
+
+04:10.540 --> 04:12.780
+their own version doing the exact same thing.
+
+04:12.780 --> 04:17.140
+In this case, the impact on the copyright holder is too much for it to be fair use.
+
+04:17.140 --> 04:21.620
+The fan was literally providing a competing parallel product for free, depriving Paramount
+
+04:21.620 --> 04:22.620
+of sales.
+
+04:22.620 --> 04:25.840
+However, it's not as simple as whether or not a copyright holder is financially damaged
+
+04:25.840 --> 04:30.040
+by the use, as a negative review of a movie might lead to the creators of the movie seeing
+
+04:30.040 --> 04:31.340
+a financial loss.
+
+04:31.340 --> 04:36.220
+A review is not a parallel product in the same way as recreating the entire thing.
+
+04:36.220 --> 04:40.820
+Basically, fair use isn't a series of hard and fast rules that can be easily figured
+
+04:40.820 --> 04:45.460
+out, but a set of guidelines that can help judge a use on a case-by-case basis.
+
+04:45.460 --> 04:49.840
+For the UK and Canada and other English-speaking nations, we have fair dealing law instead,
+
+04:49.840 --> 04:51.780
+which is mostly similar with a few key differences.
+
+04:51.780 --> 04:52.780
+Here we've got a six-point system.
+
+04:52.780 --> 04:55.740
+The purpose of the dealing, the character of the dealing, the amount of the dealing,
+
+04:55.740 --> 04:58.980
+alternatives to the dealing, the nature of the work used, and the effect of the dealing
+
+04:58.980 --> 04:59.980
+on the work.
+
+04:59.980 --> 05:02.660
+These mostly cover the same thing as American fair use law.
+
+05:02.660 --> 05:07.580
+This is all to say that fair use and fair dealing are legal terms, not moral or ethical
+
+05:07.580 --> 05:08.580
+ones.
+
+05:08.580 --> 05:12.420
+When people talk about this stuff, they often use these terms colloquially, in a moral sense,
+
+05:12.420 --> 05:13.420
+not a legal one.
+
+05:13.420 --> 05:16.060
+When something is found to be a fair use, it's considered transformative.
+
+05:16.060 --> 05:21.460
+And the conversation surrounding XQC is all about whether or not his reaction was transformative.
+
+05:21.460 --> 05:24.100
+Not explicitly in a legal way, but in a colloquial way.
+
+05:24.100 --> 05:27.940
+Like are streamers doing anything unethical by just freebooting somebody else's YouTube
+
+05:27.940 --> 05:28.940
+videos for their stream?
+
+05:28.940 --> 05:30.820
+Let me draw out a logic tree here.
+
+05:30.820 --> 05:33.820
+If you're watching me on your second monitor, now is the time to pause Baldur's Gate and
+
+05:33.820 --> 05:34.900
+look over for a few minutes.
+
+05:34.900 --> 05:38.740
+If Lomino gave the streamers his permission to watch his videos on their stream, then
+
+05:38.740 --> 05:40.060
+the conversation is just over.
+
+05:40.060 --> 05:41.060
+They got the creators' consent.
+
+05:41.060 --> 05:43.020
+I don't think anybody sane would object to this.
+
+05:43.020 --> 05:44.100
+What would they even say?
+
+05:44.100 --> 05:47.220
+That they still can't watch other people's videos even if the creators said it was okay?
+
+05:47.220 --> 05:50.100
+Well, actually, yes, but we'll get back to that in a bit.
+
+05:50.100 --> 05:53.940
+If Lomino didn't give them his permission, then the question becomes, did they mix in
+
+05:53.940 --> 05:58.340
+enough of their own original content, in a way that their reaction is now transformative?
+
+05:58.340 --> 06:00.140
+Again, not legally, colloquially.
+
+06:00.140 --> 06:03.900
+In the case of XQC, most people say no, he didn't.
+
+06:03.900 --> 06:08.500
+Mahler highlighted on eFAP just how little XQC added during the viewing of his video,
+
+06:08.500 --> 06:12.660
+along with pointing out that whenever he paused a comment, his own chat room would revolt,
+
+06:12.660 --> 06:16.300
+screaming at him to stop pausing the video and stop adding his own input.
+
+06:16.300 --> 06:21.980
+Those people were there less for XQC's reaction and more to just watch a YouTube video uninterrupted
+
+06:21.980 --> 06:23.320
+on XQC's stream.
+
+06:23.320 --> 06:27.080
+For Hassan's reaction, despite him walking off several times to do other things and just
+
+06:27.080 --> 06:31.300
+letting the video play to his chat room in his empty chair, he did actually add his own
+
+06:31.300 --> 06:33.640
+commentary significantly more than XQC did.
+
+06:33.640 --> 06:37.760
+It was stupid commentary, yes, Hassan is a gibbering retard, but we're not judging
+
+06:37.760 --> 06:41.860
+the quality of the commentary this time, we're only judging if they've actually transformed
+
+06:41.860 --> 06:44.160
+the original work into a new experience.
+
+06:44.160 --> 06:47.640
+And in this case, Hassan has a much stronger claim to that defense than XQC.
+
+06:47.640 --> 06:51.400
+So where is that line that makes a use transformative, in the colloquial sense?
+
+06:51.400 --> 06:55.560
+I personally think that the various eFAPs on movies and TV shows, as well as my own
+
+06:55.560 --> 06:59.940
+watch party videos of the Rings of Power and The Last of Us, those are all transformative.
+
+06:59.940 --> 07:03.320
+Because yes, while we are watching the whole show or the whole movie, there's significant
+
+07:03.320 --> 07:07.960
+commentary before, during, and after, discussing news articles or social media trends surrounding
+
+07:07.960 --> 07:12.680
+the show, bringing up lore inconsistencies or dumb scenes, or whatever else, sitting
+
+07:12.680 --> 07:16.800
+there and simply saying true with your mouth full, or letting a video play while you wander
+
+07:16.800 --> 07:19.360
+away to jack off in the bathroom, that's not transformative.
+
+07:19.360 --> 07:22.640
+I can't tell you where the line is that makes something transformative when you cross
+
+07:22.640 --> 07:23.640
+it.
+
+07:23.640 --> 07:26.500
+I don't know exactly how much you should add, but I do know that there is an obvious
+
+07:26.500 --> 07:28.140
+difference between the two extremes.
+
+07:28.140 --> 07:31.520
+If a use isn't transformative, then how unethical is it?
+
+07:31.520 --> 07:32.660
+Well, that depends.
+
+07:32.660 --> 07:35.740
+This conversation has come up several times now in terms of internet discourse.
+
+07:35.740 --> 07:37.420
+The last time it kicked off was a year ago.
+
+07:37.420 --> 07:42.020
+Back then I was also on eFAP, talking about Hassan completely stealing one of JX's videos,
+
+07:42.020 --> 07:46.600
+just letting it play providing almost no commentary whatsoever, and going over the dumb fuck defense
+
+07:46.600 --> 07:51.220
+for this behavior given not only by Hassan himself, but also by A-Relevant and Denims.
+
+07:51.220 --> 07:55.180
+And even before that, there was the Twitch TV meta, where large Twitch streamers would
+
+07:55.180 --> 07:59.420
+just watch whole ass real TV shows, like the shit that you'd find on cable.
+
+07:59.420 --> 08:03.340
+The argument given by these large streamers as to why they should be allowed to do this
+
+08:03.340 --> 08:07.300
+makes me think that they view streaming like it's a watch party in Discord, which explains
+
+08:07.300 --> 08:10.760
+why xQc's chat was yelling at him every time you paused the video.
+
+08:10.760 --> 08:14.260
+These people often say that they should be allowed to do this because the product they're
+
+08:14.260 --> 08:18.600
+presenting isn't the movie or the video or the TV show itself, it's the experience
+
+08:18.600 --> 08:21.300
+of watching it with other people, with the streamer, with the chat room.
+
+08:21.300 --> 08:24.340
+And on some level, we do know that that is a different experience, just like we know
+
+08:24.340 --> 08:26.800
+the difference between watching a movie at home versus watching it in the theater.
+
+08:26.800 --> 08:30.360
+But the fact that it's a different experience for the viewer, does that make it a transformative
+
+08:30.360 --> 08:31.360
+use?
+
+08:31.360 --> 08:32.360
+I don't think so.
+
+08:32.360 --> 08:34.160
+Another common defense is to compare it to video game streaming.
+
+08:34.160 --> 08:37.880
+The argument is that a streamer deprives a video's creator, or a movie's creator,
+
+08:37.880 --> 08:38.880
+or a TV show's creator.
+
+08:38.880 --> 08:41.840
+Though let's be honest, nobody gives a fuck about Hollywood's welfare right now.
+
+08:41.840 --> 08:46.440
+The streamer deprives them revenues or attention or clicks when he plays their content on stream,
+
+08:46.440 --> 08:49.920
+even if he reacts to it in a transformative way, let alone just freebooting it.
+
+08:49.920 --> 08:53.200
+But since we allow it for video games, we should also allow it for other mediums.
+
+08:53.200 --> 08:56.300
+The issue with this argument is that video games have a performative component.
+
+08:56.300 --> 08:59.260
+You have to play it, not just passively consume it.
+
+08:59.260 --> 09:01.960
+And a streamer's playthrough is necessarily different than yours.
+
+09:01.960 --> 09:05.860
+The experience of playing a game cannot be gained through watching somebody else play
+
+09:05.860 --> 09:06.860
+it.
+
+09:06.860 --> 09:11.020
+But the experience of watching a video or a movie or a TV show can be gained by watching
+
+09:11.020 --> 09:13.540
+it with somebody else present, like a streamer or a chat room.
+
+09:13.540 --> 09:17.460
+The claim that watching somebody playing a video game is an infringement on the copyright
+
+09:17.460 --> 09:19.420
+of the creator of the game doesn't really make sense.
+
+09:19.420 --> 09:23.220
+It's like saying watching somebody play baseball is an infringement of the copyright
+
+09:23.220 --> 09:24.220
+of the creator of baseball.
+
+09:24.220 --> 09:28.340
+The only place where I think this logic has any footing is in games with almost no gameplay
+
+09:28.340 --> 09:29.340
+whatsoever.
+
+09:29.340 --> 09:32.460
+Like you're just passively moving through the game world applying zero skill and absorbing
+
+09:32.460 --> 09:33.460
+a story.
+
+09:33.460 --> 09:35.100
+At that point, it might as well just be a TV show.
+
+09:35.100 --> 09:38.140
+But for the most part, this logic doesn't work for video game streams.
+
+09:38.140 --> 09:42.140
+The final line of defense for this behavior is the effect that streaming somebody's
+
+09:42.140 --> 09:44.300
+video has on the creator of the video.
+
+09:44.300 --> 09:47.620
+The video creators will often claim that each person who watches it on Hassan's stream
+
+09:47.620 --> 09:51.020
+or XQC's stream, that's one less potential view on their video.
+
+09:51.020 --> 09:54.320
+Why would they go watch the original on YouTube when they just watch it on a stream?
+
+09:54.320 --> 09:55.660
+This was Adam's main argument on Efab.
+
+09:55.660 --> 09:57.380
+And I think there's some truth to it.
+
+09:57.380 --> 10:01.800
+There obviously will be some people who would have watched the video who just won't now.
+
+10:01.800 --> 10:03.320
+That's lost clicks and revenue.
+
+10:03.320 --> 10:06.020
+Streamers can mitigate that by shouting out the creator, linking their video, linking
+
+10:06.020 --> 10:07.020
+their channel.
+
+10:07.020 --> 10:08.020
+But some of them just won't watch it.
+
+10:08.020 --> 10:09.020
+Simple as.
+
+10:09.020 --> 10:12.900
+But that calculation has to be balanced out by understanding that some people do go back
+
+10:12.900 --> 10:16.860
+and watch it, as we regularly see videos get spikes of viewers after a streamer reacts
+
+10:16.860 --> 10:17.860
+to it.
+
+10:17.860 --> 10:21.380
+If any of those viewers are new viewers, they might sub to the channel, they might watch
+
+10:21.380 --> 10:22.860
+future videos on their own.
+
+10:22.860 --> 10:24.740
+These effects also have to be taken into account.
+
+10:24.740 --> 10:28.840
+There's also the fact that there's generally a significant lack of audience overlap.
+
+10:28.840 --> 10:32.020
+Going back to the original example, there's probably not much audience overlap between
+
+10:32.020 --> 10:35.700
+Hassan and XQC's stream viewers and Lomino's YouTube viewers.
+
+10:35.700 --> 10:39.380
+The chance of those people watching Lomino's content of their own volition is probably
+
+10:39.380 --> 10:40.580
+relatively low.
+
+10:40.580 --> 10:43.560
+But now that they've seen the JFK video on stream, they just might.
+
+10:43.560 --> 10:47.820
+Something we learned during the era of MP3 piracy is that just because somebody downloads
+
+10:47.820 --> 10:50.980
+your music, doesn't mean that that's automatically a lost sale.
+
+10:50.980 --> 10:53.340
+Some of these people would have just never bought the music at all.
+
+10:53.340 --> 10:55.820
+And some of these people would have just never watched Lomino either.
+
+10:55.820 --> 11:00.320
+This is the harm conversation, and to me personally, it's the least interesting part of the discussion.
+
+11:00.320 --> 11:04.940
+The question here is ultimately, how many views and subs are lost when somebody reacts
+
+11:04.940 --> 11:08.300
+to their content on their stream versus how many are gained through exposure to a new
+
+11:08.300 --> 11:09.300
+audience.
+
+11:09.300 --> 11:11.100
+If you had perfect information, you can just math it out.
+
+11:11.100 --> 11:14.180
+If the video creator gains more than they lose, it's not immoral for streamers to
+
+11:14.180 --> 11:15.180
+swipe the video.
+
+11:15.180 --> 11:17.380
+If the video creator loses more than they gain, it is immoral.
+
+11:17.940 --> 11:20.020
+The only issue is that we don't have perfect information, so we're just guessing a lot
+
+11:20.020 --> 11:21.020
+of this stuff.
+
+11:21.020 --> 11:23.060
+But there's no real moral question here.
+
+11:23.060 --> 11:27.660
+Assume that Lomino saw a net material gain from xQc grabbing his video and playing it
+
+11:27.660 --> 11:31.400
+while not transforming it, essentially stealing the content to keep his stream entertained.
+
+11:31.400 --> 11:34.300
+If Lomino saw a net material loss, it's an easy conversation.
+
+11:34.300 --> 11:35.900
+What xQc did was simply unethical.
+
+11:35.900 --> 11:40.220
+But if Lomino saw a net material gain, was what xQc did okay?
+
+11:40.220 --> 11:41.220
+I'm not so sure.
+
+11:41.220 --> 11:45.500
+Because, and sorry progressive consequentialist, you guys are retarded, not all morality is
+
+11:45.500 --> 11:48.500
+based on harm reduction and seeking good ends.
+
+11:48.500 --> 11:53.300
+Even if Lomino saw a material gain, it's not like he gave xQc his consent to play the
+
+11:53.300 --> 11:54.300
+video.
+
+11:54.300 --> 11:57.380
+And consent is a moral concept that exists outside of harm.
+
+11:57.380 --> 12:00.300
+People can consent to harmful things and refuse non-harmful things.
+
+12:00.300 --> 12:02.940
+It's a different type of morality than simple harm reduction.
+
+12:02.940 --> 12:07.820
+If Lomino objected to xQc's use of the video, and xQc replied with, aw shut up, you gotta
+
+12:07.820 --> 12:11.980
+benefit out of it anyway, and that was actually true, does that mean that xQc is morally in
+
+12:11.980 --> 12:12.980
+the clear?
+
+12:12.980 --> 12:15.100
+And Lomino has no place to feel put out.
+
+12:15.100 --> 12:17.340
+My gut tells me, I don't think so.
+
+12:17.340 --> 12:18.560
+So what's at the bottom of this?
+
+12:18.560 --> 12:22.060
+To answer that, we gotta go all the way back to the start of React content itself.
+
+12:22.060 --> 12:25.220
+The early internet is full of videos where the purpose of them is to see a person's
+
+12:25.220 --> 12:26.220
+reaction.
+
+12:26.220 --> 12:27.900
+The oldest one I can think of is the N64 kid.
+
+12:27.900 --> 12:32.060
+Yeah that was me back when I got my N64 too.
+
+12:32.060 --> 12:35.260
+The point of the video isn't the N64, it's the kid's over the top reaction to getting
+
+12:35.260 --> 12:36.260
+it.
+
+12:36.260 --> 12:40.300
+Shortly after this we saw stuff like the Jumpscare Maze game in 2006, or Two Girls One Cup in
+
+12:40.300 --> 12:41.480
+2007.
+
+12:41.480 --> 12:45.200
+These videos are recordings of normal people watching something designed to get a reaction
+
+12:45.200 --> 12:47.600
+out of them, fear in the first case and disgust in the second.
+
+12:47.600 --> 12:51.280
+We're watching these videos not for the Jumpscare Maze or the video of the girls eating
+
+12:51.280 --> 12:52.280
+their own shit.
+
+12:52.280 --> 12:56.080
+We're watching these videos to watch how other people react to watching these videos.
+
+12:56.080 --> 13:00.180
+React content gives us more information to evaluate than just the original thing.
+
+13:00.180 --> 13:04.440
+It shows us how other people react to something, and if our reactions are in line with theirs.
+
+13:04.440 --> 13:08.580
+I think this is why Japanese variety TV has had those little reaction portraits of celebrities
+
+13:08.580 --> 13:10.300
+watching what's going on for decades now.
+
+13:10.300 --> 13:14.100
+There is genuinely something added to the experience, when you're not only enjoying
+
+13:14.100 --> 13:16.860
+an event, but watching other people enjoy it too.
+
+13:16.860 --> 13:20.620
+Reaction videos hit their initial peak with the Fine Bros back in 2012.
+
+13:20.620 --> 13:24.420
+Where they corporatized the model of having seemingly normal people, like kids or teens
+
+13:24.420 --> 13:27.460
+or elders, react to the latest viral trend on the internet.
+
+13:27.460 --> 13:31.100
+These guys self-destructed when they tried to trademark the react name and the concept
+
+13:31.100 --> 13:35.220
+of reaction back in 2016, after other people started uploading their own reactions.
+
+13:35.220 --> 13:36.660
+The irony was not lost on the internet.
+
+13:36.660 --> 13:39.980
+A couple of guys who made a name for themselves, swiping and reacting to the people's content,
+
+13:39.980 --> 13:43.580
+and not really making their own original content, were now mad that others were also
+
+13:43.580 --> 13:45.760
+swiping their format and using it for themselves.
+
+13:45.760 --> 13:48.420
+Even though they walked it all back, the Fine Bros never really recovered.
+
+13:48.420 --> 13:51.180
+Yeah, a few hundred thousand views in a video is pretty nice.
+
+13:51.180 --> 13:52.980
+But not for a 20 million sub-channel.
+
+13:52.980 --> 13:56.260
+But all of these trends teach us a lot about the nature of react content.
+
+13:56.260 --> 13:59.800
+It's enjoyable to watch in a way that just watching original content on its own isn't.
+
+13:59.800 --> 14:01.980
+It goes viral easily when it's really good.
+
+14:01.980 --> 14:04.980
+It's very easy to make, and it skirts the line on whether or not it's stealing.
+
+14:04.980 --> 14:08.980
+A lot of the hatred of the Fine Bros stems from the fact that react content is so simple
+
+14:08.980 --> 14:12.380
+to create, and reaps so much in the way of rewards, it feels cheap.
+
+14:12.380 --> 14:13.580
+It feels like they're cheating.
+
+14:13.580 --> 14:18.380
+If you spend hours and hours making a well-done video, and a reactor just grabs it, watches
+
+14:18.380 --> 14:22.740
+it, even if they transform it, and then gets way more views than you do off your work,
+
+14:22.740 --> 14:25.180
+especially if you don't see a bump for it, it feels really shitty.
+
+14:25.180 --> 14:26.180
+It feels like they cheated.
+
+14:26.180 --> 14:27.600
+You worked hard and got less.
+
+14:27.600 --> 14:29.500
+They worked not so hard and got more.
+
+14:29.500 --> 14:30.900
+Intuitively, that just doesn't seem fair.
+
+14:30.900 --> 14:35.640
+And I think that's why, from the Fine Bros back in 2012 all the way up to XQC right now,
+
+14:35.640 --> 14:38.540
+whenever this topic comes up, people always get mad.
+
+14:38.540 --> 14:42.020
+But things like, it feels cheap and it's not fair, isn't really an argument.
+
+14:42.020 --> 14:45.420
+We've already determined that if they actually transform the content, then tough titty.
+
+14:45.420 --> 14:47.600
+They've made something new and unique, and that's that.
+
+14:47.600 --> 14:48.660
+Even if you don't like it.
+
+14:48.660 --> 14:51.760
+A lesson that Akilah obviously had to learn the hard way with Sargon.
+
+14:51.760 --> 14:55.340
+But the hatred that people like Sniper Wolf get right now, for making nothing but the
+
+14:55.340 --> 14:59.060
+most garbage-tier react stuff, is pretty understandable.
+
+14:59.060 --> 15:01.620
+She adds nothing but a pretty face to a bunch of TikTok videos.
+
+15:01.620 --> 15:03.560
+Yes, I know, I do TikTok Tuesday.
+
+15:03.560 --> 15:05.680
+But at least I don't pretend to bait you in with a cute girl.
+
+15:05.680 --> 15:07.180
+And plus, I do real content too.
+
+15:07.180 --> 15:10.820
+In fact, that actually reminds me of this little exchange from original Game Grumps.
+
+15:37.180 --> 16:02.500
+What Jon is pointing out here is that back in 2012, Let's Play is reviewed kinda like
+
+16:02.500 --> 16:03.660
+react videos are now.
+
+16:03.660 --> 16:06.380
+Low effort content that is potentially wildly popular.
+
+16:06.380 --> 16:10.580
+And how demotivating it can be to make more produced, long-form content in the face of
+
+16:10.580 --> 16:12.360
+that potential easy success.
+
+16:12.360 --> 16:14.020
+I can see both sides of this.
+
+16:14.020 --> 16:18.240
+Creators being tempted to make the easy content and reap the easy success is understandable.
+
+16:18.240 --> 16:21.420
+And many people really are simply just jealous that it's that easy.
+
+16:21.420 --> 16:24.900
+But on the other hand, look at what's become of the vast majority of people who have done
+
+16:24.900 --> 16:28.620
+that, 10 years on now, who have moved away from their produced content and fell into
+
+16:28.620 --> 16:32.460
+doing only Let's Plays or only streams or only reaction videos.
+
+16:32.460 --> 16:35.220
+Look at the caliber of person they've transformed into.
+
+16:35.220 --> 16:37.980
+What exactly did that initial easy success cost them?
+
+16:37.980 --> 16:41.900
+I'm not saying content creators shouldn't do low effort content sometimes, like Let's
+
+16:41.900 --> 16:43.100
+Plays or streams or reacts.
+
+16:43.100 --> 16:44.140
+I do all those.
+
+16:44.140 --> 16:48.300
+But I am saying that for content creators who only do that stuff while abandoning what
+
+16:48.300 --> 16:52.320
+initially made them popular, what people actually initially wanted to see out of them, it's
+
+16:52.320 --> 16:55.100
+no surprise that people view them as shadows of their former selves.
+
+16:55.100 --> 16:58.240
+And it's also no surprise that they often behave like it too.
+
+16:58.240 --> 17:00.780
+So here's the final form of the logic tree.
+
+17:00.780 --> 17:04.660
+If the streamer gets the consent of the video creator, then playing the video on stream
+
+17:04.660 --> 17:05.660
+is fine.
+
+17:05.660 --> 17:08.440
+Doesn't matter if they transform it or get a bump from it, none of that is relevant.
+
+17:08.440 --> 17:10.260
+Consent trumps all other concerns.
+
+17:10.260 --> 17:13.500
+If the streamer doesn't get consent, then if the streamer transforms it enough with
+
+17:13.500 --> 17:17.060
+their own labor, it becomes a unique work that the streamer owns themselves and it's
+
+17:17.060 --> 17:18.060
+still okay.
+
+17:18.060 --> 17:21.920
+If the streamer doesn't get consent and doesn't transform it, then you could argue
+
+17:21.920 --> 17:25.300
+that if the creator of the video gets a boost in their career due to the crossover, then
+
+17:25.300 --> 17:26.520
+it's still okay.
+
+17:26.520 --> 17:28.780
+This is the argument that most streamers use.
+
+17:28.780 --> 17:30.920
+And the size of that bump is dependent on many things.
+
+17:30.920 --> 17:34.040
+If the streamer credits and links back to the original video, or if the streamer is
+
+17:34.040 --> 17:38.360
+immediately reacting to a new video and immediately uploading their stream VOD eating into the
+
+17:38.360 --> 17:41.200
+search impressions of the original, there's a whole bunch of factors at play here.
+
+17:41.200 --> 17:44.800
+Nonetheless, I don't think this is a good argument, but let's just accept it for hypothetical
+
+17:44.800 --> 17:45.800
+sake.
+
+17:45.800 --> 17:49.000
+If the streamer doesn't get consent and doesn't transform it and the original creator
+
+17:49.000 --> 17:51.480
+doesn't get a boost, then it just seems like straight up theft.
+
+17:51.480 --> 17:54.080
+So what should change about all of this?
+
+17:54.080 --> 17:55.080
+Should anything change?
+
+17:55.080 --> 17:58.440
+Should there be a common culture among streamers that they should ask video creators before
+
+17:58.440 --> 17:59.440
+watching their videos?
+
+17:59.440 --> 18:00.960
+Maybe, but that's never going to happen.
+
+18:00.960 --> 18:05.040
+Should video creators use the tools at their disposal to claim the revenue of VODs uploaded
+
+18:05.040 --> 18:06.040
+to YouTube?
+
+18:06.040 --> 18:07.040
+Sure.
+
+18:07.040 --> 18:09.400
+And both Hassan and XQC have gone on record stating that when video creators do this,
+
+18:09.400 --> 18:10.400
+they don't fight them.
+
+18:10.400 --> 18:11.400
+They let them have that revenue.
+
+18:11.400 --> 18:14.840
+The issue is, the streamer already got their watch time and their super chats on their
+
+18:14.840 --> 18:16.960
+stream, so the VOD's revenue is probably secondary.
+
+18:16.960 --> 18:18.960
+Should platforms be enforcing copyright somehow?
+
+18:18.960 --> 18:21.840
+I'm not sure about that one, but good luck getting them to do it anyway.
+
+18:21.840 --> 18:23.720
+Here's how I personally feel about it.
+
+18:23.720 --> 18:26.840
+There should probably be a moratorium when reacting to new videos, since the majority
+
+18:26.840 --> 18:30.640
+of hits and revenue that most videos on YouTube earn happen in the first couple of weeks of
+
+18:30.640 --> 18:31.640
+them being uploaded.
+
+18:31.640 --> 18:36.200
+Beyond that, streamers should ask for permission if they're just watching and not transforming.
+
+18:36.200 --> 18:41.120
+They should also watch any in-video advertisements like sponsorships or announcements.
+
+18:41.120 --> 18:43.380
+And they should also link back to the original creator.
+
+18:43.380 --> 18:46.920
+There could even be an exception where, for hot new videos, they can actually watch them
+
+18:46.920 --> 18:50.600
+immediately but only show the first five minutes or something, and then direct their audience
+
+18:50.600 --> 18:51.600
+to the rest of the video.
+
+18:51.600 --> 18:53.240
+But that might be expecting a bit too much.
+
+18:53.240 --> 18:54.720
+Ultimately, streamers will do whatever they want.
+
+18:54.800 --> 18:58.480
+I don't expect most of them to stop doing this shit, even if YouTubers want them to.
+
+18:58.480 --> 19:02.000
+Because most of these streamers aren't actually capable of providing interesting content without
+
+19:02.000 --> 19:03.760
+having a YouTube video on in the background.
+
+19:03.760 --> 19:05.540
+Have you seen the shit they do otherwise?
+
+19:05.540 --> 19:06.540
+Hot tub streams?
+
+19:06.540 --> 19:07.720
+Naked body painting?
+
+19:07.720 --> 19:08.880
+Fucking sleep streams, dude?
+
+19:08.880 --> 19:11.020
+I respect the few gamers left on Twitch.
+
+19:11.020 --> 19:12.020
+The longplay channels.
+
+19:12.020 --> 19:13.200
+The speedrun channels.
+
+19:13.200 --> 19:14.560
+That's at least doing something.
+
+19:14.560 --> 19:17.840
+That's still what Twitch was originally, and what it should have remained as.
+
+19:17.840 --> 19:20.280
+For me personally, anybody can watch whatever they want on my stuff.
+
+19:20.280 --> 19:21.280
+I don't really care.
+
+19:21.280 --> 19:22.280
+As long as you credit me.
+
+19:22.280 --> 19:23.280
+I'm cool with it.
+
+19:23.280 --> 19:24.280
+I don't feel that way.
+
+19:24.280 --> 19:25.280
+That's their prerogative.
+
+19:25.280 --> 19:28.080
+Nonetheless, streamers aren't going to stop anytime soon, and I don't foresee a path
+
+19:28.080 --> 19:31.380
+forward to somehow force them to stop that won't unintentionally wreck a lot of other
+
+19:31.380 --> 19:32.380
+things in the attempt.
+
+19:32.380 --> 19:35.800
+I also personally believe, though I don't have data to back this up, that the vast majority
+
+19:35.800 --> 19:39.680
+of people who have their videos watched by a streamer ultimately gain more than they
+
+19:39.680 --> 19:40.680
+lose from it.
+
+19:40.680 --> 19:41.920
+Unless it's like a hate watcher or something.
+
+19:41.920 --> 19:45.040
+That doesn't excuse violating a YouTuber's consent, but it's better than nothing.
+
+19:45.040 --> 19:48.840
+Anyway, the final thing I have to say on this topic is that I think a lot of the viewers
+
+19:48.840 --> 19:53.260
+of streamers or YouTubers who are coming in to stake a hard moral claim on this topic
+
+19:53.260 --> 19:54.260
+are just virtue signaling.
+
+19:54.260 --> 19:55.260
+They don't actually care.
+
+19:55.260 --> 19:56.560
+Not the streamers or the YouTubers themselves.
+
+19:56.560 --> 19:57.680
+They have their own motivations.
+
+19:57.680 --> 20:01.040
+The viewers of them who are going hardcore on this on social media, they're just virtue
+
+20:01.040 --> 20:02.040
+signalers.
+
+20:02.040 --> 20:03.040
+Why do I think that?
+
+20:03.040 --> 20:05.780
+Well, because when a streamer viewer complains, it's very obvious they're just defending
+
+20:05.780 --> 20:07.220
+their parasocial daddy.
+
+20:07.220 --> 20:08.220
+They want what they want.
+
+20:08.220 --> 20:09.220
+To watch videos on a stream.
+
+20:09.220 --> 20:10.480
+The ality and morality be damned.
+
+20:10.480 --> 20:14.100
+And when a YouTuber viewer gets up in arms with the lost clicks, and therefore the lost
+
+20:14.100 --> 20:18.100
+revenue, and therefore the damage to a YouTuber's bottom line when a streamer reacts to their
+
+20:18.100 --> 20:21.420
+video, there's a decent chance that guy's probably running an ad blocker.
+
+20:21.420 --> 20:25.120
+And trust me, as somebody with access to my own analytics, ad blockers fuck me over way
+
+20:25.120 --> 20:27.460
+more than React streamers ever will.
+
+20:27.460 --> 20:32.100
+A lot of this drama just seems to be based on competing self-interest.
+
+20:32.100 --> 20:34.400
+YouTubers want people to watch their videos.
+
+20:34.400 --> 20:37.060
+Streamers want to watch what they want on their streams.
+
+20:37.060 --> 20:39.140
+Viewers tend to side with whoever their guy is.
+
+20:39.140 --> 20:44.060
+But ignoring all of that obvious self-interest, it seems to me that the fair thing to do,
+
+20:44.060 --> 20:48.840
+such that everyone's interests are somewhat respected, is for streamers to ask for permission
+
+20:48.840 --> 20:50.440
+and give proper credit.
+
+20:50.440 --> 20:52.840
+Unless they actually transform the content.
+
+20:52.840 --> 20:53.840
+Then it becomes theirs.
+
+20:53.840 --> 20:56.860
+But since most of them don't, consent and credit.
+
+20:56.860 --> 21:00.460
+Two concepts that I don't actually expect progressive Twitch poll streamers to ever
+
+21:00.460 --> 21:01.460
+truly understand.
+

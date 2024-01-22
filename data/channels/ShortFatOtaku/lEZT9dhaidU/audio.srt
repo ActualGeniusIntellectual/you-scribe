@@ -1,0 +1,936 @@
+1
+00:00:00,000 --> 00:00:10,080
+Boy, me doing this video has a reasonably high chance that it's going to blow up right
+
+2
+00:00:10,080 --> 00:00:11,080
+in my face.
+
+3
+00:00:11,080 --> 00:00:13,520
+PayPal, if you're listening, I just want you to know that this is coming from a place
+
+4
+00:00:13,520 --> 00:00:14,520
+of love, pal.
+
+5
+00:00:14,520 --> 00:00:18,200
+I really do want to see you improve, you're so convenient everyone uses you, but your
+
+6
+00:00:18,200 --> 00:00:21,020
+behavior has left a lot to be desired.
+
+7
+00:00:21,020 --> 00:00:23,400
+Please don't ban me for honest criticism, okay?
+
+8
+00:00:23,400 --> 00:00:27,380
+Also, if they do, please consider supporting me on Subscribestar, which processes payouts
+
+9
+00:00:27,380 --> 00:00:28,700
+without using PayPal.
+
+10
+00:00:28,700 --> 00:00:31,580
+The cut they take is less than YouTube, Twitch or Patreon as well.
+
+11
+00:00:31,580 --> 00:00:36,020
+$5 a month on any of those platforms get you into the D-Club, my exclusive supporter-only
+
+12
+00:00:36,020 --> 00:00:38,620
+Discord, but really, Subscribestar is the best bet.
+
+13
+00:00:38,620 --> 00:00:43,040
+PayPal's reputation is as one of those ubiquitous internet services that was born out of the
+
+14
+00:00:43,040 --> 00:00:45,700
+boom of the late 90s and early 2000s.
+
+15
+00:00:45,700 --> 00:00:49,660
+And as it is so often the case with internet companies, early adopters become today's
+
+16
+00:00:49,660 --> 00:00:50,660
+monopolies.
+
+17
+00:00:50,660 --> 00:00:52,240
+That's not a hard and fast rule, of course.
+
+18
+00:00:52,240 --> 00:00:56,500
+Reddit replaced Digg, Google replaced Yahoo, Facebook replaced Myspace.
+
+19
+00:00:56,500 --> 00:01:00,760
+But for the most part, internet users don't actually have any loyalty towards a platform.
+
+20
+00:01:00,760 --> 00:01:02,420
+They go where people already are.
+
+21
+00:01:02,420 --> 00:01:05,780
+Because overwhelmingly, the product offered on the internet is the attention of others.
+
+22
+00:01:05,780 --> 00:01:11,060
+This is why, without some massive disruption, Bitchute, Rumble or Odyssey will never dethrone
+
+23
+00:01:11,060 --> 00:01:12,220
+YouTube or Twitch.
+
+24
+00:01:12,220 --> 00:01:15,220
+Gab, Parler or Getter will never dethrone Twitter.
+
+25
+00:01:15,220 --> 00:01:18,540
+Subscribestar will never dethrone Patreon, even though I'd like it to.
+
+26
+00:01:18,540 --> 00:01:21,260
+And you know, are there even any PayPal alternatives?
+
+27
+00:01:21,260 --> 00:01:24,160
+Well, if there are, they probably won't dethrone PayPal.
+
+28
+00:01:24,160 --> 00:01:27,820
+These alternative sites don't add anything new to the user experience.
+
+29
+00:01:27,820 --> 00:01:30,920
+They're literally the same service with less people on it.
+
+30
+00:01:30,920 --> 00:01:34,180
+And when it comes to ease of use, really, nothing beats PayPal.
+
+31
+00:01:34,180 --> 00:01:36,600
+Those two qualities form a feedback loop.
+
+32
+00:01:36,600 --> 00:01:38,680
+Ease of use leads to more people using PayPal.
+
+33
+00:01:38,680 --> 00:01:41,120
+More people using PayPal contributes to ease of use.
+
+34
+00:01:41,120 --> 00:01:45,040
+Of course, monopolies tend to become corrupted over time, without any competition pressure
+
+35
+00:01:45,040 --> 00:01:46,260
+to keep them on their toes.
+
+36
+00:01:46,260 --> 00:01:47,460
+And PayPal is no different.
+
+37
+00:01:47,460 --> 00:01:51,680
+PayPal has a history of playing fast and loose with liberal ideas, like freedom of expression
+
+38
+00:01:51,680 --> 00:01:52,680
+or privacy rights.
+
+39
+00:01:52,720 --> 00:01:56,760
+Now, I want to make it clear that, as a private entity, PayPal has their own freedom of expression
+
+40
+00:01:56,760 --> 00:01:58,000
+and privacy rights.
+
+41
+00:01:58,000 --> 00:02:01,500
+And forcing them to platform your speech that they don't agree with is a violation of
+
+42
+00:02:01,500 --> 00:02:02,680
+their rights, too.
+
+43
+00:02:02,680 --> 00:02:05,980
+We can critique PayPal for deplatforming people on political grounds.
+
+44
+00:02:05,980 --> 00:02:08,180
+We can even stop using their service for it.
+
+45
+00:02:08,180 --> 00:02:10,200
+But they are within their rights to do it.
+
+46
+00:02:10,200 --> 00:02:12,120
+Nonetheless, let's see what they've done.
+
+47
+00:02:12,120 --> 00:02:16,920
+PayPal's first real controversy of this nature was back in 2011, when PayPal, Amazon,
+
+48
+00:02:16,920 --> 00:02:21,880
+Visa and Mastercard all, at the same time, dropped WikiLeaks in response to their December
+
+49
+00:02:21,880 --> 00:02:23,680
+2010 diplomatic cables dump.
+
+50
+00:02:23,680 --> 00:02:29,480
+PayPal was actually DDoSed by Anonymous at the time, and 13 of the infamous PayPal14
+
+51
+00:02:29,480 --> 00:02:33,640
+Anonymous members ended up pleading guilty to charges of damaging a protected computer
+
+52
+00:02:33,640 --> 00:02:37,280
+and felony conspiracy in a California court on December of 2013.
+
+53
+00:02:37,280 --> 00:02:41,840
+In 2018, PayPal cancelled accounts associated with Gavin McInnis, the Proud Boys movement,
+
+54
+00:02:41,840 --> 00:02:45,860
+and several Antifa groups, showing that they were going after radicals on both sides and
+
+55
+00:02:45,860 --> 00:02:47,720
+not simply being partisans.
+
+56
+00:02:47,720 --> 00:02:50,200
+A PayPal statement on the bannings said,
+
+57
+00:02:50,200 --> 00:02:54,180
+Striking the necessary balance between upholding free expression and open dialogue and protecting
+
+58
+00:02:54,180 --> 00:02:58,800
+principles of tolerance, diversity, and respect for all people is a challenge that many companies
+
+59
+00:02:58,800 --> 00:03:00,000
+are grappling with today.
+
+60
+00:03:00,000 --> 00:03:04,040
+We work hard to achieve the right balance and to ensure our decisions are values-driven
+
+61
+00:03:04,040 --> 00:03:05,300
+and not political.
+
+62
+00:03:05,300 --> 00:03:07,800
+We carefully review accounts and take action as appropriate.
+
+63
+00:03:07,800 --> 00:03:11,960
+We do not allow PayPal services to be used to promote hate, violence, or other forms
+
+64
+00:03:11,960 --> 00:03:13,840
+of intolerance that are discriminatory.
+
+65
+00:03:13,840 --> 00:03:16,200
+In 2019, though, things were shifting.
+
+66
+00:03:16,200 --> 00:03:21,320
+PayPal banned Infowars and Gab, who, unlike the Proud Boys, aren't the inverted, right-wing
+
+67
+00:03:21,320 --> 00:03:23,120
+street thug equivalent of Antifa.
+
+68
+00:03:23,120 --> 00:03:27,040
+Alex Jones and Andrew Torba are inflammatory, but not violent.
+
+69
+00:03:27,040 --> 00:03:31,080
+PayPal claimed that Infowars promoted hatred and intolerance, while Gab was banned because
+
+70
+00:03:31,080 --> 00:03:34,800
+the Pittsburgh synagogue shooter had made anti-Semitic posts on the service.
+
+71
+00:03:34,800 --> 00:03:38,840
+That sounds suspicious to me, because the Christchurch shooting was streamed on Facebook,
+
+72
+00:03:38,840 --> 00:03:41,280
+and yet that platform still has access to PayPal.
+
+73
+00:03:41,280 --> 00:03:45,280
+Reddit, Twitter, all of mainstream tech has, at some point, hosted a video of a shooting
+
+74
+00:03:45,280 --> 00:03:50,260
+or a manifesto or hateful messages, and yet PayPal still serves them, making the Gab claim
+
+75
+00:03:50,260 --> 00:03:51,560
+ring hollow.
+
+76
+00:03:51,560 --> 00:03:53,520
+After that, it seemed like the floodgates had opened.
+
+77
+00:03:53,520 --> 00:03:57,240
+Laura Loomer, Tommy Robinson, and Roosh V all got axed from PayPal.
+
+78
+00:03:57,240 --> 00:03:59,320
+All three of them are inflammatory, but not violent.
+
+79
+00:03:59,320 --> 00:04:03,320
+Robert Spencer, Pamela Geller, and The Daily Septic were all banned, but thankfully won
+
+80
+00:04:03,320 --> 00:04:04,440
+on appeal.
+
+81
+00:04:04,440 --> 00:04:07,720
+SubscribeStar and Bitchute were both removed from the service, with Bitchute supporters
+
+82
+00:04:07,720 --> 00:04:12,520
+receiving an email from PayPal implying that Bitchute had cancelled their use of the service,
+
+83
+00:04:12,520 --> 00:04:14,600
+when it was, in fact, a PayPal ban.
+
+84
+00:04:14,600 --> 00:04:18,960
+Many other smaller groups and individuals have been unceremoniously thrown off the service,
+
+85
+00:04:18,960 --> 00:04:20,800
+to no fanfare, because nobody knows about it.
+
+86
+00:04:20,800 --> 00:04:25,560
+It even got to the point where PayPal banned porn from their service in 2020, with multiple
+
+87
+00:04:25,560 --> 00:04:30,380
+small artists and creators losing their accounts and sometimes even their account balances.
+
+88
+00:04:30,380 --> 00:04:34,680
+Even PornHub stopped taking PayPal too, now only accepting payment in crypto.
+
+89
+00:04:34,680 --> 00:04:37,720
+In fact, that whole losing their account balances thing?
+
+90
+00:04:37,720 --> 00:04:39,680
+That was the subject of a recent controversy.
+
+91
+00:04:39,680 --> 00:04:44,180
+PayPal's new acceptable use policy went viral last November, where it was noticed
+
+92
+00:04:44,180 --> 00:04:49,240
+by people that they claimed the right to withdraw $2,500 from your account if you violate the
+
+93
+00:04:49,240 --> 00:04:50,560
+acceptable use policy.
+
+94
+00:04:50,560 --> 00:04:54,040
+Here's what wasn't talked about regarding that story, though.
+
+95
+00:04:54,040 --> 00:04:58,320
+This policy has actually been in place for a while, long before it went viral.
+
+96
+00:04:58,320 --> 00:05:00,960
+Here is the text of the PayPal acceptable use policy.
+
+97
+00:05:00,960 --> 00:05:04,180
+You may not use the PayPal service for activities that 1.
+
+98
+00:05:04,180 --> 00:05:07,020
+Violate any law, statute, ordinance, or regulation.
+
+99
+00:05:07,020 --> 00:05:10,800
+This is already troubling to me, because other jurisdictions have wacky laws that I shouldn't
+
+100
+00:05:10,800 --> 00:05:11,800
+be subject to.
+
+101
+00:05:11,800 --> 00:05:12,800
+I don't live there.
+
+102
+00:05:12,800 --> 00:05:13,800
+2.
+
+103
+00:05:13,800 --> 00:05:17,600
+Relating to transactions involving narcotics, steroids, drugs, cigarettes, promoting illegal
+
+104
+00:05:17,600 --> 00:05:19,100
+activity, stolen goods.
+
+105
+00:05:19,100 --> 00:05:23,360
+This is all pretty normal stuff until we get to items that are considered obscene and certain
+
+106
+00:05:23,360 --> 00:05:27,360
+sexually-oriented materials and services, which are both way too vague, but basically
+
+107
+00:05:27,360 --> 00:05:29,280
+this is PayPal covering its ass.
+
+108
+00:05:29,280 --> 00:05:30,280
+3.
+
+109
+00:05:30,600 --> 00:05:34,400
+Relating to transactions that show the personal information of third parties, aka doxing,
+
+110
+00:05:34,400 --> 00:05:37,880
+supporting pyramid schemes or Ponzi schemes, association with offshore banking, for the
+
+111
+00:05:37,880 --> 00:05:41,000
+sale of items that you don't own but expect to own in the future.
+
+112
+00:05:41,000 --> 00:05:42,000
+Insurance stuff.
+
+113
+00:05:42,000 --> 00:05:44,320
+This is all just, you can't do shady stuff on PayPal.
+
+114
+00:05:44,320 --> 00:05:45,560
+Okay, got it.
+
+115
+00:05:45,560 --> 00:05:46,560
+4.
+
+116
+00:05:46,560 --> 00:05:49,660
+Involving the sale of products or services identified by government agencies to have
+
+117
+00:05:49,660 --> 00:05:51,600
+a high likelihood of being fraudulent.
+
+118
+00:05:51,600 --> 00:05:52,600
+5.
+
+119
+00:05:52,600 --> 00:05:56,200
+Relating to transactions involving any activity that requires pre-approval without having
+
+120
+00:05:56,200 --> 00:05:57,840
+obtained the approval.
+
+121
+00:05:57,840 --> 00:06:02,120
+If you violate any of these rules, you're subject to PayPal's restricted activities
+
+122
+00:06:02,120 --> 00:06:05,860
+penalties where they say that they can kick you off PayPal, they can keep you banned off
+
+123
+00:06:05,860 --> 00:06:09,680
+PayPal indefinitely, they can restrict your access to their websites and networks, they
+
+124
+00:06:09,680 --> 00:06:14,280
+can hold your PayPal balance for 180 days while they determine if your account has any
+
+125
+00:06:14,280 --> 00:06:17,680
+debts that need to be paid, they can contact people you have bought and sold from, they
+
+126
+00:06:17,680 --> 00:06:22,160
+can take legal action against you if applicable, and important to this conversation, they can
+
+127
+00:06:22,160 --> 00:06:24,240
+withdraw damages from your account.
+
+128
+00:06:24,240 --> 00:06:29,440
+The policy says, if your violation is associated with fraud or the sale of goods that are counterfeit,
+
+129
+00:06:29,440 --> 00:06:31,480
+then you're on the hook for PayPal's damages.
+
+130
+00:06:31,480 --> 00:06:36,320
+You agree, by using the PayPal service, that considering PayPal needs to pay for internal
+
+131
+00:06:36,320 --> 00:06:40,680
+administrative costs to monitor and track violations, pay for damages to the brand and
+
+132
+00:06:40,680 --> 00:06:45,520
+reputation of PayPal, and pay costs imposed upon it by PayPal's business partners as
+
+133
+00:06:45,520 --> 00:06:49,480
+a result of your fraud, that you need to pay for all of these costs.
+
+134
+00:06:49,480 --> 00:06:54,040
+And that 2,500 US dollars, it's also 2,500 Canadian dollars, which is odd considering
+
+135
+00:06:54,040 --> 00:06:55,040
+the exchange rate.
+
+136
+00:06:55,040 --> 00:06:56,840
+I guess if you're going to break the law, do it in Canada.
+
+137
+00:06:56,840 --> 00:07:02,560
+But the idea is that 2,500 US dollars is the average cost of all of these impositions.
+
+138
+00:07:02,560 --> 00:07:07,840
+Your penalty may be less or more than 2,500 depending on the severity of the violation,
+
+139
+00:07:07,840 --> 00:07:10,680
+and that PayPal can directly withdraw the penalty from your account.
+
+140
+00:07:10,680 --> 00:07:11,860
+None of this is new.
+
+141
+00:07:11,860 --> 00:07:16,140
+What is new, and what made this whole thing go viral in the first place, was when, on
+
+142
+00:07:16,140 --> 00:07:22,420
+November 3rd, 2022, back on that five-point list, they moved 0.5 to 0.6 and inserted a
+
+143
+00:07:22,420 --> 00:07:27,740
+new 0.5, which read, involving the sending, posting, or publication of any messages, content,
+
+144
+00:07:27,740 --> 00:07:34,340
+or materials, that, in PayPal's sole discretion, A, are harmful, obscene, harassing, or objectionable,
+
+145
+00:07:34,340 --> 00:07:39,360
+B, depict or appear to depict nudity, sexual, or other intimate activities, C, depict or
+
+146
+00:07:39,360 --> 00:07:44,660
+promote illegal drug use, D, depict or promote violence, criminal activity, cruelty, or self-harm,
+
+147
+00:07:44,660 --> 00:07:50,500
+E, depict, promote, or incite hatred or discrimination of protected groups or of individuals or groups
+
+148
+00:07:50,500 --> 00:07:55,180
+based on protected characteristics, example, race, religion, gender or gender identity,
+
+149
+00:07:55,180 --> 00:08:01,140
+sexual orientation, etc., F, present a risk to user safety or well-being, G, are fraudulent,
+
+150
+00:08:01,140 --> 00:08:05,740
+promote misinformation, or are unlawful, H, infringe the privacy, intellectual property
+
+151
+00:08:05,740 --> 00:08:11,060
+rights, or other proprietary rights of any party, or I, are otherwise unfit for publication.
+
+152
+00:08:11,060 --> 00:08:15,780
+This new policy is significantly more vague and restricting than even the vaguest parts
+
+153
+00:08:15,780 --> 00:08:18,620
+of the old policy, and this is what made everyone freak out.
+
+154
+00:08:18,620 --> 00:08:23,140
+PayPal was going to charge you $2,500 for misinformation, and they were the ones who
+
+155
+00:08:23,140 --> 00:08:25,180
+got to decide what misinformation was.
+
+156
+00:08:25,180 --> 00:08:28,340
+That's not the only objectionable thing, though, considering how puritanical that whole
+
+157
+00:08:28,340 --> 00:08:32,240
+section was, but it's the misinformation part that went viral.
+
+158
+00:08:32,240 --> 00:08:35,940
+After the backlash, PayPal pulled the new policy and reverted to what they had in place
+
+159
+00:08:35,940 --> 00:08:36,940
+before.
+
+160
+00:08:36,940 --> 00:08:40,940
+In fact, there's even reports that PayPal was offering people $15 to not close their
+
+161
+00:08:40,940 --> 00:08:45,020
+accounts after people began to leave PayPal, which is, not going to lie, pretty funny.
+
+162
+00:08:45,020 --> 00:08:46,400
+Here's the issue, though.
+
+163
+00:08:46,400 --> 00:08:50,340
+After the story died down and the news cycle moved on, right-leaning accounts on Twitter
+
+164
+00:08:50,340 --> 00:08:55,980
+began to claim that PayPal had quietly snuck back in the $2,500 penalty now that the outrage
+
+165
+00:08:55,980 --> 00:08:59,980
+had passed, and people began to react with, I knew it, they were always going to do this,
+
+166
+00:08:59,980 --> 00:09:01,960
+they were just going to wait until we weren't looking anymore.
+
+167
+00:09:01,960 --> 00:09:03,940
+But that's actually not the case.
+
+168
+00:09:03,940 --> 00:09:08,060
+If you go to PayPal's acceptable use policy right now, you'll notice that the new Section
+
+169
+00:09:08,060 --> 00:09:10,240
+5 is, in fact, not there.
+
+170
+00:09:10,240 --> 00:09:14,800
+The page is exactly as it was pre-November 3, with no section on misinformation.
+
+171
+00:09:14,800 --> 00:09:19,240
+And the page showing the punishments for violating this acceptable use policy is also exactly
+
+172
+00:09:19,240 --> 00:09:24,980
+as it was pre-November 3, with the possibility of a $2,500 fine still there, as it had been
+
+173
+00:09:24,980 --> 00:09:26,180
+for years.
+
+174
+00:09:26,180 --> 00:09:30,980
+It turns out, PayPal retaining the right to reach into your account and take $2,500 if
+
+175
+00:09:30,980 --> 00:09:35,200
+you violate the acceptable use policy has been there since 2015.
+
+176
+00:09:35,200 --> 00:09:40,240
+PayPal did not sneak the $2,500 clause back in after people stopped paying attention.
+
+177
+00:09:40,240 --> 00:09:44,540
+It's been there all along, they just didn't implement the new, more restrictive Section
+
+178
+00:09:44,540 --> 00:09:45,540
+5 rules.
+
+179
+00:09:45,540 --> 00:09:49,080
+And those rules are still gone, even though people have stopped paying attention.
+
+180
+00:09:49,080 --> 00:09:55,140
+Meaning, no, you're not going to get charged $2,500 for misinformation, where misinformation
+
+181
+00:09:55,140 --> 00:09:57,820
+is defined by PayPal at their sole discretion.
+
+182
+00:09:57,820 --> 00:10:00,320
+The question remains though, why is all of this happening?
+
+183
+00:10:00,320 --> 00:10:03,520
+What the hell has changed since the Elon Musk days of PayPal?
+
+184
+00:10:03,520 --> 00:10:07,340
+The current CEO of PayPal, Dan Shulman, gave an interview with the Wall Street Journal
+
+185
+00:10:07,340 --> 00:10:11,240
+in 2019, talking about why some people get banned and others don't.
+
+186
+00:10:11,240 --> 00:10:15,280
+He cited Charlottesville as a defining moment for him, where he knew that PayPal had to
+
+187
+00:10:15,280 --> 00:10:16,280
+change.
+
+188
+00:10:16,280 --> 00:10:20,560
+He said, the line between free speech and hate isn't taught in college, and it's
+
+189
+00:10:20,560 --> 00:10:24,760
+not defined in the law, and he believes that businesses need to be a force for good in
+
+190
+00:10:24,760 --> 00:10:26,320
+the values they believe in.
+
+191
+00:10:26,320 --> 00:10:31,520
+As for what values are the most core to PayPal, Shulman said diversity and inclusion, of course,
+
+192
+00:10:31,520 --> 00:10:36,000
+and that he chose to make a visible stand and cancel expansion plans in North Carolina
+
+193
+00:10:36,000 --> 00:10:41,040
+after that state passed a bill making it mandatory for people to use the bathroom of their biological
+
+194
+00:10:41,040 --> 00:10:42,040
+sex.
+
+195
+00:10:42,040 --> 00:10:45,920
+He also made it clear that the Southern Poverty Law Center helps inform PayPal's decisions
+
+196
+00:10:45,920 --> 00:10:51,000
+on these matters, and in 2021, further partnered with the Anti-Defamation League to help identify
+
+197
+00:10:51,000 --> 00:10:53,760
+extremist content flowing through PayPal.
+
+198
+00:10:53,760 --> 00:10:58,320
+It seems to be the attitude of Dan Shulman specifically that's driving a lot of this
+
+199
+00:10:58,320 --> 00:10:59,320
+stuff.
+
+200
+00:10:59,320 --> 00:11:03,160
+When PayPal split off from eBay and became its own company in 2015, Shulman was brought
+
+201
+00:11:03,160 --> 00:11:04,400
+on to take the reins.
+
+202
+00:11:04,400 --> 00:11:09,480
+PayPal's initial goal was to facilitate easy payments online in the face of a then-new
+
+203
+00:11:09,480 --> 00:11:10,480
+internet marketplace.
+
+204
+00:11:10,480 --> 00:11:11,480
+That's it.
+
+205
+00:11:11,480 --> 00:11:16,760
+But Shulman, after taking power, said publicly, that ship has sailed, that era of PayPal is
+
+206
+00:11:16,760 --> 00:11:17,760
+over.
+
+207
+00:11:17,760 --> 00:11:20,960
+I think stepping into the role when I did was certainly a historic moment for PayPal.
+
+208
+00:11:20,960 --> 00:11:24,260
+I thought when we became an independent company, it would give us a chance to reimagine the
+
+209
+00:11:24,260 --> 00:11:25,640
+company moving forward.
+
+210
+00:11:25,640 --> 00:11:29,340
+The new mission of PayPal became democratizing access to money.
+
+211
+00:11:29,340 --> 00:11:33,040
+On the face of it, that just sounds like more people having access to online finance.
+
+212
+00:11:33,040 --> 00:11:38,080
+But the word democratizing is used specifically here, to appeal to a majority rule.
+
+213
+00:11:38,080 --> 00:11:42,120
+A fully democratized money system means that other people get to vote on how you spend
+
+214
+00:11:42,120 --> 00:11:45,120
+your money, because a democratized system is not a private one.
+
+215
+00:11:45,120 --> 00:11:49,900
+Shulman refers to all of this as financial inclusion, a topic I went over extensively
+
+216
+00:11:49,900 --> 00:11:52,480
+in my video a few years back on MasterCard.
+
+217
+00:11:52,820 --> 00:11:54,800
+It's all about getting more people into the system.
+
+218
+00:11:54,800 --> 00:11:57,360
+And fair enough, because that added accessibility is pretty good.
+
+219
+00:11:57,360 --> 00:12:01,660
+But the trade-off is that unlike with cash, your money is now controlled by the service
+
+220
+00:12:01,660 --> 00:12:06,440
+that you're using, and PayPal isn't shy about wielding that power in a partisan way.
+
+221
+00:12:06,440 --> 00:12:10,480
+Like I said before, PayPal is a private entity, and Shulman is a private individual.
+
+222
+00:12:10,480 --> 00:12:14,520
+They have the right to be partisan leftoids and partner with partisan leftoid activist
+
+223
+00:12:14,520 --> 00:12:15,840
+groups if they want.
+
+224
+00:12:15,840 --> 00:12:20,720
+But because PayPal holds an effective monopoly right now, there is a very strong moral argument
+
+225
+00:12:20,720 --> 00:12:25,600
+that either PayPal needs to be made to serve everyone equally regardless of political slant,
+
+226
+00:12:25,600 --> 00:12:29,720
+accepting of course for money that's actually directly being used to fund violent action,
+
+227
+00:12:29,720 --> 00:12:33,840
+and then let the political chips fall where they may, or there needs to be an actual market
+
+228
+00:12:33,840 --> 00:12:35,320
+competitor to PayPal.
+
+229
+00:12:35,320 --> 00:12:40,500
+And considering how, back when Sargon was banned from Patreon and moved over to Subscribestar,
+
+230
+00:12:40,500 --> 00:12:45,160
+everyone pulled out a Subscribestar in response including PayPal, they clearly have no intention
+
+231
+00:12:45,160 --> 00:12:47,800
+of letting an actual competitor organically grow.
+
+232
+00:12:47,800 --> 00:12:52,060
+This is one of those times where government regulation of PayPal is required to maintain
+
+233
+00:12:52,060 --> 00:12:56,400
+a level playing field, because PayPal seems to be too partisan right now to serve people
+
+234
+00:12:56,400 --> 00:12:57,800
+equally of its own volition.
+

@@ -1,0 +1,960 @@
+1
+00:00:00,000 --> 00:00:15,140
+Oh man, what a ride the past few weeks have been.
+
+2
+00:00:15,140 --> 00:00:19,080
+I was sick, then I was away on a trip, then when I came back I pumped out that previous
+
+3
+00:00:19,080 --> 00:00:23,320
+Indefensible video, which was on Google Stadia, and then fall allergies hit me like a truck.
+
+4
+00:00:23,320 --> 00:00:24,680
+I never had allergies growing up.
+
+5
+00:00:24,680 --> 00:00:25,680
+No spring, no fall, no nothing.
+
+6
+00:00:25,680 --> 00:00:28,880
+But now that I'm a little bit older, I go outside in the fall and it feels like my head
+
+7
+00:00:28,880 --> 00:00:33,280
+inflates and I float away, so I missed a giant chunk of the last couple of news cycles.
+
+8
+00:00:33,280 --> 00:00:37,520
+And of all the ridiculous stuff that's happened recently, the one that sings to my heart is
+
+9
+00:00:37,520 --> 00:00:38,920
+the closing of G4.
+
+10
+00:00:38,920 --> 00:00:40,560
+I've spoken about this twice already.
+
+11
+00:00:40,560 --> 00:00:43,700
+I did a tubcast with Lilith, where we went over the history of G4.
+
+12
+00:00:43,700 --> 00:00:48,060
+Very briefly, G4 was an American TV network focusing on video games, launching back in
+
+13
+00:00:48,060 --> 00:00:49,060
+2002.
+
+14
+00:00:49,060 --> 00:00:54,040
+Being of that era, it was full of edgy humor, sex jokes, boobs, violence, puns, all the
+
+15
+00:00:54,040 --> 00:00:56,380
+stuff that made the 90s and 2000s great.
+
+16
+00:00:56,380 --> 00:01:00,020
+I have some memory of watching it when I was younger, though its reach in Canada was
+
+17
+00:01:00,020 --> 00:01:01,020
+limited.
+
+18
+00:01:01,020 --> 00:01:04,140
+G4 was eventually outclassed by the rise of the internet, like the rest of cable TV.
+
+19
+00:01:04,140 --> 00:01:07,840
+For gamers, it became more convenient to watch a trusted YouTuber, who at the time you could
+
+20
+00:01:07,840 --> 00:01:11,580
+assume was not bought off because those types of sponsorships didn't exist back in like
+
+21
+00:01:11,580 --> 00:01:16,340
+2008, than it was to turn on the TV and hope you caught the right segment airing on G4,
+
+22
+00:01:16,340 --> 00:01:18,540
+which might have just been paid for by advertisers anyway.
+
+23
+00:01:18,540 --> 00:01:22,740
+G4 remained nostalgic for a lot of gamers in my age group, the same way that Nintendo
+
+24
+00:01:22,740 --> 00:01:23,740
+Power is.
+
+25
+00:01:24,740 --> 00:01:27,740
+whose extinction was inevitable with the advancement of technology.
+
+26
+00:01:27,740 --> 00:01:32,780
+My other video on this topic though, was about Frost Curran's now legendary rant on the newly
+
+27
+00:01:32,780 --> 00:01:35,780
+revived G4 YouTube channel.
+
+28
+00:01:35,780 --> 00:01:37,460
+Sexism in gaming.
+
+29
+00:01:37,460 --> 00:01:42,820
+Every time G4 is brought up in various channels, even in this YouTube channel, we have the
+
+30
+00:01:42,820 --> 00:01:48,160
+chat in front of us, I can see you, without a doubt there will be backlash because I'm
+
+31
+00:01:48,160 --> 00:01:50,660
+not as bangable as the previous host.
+
+32
+00:01:50,660 --> 00:01:56,260
+Women do not exist to be nice on the eyes for you, Morgan Webb, Olivia Munn did not
+
+33
+00:01:56,260 --> 00:02:00,260
+exist to be nice on the eyes for you.
+
+34
+00:02:00,260 --> 00:02:04,600
+When you're in our DMs, or on those YouTube comments, or in Twitch chat right now, those
+
+35
+00:02:04,600 --> 00:02:08,840
+reactionary threads thinking that I'm somehow ruining your current X-Play experience because
+
+36
+00:02:08,840 --> 00:02:13,940
+you can't objectify me, how you previously did to Morgan, or that I'm somehow less qualified
+
+37
+00:02:13,940 --> 00:02:18,220
+to speak on something, but you can't quite put your finger on why, even though I'm reading
+
+38
+00:02:18,220 --> 00:02:22,900
+the exact same script as Adam, but you have no problem with his part of it, you're letting
+
+39
+00:02:22,900 --> 00:02:26,900
+your unconscious biases ruin my day and you're gatekeeping the gaming space.
+
+40
+00:02:26,900 --> 00:02:32,180
+So maybe, for 2022, we'd be a bit nicer, a bit more self-reflective, and we enjoy the
+
+41
+00:02:32,180 --> 00:02:36,020
+fact that people are working hard to make free content for you.
+
+42
+00:02:36,020 --> 00:02:38,300
+If you don't like it, don't watch it.
+
+43
+00:02:38,300 --> 00:02:39,300
+Peace!
+
+44
+00:02:39,300 --> 00:02:48,740
+I hope you can tell that I meant legendarily bad.
+
+45
+00:02:48,740 --> 00:02:53,340
+That video, titled The Ethics of Ereverence, was about how mine and Frost's generation,
+
+46
+00:02:53,340 --> 00:02:56,040
+the millennials, grew up in a culture of irreverence.
+
+47
+00:02:56,040 --> 00:03:00,200
+We viewed the man, the power, the structures of society as a corrupt, oppressive force,
+
+48
+00:03:00,200 --> 00:03:03,480
+and our entire subculture was all about raging against that machine.
+
+49
+00:03:03,480 --> 00:03:06,940
+There were no gods, no masters, and certainly no sacred cows.
+
+50
+00:03:06,940 --> 00:03:10,220
+Nothing could be made fun of, everybody had their turn in the hot seat, and the individual
+
+51
+00:03:10,220 --> 00:03:14,240
+was placed front and center in the pushback against the traditionalism and religiosity
+
+52
+00:03:14,240 --> 00:03:17,860
+that we grew up in, a society that seemed ill-fitting to our sensibilities.
+
+53
+00:03:17,860 --> 00:03:22,500
+However, as the millennials got older, and millennial culture became the dominant culture,
+
+54
+00:03:22,500 --> 00:03:24,700
+all of that edgy irreverence went out the window.
+
+55
+00:03:24,700 --> 00:03:28,580
+After all, in their minds, people like Frost are still fighting the man after all this
+
+56
+00:03:28,580 --> 00:03:29,580
+time.
+
+57
+00:03:29,580 --> 00:03:32,620
+They've got the correct politics, and if the next generation, the new young people,
+
+58
+00:03:32,620 --> 00:03:37,060
+are being just as edgy and irreverent towards those with the correct politics like them,
+
+59
+00:03:37,060 --> 00:03:41,460
+then they've gotta be racist, sexist, fascist, reactionary, gamergate chuds.
+
+60
+00:03:41,460 --> 00:03:46,380
+Every woke millennial snowflake is a 2000s era edgelord in repentance, who can't accept
+
+61
+00:03:46,380 --> 00:03:50,760
+that, just as they went through a pretty normal coming of age experience of testing the boundaries
+
+62
+00:03:50,760 --> 00:03:54,620
+of their culture, that the next generation is now doing the same thing by taking the
+
+63
+00:03:54,620 --> 00:03:55,860
+millennials down a peg.
+
+64
+00:03:55,860 --> 00:03:59,800
+No, it has to be that these kids today are evil, and now you know why your parents seemed
+
+65
+00:03:59,800 --> 00:04:01,500
+so out of touch when you were a kid.
+
+66
+00:04:01,500 --> 00:04:05,540
+What made this story all the more interesting is that, most of the time, a millennial realizing
+
+67
+00:04:05,540 --> 00:04:09,500
+that they're turning into the very thing they once hated doesn't result in the total destruction
+
+68
+00:04:09,500 --> 00:04:12,040
+of a network and the loss of dozens of jobs.
+
+69
+00:04:12,040 --> 00:04:14,580
+But Frost Curran is just that special of an individual.
+
+70
+00:04:14,580 --> 00:04:17,620
+Frost got her start as a semi-pro League of Legends player.
+
+71
+00:04:17,620 --> 00:04:21,300
+Instead of going full pro, she transitioned into coaching and later color commentating
+
+72
+00:04:21,300 --> 00:04:22,900
+for league esports matches.
+
+73
+00:04:22,900 --> 00:04:26,220
+She often claims to be the first woman who ever casted a pro league game, but there's
+
+74
+00:04:26,220 --> 00:04:28,120
+been several Chinese women who've done it before her.
+
+75
+00:04:28,120 --> 00:04:29,580
+She is the first to do it in English, though.
+
+76
+00:04:29,580 --> 00:04:33,940
+In 2021, she left the casting scene entirely to join up with the revived G4, and she went
+
+77
+00:04:33,940 --> 00:04:36,680
+on her infamous rant in January of 2022.
+
+78
+00:04:36,680 --> 00:04:43,540
+Most people who watched it were simply outraged, and did exactly what Frost asked them to do.
+
+79
+00:04:43,540 --> 00:04:46,700
+It felt like a second gamer game, where the school bullies from your childhood who never
+
+80
+00:04:46,700 --> 00:04:49,700
+really liked games, and who teased you for being a gamer, that you thought you'd left
+
+81
+00:04:49,700 --> 00:04:53,520
+safely behind after graduation, were suddenly in positions of some authority and influence
+
+82
+00:04:53,520 --> 00:04:54,520
+in your favorite hobby.
+
+83
+00:04:54,520 --> 00:04:58,140
+That's not exactly accurate with Frost, the same way that it was with someone like
+
+84
+00:04:58,140 --> 00:05:00,940
+Zoe Quinn, because Frost actually is a gamer.
+
+85
+00:05:00,940 --> 00:05:03,040
+She actually knows what gamer culture is.
+
+86
+00:05:03,040 --> 00:05:06,040
+But that made her comments even more egregious.
+
+87
+00:05:06,040 --> 00:05:09,960
+Despite what Frost said, the reason Olivia Munn and Morgan Webb went around flaunting
+
+88
+00:05:09,960 --> 00:05:14,800
+their bodies in the old G4 is because they were hired to be eye candy, at least partially.
+
+89
+00:05:14,800 --> 00:05:18,660
+Despite what Frost said, she herself had no problem objectifying people who appeared on
+
+90
+00:05:18,660 --> 00:05:19,840
+stage with her.
+
+91
+00:05:19,840 --> 00:05:24,500
+Despite what Frost said, the rest of the modern G4 was also totally cool with showing off
+
+92
+00:05:24,500 --> 00:05:26,980
+titty streamers and insulting women's sexuality.
+
+93
+00:05:26,980 --> 00:05:30,440
+And despite what Frost said, she doesn't actually care about sexism in gaming.
+
+94
+00:05:30,440 --> 00:05:34,440
+Because if she did, she would be talking about developers who behave like Harvey Weinstein
+
+95
+00:05:34,440 --> 00:05:37,440
+rather than the kids on voice chat telling her to get back in the kitchen.
+
+96
+00:05:37,440 --> 00:05:41,860
+Nobody with any actual influence is ever going to talk about the real sexism in gaming, let
+
+97
+00:05:41,860 --> 00:05:45,220
+alone anyone part of the mainstream, like a G4 talking head.
+
+98
+00:05:45,220 --> 00:05:47,140
+They know who's holding their leash.
+
+99
+00:05:47,140 --> 00:05:51,740
+In March of 2022, G4 announced they were taking viewer feedback into account, which is probably
+
+100
+00:05:51,740 --> 00:05:55,620
+why we saw such a radical shift from Frost's rant to Amaranth in the ball pit.
+
+101
+00:05:55,620 --> 00:05:59,500
+Their article announcing changes ended with a plea to please keep watching, oh god, we've
+
+102
+00:05:59,500 --> 00:06:01,940
+invested so much money in this, you can't stop watching us.
+
+103
+00:06:01,940 --> 00:06:03,960
+The company was acting weirdly schizo.
+
+104
+00:06:03,960 --> 00:06:07,960
+On the one hand, they were not actually walking back on anything Frost said, but on the other,
+
+105
+00:06:07,960 --> 00:06:10,580
+they were doing exactly the opposite of the rant.
+
+106
+00:06:10,580 --> 00:06:13,920
+It seems like they wanted to have their social justice cake and eat it too, and your average
+
+107
+00:06:13,920 --> 00:06:15,580
+gamer just wasn't having any of it.
+
+108
+00:06:15,580 --> 00:06:18,340
+G4 limped on, hoping to put the whole shit show behind him.
+
+109
+00:06:18,340 --> 00:06:23,260
+But viewers bled away, money dried up, and eventually, in September of 2022, G4 announced
+
+110
+00:06:23,260 --> 00:06:25,580
+the layoffs of 20-30 employees.
+
+111
+00:06:25,580 --> 00:06:28,980
+Keeping the president of G4 up and left for greener pastures, though we don't know if
+
+112
+00:06:28,980 --> 00:06:32,500
+he was leaving a sinking ship or he was given the opportunity to resign after the gross
+
+113
+00:06:32,500 --> 00:06:34,300
+mismanagement of the whole operation.
+
+114
+00:06:34,300 --> 00:06:38,420
+It's at this point that G4 finally deleted the Frost's rant, and all of their tweets
+
+115
+00:06:38,420 --> 00:06:42,100
+supporting the message of, don't watch our stuff gamers, but alas, it would prove to
+
+116
+00:06:42,100 --> 00:06:43,660
+be too little too late.
+
+117
+00:06:43,660 --> 00:06:47,820
+Frost herself, flying in the face of her previously inclusive rhetoric, showed that she truly
+
+118
+00:06:47,820 --> 00:06:51,700
+did not give a shit about anybody other than herself by posting on Twitter a picture that
+
+119
+00:06:51,700 --> 00:06:53,080
+said, I survived.
+
+120
+00:06:53,080 --> 00:06:57,020
+The gall on this bitch, to be the reason G4 was tanking to the point that people lost
+
+121
+00:06:57,020 --> 00:07:00,860
+their jobs and then to go lol I got mine suckas on social media.
+
+122
+00:07:00,860 --> 00:07:06,020
+That was one slap in the face too much, even for her, and she quietly removed G4 host from
+
+123
+00:07:06,020 --> 00:07:07,020
+her Twitter bio.
+
+124
+00:07:07,020 --> 00:07:11,660
+It was later confirmed privately that Frost had indeed been let go, but Frost herself
+
+125
+00:07:11,660 --> 00:07:15,280
+wouldn't announce it until a week later, acting like this is always how it was going to go
+
+126
+00:07:15,280 --> 00:07:16,280
+down.
+
+127
+00:07:16,280 --> 00:07:20,640
+And finally, to nobody's surprise, yesterday, October 16th, this letter dropped from Comcast's
+
+128
+00:07:20,640 --> 00:07:21,640
+CEO.
+
+129
+00:07:21,640 --> 00:07:25,340
+No, G4 was reintroduced last year to tap into the popularity of gaming.
+
+130
+00:07:25,340 --> 00:07:30,280
+We invested to create the new G4 as an online and TV destination for fans to be entertained,
+
+131
+00:07:30,280 --> 00:07:32,380
+be inspired, and connect with gaming content.
+
+132
+00:07:32,380 --> 00:07:36,020
+Over the past several months, we worked hard to generate that interest in G4, but viewership
+
+133
+00:07:36,020 --> 00:07:39,100
+is low, and the network has not achieved sustainable financial results.
+
+134
+00:07:39,100 --> 00:07:42,000
+This is certainly not what we hoped for, and as a result, we've made the very difficult
+
+135
+00:07:42,000 --> 00:07:45,060
+decision to discontinue G4's operations, effective immediately.
+
+136
+00:07:45,060 --> 00:07:47,200
+I know this is disappointing news, and I'm disappointed too.
+
+137
+00:07:47,200 --> 00:07:50,180
+I want to thank you and everybody else on the G4 team for the hard work and commitment
+
+138
+00:07:50,180 --> 00:07:51,180
+to the net.
+
+139
+00:07:51,720 --> 00:07:54,100
+I don't know how much of this was caused by Frost's meltdown.
+
+140
+00:07:54,100 --> 00:07:55,980
+She may actually have been what killed the network.
+
+141
+00:07:55,980 --> 00:08:00,140
+But at the same time, did the channel really have any views before she went on her tirade?
+
+142
+00:08:00,140 --> 00:08:03,640
+On Social Blade, you can see that on the week of their relaunch, they got half a million
+
+143
+00:08:03,640 --> 00:08:04,640
+views.
+
+144
+00:08:04,640 --> 00:08:08,820
+But after the novelty of G4's back wore off, views dropped by about half.
+
+145
+00:08:08,820 --> 00:08:12,540
+That final small peak is where everybody tuned in to see Frost's meltdown, and then it was
+
+146
+00:08:12,540 --> 00:08:14,000
+all flatlined from there.
+
+147
+00:08:14,000 --> 00:08:18,580
+Those two downward spikes of negative views are when G4 deleted the Frost grant and then
+
+148
+00:08:18,580 --> 00:08:20,720
+the stream VOD itself that contained it.
+
+149
+00:08:21,260 --> 00:08:25,000
+So there does seem to be a correlation between Frost's rant and G4's declining views,
+
+150
+00:08:25,000 --> 00:08:27,800
+but my intuition tells me they were already headed in that direction.
+
+151
+00:08:27,800 --> 00:08:31,960
+Frost massively accelerated the process, but I don't think the new G4 was destined for
+
+152
+00:08:31,960 --> 00:08:32,960
+success.
+
+153
+00:08:32,960 --> 00:08:36,480
+Their set looked nice and their broadcast was professional, but all that shit costs
+
+154
+00:08:36,480 --> 00:08:38,800
+money, and I have a feeling they were never making any of it back.
+
+155
+00:08:38,800 --> 00:08:42,080
+That's not to say that highly produced YouTube content can't work nowadays.
+
+156
+00:08:42,080 --> 00:08:43,560
+Old school YouTube had a charm to it.
+
+157
+00:08:43,560 --> 00:08:47,440
+The bedroom feminist stuff, the angry reviewer stuff, it was all single artists, sometimes
+
+158
+00:08:47,440 --> 00:08:49,840
+with friends helping out like our old anime reviews.
+
+159
+00:08:49,840 --> 00:08:52,180
+But it all felt amateur, in a welcoming way.
+
+160
+00:08:52,180 --> 00:08:55,040
+When you see a potato camera with shitty audio, you know you're not getting somebody who
+
+161
+00:08:55,040 --> 00:08:56,100
+was bought off.
+
+162
+00:08:56,100 --> 00:08:59,640
+And maybe with the shift towards highly produced YouTube channels, we've lost something.
+
+163
+00:08:59,640 --> 00:09:03,520
+At the same time, you can also absolutely tell when a highly produced video probably
+
+164
+00:09:03,520 --> 00:09:05,780
+isn't highly produced because of corporate backing.
+
+165
+00:09:05,780 --> 00:09:10,220
+We can use the overtly political channel examples like Crowder or Cedar, sure, but even guys
+
+166
+00:09:10,220 --> 00:09:14,220
+like Redditor Media and Jontron still have that same feel, despite the massive increase
+
+167
+00:09:14,220 --> 00:09:15,220
+in production value.
+
+168
+00:09:15,220 --> 00:09:20,500
+A highly produced G4 style gaming channel is absolutely possible, desirable even, but
+
+169
+00:09:20,500 --> 00:09:25,140
+not with the corrupting influence of Comcast money, and not with buying random E-celebs
+
+170
+00:09:25,140 --> 00:09:26,380
+to be your hosts.
+
+171
+00:09:26,380 --> 00:09:30,340
+Speaking of the E-celebs, apparently Comcast didn't even tell any of these poor fucks
+
+172
+00:09:30,340 --> 00:09:34,580
+what was going on, as Gerard found out he lost his job because the tweet went viral.
+
+173
+00:09:34,580 --> 00:09:38,060
+It's okay buddy, you've got a 1.5 million sub channel to fall back on, you'll be fine.
+
+174
+00:09:38,060 --> 00:09:41,380
+You got that G Fuel sponsorship, the checkmark and pronouns money, Gerard's gonna be okay
+
+175
+00:09:41,380 --> 00:09:42,380
+guys.
+
+176
+00:09:42,380 --> 00:09:44,640
+There's another YouTuber I kind of regret watching back when I was younger.
+
+177
+00:09:45,060 --> 00:09:47,400
+But there you have it, the final pathetic whimper of G4.
+
+178
+00:09:47,400 --> 00:09:50,420
+The progressive skinsuit does not seem to take hold when YouTube's involved.
+
+179
+00:09:50,420 --> 00:09:52,660
+They can subvert movies and comics no problem.
+
+180
+00:09:52,660 --> 00:09:54,280
+Video games they can do but it's a little bit harder.
+
+181
+00:09:54,280 --> 00:09:57,620
+But subverting a YouTuber, I don't know man, people just stop watching.
+
+182
+00:09:57,620 --> 00:10:01,860
+Probably the most ironic bit is Frosk's Twitter comment of, I wish internet communities would
+
+183
+00:10:01,860 --> 00:10:05,760
+recognize that their spaces have been infiltrated, manipulated, and hijacked by nefarious groups
+
+184
+00:10:05,760 --> 00:10:07,360
+via meme propaganda.
+
+185
+00:10:07,360 --> 00:10:11,480
+Just jokes bro, until hatred becomes normalized, then becomes radicalized, then becomes a hate
+
+186
+00:10:11,480 --> 00:10:12,480
+crime.
+
+187
+00:10:12,520 --> 00:10:17,100
+G8 was a great example about how language and a cause were hijacked by bad faith actors
+
+188
+00:10:17,100 --> 00:10:20,320
+who wanted nothing to do with gaming communities until they recognized that they could weaponize
+
+189
+00:10:20,320 --> 00:10:21,900
+the conflict for their own agenda.
+
+190
+00:10:21,900 --> 00:10:23,800
+This is actually a fair criticism.
+
+191
+00:10:23,800 --> 00:10:27,900
+Milo for example was no gamer, he didn't give a shit about us, he simply saw an opportunity
+
+192
+00:10:27,900 --> 00:10:29,580
+to try and grow his career and he took it.
+
+193
+00:10:29,580 --> 00:10:33,320
+But most importantly, right wing grifters don't really do this anymore.
+
+194
+00:10:33,320 --> 00:10:37,900
+Who are the new right wing faces explicitly using gaming and gamers while not giving a
+
+195
+00:10:37,900 --> 00:10:39,180
+shit about the community?
+
+196
+00:10:40,180 --> 00:10:44,040
+But you can point to hundreds of left wing subversors doing the exact same thing and
+
+197
+00:10:44,040 --> 00:10:45,440
+Frosk is just one of many.
+
+198
+00:10:45,440 --> 00:10:47,940
+I can make the exact comment she did.
+
+199
+00:10:47,940 --> 00:10:51,400
+Internet communities need to understand that their spaces have been infiltrated, manipulated,
+
+200
+00:10:51,400 --> 00:10:54,580
+and hijacked by nefarious groups via diversity propaganda.
+
+201
+00:10:54,580 --> 00:10:58,240
+Nobody actually believes the woke stuff until it's good that it's happening, subversion
+
+202
+00:10:58,240 --> 00:11:01,280
+becomes normalized, people become radicalized, until it's a hate crime.
+
+203
+00:11:01,280 --> 00:11:05,880
+And yes, there are actual documented instances of leftist hate crime against rightoids, something
+
+204
+00:11:05,880 --> 00:11:07,320
+that I've also done a video on.
+
+205
+00:11:07,320 --> 00:11:10,620
+It's fine if a video game has a political theme, lots of games do, leftist or rightist
+
+206
+00:11:10,620 --> 00:11:11,620
+or whatever else.
+
+207
+00:11:11,620 --> 00:11:14,860
+If you want to use your art to speak about politics or you want to have a political plot,
+
+208
+00:11:14,860 --> 00:11:15,940
+then go for it.
+
+209
+00:11:15,940 --> 00:11:19,860
+The issue ultimately is, is when only one type of politics is allowed, where the only
+
+210
+00:11:19,860 --> 00:11:24,660
+possible objection to that must be strawmanned and where you're a bigot if you complain.
+
+211
+00:11:24,660 --> 00:11:27,860
+It's the difference between Fallout New Vegas and Life is Strange.
+
+212
+00:11:27,860 --> 00:11:30,740
+Anyway, G4 is dead and thank god for that.
+
+213
+00:11:30,740 --> 00:11:35,720
+I do think the internet needs a G4-like show, but without the Frostkurins of the world subverting
+
+214
+00:11:35,720 --> 00:11:38,260
+it with their politics, or the Comcast with their corporatocracy.
+
+215
+00:11:38,260 --> 00:11:39,700
+Hell, I'll do it.
+
+216
+00:11:39,700 --> 00:11:43,020
+Who wants to drop a couple hundred thousand dollars into my lap, with no promises that
+
+217
+00:11:43,020 --> 00:11:45,220
+I'll do what you want or even be successful?
+
+218
+00:11:45,220 --> 00:11:46,720
+Uh, anyone?
+
+219
+00:11:46,720 --> 00:11:49,700
+I can promise that it'll at least be better than this.
+
+220
+00:11:49,700 --> 00:11:51,020
+What the hell are you saying?
+
+221
+00:11:51,020 --> 00:11:54,020
+I want to live Fiona Nova and Kevin Pereira.
+
+222
+00:11:54,020 --> 00:11:56,020
+Oh, he got my name right.
+
+223
+00:11:56,020 --> 00:11:57,020
+Wow.
+
+224
+00:11:57,020 --> 00:12:00,980
+Oh, I want to live, I choose to rot in the sun rather than freeze in the darkness of
+
+225
+00:12:00,980 --> 00:12:01,980
+the fridge.
+
+226
+00:12:01,980 --> 00:12:07,040
+It's actually a really healthy attitude for a monster sandwich, if you think about it.
+
+227
+00:12:07,040 --> 00:12:11,200
+I'm glad you conquered the existential crisis of birth in under, I mean, two minutes.
+
+228
+00:12:11,200 --> 00:12:12,200
+Oh, thank you.
+
+229
+00:12:12,200 --> 00:12:17,520
+How mutable are our cheeses and how strange is that clinging meat we have of love, even
+
+230
+00:12:17,520 --> 00:12:20,040
+in the excess of what's, oh god, what's happening?
+
+231
+00:12:20,040 --> 00:12:23,040
+Oh god, I can feel everything!
+
+232
+00:12:23,040 --> 00:12:27,040
+Oh, every bite a thousand devils tongue!
+
+233
+00:12:27,040 --> 00:12:29,040
+What an eternity of pain!
+
+234
+00:12:29,100 --> 00:12:32,100
+No, is this what it is to be a sandwich?
+
+235
+00:12:32,100 --> 00:12:33,100
+Oh gosh!
+
+236
+00:12:33,100 --> 00:12:34,100
+Why's he taking me?
+
+237
+00:12:34,100 --> 00:12:38,100
+Oh, he's eating my brain, but not the part I use for speech.
+
+238
+00:12:38,100 --> 00:12:39,100
+Oh, there goes that part!
+
+239
+00:12:39,100 --> 00:12:44,860
+Oh, I'm done getting eat and now brain little, but feel good dying dude, I'll furby sandwich
+
+240
+00:12:44,860 --> 00:12:45,620
+a dead bye.
+

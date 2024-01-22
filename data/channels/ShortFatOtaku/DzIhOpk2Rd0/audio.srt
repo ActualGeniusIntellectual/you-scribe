@@ -1,0 +1,876 @@
+1
+00:00:00,000 --> 00:00:16,320
+So, Dave and I spent a bunch of time with Saints Row, the reboot, on stream yesterday,
+
+2
+00:00:16,320 --> 00:00:20,320
+featuring our blue-skinned, non-binary, genderqueer, Groose replica.
+
+3
+00:00:20,320 --> 00:00:22,100
+Yeah, that's zur right there.
+
+4
+00:00:22,100 --> 00:00:23,100
+And you know what?
+
+5
+00:00:23,100 --> 00:00:24,760
+It's as bad as everyone's making it out to be.
+
+6
+00:00:24,760 --> 00:00:28,220
+If you weren't along for the ride with us, I'll just quickly confirm all of those viral
+
+7
+00:00:28,220 --> 00:00:30,540
+posts about how bad the game is right now.
+
+8
+00:00:30,540 --> 00:00:34,020
+There's this clip from another streamer, where the opening of the game is just the main character
+
+9
+00:00:34,020 --> 00:00:38,320
+cringily swearing up a storm like the game is written by a 40-year-old sex pest who is
+
+10
+00:00:38,320 --> 00:00:41,780
+role-playing as a child who just discovered that they can curse in private and their parents
+
+11
+00:00:41,780 --> 00:00:42,780
+won't hear them
+
+12
+00:00:42,780 --> 00:00:43,780
+Insanity!
+
+13
+00:00:43,780 --> 00:00:46,780
+You didn't get a bonus.
+
+14
+00:00:46,780 --> 00:00:47,780
+And...
+
+15
+00:00:47,780 --> 00:00:48,780
+Excuse me.
+
+16
+00:00:48,780 --> 00:00:49,780
+You would never believe...
+
+17
+00:00:49,780 --> 00:00:50,780
+Oh...
+
+18
+00:00:50,780 --> 00:00:51,780
+Yeah.
+
+19
+00:00:51,780 --> 00:01:03,860
+I'm guessing there might be some music playing right now, if you...
+
+20
+00:01:03,860 --> 00:01:06,060
+I turned off the live music.
+
+21
+00:01:06,060 --> 00:01:09,060
+There might be some music right now.
+
+22
+00:01:09,060 --> 00:01:10,060
+I don't know.
+
+23
+00:01:10,060 --> 00:01:11,060
+Probably is.
+
+24
+00:01:11,060 --> 00:01:13,780
+Yeah, this is actually how the game starts.
+
+25
+00:01:13,780 --> 00:01:17,740
+Though I will say, if you choose the British voice, she says Codswallop, which is kind
+
+26
+00:01:17,740 --> 00:01:18,740
+of funny.
+
+27
+00:01:18,740 --> 00:01:22,180
+There's this clip about how character models just glitch out or T-pose constantly.
+
+28
+00:01:22,180 --> 00:01:24,060
+Yep, this is actually how the game looks.
+
+29
+00:01:24,060 --> 00:01:28,220
+However, I will add the most egregious thing we encountered was that not a single finishing
+
+30
+00:01:28,220 --> 00:01:30,020
+move ever actually worked.
+
+31
+00:01:30,020 --> 00:01:34,060
+The targets would ragdoll or glitch out as our big blueberry just clumsily swiped at
+
+32
+00:01:34,060 --> 00:01:35,060
+the air.
+
+33
+00:01:35,060 --> 00:01:36,060
+No, I go!
+
+34
+00:01:36,060 --> 00:01:37,060
+And you're dead.
+
+35
+00:01:37,060 --> 00:01:38,060
+Oh, yeah.
+
+36
+00:01:38,060 --> 00:01:39,060
+You're dead!
+
+37
+00:01:39,060 --> 00:01:40,060
+And you're dead.
+
+38
+00:01:41,060 --> 00:01:42,060
+And you're dead.
+
+39
+00:01:42,060 --> 00:01:43,060
+And you're dead.
+
+40
+00:01:43,060 --> 00:01:44,060
+And you're dead.
+
+41
+00:01:44,060 --> 00:01:46,740
+We didn't get one finisher to work in that entire stream.
+
+42
+00:01:46,740 --> 00:01:50,660
+There's pictures of placeholder alerts popping in, and not only does this actually happen,
+
+43
+00:01:50,660 --> 00:01:53,980
+sometimes the wrong alert appears, or there's no alert at all for something that really
+
+44
+00:01:53,980 --> 00:01:54,980
+should have one.
+
+45
+00:01:54,980 --> 00:01:59,040
+There's clips like this, where how you can no longer hold up or shoot or rob from the
+
+46
+00:01:59,040 --> 00:02:00,140
+shopkeepers anymore.
+
+47
+00:02:00,140 --> 00:02:04,900
+Yes, the friendly NPCs can no longer be hurt and barely even react to having a gun pulled
+
+48
+00:02:04,900 --> 00:02:05,900
+on them.
+
+49
+00:02:05,940 --> 00:02:10,620
+As far back as Saints Row 1 on the Xbox fucking 360, they had an entire mechanic where you
+
+50
+00:02:10,620 --> 00:02:14,740
+could rob stores and take clerks hostage, getting free money and equipment in exchange
+
+51
+00:02:14,740 --> 00:02:18,300
+for a shit-ton of attention brought down on you, but that's just not an option anymore.
+
+52
+00:02:18,300 --> 00:02:21,920
+And speaking of the older games, after playing the new one for a while, it really looks like
+
+53
+00:02:21,920 --> 00:02:25,860
+they just stole the movement animations from Saints Row 3 and attached them to their new
+
+54
+00:02:25,860 --> 00:02:28,520
+models, sometimes with really janky effects.
+
+55
+00:02:28,520 --> 00:02:32,340
+I understand that in a game like God of War Ragnarok, they're reusing some of the same
+
+56
+00:02:32,340 --> 00:02:35,700
+animations, but that's only a couple of years later in the same engine.
+
+57
+00:02:35,700 --> 00:02:38,820
+The other Saints games are a decade old, what are you lazy fucks doing?
+
+58
+00:02:38,820 --> 00:02:42,960
+There's written reviews out there describing how the actual heist missions don't involve
+
+59
+00:02:42,960 --> 00:02:44,420
+you doing an actual heist.
+
+60
+00:02:44,420 --> 00:02:48,860
+Instead, you complete the setup phase by taking surveillance photos of security cameras and
+
+61
+00:02:48,860 --> 00:02:52,420
+at entrances at the target facility, only to be forced to wait in the car while the
+
+62
+00:02:52,420 --> 00:02:56,820
+rest of your gang straps on ex-presidents masks and goes inside to commit the crime.
+
+63
+00:02:56,820 --> 00:03:01,060
+And yeah, for a lot of the game's action, you actually are relegated to getaway driver
+
+64
+00:03:01,060 --> 00:03:02,380
+and amateur photographer.
+
+65
+00:03:02,380 --> 00:03:06,580
+In fact, unlocking the game's fast travel points are done by going to a specific scenic
+
+66
+00:03:06,580 --> 00:03:09,100
+location on the map and taking a selfie.
+
+67
+00:03:09,100 --> 00:03:12,820
+There's complaints that all of the old Saints Row humor has been neutered, and yes, it's
+
+68
+00:03:12,820 --> 00:03:13,820
+all true.
+
+69
+00:03:13,820 --> 00:03:17,700
+The garage where you tune up your car, rim jobs, has been renamed to Jim Rob's, because
+
+70
+00:03:17,700 --> 00:03:21,460
+the owner is named Jim and he's a capitalist and he charges you way too much money.
+
+71
+00:03:21,460 --> 00:03:25,380
+The restaurant chain, Freckle Bitches, no longer features a pig-tailed ginger in a bathing
+
+72
+00:03:25,380 --> 00:03:29,900
+suit serving you food, but instead has been centered to FBs, with a short-haired woman
+
+73
+00:03:29,900 --> 00:03:31,160
+in a chef's frock.
+
+74
+00:03:31,160 --> 00:03:35,160
+You actually are criminals because you're trying to make rent and pay off your student
+
+75
+00:03:35,160 --> 00:03:39,120
+loans because fuck capitalism and fuck money and we all want to live on the commune.
+
+76
+00:03:39,120 --> 00:03:42,560
+That's not a joke like everyone on Twitter thought it was a few months ago, that's
+
+77
+00:03:42,560 --> 00:03:44,040
+actually in the game.
+
+78
+00:03:44,040 --> 00:03:45,800
+And that is probably the worst part.
+
+79
+00:03:45,800 --> 00:03:50,320
+The glitches are bad and I hate the just-patch-it-later mentality that's infected AAA gaming for
+
+80
+00:03:50,320 --> 00:03:55,440
+the past decade, but what's far worse is that Saints Row is just neutered at this point.
+
+81
+00:03:55,440 --> 00:04:00,100
+The well-worn path of woke Karen millennials hijacking a franchise and subverting it by
+
+82
+00:04:00,100 --> 00:04:04,620
+stripping away all its edgy humor and in its place trying to appeal to Gen Z's awful
+
+83
+00:04:04,620 --> 00:04:09,500
+sense of comedy, with constant self-referential quips and Marvel references and that god-awful
+
+84
+00:04:09,500 --> 00:04:12,640
+segment where your character is depressed and you need to mash buttons to make them
+
+85
+00:04:12,640 --> 00:04:16,380
+get out of bed and shamble over to the freezer to eat a single frozen waffle they can't
+
+86
+00:04:16,380 --> 00:04:17,380
+even toast?
+
+87
+00:04:17,380 --> 00:04:19,000
+Yes, that's actually in the game too.
+
+88
+00:04:19,000 --> 00:04:23,220
+This isn't funny, it's not interesting, it's not entertaining, and it's not fun
+
+89
+00:04:23,220 --> 00:04:24,220
+to play.
+
+90
+00:04:24,220 --> 00:04:25,720
+It's just cringe.
+
+91
+00:04:25,720 --> 00:04:29,940
+To sum it up, the Saints Row reboot is about a game of hipster, law-breaking gangsters
+
+92
+00:04:29,940 --> 00:04:33,540
+who hate capitalism and want to tear down the system because they're in debt due to
+
+93
+00:04:33,540 --> 00:04:37,780
+their own bad life choices, and in order to actually play out this socialist fever dream,
+
+94
+00:04:37,780 --> 00:04:41,300
+your part in it is that you can't actually rob stores or kill store owners, you've
+
+95
+00:04:41,300 --> 00:04:45,020
+got to sit in the car and watch the AI play the game, and when you are the one fighting
+
+96
+00:04:45,020 --> 00:04:46,020
+it's a buggy mess.
+
+97
+00:04:46,020 --> 00:04:48,200
+Yeah, this is pretty on par for 2022.
+
+98
+00:04:48,200 --> 00:04:50,320
+So the question must be asked, why?
+
+99
+00:04:50,320 --> 00:04:54,020
+Why take a beloved franchise and subvert it and burn it to the ground, creating a game
+
+100
+00:04:54,020 --> 00:04:55,660
+that nobody likes and nobody wants?
+
+101
+00:04:55,660 --> 00:04:58,580
+Yeah, yeah, if you've watched my videos recently you know the answer is Gramsci.
+
+102
+00:04:58,580 --> 00:05:00,340
+We don't gotta go down that rabbit hole again.
+
+103
+00:05:00,340 --> 00:05:03,740
+But let's have a more practical conversation this time, less about political theory.
+
+104
+00:05:03,740 --> 00:05:08,100
+If the developers are so scared of their own past identity that they have to neuter everything,
+
+105
+00:05:08,100 --> 00:05:10,540
+even the most tame of sex puns, then why even bother?
+
+106
+00:05:10,540 --> 00:05:14,260
+They've gotta know at this point, with how many times a subverted property is completely
+
+107
+00:05:14,260 --> 00:05:16,700
+self-destructed, they're not going to make much money on this.
+
+108
+00:05:16,700 --> 00:05:18,140
+The writing's on the wall now.
+
+109
+00:05:18,140 --> 00:05:21,820
+Everyone knows that if you release a buggy, unfinished mess, and then try to hand-wave
+
+110
+00:05:21,820 --> 00:05:25,940
+it away with being woke and sassy on Twitter towards your own fans who are complaining
+
+111
+00:05:25,940 --> 00:05:28,460
+about the problems, it's not going to end well for you.
+
+112
+00:05:28,460 --> 00:05:37,580
+Why would you purposefully and publicly set yourself on fire like this?
+
+113
+00:05:37,580 --> 00:05:40,660
+And of course, there are also retards coming out of the woodwork claiming that Saints Row
+
+114
+00:05:40,660 --> 00:05:42,300
+was always woke and anti-capitalist.
+
+115
+00:05:42,300 --> 00:05:47,060
+Motherfucker, the Saints became the CEOs of a mega-corporation that ruled over a dystopian
+
+116
+00:05:47,060 --> 00:05:48,060
+city.
+
+117
+00:05:48,060 --> 00:05:49,060
+Twice.
+
+118
+00:05:49,060 --> 00:05:50,060
+It's the An-Caps' dream.
+
+119
+00:05:50,060 --> 00:05:53,100
+Oh, and then in Saints Row 4, they became the overlords of a galactic empire.
+
+120
+00:05:53,100 --> 00:05:55,220
+But let's not talk about Saints Row 4.
+
+121
+00:05:55,220 --> 00:05:57,740
+Actually wait, it's no longer the worst one in the series anymore.
+
+122
+00:05:57,740 --> 00:06:00,740
+Maybe we've judged it too harshly, not knowing what was coming next.
+
+123
+00:06:00,740 --> 00:06:04,900
+But the Progs always try to either whitewash the past, like with dumb shit articles like
+
+124
+00:06:04,900 --> 00:06:09,740
+Saints Row was always woke and hurr durr durr I'm in danger of choking on my own tongue,
+
+125
+00:06:09,740 --> 00:06:12,460
+or if they can't do that if it's just too much of a stretch, they'll tell you that
+
+126
+00:06:12,460 --> 00:06:14,380
+the old works were bad or problematic.
+
+127
+00:06:14,380 --> 00:06:18,140
+Those old 80s and 90s movies and games you like were bad because they've got titties
+
+128
+00:06:18,140 --> 00:06:20,320
+and sex jokes.
+
+129
+00:06:20,320 --> 00:06:24,780
+The current political climate has outgrown the old Saints Row games.
+
+130
+00:06:24,820 --> 00:06:28,500
+The developer of Saints Row agrees with Anita Sarkeesian's take on their game!
+
+131
+00:06:28,500 --> 00:06:30,540
+Hey wait, this was back in 2014.
+
+132
+00:06:30,540 --> 00:06:33,820
+If Saints Row was always woke, why was Anita complaining about it 8 years ago?
+
+133
+00:06:33,820 --> 00:06:35,220
+It really makes you think.
+
+134
+00:06:35,220 --> 00:06:36,220
+Well, guess what?
+
+135
+00:06:36,220 --> 00:06:39,700
+You didn't back down to criticism that your game feels like a soulless husk, with all
+
+136
+00:06:39,700 --> 00:06:43,980
+the fun cool things from before ripped out and replaced with corpo-wokeness, and I have
+
+137
+00:06:43,980 --> 00:06:46,060
+a feeling it's not going to turn out well for you.
+
+138
+00:06:46,060 --> 00:06:50,340
+The stock price of the developer is already tumbling in response to massive fan dissatisfaction.
+
+139
+00:06:50,340 --> 00:06:53,580
+And though there's no real data yet on how much this piece of shit sold, I'm willing
+
+140
+00:06:53,580 --> 00:06:54,860
+to bet it's not much.
+
+141
+00:06:54,860 --> 00:06:58,820
+I told this story on stream yesterday, but the TLDR is, but when I was at GameStop buying
+
+142
+00:06:58,820 --> 00:07:03,700
+my copy, the guy there said he had only one unclaimed PS5 copy left.
+
+143
+00:07:03,700 --> 00:07:04,700
+The rest were all preordered.
+
+144
+00:07:04,700 --> 00:07:07,300
+I asked him, damn, are there that many preorders for this game?
+
+145
+00:07:07,300 --> 00:07:09,940
+And he said no, actually, there's almost no preorders.
+
+146
+00:07:09,940 --> 00:07:14,140
+But corporate only allows them to order so many copies of a game on release day based
+
+147
+00:07:14,140 --> 00:07:17,320
+on how many preorders they get, since that's how they judge popularity.
+
+148
+00:07:17,320 --> 00:07:22,120
+And he had only one copy of the game to sell, because he had almost no preorders.
+
+149
+00:07:22,120 --> 00:07:26,960
+He had more display cases of the game on the shelf than he had total copies for sale
+
+150
+00:07:26,960 --> 00:07:28,160
+in the store.
+
+151
+00:07:28,160 --> 00:07:31,560
+And just in case you think you can forget about Saints Row and just fall back to Grand
+
+152
+00:07:31,560 --> 00:07:36,900
+Theft Auto, nuh-uh, think again, GTA 5 has been released and re-released more times than
+
+153
+00:07:36,900 --> 00:07:38,160
+Skyrim at this point.
+
+154
+00:07:38,160 --> 00:07:43,320
+We've been playing the same fucking game since the PS3, but finally Rockstar has announced
+
+155
+00:07:43,320 --> 00:07:44,560
+GTA 6.
+
+156
+00:07:44,560 --> 00:07:45,560
+And guess what?
+
+157
+00:07:45,560 --> 00:07:49,360
+It's going to have a female Latinx protagonist, and it's going to scale back all those pesky
+
+158
+00:07:49,360 --> 00:07:51,160
+racist and sexist jokes.
+
+159
+00:07:51,200 --> 00:07:53,600
+Man, does everyone want to lose money nowadays?
+
+160
+00:07:53,600 --> 00:07:56,600
+Where is the money?
+
+161
+00:07:56,600 --> 00:07:57,600
+Maybe this is purposeful.
+
+162
+00:07:57,600 --> 00:08:01,080
+Maybe this is part of the socialist subversion, where you literally destroy the system from
+
+163
+00:08:01,080 --> 00:08:05,520
+the inside by poison-pilling the company so hard, they financially collapse due to their
+
+164
+00:08:05,520 --> 00:08:06,520
+own suicide.
+
+165
+00:08:06,520 --> 00:08:08,680
+I guess that's one way to stick it to the man.
+
+166
+00:08:08,680 --> 00:08:13,180
+Jason Schreier, resident middle-aged gamergate butt-buddy, proclaimed this series of events
+
+167
+00:08:13,180 --> 00:08:14,360
+as a triumphant victory.
+
+168
+00:08:14,360 --> 00:08:18,560
+Rockstar Games cleaned up its frat boy culture, becoming a kinder, more progressive game dev
+
+169
+00:08:18,560 --> 00:08:19,560
+company.
+
+170
+00:08:19,560 --> 00:08:20,560
+And now it's time to clean up Grand Theft Auto.
+
+171
+00:08:20,960 --> 00:08:21,960
+Hey, numbnuts.
+
+172
+00:08:21,960 --> 00:08:25,600
+The reason we fuck around in GTA is because we can't fuck around in real life.
+
+173
+00:08:25,600 --> 00:08:29,080
+Most of us aren't getting into a shootout with cops, or railing hookers and then killing
+
+174
+00:08:29,080 --> 00:08:30,320
+them to get our money back.
+
+175
+00:08:30,320 --> 00:08:31,380
+Uh, hopefully.
+
+176
+00:08:31,380 --> 00:08:32,380
+And you know what?
+
+177
+00:08:32,380 --> 00:08:33,560
+It's pretty fun to do that shit in a video game.
+
+178
+00:08:33,560 --> 00:08:38,040
+It's fun to play as someone that we're not, in the confines of a game where no one's hurt.
+
+179
+00:08:38,040 --> 00:08:40,480
+And no, online virtual rape doesn't count.
+
+180
+00:08:40,480 --> 00:08:46,200
+The graphics are so good, this attack is eerily realistic, but this is virtual rape.
+
+181
+00:08:46,200 --> 00:08:49,120
+Why would anyone want to play as Twitter's main character?
+
+182
+00:08:49,120 --> 00:08:52,920
+We want to escape all of the woke shit, not dive headfirst into it.
+
+183
+00:08:52,920 --> 00:08:53,920
+You know what?
+
+184
+00:08:53,920 --> 00:08:56,180
+I don't even actually care about the Latina playable character.
+
+185
+00:08:56,180 --> 00:08:59,920
+In fact, that would even be a shit-ton of fun, if they make the game as raunchy as the
+
+186
+00:08:59,920 --> 00:09:00,920
+previous ones.
+
+187
+00:09:00,920 --> 00:09:04,460
+Imagine doing all of the over-the-top sexual stuff you could do in other GTA or Saints
+
+188
+00:09:04,460 --> 00:09:05,460
+Row games.
+
+189
+00:09:05,460 --> 00:09:08,520
+You fuck hookers, objectify dancers, ogle at bitches walking around the party with their
+
+190
+00:09:08,520 --> 00:09:09,960
+tits out, but you play as a girl.
+
+191
+00:09:09,960 --> 00:09:11,120
+That would be awesome.
+
+192
+00:09:11,120 --> 00:09:12,980
+Harness that raw tomboy energy, dude.
+
+193
+00:09:12,980 --> 00:09:16,240
+In fact, that's what made the original Hey Ash Whatcha Playin' episode kinda funny.
+
+194
+00:09:16,240 --> 00:09:21,240
+Yeah, Ashley Burch is a woke wine-ant nightmare nowadays, but back then she was a spunky tomboy
+
+195
+00:09:21,240 --> 00:09:22,520
+objectifying other women.
+
+196
+00:09:22,520 --> 00:09:23,520
+And that shit's pretty cool.
+
+197
+00:09:23,520 --> 00:09:27,040
+Listen, progressives, you're not gonna like this, but objectifying other people, guys
+
+198
+00:09:27,040 --> 00:09:28,720
+and girls, is fun.
+
+199
+00:09:28,720 --> 00:09:31,280
+Normal people like to do it, and they like to have it done to them.
+
+200
+00:09:31,280 --> 00:09:34,300
+People like to be seen as sexually desirable in a fun setting.
+
+201
+00:09:34,300 --> 00:09:35,880
+And a girl who does it to other girls?
+
+202
+00:09:35,880 --> 00:09:36,880
+Ten out of ten.
+
+203
+00:09:36,880 --> 00:09:37,880
+You want to call that problematic?
+
+204
+00:09:37,880 --> 00:09:39,200
+Great, fine by me.
+
+205
+00:09:39,200 --> 00:09:42,320
+Doing something that is taboo and unacceptable makes it even more fun.
+
+206
+00:09:42,320 --> 00:09:43,880
+Anyway, that's my short review.
+
+207
+00:09:43,880 --> 00:09:44,880
+Saints Row sucks.
+
+208
+00:09:44,880 --> 00:09:45,880
+Don't buy it.
+
+209
+00:09:45,880 --> 00:09:48,320
+You can keep streaming it if you want to keep watching it, but it's a dumpster fire.
+
+210
+00:09:48,320 --> 00:09:50,480
+Don't hold your breath for GTA 6 either.
+
+211
+00:09:50,480 --> 00:09:52,400
+In fact, just stop caring about new games.
+
+212
+00:09:52,400 --> 00:09:56,280
+Aside from Nintendo and the occasional indie release, and of course Elden Ring, every new
+
+213
+00:09:56,280 --> 00:09:57,280
+game sucks now.
+
+214
+00:09:57,280 --> 00:10:01,240
+And that's pretty bad, but there's literally 40 years of video game history sitting back
+
+215
+00:10:01,240 --> 00:10:02,640
+in the past you can enjoy.
+
+216
+00:10:02,640 --> 00:10:05,880
+Enough video games have been released that if you never played a new one for the rest
+
+217
+00:10:05,880 --> 00:10:08,140
+of your life, you would not lack for entertainment.
+
+218
+00:10:08,140 --> 00:10:09,140
+So fuck it.
+
+219
+00:10:09,140 --> 00:10:10,920
+Stop giving these people money until they smarten up.
+

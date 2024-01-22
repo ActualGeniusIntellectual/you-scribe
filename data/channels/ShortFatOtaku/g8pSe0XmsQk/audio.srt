@@ -1,0 +1,844 @@
+1
+00:00:00,000 --> 00:00:10,560
+Normally, when I talk about a topic that involves video games, or internet culture, or sometimes
+
+2
+00:00:10,560 --> 00:00:13,660
+YouTuber drama, I'll make it into an indefensible video.
+
+3
+00:00:13,660 --> 00:00:18,240
+You know, with that cool opening that everyone seems to like that goes doo-doo-doo-doo-doo-doo-doo,
+
+4
+00:00:18,240 --> 00:00:19,240
+you know that one?
+
+5
+00:00:19,240 --> 00:00:22,660
+Where everyone in the comments says, OMG, Dev brought it back, whenever I make a new
+
+6
+00:00:22,660 --> 00:00:24,000
+video in that series?
+
+7
+00:00:24,000 --> 00:00:27,180
+Well, the Yong-Yei story does fit that bill.
+
+8
+00:00:27,180 --> 00:00:31,320
+It's about video games, and internet culture, and YouTuber drama, but I don't actually
+
+9
+00:00:31,320 --> 00:00:34,220
+think there's enough meat on this bone for a deep dive.
+
+10
+00:00:34,220 --> 00:00:37,780
+There might not even be enough here for a full ten minutes, but I'll give it a try.
+
+11
+00:00:37,780 --> 00:00:42,900
+Plus, the indefensible intro is, uh, constantly copyright struck, so hey, support the channel!
+
+12
+00:00:42,900 --> 00:00:47,260
+Yong-Yei is a YouTuber who got his start back in January of 2012.
+
+13
+00:00:47,260 --> 00:00:50,780
+Looking at his backlog, he did all sorts of things to try and get ahead in the YouTuber
+
+14
+00:00:50,780 --> 00:00:51,780
+game back then.
+
+15
+00:00:51,780 --> 00:00:54,540
+Let's plays, unboxings, reporting on gaming news.
+
+16
+00:00:54,540 --> 00:00:58,500
+He eventually settled into making short videos, generally only a few minutes long, talking
+
+17
+00:00:58,500 --> 00:01:03,780
+about minute updates a few select games were receiving, what the next Fallout 4 patch looked
+
+18
+00:01:03,780 --> 00:01:08,700
+like, what new character was recently announced for Smash Bros on Wii U, that sort of thing.
+
+19
+00:01:08,700 --> 00:01:13,140
+Gaming news is what he eventually settled into, talking about trade shows or award shows,
+
+20
+00:01:13,140 --> 00:01:16,500
+talking about upcoming games, interviews with journalists or people in the industry.
+
+21
+00:01:16,500 --> 00:01:19,820
+I never really watched him, but from what I checked out for this video, it was all good
+
+22
+00:01:19,820 --> 00:01:20,820
+stuff.
+
+23
+00:01:20,820 --> 00:01:24,100
+High quality for that era of YouTube still holds up today, and is probably why he has
+
+24
+00:01:24,660 --> 00:01:25,660
+over a million subs now.
+
+25
+00:01:25,660 --> 00:01:29,380
+I'll also just quickly say, whenever I do a video like this, looking into a YouTuber's
+
+26
+00:01:29,380 --> 00:01:32,220
+past always feels like unearthing a time capsule, you know?
+
+27
+00:01:32,220 --> 00:01:36,060
+For example, one of the oldest videos still surviving on the channel is his Let's Play
+
+28
+00:01:36,060 --> 00:01:40,500
+of the Mass Effect 3 demo, from before Mass Effect 3 was released.
+
+29
+00:01:40,500 --> 00:01:43,860
+That game is considered retro nowadays, but at the time the video was released, it was
+
+30
+00:01:43,860 --> 00:01:47,480
+cutting edge, and the video is full of decade old comments of people clamoring about the
+
+31
+00:01:47,480 --> 00:01:48,480
+game.
+
+32
+00:01:48,480 --> 00:01:53,580
+Also, seeing young Yong-Yei, Yong-Yei I guess, do old style YouTube skits was just surreal
+
+33
+00:01:53,580 --> 00:01:54,580
+to me.
+
+34
+00:01:54,580 --> 00:01:58,300
+In modern times, Yong-Yei's channel has more or less stuck to the gaming news thing,
+
+35
+00:01:58,300 --> 00:02:03,600
+though generally not as granular as discussing patch notes or updates for specific games.
+
+36
+00:02:03,600 --> 00:02:07,480
+That YouTube trend was done best by TotalBiscuit, and it basically died with him.
+
+37
+00:02:07,480 --> 00:02:12,260
+There still exist channels who do update videos or meta conversations about specific games,
+
+38
+00:02:12,260 --> 00:02:15,700
+like Warcraft channels, or Hollow Knight channels, or Zelda channels, or Overwatch channels.
+
+39
+00:02:15,700 --> 00:02:19,560
+But the reason that there are channels dedicated to specific game franchises, is because we've
+
+40
+00:02:19,560 --> 00:02:23,320
+basically figured out at this point in the YouTube game, that interest in the minutiae
+
+41
+00:02:23,320 --> 00:02:27,520
+of a specific patch for a specific game is a niche market, not something that really
+
+42
+00:02:27,520 --> 00:02:31,860
+sits well on a general gaming news channel.
+
+43
+00:02:31,860 --> 00:02:36,260
+But with this general gaming news thing, Yong-Yei's done pretty well for himself.
+
+44
+00:02:36,260 --> 00:02:39,560
+And because this is a YouTuber we're talking about here, it was inevitable that he would
+
+45
+00:02:39,560 --> 00:02:42,720
+eventually put his foot in his mouth, and then shoot it.
+
+46
+00:02:42,720 --> 00:02:47,640
+RGG Studio announced that Yong-Yei was cast as the English voice actor of Kiryu from the
+
+47
+00:02:47,640 --> 00:02:49,600
+Yakuza series of games.
+
+48
+00:02:49,600 --> 00:02:50,880
+Here's Yong-Yei's own announcement.
+
+49
+00:02:50,880 --> 00:02:55,980
+4 years ago I moved to LA with dreams of one day playing a AAA game protagonist, but
+
+50
+00:02:55,980 --> 00:02:58,560
+I never imagined I'd land such a legendary role.
+
+51
+00:02:58,560 --> 00:03:02,400
+It's the greatest honor of my life to announce I'm the English voice of the Dragon of Dojima,
+
+52
+00:03:02,400 --> 00:03:05,600
+Kazuma Kiryu, in Yakuza Gaiden and 8.
+
+53
+00:03:05,600 --> 00:03:09,280
+Now I'm only lukewarm on Yakuza, Yong-Yei likes them more than me, but I do understand
+
+54
+00:03:09,280 --> 00:03:12,040
+that Kiryu is the heart and soul of the series.
+
+55
+00:03:12,040 --> 00:03:16,000
+He's a beloved character in a beloved series that has spawned its share of high quality
+
+56
+00:03:16,000 --> 00:03:17,000
+memes.
+
+57
+00:03:17,000 --> 00:03:18,920
+But right from the get-go there's a few red flags here.
+
+58
+00:03:18,920 --> 00:03:23,040
+Firstly, that whole 4 years ago I moved to LA thing, I've said it a few times on this
+
+59
+00:03:23,040 --> 00:03:24,540
+channel and I'll say it again.
+
+60
+00:03:24,540 --> 00:03:28,760
+If your favorite YouTuber or streamer decides the next big step in their career is to fly
+
+61
+00:03:28,760 --> 00:03:32,240
+out to LA and start making connections in the influencer space, pack it up.
+
+62
+00:03:32,240 --> 00:03:34,700
+It's time to find a new favorite because they're done son.
+
+63
+00:03:34,700 --> 00:03:37,840
+They might keep making money and growing, but the quality of their content is going
+
+64
+00:03:37,840 --> 00:03:41,640
+to rapidly decline as they start bending to the will of the connections they've made
+
+65
+00:03:41,640 --> 00:03:44,920
+and begin injecting the political views of the environment that they're in.
+
+66
+00:03:44,920 --> 00:03:49,940
+LA is a cesspool of insufferably smug progressive elitism, and from what I've heard from long
+
+67
+00:03:49,940 --> 00:03:54,440
+time viewers, Yong-Yei was no exception to the rule, he slid down this slope just like
+
+68
+00:03:54,440 --> 00:03:55,440
+everyone else.
+
+69
+00:03:55,440 --> 00:03:57,760
+Secondly, there's the quality of his voice.
+
+70
+00:03:57,760 --> 00:04:01,320
+Yong-Yei did a line reading at Anime Expo 2023, here's the clip
+
+71
+00:04:14,920 --> 00:04:22,400
+The fan backlash to this centered on how Yong-Yei's Kiryu voice sounds too much
+
+72
+00:04:22,400 --> 00:04:23,400
+like his own.
+
+73
+00:04:23,400 --> 00:04:26,420
+And considering that in the game that Yong-Yei is playing Kiryu, he's middle aged at this
+
+74
+00:04:26,420 --> 00:04:31,720
+point, yeah I agree, he's too young sounding to be the voice of a gray haired retired Kiryu.
+
+75
+00:04:31,720 --> 00:04:35,540
+Yong-Yei's response to this was to post the official clip of the line from the video
+
+76
+00:04:35,540 --> 00:04:39,240
+game on his twitter, as a way of saying no it's good guys, just listen to how it sounds
+
+77
+00:04:39,240 --> 00:04:40,240
+about the echoes of the panel.
+
+78
+00:04:40,240 --> 00:04:43,440
+But that received so much backlash he deleted the tweet.
+
+79
+00:04:43,440 --> 00:05:04,640
+Here's the deleted video.
+
+80
+00:05:04,640 --> 00:05:06,480
+Yeah this still ain't great.
+
+81
+00:05:06,480 --> 00:05:11,280
+Somebody made a fan edit on YouTube, splicing in the Anime Expo audio overtop the in-game
+
+82
+00:05:11,280 --> 00:05:15,840
+cutscene.
+
+83
+00:05:15,840 --> 00:05:32,840
+Hey, at least it's not as bad as the actual golem game buddy.
+
+84
+00:05:32,840 --> 00:05:36,680
+Yong-Yei's reply to the viral clip was to complain that it was misinformation, that
+
+85
+00:05:36,680 --> 00:05:40,880
+it was poorly recorded audio from an off the cuff panel and the script was unlocalized
+
+86
+00:05:40,880 --> 00:05:43,760
+and it was all superimposed into the Japanese trailer.
+
+87
+00:05:43,760 --> 00:05:46,880
+Many people even think it's official because of the video, but they hadn't even recorded
+
+88
+00:05:46,880 --> 00:05:47,960
+that scene yet.
+
+89
+00:05:47,960 --> 00:05:51,640
+You know, I thought that previous deleted clip was the official recording, but maybe
+
+90
+00:05:51,640 --> 00:05:54,280
+he just did it off the cuff for comparison sake.
+
+91
+00:05:54,280 --> 00:05:57,480
+Everyone had their doubts about this, but the game was still months off, maybe it wouldn't
+
+92
+00:05:57,480 --> 00:05:58,480
+be so bad.
+
+93
+00:05:58,480 --> 00:06:01,960
+And then when the game's demo dropped, everyone's doubts were confirmed.
+
+94
+00:06:01,960 --> 00:06:04,400
+This clip went viral with the attached tweet.
+
+95
+00:06:04,400 --> 00:06:10,000
+I just heard actual English Kiryu voice and uh, Yong-Yei as a casting choice fucking sucked,
+
+96
+00:06:10,000 --> 00:06:29,120
+I'm so sorry.
+
+97
+00:06:29,120 --> 00:06:33,280
+Here's Yong-Yei's official clip, tagged with did a side by side with the Japanese
+
+98
+00:06:33,280 --> 00:06:34,840
+for those wanting to hear the difference.
+
+99
+00:06:34,840 --> 00:06:37,520
+This is some of the first stuff we recorded a year ago.
+
+100
+00:06:37,520 --> 00:06:39,720
+The performance got more refined as we went further along.
+
+101
+00:06:39,720 --> 00:07:07,080
+I'm excited for y'all to experience the full games.
+
+102
+00:07:07,080 --> 00:07:08,760
+This just isn't working man.
+
+103
+00:07:08,800 --> 00:07:12,400
+No offense to Yong-Yei himself, this isn't a personal attack on the man, but he was not
+
+104
+00:07:12,400 --> 00:07:14,040
+the right choice for this character.
+
+105
+00:07:14,040 --> 00:07:16,400
+There's a couple of things at play here.
+
+106
+00:07:16,400 --> 00:07:20,240
+Firstly is that the previous English voice actor for Kiryu, Daryl Kurilo, seems to be
+
+107
+00:07:20,240 --> 00:07:21,480
+a complete cuck.
+
+108
+00:07:21,480 --> 00:07:26,280
+His reaction to Yong-Yei swiping his job out from under him is, I am very happy and honored
+
+109
+00:07:26,280 --> 00:07:29,560
+to have played a wonderfully written and iconic character as Kiryu.
+
+110
+00:07:29,560 --> 00:07:33,200
+I am just as happy to discover that the role will be portrayed by a dedicated actor who
+
+111
+00:07:33,200 --> 00:07:35,520
+more closely matches Kiryu's culture.
+
+112
+00:07:35,520 --> 00:07:36,520
+I approve.
+
+113
+00:07:36,520 --> 00:07:40,880
+I gotta do a deep dive into this topic at some point, but there is this weird woke racial
+
+114
+00:07:40,880 --> 00:07:45,000
+segregationist movement happening in voice acting right now, where progressives in that
+
+115
+00:07:45,000 --> 00:07:49,460
+space are demanding that characters of a specific race can only be voice acted by actors who
+
+116
+00:07:49,460 --> 00:07:54,640
+share that race, so that they can embody the racial experiences or some other racist KKK
+
+117
+00:07:54,640 --> 00:07:55,640
+ass nonsense.
+
+118
+00:07:55,640 --> 00:08:00,900
+Secondly, is the more general rule of, don't hire YouTubers to be in your fucking video
+
+119
+00:08:00,900 --> 00:08:02,300
+games, it never ends well.
+
+120
+00:08:02,300 --> 00:08:05,880
+I know, I get it, you want to connect with the kids and get some of their money by attaching
+
+121
+00:08:05,880 --> 00:08:09,800
+that brand to your product, but it almost always makes it shittier.
+
+122
+00:08:09,800 --> 00:08:13,520
+You can count the number of career transitions into more traditional entertainment YouTubers
+
+123
+00:08:13,520 --> 00:08:17,560
+have made that have been successful and non-cringe on like, one hand.
+
+124
+00:08:17,560 --> 00:08:18,560
+We all know it's true.
+
+125
+00:08:18,560 --> 00:08:21,340
+You're sitting there, playing a video game or watching a show, and then suddenly you
+
+126
+00:08:21,340 --> 00:08:24,800
+hear Egoraptor's voice or Markiplier's or something, and you just want to shut it
+
+127
+00:08:24,800 --> 00:08:25,800
+off.
+
+128
+00:08:25,800 --> 00:08:29,120
+And it's not even necessarily because they're bad voice actors, though they usually are,
+
+129
+00:08:29,120 --> 00:08:33,400
+it's that even if they're good, they're still bringing with them that LA funk.
+
+130
+00:08:33,400 --> 00:08:36,640
+That progressive elitist clique that you and I will never be a part of.
+
+131
+00:08:36,640 --> 00:08:40,680
+Full of people who look down on us and hate the fact that they still need us to buy their
+
+132
+00:08:40,680 --> 00:08:41,680
+slop.
+
+133
+00:08:41,680 --> 00:08:46,520
+Anyway, after the repeated negative feedback, Yongye began to mass block people on Twitter
+
+134
+00:08:46,520 --> 00:08:47,520
+and hide replies.
+
+135
+00:08:47,520 --> 00:08:50,940
+I understand, man, you're not going to accept any criticism, you're going to stay the
+
+136
+00:08:50,940 --> 00:08:53,520
+course and drive this fucking thing right into the ground.
+
+137
+00:08:53,520 --> 00:08:58,200
+But you've got to understand, nobody, and I mean nobody, wants to hear your auto-tuned
+
+138
+00:08:58,200 --> 00:09:00,200
+voice sing these songs.
+
+139
+00:09:00,200 --> 00:09:16,640
+It got so bad that Yongye began to block his supporters who weren't perfectly marching
+
+140
+00:09:16,640 --> 00:09:18,080
+in lockstep with him.
+
+141
+00:09:18,080 --> 00:09:22,120
+Like for Tanga here, who said that Yongye was a bad Kiryu, but he shouldn't be cancel
+
+142
+00:09:22,120 --> 00:09:27,520
+cultured by people bringing up unrelated slur usage from years ago as an avenue of attack.
+
+143
+00:09:27,520 --> 00:09:29,480
+And he got his ass blocked for that.
+
+144
+00:09:29,480 --> 00:09:31,260
+Yongye is going full scorched earth, man.
+
+145
+00:09:31,260 --> 00:09:33,000
+This is all very hypocritical.
+
+146
+00:09:33,000 --> 00:09:36,560
+Because while he is blocking people who are just haters, who are saying stuff like you
+
+147
+00:09:36,560 --> 00:09:41,400
+suck or whatever, he's also blocking people who are making the reasonable obvious criticism
+
+148
+00:09:41,400 --> 00:09:44,920
+that Yongye is just not a good fit for the character of Kiryu.
+
+149
+00:09:44,920 --> 00:09:49,960
+A criticism that Yongye himself made against Chris Pratt voicing Mario in the Mario Brothers
+
+150
+00:09:49,960 --> 00:09:50,960
+movie.
+
+151
+00:09:50,960 --> 00:09:53,980
+Now the one thing that everyone's talking about is of course Mario's voice.
+
+152
+00:09:53,980 --> 00:09:57,900
+This is the main character, this is an iconic character, there's a very specific voice
+
+153
+00:09:57,900 --> 00:10:01,300
+and type of performance that we associate with Mario's character.
+
+154
+00:10:01,300 --> 00:10:05,500
+And this trailer finally gave us a glimpse of what Mario will sound like who is played
+
+155
+00:10:05,500 --> 00:10:07,420
+by Chris Pratt.
+
+156
+00:10:07,420 --> 00:10:12,220
+And I'll be honest, when I first watched this trailer, I was kind of disappointed.
+
+157
+00:10:12,220 --> 00:10:16,340
+I was a little taken aback by how much Mario just sounds like Chris Pratt doing like a
+
+158
+00:10:16,340 --> 00:10:17,860
+bit of a Brooklyn accent.
+
+159
+00:10:17,860 --> 00:10:22,580
+This still shot right here is a pretty appropriate representation of my reaction, that first
+
+160
+00:10:22,580 --> 00:10:24,120
+knee jerk impression.
+
+161
+00:10:24,120 --> 00:10:28,160
+This article dropped on The Gamer, Kazuma Kiryu's English voice was always going to
+
+162
+00:10:28,160 --> 00:10:32,600
+be impossible, making the point that Kiryu's voice and character and the story of the games
+
+163
+00:10:32,600 --> 00:10:36,720
+is quintessentially Japanese, translating them into English has never really worked,
+
+164
+00:10:36,720 --> 00:10:40,500
+and that it's not actually a problem with Yongye, whoever they chose was basically doomed
+
+165
+00:10:40,500 --> 00:10:41,500
+to failure from the get-go.
+
+166
+00:10:41,500 --> 00:10:44,880
+There's probably something to this view, I don't know anybody who plays Yakuza with
+
+167
+00:10:44,880 --> 00:10:48,180
+any language other than the Japanese, it certainly feels more authentic.
+
+168
+00:10:48,180 --> 00:10:52,860
+But before Yongye took over, the English dub of Yakuza was only considered superfluous
+
+169
+00:10:52,860 --> 00:10:55,980
+by the fans, not a direct sabotaging of the game.
+
+170
+00:10:55,980 --> 00:11:00,320
+It's true that no English voice actor can ever truly be Kiryu, but there are absolutely
+
+171
+00:11:00,320 --> 00:11:05,480
+people who come way closer than Yongye, and his inclusion really just feels like capitalizing
+
+172
+00:11:05,480 --> 00:11:06,780
+on YouTuber clout.
+
+173
+00:11:06,780 --> 00:11:11,620
+Moreover, Yongye actually has a history of doing this sort of thing whenever controversy
+
+174
+00:11:11,620 --> 00:11:12,780
+rears its ugly head.
+
+175
+00:11:12,780 --> 00:11:16,820
+He has a history of deleting videos and deleting comments, in order to try and control public
+
+176
+00:11:16,820 --> 00:11:17,820
+opinion of him.
+
+177
+00:11:17,820 --> 00:11:21,160
+A lot of these other stories never went viral, and they're lost to time because he was
+
+178
+00:11:21,160 --> 00:11:25,920
+just so good at scrubbing the online narrative, but you can still find crumbs here and there.
+
+179
+00:11:25,920 --> 00:11:27,280
+This isn't how you do it, man.
+
+180
+00:11:27,280 --> 00:11:29,040
+I mean, who am I to say that, I guess?
+
+181
+00:11:29,040 --> 00:11:31,040
+I've got 140,000 subs and he's got over a million.
+
+182
+00:11:31,040 --> 00:11:34,640
+But if you want to remain a good person, this isn't how you do it.
+
+183
+00:11:34,640 --> 00:11:38,120
+I've had takes that people didn't like, I've put out videos that people hated, I've
+
+184
+00:11:38,120 --> 00:11:42,040
+received more than my fair share of flak on the internet, I've had my mentions full
+
+185
+00:11:42,040 --> 00:11:46,140
+of thousands of replies, people telling me to kill myself or delete my channel, or insulting
+
+186
+00:11:46,140 --> 00:11:50,240
+my weight or insulting my girlfriend or whatever else, multiple times now, and I've never
+
+187
+00:11:50,240 --> 00:11:52,400
+gone on a mass-block delete spree.
+
+188
+00:11:52,400 --> 00:11:54,900
+I've never taken down videos or tweets for that.
+
+189
+00:11:54,900 --> 00:11:57,980
+You just carry on and hope people will come around, and if they don't, you try again
+
+190
+00:11:57,980 --> 00:11:58,980
+next time.
+
+191
+00:11:58,980 --> 00:12:01,440
+I think this is an Egoraptor-style story.
+
+192
+00:12:01,440 --> 00:12:05,360
+Despite all of Yangye's YouTube success, he always wanted to be an actor or a voice
+
+193
+00:12:05,360 --> 00:12:09,080
+actor, and he viewed YouTube as secondary, as the job he settled on doing rather than
+
+194
+00:12:09,080 --> 00:12:10,320
+the job he wanted.
+
+195
+00:12:10,320 --> 00:12:13,960
+And now that his YouTube channel is moving him into actor spaces, that's become his
+
+196
+00:12:13,960 --> 00:12:14,960
+personality.
+
+197
+00:12:14,960 --> 00:12:18,880
+That's why he says, I earned Kiryu, that's why his Twitter name is now the English voice
+
+198
+00:12:18,880 --> 00:12:23,480
+of Kiryu, and why he's posting videos on his channel saying, Kiryu auditions for Mario,
+
+199
+00:12:23,480 --> 00:12:28,680
+or Kiryu's voice actor reacts to trailers, or I met Kiryu, which is just his fans meeting
+
+200
+00:12:28,680 --> 00:12:29,680
+him.
+
+201
+00:12:29,680 --> 00:12:33,740
+Kiryu is Yangye's crown jewel, it doesn't matter how much he ruins the character and
+
+202
+00:12:33,740 --> 00:12:37,040
+destroys the franchise, it's a stepping stone in his career, and that's what he
+
+203
+00:12:37,040 --> 00:12:38,040
+cares about.
+
+204
+00:12:38,040 --> 00:12:41,980
+He can now put on his resume that he was the lead role in the multi-million-copy-selling
+
+205
+00:12:41,980 --> 00:12:43,400
+Yakuza series.
+
+206
+00:12:43,400 --> 00:12:46,720
+This isn't going to stop by the way, Yangye just announced that he's going to be voicing
+
+207
+00:12:46,720 --> 00:12:50,080
+a character in the Persona 3 remake, and he's probably going to rape that project
+
+208
+00:12:50,080 --> 00:12:51,400
+into the ground too.
+
+209
+00:12:51,400 --> 00:12:55,720
+Shitty nepotistic LA YouTubers are going to keep providing dogshit voice performances
+
+210
+00:12:55,720 --> 00:12:58,200
+in these games, as long as they're profitable.
+
+211
+00:12:58,200 --> 00:13:10,920
+Stay informed and vote with your wallet, guys.
+

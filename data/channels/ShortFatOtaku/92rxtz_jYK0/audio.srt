@@ -1,0 +1,5452 @@
+1
+00:00:00,000 --> 00:00:06,760
+Hello, Skullgirls discord, I know that you obsessively watch every video about this drama that comes out
+
+2
+00:00:06,760 --> 00:00:11,160
+There's always someone who posts it in there. So I know that some of you are gonna be watching this one right now
+
+3
+00:00:11,160 --> 00:00:14,960
+I hope you guys specifically stick around to the end of this one. I
+
+4
+00:00:14,960 --> 00:00:33,640
+Remember skullgirls very well it launched back in 2012 over 10 years ago now and I played a fair bit of it on release
+
+5
+00:00:33,680 --> 00:00:35,720
+But like all things you eventually move on
+
+6
+00:00:35,720 --> 00:00:39,660
+I haven't touched skullgirls in years and to be honest and I've really intended to go back to it
+
+7
+00:00:39,660 --> 00:00:43,740
+Even as I heard about the game receiving new updates on the periphery of my attention
+
+8
+00:00:43,740 --> 00:00:46,460
+It was one of those things where I enjoyed my time with the game
+
+9
+00:00:46,460 --> 00:00:50,180
+I don't regret the hours I put into it, but I didn't really see a need to go back and play it again
+
+10
+00:00:50,180 --> 00:00:56,740
+It's been a decade. I'm doing other stuff now as simple as that all of that changed when the skullgirls censorship controversy hit
+
+11
+00:00:56,740 --> 00:01:03,900
+The first thing I thought of when I heard the news was censorship for skullgirls a game that is specifically about fan service
+
+12
+00:01:04,220 --> 00:01:06,520
+Okay. Yeah, I know it wasn't all about fan service
+
+13
+00:01:06,520 --> 00:01:10,460
+But fan service was certainly one of its primary focuses and now they're censoring it
+
+14
+00:01:10,500 --> 00:01:16,060
+Well to dive into this conversation fully let's rewind back to the beginning part one lab zero games
+
+15
+00:01:16,360 --> 00:01:23,620
+The primary artist for skullgirls Alex a had or a hot I'm not sure gave an interview about the game during e3 of 2011
+
+16
+00:01:23,620 --> 00:01:30,180
+He had been doodling rough versions of the main skullgirls characters as far back as the early 2000s while he was still in high school
+
+17
+00:01:30,260 --> 00:01:34,340
+But the idea of turning them into a fighting game roster emerged while he was attending college
+
+18
+00:01:34,700 --> 00:01:40,440
+Mike Zimont on the programming side of skullgirls was a few years older during a 2012 panel
+
+19
+00:01:40,440 --> 00:01:42,440
+He described his own entry into the games industry
+
+20
+00:01:42,720 --> 00:01:47,540
+His parents bribed him with an Amiga to stop him from trying dangerous stunts on his dirt bike
+
+21
+00:01:47,680 --> 00:01:52,720
+This got him interested in computers and eventually led to him taking up a tester job the lowest of the possible
+
+22
+00:01:52,900 --> 00:01:55,280
+Entry points into game development, but it paid off
+
+23
+00:01:55,320 --> 00:01:59,400
+He worked on Star Wars Battlefront 2 as a programmer the original one
+
+24
+00:01:59,400 --> 00:02:03,600
+Not that god-awful modern version as well as assisting with Lord of the Rings conquest
+
+25
+00:02:03,680 --> 00:02:08,080
+He was also a professional fighting game player and evo champion and these two
+
+26
+00:02:08,400 --> 00:02:15,280
+Intersecting skill sets allowed him to land gigs balancing blaze blue continuum shift and Marvel vs. Capcom 2 by
+
+27
+00:02:15,680 --> 00:02:22,440
+2009 Zimont was programming his own fighting engine on the side and a mutual friend introduced some day had the two quickly realized that they
+
+28
+00:02:22,440 --> 00:02:27,780
+Had artwork and character roster fit well with the engine that Zimont was creating and they decided to work together to make a fighting game
+
+29
+00:02:27,780 --> 00:02:35,160
+They were both fans of Western and Eastern art giving skullgirls its unique half anime half rubber hose animation feel
+
+30
+00:02:35,200 --> 00:02:40,800
+They also wanted to make a Western take on the Japanese all-girl fan service fighter a la arcana heart
+
+31
+00:02:40,800 --> 00:02:43,080
+But they also realized they couldn't do it with just the two of them
+
+32
+00:02:43,080 --> 00:02:48,840
+Hey had and Zimont shot the idea around to multiple indie developers eventually signing with Reverge labs in 2010
+
+33
+00:02:49,040 --> 00:02:54,220
+Reverge labs signed a deal with autumn games to publish skullgirls with Konami handling distribution
+
+34
+00:02:54,640 --> 00:03:00,240
+Skullgirls launched a critical and commercial success in April of 2012. However autumn games had other problems
+
+35
+00:03:00,760 --> 00:03:05,560
+Allegations of fraud were levied at both autumn games and Konami by City National Bank
+
+36
+00:03:05,600 --> 00:03:12,560
+The two companies secured a 14 million dollar line of credit from the bank to publish and distribute the 2010 game Def Jam
+
+37
+00:03:12,840 --> 00:03:19,480
+Rapstar and the bank was alleging that the two companies misrepresented their financial status at the time of their deal as a result autumn games went
+
+38
+00:03:19,480 --> 00:03:20,640
+into belt tightening mode
+
+39
+00:03:20,640 --> 00:03:24,440
+They couldn't afford to renew the contract with Reverge labs and after time was up
+
+40
+00:03:24,480 --> 00:03:29,880
+Reverge labs ran out of funding all of their employees were subsequently laid off including the Zimont and a had
+
+41
+00:03:30,360 --> 00:03:37,400
+Wasn't the end for skullgirls though the Reverge labs employees who had worked on skullgirls formed a new company lab zero games with Zimont
+
+42
+00:03:37,400 --> 00:03:43,760
+As the new owner autumn games retained the skullgirls IP and hired lab zero games to continue work on skullgirls updates
+
+43
+00:03:43,760 --> 00:03:45,280
+But still funding was tight
+
+44
+00:03:45,280 --> 00:03:51,760
+So the team turned to indiegogo now remember this was in February of 2013 while there's still a lot of crowdfunding scams nowadays
+
+45
+00:03:51,760 --> 00:03:55,800
+People have more or less acclimated to the crowdfunding model back then though
+
+46
+00:03:55,800 --> 00:04:00,440
+There was a lot more skepticism among the average internet user regarding the validity of crowdfunding a game
+
+47
+00:04:00,600 --> 00:04:03,920
+but the skullgirls crew managed to pull it off raking in a total of
+
+48
+00:04:05,280 --> 00:04:10,960
+$830,000 covering the funding for four additional characters and a whole bunch of other goodies including an art book a
+
+49
+00:04:11,040 --> 00:04:17,380
+soundtrack release and a bunch of alternate voice packs and other small bonuses by November of 2013 autumn games
+
+50
+00:04:17,480 --> 00:04:23,740
+Severed ties with Konami claiming that Konami's lack of response was a major hurdle in the distribution of new content for the game
+
+51
+00:04:23,940 --> 00:04:31,100
+Konami replied by demanding that the Konami published versions of skullgirls on the Xbox 360 and PlayStation 3 storefronts be pulled
+
+52
+00:04:31,340 --> 00:04:38,500
+lab zero games announced that the game would be re-released as skullgirls encore by spring of 2014 with all the current
+
+53
+00:04:38,720 --> 00:04:46,580
+DLC included as baseline and without any Konami involvement the Xbox 360 and steam versions of skullgirls were updated to the skullgirls
+
+54
+00:04:46,780 --> 00:04:52,740
+Encore version but due to technical limitations the ps3 version was pulled from the store and had to be redown loaded as a new game
+
+55
+00:04:52,900 --> 00:04:57,380
+Sony made the game freely available on ps3 to all previous owners of skullgirls
+
+56
+00:04:57,380 --> 00:05:00,320
+But unfortunately gamers save data didn't carry over to the new version
+
+57
+00:05:00,420 --> 00:05:07,100
+The game was eventually updated again this time with a skullgirls second encore branding with a new round of characters and updates
+
+58
+00:05:07,520 --> 00:05:14,820
+Second encore was the baseline version of skullgirls for the ps4 which was released in July of 2015 by April of 2016
+
+59
+00:05:14,820 --> 00:05:18,040
+The steam version of skullgirls was updated to second encore as well
+
+60
+00:05:18,360 --> 00:05:24,480
+Meanwhile autumn games had tapped a phone developer hidden variable studios to create the game skullgirls mobile
+
+61
+00:05:24,480 --> 00:05:26,800
+This wasn't just a phone version of the main skullgirls game
+
+62
+00:05:26,800 --> 00:05:33,120
+This was a new title set as a prequel to the main story and made only for phones skullgirls mobile released in May of 2017
+
+63
+00:05:33,720 --> 00:05:40,000
+After a long silence skullgirls a second encore received a Nintendo switch port in October of 2019 the Wii U
+
+64
+00:05:40,120 --> 00:05:43,800
+Nintendo 3ds and Xbox one were all considered for skullgirls ports
+
+65
+00:05:43,800 --> 00:05:48,440
+But were ultimately skipped at this point in the story skullgirls is a pretty old game and yet
+
+66
+00:05:48,540 --> 00:05:52,520
+Updating it and refining it is what lab zero games had to focus the majority of its efforts on
+
+67
+00:05:52,960 --> 00:05:54,840
+Skullgirls just didn't receive enough
+
+68
+00:05:54,840 --> 00:06:01,000
+Consistent support or continued cash flow to be a game with a life cycle this long and it wasn't just because of Konami's roadblocks
+
+69
+00:06:01,120 --> 00:06:06,280
+Autumn games was also out of money and couldn't afford to keep funding lab zero games for continued development
+
+70
+00:06:06,680 --> 00:06:13,540
+Skullgirls development only started to make a comeback after autumn games pushed the mobile game out and by then lab zero games
+
+71
+00:06:13,660 --> 00:06:16,020
+Was already deep into production on their next title
+
+72
+00:06:16,340 --> 00:06:21,940
+Indivisible a hat and zymont had shifted their focus to early indivisible development as far back as 2015
+
+73
+00:06:21,940 --> 00:06:27,980
+But according to a lab zero games employee on Twitter a had left the company in the middle of indivisible development because he had become
+
+74
+00:06:28,100 --> 00:06:31,980
+Increasingly hostile difficult to work with and was not able to meet company standards
+
+75
+00:06:31,980 --> 00:06:35,380
+He later tried to sue the company and walked away with a sizable settlement
+
+76
+00:06:35,500 --> 00:06:39,100
+So with a head of the pitcher zymont was the remaining member of the original
+
+77
+00:06:39,380 --> 00:06:45,900
+Skullgirls duo and he seemed to want to move on to indivisible development while autumn games was trying to keep the skullgirls raft afloat
+
+78
+00:06:45,900 --> 00:06:46,820
+Yeah, I know guys
+
+79
+00:06:46,820 --> 00:06:48,860
+It was a popular game in 2012
+
+80
+00:06:48,860 --> 00:06:53,900
+But we're at 2020 at this point focusing on new projects is the right choice for the company going forward
+
+81
+00:06:53,900 --> 00:06:57,440
+The truth is by 2020 nobody's talking about skullgirls anymore
+
+82
+00:06:57,440 --> 00:07:02,240
+But people would start talking about skullgirls again very soon though not for the reasons
+
+83
+00:07:02,240 --> 00:07:07,480
+Anybody wanted part two the downfall of Mike Z in June of 2020
+
+84
+00:07:07,480 --> 00:07:12,580
+Mike zymont was commentating an official skullgirls tournament when he made an I can't breathe joke
+
+85
+00:07:12,720 --> 00:07:17,120
+This was two weeks after George Floyd's death. Just just listen to this
+
+86
+00:07:19,440 --> 00:07:21,440
+She's gonna die, yeah
+
+87
+00:07:27,480 --> 00:07:29,480
+Would it be fair to say that uh
+
+88
+00:07:30,320 --> 00:07:32,320
+You can't breathe
+
+89
+00:07:46,120 --> 00:07:47,960
+All right gelato
+
+90
+00:07:47,960 --> 00:07:49,880
+You got a chance now
+
+91
+00:07:49,880 --> 00:07:53,800
+Yeah, that might be one of the most awkward things I've ever heard captured on audio
+
+92
+00:07:54,240 --> 00:07:57,200
+Zymont apologized in the same day saying that the joke was too soon
+
+93
+00:07:57,200 --> 00:08:01,960
+He blamed his social awkwardness for not being able to read the room, but the damage was done
+
+94
+00:08:01,960 --> 00:08:04,640
+He was canceled and we all know how canceling events work
+
+95
+00:08:04,640 --> 00:08:09,440
+so of course this would be the precise moment that other people jump out of the woodwork to accuse Zymont of of
+
+96
+00:08:09,720 --> 00:08:15,800
+Whatever really professional twitch streamer and cosplayer bunny a you known for thirst trapping everywhere
+
+97
+00:08:15,800 --> 00:08:19,680
+She goes in the internet leaked her DMS with Zymont where she thanked him for including
+
+98
+00:08:19,920 --> 00:08:24,560
+Lesbian BDSM in skullgirls and claims his response to her was creepy bunny
+
+99
+00:08:24,560 --> 00:08:32,440
+I you has her own deep lore most notably being in a high-profile relationship with another thirst trapper that ended very publicly and
+
+100
+00:08:33,040 --> 00:08:37,920
+Spectacularly with her being slapped with her own set of allegations. That's a different rabbit hole for another day
+
+101
+00:08:37,920 --> 00:08:41,560
+What's important right now is that at least in my view bunny I you is a snake
+
+102
+00:08:41,560 --> 00:08:47,040
+She masks her behavior behind a progressive inclusive public persona, which is why I'm not surprised
+
+103
+00:08:47,040 --> 00:08:51,080
+She was the one to jump on the Mike Z canceled bandwagon first just to be clear
+
+104
+00:08:51,080 --> 00:08:58,000
+She publicly thanked a had for including lesbian BDSM in the game who responded with the ever so slightly flirtatious glad you liked it
+
+105
+00:08:58,000 --> 00:09:00,360
+Oh, ho ho. This is like a 0.1 on the first scale
+
+106
+00:09:00,400 --> 00:09:08,280
+But she had privately messaged Zymont with the sentiment and characterized his responses as uncomfortable and demeaning. Let's go over their DMS
+
+107
+00:09:08,440 --> 00:09:14,160
+Thank you for making a video game. Where is there is BDSM Yuri. I'm glad you enjoy it
+
+108
+00:09:14,240 --> 00:09:16,240
+Yeah question mark seems appropriate
+
+109
+00:09:16,240 --> 00:09:21,120
+There's a lot less of that type of thing than it was originally because even fewer people would have taken it seriously
+
+110
+00:09:21,120 --> 00:09:28,160
+Otherwise witness filly is unused typo pose, which you can look up online. That's not good middle enough. Let's see who this person is
+
+111
+00:09:28,160 --> 00:09:33,760
+Oh, I think it's the lady was streaming the game recently. They mistook button Jupiter for visits the Twitter page
+
+112
+00:09:33,760 --> 00:09:40,320
+Whoa, you actually have a catch light slash. I like that's some serious production values. I have so many questions
+
+113
+00:09:40,320 --> 00:09:44,240
+I want to ask that. I'm definitely not going to ask. I'm happy SG is fun for you
+
+114
+00:09:44,240 --> 00:09:50,040
+I joked about sending the thanks for Yuri fan service message on twitch while playing Eliza story
+
+115
+00:09:50,040 --> 00:09:57,640
+I also tweeted to an artist who was completely respectful and normal about it. Here's the link this one. I think it's awesome
+
+116
+00:09:57,640 --> 00:10:04,280
+I understand though. I like DOA a lot, but it gets a lot of negative feedback for being too sexy
+
+117
+00:10:04,280 --> 00:10:09,360
+I love Philly yellow. Yep. I have played skull goes three times on stream
+
+118
+00:10:09,360 --> 00:10:15,440
+I really love the style and played Eliza's story today. So that's why I thank you for the your a BDSM
+
+119
+00:10:15,800 --> 00:10:21,120
+Ask away. I'm a fan of the game so far. It's like really cool and fun for sure
+
+120
+00:10:21,120 --> 00:10:22,400
+Oh, yes
+
+121
+00:10:22,400 --> 00:10:27,240
+We had to add all the mommy raps to Eliza's getting throne frames and we wouldn't have gotten the right rating
+
+122
+00:10:27,240 --> 00:10:33,160
+Also some foam in her bath strangely said nothing about her other storyboat art ask the questions. Well
+
+123
+00:10:34,000 --> 00:10:35,680
+Okay
+
+124
+00:10:35,680 --> 00:10:39,720
+Are you putting on the high voice like lots of Japanese ladies do what brought you SG?
+
+125
+00:10:39,720 --> 00:10:45,680
+Anyway, I guess I've embraced the thirst culture. But like isn't this weird. It's definitely not anyone's fancy
+
+126
+00:10:45,680 --> 00:10:49,120
+I don't know how I feel at your place. Did you start out with that as a name?
+
+127
+00:10:49,120 --> 00:10:55,920
+I'm genuinely curious. My voice is real. It gets higher pitch when I'm excited though. I'm cursed with it
+
+128
+00:10:55,920 --> 00:10:58,840
+I get that question a lot. I like fighting games
+
+129
+00:10:58,840 --> 00:11:03,680
+I've had an interest since I was a kid and I wanted to revisit some for nostalgia
+
+130
+00:11:03,680 --> 00:11:09,880
+I found skull girls through recommendations from my fans. It doesn't bother me thirst is human nature
+
+131
+00:11:09,880 --> 00:11:16,760
+I started as a grab your style model online and did sexy modeling for maybe three years or so before retiring
+
+132
+00:11:16,800 --> 00:11:20,160
+I retired a year ago to pursue twitch streaming
+
+133
+00:11:20,160 --> 00:11:27,320
+I'm used to thirst stuff from my job and I'm a huge fan of each artist and the culture so it doesn't really bother me
+
+134
+00:11:27,480 --> 00:11:31,800
+Well, sorry for ask the dumb comic questions, I know some other ladies like that
+
+135
+00:11:31,800 --> 00:11:34,280
+I bet it's annoying to get asked to put your parent on the phone
+
+136
+00:11:34,280 --> 00:11:41,880
+I suppose there's definitely helps sub count and probably validation if external validation is necessary. I'm embarrassed enough streaming at all and I dislike
+
+137
+00:11:42,680 --> 00:11:49,120
+People so I feel like quantified speaking here. Hey, I'm sort of curious what your family thinks of it
+
+138
+00:11:49,120 --> 00:11:53,560
+But that's a dangerously close to the coin. What is your boyfriend think promo of you single?
+
+139
+00:11:53,560 --> 00:11:58,480
+It's just the world up so unfamiliar with gravia the printing process Oh
+
+140
+00:11:59,160 --> 00:12:05,640
+Google helped you're aware of like the prevalent problems with sexism in the FGC assume. Sorry about that advance
+
+141
+00:12:05,640 --> 00:12:09,920
+I love the skull girls community in particular is better about it. Anyway, I don't mean to bother you
+
+142
+00:12:09,920 --> 00:12:13,560
+You're just kind of fascinating and unfamiliar. Well, that's a good weird ending
+
+143
+00:12:13,560 --> 00:12:20,840
+The validation comment was like very uncomfortable and demeaning. Can you imagine this conversation with a man in the FCG?
+
+144
+00:12:21,640 --> 00:12:26,240
+Hmm I'm sure you get messages from humans with penises asking that kind of stuff pretty regularly
+
+145
+00:12:26,280 --> 00:12:29,800
+So if you prefer, how about I acknowledge the brain inside the lady?
+
+146
+00:12:29,840 --> 00:12:33,200
+It takes a lot of skill and kind of get a certain amount of both
+
+147
+00:12:33,480 --> 00:12:40,680
+Integrity and ruthlessness to succeed at pretty much anything. So calculating successful person who owns herself. What's your end goal is streaming sustainable
+
+148
+00:12:40,680 --> 00:12:46,120
+Do you want to own a tech company or manufacture solar cells or grow cute flowers or what?
+
+149
+00:12:46,120 --> 00:12:50,380
+I'd like to know what to prepare to invest in his responses are creepy
+
+150
+00:12:50,760 --> 00:12:55,800
+Demeaning and I really don't think you would talk to a man this way in the initial messages
+
+151
+00:12:55,800 --> 00:13:02,260
+I want comes off as an awkward starstruck nerd bunny replies by blowing up his ego a bit over how much she liked skull girls
+
+152
+00:13:02,800 --> 00:13:06,360
+Considering that bunny started this conversation with sexual content, you know
+
+153
+00:13:06,360 --> 00:13:09,880
+The lesbian BDSM thing it makes sense that the conversation might go this way
+
+154
+00:13:10,040 --> 00:13:16,280
+One of the questions I'm on asks her is what it's like to embrace thirst culture and be the object of people's affections
+
+155
+00:13:16,400 --> 00:13:22,000
+Bunny replies honestly saying that this is human nature. She's been a model for years. She's used to thirst stuff from her job
+
+156
+00:13:22,000 --> 00:13:24,160
+She's a big fan of hentai in the surrounding culture
+
+157
+00:13:24,160 --> 00:13:30,320
+So this type of conversation doesn't bother her after this as I months questions do become more creepy and more personal
+
+158
+00:13:30,320 --> 00:13:34,560
+But they also kind of read like an awkward nervous nerd who thinks he's having a sexual
+
+159
+00:13:34,880 --> 00:13:40,720
+Conversation with a girl way out of his league and you know considering how bunny started the conversation with sex
+
+160
+00:13:40,800 --> 00:13:46,960
+That is one of the possible directions a reasonable person could believe this is gonna go at this point bunny cuts contact with him
+
+161
+00:13:46,960 --> 00:13:49,000
+And then blasts him online as a creep
+
+162
+00:13:49,000 --> 00:13:51,200
+But frankly I can see it from both points of view
+
+163
+00:13:51,520 --> 00:13:56,720
+Bunny seems like somebody who's had to deal with creeps a lot sexual content is likely pretty normalized to her
+
+164
+00:13:56,720 --> 00:13:59,480
+So to her this was an innocent conversation not a sexual one
+
+165
+00:13:59,680 --> 00:14:06,640
+Meanwhile as I'm on seems like an otaku who gets exactly zero play and suddenly this hot chick is sliding into his DMS talking about
+
+166
+00:14:06,640 --> 00:14:09,280
+How grateful she is for his lesbian bondage content?
+
+167
+00:14:09,280 --> 00:14:12,320
+I can absolutely see a guy like that spilling his spaghetti
+
+168
+00:14:12,400 --> 00:14:18,680
+But of course bunny only saw fit to release this during Zaymon being canceled over the George Floyd joke
+
+169
+00:14:18,680 --> 00:14:22,120
+She dropped the logs along with the following public statement
+
+170
+00:14:22,120 --> 00:14:27,240
+I will no longer be playing skull girls the creator Mike with incredibly
+
+171
+00:14:27,840 --> 00:14:30,160
+Disrespectful in DMS and made me very uncomfortable
+
+172
+00:14:30,520 --> 00:14:36,360
+I have shared screenshots of the conversation to others in the FCG and to combo Queens
+
+173
+00:14:37,040 --> 00:14:40,980
+Combo Queens is a group that tries to get women into the fighting game community
+
+174
+00:14:41,360 --> 00:14:48,800
+affiliated with combo breaker a professional fighting game event that Mike Z used to commentate for as a result of bunny going public with the
+
+175
+00:14:48,800 --> 00:14:55,280
+DMS Richard Thire the general manager of Evo and the event director with combo breaker put out this statement in
+
+176
+00:14:55,480 --> 00:15:01,080
+In addition to the listed reprimands are relayed in the statement released by multiple skullgirls organizers and community members
+
+177
+00:15:01,080 --> 00:15:06,240
+Mike Z will not be welcome at CB 2021 in addition to well
+
+178
+00:15:06,240 --> 00:15:10,960
+Uh this account called da purple sharpie who seems to be just a random
+
+179
+00:15:11,200 --> 00:15:18,580
+Individual speaking for the skullgirls community presented a list of demands that the fans want implemented upon Mike Zaymon in
+
+180
+00:15:18,720 --> 00:15:22,560
+Retaliation for the whole bunny thing. Yeah, I don't know what the fuck this is all about
+
+181
+00:15:22,800 --> 00:15:27,360
+These people aren't employees of anything they're not from an organization. They're just fans
+
+182
+00:15:27,840 --> 00:15:28,920
+Alright, let's read it
+
+183
+00:15:28,920 --> 00:15:35,800
+Our goal is to create a gaming space that is welcome for all participants regardless of their race gender blah blah blah
+
+184
+00:15:35,800 --> 00:15:43,600
+We believe Mike Zaymon should no longer be welcome on commentary or participating in events in the skullgirls community as there is no singular
+
+185
+00:15:43,600 --> 00:15:50,600
+Entity responsible for the skullgirls community for who determines who is allowed on commentary or who determines per event eligibility
+
+186
+00:15:50,600 --> 00:15:54,920
+We are asking the community to respect and uphold the following actions one
+
+187
+00:15:55,520 --> 00:16:00,760
+indefinite ban from all commentary to a two-year ban from offline and online
+
+188
+00:16:01,300 --> 00:16:03,300
+competition until July 30th
+
+189
+00:16:03,320 --> 00:16:11,080
+2022 our decision to enact and recommend these reprimands was based on Mike's history of problematic behavior in public and
+
+190
+00:16:11,280 --> 00:16:17,240
+Private including the callous. I can't breathe reference while commentating a match and the reveal of additional inappropriate
+
+191
+00:16:17,800 --> 00:16:23,120
+Interactions with members of the skullgirls community in private we believe these okay, okay, who's who signed this?
+
+192
+00:16:23,120 --> 00:16:28,240
+There's a couple of tournament organizers couple of pro fighters and the skullgirls discord administrators
+
+193
+00:16:28,960 --> 00:16:36,560
+The discord admins guys the jannies do it for free after this a second cosplayer named carbon gray who has annoyingly changed
+
+194
+00:16:36,560 --> 00:16:43,640
+Her name to also be bunny since this drop back in 2020 came out with a video making it vague but similar allegations against Zaymon
+
+195
+00:16:43,800 --> 00:16:49,800
+This is like my 20 billionth take I have not yet read bunnies DMS, I don't know what Mike said to her
+
+196
+00:16:49,800 --> 00:16:54,900
+I'm sure it was shitty and I know that because Mike's been making weird sexual comments at me in and out of cosplay
+
+197
+00:16:55,240 --> 00:17:00,860
+Fighting game events for actual years and I've been writing a lot of it off because when I tell people they're just like oh
+
+198
+00:17:01,400 --> 00:17:04,540
+He's kind of like that. I'm sorry and like yeah
+
+199
+00:17:04,540 --> 00:17:10,160
+He is kind of like that and he's kind of not changing for the past five years y'all and like neither is anyone else in
+
+200
+00:17:10,160 --> 00:17:15,720
+The fighting game community and I think a lot of it is because when I tell like my male friends or other TOS what's happening
+
+201
+00:17:15,720 --> 00:17:17,840
+They just kind of don't do anything with that information
+
+202
+00:17:18,200 --> 00:17:24,200
+If you find out that one of your friends is being absolutely weird or creepy to females in the community
+
+203
+00:17:24,200 --> 00:17:26,720
+You need to call them on it and actually hold them accountable
+
+204
+00:17:26,920 --> 00:17:30,340
+This is par for the course when someone's canceled it happened with super mega as well
+
+205
+00:17:30,340 --> 00:17:37,360
+There's generally one person with detailed allegations logs or text or whatever and then a few hanger-ons show up later to literally go me
+
+206
+00:17:37,360 --> 00:17:40,080
+To me too and most of the time they have far less evidence
+
+207
+00:17:40,280 --> 00:17:46,760
+She expanded on her allegations in a series of tweets that basically amounted to Mike said weird sexual shit to me
+
+208
+00:17:46,760 --> 00:17:52,620
+IRL and we're supposed to just take her at her word for the most part what carbon is describing is actually pretty bad if it
+
+209
+00:17:52,620 --> 00:17:52,960
+happened
+
+210
+00:17:52,960 --> 00:17:59,040
+This is all he said she said stuff that she's clearly been holding on to and only dropping right now because Mike's going viral
+
+211
+00:17:59,200 --> 00:18:03,160
+For most of these examples, there's nobody to corroborate carbon story
+
+212
+00:18:03,160 --> 00:18:07,160
+But in one there actually was another witness who told their version of events
+
+213
+00:18:07,540 --> 00:18:15,660
+Mr. Banana god 7 who said on June 29th 2020 during the bunny a you think that Mike tried to laugh it off and apologized
+
+214
+00:18:15,840 --> 00:18:17,980
+Carbon agreed at least enough to like the tweets
+
+215
+00:18:18,280 --> 00:18:22,360
+However, when carbon retells this story two months later in August of 2020
+
+216
+00:18:22,360 --> 00:18:29,520
+She says he could have just apologized two separate people have told me they asked him to apologize to me the apology that banana god 7
+
+217
+00:18:29,600 --> 00:18:35,040
+Confirmed Mike gave and that carbon agreed with has been completely erased from the narrative now
+
+218
+00:18:35,040 --> 00:18:39,360
+Maybe you could say that Mike's apology being of the laughing off of variety was not good enough
+
+219
+00:18:39,360 --> 00:18:40,680
+It wasn't serious or something
+
+220
+00:18:40,680 --> 00:18:47,220
+Maybe that's the case but carbon saying he apologized and I didn't accept it sounds way worse than he didn't apologize
+
+221
+00:18:47,220 --> 00:18:54,040
+Which is in my opinion why the story quietly morphed over time another allegation came from a guy named. Mr
+
+222
+00:18:54,040 --> 00:19:00,360
+Beezle a former employee at lab zero games. I had to dig this shit up on the wayback machine because he's since nuked all
+
+223
+00:19:00,360 --> 00:19:01,340
+of his allegations
+
+224
+00:19:01,340 --> 00:19:07,200
+Mr. Beezle claims that Mike Z scapegoated him gaslit him made verbal threats of violence against him
+
+225
+00:19:07,200 --> 00:19:12,540
+But he saves the worst for last he made a racist remark three times the majority of mr
+
+226
+00:19:12,540 --> 00:19:19,560
+Beezle's thread is focused on the racism and we never actually get any explanation on the threats. They're just forgotten about mr
+
+227
+00:19:19,560 --> 00:19:27,020
+Beezle complained about getting racially profiled as a Latino thug despite describing himself as the stereotypical image of a Latino thug and he called
+
+228
+00:19:27,020 --> 00:19:32,440
+Mike a white man in power who refused to see my reality. This is a really strange allegation, man
+
+229
+00:19:32,480 --> 00:19:37,600
+Mike looks more like a Middle Easterner than a white guy and zymont is a Jewish last name. Oh, he's a colonizer
+
+230
+00:19:37,600 --> 00:19:42,520
+I get it now in actuality. This is another he said she said story and even in mr
+
+231
+00:19:42,520 --> 00:19:45,080
+Beezle's retelling of events Mike doesn't sound like a harasser
+
+232
+00:19:45,080 --> 00:19:49,820
+He sounds like an idiot who is entirely clueless about the intricacies of politics and systemic racism
+
+233
+00:19:49,820 --> 00:19:52,000
+And the only thing I can really say to that is boy
+
+234
+00:19:52,000 --> 00:19:57,000
+I wish that were me all of these other people coming forward with their own Mike Z story
+
+235
+00:19:57,160 --> 00:20:00,160
+Prompted bunny to publicly declare that she felt like she was doing the right thing
+
+236
+00:20:00,160 --> 00:20:06,280
+I was extremely anxious even mentioning anything because it could have been way worse
+
+237
+00:20:06,360 --> 00:20:11,080
+But hearing all the women come forward after my post and bms makes it worth it
+
+238
+00:20:11,080 --> 00:20:17,040
+We need to make the fcg better for women. I am taking the rest of the day to process everything
+
+239
+00:20:17,600 --> 00:20:18,640
+Thank you
+
+240
+00:20:18,640 --> 00:20:24,840
+It wasn't all sunshine and rainbows for her though enough people saw through her bullshit that she began to take flack for this obvious
+
+241
+00:20:24,840 --> 00:20:29,880
+Spin job so much so that she eventually backed down Mike has reached out to me with an apology
+
+242
+00:20:29,880 --> 00:20:34,120
+I really hope this makes him aware of others who have come out in hindsight
+
+243
+00:20:34,120 --> 00:20:40,680
+I feel like I should have handled this differently and I apologize for that. I will be deleting my tweets moving forward
+
+244
+00:20:41,080 --> 00:20:44,400
+It was too little too late for Mike's I'm on though in the eyes of the public
+
+245
+00:20:44,400 --> 00:20:45,760
+He went from being an awkward
+
+246
+00:20:45,760 --> 00:20:52,460
+Flirter to a sex pest to a sexual harasser to a sexual assaulter pretty quick as a result of all of this the board of directors
+
+247
+00:20:52,460 --> 00:20:56,440
+At lab zero games formally requested that he resigned from his position
+
+248
+00:20:56,440 --> 00:21:00,080
+However, you have to remember that Simon wasn't just the lead developer at lab zero games
+
+249
+00:21:00,080 --> 00:21:03,440
+He was also the owner of the company in exchange for his resignation
+
+250
+00:21:03,800 --> 00:21:07,680
+Simon made demands of the board that one member Brian June described as
+
+251
+00:21:08,120 --> 00:21:12,800
+Unrealistically high and potentially illegal the board rejected the demands and in response
+
+252
+00:21:13,000 --> 00:21:16,520
+Simon simply executed his power as owner of the company and dissolved the board
+
+253
+00:21:16,600 --> 00:21:21,760
+He gave all employees an ultimatum if you got a problem with it leave the company by August 31st
+
+254
+00:21:22,000 --> 00:21:28,040
+2020 and so they did a bunch of people left lab zero games publishing statements on social media denouncing
+
+255
+00:21:28,240 --> 00:21:35,080
+Simon shortly after all of us autumn games and the skullgirls mobile developer hidden variable studios announced they were severing ties with
+
+256
+00:21:35,240 --> 00:21:36,520
+Simon and lab zero games
+
+257
+00:21:36,520 --> 00:21:42,840
+They also announced that since autumn games still owns the skullgirls IP they intended to simply continue work on
+
+258
+00:21:43,000 --> 00:21:49,800
+Skullgirls with the employees that had left lab zero games and without Simon the employees made a new studio called future club and began working
+
+259
+00:21:49,800 --> 00:21:53,440
+With autumn games to create additional content for skullgirls second encore
+
+260
+00:21:53,720 --> 00:22:00,120
+Simon dissolved lab zero games shortly afterward which put an early end to updates for indivisible which had just been released
+
+261
+00:22:00,160 --> 00:22:03,400
+The Simon continued to be active in professional fighting game scene
+
+262
+00:22:03,400 --> 00:22:05,920
+But he exited the game development industry for a couple of years
+
+263
+00:22:06,080 --> 00:22:12,960
+He resurfaced in the summer of 2023 as an employee of modus games working on diesel legacy the brazen age
+
+264
+00:22:13,120 --> 00:22:15,960
+It's a hand-drawn 2d fighting game like skullgirls
+
+265
+00:22:15,960 --> 00:22:23,100
+But the animations a completely different style from a heads work the CEO of modus games Christina seal stated directly that she chose to hire
+
+266
+00:22:23,120 --> 00:22:27,180
+Simon for the game not solely because of his extensive experience in the industry
+
+267
+00:22:27,180 --> 00:22:31,440
+But because she believes that he's accepted his guilt and is capable of being reformed
+
+268
+00:22:31,480 --> 00:22:36,120
+I am one of the few women that are CEO's and making games in its entire
+
+269
+00:22:36,520 --> 00:22:39,760
+Industry in a couple years since I made that decision to hire Mike
+
+270
+00:22:39,760 --> 00:22:47,680
+I'm one of the two women CEO's that are running publicly listed companies in the whole industry in the world
+
+271
+00:22:47,680 --> 00:22:54,240
+I did not take this decision lightly when I was talking to Mike and went through the process of figuring out where he was
+
+272
+00:22:54,240 --> 00:23:01,120
+At if you want to have an inclusive environment in the world and you want to have diverse viewpoints all of the things we want
+
+273
+00:23:01,720 --> 00:23:03,040
+diversity equity
+
+274
+00:23:03,040 --> 00:23:09,300
+Inclusion you have to have a path for people to learn and improve you have to create a better
+
+275
+00:23:09,400 --> 00:23:14,440
+Way for them to show the world that they've changed and decided to do better
+
+276
+00:23:14,440 --> 00:23:18,840
+and I really got that from Mike I got that he was committed to it and
+
+277
+00:23:19,240 --> 00:23:23,400
+That he didn't want everything that went down to be the end of his story
+
+278
+00:23:23,400 --> 00:23:29,800
+He wanted the opportunity to have the redemptive arc that's in so many stories that we all love man
+
+279
+00:23:29,800 --> 00:23:32,480
+Maybe I've just become too cynical reading communist theory
+
+280
+00:23:32,480 --> 00:23:37,240
+But this really sounds like Ximont's gone through a struggle session and has come out of it re-educated and de-fanged
+
+281
+00:23:37,240 --> 00:23:41,640
+You know what? I mean? He made an edgy joke at the wrong time in a just society
+
+282
+00:23:41,640 --> 00:23:45,160
+That's something that you apologize for and move on from but that's not what happened
+
+283
+00:23:45,240 --> 00:23:51,660
+one George Floyd joke turned into internet outrage which turned into sexual assault allegations because he was a nerd who thought a hot girl was
+
+284
+00:23:51,660 --> 00:23:55,960
+Flirting with him and his DMS were clipped and shipped at the perfect moment during the cancelling
+
+285
+00:23:56,000 --> 00:23:59,160
+He's not innocent but he's also not guilty of the high crimes
+
+286
+00:23:59,160 --> 00:24:03,240
+Everyone thinks that he is and seal here coming out and saying oh, he's reformed now
+
+287
+00:24:03,240 --> 00:24:10,960
+I've got him on my leash just seems very strange part 3 the censorship with both Ximont and a hat out of the picture and
+
+288
+00:24:10,960 --> 00:24:13,600
+Now considered to be problematic elements by the community
+
+289
+00:24:13,600 --> 00:24:17,980
+It was time for the past of skull girls to be scrubbed clean of any impure elements
+
+290
+00:24:17,980 --> 00:24:25,480
+You know despite being a fan service focus game in June of 2023 skull girls second encore was updated to remove any risque elements
+
+291
+00:24:25,520 --> 00:24:33,480
+This includes removing all panty shots or otherwise sexual shots of the various female characters like torn clothing the BDSM inspired stuff
+
+292
+00:24:33,480 --> 00:24:35,480
+That bunny I you complimented is gone, too
+
+293
+00:24:35,600 --> 00:24:40,660
+Removing the Nazi inspired red armbands of the red egrets one of the game's villainous factions
+
+294
+00:24:40,960 --> 00:24:47,240
+Removing artwork from the game's art book that references either the game's sexuality or the red egrets armbands keep in mind
+
+295
+00:24:47,240 --> 00:24:50,360
+This is a digital art book for the Indiegogo backer version of the game
+
+296
+00:24:50,360 --> 00:24:54,180
+If you crowdfunded this game back in the day your art book has been changed
+
+297
+00:24:54,500 --> 00:25:00,540
+Removing the hair comb in Philia's afro animation presumably because it's some sort of black afro stereotype or something
+
+298
+00:25:00,740 --> 00:25:03,980
+Removing the police brutality scene in big bands story mode
+
+299
+00:25:04,260 --> 00:25:10,340
+Removing sexual jokes like barely legal for reaching an 18 hit combo or peacocks opening reference to hentai
+
+300
+00:25:14,380 --> 00:25:18,540
+Removing the Soviet announcer voice pack. I don't think this is because it made fun of communism
+
+301
+00:25:18,540 --> 00:25:21,860
+It's way more likely that it's because Mike Ximont voiced it
+
+302
+00:25:21,900 --> 00:25:25,900
+Oh and just in case you thought you could download old versions of the game to get around this
+
+303
+00:25:26,060 --> 00:25:26,580
+Yeah
+
+304
+00:25:26,580 --> 00:25:28,100
+Those don't exist anymore on
+
+305
+00:25:28,100 --> 00:25:35,940
+Steam and modern consoles second encore over wrote the originals years ago remember and on older consoles where the original skull girls is still
+
+306
+00:25:35,940 --> 00:25:39,340
+The latest version Konami made them impossible to download years ago
+
+307
+00:25:39,340 --> 00:25:42,860
+But if you had them downloaded you could still play them until recently
+
+308
+00:25:42,900 --> 00:25:46,780
+They were quietly finally disabled off your system in this update
+
+309
+00:25:46,780 --> 00:25:50,580
+I even logged into my old Xbox 360 to see for myself and nope
+
+310
+00:25:50,580 --> 00:25:57,220
+Even though the game has been paid for it's gone on my Xbox series X skull girl second encore is available to purchase
+
+311
+00:25:57,220 --> 00:26:01,340
+No problem. However, I still have the original skull girls registered to the account
+
+312
+00:26:01,340 --> 00:26:03,580
+And if I go to that page in my game library
+
+313
+00:26:03,580 --> 00:26:09,060
+It simply says not available right now or ever again Microsoft as expected
+
+314
+00:26:09,060 --> 00:26:11,060
+There was a huge fan backlash
+
+315
+00:26:11,220 --> 00:26:16,860
+Fan service is a core part of skull girls as identity and removing it basically rips out what made skull girls fun
+
+316
+00:26:16,940 --> 00:26:19,940
+Plus a lot of the stuff that was removed were indie go-go goals
+
+317
+00:26:19,940 --> 00:26:22,700
+Like if they reached X amount of dollars in crowdfunding
+
+318
+00:26:22,700 --> 00:26:24,100
+They would add a perk to the game
+
+319
+00:26:24,100 --> 00:26:29,780
+People had met those goals with their own money and now a decade later the content they funded was being axed for political correctness
+
+320
+00:26:30,140 --> 00:26:32,900
+Fans responded by leaving negative reviews on Steam
+
+321
+00:26:33,060 --> 00:26:37,300
+Causing the 10 year old game to dip into the mostly negative rating for the first time in its history
+
+322
+00:26:37,340 --> 00:26:43,500
+Of course the new developers at Future Club sensor the negative reviews and the score has mostly recovered by now and to be fair
+
+323
+00:26:43,500 --> 00:26:48,260
+There were a lot of people who didn't actually play skull girls leaving negative reviews as well
+
+324
+00:26:48,260 --> 00:26:50,260
+And these guys are clearly jumping on a bandwagon
+
+325
+00:26:50,700 --> 00:26:55,580
+However, the general consensus among the public is that while censoring a fan service game is kind of lame
+
+326
+00:26:55,900 --> 00:27:02,340
+Specifically censoring the art book to remove guest art and concept art that is no longer in line with the current vision of the game
+
+327
+00:27:02,340 --> 00:27:05,520
+Is what reveals this whole thing to have an ideological motive?
+
+328
+00:27:05,800 --> 00:27:11,880
+Anybody who's seen an art book for a game before knows that oftentimes the art in the book doesn't make it into the final game
+
+329
+00:27:11,880 --> 00:27:18,480
+It's meant to show off a work in progress to show how the game evolved from the earliest spitballing of ideas to the current release
+
+330
+00:27:19,040 --> 00:27:22,840
+Censoring the art book is quite literally removing the past and pretending it never happened
+
+331
+00:27:23,120 --> 00:27:29,960
+Another tiny tidbit that shows their intent is how after all the censorship went through they began calling their current round of updates
+
+332
+00:27:30,080 --> 00:27:33,560
+Season one like everything done before this moment just didn't happen
+
+333
+00:27:33,560 --> 00:27:40,920
+It's a very creepy year zero type of stuff and then the legendary discord DMS leaked only adding fuel to the fire
+
+334
+00:27:41,000 --> 00:27:46,700
+Let's read them at rocks chobatsu a lot of the original team went on to do their own thing like richer
+
+335
+00:27:46,920 --> 00:27:51,760
+Alex a had left but not before making a big stink about it. Mike's I'm aunt needs no explanation
+
+336
+00:27:51,760 --> 00:27:58,480
+I'm sure but Mariel Earl Brady Brian Chris. They're all still here Miyazaki the red shinobi. Yeah
+
+337
+00:27:58,480 --> 00:28:02,800
+It's still a majority of the OGs and I knew you guys are never comfortable with certain stuff in the game
+
+338
+00:28:03,240 --> 00:28:06,280
+Aatrox lol. I mean I liken it to just housekeeping
+
+339
+00:28:06,760 --> 00:28:08,960
+Miyazaki and to see so many people say no
+
+340
+00:28:08,960 --> 00:28:11,520
+This is what drew me in specifically just makes me pity them so much
+
+341
+00:28:11,960 --> 00:28:14,800
+Aatrox like there's a dirty sock in the corner
+
+342
+00:28:14,800 --> 00:28:18,660
+That's just been there for years and we only just had time to get it out of the way now
+
+343
+00:28:19,280 --> 00:28:24,360
+2011 was such a different time too. Oh boy a current year reference. Here's the context Miyazaki
+
+344
+00:28:24,360 --> 00:28:30,160
+The red shinobi is the person who took this screenshot and released it to the public since the discord DM window is labeled as sending
+
+345
+00:28:30,160 --> 00:28:33,720
+Messages to a trucks unless somebody stole Miyazaki's phone and released it or something
+
+346
+00:28:33,720 --> 00:28:38,300
+We can assume it was him who sent it a quick check online shows that Miyazaki has been a longtime
+
+347
+00:28:38,600 --> 00:28:45,640
+Skullgirls fan having been part of the skullgirls fan website skull heart calm ever since the game launched and posting on the skullgirls
+
+348
+00:28:45,640 --> 00:28:52,640
+Discord as far back as 2015 his pics of account also has a bunch of skullgirls lewd fan art favorited either
+
+349
+00:28:52,760 --> 00:28:59,120
+He genuinely agrees with the current skullgirl censorship as he originally wrote in the DM making him kind of hypocritical or he struck up
+
+350
+00:28:59,120 --> 00:29:03,440
+This conversation with one of the developers with the express purpose of making them put their foot in their mouths
+
+351
+00:29:03,440 --> 00:29:09,160
+I tend to believe it's the latter because this conversation does not make the developers look good and he chose to release it plus
+
+352
+00:29:09,160 --> 00:29:13,840
+I'm currently in the skullgirls discord myself and checking out his profile on old messages
+
+353
+00:29:13,840 --> 00:29:18,300
+It seems like he's been kicked from the server. It sounds like he was our guy getting us some info
+
+354
+00:29:18,400 --> 00:29:22,360
+Also, just real quick during my perusal of the skullgirls discord public channels
+
+355
+00:29:22,400 --> 00:29:29,000
+It seems like they purged not only trolls and shit stirrers, but genuine fans who expressed discontentment at the changes
+
+356
+00:29:29,440 --> 00:29:33,480
+Atrox Chobatsu is one of the current artists working for Future Club on skullgirls
+
+357
+00:29:33,480 --> 00:29:38,460
+And as far as I can tell he was not a part of the original team back during the Reverge lab days
+
+358
+00:29:38,680 --> 00:29:41,820
+He's very lefty hailing from Portland. We all know what that place already
+
+359
+00:29:41,920 --> 00:29:46,760
+He's also the guy who hosts the skullgirls animation streams on Twitch. I watched a bit of them
+
+360
+00:29:46,760 --> 00:29:49,600
+There's nothing really going on there. In fact, he generally doesn't talk
+
+361
+00:29:49,640 --> 00:29:53,200
+He actually just types in the chat in between drawing or whatever
+
+362
+00:29:53,240 --> 00:29:57,720
+He hasn't publicly said anything directly with the controversy but two days after it broke
+
+363
+00:29:57,720 --> 00:29:59,080
+He posted this on Twitter
+
+364
+00:29:59,080 --> 00:30:04,880
+Is it considered censorship if I wanted to remove my tattoo of Yuji Naka's face from my left armpit?
+
+365
+00:30:04,880 --> 00:30:09,720
+I don't know. I'm just not feeling the same reverence I had for the man 20 years ago. It was a different time
+
+366
+00:30:09,720 --> 00:30:12,520
+I was younger and stupider, but not by much in my opinion
+
+367
+00:30:12,520 --> 00:30:15,920
+This is a tongue-in-cheek jab at people who were crying censorship over skullgirls
+
+368
+00:30:15,960 --> 00:30:21,900
+His positions clear the current legal owners of the skullgirls property who are not the original duo who conceived of it anymore
+
+369
+00:30:21,920 --> 00:30:25,240
+Don't like some parts of the game and they want to update it which yes
+
+370
+00:30:25,240 --> 00:30:31,160
+They have the legal right to do but that also means pissing off everyone who doesn't agree with their new vision and those people
+
+371
+00:30:31,160 --> 00:30:34,400
+They're not likely to keep supporting you the DMS show that at least
+
+372
+00:30:34,400 --> 00:30:40,440
+Atrox believes rewriting the past and updating it to fit modern progressive sensibilities is a good thing as he seems like the type to
+
+373
+00:30:40,440 --> 00:30:42,440
+Develop some variant of trolls remorse
+
+374
+00:30:42,560 --> 00:30:46,000
+He used to make kind of edgy stuff back on Newgrounds and in one of his old
+
+375
+00:30:46,160 --> 00:30:52,280
+Animations from 2012 it cuts away to some real-life pictures of somebody that I assumed to be him since he does talk about himself as being
+
+376
+00:30:52,280 --> 00:30:53,480
+the artist of the animation
+
+377
+00:30:53,480 --> 00:30:59,440
+He looks like a pretty normal internet nerd from that era and most Millennials cut from this cloth suffer from trolls remorse today
+
+378
+00:30:59,440 --> 00:31:02,560
+For example, despite his current very progressive sensibilities
+
+379
+00:31:02,560 --> 00:31:08,520
+His personal YouTube channel has a video from 2009 where he's goofing around with his friends and one of them says faggot
+
+380
+00:31:12,440 --> 00:31:14,440
+You're not the father
+
+381
+00:31:29,000 --> 00:31:32,400
+The worst words are ones that are not spoken, okay
+
+382
+00:31:33,920 --> 00:31:39,580
+I'm not pointing this out to cancel him even though an edgy joke is literally what got the cancel ball rolling on Mike Simon
+
+383
+00:31:39,580 --> 00:31:45,060
+I'm only pointing out that just like the tattoo allegory implies. This is clearly not something that he'd do nowadays
+
+384
+00:31:45,060 --> 00:31:50,960
+Oh, also, he's out here talking about how problematic skullgirls is while drawing lewd furry artwork
+
+385
+00:31:50,960 --> 00:31:51,860
+Good job, dude
+
+386
+00:31:51,860 --> 00:31:58,540
+with all of this being understood the current public narrative regarding skullgirls is that the two original creators a hat and
+
+387
+00:31:58,660 --> 00:32:01,420
+Zymont were slowly weaseled out of their successful
+
+388
+00:32:01,600 --> 00:32:05,820
+profitable IP their life's work their dream and the current owners being
+
+389
+00:32:05,940 --> 00:32:12,080
+Progressives with no respect for the property its history the original creators vision or frankly what the fans want are now
+
+390
+00:32:12,380 --> 00:32:18,020
+Repurposing skullgirls to suit their needs updating it for modern standards by removing what people love from the game
+
+391
+00:32:18,020 --> 00:32:24,540
+I understand why that's the public narrative considering how often this sort of thing happens nowadays and how it looks from the outside
+
+392
+00:32:24,540 --> 00:32:28,860
+But it's also not completely accurate. There is more going on here
+
+393
+00:32:28,860 --> 00:32:30,340
+But in order to understand it
+
+394
+00:32:30,340 --> 00:32:35,500
+We're gonna have to dive into a topic that has until very recently largely flown under the radar
+
+395
+00:32:35,900 --> 00:32:43,340
+Part four the lawsuit while the initial idea for the skullgirls universe might have come from Alex a hat and the game engine from Mike
+
+396
+00:32:43,340 --> 00:32:47,060
+Zymont they aren't the only people who have been attached to the project since the very beginning
+
+397
+00:32:47,540 --> 00:32:54,500
+Marielle Cartwright one of the original animators who was on the skullgirls project from day one of it hitting reverb labs is just as
+
+398
+00:32:54,580 --> 00:32:59,860
+Crucial to the development of the game as the two boys are and she is the central focus of the skullgirls lawsuit
+
+399
+00:33:00,140 --> 00:33:03,980
+After lab zero games collapsed and Mike Z laid off all remaining staff
+
+400
+00:33:04,140 --> 00:33:08,300
+Marielle Cartwright got together with the company's financial officer and producer for indivisible
+
+401
+00:33:08,460 --> 00:33:10,860
+Francesca Esquenazi and in early 2021
+
+402
+00:33:10,860 --> 00:33:17,540
+They fired off a lawsuit against lab zero games and Mike Z for wrongful termination on April 1st, 2021
+
+403
+00:33:17,540 --> 00:33:19,060
+I bet they thought it was an April Fool's joke
+
+404
+00:33:19,060 --> 00:33:23,580
+Mike filed a countersuit with Superior Court of the state of California against Marielle and
+
+405
+00:33:23,620 --> 00:33:29,300
+Francesca and against the company that all the lab zero games former employees had founded to continue the skullgirls work
+
+406
+00:33:29,460 --> 00:33:31,460
+Future Club the court document is
+
+407
+00:33:31,980 --> 00:33:34,700
+207 pages long and linked in the description if you want to read it for yourself
+
+408
+00:33:35,060 --> 00:33:42,980
+The claims Mike makes within the documents are backed up with dozens upon dozens of pages filled with internal chat logs at lab zero games
+
+409
+00:33:43,120 --> 00:33:48,060
+Private messages between Mike Marielle and Francesca and public communications that provide additional context
+
+410
+00:33:48,100 --> 00:33:52,820
+So let's dive in the court docs begin with describing skullgirls and lab zero games
+
+411
+00:33:52,820 --> 00:33:55,260
+Which we already know about as well as what a slack channel is
+
+412
+00:33:55,460 --> 00:34:02,100
+Presumably because the American court system is full of boomers and then we get to the third section titled my history of autism spectrum disorder
+
+413
+00:34:02,220 --> 00:34:07,700
+Mike described what he had known all of his life as Mike being Mike an inability to understand social boundaries
+
+414
+00:34:07,900 --> 00:34:11,140
+Maintain friendships and just generally deal with people properly
+
+415
+00:34:11,140 --> 00:34:16,660
+He confided in Marielle and Francesca whom he described as his close friends and with their encouragement
+
+416
+00:34:16,660 --> 00:34:21,180
+He eventually went to a therapist and got an autism diagnosis in the next section
+
+417
+00:34:21,180 --> 00:34:25,940
+He describes his friendship with Marielle Cartwright in 2010 Marielle was brought on to Reverge labs
+
+418
+00:34:26,300 --> 00:34:31,500
+Specifically to work as an animator for skullgirls under Alex a had who was I think the creative director
+
+419
+00:34:31,500 --> 00:34:33,980
+She would become the lead animator in 2012
+
+420
+00:34:34,100 --> 00:34:40,820
+Mike and Marielle became close friends talking and going on walks frequently in Marielle's public statement when she left lab zero games
+
+421
+00:34:40,820 --> 00:34:46,140
+She claimed that Mike harassed her at work. There was years of sexual comments uncomfortable jokes unwanted hugs
+
+422
+00:34:46,180 --> 00:34:53,060
+He apparently suggested she helped him masturbate she claimed to talk to him about how uncomfortable she felt in 2017 and in return
+
+423
+00:34:53,060 --> 00:34:54,380
+He called her a hypocrite
+
+424
+00:34:54,380 --> 00:35:01,060
+Marielle says that this hypocrisy stemmed from how she dressed in public implying that Mike believed her way of dressing allowed him to sexually
+
+425
+00:35:01,060 --> 00:35:04,860
+Harass her. However, this isn't the whole story in the court documents
+
+426
+00:35:04,860 --> 00:35:07,940
+Mike provides tons of slack logs showing on-the-job
+
+427
+00:35:08,420 --> 00:35:16,100
+Conversations as well as Marielle's private messages to him directly where she regularly engaged in conversations with him about sex sexual orientation
+
+428
+00:35:16,340 --> 00:35:17,940
+urination pornography
+
+429
+00:35:17,940 --> 00:35:23,700
+prostitution threesomes plastic surgery body image issues and on and on she began these
+
+430
+00:35:23,980 --> 00:35:31,100
+Conversations herself and expected him to participate her behavior led Mike to believe that this type of talk was welcome and ordinary in the course
+
+431
+00:35:31,100 --> 00:35:37,700
+Of their friendship. She also regularly engaged in this type of talk with other co-workers and drew pornographic artwork while on the clock
+
+432
+00:35:37,700 --> 00:35:44,040
+Which she displayed in the office at least that's how Mike characterized these chat logs in the court documents
+
+433
+00:35:44,040 --> 00:35:48,600
+And you know being somebody who's around their age. I'm a millennial. They're Millennials. We're all in our 30s
+
+434
+00:35:48,600 --> 00:35:55,400
+This is how people of my age group talk when they're friends and not just you know casual work
+
+435
+00:35:55,720 --> 00:36:03,080
+Acquaintances all of these logs read to me like they were actually genuine friends and that whatever banter they have going on is
+
+436
+00:36:03,400 --> 00:36:08,560
+Clearly welcome and also a two-way street. Also. I'm not getting Naomi to do the voice for this one
+
+437
+00:36:08,560 --> 00:36:11,500
+I don't think she wants to do a stereotypical Asian accent
+
+438
+00:36:14,040 --> 00:36:16,040
+I
+
+439
+00:36:16,200 --> 00:36:21,160
+Francesca Esquenazi had a similar friendship with Mike. He met her while she was working at a GameStop in
+
+440
+00:36:21,600 --> 00:36:24,800
+2005 before either of them had begun their professional careers in
+
+441
+00:36:25,680 --> 00:36:29,060
+2007 while Mike was working as a programmer at pandemic studios
+
+442
+00:36:29,060 --> 00:36:32,120
+He was able to get her a job as a receptionist this began
+
+443
+00:36:32,240 --> 00:36:35,720
+Francesca's career working in the paper-pushing side of the games industry in
+
+444
+00:36:36,320 --> 00:36:39,160
+2016 he brought her into the skullgirls project as a producer
+
+445
+00:36:39,360 --> 00:36:46,320
+Mike and Francesca's friendship was similar to Mike and Mariel's with lewd or inappropriate topics of conversation being a part of the normal course
+
+446
+00:36:46,320 --> 00:36:52,620
+Of their interactions and again, it wasn't one-sided. They both began these conversations and expected the other to participate
+
+447
+00:36:52,720 --> 00:36:58,240
+They had been friends for 15 years and Mike describes several personal events that he helped her through weddings
+
+448
+00:36:58,680 --> 00:37:04,360
+Tragedies Mike helped Francesca come to terms with the death of her child the subsequent gender transition of her husband
+
+449
+00:37:04,360 --> 00:37:08,080
+How her marriage and sex life were affected how menstruation made her feel inadequate?
+
+450
+00:37:08,520 --> 00:37:11,840
+Mike took up a role of stability in Francesca's personal life
+
+451
+00:37:12,280 --> 00:37:16,780
+Next up in the court documents is Mike describing in detail the bunny a you canceling event
+
+452
+00:37:16,780 --> 00:37:21,000
+You know, it makes sense that they be in the court docs because it is one of the big events that led to the destruction of
+
+453
+00:37:21,000 --> 00:37:21,720
+lab zero games
+
+454
+00:37:21,720 --> 00:37:28,220
+But it's still kind of surreal to see internet shit in a court filing Mike confirms that his conversation with bunny a you happened on May
+
+455
+00:37:28,240 --> 00:37:35,120
+13th 2020 when bunny released her version of these DMS after the George Floyd joke in late June of 2020
+
+456
+00:37:35,160 --> 00:37:38,480
+They showed that she took the screen caps when the DMS were one day old
+
+457
+00:37:38,600 --> 00:37:46,140
+This means that bunny deliberately sat on these DMS until she could release that the most opportune moment for maximum damage to Mike
+
+458
+00:37:46,240 --> 00:37:52,920
+He also revealed that bunny privately apologized to him something that was left out of the original version of events on June 29th
+
+459
+00:37:52,920 --> 00:37:56,160
+Mike expressed his frustrations to Mariel over the situation
+
+460
+00:37:56,320 --> 00:38:02,980
+Highlighting the obvious double standard when bunny a you makes the conversation about sexuality and skull girls and her own sexually charged career
+
+461
+00:38:03,500 --> 00:38:09,580
+But when Mike engages with the conversation on that level bunny frames it as if he would never talk to a man in the fighting
+
+462
+00:38:09,580 --> 00:38:16,340
+Game community like this in response Mariel said directly to Mike that all men have to deal with the result of what shitty men have
+
+463
+00:38:16,340 --> 00:38:20,980
+Done but also that she didn't want him to quit lab zero games and that if she had the power to fire him
+
+464
+00:38:20,980 --> 00:38:26,340
+She wouldn't over this the conversations tone seems to imply that Mariel knows Mike is innocent
+
+465
+00:38:26,340 --> 00:38:32,140
+But also that her progressive politics apply a collective male guilt to him that she isn't directly pushing but that he is
+
+466
+00:38:32,260 --> 00:38:34,620
+Rejecting and she is uncomfortable with that rejection
+
+467
+00:38:35,140 --> 00:38:38,920
+Meanwhile in a conversation between Francesca and Mariel where Mike isn't present
+
+468
+00:38:39,040 --> 00:38:45,520
+Francesca directly says that she thinks a bunny a you baited Mike that bunny started the conversation weird that she didn't believe that Mike meant
+
+469
+00:38:45,520 --> 00:38:49,980
+To demean bunny and that bunny deliberately cut out Mike's apology in order to paint him a certain way
+
+470
+00:38:50,360 --> 00:38:54,620
+Mariel agreed with Francesca's assessment in the public lab zero slack channel
+
+471
+00:38:54,620 --> 00:39:00,400
+They reiterated this position saying that Mike was innocent at the same time in a previous slack channel for women only Mariel
+
+472
+00:39:00,680 --> 00:39:06,520
+Francesca and several female employees outline that they've all had experiences with Mike where he's been inappropriate
+
+473
+00:39:06,520 --> 00:39:11,000
+But also that they all know he doesn't do it purposefully. He's been apologetic every time it's happened
+
+474
+00:39:11,000 --> 00:39:13,440
+He's worked to make up for it and he genuinely tries to be better
+
+475
+00:39:13,440 --> 00:39:17,240
+But also that his autism makes it hard for him one employee asks
+
+476
+00:39:17,240 --> 00:39:20,640
+How many fires are we going to have to put out and that if it wasn't for his autism?
+
+477
+00:39:20,640 --> 00:39:22,640
+This would be a lot more cut and dry
+
+478
+00:39:22,680 --> 00:39:27,440
+This is where the scheme to take control of lab zero games began with Mariel and Francesca
+
+479
+00:39:27,600 --> 00:39:33,520
+Understanding full well that Mike was doing his best with them openly admitting that they truly believed he was but nonetheless
+
+480
+00:39:33,800 --> 00:39:39,480
+Reluctantly deciding that it was time to take control from him. Well, it was reluctant initially by the end of June 29th
+
+481
+00:39:39,480 --> 00:39:44,560
+They were privately messaging each other discussing removing Mike from his leadership position on June 30th
+
+482
+00:39:44,780 --> 00:39:51,760
+Francesca and Mariel scheduled two team meetings one with Mike present and one without they were scheduled in the company's Google Calendar
+
+483
+00:39:51,760 --> 00:39:54,420
+We only have Mike's word as to what happened at the one meeting
+
+484
+00:39:54,900 --> 00:39:59,140
+He claims that the two women encouraged all of the employees to bash him to his face
+
+485
+00:39:59,260 --> 00:40:03,980
+He admits to crying during the meeting and being forced to explain his autism to the entire company
+
+486
+00:40:03,980 --> 00:40:06,660
+The woman then ended the meeting by claiming it was a waste of time
+
+487
+00:40:06,740 --> 00:40:10,780
+It was at this point that Mike believes Francesca and Mariel had a change of heart
+
+488
+00:40:10,780 --> 00:40:11,920
+They were no longer
+
+489
+00:40:11,920 --> 00:40:17,500
+Understanding about his autism or his good faith efforts to fix things they no longer care that he was innocent with regards to bunny
+
+490
+00:40:17,500 --> 00:40:24,280
+Are you and they were beginning to retroactively redefine all of their past interactions as harassment an hour after the meeting Mariel
+
+491
+00:40:24,280 --> 00:40:30,560
+Formed a new slack channel called Z Z Z where everyone but Mike was present with the express purpose of planning to undermine
+
+492
+00:40:30,560 --> 00:40:35,800
+Mike's ownership of lab zero games one of their plans involved removing Mike from a leadership and
+
+493
+00:40:36,000 --> 00:40:38,760
+Ownership position and allowing him to stay on as a contractor
+
+494
+00:40:39,140 --> 00:40:44,040
+Francesca pitched the idea of the entire team up and leaving seeing as they still had connections and options
+
+495
+00:40:44,440 --> 00:40:50,320
+Mariel says that she still considers Mike a friend but that he's destroying the team and he has to go they discussed the peril of
+
+496
+00:40:50,320 --> 00:40:54,840
+Having to explain to the publisher of the next game focus all of this internal turmoil and how it will affect
+
+497
+00:40:55,040 --> 00:41:01,600
+Focuses support and funding of lab zero games and then Mariel says this I oh no, this is manipulative
+
+498
+00:41:01,600 --> 00:41:04,400
+I wonder if it would go over better if Mike stepped down on his own
+
+499
+00:41:04,400 --> 00:41:09,280
+It will look bad to focus if Franny and I asked Mike to leave but if Mike steps down it would be better
+
+500
+00:41:09,320 --> 00:41:15,220
+This was the beginning of Mariel's plot to manipulate Mike to voluntarily step down from his own company by intentionally
+
+501
+00:41:15,360 --> 00:41:19,840
+Misrepresenting the situation to focus as she was afraid of them pulling funding for lab zeros next game
+
+502
+00:41:20,000 --> 00:41:25,600
+Part of this plot involved absolutely nothing of this going public as Mariel directly stated. Yes. It looks bad
+
+503
+00:41:25,600 --> 00:41:28,320
+But if we make a public statement that makes us look slightly better
+
+504
+00:41:28,320 --> 00:41:30,480
+But then lose all of our jobs and close the company
+
+505
+00:41:30,480 --> 00:41:32,680
+What good will that have done by the end of the day?
+
+506
+00:41:32,800 --> 00:41:37,320
+Francesca had drafted an email to focus as the launching of their plan and Mariel approved of it
+
+507
+00:41:37,320 --> 00:41:42,000
+They intended to manipulate Mike into stepping down by misrepresenting their upcoming meeting with focus
+
+508
+00:41:42,280 --> 00:41:46,920
+Specifically the two told Mike that unless he was gone focus was pulling out in a future meeting
+
+509
+00:41:47,080 --> 00:41:49,560
+Representatives from focus directly denied this to Mike's face
+
+510
+00:41:49,560 --> 00:41:57,480
+In fact, Francesca later admitted that what they had said regarding focus and Mike was not true while she characterized it as a misunderstanding
+
+511
+00:41:57,880 --> 00:42:00,640
+This statement reads like she got caught and she knows it
+
+512
+00:42:00,840 --> 00:42:07,480
+Mariel had concocted the whole story that focus was pulling out if Mike wasn't gone under the belief that focus would continue to work with
+
+513
+00:42:07,480 --> 00:42:11,680
+Them if they managed to get rid of Mike themselves the next day July 1st
+
+514
+00:42:11,800 --> 00:42:17,240
+2020 the group was discussing forming a new company without Mike still using lab zeros official slack
+
+515
+00:42:17,360 --> 00:42:23,760
+They explicitly stated they intended to take over all of lab zeros contracts with Mariel and Francesca at the helm of a new company
+
+516
+00:42:23,800 --> 00:42:27,320
+Without any of the baggage of lab zero games and none of its debt
+
+517
+00:42:27,560 --> 00:42:33,060
+They were aware that this meant leaving Mike with the responsibility of paying focus back all of the money
+
+518
+00:42:33,060 --> 00:42:38,280
+They provided to fund the next game along with other business debts totaling around one and a half million dollars
+
+519
+00:42:38,280 --> 00:42:43,060
+They initially didn't seem thrilled at the idea of leaving Mike with all the lab zero debt
+
+520
+00:42:43,060 --> 00:42:49,280
+But as the summer dragged on they warmed up to the idea with Mariel at one point threatening to use the debt as a weapon
+
+521
+00:42:49,280 --> 00:42:56,300
+Against him. It's at this point that as their plans began to develop Mariel and Francesca began to harden against Mike's autism reasoning
+
+522
+00:42:56,300 --> 00:42:59,880
+Which they had accepted just a few days prior on July 4th 2020
+
+523
+00:42:59,880 --> 00:43:04,520
+Mariel said I don't buy as excuse of a checklist and never trying to hurt anyone to do anything bad anymore
+
+524
+00:43:04,520 --> 00:43:10,320
+And I don't accept autism as an excuse anymore while Francesca said that though she doesn't think Mike is a monster
+
+525
+00:43:10,320 --> 00:43:12,760
+She also doesn't feel like she can believe anything
+
+526
+00:43:12,760 --> 00:43:19,720
+he says anymore as an explanation even though Mariel and Francesca had previously stated that they knew Mike didn't harass anybody and
+
+527
+00:43:19,920 --> 00:43:22,000
+Falsely accusing him of harassment would ruin his life
+
+528
+00:43:22,000 --> 00:43:28,560
+They had decided to maliciously characterize his conduct as harassment in order to drum up public support for their new company
+
+529
+00:43:28,560 --> 00:43:33,480
+But specifically in a way that protects them Mariel said we can't acknowledge any lack of knowledge
+
+530
+00:43:33,840 --> 00:43:39,000
+Enabling or wrongdoing because that validates Max's claims and allows him to come after us
+
+531
+00:43:39,000 --> 00:43:44,800
+The other ones also open us up to Mike coming after us for defamation. The defamation thing is obvious
+
+532
+00:43:44,800 --> 00:43:46,160
+But who is this max guy?
+
+533
+00:43:46,160 --> 00:43:52,260
+The only person named max who once worked at lab zero games is apparently a person named max gone
+
+534
+00:43:52,260 --> 00:43:57,800
+At least that's his profile over at art station calm under the screen named B's all aka our friend. Mr
+
+535
+00:43:57,800 --> 00:44:00,780
+Beezwell from earlier the Latino who accused Mike of violent threats
+
+536
+00:44:00,780 --> 00:44:04,960
+But never actually provide any proof of them in his long thread full of bullshit nonsense
+
+537
+00:44:04,960 --> 00:44:10,100
+He actually blames Mariel and Francesca for enabling and supporting Mike's mistreatment
+
+538
+00:44:10,220 --> 00:44:13,160
+This meant that Mariel and Francesca had a tight line to walk
+
+539
+00:44:13,240 --> 00:44:16,520
+They needed to make the claim that Mike was actually the harasser
+
+540
+00:44:16,520 --> 00:44:23,720
+They previously said that he wasn't while at the same time at not giving any ammo to mr. Beezwell that frames them as harassers themselves
+
+541
+00:44:24,040 --> 00:44:26,680
+Bitches be calculating by July 16th
+
+542
+00:44:26,880 --> 00:44:33,720
+Mariel began characterizing Mike as the aggressor and reframing all of their past actions within an abuser victim dynamic
+
+543
+00:44:33,860 --> 00:44:40,440
+By August 6th Mariel seemed to simply view Mike as an enemy saying I don't even want to like get him back or ruin of
+
+544
+00:44:40,440 --> 00:44:46,600
+Her anything just leave please just leave forever the plan for everybody to abandon lab zero games was underway
+
+545
+00:44:46,880 --> 00:44:53,800
+Employees were waiting for a specific time that time came and on August 24th 2020 the implosion of lab zero games was underway
+
+546
+00:44:54,200 --> 00:44:57,140
+Employees announced the resignation in unison including Mariel
+
+547
+00:44:57,640 --> 00:45:04,220
+Francesca due to her access to the company's financial information knew that quitting at this specific time would maximize damage to the company
+
+548
+00:45:04,220 --> 00:45:10,320
+It was just before payroll was going out for the next month and the conspirators had managed to convince focus not to pay them their
+
+549
+00:45:10,320 --> 00:45:17,160
+Next reimbursement with no money coming in and no staff to perform any work lab zero games was forced to shutter its doors and lay
+
+550
+00:45:17,160 --> 00:45:24,020
+Off any remaining employees including Francesca by September 6th 2020 Kim McCaskill a woman who works in the games
+
+551
+00:45:24,040 --> 00:45:28,880
+Industry and who is well known for her strong public stance against the sexual harassment of women in game development
+
+552
+00:45:29,440 --> 00:45:34,760
+Privately spoke to all parties involved and discovered that none of them even mentioned harassment at Simon's hands at all
+
+553
+00:45:34,760 --> 00:45:37,600
+In fact the whole thing appeared like they were using the sexual
+
+554
+00:45:37,640 --> 00:45:45,000
+Harassment claim to drag Simon through the mud in retaliation for him not following through on making lab zero games a worker cooperative
+
+555
+00:45:45,520 --> 00:45:47,120
+Apparently due to the negative experience
+
+556
+00:45:47,120 --> 00:45:53,880
+everybody had working at Reverge labs the long term plan for lab zero games after Mike Z took over was that he would turn it
+
+557
+00:45:53,880 --> 00:45:58,420
+Into a worker cooperative a business model where all workers have an equal share of company ownership
+
+558
+00:45:58,840 --> 00:46:01,760
+However, there were two reasons as to why this wasn't possible
+
+559
+00:46:02,600 --> 00:46:09,580
+Firstly it turns out that lab zeros corporate lawyer went over the options with Mike Mariel and Francesca and told them that giving the employees
+
+560
+00:46:09,580 --> 00:46:15,440
+A bunch of stock in the company in order to make it into a worker co-op would massively raise those employees taxes
+
+561
+00:46:15,440 --> 00:46:16,600
+Which does make sense?
+
+562
+00:46:16,600 --> 00:46:22,520
+They now have a lot more net worth being part owners of a successful company the employees didn't want to pay more taxes
+
+563
+00:46:22,520 --> 00:46:28,200
+Obviously, but Mariel and Francesca interpreted this event as proof that Mike was refusing to fulfill his promise to the team
+
+564
+00:46:28,440 --> 00:46:34,760
+However back on June 29th Mariel admitted outright she understood the reason the company was in a co-op wasn't Mike's fault
+
+565
+00:46:34,760 --> 00:46:37,880
+He was more than willing. It was a legal problem on June 30th
+
+566
+00:46:37,880 --> 00:46:43,720
+She said that the team should only buy up shares of lab zero games and turn it into a worker co-op that way if Mike
+
+567
+00:46:43,720 --> 00:46:48,480
+Were gone on July 2nd at Mariel no longer trust him with the shares on July 27th
+
+568
+00:46:48,480 --> 00:46:53,880
+Mariel says that no one's paying Mike anything for his shares of the company the implication being that they just want it for free
+
+569
+00:46:54,120 --> 00:46:56,000
+Something that was legally difficult
+
+570
+00:46:56,000 --> 00:46:59,720
+Secondly all of the new co-owners would be on the hook for lab zeros debt
+
+571
+00:47:00,040 --> 00:47:06,200
+Mariel broke down the details of the 1.5 million dollar business debt in one of the chat logs focus is owed
+
+572
+00:47:07,360 --> 00:47:10,440
+$775,000 that is their publishers investment into their next game
+
+573
+00:47:10,440 --> 00:47:14,440
+Which they expect game sales to recoup if the game doesn't come out they're on the hook for the money
+
+574
+00:47:14,960 --> 00:47:20,440
+Arsenal is owed $100,000. That's the company's agent Brandon is owed $40,000
+
+575
+00:47:20,440 --> 00:47:24,240
+That's the company's lawyer seems like they had some bills that needed paying Alex is owed
+
+576
+00:47:24,640 --> 00:47:29,160
+$50,000 that's Alex a had settlement that was mentioned earlier and Peter is owed
+
+577
+00:47:30,200 --> 00:47:38,320
+$450,000 who's Peter a PlayStation blog post about skullgirls was credited to Peter Bartholow the CEO of lab zero games a
+
+578
+00:47:38,400 --> 00:47:44,680
+quick internet search reveals that Peter Bartholow began his career as a games journalist writing about video games in newspapers back in
+
+579
+00:47:45,000 --> 00:47:48,000
+1994 through industry connections he made in journalism
+
+580
+00:47:48,120 --> 00:47:51,000
+He landed a job with origin systems working on Ultima games
+
+581
+00:47:51,240 --> 00:47:56,840
+This began his game development career, and he worked at multiple studios before ending up with Reverge labs in 2010
+
+582
+00:47:56,960 --> 00:48:00,880
+He was one of the people who made the move from Reverge labs to lab zero games
+
+583
+00:48:01,120 --> 00:48:07,280
+Peter being the only member of Reverge labs with any business experience and having any capital became the company's sole owner
+
+584
+00:48:07,720 --> 00:48:13,880
+According to Mike's court documents an unnamed CEO and sole shareholder of lab zero games left the company in
+
+585
+00:48:14,000 --> 00:48:19,160
+2018 upon which Mike became the new owner this had to have been Peter the timeline matches up
+
+586
+00:48:19,200 --> 00:48:21,200
+So why was Peter Bartholow owed?
+
+587
+00:48:22,000 --> 00:48:27,820
+$450,000 was it compensation for his initial seed capital was it a settlement like Alex a had well at one point
+
+588
+00:48:28,120 --> 00:48:31,640
+Francesca mentions offhandedly when I was getting really sick of all the Peter crap
+
+589
+00:48:31,640 --> 00:48:35,260
+I mentioned I might want to leave and start my own thing the company lawyer
+
+590
+00:48:35,320 --> 00:48:40,480
+Meanwhile in an email mentions what he calls the Peter buyout. This is just speculation on my part
+
+591
+00:48:40,480 --> 00:48:41,260
+We don't have the whole story
+
+592
+00:48:41,260 --> 00:48:45,520
+But it sounds like the team ended up disliking Peter and at some point in 2018
+
+593
+00:48:45,520 --> 00:48:50,040
+Bought his share of the company in order to be rid of him which the company still owed debt on
+
+594
+00:48:50,480 --> 00:48:55,520
+Also, it's possible that Alex left around the same time as Peter. Yeah, I'm jumping ahead in the story
+
+595
+00:48:55,520 --> 00:48:58,280
+There's circumstantial evidence that kind of proves this later in the video
+
+596
+00:48:58,280 --> 00:49:04,600
+Which is interesting because it implies a pattern of people at the bottom of lab zero games purposely pushing out the people at the top
+
+597
+00:49:05,000 --> 00:49:11,400
+Marielle even admits as much on July 1st. I don't think I feel comfortable staying at lab zero if Mike is gone
+
+598
+00:49:11,520 --> 00:49:13,280
+That's not in defense of Mike
+
+599
+00:49:13,280 --> 00:49:19,320
+But rather what it means for what the studio has become and how that impacts us who remain lab zero has so much baggage
+
+600
+00:49:19,640 --> 00:49:26,200
+We've rightfully hosted all the people we need to but what remains is not the company that was founded initially and we're left with all
+
+601
+00:49:26,200 --> 00:49:33,160
+the stories the hurt the literal lawsuits and settlements and hundreds of thousands of dollars owed to people and on a personal note Tyson
+
+602
+00:49:33,240 --> 00:49:39,440
+Expressed he was nervous for how all this makes me and Franny look as people who weren't at the top that kicked all key members
+
+603
+00:49:39,440 --> 00:49:44,520
+Out and now lead the company. It's entirely possible that Peter left due to workplace disputes
+
+604
+00:49:44,800 --> 00:49:50,560
+Alex left due to workplace disputes Mike was being pushed out due to workplace disputes while Marielle and
+
+605
+00:49:50,720 --> 00:49:58,000
+Francesca both served to benefit from all the original core players moving on while also being at least part of the reason why they
+
+606
+00:49:58,000 --> 00:50:00,720
+Moved on but that's just my personal conjecture
+
+607
+00:50:01,240 --> 00:50:04,240
+Finally on September 23rd one of the employees that left
+
+608
+00:50:04,400 --> 00:50:08,540
+DM to Mike directly on discord and said that it was actually all about
+
+609
+00:50:08,600 --> 00:50:13,140
+Ownership of company in the end that everyone else was tired of waiting for equity distribution
+
+610
+00:50:13,160 --> 00:50:20,060
+During the public collapse of lab zero games one of the former employees Brian June had been answering questions on Twitter
+
+611
+00:50:20,060 --> 00:50:23,160
+That's where we got the information about Alex's settlement. For example
+
+612
+00:50:23,160 --> 00:50:29,180
+He also said however that Mike was never intended to be the owner of lab zero games after Peter had been bought out
+
+613
+00:50:29,660 --> 00:50:32,420
+Ownership was transferred to him temporarily for legal safety
+
+614
+00:50:32,420 --> 00:50:38,000
+But everyone had agreed to eventually turn the business into a worker co-op and Mike seemed to be trying to do just that
+
+615
+00:50:38,300 --> 00:50:43,180
+The roadblocks appear to be legal not personal but everybody blamed him and retaliated against him
+
+616
+00:50:43,180 --> 00:50:49,100
+Anyway, when he finally wielded the legal power of ownership that he held against the employees trying to dethrone him
+
+617
+00:50:49,100 --> 00:50:52,800
+They took it as a sign that Mike was never going to play ball and was just stringing them along
+
+618
+00:50:52,900 --> 00:50:58,300
+but Mike wielded that power because he believed he was being set up as a fall guy for all the problems a
+
+619
+00:50:58,300 --> 00:51:03,220
+Belief that the slack messages seemed to corroborate. So since we're pretty deep into the weeds here
+
+620
+00:51:03,220 --> 00:51:06,060
+Let me give you a quick recap of what we discovered from the court documents
+
+621
+00:51:06,260 --> 00:51:11,760
+Reverge labs collapses like a decade ago the core team reforms as lab zero games with Peter as CEO
+
+622
+00:51:12,060 --> 00:51:20,240
+Alex Mike Mariel and anyone else important to skullgirls comes along for the ride over the years a Peter and Alex both leave under weird
+
+623
+00:51:20,580 --> 00:51:25,540
+circumstances what we do know is that the company owes them money and Mariel states that her and
+
+624
+00:51:25,660 --> 00:51:30,420
+Francesca removing them and moving into more of a management role themselves was good and necessary
+
+625
+00:51:31,260 --> 00:51:34,260
+Skullgirls development winds down and the focus shifts to indivisible
+
+626
+00:51:34,480 --> 00:51:39,540
+After Peter and Alex are gone Mike owns the company and everyone agrees to turn it into a worker co-op
+
+627
+00:51:39,620 --> 00:51:44,580
+Mike has significant legal troubles trying to do so in June of 2020 several public
+
+628
+00:51:44,780 --> 00:51:51,180
+Controversies go viral all stemming from Mike's autism and social awkwardness each of which he apologizes profusely for on
+
+629
+00:51:51,500 --> 00:51:59,460
+August 24th 2020 a huge swath of lab zero games is staff all resign at the same time having coordinated their responses with
+
+630
+00:51:59,580 --> 00:52:03,300
+Francesca's financial data in order to cause maximum damage to the company
+
+631
+00:52:03,580 --> 00:52:08,900
+Despite the former staffs public statements claiming that they've spent the summer of 2020 engaged in an internal investigation
+
+632
+00:52:09,380 --> 00:52:16,120
+Their private chat logs show that they were already creating plans to either remove Mike from his own company or quit and form a new
+
+633
+00:52:16,120 --> 00:52:23,080
+Company one day after the bunny au thing went viral before anyone even knew the truth of it if they managed to wrestle control
+
+634
+00:52:23,080 --> 00:52:29,720
+Of lab zero games their long-term plan was to keep Mike on as a contractor to wrap up any remaining work on the current projects
+
+635
+00:52:29,720 --> 00:52:33,960
+Before eventually quietly firing him if not they would all quit in unison
+
+636
+00:52:33,960 --> 00:52:39,120
+Which is what they did and use their knowledge of lab zero games as inner workings to saddle Mike with the business debt
+
+637
+00:52:39,200 --> 00:52:44,900
+Steal and use the skullgirls contract as a quick moneymaker to get on their feet and then move on to different projects
+
+638
+00:52:45,120 --> 00:52:52,180
+They explicitly schemed to use Mike's various viral controversies as a public justification for these actions
+
+639
+00:52:52,340 --> 00:52:55,820
+The man they were friends with for 10 years in a matter of weeks
+
+640
+00:52:55,820 --> 00:53:02,980
+They went from being understanding to hating him even as they learned more about his neurodivergency in that same time frame
+
+641
+00:53:02,980 --> 00:53:03,740
+Oh also
+
+642
+00:53:03,740 --> 00:53:10,580
+Maryland Francesca knew they were doing some fucky shit because despite Mike's lawyer telling them they should not delete messages on lab zero games
+
+643
+00:53:10,580 --> 00:53:13,860
+Slack they tried to delete messages on lab zero games as slack
+
+644
+00:53:14,100 --> 00:53:18,860
+With all this shit stacked against them what Mike filed ultimately was a countersuit
+
+645
+00:53:19,140 --> 00:53:23,140
+Remember Maryland Francesca filed against him first for wrongful termination
+
+646
+00:53:23,140 --> 00:53:24,780
+I guess they saw the fat
+
+647
+00:53:24,780 --> 00:53:28,900
+Paychecks that Alex and Peter were getting and decided to get some of that for themselves on the way out the door
+
+648
+00:53:29,280 --> 00:53:36,780
+Also the chat logs show them shifting from empathetic towards Mike and reluctant to take action against their friend in June 2020 to outright
+
+649
+00:53:36,780 --> 00:53:38,700
+Hating him by August of 2020
+
+650
+00:53:38,780 --> 00:53:44,960
+It's certainly possible that by January of 2021 when they filed the suit all feelings of friendship were gone
+
+651
+00:53:44,960 --> 00:53:47,440
+And they simply viewed Mike as a resource to exploit
+
+652
+00:53:47,740 --> 00:53:50,320
+But I think they overextended their hand on this one
+
+653
+00:53:50,660 --> 00:53:53,400
+Francesca was laid off because the company could no longer do any work
+
+654
+00:53:53,400 --> 00:53:59,420
+That's not wrongful termination and Mariel didn't quit she resigned but maybe she means the disbanding of the board who knows
+
+655
+00:53:59,500 --> 00:54:05,180
+But what we do know is that Mike only slapped them with all of this shit after they came for him legally
+
+656
+00:54:05,380 --> 00:54:12,100
+Mike countersued Mariel Francesca and Future Club for interfering with lab zero games as contracts and relationships
+
+657
+00:54:12,100 --> 00:54:17,380
+Which had fallen apart due to the two women's plans who are now CEO and creative director of Future Club
+
+658
+00:54:17,420 --> 00:54:24,500
+respectively the damages stem from losing the skullgirls contract the shutdown of the indivisible game including the loss of a contract for an
+
+659
+00:54:24,580 --> 00:54:26,180
+unannounced but in production
+
+660
+00:54:26,180 --> 00:54:33,440
+Indivisible animated series with NBC as well as an unannounced contract with Arc System Works the creator of guilty gear that Bridget game
+
+661
+00:54:33,640 --> 00:54:38,640
+Lab zero games was going to be collaborating on probably the biggest anime fighting IP in the world
+
+662
+00:54:38,840 --> 00:54:42,740
+Mariel and Francesca tried to get the countersuit dismissed using anti slap laws
+
+663
+00:54:43,200 --> 00:54:48,980
+slap stands for strategic lawsuit against public participation and it refers to people using the courts and the threat of
+
+664
+00:54:49,000 --> 00:54:52,100
+Lawsuit to intimidate those who are exercising their First Amendment rights
+
+665
+00:54:52,400 --> 00:54:58,120
+most of the time anti slap laws come into play when somebody with influence threatens those who are speaking out against them with a
+
+666
+00:54:58,120 --> 00:55:04,480
+Lawsuit in order to stifle their speech and this is what Mariel and Francesca alleged that Mike's detailed countersuit was intended to do
+
+667
+00:55:04,480 --> 00:55:08,720
+In fact their lawyer compared the situation to Donald Trump and Stormy Daniels
+
+668
+00:55:09,000 --> 00:55:15,760
+But in March of 2022 the judge disagreed ruling that the countersuit can proceed that this wasn't a free speech issue
+
+669
+00:55:15,760 --> 00:55:19,320
+But a labor relations issue, but by April of 2023
+
+670
+00:55:19,320 --> 00:55:25,120
+It seems like the anti slap denial had been overturned and the case was remanded to the trial court for further proceedings
+
+671
+00:55:25,200 --> 00:55:31,800
+I'm actually not really sure since this case isn't being talked about anywhere online right now and all the official documents are heavy in legalese
+
+672
+00:55:31,800 --> 00:55:38,720
+but it sounds like where the case is at right now is that the court agrees that Mariel and Francesca's case arises in part from
+
+673
+00:55:38,720 --> 00:55:45,080
+Their public statements relevant to a public issue and therefore Mike's countersuit may be a malicious use of the court against them
+
+674
+00:55:45,080 --> 00:55:52,140
+But only if Mike's own case against them is baseless and the court outlined four of Mike's complaints that he might actually
+
+675
+00:55:52,380 --> 00:55:57,860
+Legally win on on their merits independent of the woman's public speech and so they sent the whole thing back to trial
+
+676
+00:55:57,940 --> 00:56:03,420
+So who knows where this goes the best I can tell is that their day in court has been set for February 6 2024
+
+677
+00:56:03,660 --> 00:56:06,020
+Man, now this video feels kind of incomplete, doesn't it?
+
+678
+00:56:06,020 --> 00:56:10,100
+I considered waiting to do this until the court date, you know to have a nice little bow to tie in the whole story
+
+679
+00:56:10,100 --> 00:56:13,220
+But who knows how long the trial might take it might be postponed
+
+680
+00:56:13,220 --> 00:56:18,540
+It might get appealed the Mike's I'm on versus future Club legal battle has already been quietly going on for two years
+
+681
+00:56:18,620 --> 00:56:20,620
+And it could go on for another two
+
+682
+00:56:20,660 --> 00:56:23,220
+Unfortunately, though that means we're all just sitting here with blue balls
+
+683
+00:56:23,340 --> 00:56:28,140
+But maybe I can offer you something else to tide you over until then part 5
+
+684
+00:56:28,580 --> 00:56:34,580
+Mariel Cartwright of the main woman in this lawsuit Francesca Esquenazi is clearly the more elusive of the two
+
+685
+00:56:34,740 --> 00:56:40,580
+She spoke significantly less in the slack channels than her counterpart and there's not much in the way of public appearances of her out there
+
+686
+00:56:40,580 --> 00:56:42,260
+I'm personally not surprised
+
+687
+00:56:42,260 --> 00:56:47,880
+Remember she was a GameStop clerk that Mike basically turned into a receptionist and she worked primarily in the
+
+688
+00:56:48,040 --> 00:56:51,640
+Financial and administrative side of the business but Mariel Cartwright
+
+689
+00:56:51,640 --> 00:56:55,520
+She's an animator by trade and the internet is littered with her various public appearances
+
+690
+00:56:55,520 --> 00:56:59,800
+A lot of these are simply animation workshops or doing press tours for games
+
+691
+00:56:59,800 --> 00:57:04,480
+But others are personal interviews and in those interviews, she said some very interesting things
+
+692
+00:57:04,840 --> 00:57:10,480
+So let's take a look at who Mariel Cartwright is at least who she appears to be from my point of view
+
+693
+00:57:10,800 --> 00:57:14,560
+There's a handful of primary sources. I'm going to be jumping between in order to make my point
+
+694
+00:57:14,600 --> 00:57:16,760
+They're all publicly available on YouTube
+
+695
+00:57:16,760 --> 00:57:20,240
+So if you think I'm somehow misrepresenting Mariel or I've got something wrong
+
+696
+00:57:20,240 --> 00:57:23,920
+They are all available for you to watch yourself. The major interviews
+
+697
+00:57:23,920 --> 00:57:26,460
+I'm going to be talking about are in chronological order one
+
+698
+00:57:26,720 --> 00:57:32,480
+Mariel's first ever on-camera appearance in an interview with Destructoid on December 23rd 2012
+
+699
+00:57:32,900 --> 00:57:39,280
+Two an interview of multiple lab zero games artists for the black torch anthology, which seems to be an art book
+
+700
+00:57:39,280 --> 00:57:41,280
+They all worked on on May 9th 2013
+
+701
+00:57:41,880 --> 00:57:49,280
+Three a panel on how to animate for video games that Mariel gave at a digital dragons convention on July 1st 2014
+
+702
+00:57:49,800 --> 00:57:56,160
+Four an interview that Mariel gave to the fighting game YouTube channel Pat the flip on February 2nd 2016
+
+703
+00:57:56,440 --> 00:58:02,800
+Five a GDC presentation of indivisible hosted by Mariel and Mike on October 11th 2019
+
+704
+00:58:03,120 --> 00:58:09,440
+Six an interview Mariel and her husband Tyson gave for mega 64 on July 25th 2020
+
+705
+00:58:09,440 --> 00:58:16,520
+And finally seven an interview Mariel gave with the horror game Awards on October 30th 2023, which is just a week ago
+
+706
+00:58:16,800 --> 00:58:20,120
+There's also a few other clips that I couldn't get an exact date on but they're short ones
+
+707
+00:58:20,120 --> 00:58:25,180
+I'll make sure to display on screen exactly which source I'm pulling the statements from let's get into it
+
+708
+00:58:25,520 --> 00:58:32,440
+Mariel's dad is an animator for Disney and her mother is a Japanese citizen. My dad was a Disney animator for most of my childhood
+
+709
+00:58:33,560 --> 00:58:36,320
+and my mom is Japanese
+
+710
+00:58:37,040 --> 00:58:39,920
+So it was just like this this blend of
+
+711
+00:58:41,300 --> 00:58:45,640
+You know Japanese culture Japanese films just you know, everything Japanese
+
+712
+00:58:46,640 --> 00:58:48,260
+combined with
+
+713
+00:58:48,260 --> 00:58:50,260
+My dad is a gigantic nerd
+
+714
+00:58:51,640 --> 00:58:53,640
+So it's Disney animation
+
+715
+00:58:54,040 --> 00:58:55,920
+He you know, he had the Atari
+
+716
+00:58:55,920 --> 00:59:01,680
+He was doing like a little bit of programming and he would get me into video games and stuff a quick Google search of Disney
+
+717
+00:59:01,680 --> 00:59:07,220
+Animators with the family named Cartwright revealed a Randy Cartwright who had a very prolific career at Disney
+
+718
+00:59:07,220 --> 00:59:13,100
+He was offered a job at a Japanese studio in the 80s where he trained Japanese animators on the general Disney style
+
+719
+00:59:13,480 --> 00:59:17,040
+Mariel grew up as a Sega kid and was in love with Sonic back in the 90s
+
+720
+00:59:21,680 --> 00:59:23,680
+Sonic
+
+721
+00:59:32,360 --> 00:59:34,200
+When I was like
+
+722
+00:59:34,200 --> 00:59:38,600
+maybe nine or so, my dad gave me a oh my goddess and
+
+723
+00:59:39,600 --> 00:59:40,600
+Rama
+
+724
+00:59:40,600 --> 00:59:45,680
+Look that he didn't need anymore. And then from there I started getting into all that kind of stuff
+
+725
+00:59:46,360 --> 00:59:50,920
+She ended up spending a lot of time drawing influenced by both of her parents preferred art styles
+
+726
+00:59:51,000 --> 00:59:54,440
+Was your father being an animator a burden or a help?
+
+727
+00:59:56,480 --> 00:59:58,940
+No, it was it was definitely a good thing
+
+728
+00:59:59,700 --> 01:00:01,540
+I remember
+
+729
+01:00:01,540 --> 01:00:06,660
+You know being very young and being able to go to my dad and ask questions about how you know
+
+730
+01:00:06,660 --> 01:00:08,660
+how do I draw this or that or
+
+731
+01:00:09,140 --> 01:00:13,960
+And you know, he would he would sometimes help out and be like, you know, ask me questions
+
+732
+01:00:13,960 --> 01:00:17,260
+like how do I think I would draw this and then he would show me the right way to do it and
+
+733
+01:00:19,100 --> 01:00:25,540
+No, he was he was great Mariel met the mega 64 guys at their first ever panel in 2006
+
+734
+01:00:25,660 --> 01:00:31,540
+She got to know them personally during this event and ended up helping them make a lot of their content mostly behind the scenes
+
+735
+01:00:32,460 --> 01:00:34,460
+How did me and Mariel meet?
+
+736
+01:00:34,500 --> 01:00:36,500
+She was at
+
+737
+01:00:36,860 --> 01:00:39,340
+Our first panel. It's so weird
+
+738
+01:00:40,780 --> 01:00:44,020
+Because that we the first panel we ever did
+
+739
+01:00:45,060 --> 01:00:51,180
+was at anime Los Angeles in 2006, that was the first panel we ever did and
+
+740
+01:00:52,180 --> 01:00:59,180
+In that room that audience was maybe 50 to 80 people that was I mean that was it and
+
+741
+01:01:00,420 --> 01:01:03,540
+In yet in that group was more
+
+742
+01:01:04,340 --> 01:01:06,540
+People that would affect my life than any other
+
+743
+01:01:07,380 --> 01:01:12,300
+Like like I met Mariel and all her friends people other people that I grew to know
+
+744
+01:01:13,180 --> 01:01:15,380
+other famous artists
+
+745
+01:01:16,980 --> 01:01:18,980
+That work with her and
+
+746
+01:01:19,740 --> 01:01:23,200
+Worked in the game industry stuff like that. They were in there
+
+747
+01:01:23,820 --> 01:01:29,940
+There there were other girls in there that I that I would later like years later like I dated
+
+748
+01:01:30,540 --> 01:01:34,700
+Like a couple different people who didn't even know each other in that same room
+
+749
+01:01:35,700 --> 01:01:38,300
+Who just happened to live in you know, Southern California?
+
+750
+01:01:38,300 --> 01:01:43,260
+I guess she would have been 18 at this time way before her professional animation career ever got started
+
+751
+01:01:43,260 --> 01:01:46,740
+You you're I mean, honestly, I think out of all the artists that we work with
+
+752
+01:01:46,740 --> 01:01:52,660
+I think we've been doing that stuff with you the longest I think of anybody I think
+
+753
+01:01:53,540 --> 01:01:57,820
+I was just saying I think it's like 14 or 15 years. I think I started this when I was
+
+754
+01:01:59,380 --> 01:02:01,380
+818 that's crazy
+
+755
+01:02:01,540 --> 01:02:03,540
+And I'm 33
+
+756
+01:02:04,100 --> 01:02:11,580
+Mariel attended the California Institute of the Arts otherwise known as Cal Arts. Well that explains a lot of the story we had like a
+
+757
+01:02:12,540 --> 01:02:14,140
+portfolio
+
+758
+01:02:14,140 --> 01:02:17,020
+Show thing at Cal Arts and I had all my stuff out and
+
+759
+01:02:18,260 --> 01:02:22,060
+normally the companies that come by are like Disney and DreamWorks and
+
+760
+01:02:22,660 --> 01:02:24,920
+You know big film companies like that
+
+761
+01:02:26,380 --> 01:02:29,780
+But who also was there was Matt Bozon at WayForward
+
+762
+01:02:30,780 --> 01:02:33,300
+Because WayForward is in the same city as Cal Arts
+
+763
+01:02:34,340 --> 01:02:39,600
+And he saw my stuff and I think he he got things going he was you know
+
+764
+01:02:39,600 --> 01:02:43,300
+He was a fan of my stuff and he got things going for me at WayForward
+
+765
+01:02:43,420 --> 01:02:47,660
+She met Jonathan Kim another Skullgirls artist while at Cal Arts and brought him into the project
+
+766
+01:02:47,900 --> 01:02:52,540
+The two of them as well as other creatives in their friend group ran what they characterized as an art
+
+767
+01:02:52,760 --> 01:02:58,100
+Collective called mecha fetus where they collaborated on various art pieces. Well, I met John
+
+768
+01:02:58,740 --> 01:03:00,140
+persona in
+
+769
+01:03:00,140 --> 01:03:01,580
+college I
+
+770
+01:03:01,580 --> 01:03:06,580
+Went to Cal Arts for character animation and he was in my year and we became friends super quick
+
+771
+01:03:06,580 --> 01:03:13,220
+And he had the idea with another friend of his to start like an art collaborative
+
+772
+01:03:13,860 --> 01:03:17,220
+group mecha fetus ran from their early college days in
+
+773
+01:03:17,500 --> 01:03:21,900
+2006 up until basically their professional careers took off and they no longer had time to work on it
+
+774
+01:03:21,900 --> 01:03:25,340
+I think people who have followed my work, I guess from the beginning
+
+775
+01:03:26,620 --> 01:03:30,140
+Know my stuff from the mecha fetus visual blog
+
+776
+01:03:31,220 --> 01:03:34,980
+Which was me John Kim persona
+
+777
+01:03:35,660 --> 01:03:37,660
+Paul Robertson
+
+778
+01:03:38,140 --> 01:03:43,080
+Eu03 and Brad Raffi and it was just a place where we
+
+779
+01:03:43,740 --> 01:03:45,100
+posted
+
+780
+01:03:45,100 --> 01:03:51,300
+Whatever really just it was just a place for us to post our earth that like wasn't deviant art or you know, whatever
+
+781
+01:03:52,020 --> 01:03:57,340
+And I think I don't know how I think it's because Paul already had a bit of a following
+
+782
+01:03:58,300 --> 01:04:01,320
+But people discovered that pretty quick. Yeah
+
+783
+01:04:01,760 --> 01:04:08,040
+And so we had like what what what time period were you doing the mecha fetus stuff mostly it was like
+
+784
+01:04:09,920 --> 01:04:12,320
+2006 or 7 to
+
+785
+01:04:15,320 --> 01:04:17,320
+Like it's sex because I don't want to say that
+
+786
+01:04:17,880 --> 01:04:22,380
+It's gone. Sure, or we're not gonna come back to it, but we haven't posted on it
+
+787
+01:04:22,440 --> 01:04:26,160
+But I mean, yeah, all of y'all are doing other things, right? Right. Yeah
+
+788
+01:04:26,200 --> 01:04:33,680
+The style of mecha fetus was described by Marielle as revolving around blood guts and naked girls your styles
+
+789
+01:04:33,960 --> 01:04:39,320
+are definitely different but there's reoccurring themes amongst all of you that being like
+
+790
+01:04:40,200 --> 01:04:41,480
+nudity
+
+791
+01:04:41,480 --> 01:04:46,280
+exposed brains and like intestines that are fun you like mix
+
+792
+01:04:47,400 --> 01:04:54,680
+Disgusting and sexy and cute all together. Am I right in thinking that that's kind of a unifying theme between um, I
+
+793
+01:04:55,280 --> 01:04:59,000
+Think that's that's most of a thing between Paul and I
+
+794
+01:04:59,840 --> 01:05:03,200
+We just like gross and cute things
+
+795
+01:05:04,880 --> 01:05:08,640
+I've always been like a fan of like horror scary stuff
+
+796
+01:05:09,640 --> 01:05:11,440
+and
+
+797
+01:05:11,440 --> 01:05:13,400
+Yeah, I mean that's that's kind of it
+
+798
+01:05:13,400 --> 01:05:15,480
+I just want to draw stuff that I think is cool
+
+799
+01:05:15,720 --> 01:05:21,660
+Mariel tells the story of how her career got started several times across these various interviews and though the story changes each time
+
+800
+01:05:21,700 --> 01:05:24,700
+It's mostly the same then I had my stuff at the job fair
+
+801
+01:05:25,260 --> 01:05:28,700
+I did not get noticed by anyone except
+
+802
+01:05:29,480 --> 01:05:35,380
+Family guy family guy sent me or requested like a storyboard test for me. All right
+
+803
+01:05:35,980 --> 01:05:38,700
+And then Matt bows on a way forward noticed my stuff
+
+804
+01:05:39,460 --> 01:05:42,740
+And that's actually kind of how my relationship with way forward started
+
+805
+01:05:42,740 --> 01:05:48,760
+She had done a bit of freelance work in video games here and there making the UI for some Barbie game and most notably making
+
+806
+01:05:48,760 --> 01:05:54,160
+A couple of drawings for the joke ending for Silent Hill shattered memories. My first thing was actually
+
+807
+01:05:54,960 --> 01:05:56,960
+Silent Hill shattered memories
+
+808
+01:05:57,040 --> 01:06:04,080
+Wow, which completely yeah, it came out of nowhere. Like we were you know, we had done the busy vlog for a couple years
+
+809
+01:06:05,000 --> 01:06:09,280
+And then I got an email from Tom hill at Konami
+
+810
+01:06:10,120 --> 01:06:12,120
+Asking if I could
+
+811
+01:06:12,400 --> 01:06:18,420
+You know do the the joke ending the UFO ending for shattered memories and I said, yeah
+
+812
+01:06:19,080 --> 01:06:26,040
+I'd love to but through way forward. She got her first big job in the games industry the Scott Pilgrim game. He
+
+813
+01:06:26,920 --> 01:06:30,240
+Asks what artwork did you work on for the Scott Pilgrim game?
+
+814
+01:06:30,240 --> 01:06:35,800
+Oh, I know I was forgetting something Scott Pilgrim game that you worked on what a what a beautiful piece of work that game is
+
+815
+01:06:36,240 --> 01:06:43,960
+He says the game is awesome in the art style rocks. So what did you do on that game? Um, I was one of the animators
+
+816
+01:06:44,400 --> 01:06:48,200
+I was actually only freelance on it. I worked off-site
+
+817
+01:06:49,600 --> 01:06:53,060
+But I did all the background and PC characters
+
+818
+01:06:54,120 --> 01:06:55,280
+and
+
+819
+01:06:55,280 --> 01:07:00,040
+I also did the title screen illustration which eventually was
+
+820
+01:07:00,640 --> 01:07:04,240
+Changed a bit in the final version, but I did the original of that
+
+821
+01:07:04,240 --> 01:07:04,920
+I
+
+822
+01:07:04,920 --> 01:07:11,280
+mentioned earlier in the video that the current fan narrative surrounding skullgirls is that the original creators Alex and Mike the ones who were truly
+
+823
+01:07:11,320 --> 01:07:16,920
+Passionate about skullgirls got screwed out of their own creation by progressives who don't give a shit about the property never worked on it
+
+824
+01:07:16,920 --> 01:07:18,840
+Never cared about it and now they're just ruining it
+
+825
+01:07:18,840 --> 01:07:20,640
+But this isn't true
+
+826
+01:07:20,640 --> 01:07:27,400
+Alex was another of Marielle's art friends and he brought her onto the skullgirls project before they pitched the concept to Reverge labs
+
+827
+01:07:27,400 --> 01:07:29,400
+I was a friend of Alex's and
+
+828
+01:07:30,000 --> 01:07:33,800
+In 2010, I think at the start of 2010 I started
+
+829
+01:07:35,160 --> 01:07:39,880
+Animating on the skullgirls just you know as one of my spare things
+
+830
+01:07:39,920 --> 01:07:44,000
+They started pitching it to different companies to see if anyone wanted to
+
+831
+01:07:44,640 --> 01:07:52,960
+Publish like pick up and fully develop skullgirls and I think we pitched it to like Ubisoft and maybe stag or something
+
+832
+01:07:53,560 --> 01:07:55,560
+and in the end it was
+
+833
+01:07:56,120 --> 01:07:58,880
+autumn autumn games who picked it up and
+
+834
+01:07:59,640 --> 01:08:05,220
+You know said we want to publish this game and we can fund a team develop it fully full-time
+
+835
+01:08:05,220 --> 01:08:11,100
+In fact Alex and Marielle were working on skullgirls before they even brought Mike on with his engine
+
+836
+01:08:11,380 --> 01:08:16,660
+Skullgirls started as an indie project originally as a pixel animated game in like
+
+837
+01:08:17,260 --> 01:08:18,660
+2004 ish
+
+838
+01:08:18,660 --> 01:08:21,580
+Alex was just working on it by himself at the time
+
+839
+01:08:22,420 --> 01:08:28,300
+And over the course of a few years and after several iterations it made the transition from being a 2d pixel game
+
+840
+01:08:28,620 --> 01:08:36,140
+To a 2d HD game then we had who is now our lead game designer Mike Z join the project and with him came
+
+841
+01:08:36,900 --> 01:08:39,060
+His own fighting game engine that he made himself
+
+842
+01:08:39,780 --> 01:08:41,780
+He was working on that for a long time before
+
+843
+01:08:42,300 --> 01:08:49,580
+Mike has been very particular about this point saying consistently that he or the rest of the team aren't the creators of skullgirls
+
+844
+01:08:49,980 --> 01:08:55,540
+Alex's at one point when Mike and Marielle were discussing indivisible in 2019 Marielle said this
+
+845
+01:08:56,180 --> 01:08:58,180
+The designer
+
+846
+01:08:58,260 --> 01:09:00,260
+artist on skullgirls Alex Ahad
+
+847
+01:09:00,980 --> 01:09:04,820
+You know was was a big part of it. He was the one that also designed all the monsters
+
+848
+01:09:06,620 --> 01:09:08,620
+Yeah creator of skullgirls
+
+849
+01:09:09,100 --> 01:09:11,100
+Yeah, so I think I think
+
+850
+01:09:11,220 --> 01:09:13,380
+Now this might just be me reading into it
+
+851
+01:09:13,380 --> 01:09:17,540
+But I feel like the tone of this exchange is Marielle downplaying Alex's involvement
+
+852
+01:09:17,540 --> 01:09:23,700
+Mike correcting the record and defending his friend who had left the company at this point by the way and Mariel quickly agreeing but
+
+853
+01:09:23,700 --> 01:09:26,660
+Rushing past the point but I could just be reading into it a little bit too much
+
+854
+01:09:27,100 --> 01:09:32,400
+Mariel confirmed that only the core skullgirls people from Reverge labs moved over to lab zero games
+
+855
+01:09:32,540 --> 01:09:36,460
+The skullgirls team has made a new studio called lab zero games
+
+856
+01:09:37,780 --> 01:09:39,940
+and we as a
+
+857
+01:09:41,140 --> 01:09:44,540
+Smaller more of like the score the core skullgirls team
+
+858
+01:09:45,260 --> 01:09:50,180
+We want to continue working on the game. She would later describe this as eight people in total
+
+859
+01:09:50,180 --> 01:09:54,640
+We have eight people in house we have four artists a programmer a designer
+
+860
+01:09:55,260 --> 01:10:02,020
+An art production guy and our CEO. Okay, we've got Alex Mike Marielle John Peter the unnamed CEO
+
+861
+01:10:02,020 --> 01:10:07,100
+In fact the way that Marielle describes him here as not a part of the creative process just the CEO
+
+862
+01:10:07,100 --> 01:10:10,420
+It really does sound like he just provided the initial startup capital
+
+863
+01:10:10,420 --> 01:10:14,660
+Like I theorized earlier Marielle describes this arrangement as not really being professional
+
+864
+01:10:14,660 --> 01:10:17,620
+They were just a big group of creative friends who wanted to make games together
+
+865
+01:10:17,980 --> 01:10:19,980
+The skullgirls team is made up of
+
+866
+01:10:20,380 --> 01:10:26,400
+Primarily 2d artists and animators and we worked with what we had as just a small indie team
+
+867
+01:10:26,400 --> 01:10:30,740
+We're just a big group of friends pretty much and in fact all throughout these videos
+
+868
+01:10:31,060 --> 01:10:36,780
+Marielle Alex all the artists that are interviewed they all seem to be part of some larger Southern California art scene
+
+869
+01:10:36,780 --> 01:10:42,120
+I actually forgot to mention in my introduction that I'm also part of a lava punch one and two and the spaceman anthology
+
+870
+01:10:42,120 --> 01:10:46,380
+Which are the previous books that that this group has done before and I've known them since
+
+871
+01:10:46,700 --> 01:10:48,700
+since my days in bow, which is basically
+
+872
+01:10:49,740 --> 01:10:53,220
+artist group gathering in the Bay Area Bay Area artists unite and
+
+873
+01:10:53,740 --> 01:10:57,420
+I was I had met them through there back in high school
+
+874
+01:10:57,420 --> 01:11:02,180
+So I guess I've known them for many years now speaking of that 2019 indivisible stream
+
+875
+01:11:02,180 --> 01:11:04,660
+There's some very interesting things going on there
+
+876
+01:11:04,860 --> 01:11:11,500
+Mike and Marielle are very clearly comfortable with each other acting like old friends Marielle is in the PR role in this conversation
+
+877
+01:11:12,060 --> 01:11:19,580
+Being diplomatic hitting talking points while Mike is this zany all-over-the-place hyper creative type with no public speaking skills
+
+878
+01:11:19,980 --> 01:11:25,960
+Probably the most blatant example of this dynamic is when Mike talks about why they didn't go with the epic game store for indivisible's release
+
+879
+01:11:26,300 --> 01:11:28,780
+What motivated your decision to sell the game where you do?
+
+880
+01:11:28,780 --> 01:11:32,380
+I mean we're we talk to designers now and developers so often
+
+881
+01:11:32,740 --> 01:11:37,680
+A major point of contention is which store front to put the game on and which service to put it out on and that seems
+
+882
+01:11:37,680 --> 01:11:39,680
+only likely to grow more
+
+883
+01:11:39,760 --> 01:11:43,840
+Contentious in the years ahead. So tell me how did you think about how to sell this game?
+
+884
+01:11:43,840 --> 01:11:45,560
+And sort of why did you put it out the way you did?
+
+885
+01:11:45,560 --> 01:11:50,920
+I mean, I guess you're referring to like steam versus epic now is kind of the discussion that we're having right?
+
+886
+01:11:50,920 --> 01:11:57,560
+I mean, I guess I guess for us epic came so late in the game that it just didn't really impact our decision at all
+
+887
+01:11:58,120 --> 01:12:00,120
+I mean it just
+
+888
+01:12:00,960 --> 01:12:04,540
+Some part of it was that we already had a steam version that worked right? Yeah
+
+889
+01:12:05,900 --> 01:12:07,900
+Yeah, so it you know
+
+890
+01:12:07,980 --> 01:12:09,980
+Consoles in
+
+891
+01:12:10,060 --> 01:12:15,740
+PC Mac Linux. Yeah was just basically it at the time, you know that we made the decision
+
+892
+01:12:16,420 --> 01:12:19,680
+Steam was the thing and so that's just kind of what we followed through
+
+893
+01:12:20,460 --> 01:12:22,460
+so we haven't been to
+
+894
+01:12:28,740 --> 01:12:30,740
+Know what's watching
+
+895
+01:12:32,140 --> 01:12:36,300
+About the epic store like that they give you information to
+
+896
+01:12:37,100 --> 01:12:39,100
+Their Chinese owner
+
+897
+01:12:46,660 --> 01:12:51,380
+Because that was a weird thing for a minute I recall sorry it was a weird thing for a minute
+
+898
+01:12:51,380 --> 01:12:57,060
+I have no idea whether it was actually confirmed because we didn't come out on the epic store. So yeah
+
+899
+01:12:57,060 --> 01:12:59,460
+I don't I don't want to I'm not trying to defend the epic store here
+
+900
+01:12:59,460 --> 01:13:03,480
+I'm just trying to make sure our claims do you know we're on a live stream here
+
+901
+01:13:03,480 --> 01:13:07,040
+So we don't we don't have the luxury of an editor. Yeah, so some have said
+
+902
+01:13:09,440 --> 01:13:16,320
+I think the bigger point is just that you know steam was our option when we were deciding and so that's what we just stuck
+
+903
+01:13:16,320 --> 01:13:20,400
+Yeah, but more interesting to me is how Mike and Mariel describe their workplace
+
+904
+01:13:20,400 --> 01:13:22,680
+How much do you let your staff provide creative input?
+
+905
+01:13:22,960 --> 01:13:27,100
+How do you organize staff input and how do you keep that input from clashing during production?
+
+906
+01:13:28,800 --> 01:13:31,080
+I think I think everyone has say
+
+907
+01:13:33,480 --> 01:13:39,840
+Yeah, that was that was exactly what I was gonna say and I'm I do not mean to speak over you sure sure
+
+908
+01:13:39,840 --> 01:13:41,840
+Well, I was just gonna say everyone
+
+909
+01:13:41,880 --> 01:13:47,600
+We encourage everyone to speak up just because I think a lot of the issues we ran into development
+
+910
+01:13:47,600 --> 01:13:49,200
+we were able to
+
+911
+01:13:49,200 --> 01:13:55,280
+Kind of like avoid or circumvent because someone spoke up and just just gave us an opinion that we weren't expecting
+
+912
+01:13:55,640 --> 01:13:58,520
+So we do try to encourage everyone to speak up as much as possible
+
+913
+01:13:58,520 --> 01:14:04,680
+But I think like Mike you and I we're both kind of like the vision holders
+
+914
+01:14:05,360 --> 01:14:08,200
+so we know that what we want out of the game and
+
+915
+01:14:08,640 --> 01:14:11,160
+And so, you know, we're always listening to feedback
+
+916
+01:14:11,160 --> 01:14:18,520
+But ultimately once a decision needs to be made it's gonna be made by you or I essentially we are as far as feedback goes
+
+917
+01:14:19,320 --> 01:14:23,620
+Completely flat and I don't want us to change that I've worked at places where it was like
+
+918
+01:14:24,100 --> 01:14:28,460
+You say you would say something about art and the artist would be like, well, you're not an artist
+
+919
+01:14:30,540 --> 01:14:35,360
+Like the artist would come to a designer and be like this parts been really frustrating like in me
+
+920
+01:14:35,360 --> 01:14:41,140
+Just playing it because I'm art in this part and the designer be like, yeah, well, you're not a designer. So shut up get out like
+
+921
+01:14:42,180 --> 01:14:48,180
+That sucks because the feedback that you get that's usually the most useful is from the people that aren't in your discipline
+
+922
+01:14:48,260 --> 01:14:55,060
+Right because they notice things that you are not trained or are trained to not notice anymore and like I
+
+923
+01:14:55,700 --> 01:15:01,360
+try to listen to absolutely everybody from everywhere at all times and then
+
+924
+01:15:01,820 --> 01:15:06,500
+Like the way that I put it on skull girls was I'll listen to everybody but the decision is mine
+
+925
+01:15:06,620 --> 01:15:11,980
+They both genuinely seem to want a flat hierarchy where everyone has an equal say as team leads
+
+926
+01:15:11,980 --> 01:15:14,180
+They do have to make the final choice that's inevitable
+
+927
+01:15:14,220 --> 01:15:18,020
+But Mike seems genuinely committed to the idea of everyone being equal
+
+928
+01:15:18,460 --> 01:15:25,300
+Elsewhere Mario characterized Mike as essential a talented genius that could do things by memory in a way. She'd never seen before the way
+
+929
+01:15:25,980 --> 01:15:27,980
+making moves for skull girls works is
+
+930
+01:15:28,380 --> 01:15:34,800
+That the artists kind of like all come together and brainstorm just a bunch of moves that they think would look awesome for the character
+
+931
+01:15:34,800 --> 01:15:36,140
+to do
+
+932
+01:15:36,140 --> 01:15:40,700
+Just no limits. Just anything just kind of trying to keep in mind like well she needs to punch
+
+933
+01:15:40,700 --> 01:15:43,140
+She needs to kick she needs some supers and you know all that stuff
+
+934
+01:15:44,180 --> 01:15:50,260
+and then we pass that on to Mike Mike see who's the designer of skull girls who is just
+
+935
+01:15:51,380 --> 01:15:55,620
+Like the brain behind everything game play related at our company
+
+936
+01:15:55,620 --> 01:15:57,960
+How literate is Mike in terms of animation?
+
+937
+01:15:57,960 --> 01:16:00,660
+Like was he able to speak to you in your language or you know what?
+
+938
+01:16:00,660 --> 01:16:07,040
+Yeah, that's something that I'm so grateful for in Mike is that he might not understand
+
+939
+01:16:08,660 --> 01:16:11,100
+Like animation terminology or
+
+940
+01:16:12,020 --> 01:16:14,800
+Just like all like the twelve principles and all this stuff
+
+941
+01:16:14,900 --> 01:16:19,020
+But he is such a good and thorough understanding of how fighting games work
+
+942
+01:16:19,500 --> 01:16:26,860
+That a lot of times he would help us fix our animations to make them work more like other fighting games. Yeah
+
+943
+01:16:27,380 --> 01:16:31,260
+Just send you like animated guests from like fighter generation. Oh my god constantly
+
+944
+01:16:31,580 --> 01:16:33,200
+He says, you know
+
+945
+01:16:33,200 --> 01:16:39,060
+I want it to work like this and it works like this because of this and this it has this many frames in it
+
+946
+01:16:39,060 --> 01:16:41,300
+You know, this is why it does what it does
+
+947
+01:16:42,180 --> 01:16:46,060
+And so much of what I learned just came from him telling me
+
+948
+01:16:46,500 --> 01:16:51,180
+You know, like this is X number of frames and it works because of this reason
+
+949
+01:16:51,940 --> 01:16:59,420
+And do that in your animation and a lot of times he's fixing the timing on my animations. Like I don't think I
+
+950
+01:17:00,420 --> 01:17:04,700
+Could have done any of what I did like without his input. Oh, yeah crazy
+
+951
+01:17:04,780 --> 01:17:10,900
+Yeah, I swear to God like the sentence that I hear most often in fighting games is alright
+
+952
+01:17:10,900 --> 01:17:12,900
+So here's how they do it in guilty here
+
+953
+01:17:15,060 --> 01:17:22,700
+It's funny because I don't know anyone else that could just rattle off exact frame counts of certain moves from some random game
+
+954
+01:17:23,700 --> 01:17:27,980
+And just you know, it's not even fighting games like he could do that about
+
+955
+01:17:28,660 --> 01:17:30,660
+You know Metroid
+
+956
+01:17:30,780 --> 01:17:35,460
+Any game he's passionate about he will just dissect and
+
+957
+01:17:35,940 --> 01:17:39,260
+Know in and out. It's really fascinating to me
+
+958
+01:17:39,260 --> 01:17:44,140
+This all lends weight to the claim that even though Mike was the foundation of the whole operation
+
+959
+01:17:44,260 --> 01:17:45,860
+Especially after the absence of Alex
+
+960
+01:17:45,860 --> 01:17:49,060
+He still intended to make lab zero games a worker co-op
+
+961
+01:17:49,200 --> 01:17:53,580
+Probably because he viewed these people as his friends and he wanted to do right by them
+
+962
+01:17:53,580 --> 01:17:59,620
+It just wasn't legally possible Mario's attitude towards her own art has changed over the years in 2012
+
+963
+01:17:59,740 --> 01:18:04,900
+She said she didn't really think about what she drew or why she simply knew that she liked girls with big boobs and gory horror
+
+964
+01:18:04,900 --> 01:18:10,020
+Stuff and mecha fetus was her connection to other Southern California creatives with those same tastes
+
+965
+01:18:10,020 --> 01:18:14,060
+Is there any reason why the mecha fetus blog is a little slow with updates?
+
+966
+01:18:14,380 --> 01:18:19,500
+Where can we get more regular updates on your work? I thought you had your own tumblr as well. Is that right?
+
+967
+01:18:19,500 --> 01:18:22,340
+Uh, yeah, I do know well
+
+968
+01:18:22,340 --> 01:18:28,700
+I think we were almost active on the busy blog while we were in college and since then we've had
+
+969
+01:18:29,180 --> 01:18:33,740
+You know jobs and we come home from our work and we're just too tired to try extra stuff
+
+970
+01:18:35,460 --> 01:18:42,060
+You know, it's still updated sometimes but definitely not as much as it used to and although Alex wasn't a part of mecha fetus
+
+971
+01:18:42,060 --> 01:18:43,460
+He shared these interests
+
+972
+01:18:43,460 --> 01:18:48,860
+Which is why Marielle was drawn into the skull girls project as skull girls also includes a lot of those things though toned down
+
+973
+01:18:48,860 --> 01:18:56,160
+Did you come up with any of the more disgusting ideas? No, I didn't actually it's it's all Alex and what's great about him is
+
+974
+01:18:56,960 --> 01:18:58,440
+That
+
+975
+01:18:58,440 --> 01:19:00,440
+Also Alex and I like the same stuff
+
+976
+01:19:01,120 --> 01:19:03,320
+his stuff isn't quite as is
+
+977
+01:19:03,880 --> 01:19:09,600
+Like brain exposed gory as I like but he just loves weird monstery
+
+978
+01:19:10,360 --> 01:19:15,560
+You know gross out stuff. So yeah, no, it's super cool Alex and I think pretty alike
+
+979
+01:19:16,160 --> 01:19:17,480
+That's great that you yeah
+
+980
+01:19:17,480 --> 01:19:23,280
+So many people who who get you in that way and that you have so many fans who get you as well
+
+981
+01:19:23,320 --> 01:19:26,960
+But when you first signed on to work on the skull girls project full-time
+
+982
+01:19:26,960 --> 01:19:31,960
+Did you feel like you were taking a professional risk in any way or did it just feel natural and like them?
+
+983
+01:19:31,960 --> 01:19:39,320
+Um, it pretty much felt like a dream come true. Like what better job could I ask for than to animate cute girls?
+
+984
+01:19:40,680 --> 01:19:47,280
+Marielle also mentioned that skull girls received a lot of flack back during its release that nowadays sounds very familiar
+
+985
+01:19:47,480 --> 01:19:51,520
+You know as soon as like our first trailer came out, you know, everyone was like, oh
+
+986
+01:19:52,040 --> 01:19:59,100
+Pedophile disgusting all-girls game. It's like well one. I don't know where the pedophile comment comes from because they're all girls with big
+
+987
+01:20:02,080 --> 01:20:07,800
+I guess Miss Fortune's boobs are medium. Yeah that pedophile in the art world
+
+988
+01:20:07,800 --> 01:20:10,180
+Yeah, I know it's it's stupid because in the end
+
+989
+01:20:10,760 --> 01:20:14,840
+Not every girl is like a sexy bombshell. I think we're actually pretty varied
+
+990
+01:20:16,400 --> 01:20:18,800
+But those are the characters that people remember
+
+991
+01:20:19,240 --> 01:20:21,240
+Um, but
+
+992
+01:20:21,600 --> 01:20:27,120
+You know, we we all we got a lot of negative press and stuff in the sexism and all that nonsense
+
+993
+01:20:28,080 --> 01:20:29,540
+but I
+
+994
+01:20:29,540 --> 01:20:36,080
+Feel like everyone on the team felt that we were really making something good and we were pouring our hearts into it
+
+995
+01:20:36,080 --> 01:20:41,360
+And we were working your asses off and we just wanted to make the best product we could boy
+
+996
+01:20:41,360 --> 01:20:46,960
+nothing's really changed has it calling drawings of cute women pedophilic is just as dumb today as it was back then and
+
+997
+01:20:47,120 --> 01:20:53,640
+Developers fear of being labeled as a sexist has only increased since 2012 but back then Mariel gave the correct answer
+
+998
+01:20:53,640 --> 01:20:58,640
+I'm finding more and more talking to publishers and developers that it's not that they don't want to add
+
+999
+01:20:59,920 --> 01:21:06,960
+More women or add more minorities and it's not that they think that minorities and women can't sell
+
+1000
+01:21:06,960 --> 01:21:09,960
+It's that they're oftentimes afraid that they're going to be called
+
+1001
+01:21:10,560 --> 01:21:14,040
+Sexist or racist right if they depict a woman in the wrong way
+
+1002
+01:21:14,040 --> 01:21:18,120
+Then everyone's gonna call them sexist or if they you know, make a male character
+
+1003
+01:21:18,120 --> 01:21:24,320
+I mean a black character with big lips and an afro then it's gonna be oh, you're you're you're racist when
+
+1004
+01:21:24,520 --> 01:21:30,440
+We'll have big lips and afro. It's uh, it's it's limiting people's fear of racism and sexism
+
+1005
+01:21:30,440 --> 01:21:35,720
+I feel can limit them a lot and you guys didn't have that at all. You just went for it
+
+1006
+01:21:36,320 --> 01:21:38,320
+yeah, I I mean I
+
+1007
+01:21:39,000 --> 01:21:45,620
+Think the way Alex thinks in creating his characters is he just wants to think you're he just wants to make what he thinks is
+
+1008
+01:21:45,760 --> 01:21:53,560
+Super cool. He's not there's no quota to meet or you know, anything like that. He just wants to make awesome stuff
+
+1009
+01:21:55,080 --> 01:21:57,040
+But did you ever?
+
+1010
+01:21:57,040 --> 01:22:03,080
+When people call me racist which happens sometimes I think maybe I'm racist and I just don't know it
+
+1011
+01:22:03,240 --> 01:22:08,800
+Who knows I have to like really scan my brain for racism that might be like planted in there
+
+1012
+01:22:08,800 --> 01:22:12,480
+Did you ever think that maybe you were a sexist pedophile?
+
+1013
+01:22:13,360 --> 01:22:14,960
+um
+
+1014
+01:22:14,960 --> 01:22:16,520
+I've
+
+1015
+01:22:16,520 --> 01:22:18,280
+Don't want to say I've thought about it
+
+1016
+01:22:18,280 --> 01:22:26,040
+But I mean, you know it all the discussion has has made me question like well is my stuff problematic
+
+1017
+01:22:26,560 --> 01:22:32,960
+Um, and I I think what it comes down to especially with school girls is that I
+
+1018
+01:22:33,560 --> 01:22:35,920
+don't think that anything we've made is
+
+1019
+01:22:37,880 --> 01:22:42,360
+Purely eye candy. I feel like every character is substantial
+
+1020
+01:22:43,760 --> 01:22:50,080
+Like the characters that are super sexy like Sarah Bella and Valentine. It's part of their character like
+
+1021
+01:22:50,840 --> 01:22:52,440
+Valentine in particular
+
+1022
+01:22:52,440 --> 01:22:58,540
+She knows she's sexy. She flaunts it. It's it's part of her to be that and that's okay
+
+1023
+01:22:59,160 --> 01:23:03,600
+That's I think that's totally fine. It's not wrong for a woman to be sexy
+
+1024
+01:23:03,800 --> 01:23:08,120
+This is the liberal reply the sex-positive anti-piritan reply
+
+1025
+01:23:08,120 --> 01:23:12,120
+I I feel like there's an attitude of like that every woman
+
+1026
+01:23:12,560 --> 01:23:18,880
+Like every female character has to be like a strong independent woman and I think that's great
+
+1027
+01:23:18,960 --> 01:23:23,880
+We do need more characters that are like that, but we also need all types of characters. We need different women
+
+1028
+01:23:24,520 --> 01:23:28,360
+One a woman who is strong a woman who is insecure and weak
+
+1029
+01:23:29,440 --> 01:23:36,920
+As long as I think we get variation like that's what we should be going for. Not every woman should be eye candy
+
+1030
+01:23:37,840 --> 01:23:41,880
+Not every woman necessarily needs to be a super badass either
+
+1031
+01:23:42,960 --> 01:23:47,660
+You know people are different and I think that's what we should be going for in our games
+
+1032
+01:23:47,700 --> 01:23:53,740
+If only progressive creators knew this nowadays Ray Skywalker or Captain Marvel don't work because they're not real people
+
+1033
+01:23:53,740 --> 01:24:01,460
+They're just avatars of female empowerment 2012. Mariel understood this but by 2016 Mariel's position on this topic had shifted quite a bit
+
+1034
+01:24:01,460 --> 01:24:06,620
+When I was six, my parents got me a Genesis. Okay, and on the Genesis
+
+1035
+01:24:06,620 --> 01:24:10,460
+I had Street Fighter 2 and then super came out and that had Kami
+
+1036
+01:24:11,020 --> 01:24:16,200
+And I was always really bummed that Chinle was the only girl in the original and then so they introduced Kami
+
+1037
+01:24:16,560 --> 01:24:20,160
+But my parents didn't want to buy it from me because I already had the game
+
+1038
+01:24:21,520 --> 01:24:25,800
+So I would rent it from blockbuster over and over and over just to play as Kami
+
+1039
+01:24:26,800 --> 01:24:31,140
+I thought she was super cool. This was when I was you know, like seven
+
+1040
+01:24:32,400 --> 01:24:36,920
+She just seemed super cool. She seemed super strong. I
+
+1041
+01:24:37,960 --> 01:24:44,520
+Liked her hair. I liked her moves. Just everything about her was like appealing to me for some reason Tifa was a big one
+
+1042
+01:24:44,520 --> 01:24:46,920
+Just for some reason I was always
+
+1043
+01:24:48,180 --> 01:24:50,340
+Attracted to like cool female characters
+
+1044
+01:24:52,200 --> 01:24:56,760
+Which is interesting because I actually started off drawing Sonic, okay
+
+1045
+01:24:58,360 --> 01:25:03,840
+Sonic was my life from six to twelve, but even then
+
+1046
+01:25:04,880 --> 01:25:06,880
+You know, I always liked drawing
+
+1047
+01:25:07,720 --> 01:25:12,520
+Sally and bunny and just like the females of the Sonic universe
+
+1048
+01:25:12,520 --> 01:25:17,680
+I started just like getting into manga more and then that kind of like dominated most of my teens
+
+1049
+01:25:18,880 --> 01:25:22,640
+But yeah still like throughout I was always just like attracted to
+
+1050
+01:25:23,920 --> 01:25:25,920
+girls, yeah, and
+
+1051
+01:25:27,720 --> 01:25:33,120
+I've only actually dated men like been in relationships with men
+
+1052
+01:25:34,840 --> 01:25:37,040
+But I'm still like attracted to girls
+
+1053
+01:25:37,920 --> 01:25:39,920
+it's I
+
+1054
+01:25:40,160 --> 01:25:42,160
+Have like a weird
+
+1055
+01:25:42,320 --> 01:25:49,960
+Relationship with my own sexuality where I've only dated men, but I don't particularly find men attractive
+
+1056
+01:25:49,960 --> 01:25:58,080
+Yeah, it's it's kind of weird to say she is clearly hinting at the same sexual awakening and interest that she mentioned back in 2012
+
+1057
+01:25:58,080 --> 01:26:03,880
+But the tone of her story has changed in 2012. She was more. I don't know. I just think hot chicks are cool
+
+1058
+01:26:03,880 --> 01:26:07,320
+Look at my artwork. It's got girls at big tits while in 2016
+
+1059
+01:26:07,360 --> 01:26:12,920
+She's more about identifying with her sexuality in what we would call nowadays a quasi political manner
+
+1060
+01:26:13,160 --> 01:26:16,680
+She also makes the claim that she still likes all the same edgy stuff
+
+1061
+01:26:16,680 --> 01:26:20,680
+But that she purposely tones it down because she knows she has eyes on her now
+
+1062
+01:26:20,680 --> 01:26:26,520
+She knows that she can influence others and that the political environment in 2016 is different than what she grew up with
+
+1063
+01:26:26,520 --> 01:26:28,520
+I like pretty girls
+
+1064
+01:26:28,600 --> 01:26:33,720
+May or may not know that I'm also into like horror and I like gory stuff and you know all that
+
+1065
+01:26:33,720 --> 01:26:35,720
+So
+
+1066
+01:26:36,360 --> 01:26:43,160
+Like from the very start just being an artist like drawing was the outlet for all those things that I liked sure
+
+1067
+01:26:43,920 --> 01:26:45,640
+and
+
+1068
+01:26:45,640 --> 01:26:48,600
+It was like if someone told me not to draw something
+
+1069
+01:26:49,600 --> 01:26:51,600
+Which you know has happened?
+
+1070
+01:26:51,920 --> 01:26:56,960
+It's like well, what why wouldn't I this is how I get that stuff out of my head, right?
+
+1071
+01:26:58,400 --> 01:27:01,040
+Like that's not to say that I don't have
+
+1072
+01:27:01,720 --> 01:27:04,760
+Fears about putting certain works online
+
+1073
+01:27:06,200 --> 01:27:12,280
+Like I've kind of toned down the amount of like gore kind of stuff that I post
+
+1074
+01:27:13,200 --> 01:27:15,200
+Like I don't post that stuff as much
+
+1075
+01:27:17,080 --> 01:27:21,760
+Like I think that's just in part like I'm aware that I have a lot more eyes on my work now, right
+
+1076
+01:27:21,760 --> 01:27:27,360
+You know, my art is the way I want to like express certain things, but I do still have a fear of like
+
+1077
+01:27:27,360 --> 01:27:29,360
+Oh, is this too much?
+
+1078
+01:27:30,040 --> 01:27:32,040
+Especially now, I think
+
+1079
+01:27:32,720 --> 01:27:35,160
+Like kind of like the culture and environment that we're in
+
+1080
+01:27:35,160 --> 01:27:41,480
+We're very hyper aware of like the meaning like the implications of the work we put out which is good
+
+1081
+01:27:42,040 --> 01:27:44,800
+but my personal struggle is like
+
+1082
+01:27:46,240 --> 01:27:52,540
+When do I stop putting myself into something and start thinking about you know, what other people are seeing about me
+
+1083
+01:27:53,140 --> 01:27:56,620
+And that's that's something I still have a hard time with in
+
+1084
+01:27:56,900 --> 01:28:01,920
+2012 Marielle was asked about the future of her career and the answer she gave was interesting Tim Schafer
+
+1085
+01:28:01,920 --> 01:28:03,940
+For instance, he's been in the business for so long
+
+1086
+01:28:03,940 --> 01:28:09,100
+He's built up a huge following you can just go on Kickstarter and be like million dollars, please
+
+1087
+01:28:09,100 --> 01:28:14,060
+I want to make a game. Do you see yourself maybe in 15 years being like million dollars?
+
+1088
+01:28:14,060 --> 01:28:16,320
+I want to make brain naked boobs
+
+1089
+01:28:16,920 --> 01:28:18,520
+Testons zombie
+
+1090
+01:28:18,520 --> 01:28:24,200
+Rainbow party game and people giving you I know I'd I'd donate as much as you want for it right now
+
+1091
+01:28:24,200 --> 01:28:29,600
+Do you would you ever see yourself being able to make the kind of games that are as weird as you can possibly get? I?
+
+1092
+01:28:31,160 --> 01:28:33,880
+Don't know I think it's kind of tricky with I
+
+1093
+01:28:34,760 --> 01:28:41,320
+feel like with games you have to really be conscious of the player and what the player wants which which
+
+1094
+01:28:42,320 --> 01:28:48,920
+Isn't necessarily how it should be like I wish it could be as open as making like an independent film is
+
+1095
+01:28:48,920 --> 01:28:51,320
+I don't think I don't know if I'd be a good game
+
+1096
+01:28:52,400 --> 01:28:54,400
+Yeah, what makes you say that?
+
+1097
+01:28:54,520 --> 01:28:57,120
+hmm, I don't know because I feel like it's a lot of
+
+1098
+01:28:58,040 --> 01:29:04,160
+Like thinking about systems and and you know, where's where's the game in the game?
+
+1099
+01:29:04,160 --> 01:29:08,280
+And I'm like, well, I want to make something that's pretty and that doesn't make for a good game
+
+1100
+01:29:08,760 --> 01:29:12,440
+But I kind of look I am interested in it, but I feel like
+
+1101
+01:29:13,520 --> 01:29:18,560
+There's a lot I still have to learn before I even try tackling it in 2020
+
+1102
+01:29:18,560 --> 01:29:22,920
+Marielle states that she has no time for any of her old projects anymore and that she is getting old
+
+1103
+01:29:23,000 --> 01:29:29,040
+Over the past couple years. I've been working on my personal stuff less and less. I don't have the time anymore
+
+1104
+01:29:29,840 --> 01:29:35,240
+I think I'm getting old is what's happening. But yeah
+
+1105
+01:29:35,240 --> 01:29:37,240
+You're in charge of things
+
+1106
+01:29:37,600 --> 01:29:39,600
+Yeah, it's different like when you
+
+1107
+01:29:41,040 --> 01:29:44,560
+You have to do that take up your entire day. Yeah
+
+1108
+01:29:44,880 --> 01:29:48,880
+It's different when you're done with your work for the day that it used to be
+
+1109
+01:29:48,880 --> 01:29:52,200
+This is on some level the natural progression of a successful career
+
+1110
+01:29:52,200 --> 01:29:55,380
+You begin as the plucky energetic creative and as you move up in life
+
+1111
+01:29:55,380 --> 01:30:01,720
+You lose that energy and end up in a more managerial role and in 2023 when she has to face that question a second time
+
+1112
+01:30:01,720 --> 01:30:05,120
+Where do you see yourself in ten years? Her answer is very different
+
+1113
+01:30:05,160 --> 01:30:09,220
+Where do you see yourself in ten years in the games industry?
+
+1114
+01:30:10,800 --> 01:30:13,600
+Hmm that's a good question. Um, I
+
+1115
+01:30:14,120 --> 01:30:17,640
+Mean, I would I would love to work on more projects like this
+
+1116
+01:30:17,640 --> 01:30:23,960
+I do enjoy being kind of like in a leadership position, but what I really want to do is
+
+1117
+01:30:24,520 --> 01:30:25,600
+help
+
+1118
+01:30:25,600 --> 01:30:27,600
+bring up others
+
+1119
+01:30:27,760 --> 01:30:31,840
+And and get them to leadership positions to be able to create their own games
+
+1120
+01:30:32,000 --> 01:30:36,240
+Like if I do kind of go more to a management kind of position
+
+1121
+01:30:37,080 --> 01:30:42,240
+But but if that gives me an opportunity to kind of help others bring their own ideas to life
+
+1122
+01:30:42,600 --> 01:30:45,260
+Like that's something that I would love to see
+
+1123
+01:30:45,880 --> 01:30:51,600
+So I definitely don't see myself like always doing all the art myself and stuff like that
+
+1124
+01:30:52,080 --> 01:30:58,080
+I really believe in making room for for others to share their art
+
+1125
+01:30:59,080 --> 01:31:00,200
+So
+
+1126
+01:31:00,200 --> 01:31:01,400
+Wherever that takes me
+
+1127
+01:31:01,400 --> 01:31:07,200
+Um, I think that's something that I would I would be excited to see passing the torch to the next generation is fine and necessary
+
+1128
+01:31:07,200 --> 01:31:12,600
+Of course, but there's also at least from how I'm reading this the sense that she's lost what made her her
+
+1129
+01:31:12,760 --> 01:31:18,120
+Yeah, part of that is just aging. I'm old too. I've probably lost some stuff over the years actually with me
+
+1130
+01:31:18,120 --> 01:31:24,100
+It's more like I've gained but here's what I mean. My core interests and values remain uncompromised even after all these years
+
+1131
+01:31:24,460 --> 01:31:30,780
+I've explored different ideas different hobbies and interests different politics, but my values have always remained the same
+
+1132
+01:31:30,780 --> 01:31:32,840
+I'm still the same edgy 2000s era dev
+
+1133
+01:31:32,900 --> 01:31:37,020
+This isn't stagnation because what I was back then was good and it's still good
+
+1134
+01:31:37,060 --> 01:31:41,860
+This is the rejection of change for changes sake I feel no need to answer for anything
+
+1135
+01:31:41,860 --> 01:31:47,740
+I've done in the past because even if it doesn't line up with modern sensibilities, it's still overwhelmingly good in short
+
+1136
+01:31:47,740 --> 01:31:48,820
+I don't have trolls remorse
+
+1137
+01:31:48,860 --> 01:31:55,220
+We've just spent like a half-hour watching clips of Mariel describing her career and her art and maybe it was a little bit too much
+
+1138
+01:31:55,220 --> 01:31:57,060
+But I wanted to paint a complete picture
+
+1139
+01:31:57,060 --> 01:32:02,500
+What's happened here isn't just that Mariel's matured and her ideas have changed over time though. That's part of it
+
+1140
+01:32:02,500 --> 01:32:09,540
+It's also that like Atrox from earlier Mariel seems to have not trolls remorse, but sexy remorse in 2012
+
+1141
+01:32:09,540 --> 01:32:14,140
+She was unapologetically sexual open about her attraction to other women proud and direct in
+
+1142
+01:32:14,820 --> 01:32:21,020
+2016 she claims to still feel that way but was afraid of the current political paradigm canceling her for being misogynistic in
+
+1143
+01:32:21,740 --> 01:32:26,220
+2023 all traces of that former Mariel is gone and she has become the Puritan the
+
+1144
+01:32:26,260 --> 01:32:29,020
+Canceller that she once feared and if you want proof of that
+
+1145
+01:32:29,020 --> 01:32:33,700
+All you have to do is go back and see how she shit on Mike her friend for over a decade for the crime of
+
+1146
+01:32:33,900 --> 01:32:39,620
+Engaging with her on the terms. She established or hell how about this, you know Philia the skullgirls character
+
+1147
+01:32:39,620 --> 01:32:41,700
+That was the most censored in that 2023 update
+
+1148
+01:32:42,100 --> 01:32:48,560
+Mariel was the one who did those initial animations in 2010. I think at the start of 2010 I started
+
+1149
+01:32:49,940 --> 01:32:54,620
+Animating on the skullgirls just you know as one of my spare things
+
+1150
+01:32:55,860 --> 01:32:57,140
+and
+
+1151
+01:32:57,140 --> 01:33:03,900
+We we were focusing on Philia who was the first character and we we pretty much almost finished her
+
+1152
+01:33:04,140 --> 01:33:04,640
+Yes
+
+1153
+01:33:04,640 --> 01:33:06,640
+That character was her baby
+
+1154
+01:33:06,680 --> 01:33:11,360
+Mariel drew the panty shots that became iconic of the game and his future club creative director
+
+1155
+01:33:11,440 --> 01:33:13,680
+Mariel greenlit the censoring of her own work
+
+1156
+01:33:13,840 --> 01:33:20,160
+There is this narrative among hardcore skullgirls fans and terminally online culture warriors that the skullgirls
+
+1157
+01:33:20,360 --> 01:33:27,200
+censorship story is one of new progressive corpora types coming in kicking out the original creators who were based and waifu pilled
+
+1158
+01:33:27,360 --> 01:33:33,860
+Updating it for modern sensibilities regardless of the desires those original creators and all the fans who don't like the changes are just racist
+
+1159
+01:33:33,900 --> 01:33:35,660
+Alt-right fascist gamer Gators
+
+1160
+01:33:35,660 --> 01:33:40,580
+It's an appealing story because that actually has happened before but it doesn't quite fit this time
+
+1161
+01:33:40,580 --> 01:33:45,800
+The majority of the original team that worked on skullgirls back in the day are still there at future club
+
+1162
+01:33:45,800 --> 01:33:51,620
+And this is a case of them ruining their own legacy in order to appeal to the new progressive standard that they either feel
+
+1163
+01:33:51,760 --> 01:33:56,620
+Browbeat into adhering to or that they genuinely believe in themselves and I personally think it's the latter
+
+1164
+01:33:56,820 --> 01:34:03,700
+What's going on with Mariel Cartwright specifically is what I would like to dub Lindsay Ellis syndrome where you fear the puritanical nature
+
+1165
+01:34:03,900 --> 01:34:10,220
+Of the audience you've cultivated even as you yourself become more and more like them when Mariel stated that she fears her old
+
+1166
+01:34:10,220 --> 01:34:15,780
+Artwork being used one day to cancel her those words sound like they could have come directly from the nostalgia chicks mouth
+
+1167
+01:34:15,860 --> 01:34:16,420
+Yeah
+
+1168
+01:34:16,420 --> 01:34:24,020
+Like I haven't been posting like the weird stuff the weird and gory stuff recently because I've honestly been scared of the backlash
+
+1169
+01:34:25,020 --> 01:34:30,820
+You know, I've now seen how people will try to dig up stuff about you and post it
+
+1170
+01:34:30,860 --> 01:34:32,860
+Like, you know, here's something you did in
+
+1171
+01:34:33,220 --> 01:34:35,220
+2006 let's see it
+
+1172
+01:34:35,220 --> 01:34:41,220
+Destroy you because you know the same person you're the same person you were in 2006 and it's like it's not the case people are
+
+1173
+01:34:41,220 --> 01:34:43,220
+changing constantly
+
+1174
+01:34:43,220 --> 01:34:44,480
+but
+
+1175
+01:34:44,480 --> 01:34:51,900
+You know because I'm now scared of those kind of people coming up from the fucking depths of hell to destroy me
+
+1176
+01:34:52,540 --> 01:34:53,700
+I
+
+1177
+01:34:53,700 --> 01:34:57,100
+Haven't been posting that kind of work in 2012
+
+1178
+01:34:57,100 --> 01:35:02,460
+She simply wanted to create artwork that was authentically her and to hell with those who didn't approve for political reasons by
+
+1179
+01:35:02,740 --> 01:35:06,180
+2016 she was afraid of that 2012 attitude coming back to bite her in the ass
+
+1180
+01:35:06,380 --> 01:35:10,060
+Even as she still ultimately believed in it and by 2023
+
+1181
+01:35:10,140 --> 01:35:15,720
+She has absolutely morphed into the type of person who would have canceled her past self for saying the word retarded
+
+1182
+01:35:16,080 --> 01:35:21,440
+But other than that I hadn't really done like a full comic by myself other than
+
+1183
+01:35:23,080 --> 01:35:25,080
+Like retarded
+
+1184
+01:35:25,440 --> 01:35:30,400
+While researching all of this I went to go check out whatever remnants of that mecha fetus thing might still exist online
+
+1185
+01:35:30,400 --> 01:35:33,080
+And I quickly found this page a lost relic in
+
+1186
+01:35:33,720 --> 01:35:40,080
+2009 our art collective mecha fetus put together a little art book that we sold at anime Expo the mecha fetus site is unfortunately down
+
+1187
+01:35:40,080 --> 01:35:46,280
+But some of the artwork now lives on in a PDF you can download for free 18 plus only please features nudity
+
+1188
+01:35:46,280 --> 01:35:50,280
+Gore and some jokes that have not aged. Well, you've been warned. All right
+
+1189
+01:35:50,280 --> 01:35:56,680
+Well, even though it says it's free the button doesn't work unless I put something in so I guess I'll put in one cent
+
+1190
+01:35:56,720 --> 01:35:58,980
+There's no PayPal. I got I got to use a credit card
+
+1191
+01:36:00,080 --> 01:36:07,020
+Do I really want to give Mariel my real-life information? Oh god. Well if something weird happens to my credit card
+
+1192
+01:36:07,020 --> 01:36:09,900
+I guess I know who did it. All right things I do for a video
+
+1193
+01:36:10,340 --> 01:36:14,580
+Wait a minute. The amount must be 99 cents. You said it was free
+
+1194
+01:36:14,820 --> 01:36:19,800
+Okay, one dollar Jesus when you guys toss me a $1 super chat at some point
+
+1195
+01:36:19,800 --> 01:36:21,980
+I hate the idea of actually giving her some of my money
+
+1196
+01:36:21,980 --> 01:36:27,160
+But I guess that means I'm giving her yours instead and here we go. I've got the PDF mecha fetus
+
+1197
+01:36:27,660 --> 01:36:33,600
+2009 nice girls nice cats. It is a lot of overly sexualized ridiculous drawings
+
+1198
+01:36:33,760 --> 01:36:36,760
+Honestly the kind of stuff that she's still post nowadays on her private accounts
+
+1199
+01:36:36,760 --> 01:36:40,560
+But I want to see what she's referring to when she says jokes that haven't aged. Well. Oh, yeah
+
+1200
+01:36:40,560 --> 01:36:42,080
+I definitely got a sense for this
+
+1201
+01:36:42,080 --> 01:36:50,120
+This is a picture of a naked zombie girl getting seppuku and her blood fountaining out onto a mecha fetus a robot fetus
+
+1202
+01:36:50,120 --> 01:36:56,000
+Well on the other side, there's an angel woman who's squeezing her tits together and spraying milk onto the same fetus
+
+1203
+01:36:56,000 --> 01:37:01,040
+I mean, it's ridiculous and goofy and stupid but definitely not you too safe. Oh, I think I found it
+
+1204
+01:37:01,040 --> 01:37:02,760
+This is a giant
+
+1205
+01:37:02,760 --> 01:37:03,500
+bloodied
+
+1206
+01:37:03,500 --> 01:37:09,860
+futanari woman with like a four-foot cock and a whole bunch of women are like climbing on it and dancing around it while it
+
+1207
+01:37:10,120 --> 01:37:14,720
+Ejaculates a huge rainbow, but also she has a swastika carved into her tits
+
+1208
+01:37:15,920 --> 01:37:20,440
+This is so stupid and ridiculous. It really is funny artwork, but man
+
+1209
+01:37:20,440 --> 01:37:23,880
+This is not the kind of thing that a 2023 progressive would do
+
+1210
+01:37:23,880 --> 01:37:27,640
+I'm not bringing this up to cancel Mariel just like I didn't with Atrux earlier
+
+1211
+01:37:27,640 --> 01:37:30,680
+It's to point out that all of these people have followed a similar path
+
+1212
+01:37:31,000 --> 01:37:34,480
+Despite all of their claims to be artists who are creating what is authentically them
+
+1213
+01:37:34,480 --> 01:37:39,400
+They nonetheless move and bend with the wind when being edgy and sexual was popular and progressive
+
+1214
+01:37:39,400 --> 01:37:44,240
+They were edgy and sexual when the political paradigm moved on they also moved on but only kinda
+
+1215
+01:37:44,280 --> 01:37:49,340
+These people will still make and like sexual art on their personal accounts while at the same time
+
+1216
+01:37:49,640 --> 01:37:55,480
+Chastising you for your own sexual expression because they're progressive and sex-positive while you're a fetishizer and an exploiter
+
+1217
+01:37:55,640 --> 01:38:01,920
+Once again, we come face to face with safe horny. There's a hard truth here that I've personally had to learn the hard way
+
+1218
+01:38:01,920 --> 01:38:04,320
+I think Mike might be learning it the hard way, too
+
+1219
+01:38:04,440 --> 01:38:10,840
+when you look at Mariel and Alex and all these other people in their Southern California art clique when you look at other similar cliques in
+
+1220
+01:38:10,840 --> 01:38:16,360
+Twitch streaming or youtubing speedrunning indie game development any sort of creative field that is relatively new
+
+1221
+01:38:16,360 --> 01:38:19,460
+You can see the beginnings of class divide in those cliques
+
+1222
+01:38:19,600 --> 01:38:24,820
+I'm not gonna sit here and say that Mariel is the haves and the artist whose stuff never takes off as the have-nots
+
+1223
+01:38:25,060 --> 01:38:28,260
+Mariel's not a capitalist bourgeois oppressor or any nonsense like that
+
+1224
+01:38:28,380 --> 01:38:32,340
+But these are all people who know each other they live in one of the most affluent areas of the world
+
+1225
+01:38:32,340 --> 01:38:37,900
+They have connections. They wear their politics on their sleeve. Their groups are called collectives or cooperatives for a reason
+
+1226
+01:38:37,900 --> 01:38:42,100
+They want a bit of that commune aesthetic. We are feature club and we are
+
+1227
+01:38:43,140 --> 01:38:49,020
+cooperatively owned and run game company everyone on the team has equal ownership and
+
+1228
+01:38:49,460 --> 01:38:56,180
+Voting power and to determine sort of how the studios run and that was really something that was really really important to us and
+
+1229
+01:38:56,380 --> 01:39:01,540
+Frankly people like you or I were just not part of the club even if we became successful
+
+1230
+01:39:01,540 --> 01:39:04,780
+I remember talking to I think it was it's a Gundam about this in private
+
+1231
+01:39:04,780 --> 01:39:08,140
+He's got a really successful channel, but he's still on the outside of the YouTube game
+
+1232
+01:39:08,140 --> 01:39:14,820
+He's still somebody that the equivalent of Mariel in a lefty youtuber clique would look down on it's true that Mariel got to where she
+
+1233
+01:39:14,900 --> 01:39:16,900
+Was based off of her own talent and hard work
+
+1234
+01:39:16,980 --> 01:39:23,860
+She is truly a successful artist, but she's also physically attractive. She has the right politics. She lives in the right place
+
+1235
+01:39:23,860 --> 01:39:27,540
+She knows the right people if I were an equally skilled artist as her
+
+1236
+01:39:27,540 --> 01:39:33,700
+I still wouldn't have her career because I'm not her the socialist analysis of the state of affairs would be to consider the system
+
+1237
+01:39:33,860 --> 01:39:39,680
+Oppressive and work towards its destruction, but I'm not a fucking retard and also I don't want to destroy what they've built for themselves
+
+1238
+01:39:39,680 --> 01:39:43,760
+I don't want to be a part of it. The actual solution is to build your own
+
+1239
+01:39:44,280 --> 01:39:46,440
+institutions outside of their control in
+
+1240
+01:39:46,820 --> 01:39:52,360
+Locations that they ignore and with people they've cast out and of course you gate keep it from them
+
+1241
+01:39:52,360 --> 01:39:57,880
+A lot of the youtubers that I know personally we've all learned this lesson the hard way and I hope Mike is learning it too
+
+1242
+01:39:58,320 --> 01:39:59,560
+part 6
+
+1243
+01:39:59,560 --> 01:40:05,760
+Future Club in the court documents Mariel and Francesca exclaim that their company doesn't need to be about fighting games anymore
+
+1244
+01:40:05,760 --> 01:40:10,280
+They can do whatever they want and there are other stories that they want to tell that are slower and more thoughtful
+
+1245
+01:40:10,360 --> 01:40:17,560
+You know walking simulators, I guess they reiterated the sentiment during a segment in the progressive gaming expo future of play
+
+1246
+01:40:33,880 --> 01:40:38,440
+Mariel mentioned back in 2012 much of a fan of clock tower that she is, you know that SNES horror game
+
+1247
+01:40:38,640 --> 01:40:41,700
+I would really love to work on a survival horror game
+
+1248
+01:40:42,800 --> 01:40:48,540
+I think it'd be kind of hard because right now my skills are 2d oriented
+
+1249
+01:40:49,640 --> 01:40:51,640
+and I think
+
+1250
+01:40:51,920 --> 01:40:58,040
+It's kind of easier to get like a survival horror thing across in a 3d environment though. My favorite
+
+1251
+01:40:59,000 --> 01:41:05,320
+Survival horror game is the first clock tower. Oh, yeah, which which is a 2d, you know point-and-click
+
+1252
+01:41:05,320 --> 01:41:07,320
+So
+
+1253
+01:41:07,640 --> 01:41:09,040
+I don't know
+
+1254
+01:41:09,040 --> 01:41:14,520
+But I guess you know that that would be my dream project and I guess it would star a girl
+
+1255
+01:41:15,040 --> 01:41:19,320
+Well in 2023, she's the lead on the clock tower remake. Give us the lowdown
+
+1256
+01:41:20,120 --> 01:41:22,000
+Why clock tower?
+
+1257
+01:41:22,000 --> 01:41:28,680
+Yeah, so I think something that way forward and limited run have been really interested in doing
+
+1258
+01:41:29,240 --> 01:41:31,240
+over the past few years is
+
+1259
+01:41:31,440 --> 01:41:32,600
+kind of
+
+1260
+01:41:32,600 --> 01:41:37,520
+Finding these hidden gem games that haven't seen Western release
+
+1261
+01:41:38,600 --> 01:41:44,880
+So I think clock tower fits exactly that criteria where clock tower is a game that has a really
+
+1262
+01:41:45,280 --> 01:41:49,480
+Great, like dedicated fan base the original Super Nintendo game, which is my favorite
+
+1263
+01:41:50,200 --> 01:41:52,920
+Never got a Western release or an official translation
+
+1264
+01:41:53,040 --> 01:41:58,520
+So it seemed like the perfect game to kind of reintroduce to people kind of bring back
+
+1265
+01:41:59,040 --> 01:42:00,720
+This brand and
+
+1266
+01:42:00,720 --> 01:42:03,800
+You know just just share with the world like how great this game is
+
+1267
+01:42:04,200 --> 01:42:12,120
+So it seems like she's successfully managed to make that shift those slower more intimate stories while still doing something her younger self truly
+
+1268
+01:42:12,120 --> 01:42:13,680
+Desired which is to her credit
+
+1269
+01:42:13,680 --> 01:42:16,480
+But my analysis of the court documents seems to be correct
+
+1270
+01:42:16,800 --> 01:42:21,460
+Marielle and Francesca and the rest of the future clubbers just seemed to be over and done with skull girls
+
+1271
+01:42:21,460 --> 01:42:25,880
+But it's probably the only lifeline they have right now. It's making them some money though
+
+1272
+01:42:25,880 --> 01:42:31,880
+I'd guess less now since the censorship controversy has tanked their public image, but I think they no longer care about the property
+
+1273
+01:42:31,960 --> 01:42:37,280
+Here's what I think happened on the business side of things when Marielle and Mike gave that indivisible GDC talk
+
+1274
+01:42:37,280 --> 01:42:42,760
+They both described skull girls like it was over. It was a finished project indivisible was their next big thing
+
+1275
+01:42:42,760 --> 01:42:49,080
+We were kind of coming off of finishing all the skull girls DLC that we did which we also crowdfunded on Indiegogo
+
+1276
+01:42:49,720 --> 01:42:52,880
+So we would how many characters did we release for skull girls?
+
+1277
+01:42:56,400 --> 01:43:00,000
+Okay, so so we put out six DLC characters for skull girls
+
+1278
+01:43:04,920 --> 01:43:07,720
+And and once we finished that, you know
+
+1279
+01:43:07,720 --> 01:43:10,840
+We started looking ahead and thinking about our next project
+
+1280
+01:43:11,000 --> 01:43:14,520
+This explains why skull girls was getting little to no updates during this time, by the way
+
+1281
+01:43:14,520 --> 01:43:15,680
+The team was just done with it
+
+1282
+01:43:15,680 --> 01:43:19,760
+But after the implosion of lab zero games and the creation of future club
+
+1283
+01:43:19,920 --> 01:43:23,720
+I think Marielle and Francesca realized just how fucked they were
+
+1284
+01:43:23,900 --> 01:43:28,200
+The only contract they could secure was with autumn games for more skull girl stuff
+
+1285
+01:43:28,200 --> 01:43:32,040
+Which is why even as Marielle and Francesca talk a big game about new projects
+
+1286
+01:43:32,040 --> 01:43:35,280
+The only thing they did for like three years was try to revive skull girls
+
+1287
+01:43:35,280 --> 01:43:40,200
+The only property of note they can get their hands on if they were going to be able to move on and do those future
+
+1288
+01:43:40,200 --> 01:43:44,760
+Games they need to milk that old skull girls legacy as much as possible to me
+
+1289
+01:43:44,760 --> 01:43:47,720
+It seems like this is probably what drove the censorship in the first place
+
+1290
+01:43:47,840 --> 01:43:53,560
+They thought it would boost popularity and hopefully sales enough in the short term just to get a few more dollars out of it
+
+1291
+01:43:53,560 --> 01:43:55,520
+While their real priorities lie elsewhere
+
+1292
+01:43:55,520 --> 01:44:01,440
+Additionally, I'd be remiss if I didn't mention this plus I spent like 12 hours researching it and I got to get something out of
+
+1293
+01:44:01,440 --> 01:44:04,280
+That time even if it's only one final paragraph at the end of the video
+
+1294
+01:44:04,280 --> 01:44:07,380
+But it seems like future club is actually a real worker co-op
+
+1295
+01:44:07,640 --> 01:44:11,040
+Marielle and Francesca founded it in Colorado as a B corporation
+
+1296
+01:44:11,040 --> 01:44:15,160
+Which is a corporate status that only some states have a public benefit corporation
+
+1297
+01:44:15,160 --> 01:44:19,080
+Which allows them to pursue profit but not have a strict fiduciary duty to shareholders
+
+1298
+01:44:19,080 --> 01:44:23,500
+They can instead also pursue a declared public good separate from profit
+
+1299
+01:44:23,640 --> 01:44:29,880
+This basically gave them the legal leeway to be worker owned right from the beginning instead of trying to turn a normal for-profit
+
+1300
+01:44:29,960 --> 01:44:37,240
+Corporation into a worker co-op future club, Colorado a b-corp shell company owns a separate company future club, California
+
+1301
+01:44:37,240 --> 01:44:41,960
+Which is a normal corporation, which they all work for however due to the nature of American business law
+
+1302
+01:44:42,080 --> 01:44:48,000
+The worker co-op status is if I'm reading this gobbledygook right and I might not be at the whim of Marielle and Francesca
+
+1303
+01:44:48,240 --> 01:44:53,200
+Future Club's founding documents outline that all company shares are pegged at a value of one cent
+
+1304
+01:44:53,200 --> 01:44:58,540
+one share is given to each employee upon the completion of their probationary period and that the company itself has
+
+1305
+01:44:58,920 --> 01:45:04,780
+1,000 shares the vast majority of which are held by the company and handed out by executives to the employees
+
+1306
+01:45:05,200 --> 01:45:09,820
+Even though everyone has one share Marielle and Francesca control the remaining shares
+
+1307
+01:45:09,820 --> 01:45:14,820
+So it might be possible for them to pull some legal fuckery if they wanted to and just take over the company
+
+1308
+01:45:14,820 --> 01:45:18,500
+I don't know though. I'm no expert in law from my layman's perspective
+
+1309
+01:45:18,500 --> 01:45:24,740
+It does look like future club is at least a real attempt at a worker co-op and that American law might be unsuited for it
+
+1310
+01:45:24,740 --> 01:45:30,560
+I'm not sure. So that is everything to me. It seems like Marielle Cartwright is a snake
+
+1311
+01:45:30,740 --> 01:45:35,100
+She's not a fake gamer girl or some new progressive face coming into skull girls to fuck it up
+
+1312
+01:45:35,260 --> 01:45:39,420
+That part of the fan narrative is incorrect, but that doesn't mean that she's innocent
+
+1313
+01:45:39,660 --> 01:45:43,140
+For all of Mike's I'm onts faults and there are many of them don't get me wrong
+
+1314
+01:45:43,540 --> 01:45:46,700
+Marielle seems like a person who corrupted this friend group from the inside out
+
+1315
+01:45:46,920 --> 01:45:49,460
+She blamed others for actions that she committed herself
+
+1316
+01:45:49,980 --> 01:45:54,240
+Including workplace sexual harassment and expressed fears that she would eventually be discovered for it
+
+1317
+01:45:54,340 --> 01:45:59,340
+She genuinely contributed to a wonderful game in skull girls using her own incredible talents
+
+1318
+01:45:59,340 --> 01:46:03,740
+But she then used that leverage to force everybody else out of the project and kept it for herself
+
+1319
+01:46:04,060 --> 01:46:06,820
+Only to exploit it to springboard her career in a different direction
+
+1320
+01:46:07,180 --> 01:46:10,100
+She betrayed her friends people she knew for years in
+
+1321
+01:46:10,300 --> 01:46:14,940
+Mike's case being extremely close to him for a decade and then in just a matter of weeks
+
+1322
+01:46:15,220 --> 01:46:21,100
+Pulled a 180 and viewed him as her worst enemy that decade of friendship meant nothing. She had no compassion
+
+1323
+01:46:21,380 --> 01:46:26,460
+She knew the claims against him were false and she pushed them anyway because she knew it would help her career
+
+1324
+01:46:26,580 --> 01:46:31,300
+She didn't even really care if he got saddled with all that debt and in the progressive point of view
+
+1325
+01:46:31,300 --> 01:46:36,040
+At least everything is forgiven because she is a minority woman in game development who is harassed by a white male
+
+1326
+01:46:36,200 --> 01:46:42,880
+Because he did the same shit to her that she did to him only she is attractive and popular while he is autistic and awkward
+
+1327
+01:46:42,880 --> 01:46:49,800
+I personally believe that despite Mike's own faults a lot of the flak he receives nowadays is basically just out of spite
+
+1328
+01:46:50,040 --> 01:46:54,080
+Remember modus games the company run by the woman CEO who decided to give Mike another chance
+
+1329
+01:46:54,240 --> 01:46:57,240
+She said that his work has been truly genius level stuff
+
+1330
+01:46:57,240 --> 01:47:02,960
+He is an inspired master of his craft, but also that his personal behavior at her company has been perfect
+
+1331
+01:47:03,000 --> 01:47:09,280
+She was not willing to trade genius level work for bad behavior and she hasn't had to Mike's direct supervisor
+
+1332
+01:47:09,320 --> 01:47:14,920
+Deagle legacy's art director has said the same thing but in that PC gamer article about the game
+
+1333
+01:47:14,920 --> 01:47:20,360
+They also reached out to future club employees and printed the opinion of an anonymous former co-worker of Mike's
+
+1334
+01:47:20,600 --> 01:47:26,840
+When I heard that modus was going to work with him. I was like that's disgusting. They're disgusting. It's disgusting
+
+1335
+01:47:26,840 --> 01:47:30,340
+They'd work with him because they clearly don't care about female game developers
+
+1336
+01:47:30,340 --> 01:47:35,500
+The public record was there of his continued harassment of two ex co-workers. We don't know who this is
+
+1337
+01:47:35,500 --> 01:47:36,180
+It's anonymous
+
+1338
+01:47:36,180 --> 01:47:42,860
+but they seem to believe that despite Mike's good behavior at modus games his ongoing lawsuit proves that he hasn't truly changed and that if
+
+1339
+01:47:42,860 --> 01:47:46,180
+Mike were actually remorseful. He wouldn't be fighting back in court
+
+1340
+01:47:46,180 --> 01:47:48,460
+He would just be accepting whatever legal punishment
+
+1341
+01:47:48,740 --> 01:47:53,740
+Mariel and Francesca wish to inflict on him having read all the court documents and watched all the interviews
+
+1342
+01:47:53,740 --> 01:47:58,540
+I personally believe that this anonymous source from future club is probably Mariel herself
+
+1343
+01:47:58,580 --> 01:48:04,700
+She is the only one of the former staff who exhibited such visceral hatred of Mike and if I were to do some armchair
+
+1344
+01:48:05,140 --> 01:48:07,200
+Psychologizing I think that by 2023
+
+1345
+01:48:07,220 --> 01:48:14,580
+She still holds this visceral hatred because she knows she backstabbed a close friend of hers and she needs to justify it to herself
+
+1346
+01:48:14,580 --> 01:48:18,180
+On the extreme off chance that you're watching this Mariel
+
+1347
+01:48:18,180 --> 01:48:21,760
+I just want you to know that tiny voice that you can never seem to get rid of completely
+
+1348
+01:48:21,860 --> 01:48:26,460
+lingering in the back of your mind in the middle of the night telling you that what you did was wrong and you keep
+
+1349
+01:48:26,540 --> 01:48:34,640
+Bearing it with more and more hatred more justifications new projects new public statements, whatever but it never seems to go away. It's correct
+
+1350
+01:48:40,700 --> 01:48:42,200
+The skull girls team
+
+1351
+01:48:42,200 --> 01:48:48,820
+Predicted that the narrative surrounding future club would be that they bullied Mike out of his company that they destroyed an innocent man for simply
+
+1352
+01:48:48,820 --> 01:48:55,420
+Being kind of weird and that is exactly what the narrative surrounding future club should be. I hope Mike wins in court
+
+1353
+01:48:56,500 --> 01:49:02,700
+That's it. That's the end of the video guys. Thanks very much for watching if you couldn't tell this was a lot of work
+
+1354
+01:49:02,700 --> 01:49:06,920
+I hope you enjoyed it Naomi my girlfriend and Dave my editor doing a few
+
+1355
+01:49:07,040 --> 01:49:12,120
+Jokey voices for some of the characters in this story if you want me to keep using their incredible talents like this
+
+1356
+01:49:12,120 --> 01:49:15,360
+Let me know in the comments. I guess I just decided to try it on a whim additionally
+
+1357
+01:49:15,360 --> 01:49:19,640
+Yes, I do know about technicals video. He got it out first and it was a very good video
+
+1358
+01:49:19,640 --> 01:49:20,700
+It's certainly worth watching
+
+1359
+01:49:20,700 --> 01:49:26,180
+I went over a few things that he didn't but also he got that exclusive word from Kim McCaskill
+
+1360
+01:49:26,220 --> 01:49:27,940
+He emailed her and got her comment on the story
+
+1361
+01:49:27,940 --> 01:49:30,380
+I could have put that in my video, but I didn't want to steal his work
+
+1362
+01:49:30,380 --> 01:49:34,900
+It just didn't seem right. So you should go and watch his stuff too. Why not? Anyway, I know this took forever
+
+1363
+01:49:35,160 --> 01:49:39,320
+Thanks for sticking by me. I will see you guys next time. I love you
+

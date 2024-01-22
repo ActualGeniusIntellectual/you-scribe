@@ -1,0 +1,215 @@
+So, if you're not Canadian, this will probably be news to you.
+July 8th, 2022.
+One week ago, the Canadian telecom company Rogers experienced a service outage.
+Yes, this is what goes for newsworthy events in Canada.
+It's even got its own Wikipedia page!
+What makes it newsworthy, though, is the fact that Canada has one of the most over-regulated,
+monopolistic and protected telecom markets in the world.
+The big three companies, Rogers, Telus and Bell, control most of the market, with the
+rest being divided by the middle-tier Shaw, which Rogers is currently trying to buy up,
+and the few smaller regional competitors that are still somehow surviving.
+As such, the Rogers outage affected 12 million people out of Canada's 38 million.
+25% of Canada's total landmass lost internet connectivity.
+Interac, the main electronic financial transactions service, was down nationwide as they use Rogers.
+Their phone service was down, including emergency services, leading to one death that could
+have been prevented had the people at the scene been able to call 911.
+Approximately 25% of Toronto's traffic signals stopped working as they used the Rogers wireless
+network to communicate timing between intersections.
+And the overall economic impact to the whole of Canada is currently estimated to be at
+around $142 million, and rising as the outage isn't totally fixed yet.
+I was still online because I use Bell.
+And yeah, Bell sucks a big one, too, but they're the only provider in my area that
+offers fiber optic internet, so what are you going to do?
+In fact, that's how most of Canada feels.
+They're the only provider, so what are you going to do?
+Most places in Canada, you've got one option.
+There's sometimes more options than the larger cities, to a point, but the market's
+still extremely regulated, with little real room for actual competition.
+And you can tell just how bad it is by looking at these prices, in Canadian dollars, of course.
+An unlimited calling and texting cell phone plan with 12 gigs of data for just $115 a
+month at Rogers, 15 gigs for $160 at Bell, oh man, $175, $125, look at these deals.
+Meanwhile in Australia, it's, converted into Canadian dollars, $43 a month for a
+cell phone plan with 30 gigs of data, $44 Canadian for 40 gigs of data.
+In America, AT&T offers unlimited data for $91 Canadian, Virgin offers the same for $78.
+In the UK, $54 Canadian for unlimited, $46, same thing, $41, same thing.
+In India, it's the equivalent of $8, though that might not necessarily be the same, we're
+not comparing first world nations anymore.
+But I think the point is made.
+Canadians are getting fucked by telecoms right now, to the point that it's actually cheaper
+to get an American cell phone plan and pay roaming charges.
+Regulation has a unique secondary role in Canada, the primary role being the same as
+everywhere else, where the government imposes standards on private business, with the intention
+of ensuring a specific level of quality, or widespread coverage, or safety, depending
+on the industry.
+This isn't automatically good or bad, it depends on what the regulation is, but it
+almost always has the unfortunate side effect of raising the barrier of entry into the market.
+If your new fledgling company with your new idea that'll disrupt the marketplace can't
+afford the additional imposed cost of implementing the government regulation, your company is
+not getting off the ground.
+This leads to a lack of competition, which leads to a lack of innovation.
+Companies become stagnant, they begin to monopolize the market, and once they're sufficiently
+protected by government regulation, they begin to jack prices up, because what are you going
+to do?
+Now, as always, things aren't this simple all the time.
+There are some industries that naturally trend towards monopolies, due to the particularities
+of their specific market or product, and in that case, regulation to promote competition
+and prevent monopolies can certainly be good.
+And in other cases, markets that are highly competitive on their own may need to be regulated
+for some other reason, since not everything we value can be best obtained by market forces.
+But as a general rule, regulation, even necessary regulation, even regulation that we don't
+want to do away with, represents an extra cost for business, which makes it harder for
+new players to compete, giving the big corporations an advantage.
+But as I said before, Canadian regulation serves a dual purpose, and the other one is
+a strange form of Canadian protectionism.
+Yes, every country wants to see their own businesses flourish, and not only have foreign
+corpos come in and control everything, and Canada is no exception.
+Uncharacteristically, compared to the world's generally free-trade loving liberal parties,
+the Canadian liberals have historically advocated for tariffs on certain protected Canadian
+industries, even within such frameworks as NAFTA.
+But there's also a cultural component to this conversation as well.
+The Canadian government is extremely worried about the cultural powerhouse that is the
+United States.
+There's a fear, probably well-founded, that within a completely free market, Canadian
+media would be absolutely dominated by American exports, American music, American TV shows,
+American movies.
+And so, the Canadian government always uses its regulatory powers to mandate that a percentage
+of all broadcasted media in Canada is made in Canada by Canadians and about Canadians.
+And this mandate has greatly empowered both the creators and the distributors of Canadian
+media, with telecoms, whose infrastructure the media is being transmitted is on, playing
+their part in that process.
+Sometimes this protectionism can play a positive role.
+For example, I recall it being kind of a fight to get Chinese-compromised Huawei tech out
+of the telecom networks of the US and the UK, while in Canada, the make-it-in-Canada
+message made that move a no-brainer.
+Also, it's just funny to me that this sort of nativist, Canada-focused language comes
+out of primarily our left-leaning parties, the liberals and the NDP, when if you swap
+Canada out for America, it almost sounds Trumpian in a way.
+But the telecom situation in Canada has been a known problem for years.
+Nobody is actually happy with the way things are going, except for the companies themselves
+who are making a killing, and the government, who is all too happy to use the powers of
+a privately owned monopoly for its own purposes.
+A marketplace that has been so heavily regulated and protected such that only a small group
+of players are able to operate, is an industry where the government has only a small group
+of players to deal with in order to achieve its goals.
+And there is certainly a push within Canada for the government to exert more control over
+the internet and telecommunications in general.
+In 2018, an organization called Fairplay Canada popped up, which claims to be a coalition
+of Canadian artists, content creators, unions, guilds, producers, performers, broadcasters,
+distributors, and exhibitors who are asking the Canadian Radio, Television and Telecommunications
+Commission, the CRTC, to take action to address the theft of digital content by illegal piracy
+websites.
+What this actually is, is an advocacy group headed up by a bunch of corpos, most notably
+Bell & Rogers, two of Canada's big three telecoms, advocating for the government to grant private
+business the legal right to filter the internet in Canada to exclude pirated content.
+And of course, there's no reason to believe that this power would stop there.
+In 2019, a Canadian court ordered Canada's telecoms to block access to Gold TV, an IPTV
+service that broadcasts around the world, including in Canada.
+In case you don't know, IPTV is just regular television broadcast over the internet, rather
+than over satellite or cable.
+It's not the same as downloading content, nor is it the same as Netflix or YouTube,
+where you choose a video or show or movie to stream, but rather it operates like traditional
+TV, where you pick a channel, it just transmits over the internet.
+But Canada's telecoms market, being protected from competition, hasn't felt any pressure
+to move towards IPTV, even though it is the latest in TV technology, so Gold TV started
+doing it on their own.
+Where Gold TV fucked up, is that it never got permission from the channels it was broadcasting
+to do so, so fair enough.
+But the issue is, the court saw fit to just blanket ban access to the service across Canada
+at the ISP level.
+There was never any chance offered to Gold TV to go legit, or to shut down Gold TV's
+service in Canada on their end.
+Instead, it was simply decided that you could not access their service, not that they could
+not provide it.
+In 2020, Trudeau's Heritage Minister announced on CTV that any creator of Canadian media
+would, under their proposed new regulations, would have to get a license in order to do
+business.
+You've got an agency that wants to enhance its scope of powers to determine what's
+a trusted news source.
+So the first question will be, who's to define that?
+You've got a lot of these groups...
+No, this is a recommendation, Evan, it's not, the CRTC hasn't decided anything.
+Okay, but they're recommending that?
+They're recommending that content providers have to register and get a license.
+So how will this work?
+How are you going to regulate websites?
+How are you going to register all that?
+Are you, do you buy these recommendations?
+Well, I mean, one of the recommendations, so you're talking about a couple of different
+things here, but as far as the licensing is concerned, is if you're a distributor of
+content in Canada, and obviously, you know, if you're a very small media organization,
+the requirement probably wouldn't be the same as if you're Facebook or Google, so there
+would have to be some proportionality embedded into this.
+But we would ask that they have a license, yes.
+Just like right now, with the old system in Canada, distributors needed to go to the CRTC
+and to have a license.
+Oh no, we're joining the UK as license cucks.
+This received a massive amount of blowback because this demanded not only entertainment
+media, but news media, journalists obtain government approved licenses in order to operate
+within Canada.
+And there was a public outcry over the idea that the government would be the arbiter of
+who is allowed to report on the news or not.
+But the Heritage Minister didn't seem to think this was a big deal.
+There is a concern that the panel wants to regulate international companies as well.
+So let me take an example of a controversial site like Breitbart.
+How would the government force a company like Breitbart, I don't know, the New York Times,
+Mother Jones, the Daily Mail, how would they force those companies to comply with rules
+of Canadian content, discoverability?
+And if they don't comply, what happens?
+Will Canadians be blocked from accessing international sites?
+I don't think that's what's recommended in the report that these sites be blocked in
+Canada.
+Frankly, I'm not sure I see what the big deal is.
+I mean, we have an incredible number of international corporations that are operating in Canada
+and all sorts of sectors and financial sector and construction sector and the energy sector.
+And these companies comply with Canadian rules and laws were a sovereign state.
+All of this stuff would have come into force if Bill C-10 had passed, but it didn't.
+The House of Commons gave it their stamp, but Parliament was dissolved for the 2021
+election before the Senate could vote on it.
+However, it's back again, this time as Bill C-11 with a few changes, passing again in
+the House of Commons on June 21st of 2022.
+And just like before, we're still waiting to see if it'll pass in the Senate.
+The general idea is that the CRTC needs to be expanded to include Internet content and
+that any Internet-based business with significant Canadian revenues needs to be registered with
+and be regulated by that commission and be obligated to create and promote Canadian focused
+content just like TV, film and radio in Canada.
+The Conservatives attempted to include a clause excluding user-generated content into the
+bill, only to have it shot down by the Liberals.
+The Heritage Minister went on to say that individuals with large enough followings or
+who generate enough revenue will be considered broadcasters, whether or not they actually
+consider their online presence a business or just something that they do for fun.
+This is a situation where big business and big government are all too happy to wash each
+other's backs.
+The corpos get state-backed monopolies where they can continue to drive prices upward,
+knowing that there's no legit competition for their customers to turn to.
+The government gets regulation, which controls their citizens' access to media that they
+both consume and create.
+The Conservative Party in Canada, for all of its problems, does not have the stench
+of corruption on them that the Liberals do.
+And while Trudeau promised to end the liberal corruption that was so commonplace under Chretien
+and Martin, it does not seem like he's succeeded.
+However, that's a wider conversation.
+I've done previous videos on Trudeau's many corruption scandals, from the SNC Lavalin
+Shit Show, where the Quebec-based construction company gave money to the Liberals and received
+preferential treatment in return, to the We Charity Shit Show, where the charity was given
+a big bag of money by Trudeau's government and Trudeau's relatives were paid by the
+charity for consulting work in return.
+But Canada just seems to be more generally a country of goofy corruption and incompetence.
+There was also that Nova Scotia shooting, I did a video on that a while back, where
+it turned out that the RCMP, Canada's federal-level police like the FBI, were so awful at their
+jobs that they sold to a man with a criminal record surplus RCMP gear, including RCMP vehicles,
+which he used to pose as an officer in order to get people to trust him before he killed
+them.
+Like, I know we're laid back up here, guys, but whenever a scheme in Canada comes to light,
+everybody involved doesn't look like an evil mastermind who's receiving a just downfall.
+Instead, they all look like doofuses who were dumbfounded they were caught.
+I think there's this perception in Canada that because we're so small and unassuming
+and polite, especially compared to the loud, boisterous, hyper-nationalistic, hyper-capitalistic
+United States, that no matter what we do here, it'll never be as bad as those evil
+Americans.
+And I think that leads Canadians to excuse a lot of shit that we really shouldn't be
+excusing.
+Our corporations and our government is just as capable of being corrupt and fucking people
+over, just like any other in any other place.
+It doesn't matter that we have a reputation of culture and politeness.
+All that means is that they'll be polite as they rape you, and insofar as the telecoms
+go, that's exactly what they're doing.

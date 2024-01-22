@@ -1,0 +1,433 @@
+I was on eFAP last week with a whole bunch of other guests to talk about the current
+drama surrounding the React meta of Twitch.
+I had a really good time.
+I love going on eFAP.
+But large panels like this aren't always the best way to get a point across.
+That, plus I've had a bit of time to think about it, so I want to give a more nuanced
+take regarding the topic.
+To really understand what's going on, you have to watch like five videos on Destiny's
+channel, and they're each several hours long.
+And ain't nobody got time for that.
+Let me give you a quick TLDR.
+xQc and Hassan are two of the most popular streamers in the world.
+Hassan is explicitly a socialist, while xQc seems to be more apolitical.
+They both got into a lot of controversy last week, when they reacted to Lomino's hour-and-a-half-long
+documentary on the assassination of JFK.
+Lomino is a YouTuber with over five million subs, and his bread and butter seems to be
+highly researched, highly edited long-form videos like this.
+xQc and Hassan both got into trouble for playing the entire video on their stream,
+though xQc caught a lot more heat.
+This sparked multiple debates across multiple channels about the ethics of reacting to other
+people's content on stream, on Destiny's stream, on the E5 episode that I was a part
+of, ultimately culminating with xQc going on to the H3H3 podcast to debate Ethan Klein
+on the topic.
+And you know what?
+As much as I absolutely fucking hate Ethan Klein, I gotta hand it to him.
+He stomped xQc into the dirt.
+So when I say minimal commentary, how minimal are we talking here?
+Well, xQc's reaction on stream was cut into a video by his editor and uploaded to his
+YouTube channel.
+That stream segment clocked in at one hour and fifty-three minutes.
+Lomino's original video clocks in at an hour thirty-eight.
+That means that if we give xQc any sort of time devoted to intro and outro, pre- and
+post-discussion of the video, he added fifteen minutes of his own content to Lomino's video.
+Is that enough for it to be considered ethical, or is this simply xQc stealing other people's
+hard work and letting it run on his stream?
+How about Hassan's reaction?
+His VOD is two hours and twenty-three minutes.
+Good faith assumption that he added forty-five minutes of his own commentary.
+Is that enough for it to be considered ethical?
+Lots of people look to fair use, which is an American legal argument.
+Fair use permits the use of copyrighted material without permission from the owner under specific
+circumstances for various artistic purposes.
+Current American law has a four-point checklist that can help determine whether or not a use
+of a copyrighted work is copyright infringement or is actually fair use.
+When determining whether the use made of a work in any particular case is a fair use,
+the factors to be considered shall include 1.
+The purpose and character of the use, including whether such use is of a commercial nature
+or is for non-profit educational purposes 2.
+The nature of the copyrighted work 3.
+The amount and substantiality of the portion used in relation to the copyrighted work as
+a whole 4.
+The effect of the use upon the potential market for or value of the copyrighted work
+Now to be clear, this isn't a hard and fast checklist.
+Like, you don't have to tick off the four boxes for a use to be considered fair use.
+It's judged on a case-by-case basis, because fair use is what is known as an affirmative
+defense.
+An affirmative defense is, basically, when you don't dispute the facts of the case.
+You make the argument that you had a really good reason to do what you did.
+Self-defense is a great example of an affirmative defense.
+For example, nobody disputes that Rittenhouse shot those people.
+His defense is that he had a really good reason to do so, that he was under attack by them
+and afraid for his life.
+When you claim fair use, it's an affirmative defense.
+You're not denying that you're using the copyrighted material.
+You're claiming that you have a good reason to use it.
+And these four points can help a judge determine whether or not your reason is actually a good
+one.
+Point one is basically about the social good of the use.
+Are you just making a bunch of money ripping off somebody else's work?
+Or are you not making any money and instead using it to educate?
+Point two is taking into account what you used.
+Using a song is different from using a movie, which is different from using a photo.
+What the work is will help you determine whether or not your use of it was legitimate.
+Point three is taking into account how much of the work you used.
+If you're reviewing a movie, you probably shouldn't include the entire movie in your
+review and only use the clips necessary to make your points.
+But that doesn't mean that under the right circumstances, using a whole work wouldn't
+be valid.
+It depends on what you're doing with it and if it's necessary.
+Point four is taking into account the loss of the copyright holder.
+For example, I remember a fan-made project where you tour the Enterprise-D from Star
+Trek Next Generation, which Paramount had successfully shut down as they had for sale
+their own version doing the exact same thing.
+In this case, the impact on the copyright holder is too much for it to be fair use.
+The fan was literally providing a competing parallel product for free, depriving Paramount
+of sales.
+However, it's not as simple as whether or not a copyright holder is financially damaged
+by the use, as a negative review of a movie might lead to the creators of the movie seeing
+a financial loss.
+A review is not a parallel product in the same way as recreating the entire thing.
+Basically, fair use isn't a series of hard and fast rules that can be easily figured
+out, but a set of guidelines that can help judge a use on a case-by-case basis.
+For the UK and Canada and other English-speaking nations, we have fair dealing law instead,
+which is mostly similar with a few key differences.
+Here we've got a six-point system.
+The purpose of the dealing, the character of the dealing, the amount of the dealing,
+alternatives to the dealing, the nature of the work used, and the effect of the dealing
+on the work.
+These mostly cover the same thing as American fair use law.
+This is all to say that fair use and fair dealing are legal terms, not moral or ethical
+ones.
+When people talk about this stuff, they often use these terms colloquially, in a moral sense,
+not a legal one.
+When something is found to be a fair use, it's considered transformative.
+And the conversation surrounding XQC is all about whether or not his reaction was transformative.
+Not explicitly in a legal way, but in a colloquial way.
+Like are streamers doing anything unethical by just freebooting somebody else's YouTube
+videos for their stream?
+Let me draw out a logic tree here.
+If you're watching me on your second monitor, now is the time to pause Baldur's Gate and
+look over for a few minutes.
+If Lomino gave the streamers his permission to watch his videos on their stream, then
+the conversation is just over.
+They got the creators' consent.
+I don't think anybody sane would object to this.
+What would they even say?
+That they still can't watch other people's videos even if the creators said it was okay?
+Well, actually, yes, but we'll get back to that in a bit.
+If Lomino didn't give them his permission, then the question becomes, did they mix in
+enough of their own original content, in a way that their reaction is now transformative?
+Again, not legally, colloquially.
+In the case of XQC, most people say no, he didn't.
+Mahler highlighted on eFAP just how little XQC added during the viewing of his video,
+along with pointing out that whenever he paused a comment, his own chat room would revolt,
+screaming at him to stop pausing the video and stop adding his own input.
+Those people were there less for XQC's reaction and more to just watch a YouTube video uninterrupted
+on XQC's stream.
+For Hassan's reaction, despite him walking off several times to do other things and just
+letting the video play to his chat room in his empty chair, he did actually add his own
+commentary significantly more than XQC did.
+It was stupid commentary, yes, Hassan is a gibbering retard, but we're not judging
+the quality of the commentary this time, we're only judging if they've actually transformed
+the original work into a new experience.
+And in this case, Hassan has a much stronger claim to that defense than XQC.
+So where is that line that makes a use transformative, in the colloquial sense?
+I personally think that the various eFAPs on movies and TV shows, as well as my own
+watch party videos of the Rings of Power and The Last of Us, those are all transformative.
+Because yes, while we are watching the whole show or the whole movie, there's significant
+commentary before, during, and after, discussing news articles or social media trends surrounding
+the show, bringing up lore inconsistencies or dumb scenes, or whatever else, sitting
+there and simply saying true with your mouth full, or letting a video play while you wander
+away to jack off in the bathroom, that's not transformative.
+I can't tell you where the line is that makes something transformative when you cross
+it.
+I don't know exactly how much you should add, but I do know that there is an obvious
+difference between the two extremes.
+If a use isn't transformative, then how unethical is it?
+Well, that depends.
+This conversation has come up several times now in terms of internet discourse.
+The last time it kicked off was a year ago.
+Back then I was also on eFAP, talking about Hassan completely stealing one of JX's videos,
+just letting it play providing almost no commentary whatsoever, and going over the dumb fuck defense
+for this behavior given not only by Hassan himself, but also by A-Relevant and Denims.
+And even before that, there was the Twitch TV meta, where large Twitch streamers would
+just watch whole ass real TV shows, like the shit that you'd find on cable.
+The argument given by these large streamers as to why they should be allowed to do this
+makes me think that they view streaming like it's a watch party in Discord, which explains
+why xQc's chat was yelling at him every time you paused the video.
+These people often say that they should be allowed to do this because the product they're
+presenting isn't the movie or the video or the TV show itself, it's the experience
+of watching it with other people, with the streamer, with the chat room.
+And on some level, we do know that that is a different experience, just like we know
+the difference between watching a movie at home versus watching it in the theater.
+But the fact that it's a different experience for the viewer, does that make it a transformative
+use?
+I don't think so.
+Another common defense is to compare it to video game streaming.
+The argument is that a streamer deprives a video's creator, or a movie's creator,
+or a TV show's creator.
+Though let's be honest, nobody gives a fuck about Hollywood's welfare right now.
+The streamer deprives them revenues or attention or clicks when he plays their content on stream,
+even if he reacts to it in a transformative way, let alone just freebooting it.
+But since we allow it for video games, we should also allow it for other mediums.
+The issue with this argument is that video games have a performative component.
+You have to play it, not just passively consume it.
+And a streamer's playthrough is necessarily different than yours.
+The experience of playing a game cannot be gained through watching somebody else play
+it.
+But the experience of watching a video or a movie or a TV show can be gained by watching
+it with somebody else present, like a streamer or a chat room.
+The claim that watching somebody playing a video game is an infringement on the copyright
+of the creator of the game doesn't really make sense.
+It's like saying watching somebody play baseball is an infringement of the copyright
+of the creator of baseball.
+The only place where I think this logic has any footing is in games with almost no gameplay
+whatsoever.
+Like you're just passively moving through the game world applying zero skill and absorbing
+a story.
+At that point, it might as well just be a TV show.
+But for the most part, this logic doesn't work for video game streams.
+The final line of defense for this behavior is the effect that streaming somebody's
+video has on the creator of the video.
+The video creators will often claim that each person who watches it on Hassan's stream
+or XQC's stream, that's one less potential view on their video.
+Why would they go watch the original on YouTube when they just watch it on a stream?
+This was Adam's main argument on Efab.
+And I think there's some truth to it.
+There obviously will be some people who would have watched the video who just won't now.
+That's lost clicks and revenue.
+Streamers can mitigate that by shouting out the creator, linking their video, linking
+their channel.
+But some of them just won't watch it.
+Simple as.
+But that calculation has to be balanced out by understanding that some people do go back
+and watch it, as we regularly see videos get spikes of viewers after a streamer reacts
+to it.
+If any of those viewers are new viewers, they might sub to the channel, they might watch
+future videos on their own.
+These effects also have to be taken into account.
+There's also the fact that there's generally a significant lack of audience overlap.
+Going back to the original example, there's probably not much audience overlap between
+Hassan and XQC's stream viewers and Lomino's YouTube viewers.
+The chance of those people watching Lomino's content of their own volition is probably
+relatively low.
+But now that they've seen the JFK video on stream, they just might.
+Something we learned during the era of MP3 piracy is that just because somebody downloads
+your music, doesn't mean that that's automatically a lost sale.
+Some of these people would have just never bought the music at all.
+And some of these people would have just never watched Lomino either.
+This is the harm conversation, and to me personally, it's the least interesting part of the discussion.
+The question here is ultimately, how many views and subs are lost when somebody reacts
+to their content on their stream versus how many are gained through exposure to a new
+audience.
+If you had perfect information, you can just math it out.
+If the video creator gains more than they lose, it's not immoral for streamers to
+swipe the video.
+If the video creator loses more than they gain, it is immoral.
+The only issue is that we don't have perfect information, so we're just guessing a lot
+of this stuff.
+But there's no real moral question here.
+Assume that Lomino saw a net material gain from xQc grabbing his video and playing it
+while not transforming it, essentially stealing the content to keep his stream entertained.
+If Lomino saw a net material loss, it's an easy conversation.
+What xQc did was simply unethical.
+But if Lomino saw a net material gain, was what xQc did okay?
+I'm not so sure.
+Because, and sorry progressive consequentialist, you guys are retarded, not all morality is
+based on harm reduction and seeking good ends.
+Even if Lomino saw a material gain, it's not like he gave xQc his consent to play the
+video.
+And consent is a moral concept that exists outside of harm.
+People can consent to harmful things and refuse non-harmful things.
+It's a different type of morality than simple harm reduction.
+If Lomino objected to xQc's use of the video, and xQc replied with, aw shut up, you gotta
+benefit out of it anyway, and that was actually true, does that mean that xQc is morally in
+the clear?
+And Lomino has no place to feel put out.
+My gut tells me, I don't think so.
+So what's at the bottom of this?
+To answer that, we gotta go all the way back to the start of React content itself.
+The early internet is full of videos where the purpose of them is to see a person's
+reaction.
+The oldest one I can think of is the N64 kid.
+Yeah that was me back when I got my N64 too.
+The point of the video isn't the N64, it's the kid's over the top reaction to getting
+it.
+Shortly after this we saw stuff like the Jumpscare Maze game in 2006, or Two Girls One Cup in
+2007.
+These videos are recordings of normal people watching something designed to get a reaction
+out of them, fear in the first case and disgust in the second.
+We're watching these videos not for the Jumpscare Maze or the video of the girls eating
+their own shit.
+We're watching these videos to watch how other people react to watching these videos.
+React content gives us more information to evaluate than just the original thing.
+It shows us how other people react to something, and if our reactions are in line with theirs.
+I think this is why Japanese variety TV has had those little reaction portraits of celebrities
+watching what's going on for decades now.
+There is genuinely something added to the experience, when you're not only enjoying
+an event, but watching other people enjoy it too.
+Reaction videos hit their initial peak with the Fine Bros back in 2012.
+Where they corporatized the model of having seemingly normal people, like kids or teens
+or elders, react to the latest viral trend on the internet.
+These guys self-destructed when they tried to trademark the react name and the concept
+of reaction back in 2016, after other people started uploading their own reactions.
+The irony was not lost on the internet.
+A couple of guys who made a name for themselves, swiping and reacting to the people's content,
+and not really making their own original content, were now mad that others were also
+swiping their format and using it for themselves.
+Even though they walked it all back, the Fine Bros never really recovered.
+Yeah, a few hundred thousand views in a video is pretty nice.
+But not for a 20 million sub-channel.
+But all of these trends teach us a lot about the nature of react content.
+It's enjoyable to watch in a way that just watching original content on its own isn't.
+It goes viral easily when it's really good.
+It's very easy to make, and it skirts the line on whether or not it's stealing.
+A lot of the hatred of the Fine Bros stems from the fact that react content is so simple
+to create, and reaps so much in the way of rewards, it feels cheap.
+It feels like they're cheating.
+If you spend hours and hours making a well-done video, and a reactor just grabs it, watches
+it, even if they transform it, and then gets way more views than you do off your work,
+especially if you don't see a bump for it, it feels really shitty.
+It feels like they cheated.
+You worked hard and got less.
+They worked not so hard and got more.
+Intuitively, that just doesn't seem fair.
+And I think that's why, from the Fine Bros back in 2012 all the way up to XQC right now,
+whenever this topic comes up, people always get mad.
+But things like, it feels cheap and it's not fair, isn't really an argument.
+We've already determined that if they actually transform the content, then tough titty.
+They've made something new and unique, and that's that.
+Even if you don't like it.
+A lesson that Akilah obviously had to learn the hard way with Sargon.
+But the hatred that people like Sniper Wolf get right now, for making nothing but the
+most garbage-tier react stuff, is pretty understandable.
+She adds nothing but a pretty face to a bunch of TikTok videos.
+Yes, I know, I do TikTok Tuesday.
+But at least I don't pretend to bait you in with a cute girl.
+And plus, I do real content too.
+In fact, that actually reminds me of this little exchange from original Game Grumps.
+What Jon is pointing out here is that back in 2012, Let's Play is reviewed kinda like
+react videos are now.
+Low effort content that is potentially wildly popular.
+And how demotivating it can be to make more produced, long-form content in the face of
+that potential easy success.
+I can see both sides of this.
+Creators being tempted to make the easy content and reap the easy success is understandable.
+And many people really are simply just jealous that it's that easy.
+But on the other hand, look at what's become of the vast majority of people who have done
+that, 10 years on now, who have moved away from their produced content and fell into
+doing only Let's Plays or only streams or only reaction videos.
+Look at the caliber of person they've transformed into.
+What exactly did that initial easy success cost them?
+I'm not saying content creators shouldn't do low effort content sometimes, like Let's
+Plays or streams or reacts.
+I do all those.
+But I am saying that for content creators who only do that stuff while abandoning what
+initially made them popular, what people actually initially wanted to see out of them, it's
+no surprise that people view them as shadows of their former selves.
+And it's also no surprise that they often behave like it too.
+So here's the final form of the logic tree.
+If the streamer gets the consent of the video creator, then playing the video on stream
+is fine.
+Doesn't matter if they transform it or get a bump from it, none of that is relevant.
+Consent trumps all other concerns.
+If the streamer doesn't get consent, then if the streamer transforms it enough with
+their own labor, it becomes a unique work that the streamer owns themselves and it's
+still okay.
+If the streamer doesn't get consent and doesn't transform it, then you could argue
+that if the creator of the video gets a boost in their career due to the crossover, then
+it's still okay.
+This is the argument that most streamers use.
+And the size of that bump is dependent on many things.
+If the streamer credits and links back to the original video, or if the streamer is
+immediately reacting to a new video and immediately uploading their stream VOD eating into the
+search impressions of the original, there's a whole bunch of factors at play here.
+Nonetheless, I don't think this is a good argument, but let's just accept it for hypothetical
+sake.
+If the streamer doesn't get consent and doesn't transform it and the original creator
+doesn't get a boost, then it just seems like straight up theft.
+So what should change about all of this?
+Should anything change?
+Should there be a common culture among streamers that they should ask video creators before
+watching their videos?
+Maybe, but that's never going to happen.
+Should video creators use the tools at their disposal to claim the revenue of VODs uploaded
+to YouTube?
+Sure.
+And both Hassan and XQC have gone on record stating that when video creators do this,
+they don't fight them.
+They let them have that revenue.
+The issue is, the streamer already got their watch time and their super chats on their
+stream, so the VOD's revenue is probably secondary.
+Should platforms be enforcing copyright somehow?
+I'm not sure about that one, but good luck getting them to do it anyway.
+Here's how I personally feel about it.
+There should probably be a moratorium when reacting to new videos, since the majority
+of hits and revenue that most videos on YouTube earn happen in the first couple of weeks of
+them being uploaded.
+Beyond that, streamers should ask for permission if they're just watching and not transforming.
+They should also watch any in-video advertisements like sponsorships or announcements.
+And they should also link back to the original creator.
+There could even be an exception where, for hot new videos, they can actually watch them
+immediately but only show the first five minutes or something, and then direct their audience
+to the rest of the video.
+But that might be expecting a bit too much.
+Ultimately, streamers will do whatever they want.
+I don't expect most of them to stop doing this shit, even if YouTubers want them to.
+Because most of these streamers aren't actually capable of providing interesting content without
+having a YouTube video on in the background.
+Have you seen the shit they do otherwise?
+Hot tub streams?
+Naked body painting?
+Fucking sleep streams, dude?
+I respect the few gamers left on Twitch.
+The longplay channels.
+The speedrun channels.
+That's at least doing something.
+That's still what Twitch was originally, and what it should have remained as.
+For me personally, anybody can watch whatever they want on my stuff.
+I don't really care.
+As long as you credit me.
+I'm cool with it.
+I don't feel that way.
+That's their prerogative.
+Nonetheless, streamers aren't going to stop anytime soon, and I don't foresee a path
+forward to somehow force them to stop that won't unintentionally wreck a lot of other
+things in the attempt.
+I also personally believe, though I don't have data to back this up, that the vast majority
+of people who have their videos watched by a streamer ultimately gain more than they
+lose from it.
+Unless it's like a hate watcher or something.
+That doesn't excuse violating a YouTuber's consent, but it's better than nothing.
+Anyway, the final thing I have to say on this topic is that I think a lot of the viewers
+of streamers or YouTubers who are coming in to stake a hard moral claim on this topic
+are just virtue signaling.
+They don't actually care.
+Not the streamers or the YouTubers themselves.
+They have their own motivations.
+The viewers of them who are going hardcore on this on social media, they're just virtue
+signalers.
+Why do I think that?
+Well, because when a streamer viewer complains, it's very obvious they're just defending
+their parasocial daddy.
+They want what they want.
+To watch videos on a stream.
+The ality and morality be damned.
+And when a YouTuber viewer gets up in arms with the lost clicks, and therefore the lost
+revenue, and therefore the damage to a YouTuber's bottom line when a streamer reacts to their
+video, there's a decent chance that guy's probably running an ad blocker.
+And trust me, as somebody with access to my own analytics, ad blockers fuck me over way
+more than React streamers ever will.
+A lot of this drama just seems to be based on competing self-interest.
+YouTubers want people to watch their videos.
+Streamers want to watch what they want on their streams.
+Viewers tend to side with whoever their guy is.
+But ignoring all of that obvious self-interest, it seems to me that the fair thing to do,
+such that everyone's interests are somewhat respected, is for streamers to ask for permission
+and give proper credit.
+Unless they actually transform the content.
+Then it becomes theirs.
+But since most of them don't, consent and credit.
+Two concepts that I don't actually expect progressive Twitch poll streamers to ever
+truly understand.

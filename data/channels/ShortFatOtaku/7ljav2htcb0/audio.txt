@@ -1,0 +1,426 @@
+Yes, I must admit, I am a Linus Tech Tips cuck.
+The politics of his employees are insufferably progressive, while Linus himself doesn't
+seem to understand politics beyond surface level Good Things Good.
+But darn it, his videos are actually really fun.
+I'm a tinkerer and a tech head myself, so I'm pretty much the target audience for
+most of the stuff he puts out.
+However, I don't have the time to watch his podcast, The Wan Show, so I tend to only
+check out the clips that really interest me.
+And this one, Never Build a PC for Family, really interested me.
+Okay, so here's the situation.
+I built a PC for someone back in… wait, this can't be right.
+I think I know who this is.
+Okay, well, whatever, it was a while ago, it was a couple months ago or something like
+that.
+In February, early February, I get a message, I'm just wondering how to get my monitor
+to 144 hertz, because apparently it's 60 right now.
+I kind of go, all right, it was definitely at 144 when I gave it to you, which is all
+I care about.
+This is one of those situations where the PC wasn't free, but it was very not retail,
+if you know what I mean.
+There was some wheeling and dealing that happened to make sure that this person who was a family
+friend definitely got something a lot better than they would have walked out of Best Buy
+with.
+Sure.
+So as far as I'm concerned, I have done my good deed already.
+Business over, yeah.
+Our transaction is now complete.
+So I kind of go, are you using HDMI or DisplayPort?
+HDMI may be stuck at a lower refresh rate.
+Basic troubleshooting.
+Yep.
+I don't know what that means.
+Sorry, how can I check?
+And I kind of go, you're going to have to look up how to check.
+Use Google.
+Okay.
+All right.
+Two weeks later, I've been having problems connecting my headset mic.
+When I checked, it's not registering.
+It doesn't say the model of headset.
+Here, I'll show it to you screenshot.
+I'm like, I don't know.
+If I was in front of it, I might be able to figure it out, but you might just have to
+find some troubleshooting guides.
+I get no fewer than 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 messages over the next three
+days.
+That go as far as, okay, I really think this is urgent.
+Please reply to this quickly.
+I can't do anything on my PC.
+I'm sitting here going, what's my incentive to do a favor for anyone at that point?
+If you're anything like me, you've probably experienced this too, back when you lived
+at home.
+The minute you reveal that you know anything about technology, suddenly you're the one
+on the hook doing free work for every single person in your extended family.
+Oh yeah, my son's really good with computers.
+I see him playing video games all the time.
+Of course he'll come over and set up your laptop and your home network with your printer
+and your TV's new surround sound system.
+Second cousin we see like once a year, he'd be happy to do it.
+No payment required.
+And of course, if anything goes wrong, even 10 years later, it's your fault.
+You screwed it up.
+They're completely right to be angry at you because you were supposed to handle it.
+No, it couldn't be all the fucking viruses they installed on their machine, from going
+to porn sites or installing the new episode of the latest boomer TV show, .exe.
+It has to be you.
+Heaven forbid this happened to you when you were a kid.
+Boomers always believed that a family computer couldn't possibly be fucked up by all the
+weird toolbars and bonsai buddies they installed.
+It had to be the fact that you were playing video games on it.
+I even experienced the weirder, lesser known variant of this.
+The idea that playing console games on a TV would damage the TV.
+It's just a picture signal, dude.
+How the hell is it any different from cable?
+But these are all millennial stories.
+And we're old people now, apparently, complaining about how people even older than us used to
+treat us with regards to new technology back when we were kids.
+And there's sort of a through line here with technological advancement.
+Since I would guess the start of the industrial revolution, no we're not talking about Uncle
+Ted today, the rate of technological change has been significantly faster than before.
+In the before times, you might have had to get used to a new innovation like once a generation
+or something, when somebody invents a slightly better medieval weapon or a way to use a draft
+animal or some shit.
+But once we started using science to build machines to accomplish jobs for us, the paradigm
+of labor has completely changed every generation.
+This necessitated each person acquiring a completely new set of skills than even what
+their parents had learned, and each generation having a completely different sense of what
+should be considered common knowledge.
+Music is an obvious example.
+Back in the day, you had to have people who could actually play music right there if you
+wanted to hear it.
+In 1896, the pneumatic piano player was invented.
+You know what I mean, that piano with the cartridge in the front with a roll and a bunch
+of notches in it, where when you activated the machine, the roll would feed through the
+device and the notches would trigger mechanisms to play the piano on its own?
+With this invention, you didn't need somebody present to actually play the piano.
+You simply needed the roll with the song that you want.
+You install it in the piano and then let it play itself.
+The record player was invented earlier as the phonograph in 1877, but the quality of
+music it produced was far inferior initially, and the first records were made out of tinfoil,
+not wax, making them extremely fragile.
+It only really began to take off after the tech improved enough in the early 20th century.
+Now you don't need a whole-ass piano playing a giant reel, you need your turntable and
+a record.
+Story goes for the 8-track, the cassette, the CD, the MP3, and now streaming services.
+Each one is a new way of saving a prior musical recording for future consumption, divided
+by generation, and the knowledge required to use, appreciate, and create each medium
+is, for the most part, specialized to that generation.
+This same divide exists with pretty much all entertainment media, movies, shows, games,
+books.
+It exists with vehicles, it exists with fashion sense and food taste and employment.
+Hell, my parents still struggle with their own smart TV, and I'm regularly employed
+to set up whatever movie we're watching whenever I visit, even though I rarely go
+back to my hometown and they know they're set up way better than I do.
+A core component of modernity is the rate of technological advancement is so fast that
+the previous generation's knowledge and rules about how the world is becomes obsolete
+much faster than before, hence the phenomenon of my generation running rings around our
+parents with computers and the internet.
+The millennial experience is one of actually getting away with shit online when we were
+kids, from pirating TV shows or games on the family computer, to downloading porn on a
+file-sharing program when you're really too young to be watching porn.
+Parents always have their values and their rules, and kids always chafe against those
+values and rules as they get older.
+That's pretty normal.
+But technology gave kids the decisive victory in that fight.
+What hope do parents have about smarting their kids on the internet when they can barely
+set up the speed dial on their first non-rotary phone?
+However, what Linus is talking about here actually isn't about helping an older relative
+with new technology.
+It's about helping a younger one.
+Yeah, seriously.
+Listen to this.
+I feel like this is one of those, am I the a**hole things, right?
+For basically just saying, so my response to this wall of text is, sorry, I really can't
+dig into issues like this.
+If there's a problem, you'll have to shut it down for now and take it to a computer
+shop.
+Or you can try and fix it yourself.
+I didn't have anyone to help me troubleshoot and things usually worked out okay.
+Tongue, smiley face.
+A little bit of sass on the end, a little bit of unnecessary sass on the end.
+Here's the thing.
+I mean, okay.
+Have you, have you read these articles?
+And I've heard anecdotally from some, a couple of people I've talked to this about recently,
+one who's a teacher and one who worked in an office.
+And I've read articles about this too, that apparently the younger generation in spite
+of growing up with computers is entering the workplace with fewer functional computing
+skills.
+They grew up with less computer problems because things worked more often.
+So that's the thing, right?
+Is this just tough love?
+That's that's what I thought I was doing.
+Like, look, no, if you want to solve this, if you want to play video games, I didn't
+want to pry, but is this a younger person?
+This is a younger person.
+Yes.
+So I got that vibe.
+Yeah.
+And in that case, I mean, I, it seems more fair.
+I don't know.
+Cause I mean, realistically, what do young people even do?
+Honestly, you're done.
+You're done your obligations for the day by like three o'clock.
+Is that when school ends?
+I don't even remember.
+Yeah.
+So figure it out.
+Like, I, I, I'm not trying to be a jerk about it or anything, but that was how I learned.
+The only reason that I'm doing this today that I know any of this stuff is because I
+was highly motivated to fix my computer because I wanted to play video games.
+This is something that I think I've intuitively known for a while, but it's weird to finally
+hear somebody else say it.
+The trend of younger generations being acclimated to newer technology and running circles around
+older generations with it has seemingly been broken.
+Zoomers actually do have less tech skill than millennials.
+I think Luke's explanation is partially true.
+That because things break down less nowadays, there's less incentive to become a tinkerer.
+This kind of gives the back in my day boomer complaints a bit more credence that having
+to deal with the hardships of older non-functioning technology gave you a deeper understanding
+of how it worked to stay on the computer topic.
+Overclocking back in the day meant fiddling with jumpers on the motherboard, including
+together water cooling components out of aquarium parts.
+Clocking nowadays means going into the BIOS, changing a few settings, and making sure your
+AIO can handle the load.
+It's just easier, and that's great for people who are sick of doing it the old way, but
+it also doesn't lend itself to new people coming into the space and truly understanding
+what they're doing whenever they change that setting in a menu.
+It's not just that, though.
+It's also because devices are way more black box than they used to be.
+Black box is a computer term.
+It means a system which can be viewed in terms of its inputs and outputs, without any knowledge
+of its internal workings.
+To somebody who is not knowledgeable about computers, data goes in, data appears on the
+screen.
+How does it work?
+Who knows?
+It's a black box.
+Manufacturers of modern technology are incentivized to create black box devices.
+This is done through two strategies.
+One, you make the innards of the device as hard as possible to actually access by the
+average person.
+Two, you incentivize people thinking in black box terms, like their phone is just a magic
+brick that does stuff, and its mechanisms are truly unknowable by the human mind.
+They do this because it allows them to upcharge for the device by pretending it's more complicated
+than it actually is.
+It allows them to upcharge for repairs of the device because you don't even know how
+to fix it.
+So how do you know what parts or labor even costs?
+And it allows them to control what you do with the device.
+This is what is meant by the Apple ecosystem, for example.
+Why you need to use specific approved apps on Apple devices.
+Because unlike with a PC that you've built yourself, you're locked out of the backend,
+the foundational level of the hardware.
+You have to play within the confines of Apple software.
+And anything they don't give you access to might as well not even exist.
+Unless of course, you backdoor it.
+This is why various conversations like the right to repair your own device, or the legality
+of rooting your phone and installing your own base software on it, are hot button topics
+in tech circles right now.
+There's power in controlling how the user uses your device after you've sold it to them.
+And people who tinker, whether that's installing Homebrew on a console, or running a new OS
+on a phone, have routinely been caught in the crosshairs of big corpos.
+All of this is to say that the technology zoomers have grown up with is extremely reliable
+and convenient.
+And with those benefits has also come both increasing corporate control and the gradual
+shift away from learning how your stuff actually works.
+Because most of the time you just don't need to know.
+Your average zoomer might be able to pull out his phone and play a game, or access the
+internet, or record a video.
+But if you ask them to install an app that Apple or Google didn't want them to install
+by jailbreaking the device and running a sideloader or something, they'd look at you like your
+head was on funny.
+Why would you ever do that?
+In fact, this whole thing reminds me of a viral tweet my friend Tina put out a little
+bit ago.
+An article on Variety.com claims that the Netflix password crackdown has driven the
+highest rate of Netflix signups in years.
+The common knowledge of my generation said that, due to increasing tech savviness, people
+would largely return to piracy in the face of Netflix's crackdown.
+Joke's on you fucks, I never left.
+But the reason that Netflix went out initially was because its extreme convenience won out
+over the relatively complicated piracy methods of 10-15 years ago.
+Go watch my video on Netflix for more info on that.
+Our lord and savior Gaben, the owner of Steam, rightfully said that piracy is a service problem,
+not a pricing problem.
+In other words, people pirate your game not because it's too expensive, but because
+it was too inconvenient to get legally.
+And he's largely correct.
+Netflix was convenient.
+Every show available for streaming legally on one platform, one fee, watch anywhere?
+Sounds great.
+But as streaming became less and less convenient, conventional knowledge predicted that piracy
+would return, and that didn't actually happen.
+Tina replied to this article with a quip, the children lack the knowledge to torrent,
+we have failed.
+It's a joke, but it's also true.
+Torrenting's even easier now than it was before, with one-click magnet links.
+And yet simply signing up, signing in, and flopping on the couch makes Netflix the most
+convenient choice, especially among a generation with less technical prowess like the zoomers.
+Some zoomers, in fact, took being called out for their lack of skill very poorly.
+30-year-olds on Twitter are so annoying about torrenting.
+I don't know, Amanda, is that like the new Karen or something?
+Maybe a lot of people just figure it's worth spending a little money to not have the hassle
+of torrenting something or to watch it on the big TV through the PlayStation or whatever.
+You can still watch a torrented file on the big TV through a variety of different methods
+like listen to this bitch, she sounds like a fucking grandma.
+What happened?
+You're supposed to make me look like a tech boomer, way more than I already do with my
+own fumblings.
+You should be schooling me on this, why are you so fucking weak?
+When you look at all the technological marvels around you, is there not even a single bit
+of curiosity?
+Like, oh, I wonder how that gadget works, maybe I should tinker with it and learn a
+little bit.
+Do you even have a spark of consciousness?
+This is about people who whine about company policies but still pay for its products as
+if they can't live without them.
+It's completely understandable with basic modern necessities, but you can survive the
+inconvenience of pirating or just not watching or playing something.
+No, it's not.
+It's about grouchy people approaching middle age complaining about the kids these days.
+You see, it is actually a generational thing.
+They think that millennials are out of touch, but not because we've fallen out of touch
+like previous generations have with new technology, but because they've remained ignorant.
+They don't even have a new canon of knowledge that corresponds with their new technology
+to replace my old out-of-touch canon like previous generations did, unless the ever-expanding
+database of new genders and pronouns counts anyway.
+Like, listen to some of these fucking people.
+Bitch how do you not know the stars on your own flag?
+I knew that shit when I was like 8 years old.
+I'm a fucking Canadian.
+What ocean is on the east side of the United States?
+You guys know this.
+What ocean is on the east side of the United States?
+You don't know the oceans?
+You never had that world geo class with the little worksheet?
+What country is the queen of England from?
+I'm not a policy guy.
+I don't know.
+I don't know.
+I really don't know.
+Just take a guess.
+Like, what country is the queen of England from?
+Europe.
+I don't fucking know.
+It's in the fucking name, you doofus.
+What's the capital of the United States?
+Um, the, um, there's a capital?
+What?
+Lexi.
+Take a guess.
+Um, um, I don't know, probably California.
+That's right.
+It is?
+No.
+The United States.
+Do we know?
+Stop!
+I knew he was going to embarrass us.
+I know.
+Wait.
+I didn't want to think because I don't want to say I'm dead.
+Just give it some thought.
+Deep breath.
+Capital of the United States.
+Exhale.
+There's no capital of the United States.
+Yeah, literally.
+Is there no capital?
+Correct.
+Was that right?
+No.
+Oh, fuck.
+You guys are UCLA students?
+We literally go to UCLA.
+Yeah.
+Where do you think the capital riots you've been shitting yourself for the past few years
+have even happened?
+Dude, come on!
+What group of people did the Nazis target?
+Oh, why is it bad Nazis?
+Um, kids.
+Oh my fucking god.
+This is when you're so retarded that the idea of the Nazis bothers you, but you don't even
+know why they're bad.
+Can you name the three Kardashian sisters?
+Kim, Kourtney, and Khloe.
+What are the three Kardashian sisters' names?
+Kourtney, Kim, and Khloe.
+Bonus points for the brother?
+Um, Robert.
+The Kardashians' brother's name.
+What?
+Rob.
+Fuck me, dude.
+We're doomed.
+Yeah, I know.
+Every generation says this about the kids coming up, but I was never this stupid.
+I could answer all these questions before I was in high school.
+No problem.
+No sweat.
+So, um, y'all sure you don't want to make college more accessible?
+Just checking.
+No, Shaniqua.
+I don't want to make college more accessible.
+These people didn't get any benefit from fucking high school.
+What benefit are they going to get from college?
+Some people just don't make it, man.
+I remember being a kid, I remember there was this one kid who was, like, eating glue.
+I was in kindergarten, even then, I went to him and I was like, dude, why are you eating
+the glue?
+Don't you know that's awful for you?
+And he looked up in this snot-covered haze and he was like, mmm, tastes good.
+That's your average fucking person, dude, led around by their immediate base impulses
+with no conception of the future.
+Even if we sent these failures off to college, what do you think they'd learn there?
+Maybe they'd get themselves a gender studies degree, go eat the Play-Doh in the campus
+pride safe space?
+This is why we've got people clamoring for historical novels and old movies and shit
+to be censored for a modern fucking audience.
+Because the people that make up a modern fucking audience can't stand being even slightly
+uncomfortable.
+I can't show you this video because she's deleted it.
+As far as I can find, there's only screencaps of what happened.
+But this Zoomer did the whole thing where you dance over some unrelated music with a
+caption.
+This one's saying, our generation isn't soft.
+You're just racist and homophobic.
+Yeah, bitch, then why don't you turn off the comments if you're not soft?
+I've said this many times about many different people, many different types of people.
+My stalwart consistency on this topic has gotten me in trouble with my own fans, in
+fact.
+I am correct here.
+If internet pushback makes you block people or disable comments or cry and run away and
+log off, you're soft.
+That's just how it is.
+Because the real world is a whole lot harsher than mean words on a screen.
+The Zoomers will never have their communist revolution no matter how much they cry about
+it because they have to go to therapy to learn how to order a pizza over the fucking phone.
+And getting called the wrong pronoun gives them a panic attack.
+There's no way they're overthrowing a state.
+I know, I know, I'm on yet another old man dev rant.
+I guess that's just my lot in life now.
+But again, at least with previous generational shifts, there was a reason for that superior
+attitude of young people.
+They were more capable.
+They knew how to use that new technology.
+They were the future of progress.
+That's not the Zoomers.
+Their skills have actually regressed.
+Your average millennial can change out the RAM in a PC.
+Your average boomer can change out the spark plug in a car.
+Do you think your average Zoomer can do either of those things?
+Zoomers are the ultimate paradox.
+They're tethered to modern technology, and that technology is actually destroying them.
+Sargon did an excellent video about that over at the Lotus Eaters.
+But unlike with previous generations, they aren't even getting the other side of that
+Faustian bargain.
+They're not even acquiring the benefit of superior knowledge and skill that comes with
+new technology.
+Instead, they're getting dumber.
+Because rather than learning about how the technology that dominates their lives actually
+functions so that they can one day become its masters, they're simply submitting to
+it because it's more convenient to be a coomer and a consumer than it is to understand and
+create.

@@ -1,0 +1,2296 @@
+1
+00:00:00,000 --> 00:00:17,340
+Over on SFO Arcade, we just finished up Fourspoken, the latest PS5 exclusive.
+
+2
+00:00:17,340 --> 00:00:19,140
+So I guess it's finally time to talk about it.
+
+3
+00:00:19,140 --> 00:00:20,200
+And yes, it stinks.
+
+4
+00:00:20,200 --> 00:00:23,180
+I wouldn't break out the indefensible intro and title if it didn't.
+
+5
+00:00:23,180 --> 00:00:24,660
+Let me give you the history.
+
+6
+00:00:24,660 --> 00:00:28,380
+Square Enix's early history is one of console exclusivity.
+
+7
+00:00:28,380 --> 00:00:31,520
+Square games came out only on the NES and then the SNES.
+
+8
+00:00:31,520 --> 00:00:36,560
+Then they famously jumped ship to Sony, choosing the PlayStation 1 over the Nintendo 64 due
+
+9
+00:00:36,560 --> 00:00:40,780
+to the latter opting to stick with cartridges that maxed out at 32 megs, while the former
+
+10
+00:00:40,780 --> 00:00:44,260
+utilized CDs with a storage capacity of 700 megs.
+
+11
+00:00:44,260 --> 00:00:48,540
+Back in the 90s, Square made the claim that Final Fantasy VII just wouldn't fit on a
+
+12
+00:00:48,540 --> 00:00:49,540
+cartridge.
+
+13
+00:00:49,540 --> 00:00:53,240
+And as a kid of the 90s, let me tell you, this fueled a lot of schoolyard fights.
+
+14
+00:00:53,240 --> 00:00:57,620
+Square continued to be exclusive to Sony during the PlayStation 2, for the most part.
+
+15
+00:00:57,620 --> 00:01:02,460
+This strategy of Square Enix exclusivity worked because each of these console generations
+
+16
+00:01:02,460 --> 00:01:03,580
+had a clear winner.
+
+17
+00:01:03,580 --> 00:01:07,640
+The console that Square had backed was wildly more popular than the other options.
+
+18
+00:01:07,640 --> 00:01:11,980
+But with the seventh generation of consoles, that's the Wii, Xbox 360, and PS3 by the
+
+19
+00:01:11,980 --> 00:01:14,620
+way, all three of them were exceptionally popular.
+
+20
+00:01:14,620 --> 00:01:18,340
+And Square Enix realized that remaining loyal to Sony meant losing money.
+
+21
+00:01:18,340 --> 00:01:22,580
+So they developed a proprietary engine called Crystal Tools, meant to streamline the production
+
+22
+00:01:22,580 --> 00:01:27,140
+of their big upcoming title, Final Fantasy XIII, making it easy to run on multiple platforms.
+
+23
+00:01:27,180 --> 00:01:28,980
+The only problem is, it sucked.
+
+24
+00:01:28,980 --> 00:01:32,780
+Crystal Tools ended up being a huge Square Enix boondoggle, delaying the release of Final
+
+25
+00:01:32,780 --> 00:01:36,820
+Fantasy XIII by almost two years, while offering little to no value.
+
+26
+00:01:36,820 --> 00:01:40,900
+By 2011, the Crystal Tools engine had already been pushed to its breaking point during the
+
+27
+00:01:40,900 --> 00:01:43,220
+development of Final Fantasy XIII-2.
+
+28
+00:01:43,220 --> 00:01:46,080
+Cracks were showing, and Square Enix needed something else, if it was going to be able
+
+29
+00:01:46,080 --> 00:01:48,580
+to keep up on the PS4 and Xbox One.
+
+30
+00:01:48,580 --> 00:01:52,380
+You'd think, after the failure of Crystal Tools, Square would be smart enough to not
+
+31
+00:01:52,380 --> 00:01:57,180
+do this again, and maybe they'd use more conventional, more functional, more well-documented
+
+32
+00:01:57,180 --> 00:01:58,180
+developer tools.
+
+33
+00:01:58,180 --> 00:02:00,860
+Maybe license an engine, like Unreal or Unity or something.
+
+34
+00:02:00,860 --> 00:02:02,580
+But no, they made the exact same mistake.
+
+35
+00:02:02,580 --> 00:02:06,740
+To solve their Crystal Tools problem, Square Enix developed the Luminous engine in 2012,
+
+36
+00:02:06,740 --> 00:02:10,860
+and showed it off at the E3 of that year with the tech demo Agni's Philosophy.
+
+37
+00:02:10,860 --> 00:02:12,820
+Now if this looks familiar, that's because it should.
+
+38
+00:02:12,820 --> 00:02:17,320
+A lot of it ended up becoming forespoken ten years later, which is also why huge chunks
+
+39
+00:02:17,320 --> 00:02:19,700
+of forespoken look about ten years old.
+
+40
+00:02:19,700 --> 00:02:23,620
+The Luminous engine ended up having all the same problems that Crystal Tools did, becoming
+
+41
+00:02:23,620 --> 00:02:25,560
+another giant money pit for the company.
+
+42
+00:02:25,560 --> 00:02:31,140
+To date, only two games have used the Luminous engine, Final Fantasy XV in 2016, and forespoken
+
+43
+00:02:31,140 --> 00:02:33,720
+in 2023, eleven years later.
+
+44
+00:02:33,720 --> 00:02:39,180
+So a broken engine, decade-old art assets, last-ditch attempt to recoup monumental cost.
+
+45
+00:02:39,180 --> 00:02:40,580
+Forespoken's off to a great start, isn't it?
+
+46
+00:02:40,580 --> 00:02:41,580
+What else could go wrong?
+
+47
+00:02:41,580 --> 00:02:45,140
+Well, it was officially announced three years ago as Project Athia.
+
+48
+00:02:45,140 --> 00:02:49,060
+And when you go back and watch that old 2020 trailer, you can see a lot of the pieces that
+
+49
+00:02:49,060 --> 00:02:51,260
+would come together to later be forespoken.
+
+50
+00:02:51,260 --> 00:02:53,520
+These locations, that dragon, it's all in the game.
+
+51
+00:02:53,520 --> 00:02:56,180
+But this trailer was considered to be a huge joke.
+
+52
+00:02:56,180 --> 00:03:00,380
+Look closely, she's not wearing boots or some kind of era-appropriate footwear, she's
+
+53
+00:03:00,380 --> 00:03:01,380
+wearing kicks.
+
+54
+00:03:01,380 --> 00:03:02,380
+Air Jordans, baby!
+
+55
+00:03:02,380 --> 00:03:04,700
+That's when we all knew we were in for a fucking ride.
+
+56
+00:03:04,700 --> 00:03:07,740
+I'm going to spoil everything about forespoken because I don't care.
+
+57
+00:03:07,740 --> 00:03:10,660
+You shouldn't either, but if for some dumb reason you do, now's your chance to bail
+
+58
+00:03:10,660 --> 00:03:11,660
+out.
+
+59
+00:03:11,660 --> 00:03:15,220
+The plot of forespoken is the most bog-standard isekai plot I've ever seen.
+
+60
+00:03:15,220 --> 00:03:19,260
+Isekai is a Japanese word meaning different world, and it refers to a genre of storytelling
+
+61
+00:03:19,260 --> 00:03:23,660
+where a character from world A inexplicably finds themselves in world B and has to contend
+
+62
+00:03:23,660 --> 00:03:24,660
+with a sudden upheaval.
+
+63
+00:03:24,660 --> 00:03:28,460
+It's basically a fantastical version of the fish-out-of-water story, even though the
+
+64
+00:03:28,460 --> 00:03:32,940
+word isekai didn't really start to be used until the glut of 80s and 90s anime that used
+
+65
+00:03:32,940 --> 00:03:33,940
+the trope.
+
+66
+00:03:33,940 --> 00:03:35,600
+This type of story has existed for quite a while.
+
+67
+00:03:35,600 --> 00:03:39,720
+The quintessential Western isekai, for example, is Alice in Wonderland, and looking at Alice
+
+68
+00:03:39,720 --> 00:03:42,060
+gives us a basic idea of what the rules are.
+
+69
+00:03:42,060 --> 00:03:46,340
+One, the world that the protagonist originates from is generally the modern real world, at
+
+70
+00:03:46,340 --> 00:03:47,740
+the time the story was written.
+
+71
+00:03:47,740 --> 00:03:51,580
+In Alice, that's Victorian England, while in Vision of Escaflowne, for example, that's
+
+72
+00:03:51,580 --> 00:03:52,620
+90s Japan.
+
+73
+00:03:52,620 --> 00:03:56,660
+Rule two, what differentiates isekai from a normal travel epic like Lord of the Rings
+
+74
+00:03:56,660 --> 00:04:00,700
+or Journey to the West, is that the protagonist in an isekai doesn't go on a daunting yet
+
+75
+00:04:00,700 --> 00:04:03,360
+physically possible journey like crossing a continent.
+
+76
+00:04:03,360 --> 00:04:08,500
+The journey is seemingly an impossible one, making the quest to get back home nigh insurmountable.
+
+77
+00:04:08,500 --> 00:04:12,140
+In Alice, Wonderland is sometimes portrayed as an alternate dimension, and sometimes as
+
+78
+00:04:12,140 --> 00:04:13,140
+Alice's own psyche.
+
+79
+00:04:13,140 --> 00:04:17,420
+In Escaflowne, Gaia is an invisible, habitable planet caught in Earth's orbit.
+
+80
+00:04:17,420 --> 00:04:20,660
+In Digimon, the characters go into a physical representation of the internet.
+
+81
+00:04:20,660 --> 00:04:24,160
+In The Black Knight or A Kid in King Arthur's Court or Chrono Trigger, the characters are
+
+82
+00:04:24,160 --> 00:04:26,580
+flung through time with seemingly no way back.
+
+83
+00:04:26,580 --> 00:04:31,260
+In a countless number of isekai anime, especially pornographic ones, as well as those old cartoon
+
+84
+00:04:31,260 --> 00:04:34,940
+shows, where your average kid gets sucked into the TV like Captain N, the alternate
+
+85
+00:04:34,940 --> 00:04:36,960
+world operates like a video game.
+
+86
+00:04:37,760 --> 00:04:41,680
+Some people are tempted to call a movie like Avatar an isekai, since the trip to Pandora
+
+87
+00:04:41,680 --> 00:04:42,880
+is through deep space.
+
+88
+00:04:42,880 --> 00:04:46,880
+Maybe, maybe not, but I think it's not an isekai because of the third rule.
+
+89
+00:04:46,880 --> 00:04:50,920
+The protagonist has to be somewhat isolated, and must adapt to living in a totally alien
+
+90
+00:04:50,920 --> 00:04:51,920
+culture.
+
+91
+00:04:51,920 --> 00:04:54,040
+In Alice and Escaflowne, the characters are alone.
+
+92
+00:04:54,040 --> 00:04:55,920
+In Digimon, it's a small group of kids.
+
+93
+00:04:55,920 --> 00:05:00,120
+To contrast, in Avatar, a ton of humans have moved to Pandora and set up shop, recreating
+
+94
+00:05:00,120 --> 00:05:01,460
+Earth-like habitats.
+
+95
+00:05:01,460 --> 00:05:03,480
+Of course, people have played around with the genre.
+
+96
+00:05:03,480 --> 00:05:07,380
+Sometimes you'll see a reverse isekai, like Beastmaster 2 or Thor, where the protagonist
+
+97
+00:05:07,380 --> 00:05:10,940
+is from a fantasy world and crosses the dimensions that come to our world.
+
+98
+00:05:10,940 --> 00:05:14,000
+Sometimes the protagonist doesn't adopt the role of a prophesized hero in the other
+
+99
+00:05:14,000 --> 00:05:18,940
+world, and instead becomes a villain, like in My Next Life as a Villainess, or as a side
+
+100
+00:05:18,940 --> 00:05:22,280
+character, like in That Time I Got Reincarnated as a Slime.
+
+101
+00:05:22,280 --> 00:05:25,140
+But pretty much all isekai stories hit the same beats.
+
+102
+00:05:25,140 --> 00:05:27,720
+The protagonist's life in their original world is pretty shitty.
+
+103
+00:05:27,720 --> 00:05:31,160
+By random chance, the protagonist encounters a piece of the other world.
+
+104
+00:05:31,160 --> 00:05:34,360
+Maybe it's a person who crossed over, maybe it's an artifact, but whatever it is, it
+
+105
+00:05:34,360 --> 00:05:36,480
+inexplicably pulls them across the barrier.
+
+106
+00:05:36,480 --> 00:05:39,360
+Once on the other side, the protagonist is stuck with no way back.
+
+107
+00:05:39,360 --> 00:05:42,160
+New friends help the protagonist through the initial period of despair, and they begin
+
+108
+00:05:42,160 --> 00:05:44,900
+to right wrongs in their new home and grow as a person.
+
+109
+00:05:44,900 --> 00:05:48,520
+At the climax of the story, they finally have the opportunity to go home, and they take
+
+110
+00:05:48,520 --> 00:05:49,520
+it.
+
+111
+00:05:49,520 --> 00:05:51,300
+But once they're back, they realize they've changed too much.
+
+112
+00:05:51,300 --> 00:05:53,240
+They can't go back to how things used to be.
+
+113
+00:05:53,240 --> 00:05:57,080
+Their old life sucks, their new life is full of meaningful relationships, and now all they
+
+114
+00:05:57,080 --> 00:05:59,360
+want to do is go back to the other world again.
+
+115
+00:05:59,600 --> 00:06:02,720
+Eventually they do, generally just in time for the final confrontation with whatever
+
+116
+00:06:02,720 --> 00:06:05,600
+villain happens to be at the center of all the events happening in the other world.
+
+117
+00:06:05,600 --> 00:06:09,560
+A confrontation that our side heroes wouldn't be able to overcome without the protagonist's
+
+118
+00:06:09,560 --> 00:06:10,560
+return.
+
+119
+00:06:10,560 --> 00:06:13,360
+It's also revealed at some point that the reason all of this happened in the first place
+
+120
+00:06:13,360 --> 00:06:17,760
+is because the protagonist, despite having an outwardly mundane life, has had some connection
+
+121
+00:06:17,760 --> 00:06:19,440
+to the other world this whole time.
+
+122
+00:06:19,440 --> 00:06:22,480
+Generally because one of their parents has traveled across the barrier in their youth
+
+123
+00:06:22,480 --> 00:06:24,600
+and secretly settled in our world.
+
+124
+00:06:24,600 --> 00:06:29,020
+Isekai stories are so old hat that any modern attempt either plays with the formula to make
+
+125
+00:06:29,020 --> 00:06:33,300
+something new or sarcastically leans into the genre, parodying the whole thing and breaking
+
+126
+00:06:33,300 --> 00:06:35,300
+the fourth wall constantly.
+
+127
+00:06:35,300 --> 00:06:37,300
+Forespoken does neither of those things.
+
+128
+00:06:37,300 --> 00:06:41,700
+In fact, Forespoken is the most by-the-books Isekai story I've ever seen.
+
+129
+00:06:41,700 --> 00:06:43,880
+It feels like an AI-generated script.
+
+130
+00:06:43,880 --> 00:06:46,580
+It follows every single convention of the genre.
+
+131
+00:06:46,580 --> 00:06:51,160
+Frey lives a shit life as a poor black woman on the run from both the law and gangs in
+
+132
+00:06:51,160 --> 00:06:52,160
+New York City.
+
+133
+00:06:52,160 --> 00:06:55,820
+She breaks into a building to steal what looks to be a very expensive gold brace.
+
+134
+00:06:55,860 --> 00:06:59,900
+The brace sucks her into the fantasy world of Athia, from Project Athia, remember, where
+
+135
+00:06:59,900 --> 00:07:02,420
+she is a mage specializing in Earth magic.
+
+136
+00:07:02,420 --> 00:07:06,220
+The land is covered in a consuming blight that corrupts all life and turns them into
+
+137
+00:07:06,220 --> 00:07:08,660
+zombies, and the townsfolk desperately need a hero.
+
+138
+00:07:08,660 --> 00:07:14,020
+The first three-quarters of the game consists of very generic open-world wandering and fetch-questing
+
+139
+00:07:14,020 --> 00:07:18,540
+with little in the way of actual plot, until Frey wakes up one day and finds herself back
+
+140
+00:07:18,540 --> 00:07:21,380
+in New York, this time living a much more comfortable life.
+
+141
+00:07:21,380 --> 00:07:24,380
+This is the one real deviation from the Isekai convention.
+
+142
+00:07:24,380 --> 00:07:28,060
+Frey's trip back to her old life ends up being an illusion created by another mage,
+
+143
+00:07:28,060 --> 00:07:31,220
+which doesn't actually go back, but it serves the same emotional purpose.
+
+144
+00:07:31,220 --> 00:07:35,200
+After this sequence, the final couple hours of the game is literally just cutscenes.
+
+145
+00:07:35,200 --> 00:07:39,380
+They seriously dump all of the lore and the story on the player in the final stretch,
+
+146
+00:07:39,380 --> 00:07:41,880
+expecting us to care when it's actually just really boring.
+
+147
+00:07:41,880 --> 00:07:45,500
+And the lore that they dump is something that we all predicted within the first hour of
+
+148
+00:07:45,500 --> 00:07:46,500
+the game.
+
+149
+00:07:46,500 --> 00:07:50,940
+The blight corrupted the other three mages, called Tantas, powerful wise women who wield
+
+150
+00:07:50,940 --> 00:07:54,260
+fire, water, and wind magic to complement Frey's Earth magic.
+
+151
+00:07:54,260 --> 00:07:58,200
+Frey is the daughter of the original Earth Tanta, who in a fit of madness throws her
+
+152
+00:07:58,200 --> 00:08:00,220
+baby into the portal to New York.
+
+153
+00:08:00,220 --> 00:08:02,580
+No seriously, she just yeets that fucking kid.
+
+154
+00:08:02,580 --> 00:08:06,940
+And all of the tomfoolery is caused by her talking gold brace, yeah it talks by the way,
+
+155
+00:08:06,940 --> 00:08:09,780
+who turns out to be an ancient evil sealed by the Tantas.
+
+156
+00:08:09,780 --> 00:08:12,620
+This guy, Cuff, is one of the more annoying parts of the game.
+
+157
+00:08:12,620 --> 00:08:16,660
+He serves as the game's guide, like Navi in Ocarina of Time or Fi in Skyward Sword.
+
+158
+00:08:16,660 --> 00:08:20,940
+But Cuff is more annoying than any of them, and unlike in the Zelda games, he's not bouncing
+
+159
+00:08:20,940 --> 00:08:24,980
+off a silent protagonist, he's paired with Frey who is just as fucking annoying.
+
+160
+00:08:24,980 --> 00:08:28,060
+These two together, they're a dialogue written by millennials who don't know how to take
+
+161
+00:08:28,060 --> 00:08:32,260
+anything seriously whatsoever and have to insert Marvel-style jokes and quips every
+
+162
+00:08:32,260 --> 00:08:48,580
+second, make for the cringiest moments in the entire game.
+
+163
+00:08:48,580 --> 00:09:16,700
+But, to the
+
+164
+00:09:16,700 --> 00:09:20,340
+game's credit, it's very rare that the tutorial helper becomes the main villain.
+
+165
+00:09:20,340 --> 00:09:24,940
+Using the Zelda examples again, Navi is just a random fairy, Fi is your sword come to life,
+
+166
+00:09:24,940 --> 00:09:28,540
+Midna is an important character in her own right but not the villain, and Hel in spirit
+
+167
+00:09:28,540 --> 00:09:33,180
+tracks, the helper is the spirit of Princess Zelda, serving as both romantic interest and
+
+168
+00:09:33,180 --> 00:09:34,180
+a ghost.
+
+169
+00:09:34,180 --> 00:09:35,180
+But a villain?
+
+170
+00:09:35,180 --> 00:09:36,620
+I can't say I've seen that before, I don't think.
+
+171
+00:09:36,620 --> 00:09:37,820
+Anyway, that's the whole story.
+
+172
+00:09:37,820 --> 00:09:41,020
+The entire thing is predictable the minute you realize you're playing an isekai.
+
+173
+00:09:41,020 --> 00:09:45,660
+It brings nothing new to the table, and nearly everything old that it did, it did very poorly.
+
+174
+00:09:45,660 --> 00:09:47,620
+But hey, there's more to a game than the story, right?
+
+175
+00:09:47,620 --> 00:09:48,980
+What about the rest of it?
+
+176
+00:09:48,980 --> 00:09:51,220
+Well, the game itself looks pretty hideous.
+
+177
+00:09:51,220 --> 00:09:55,520
+The open world can be pretty sometimes, at least from a breathtaking Vista perspective,
+
+178
+00:09:55,520 --> 00:09:59,340
+but the actual world itself seems barren, and I don't mean because the blight has depopulated
+
+179
+00:09:59,340 --> 00:10:00,340
+the land.
+
+180
+00:10:00,340 --> 00:10:03,020
+It seems unfinished, and sometimes it literally just is unfinished.
+
+181
+00:10:03,020 --> 00:10:06,260
+The enemies that you fight, from zombies to animals to humans, are all generic but work
+
+182
+00:10:06,260 --> 00:10:07,260
+well enough.
+
+183
+00:10:07,260 --> 00:10:09,140
+The characters you meet, though, good god.
+
+184
+00:10:09,140 --> 00:10:13,020
+You can tell development on this game started in 2012, because it certainly looks like it.
+
+185
+00:10:13,020 --> 00:10:16,700
+Sometimes, For Spoken looks like it's a PS3 title, not a PS5 one, and the cutscenes
+
+186
+00:10:16,700 --> 00:10:18,560
+also just look unfinished.
+
+187
+00:10:18,560 --> 00:10:21,500
+Check this clip out of Frey breaking down a door with her magic.
+
+188
+00:10:21,500 --> 00:10:25,180
+Not a single muscle twitches on her face, as she blasts the door away, which by the
+
+189
+00:10:25,180 --> 00:10:28,400
+way, we won't even get to see because the camera cuts away last minute.
+
+190
+00:10:28,400 --> 00:10:31,140
+Gotta save development time somehow, just don't animate that break-in scene guys,
+
+191
+00:10:31,140 --> 00:10:32,480
+no one will notice, it'll be okay.
+
+192
+00:10:32,480 --> 00:10:35,940
+As for what's actually in the open world itself, there's not much.
+
+193
+00:10:35,940 --> 00:10:40,060
+You can find collectibles, like the same five herbs for potions arranged in the exact same
+
+194
+00:10:40,060 --> 00:10:43,540
+pattern, like they just copy-paste with a cluster of them, or the same groups of zombies
+
+195
+00:10:43,540 --> 00:10:44,700
+and wolves.
+
+196
+00:10:44,700 --> 00:10:47,540
+Sometimes you'll find a dungeon, which is a short set of duplicated hallways with a
+
+197
+00:10:47,540 --> 00:10:48,540
+boss at the end.
+
+198
+00:10:48,540 --> 00:10:51,740
+And these can be kind of fun, if only because you're about to get some pretty good loot.
+
+199
+00:10:51,740 --> 00:10:54,460
+Sometimes you'll find a spring where new spells can be unlocked, but these are few
+
+200
+00:10:54,460 --> 00:10:55,460
+and far between.
+
+201
+00:10:55,460 --> 00:10:58,420
+For the most part, there's just nothing to do in the open world.
+
+202
+00:10:58,420 --> 00:11:02,020
+Despite the low quality of the visuals, this is a demanding game on PC.
+
+203
+00:11:02,020 --> 00:11:05,340
+The recommended Steam specs are ridiculously high for what you're getting.
+
+204
+00:11:05,340 --> 00:11:08,680
+Also, the game is 150 gigs dude, what the absolute fuck.
+
+205
+00:11:08,680 --> 00:11:12,240
+The world's big, but it's not bigger than Skyrim, or Hyrule in Breath of the Wild, or
+
+206
+00:11:12,240 --> 00:11:13,800
+the Commonwealth in Fallout 4.
+
+207
+00:11:13,800 --> 00:11:17,120
+The only good part about the graphics are the spell effects, which do legitimately look
+
+208
+00:11:17,120 --> 00:11:18,120
+magical.
+
+209
+00:11:18,120 --> 00:11:21,140
+The flaming spear, the orb of water, the glitter that splashes off Frey's shoes when she
+
+210
+00:11:21,140 --> 00:11:23,520
+runs around with magic speed, it all fits really well.
+
+211
+00:11:23,520 --> 00:11:26,520
+And considering that the luminous engine was made specifically for those types of effects,
+
+212
+00:11:26,520 --> 00:11:28,680
+it's no surprise that that's what stands out.
+
+213
+00:11:28,680 --> 00:11:32,340
+The magic is, in fact, one of the only true positives of the game.
+
+214
+00:11:32,340 --> 00:11:35,400
+The equipment system allows you to put on different cloaks and necklaces, the only two
+
+215
+00:11:35,400 --> 00:11:38,640
+equip slots, and you can upgrade them with random bits and bobs you find in the open
+
+216
+00:11:38,640 --> 00:11:40,760
+world, which is the same as most RPGs.
+
+217
+00:11:40,760 --> 00:11:43,640
+You can do your nails by putting different runes in them as well.
+
+218
+00:11:43,640 --> 00:11:46,220
+But all of these systems serve to buff your magic.
+
+219
+00:11:46,220 --> 00:11:48,680
+The magic is what takes center stage, and it's pretty fun.
+
+220
+00:11:48,680 --> 00:11:51,560
+It's satisfying to use the wide array of spells at your disposal.
+
+221
+00:11:51,560 --> 00:11:54,600
+It's cool when you take out one of the tantas and learn their elemental magic, and each
+
+222
+00:11:54,600 --> 00:11:58,160
+of the four elements has their own skill tree that you plug experience points into in order
+
+223
+00:11:58,160 --> 00:12:00,520
+to unlock new spells and buff existing ones.
+
+224
+00:12:00,520 --> 00:12:03,300
+And man, there are so many legitimately fun spells.
+
+225
+00:12:03,300 --> 00:12:06,720
+You can throw rocks in a rapid succession or charge up for one big blast.
+
+226
+00:12:06,720 --> 00:12:10,460
+You can swing a flame sword around or toss flame spears that explode on impact.
+
+227
+00:12:10,460 --> 00:12:14,860
+You can encase enemies in a giant ball of water or fire a horizontal spread of ice shards.
+
+228
+00:12:14,860 --> 00:12:17,300
+You can throw electric darts or charge up a huge lightning storm.
+
+229
+00:12:17,300 --> 00:12:18,300
+And more!
+
+230
+00:12:18,300 --> 00:12:21,020
+There's dozens of spells, all with their own unique effects and feel, and the trailer
+
+231
+00:12:21,020 --> 00:12:23,540
+to the game has no problem emphasizing the variety.
+
+232
+00:12:23,540 --> 00:12:27,580
+The issue is, you only unlock the other schools of magic by defeating the tantas, and defeating
+
+233
+00:12:27,580 --> 00:12:29,200
+the tantas is the whole point of the game.
+
+234
+00:12:29,200 --> 00:12:32,820
+You spend a huge chunk of the early game with earth magic, unlock fire magic halfway through,
+
+235
+00:12:32,860 --> 00:12:36,100
+and you really only get a smidge of time with water and wind.
+
+236
+00:12:36,100 --> 00:12:40,060
+In fact, once you kill the final tanta and unlock the wind magic, that's when the final
+
+237
+00:12:40,060 --> 00:12:41,900
+two hours of exposition dump begins.
+
+238
+00:12:41,900 --> 00:12:45,900
+There's no enemies, no challenges, no opportunities to use any of your cool new wind magic.
+
+239
+00:12:45,900 --> 00:12:49,580
+There's long boring cutscenes telling you stuff you figured out hours ago if you're
+
+240
+00:12:49,580 --> 00:12:53,660
+smart, punctuated by empty rooms that contain nothing but experience pickups you have to
+
+241
+00:12:53,660 --> 00:12:56,540
+run around and collect, and an NPC who triggers the next cutscene.
+
+242
+00:12:56,540 --> 00:12:58,000
+I'm not fucking kidding, dude.
+
+243
+00:12:58,000 --> 00:13:01,500
+It feels like they knew they just gave you a new skill tree in the final hour of the
+
+244
+00:13:01,500 --> 00:13:05,380
+game, and said oh shit this is useless unless we just dump a bunch of exp on you so you
+
+245
+00:13:05,380 --> 00:13:06,380
+can level it up.
+
+246
+00:13:06,380 --> 00:13:10,540
+In a well designed game, you unlock your core abilities relatively early on, so that the
+
+247
+00:13:10,540 --> 00:13:12,600
+game has the opportunity to develop their use.
+
+248
+00:13:12,600 --> 00:13:17,180
+In Zelda Breath of the Wild, you get bombs, magnets, time stop, and ice freeze all in
+
+249
+00:13:17,180 --> 00:13:21,260
+the opening area of the game, because the entire game is all about using these tools
+
+250
+00:13:21,260 --> 00:13:22,600
+to solve puzzles.
+
+251
+00:13:22,600 --> 00:13:26,620
+Even in more linear Zeldas, the most useful tools show up in the early to mid game.
+
+252
+00:13:26,620 --> 00:13:28,460
+This is elementary stuff in game design.
+
+253
+00:13:28,460 --> 00:13:31,740
+You can even go back to Secret of Mana on the Super Nintendo, where you unlock every
+
+254
+00:13:31,740 --> 00:13:35,220
+single magic school with the exception of I think nature magic in the first half of
+
+255
+00:13:35,220 --> 00:13:39,580
+the game, or Luffyya 2, where the bombs, arrow, and hookshot are all obtained in dungeons
+
+256
+00:13:39,580 --> 00:13:40,700
+pretty early on.
+
+257
+00:13:40,700 --> 00:13:44,300
+Any competent game knows to give you the bulk of your kit by the halfway point, so that
+
+258
+00:13:44,300 --> 00:13:48,960
+you can actually get good at using it, and save only the advanced stuff for later on,
+
+259
+00:13:48,960 --> 00:13:52,420
+like Knights of the Round in Final Fantasy 7, or the alien weapons in Fallout.
+
+260
+00:13:52,420 --> 00:13:56,340
+But in Forspoken, you're filling out a completely new skill tree that you'll never actually
+
+261
+00:13:56,340 --> 00:13:57,820
+use in the final hour.
+
+262
+00:13:57,820 --> 00:14:00,440
+The other interesting part of the game is movement.
+
+263
+00:14:00,440 --> 00:14:02,660
+Each school of magic comes with a different movement ability.
+
+264
+00:14:02,660 --> 00:14:06,520
+You start with magic running and magic parkour, which is the reason that Frey keeps her Air
+
+265
+00:14:06,520 --> 00:14:07,900
+Jordans from the other world.
+
+266
+00:14:07,900 --> 00:14:09,380
+In New York, she was a parkour artist.
+
+267
+00:14:09,380 --> 00:14:10,380
+A parkourist?
+
+268
+00:14:10,380 --> 00:14:11,380
+Whatever.
+
+269
+00:14:11,380 --> 00:14:14,540
+Once you gain fire magic, you unlock a grappling hook that feels a lot like the ODM gear from
+
+270
+00:14:14,540 --> 00:14:18,540
+Attack on Titan, and chaining parkour flips with grapples is legitimately really fun.
+
+271
+00:14:18,540 --> 00:14:22,340
+With water magic, you unlock surfing, which I had to find a clip of online, because there's
+
+272
+00:14:22,340 --> 00:14:26,260
+never a reason to ever enter a body of water in this game, where surfing would be required.
+
+273
+00:14:26,260 --> 00:14:29,260
+And with wind magic, you unlock a quadruple jump, which isn't really that interesting,
+
+274
+00:14:29,260 --> 00:14:32,600
+because you have to stay in place and charge it in order to do it, breaking the whole flow
+
+275
+00:14:32,600 --> 00:14:34,220
+feeling of getting around the game.
+
+276
+00:14:34,220 --> 00:14:38,600
+There is a glider in the game, the float spell, which in my opinion is an open world must-have
+
+277
+00:14:38,600 --> 00:14:42,500
+ever since Breath of the Wild did it in 2016, but you can only unlock it near the end of
+
+278
+00:14:42,500 --> 00:14:45,600
+the game, and for some reason it's a water spell, not a wind spell.
+
+279
+00:14:45,600 --> 00:14:48,940
+In other games that have included gliders, like Zelda or Horizon Forbidden West, you
+
+280
+00:14:48,940 --> 00:14:52,920
+pick them up early on because game developers realized just how much they aided exploration
+
+281
+00:14:52,920 --> 00:14:54,240
+and open world environment.
+
+282
+00:14:54,240 --> 00:14:57,780
+Letting you drift to a location you can see on the horizon from a tall area is actually
+
+283
+00:14:57,780 --> 00:14:58,780
+really cool.
+
+284
+00:14:58,780 --> 00:15:02,040
+Putting the float spell at the very end of the game, long after you'd ever need it,
+
+285
+00:15:02,040 --> 00:15:03,400
+just doesn't make any sense.
+
+286
+00:15:03,400 --> 00:15:06,420
+You can tell that I'm an old man at this point, considering how many old games and
+
+287
+00:15:06,420 --> 00:15:10,280
+shows I'm referencing that did parts of what Forsaken tried to do, but better.
+
+288
+00:15:10,280 --> 00:15:12,040
+Here, I'll put a bowtie on the whole thing.
+
+289
+00:15:12,040 --> 00:15:14,920
+Forsaken reminds me of Final Fantasy Mystic Quest.
+
+290
+00:15:14,920 --> 00:15:17,320
+For you zoomers who don't know what that is, here's the TLDR.
+
+291
+00:15:17,320 --> 00:15:21,880
+In the early 90s, Japanese game developers thought that Americans were too dumb to understand
+
+292
+00:15:21,880 --> 00:15:22,880
+RPGs.
+
+293
+00:15:22,880 --> 00:15:26,760
+RPGs were the most popular genre in Japan, but platformers ruled the day in America,
+
+294
+00:15:26,760 --> 00:15:30,080
+and Square was worried about spending tons of time translating Final Fantasy games only
+
+295
+00:15:30,080 --> 00:15:31,440
+for them to have a poor reception.
+
+296
+00:15:31,440 --> 00:15:35,280
+So they had an American development team create what is now derisively known as Baby's
+
+297
+00:15:35,280 --> 00:15:36,680
+First RPG.
+
+298
+00:15:36,680 --> 00:15:40,960
+Final Fantasy Mystic Quest has all the mechanics and feeling of a mainline Final Fantasy game
+
+299
+00:15:40,960 --> 00:15:45,400
+on the Super Nintendo, but with everything drastically dumbed down to make it more accessible.
+
+300
+00:15:45,400 --> 00:15:49,680
+Now it's still a pretty good game, great music specifically, but oh boy is it easy.
+
+301
+00:15:49,680 --> 00:15:52,560
+Mystic Quest features easy-to-dodge enemies instead of random encounters.
+
+302
+00:15:52,560 --> 00:15:55,560
+New armor overwrites old armor instead of actually being equippable.
+
+303
+00:15:55,560 --> 00:15:59,080
+There's only four weapons in the whole game that you upgrade a couple times.
+
+304
+00:15:59,080 --> 00:16:03,160
+Items and spells are identical, like a potion and the cure spell do the exact same thing.
+
+305
+00:16:03,160 --> 00:16:06,880
+The story is laughably simplistic, but at the end of the day, Babydev had a good time
+
+306
+00:16:06,880 --> 00:16:07,880
+with it.
+
+307
+00:16:07,880 --> 00:16:10,080
+Playing for Spoken feels like playing Mystic Quest.
+
+308
+00:16:10,080 --> 00:16:13,280
+Yeah, you can go into dungeons, but they're basically the same thing with similar loot
+
+309
+00:16:13,280 --> 00:16:14,280
+every time.
+
+310
+00:16:14,280 --> 00:16:16,920
+Yeah, you can equip necklaces and cloaks, but they don't really offer much in the
+
+311
+00:16:16,920 --> 00:16:20,920
+way of upgrades beyond just flat bonuses to magic, or sometimes a specific element.
+
+312
+00:16:20,920 --> 00:16:22,440
+And upgrading them is just a linear progression.
+
+313
+00:16:22,440 --> 00:16:26,120
+There's no super amazing loot to find that radically changes the game somehow.
+
+314
+00:16:26,120 --> 00:16:27,800
+Putting runes on your nails is the same thing.
+
+315
+00:16:27,800 --> 00:16:31,480
+You slap on the 5% damage nails and then wait until you find the 10% damage nails.
+
+316
+00:16:31,480 --> 00:16:32,480
+Rinse and repeat.
+
+317
+00:16:32,480 --> 00:16:37,080
+The same herbs craft the same one potion you use all game, and you find them in every single
+
+318
+00:16:37,080 --> 00:16:38,080
+zone.
+
+319
+00:16:38,080 --> 00:16:42,740
+If Mystic Quest was Babby's first JRPG, for Spoken is Babby's first open world game.
+
+320
+00:16:42,740 --> 00:16:45,740
+Everything in it is a dumbed down version of something from a better game.
+
+321
+00:16:45,740 --> 00:16:49,480
+And if for Spoken was only Babys first open world game, there wouldn't be anything wrong
+
+322
+00:16:49,480 --> 00:16:50,480
+with that.
+
+323
+00:16:51,040 --> 00:16:54,240
+If the only issue with the game was simplicity, it would be a perfect game to hand to a kid,
+
+324
+00:16:54,240 --> 00:16:57,040
+or a new gamer or something who wanted to get into it, as a gateway into something more
+
+325
+00:16:57,040 --> 00:16:59,240
+complicated like Fallout or Skyrim.
+
+326
+00:16:59,240 --> 00:17:02,040
+In this context, we can even forgive the paint by numbers storyline.
+
+327
+00:17:02,040 --> 00:17:05,160
+If it's literally your first isekai because you're 6 years old, I'm sure it'll feel
+
+328
+00:17:05,160 --> 00:17:06,280
+magical to you.
+
+329
+00:17:06,280 --> 00:17:09,920
+Though then again, who lets their 6 year old play a game that drops the f-bomb every 30
+
+330
+00:17:09,920 --> 00:17:10,920
+seconds?
+
+331
+00:17:10,920 --> 00:17:14,000
+But it's not only the simplicity, it's the genuinely awful pacing of the game in
+
+332
+00:17:14,000 --> 00:17:15,560
+terms of both plot and mechanics.
+
+333
+00:17:15,560 --> 00:17:17,160
+It's the emptiness of the world.
+
+334
+00:17:17,160 --> 00:17:18,160
+The ugliness of it.
+
+335
+00:17:18,160 --> 00:17:21,320
+It's how the game feels fun for a little bit, until you realize you've just spent
+
+336
+00:17:21,320 --> 00:17:24,560
+hours doing nothing because there's nothing in the game to do, and what little there is
+
+337
+00:17:24,560 --> 00:17:25,880
+is mediocre at best.
+
+338
+00:17:25,880 --> 00:17:29,720
+So it's no surprise that this game got absolutely bombarded by fans online.
+
+339
+00:17:29,720 --> 00:17:33,680
+The Steam page for Spoken looks like the aftermath of a gangbang, and even though there's reports
+
+340
+00:17:33,680 --> 00:17:36,820
+of the developers deleting reviews, it doesn't actually matter that much because the reviews
+
+341
+00:17:36,820 --> 00:17:39,840
+are overwhelmingly negative, too many for them to handle.
+
+342
+00:17:39,840 --> 00:17:42,940
+The Metacritic score doesn't look all that great either, and the game's already seeing
+
+343
+00:17:42,940 --> 00:17:44,080
+some price drops.
+
+344
+00:17:44,080 --> 00:17:48,120
+Square Enix went through all this hassle over the Luminous Engine, only to make two games
+
+345
+00:17:48,120 --> 00:17:49,080
+with it.
+
+346
+00:17:49,080 --> 00:17:52,360
+Final Fantasy XV might have been a success, but For Spoken, which came at the end of the
+
+347
+00:17:52,360 --> 00:17:55,600
+engine's life, seems to be a total flop on multiple dimensions.
+
+348
+00:17:55,600 --> 00:17:59,840
+We're this deep into the video, and I haven't even addressed the elephant in the room.
+
+349
+00:17:59,840 --> 00:18:02,520
+Frey, the main character of For Spoken, is black.
+
+350
+00:18:02,520 --> 00:18:03,520
+Dun dun dun.
+
+351
+00:18:03,520 --> 00:18:06,200
+Now I personally don't care what race the characters in any game are.
+
+352
+00:18:06,200 --> 00:18:07,200
+It shouldn't be an issue.
+
+353
+00:18:07,200 --> 00:18:09,800
+And there are a few idiots out there who are just straight up saying, the main character
+
+354
+00:18:09,800 --> 00:18:10,800
+in the game is black, no thanks.
+
+355
+00:18:10,800 --> 00:18:12,600
+And it's like, what the fuck is wrong with you?
+
+356
+00:18:12,600 --> 00:18:14,400
+No, the problem with Frey isn't that she's black.
+
+357
+00:18:14,400 --> 00:18:15,600
+It's that she's black.
+
+358
+00:18:15,600 --> 00:18:17,040
+Capital B Black.
+
+359
+00:18:17,040 --> 00:18:18,040
+Political Black.
+
+360
+00:18:18,040 --> 00:18:22,240
+You notice that, suddenly a whole bunch of things come into focus, like the way she speaks
+
+361
+00:18:22,240 --> 00:18:26,500
+when engaging with the fantasy world of Athia, or how insistent she is on keeping her Air
+
+362
+00:18:26,500 --> 00:18:31,240
+Jordans so that she can parkour around the wilderness, or how doing her nails up in garish
+
+363
+00:18:31,240 --> 00:18:36,040
+patterns is a core mechanic, or how back in New York she lives in a crack shack but still
+
+364
+00:18:36,040 --> 00:18:40,540
+displays proudly her expensive collection of kicks on a shelf in a central location.
+
+365
+00:18:40,540 --> 00:18:43,540
+For Spoken clearly wants to be like a BLM game.
+
+366
+00:18:43,540 --> 00:18:47,320
+It opens on Frey in court with a rap sheet filled with thefts.
+
+367
+00:18:47,360 --> 00:18:50,760
+She gets a lenient sentence from the judge who takes pity on her, and then she immediately
+
+368
+00:18:50,760 --> 00:18:54,160
+goes out into the streets and gets jumped by a gang that she owes money to or something.
+
+369
+00:18:54,160 --> 00:18:57,200
+I don't know, and it doesn't matter, because I never actually see these characters again anyway.
+
+370
+00:18:57,200 --> 00:19:01,120
+Frey manages to parkour away to safety, but the whole thing stinks of social commentary
+
+371
+00:19:01,120 --> 00:19:03,720
+regarding the black inner-city experience or something.
+
+372
+00:19:03,720 --> 00:19:08,440
+I already don't buy this setup, because this girl is 21, beautiful, and living in 2023.
+
+373
+00:19:08,440 --> 00:19:09,440
+She's got a phone.
+
+374
+00:19:09,440 --> 00:19:12,480
+There's no way she wouldn't start selling OnlyFans, make a bank, and get the fuck out of here.
+
+375
+00:19:12,480 --> 00:19:16,200
+And this discrepancy is made more clear by the fact that they cast one of the hottest
+
+376
+00:19:16,240 --> 00:19:18,160
+chicks around right now to play her.
+
+377
+00:19:18,160 --> 00:19:21,940
+After admiring that shoe collection, she falls asleep back at the crack shack, only to wake
+
+378
+00:19:21,940 --> 00:19:23,760
+up to the whole place on fire.
+
+379
+00:19:23,760 --> 00:19:27,360
+It's pretty clear that the gang lit her apartment up as revenge, and this is when probably the
+
+380
+00:19:27,360 --> 00:19:29,000
+dumbest sequence in the whole game happens.
+
+381
+00:19:29,000 --> 00:19:30,000
+The Homer!
+
+382
+00:19:30,000 --> 00:19:32,000
+Girl, come on, we gotta go!
+
+383
+00:19:37,000 --> 00:19:39,000
+Gotta find Homer first.
+
+384
+00:19:39,000 --> 00:19:41,000
+Gotta find Homer first.
+
+385
+00:19:42,000 --> 00:19:44,000
+Gotta find Homer first.
+
+386
+00:19:44,800 --> 00:19:48,680
+That's right, even though the duffel bag full of her life savings, in cash, is right at
+
+387
+00:19:48,680 --> 00:19:52,420
+her feet, the money she's been scrimping together to be able to move the fuck out of New York
+
+388
+00:19:52,420 --> 00:19:57,580
+for years, the game forces you to leave the money behind to go and find your pet cat.
+
+389
+00:19:57,580 --> 00:19:59,380
+After which, of course, you lose the money.
+
+390
+00:19:59,380 --> 00:20:00,880
+There's no reason for this.
+
+391
+00:20:00,880 --> 00:20:03,160
+It's just right fucking there, dude, just pick it up and go!
+
+392
+00:20:03,160 --> 00:20:07,160
+Frey survives the fire, though, and in desperation looks through the window of a building, sees
+
+393
+00:20:07,160 --> 00:20:10,120
+Cuff, and decides to steal him to make some money, kicking off the adventure.
+
+394
+00:20:10,240 --> 00:20:14,400
+And it's at this point that, beyond Frey's terrible personality, the political content
+
+395
+00:20:14,400 --> 00:20:15,880
+of the game vanishes.
+
+396
+00:20:15,880 --> 00:20:19,480
+They clearly tried to go for some sort of message, but it disappears from the game entirely.
+
+397
+00:20:19,480 --> 00:20:23,400
+It doesn't even come back when she goes into the dreamscape, thinking she's back in her
+
+398
+00:20:23,400 --> 00:20:24,400
+old life again.
+
+399
+00:20:24,400 --> 00:20:28,240
+In fact, in that multi-hour cutscene where the entire plot is dumped at the end, it's
+
+400
+00:20:28,240 --> 00:20:32,880
+revealed that while her mother is a Tanta from Athia, her father is a random black dude
+
+401
+00:20:32,880 --> 00:20:34,240
+from New York named Al.
+
+402
+00:20:34,240 --> 00:20:36,520
+I personally like to think it's Al Roker.
+
+403
+00:20:36,520 --> 00:20:37,640
+But where is the guy?
+
+404
+00:20:37,680 --> 00:20:41,320
+Frey's mother clearly knows him before she gets pregnant, and she didn't get magically
+
+405
+00:20:41,320 --> 00:20:45,000
+transformed into a dragon until after she gave birth and yeeted Frey through the portal.
+
+406
+00:20:45,000 --> 00:20:47,720
+Oh yeah, Frey's mother got transformed into a dragon, but it's not important.
+
+407
+00:20:47,720 --> 00:20:49,760
+The point is, where is Frey's dad?
+
+408
+00:20:49,760 --> 00:20:52,000
+He's not keeping up with the love of his life?
+
+409
+00:20:52,000 --> 00:20:54,280
+The woman that he knocked up from the other fucking dimension?
+
+410
+00:20:54,280 --> 00:20:55,880
+Nah, nobody hears from him again.
+
+411
+00:20:55,880 --> 00:20:58,720
+He's literally the stereotype of the black absentee father.
+
+412
+00:20:58,720 --> 00:21:01,280
+They're really going all out with the representation, eh?
+
+413
+00:21:01,280 --> 00:21:04,780
+However, even with the reveal of Frey's parentage, the political aspect of the game
+
+414
+00:21:04,780 --> 00:21:06,040
+never returns.
+
+415
+00:21:06,040 --> 00:21:10,440
+Frey settles into her new life as the protector of the blissfully deracialized world of Athia,
+
+416
+00:21:10,440 --> 00:21:12,640
+and abandons our world and its problems entirely.
+
+417
+00:21:12,640 --> 00:21:13,960
+Here's the real kicker though.
+
+418
+00:21:13,960 --> 00:21:14,960
+The game's awful.
+
+419
+00:21:14,960 --> 00:21:15,960
+Like, I'd give it a 4 out of 10.
+
+420
+00:21:15,960 --> 00:21:18,780
+But because it has this wallpaper of black politics.
+
+421
+00:21:18,780 --> 00:21:21,800
+Because if you only played the first hour of the game, you might think it's highly
+
+422
+00:21:21,800 --> 00:21:22,800
+politically charged.
+
+423
+00:21:22,800 --> 00:21:26,920
+There's a lot of retarded progressives online right now who think that if you hate the game,
+
+424
+00:21:26,920 --> 00:21:28,480
+it has to be because you're a racist.
+
+425
+00:21:28,480 --> 00:21:29,480
+Can't be any other reason.
+
+426
+00:21:29,480 --> 00:21:33,120
+Can't be that the game is poorly designed, or ugly, or buggy, or not all that fun to
+
+427
+00:21:33,120 --> 00:21:34,120
+play.
+
+428
+00:21:34,120 --> 00:21:35,720
+Because you're a fucking white male.
+
+429
+00:21:35,720 --> 00:21:37,720
+Even if you're not.
+
+430
+00:21:37,720 --> 00:21:38,720
+Is the game good?
+
+431
+00:21:38,720 --> 00:21:39,720
+Yes, the game is good.
+
+432
+00:21:39,720 --> 00:21:44,600
+Fuck social media, get you the game, is what I'm about to be saying.
+
+433
+00:21:44,600 --> 00:21:45,960
+That's gonna be the title.
+
+434
+00:21:45,960 --> 00:21:49,360
+Fuck social media, buy the game, okay?
+
+435
+00:21:49,360 --> 00:21:50,360
+Because people tripping.
+
+436
+00:21:50,360 --> 00:21:54,400
+No, I promise you, if you're playing the game, you're not gonna sit here and be like,
+
+437
+00:21:54,400 --> 00:21:59,600
+oh my god, the dialogue, oh my god, it's so bad, I can't play the game!
+
+438
+00:21:59,600 --> 00:22:05,480
+Because every three seconds, I see someone on social talking about, they see one clip
+
+439
+00:22:05,480 --> 00:22:07,520
+and it's like, that's the whole game.
+
+440
+00:22:07,520 --> 00:22:08,520
+Come on, bro.
+
+441
+00:22:08,520 --> 00:22:11,520
+Damn it, you just stepped on my throat.
+
+442
+00:22:11,520 --> 00:22:13,320
+I just kicked a whole deer, bro.
+
+443
+00:22:13,320 --> 00:22:15,200
+Y'all didn't even see that, for real.
+
+444
+00:22:15,200 --> 00:22:21,520
+If you haven't actually seen anything other than the one clip from a scene that wasn't
+
+445
+00:22:21,520 --> 00:22:23,960
+even that cringey, I don't wanna hear about the dialogue.
+
+446
+00:22:23,960 --> 00:22:28,000
+Like I said, if she looked like any other, anything else, if she looked like anything
+
+447
+00:22:28,000 --> 00:22:30,400
+else and she said the same scene, no one would bat an eye.
+
+448
+00:22:30,400 --> 00:22:31,400
+It would be like, what the hell?
+
+449
+00:22:31,400 --> 00:22:32,720
+It would just be bad writing.
+
+450
+00:22:32,720 --> 00:22:36,520
+Like, it's not the best writing, but it's not a bad game.
+
+451
+00:22:36,520 --> 00:22:38,280
+That's what I'm trying to say.
+
+452
+00:22:38,280 --> 00:22:39,360
+It's not a bad game.
+
+453
+00:22:39,360 --> 00:22:40,760
+It's like the basic writing.
+
+454
+00:22:40,760 --> 00:22:41,760
+It could be better.
+
+455
+00:22:41,760 --> 00:22:45,120
+They probably could have gotten black writers, but they didn't.
+
+456
+00:22:45,120 --> 00:22:46,120
+That's unfortunate.
+
+457
+00:22:46,120 --> 00:22:48,640
+But the game's not ass.
+
+458
+00:22:48,640 --> 00:22:52,840
+Gear and how you heal up and the crafting isn't too much because I hate crafting in
+
+459
+00:22:52,840 --> 00:22:55,160
+the games and the crafting's not overbearing.
+
+460
+00:22:55,160 --> 00:22:58,680
+You get like, you can change these nails that give you different powers.
+
+461
+00:22:58,680 --> 00:22:59,680
+Like, I don't know.
+
+462
+00:22:59,680 --> 00:23:00,800
+I just, I'm fucking with the game.
+
+463
+00:23:00,800 --> 00:23:01,800
+It's a good game.
+
+464
+00:23:01,800 --> 00:23:03,000
+The story is not even horrible.
+
+465
+00:23:03,000 --> 00:23:07,240
+The story is a story, but I ain't like, damn, this plot is ass.
+
+466
+00:23:07,240 --> 00:23:11,120
+I'm following it and I don't follow stories that well.
+
+467
+00:23:11,120 --> 00:23:12,360
+I'm here.
+
+468
+00:23:12,360 --> 00:23:15,540
+And of course, Prague game developers are out here saying the exact same thing.
+
+469
+00:23:15,540 --> 00:23:23,800
+Do I think that some of the energy and vitriol and just discussion about this game is happening
+
+470
+00:23:23,800 --> 00:23:33,000
+because some, but cause it is a lead female black character and it is on a PlayStation
+
+471
+00:23:33,000 --> 00:23:34,960
+game versus an Xbox game.
+
+472
+00:23:34,960 --> 00:23:36,440
+Yes, I do.
+
+473
+00:23:36,440 --> 00:23:37,440
+And then people push back.
+
+474
+00:23:37,440 --> 00:23:39,800
+Well, I haven't seen anything written like that.
+
+475
+00:23:39,800 --> 00:23:40,800
+Really?
+
+476
+00:23:40,800 --> 00:23:42,040
+You can't read between the lines.
+
+477
+00:23:42,040 --> 00:23:47,680
+So do you ever actually see somebody when they're shitting on game pass go, I don't
+
+478
+00:23:47,680 --> 00:23:49,400
+really have an issue with game pass.
+
+479
+00:23:49,400 --> 00:23:52,480
+I just like PlayStation and want Microsoft to lose.
+
+480
+00:23:52,480 --> 00:23:56,840
+Or when someone's being a misogynist, do they own being a misogynist and say, well, here's
+
+481
+00:23:56,840 --> 00:23:58,760
+the real fucking deal.
+
+482
+00:23:58,760 --> 00:24:01,840
+The real fucking deal is a women scare me.
+
+483
+00:24:01,840 --> 00:24:02,920
+I don't really like them.
+
+484
+00:24:02,920 --> 00:24:05,300
+I don't trust them and they don't want to fuck me.
+
+485
+00:24:05,300 --> 00:24:07,800
+That's why I'm really upset about this game.
+
+486
+00:24:07,800 --> 00:24:09,540
+No one talks like that.
+
+487
+00:24:09,540 --> 00:24:10,540
+It's called subtext.
+
+488
+00:24:10,540 --> 00:24:15,720
+So of course you're not seeing people overtly saying I'm not playing for spoken or I'm shitting
+
+489
+00:24:15,720 --> 00:24:20,720
+on for spoken or I am giving an unjust given the success of what it looks like the game
+
+490
+00:24:20,720 --> 00:24:26,280
+is going to have amount of time and energy on the internet and in my writing to first
+
+491
+00:24:26,280 --> 00:24:29,360
+spoken because I'm a racist, they're not going to say that.
+
+492
+00:24:29,360 --> 00:24:33,160
+Oh, and Bakaki wants you to know if you don't stream for spoken tonight, you're a racist
+
+493
+00:24:33,160 --> 00:24:34,160
+and a misogynist.
+
+494
+00:24:34,160 --> 00:24:35,320
+Oh, of course.
+
+495
+00:24:35,320 --> 00:24:36,320
+Of course.
+
+496
+00:24:36,320 --> 00:24:39,440
+If you read sarcasm from that clip, I promise you he was being serious.
+
+497
+00:24:39,440 --> 00:24:41,060
+That's David Scott Jeff.
+
+498
+00:24:41,060 --> 00:24:44,280
+Of course, the polygon review of the game has to dive into this topic as well.
+
+499
+00:24:44,280 --> 00:24:47,020
+And outwardly, they appear to have the same take that I do.
+
+500
+00:24:47,020 --> 00:24:51,500
+Before I wrap up, let's spare a word for Frey, a notionally black protagonist who joins
+
+501
+00:24:51,500 --> 00:24:56,040
+a growing trend in media of putting black people in worlds where race is inconsequential.
+
+502
+00:24:56,040 --> 00:25:00,340
+Except the game is very insistent that Frey is a New Yorker, mysterious birth or not,
+
+503
+00:25:00,340 --> 00:25:04,240
+spending her entire life up until this point growing up in our decidedly non fantasy world
+
+504
+00:25:04,240 --> 00:25:06,500
+where blackness is not a non factor.
+
+505
+00:25:06,500 --> 00:25:10,540
+Regrettably, Frey's identity is thinly written and awkwardly deployed as the story leans
+
+506
+00:25:10,540 --> 00:25:14,160
+not only on stereotypical narratives, but trauma as a plot device.
+
+507
+00:25:14,200 --> 00:25:18,200
+The complaint here is that the political blackness of the game isn't given enough focus.
+
+508
+00:25:18,200 --> 00:25:21,600
+Polygon felt bait and switch by that first hour and wanted it everywhere in the game.
+
+509
+00:25:21,600 --> 00:25:22,600
+I feel the opposite way.
+
+510
+00:25:22,600 --> 00:25:23,600
+I wanted none of it in the game.
+
+511
+00:25:23,600 --> 00:25:27,800
+But if they were going to do it, immediately dispensing with it unceremoniously after making
+
+512
+00:25:27,800 --> 00:25:30,200
+it to Athia is probably the worst way to do it.
+
+513
+00:25:30,200 --> 00:25:32,040
+It feels like they're cowardly or something.
+
+514
+00:25:32,040 --> 00:25:35,200
+What they could have done if they really wanted to make a racialized story correctly is have
+
+515
+00:25:35,200 --> 00:25:38,520
+a different group in Athia, maybe not black Athians, that's two on the nose, make them
+
+516
+00:25:38,520 --> 00:25:42,480
+a cast or a fantasy race or green people or something who are treated poorly due to their
+
+517
+00:25:42,480 --> 00:25:43,480
+birth.
+
+518
+00:25:43,480 --> 00:25:46,680
+And Frey, with her outsider knowledge of race relations on Earth, can shed some light on
+
+519
+00:25:46,680 --> 00:25:49,320
+the problem from a perspective that Athians never considered.
+
+520
+00:25:49,320 --> 00:25:51,420
+You could actually make a good story out of that if you tried.
+
+521
+00:25:51,420 --> 00:25:52,920
+The problem here is no one tried.
+
+522
+00:25:52,920 --> 00:25:55,380
+Before I get out of here, there's one final thing to talk about.
+
+523
+00:25:55,380 --> 00:25:56,380
+Hi-Fi Rush.
+
+524
+00:25:56,380 --> 00:25:59,900
+Hi-Fi Rush is a Bethesda game that looks and plays amazing.
+
+525
+00:25:59,900 --> 00:26:03,040
+Everything about it, the cel-shaded graphics, the rhythm based combat, the soundtrack, all
+
+526
+00:26:03,040 --> 00:26:06,680
+scream 2000s to me, which of course I'm a sucker for considering that was the time
+
+527
+00:26:06,680 --> 00:26:08,600
+period of my high school experience.
+
+528
+00:26:08,600 --> 00:26:11,920
+People online are comparing Hi-Fi Rush's dialogue to first spoken and fair enough,
+
+529
+00:26:11,920 --> 00:26:15,940
+and both swamped in millennial writing, jokes during serious moments, fourth wall breaking
+
+530
+00:26:15,940 --> 00:26:16,940
+stuff, all of it.
+
+531
+00:26:16,940 --> 00:26:21,540
+But the difference is, forespoken is trying to be a serious fantasy adventure, while simultaneously
+
+532
+00:26:21,540 --> 00:26:26,660
+being embarrassed of itself, while Hi-Fi Rush is a jokey Saturday morning cartoon that knows
+
+533
+00:26:26,660 --> 00:26:27,800
+it is a cartoon.
+
+534
+00:26:27,800 --> 00:26:31,040
+The game is in on the joke and it's endearing, and it also knows not to go too overboard
+
+535
+00:26:31,040 --> 00:26:32,040
+with it as well.
+
+536
+00:26:32,040 --> 00:26:35,200
+There's a balance here, Hi-Fi Rush strikes it, forespoken does not.
+
+537
+00:26:35,200 --> 00:26:38,560
+Hi-Fi Rush and forespoken are being compared on the internet right now because they're
+
+538
+00:26:38,560 --> 00:26:42,440
+polar opposites occupying the same space, and it's not just because they both feature
+
+539
+00:26:42,440 --> 00:26:43,440
+millennial writing.
+
+540
+00:26:43,440 --> 00:26:47,340
+They're the only two notable games to come out during January of 2023.
+
+541
+00:26:47,340 --> 00:26:51,000
+Forespoken has a build up of multiple years of the Square Enix hype machine behind it,
+
+542
+00:26:51,000 --> 00:26:55,180
+while Hi-Fi Rush was released the same day it was announced, during a recent Xbox Bethesda
+
+543
+00:26:55,180 --> 00:26:58,020
+developer conference, with no hype behind it at all.
+
+544
+00:26:58,020 --> 00:27:02,120
+Forespoken is an open world game, a bland empty sandbox with nothing to do and nobody
+
+545
+00:27:02,120 --> 00:27:06,400
+interesting in it, while Hi-Fi Rush is a level based hack and slash where each of the environments
+
+546
+00:27:06,400 --> 00:27:08,960
+and characters appear to be lovingly crafted.
+
+547
+00:27:08,960 --> 00:27:13,340
+Forespoken launched at 70 US dollars, Sony paid a boatload of money to make it a two
+
+548
+00:27:13,340 --> 00:27:18,440
+year PS5 console exclusive, and the PC version barely functions unless you've got an amazing
+
+549
+00:27:18,440 --> 00:27:22,520
+graphics card, while Hi-Fi Rush launched for 30 dollars on Xbox and PC.
+
+550
+00:27:22,520 --> 00:27:26,480
+You can play it on your shitty 10 year old computer, and you can even play it on Gamepass.
+
+551
+00:27:26,480 --> 00:27:30,200
+It's no surprise that Hi-Fi Rush basically blew forespoken out of the water in terms
+
+552
+00:27:30,200 --> 00:27:31,520
+of popularity, is it?
+
+553
+00:27:31,520 --> 00:27:35,720
+The progs on Twitter are screeching that gamers are all just racist because the cringe writing
+
+554
+00:27:35,720 --> 00:27:39,060
+in forespoken is identical to Hi-Fi Rush's, but what they don't seem to understand is
+
+555
+00:27:39,060 --> 00:27:40,680
+that context matters.
+
+556
+00:27:40,680 --> 00:27:42,440
+Also making a good fucking game matters too.
+
+557
+00:27:42,440 --> 00:27:46,080
+By the time this video comes out, I have a feeling that the forespoken discourse will
+
+558
+00:27:46,080 --> 00:27:49,040
+have already been fully washed away by Hi-Fi Rush's success.
+
+559
+00:27:49,040 --> 00:27:51,020
+I started this script on February 2nd.
+
+560
+00:27:51,020 --> 00:27:55,980
+The game is so indefensible generic, and people are so tired of being browbeat, that the cries
+
+561
+00:27:55,980 --> 00:27:58,840
+of racist sexist gamers aren't going to do anything this time.
+
+562
+00:27:58,840 --> 00:28:01,920
+The game sucks, and that's too bad because there's an okay skeleton in here.
+
+563
+00:28:01,920 --> 00:28:04,660
+The combat, the movement, and even the skill trees are interesting.
+
+564
+00:28:04,660 --> 00:28:07,700
+They just needed a totally different game packaged around it.
+
+565
+00:28:07,700 --> 00:28:10,920
+Which is funny, because Agni's philosophy did in fact look like a totally different
+
+566
+00:28:10,920 --> 00:28:11,920
+game.
+
+567
+00:28:11,920 --> 00:28:15,760
+Same art style, same engine, same mechanics, same assets, but totally different characters.
+
+568
+00:28:15,760 --> 00:28:19,360
+Forespoken really just feels like Square Enix desperately needed to recoup a lot of money.
+
+569
+00:28:19,360 --> 00:28:22,800
+They had bits and bobs of their games lying around, and they decided to mash it all together
+
+570
+00:28:22,800 --> 00:28:27,060
+and race swap the protagonist to make her black because Black Lives Matter sells.
+
+571
+00:28:27,060 --> 00:28:28,860
+Well, it didn't sell enough.
+
+572
+00:28:28,860 --> 00:28:31,500
+If you're going to get this one, wait for a deep discount, guys.
+
+573
+00:28:31,500 --> 00:28:33,960
+I'm talking like five to ten dollars.
+
+574
+00:28:33,960 --> 00:28:36,000
+This one is not fucking worth it.
+

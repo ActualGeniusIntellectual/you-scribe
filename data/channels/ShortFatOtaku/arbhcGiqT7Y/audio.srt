@@ -1,0 +1,792 @@
+1
+00:00:00,000 --> 00:00:07,840
+So, how was everyone's Christmas?
+
+2
+00:00:07,840 --> 00:00:08,840
+What did you all get?
+
+3
+00:00:08,840 --> 00:00:10,100
+Was your stocking full of coal?
+
+4
+00:00:10,100 --> 00:00:11,880
+Did you actually get what you put on your list for Santa?
+
+5
+00:00:11,880 --> 00:00:16,400
+I'm at that point in my life where I can buy a lot of the more mundane things that I want.
+
+6
+00:00:16,400 --> 00:00:19,120
+Like video games, or tools, or computer parts, or whatever.
+
+7
+00:00:19,120 --> 00:00:22,180
+And what I really value is time spent with people closest to me.
+
+8
+00:00:22,180 --> 00:00:23,920
+That makes me quite hard to shop for.
+
+9
+00:00:23,920 --> 00:00:26,000
+But I think this is actually pretty normal as an adult.
+
+10
+00:00:26,000 --> 00:00:31,300
+When I was a kid I wanted nothing more than a Nintendo 64.
+
+11
+00:00:31,300 --> 00:00:34,300
+And so back then my parents knew exactly what to buy me.
+
+12
+00:00:34,300 --> 00:00:35,680
+Now I have everything that I want.
+
+13
+00:00:35,680 --> 00:00:38,920
+To the point that I actually look forward to getting new socks and underwear whenever
+
+14
+00:00:38,920 --> 00:00:40,720
+I go back to visit my mom for the holidays.
+
+15
+00:00:40,720 --> 00:00:42,320
+Geez, never thought I'd be saying that.
+
+16
+00:00:42,320 --> 00:00:43,680
+But I guess it's just part of growing up.
+
+17
+00:00:43,680 --> 00:00:47,980
+However, how many of you got, as a fine, and I mean the finest Christmas gift, a Trump
+
+18
+00:00:47,980 --> 00:00:48,980
+NFT?
+
+19
+00:00:48,980 --> 00:00:49,980
+Oh yeah.
+
+20
+00:00:49,980 --> 00:00:52,000
+I haven't really spoken about NFTs before on this channel, have I?
+
+21
+00:00:52,000 --> 00:00:53,700
+Okay, here's a very quick TLDR.
+
+22
+00:00:53,700 --> 00:00:56,800
+My layman's understanding of a blockchain is that it's a digital ledger.
+
+23
+00:00:56,800 --> 00:01:01,220
+Each section is a block, and each future block contains data about the previous block that,
+
+24
+00:01:01,220 --> 00:01:04,200
+due to the algorithmic nature of the data, can't be edited.
+
+25
+00:01:04,200 --> 00:01:08,440
+If any block were to be secretly edited after publishing, the referential chain of algorithmic
+
+26
+00:01:08,440 --> 00:01:12,900
+data back through the ledger would change the data of all the previous blocks.
+
+27
+00:01:12,900 --> 00:01:17,500
+What this means is, any data stored on a blockchain can never be deleted without destroying every
+
+28
+00:01:17,500 --> 00:01:20,260
+single copy of the entire blockchain in existence.
+
+29
+00:01:20,260 --> 00:01:22,180
+A Bitcoin is a fungible token.
+
+30
+00:01:22,180 --> 00:01:24,020
+Fungible meaning replaceable or identical.
+
+31
+00:01:24,020 --> 00:01:26,720
+Each Bitcoin is worth the same amount as any other Bitcoin.
+
+32
+00:01:26,720 --> 00:01:30,460
+Nothing differentiates individual Bitcoins except their individual location on a blockchain
+
+33
+00:01:30,460 --> 00:01:31,860
+and who currently owns them.
+
+34
+00:01:31,860 --> 00:01:34,220
+NFT stands for non-fungible token.
+
+35
+00:01:34,220 --> 00:01:39,040
+What this means is individual NFTs might hold individual locations on a blockchain and might
+
+36
+00:01:39,040 --> 00:01:41,140
+have unique owners, just like a Bitcoin.
+
+37
+00:01:41,140 --> 00:01:44,760
+But each individual NFT is not interchangeable like Bitcoins are.
+
+38
+00:01:44,760 --> 00:01:45,920
+Each one is unique.
+
+39
+00:01:45,920 --> 00:01:49,300
+The most famous NFTs are from the Bored Ape Yacht Club collection.
+
+40
+00:01:49,300 --> 00:01:54,220
+The owner of all this nonsense, Yuga Labs, came to prominence in 2021, when they revealed
+
+41
+00:01:54,220 --> 00:01:59,100
+algorithmically generated artwork of the Bored Apes, cartoon monkey characters who all stand
+
+42
+00:01:59,100 --> 00:02:03,380
+in the same identical pose and frame, and for whom basic art AI generates different
+
+43
+00:02:03,380 --> 00:02:05,740
+faces, accessories, and assets.
+
+44
+00:02:05,740 --> 00:02:10,620
+Each ape image was added to the Ethereum blockchain, and then Yuga Labs sold them in the same way
+
+45
+00:02:10,620 --> 00:02:11,620
+you'd buy a Bitcoin.
+
+46
+00:02:11,620 --> 00:02:16,000
+An owner of a Bored Ape owns a specific spot in a blockchain, as proven by a digital ledger.
+
+47
+00:02:16,000 --> 00:02:18,880
+But unlike with a crypto blockchain where you just own a token, this time it comes with
+
+48
+00:02:18,960 --> 00:02:22,760
+an image, and all the intellectual property rights to that image, including the right
+
+49
+00:02:22,760 --> 00:02:26,560
+to use your Bored Ape in TV shows or movies or whatever else you might want to do with
+
+50
+00:02:26,560 --> 00:02:27,560
+it.
+
+51
+00:02:27,560 --> 00:02:29,400
+If all this sounds retarded, that's because it is.
+
+52
+00:02:29,400 --> 00:02:34,480
+Ever since Yuga Labs dropped the Bored Apes in April of 2021, NFTs have blown up.
+
+53
+00:02:34,480 --> 00:02:37,320
+Lots of rich people have spent lots of money on this as the next big thing.
+
+54
+00:02:37,320 --> 00:02:41,480
+And lots of not-so-rich people have lost lots of money on this, hoping to strike it rich
+
+55
+00:02:41,480 --> 00:02:44,940
+and resell the NFTs as the speculation bubble inflated.
+
+56
+00:02:44,940 --> 00:02:47,120
+But instead, they ended up destroying their lives.
+
+57
+00:02:47,460 --> 00:02:50,960
+Because people immediately saw through all this bullshit, and the entire NFT market had
+
+58
+00:02:50,960 --> 00:02:54,820
+collapsed and burned by June of 2021, just three months later.
+
+59
+00:02:54,820 --> 00:02:58,020
+But that hasn't stopped people from still trying to grift off the whole concept, with
+
+60
+00:02:58,020 --> 00:03:02,040
+artists getting commissioned to draw NFTs for new shady startups, and influencers promoting
+
+61
+00:03:02,040 --> 00:03:05,040
+new NFT projects that are clearly just designed to be a rug pull.
+
+62
+00:03:05,040 --> 00:03:08,000
+By the way, a rug pull in the crypto world is exactly what it sounds like.
+
+63
+00:03:08,000 --> 00:03:11,820
+An influencer backs a new shitcoin, or in this case a new NFT, hypes it to their audience
+
+64
+00:03:11,820 --> 00:03:15,160
+as the next big thing, sells the product to their audience to make money, and then pulls
+
+65
+00:03:15,160 --> 00:03:17,760
+out of the project, letting the product's value collapse.
+
+66
+00:03:17,760 --> 00:03:20,800
+So they pocket the cash, and you are left with an asset you thought would appreciate
+
+67
+00:03:20,800 --> 00:03:24,460
+in value with the influencer's backing, but instead is just worthless.
+
+68
+00:03:24,460 --> 00:03:28,200
+Lots of people have lost lots of money in the past year and a half over this sort of
+
+69
+00:03:28,200 --> 00:03:29,920
+thing, which is just amazing to me.
+
+70
+00:03:29,920 --> 00:03:33,560
+Anyone who's financially savvy, or hell, just internet savvy, should be able to see
+
+71
+00:03:33,560 --> 00:03:35,120
+exactly what's happening here.
+
+72
+00:03:35,120 --> 00:03:39,180
+At least when Count Dankula sold NFTs, he said outright, listen guys, this is not an
+
+73
+00:03:39,180 --> 00:03:40,500
+asset that is going to inflate.
+
+74
+00:03:40,500 --> 00:03:44,260
+This is just a way for you to support my channel, and hey, fair enough, at least he's being
+
+75
+00:03:44,260 --> 00:03:45,260
+honest.
+
+76
+00:04:14,260 --> 00:04:44,100
+Thank you.
+
+77
+00:04:44,260 --> 00:04:45,260
+My god.
+
+78
+00:04:45,260 --> 00:04:49,300
+I think the reason he calls them trading cards is to reel in the boomers who don't know
+
+79
+00:04:49,300 --> 00:04:52,540
+what an NFT is, but who would totally buy a Trump baseball card.
+
+80
+00:04:52,540 --> 00:04:55,140
+He even sounds like a 3am infomercial scammer.
+
+81
+00:04:55,140 --> 00:04:56,220
+Look at these pictures.
+
+82
+00:04:56,220 --> 00:04:57,220
+Trump is Superman.
+
+83
+00:04:57,220 --> 00:04:58,220
+Trump is a cowboy.
+
+84
+00:04:58,220 --> 00:04:59,220
+Trump is an astronaut.
+
+85
+00:04:59,220 --> 00:05:03,340
+It looks like Trump saw the 2016 You Can't Stump the Trump series and said okay, it's
+
+86
+00:05:03,340 --> 00:05:04,540
+time to monetize that shit.
+
+87
+00:05:04,540 --> 00:05:08,100
+Trump had been hyping up a big announcement due to drop on December 15th.
+
+88
+00:05:08,100 --> 00:05:10,320
+It's going to be huge guys, make sure to tune in.
+
+89
+00:05:10,320 --> 00:05:12,500
+But it was just NFTs.
+
+90
+00:05:12,500 --> 00:05:15,340
+And holy shit, the rightoids were not happy about it.
+
+91
+00:05:15,340 --> 00:05:32,900
+Listen to Steve Bannon lose it.
+
+92
+00:05:32,900 --> 00:06:00,900
+Meanwhile Newsmax, a pretty right-leaning news source, had a hilarious reaction.
+
+93
+00:06:00,900 --> 00:06:15,620
+Everyone is dumbstruck that this is what Trump is doing now.
+
+94
+00:06:15,620 --> 00:06:19,220
+You guys all doubted me when like a month ago or whatever I said it was Ron DeSantis
+
+95
+00:06:19,220 --> 00:06:21,760
+and not Trump who was the future of the Republican Party.
+
+96
+00:06:21,760 --> 00:06:22,980
+I was correct.
+
+97
+00:06:22,980 --> 00:06:26,800
+This is what Trump is spending his final bits of energy and influence on.
+
+98
+00:06:26,800 --> 00:06:29,400
+The MAGA movement at this point is spent.
+
+99
+00:06:29,400 --> 00:06:32,900
+Of course, despite the despair of the rightoids, and despite knowing exactly how these sorts
+
+100
+00:06:32,900 --> 00:06:34,960
+of schemes go, Trump got his bag.
+
+101
+00:06:34,960 --> 00:06:37,340
+A 4.5 million dollar bag, to be precise.
+
+102
+00:06:37,340 --> 00:06:40,840
+The Trump NFTs sold out within a day, each one going for $99 a pop.
+
+103
+00:06:40,840 --> 00:06:44,000
+And hey, you know, to Trump's credit, they actually are beginning to inflate in value,
+
+104
+00:06:44,000 --> 00:06:45,000
+at least for now.
+
+105
+00:06:45,000 --> 00:06:49,400
+Private owners of Trump NFTs are now selling them on the NFT exchange website, OpenSea,
+
+106
+00:06:49,400 --> 00:06:51,480
+for $1200 a pop or more.
+
+107
+00:06:51,480 --> 00:06:56,080
+By the way, the fine print says that 10% of each subsequent sale of any Trump NFT goes
+
+108
+00:06:56,080 --> 00:06:58,280
+into the pocket of the artist responsible for them.
+
+109
+00:06:58,280 --> 00:06:59,320
+What a tidy grift.
+
+110
+00:06:59,320 --> 00:07:03,040
+And there also seems to be a serious question about where all this money is going.
+
+111
+00:07:03,040 --> 00:07:07,080
+Trump himself has stated that while the cards use his likeness, and he is clearly promoting
+
+112
+00:07:07,080 --> 00:07:08,960
+them, he is not in charge of the venture.
+
+113
+00:07:08,960 --> 00:07:14,060
+In fact, the company officially running the show is the blandly named NFT International
+
+114
+00:07:14,060 --> 00:07:19,180
+LLC, whose mailing address is a UPS office in Utah, but whose official business address
+
+115
+00:07:19,180 --> 00:07:20,860
+is a house in Wyoming.
+
+116
+00:07:20,860 --> 00:07:25,160
+This is a notorious piece of property in the Shell company game, being the official home
+
+117
+00:07:25,160 --> 00:07:29,560
+of thousands of LLCs, many of which are components of organized crime.
+
+118
+00:07:29,560 --> 00:07:34,820
+NFT International LLC is owned by another company, CIC Ventures, with a mailing address
+
+119
+00:07:34,820 --> 00:07:38,060
+at the Trump International Golf Club in West Palm Beach.
+
+120
+00:07:38,060 --> 00:07:43,360
+This company is owned by former Trump advisor Nick Luna and current Trump lawyer John Marion.
+
+121
+00:07:43,360 --> 00:07:46,800
+Those advertised sweepstakes prizes such as dinners with Trump and trips to Mar-a-Lago
+
+122
+00:07:46,800 --> 00:07:47,800
+with every NFT sold?
+
+123
+00:07:47,800 --> 00:07:52,300
+I don't know about you, but I wouldn't count in any of those ever actually materializing.
+
+124
+00:07:52,300 --> 00:07:53,880
+I think Trump has lost it, guys.
+
+125
+00:07:53,920 --> 00:07:55,520
+He wasn't like this in 2016.
+
+126
+00:07:55,520 --> 00:07:59,480
+I think it was a combination of his celebrity status and ego, his decisive 2016 victory
+
+127
+00:07:59,480 --> 00:08:03,520
+over the Republican establishment, his win over Hillary, the realities of being a president,
+
+128
+00:08:03,520 --> 00:08:07,640
+and his apparent Twitter addiction, all turned Trump into a caricature of himself.
+
+129
+00:08:07,640 --> 00:08:09,080
+And he was already kind of a caricature.
+
+130
+00:08:09,080 --> 00:08:13,400
+And I think that loss in 2020, where the real world finally impacted that bubble he was
+
+131
+00:08:13,400 --> 00:08:15,040
+living in, completely fucked him up.
+
+132
+00:08:15,040 --> 00:08:18,600
+He's been raving about how he didn't actually lose and it's so unfair and this and that
+
+133
+00:08:18,600 --> 00:08:20,180
+for two fucking years now.
+
+134
+00:08:20,180 --> 00:08:22,640
+And I think everyone is just done with the copium.
+
+135
+00:08:22,640 --> 00:08:25,640
+You know how you sometimes bump into that guy from high school who had one legitimately
+
+136
+00:08:25,640 --> 00:08:29,520
+awesome moment at the big championship sports ball game where he triumphed and took it home
+
+137
+00:08:29,520 --> 00:08:30,520
+for the school?
+
+138
+00:08:30,520 --> 00:08:33,800
+Only now he's been graduated for years and yet he still brings that shit up every time
+
+139
+00:08:33,800 --> 00:08:34,800
+you see him?
+
+140
+00:08:34,800 --> 00:08:35,800
+Almost like that's where his life peaked?
+
+141
+00:08:35,800 --> 00:08:37,080
+That's what Trump is now.
+
+142
+00:08:37,080 --> 00:08:41,520
+I think that 2020 loss and his subsequent isolation at Mar-a-Lago has brainrotted him
+
+143
+00:08:41,520 --> 00:08:42,520
+to the extreme.
+
+144
+00:08:42,520 --> 00:08:45,160
+He still talks like he's the president, he makes announcements like he's the president,
+
+145
+00:08:45,160 --> 00:08:49,600
+he's got files at Mar-a-Lago that he refused to hand over and the FBI had to fucking raid
+
+146
+00:08:49,600 --> 00:08:50,600
+him for them.
+
+147
+00:08:50,600 --> 00:08:52,920
+I can already hear the coping comments.
+
+148
+00:08:52,920 --> 00:08:58,160
+He didn't declassify them and he couldn't because the Atomic Energy Act places jurisdiction
+
+149
+00:08:58,160 --> 00:09:01,120
+over nuclear secrets in the hands of Congress, not the president.
+
+150
+00:09:01,120 --> 00:09:05,360
+I think Trump hasn't fully faced up to the fact that he lost and he's going through
+
+151
+00:09:05,360 --> 00:09:10,360
+a very public denial and spiral process that is honestly pretty sad to watch.
+
+152
+00:09:10,360 --> 00:09:14,120
+All that being said, Trump didn't only announce Trump NFTs on December 15th.
+
+153
+00:09:14,120 --> 00:09:17,080
+A second announcement which got way less attention was this one.
+
+154
+00:09:17,080 --> 00:09:23,640
+Today I'm announcing my plan to shatter the left-wing censorship regime and to reclaim
+
+155
+00:09:23,640 --> 00:09:26,800
+the right to free speech for all Americans.
+
+156
+00:09:26,800 --> 00:09:32,960
+In recent weeks, bombshell reports have confirmed that a sinister group of deep state bureaucrats,
+
+157
+00:09:32,960 --> 00:09:39,980
+Silicon Valley tyrants, left-wing activists and depraved corporate news media have been
+
+158
+00:09:39,980 --> 00:09:44,940
+conspiring to manipulate and silence the American people.
+
+159
+00:09:44,940 --> 00:09:50,800
+They have collaborated to suppress vital information on everything from elections to
+
+160
+00:09:50,800 --> 00:09:52,400
+public health.
+
+161
+00:09:52,400 --> 00:09:59,820
+The censorship cartel must be dismantled and destroyed and it must happen immediately.
+
+162
+00:09:59,820 --> 00:10:05,580
+If any U.S. university is discovered to have engaged in censorship activities or election
+
+163
+00:10:05,580 --> 00:10:13,580
+interferences in the past, such as flagging social media content for removal of blacklisting,
+
+164
+00:10:13,800 --> 00:10:19,280
+those universities should lose federal research dollars and federal student loan support for
+
+165
+00:10:19,280 --> 00:10:22,220
+a period of five years and maybe more.
+
+166
+00:10:22,220 --> 00:10:28,000
+We should also enact new laws laying out clear criminal penalties for federal bureaucrats
+
+167
+00:10:28,000 --> 00:10:33,940
+who partner with private entities to do an end run around the Constitution and deprive
+
+168
+00:10:33,940 --> 00:10:37,880
+Americans of their first, fourth and fifth amendment rights.
+
+169
+00:10:37,880 --> 00:10:41,440
+In other words, deprive them of their vote.
+
+170
+00:10:41,440 --> 00:10:46,460
+And once you lose those elections and once you lose your borders like we have, you no
+
+171
+00:10:46,460 --> 00:10:47,940
+longer have a country.
+
+172
+00:10:47,940 --> 00:10:48,940
+Yeah.
+
+173
+00:10:48,940 --> 00:10:52,460
+Trump's plan is to dismantle the censorship happening in schools, media and big tech using
+
+174
+00:10:52,460 --> 00:10:53,460
+government power.
+
+175
+00:10:53,460 --> 00:10:54,460
+I understand the appeal.
+
+176
+00:10:54,460 --> 00:10:58,220
+We have seen schools, media and big tech all be censorious towards the little guy.
+
+177
+00:10:58,220 --> 00:11:02,800
+At the same time, schools, the media and big tech also have free speech rights.
+
+178
+00:11:02,800 --> 00:11:06,460
+And the idea of the government coming in and curtailing the free speech of anyone, whether
+
+179
+00:11:06,460 --> 00:11:10,740
+that's your average Joe or the owner of a successful business, is pretty scary to me.
+
+180
+00:11:10,740 --> 00:11:13,520
+Especially when that sentiment is coming from the mouth of a guy who over on Truth
+
+181
+00:11:13,520 --> 00:11:17,840
+Social recently said that the Twitter files being released by Elon right now are grounds
+
+182
+00:11:17,840 --> 00:11:22,560
+for overturning the 2020 election and the termination of all rules, regulations and
+
+183
+00:11:22,560 --> 00:11:24,240
+articles, even the Constitution.
+
+184
+00:11:24,240 --> 00:11:28,320
+Now, whatever the Twitter files releases are, and there's some debate on that, they are
+
+185
+00:11:28,320 --> 00:11:32,800
+not grounds for the termination of the Constitution in order to unilaterally reinstate Trump as
+
+186
+00:11:32,800 --> 00:11:33,800
+president.
+
+187
+00:11:33,800 --> 00:11:37,880
+And this type of flagrant disregard for the Constitution makes Trump just as unfit to
+
+188
+00:11:37,880 --> 00:11:42,380
+rule as the Democratic lawmaker who says the Second Amendment doesn't matter.
+
+189
+00:11:42,380 --> 00:11:43,380
+Yeah.
+
+190
+00:11:43,380 --> 00:11:47,360
+While this is mostly a goofy video about Trump and NFTs, I think there's something under
+
+191
+00:11:47,360 --> 00:11:48,360
+the surface here.
+
+192
+00:11:48,360 --> 00:11:49,700
+I liked Trump in 2016.
+
+193
+00:11:49,700 --> 00:11:52,820
+The memes were great, and some of the shit he was saying in that elections debates were
+
+194
+00:11:52,820 --> 00:11:56,860
+spot on, but he's become something else in the past six years, something that I don't
+
+195
+00:11:56,860 --> 00:11:59,860
+think anybody with a conscience can continue to support.
+
+196
+00:11:59,860 --> 00:12:06,500
+Also, isn't it strange that NFTs are basically just the rare Pepe's black market meme come
+
+197
+00:12:06,500 --> 00:12:07,500
+to life?
+
+198
+00:12:07,500 --> 00:12:09,520
+I know that was a joke, right?
+

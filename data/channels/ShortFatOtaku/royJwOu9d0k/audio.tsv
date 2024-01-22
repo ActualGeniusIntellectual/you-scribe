@@ -1,0 +1,185 @@
+start	end	text
+0	16920	Google Stadia is dead, and thank god for that. For those of you who don't know, Google Stadia
+16920	20480	was Google's attempt to enter into the cloud gaming market. Uh-huh, for those of you who
+20480	24200	don't know what that is, cloud gaming is where the video game you're playing is physically
+24200	29000	hosted somewhere very far away. Here's the most simplistic, boomer-friendly explanation.
+29000	33240	You know how, back in the 1980s, if you were gonna play a video game, maybe you had a Nintendo,
+33240	36720	maybe you had an old computer, the game would appear on the TV or the monitor, but the game
+36720	40520	itself would be running on the hardware of the PC or the NES. The latency between the
+40520	44900	device generating the game and the image output on the screen is virtually zero because they're
+44900	49560	right beside each other. As technology advanced, people tried and failed to invent working
+49560	53680	wireless controllers so you could play video games from further away. Infrared controllers
+53680	58280	needed a direct line of sight and could be blocked by a passing dust mote, while primitive
+58280	62600	pre-Bluetooth tech of the 90s added way too much latency. You'd press a button on the
+62600	66520	controller and the action in the game might happen a full second later. It was only with
+66520	70580	the invention of the Wavebird controller for the Nintendo GameCube that wireless controller
+70580	75600	technology matured enough to actually be on par with a wired experience. What cloud gaming
+75600	79360	is, is when the device running your game, the console or the computer, isn't in your
+79360	84200	living room but is instead potentially thousands of miles away at one of Google's data centers.
+84200	88080	The upside of this idea is that you don't have to buy your own console or PC anymore.
+88080	91520	You can simply connect to the Google Stadia service, pay a monthly subscription fee and
+91520	95300	have the games streamed over the internet to your TV screen. Stadia was technically
+95300	99900	available on any device that could run a Google Chrome browser. PCs, phones, tablets, TVs,
+99900	103640	and if for some reason your TV couldn't run it, you could buy a little Google Stadia
+103640	108720	broadcaster dongly thing that clips onto the TV. The cost of actually building or owning
+108720	112300	the expensive hardware that runs the game is collectivized. Rather than having your
+112300	116760	brand new PS5 sit there idle when you're not using it, if all the raw hardware is stored
+116760	120600	at Google's data centers, it can simply be repurposed for somebody else's game.
+120600	125300	However, intuitively, it's not hard to understand how this is a bad idea in terms of the actual
+125300	129620	experience of playing the game. If you think that latency was bad with primitive wireless
+129620	133400	controllers when you were sitting just a bit too far away from the screen, imagine latency
+133400	136620	when your game is being played on the other side of the country and transmitted over the
+136620	140580	internet. According to Google though, there was no latency. In fact, it was better than
+140580	144840	playing the game in your own home due to what they called negative latency. What this actually
+144840	149480	is, was a buffer of predicted latency inherent to a Stadia player's setup or connection in
+149480	154500	which the Stadia system will run lag mitigation. This can include increasing FPS rapidly to
+154500	159840	reduce latency between player input and display or even predicting user inputs. Yes, Google
+159840	163660	Stadia included AI learning that would come to predict your button presses and execute
+163660	167180	them before you did in game, back on their home server, making it feel like you were
+167180	170480	the one pressing the button at home, but it was them. They were literally going to have
+170480	175100	the game play itself to overcome the natural limitations of their own business model.
+175100	179100	Stadia launched in late 2019, and it was pretty obvious to everyone that it was going to be
+179100	182280	a bomb before you even got out there. That didn't stop them from trying, and initial
+182280	186700	reviews all voiced the same complaints that we had all predicted. Latency with the games
+186700	191300	was horrible, with the new Mortal Kombat game in particular being virtually unplayable,
+191300	195500	featuring several seconds of delay between input and action, making combos and fatalities
+195500	199860	impossible to pull off. Google blamed this not on their hardware or on the internet,
+199860	203000	but on the developers who made the games, saying they just didn't know how to do it
+203000	207280	right on their revolutionary new product. After all, their hardware was more powerful
+207280	211580	than the PS4 Pro or the Xbox One X. They've got the 4K gaming experience, as long as you
+211580	215280	bought the Premium subscription. It's everyone else's fault it wasn't working. Developers
+215280	219240	of course had their own take. Google, frankly, didn't pay them enough to get their games
+219240	223520	working on Stadia. Game selection at launch was also not great. The Stadia started its
+223520	228320	life with 22 games available, which isn't bad, but they were almost entirely ports of
+228320	232900	games that were several years old. No exclusives and very few new titles. And a lot of shit
+232900	238300	just didn't work. Family sharing didn't work. Achievements didn't work. Stadia on iOS didn't
+238300	242060	work. And on some versions of Chromecast, another Google product, in fact the prime
+242060	246500	Google product for this service, Stadia didn't work. For some people, Stadia itself didn't
+246500	250440	work, as Google failed to provide invite codes with their Stadia subscriptions. And worst
+250440	254300	of all, in my opinion, was the announcement that Google Stadia games would still cost
+254300	258240	full price, alongside buying the controller and paying the subscription fee to access
+258240	262320	the service. Stadia was compared to Netflix because Netflix's model is similar. You don't
+262320	265580	own the movie or the show, it's stored on the Netflix servers and transmitted to you
+265580	268920	over the internet, just like the games you play on Stadia. But this is like, in addition
+268920	272620	to buying the TV and paying for the internet service and paying for your Netflix subscription,
+272620	277040	you had to pay for every movie or show on Netflix you watched. You own them, and that
+277040	280060	they're in your library on Netflix, but it's not like you own the physical copy. That's
+280060	284120	what Stadia was doing. As the service began to mature, people began to take notice of
+284120	287600	the slow trickle of new games coming out, as well as the lack of improvements to actually
+287600	291920	make the service, you know, work. The latency problem never really got solved, and the games
+291920	295820	were shadows of what they were on other platforms. The system's best exclusive game was Super
+295820	301000	Bomberman R Online, and that moved off Stadia in early 2021, just to try and stay alive.
+301000	304840	Funnily enough, an editor at Game Informer was told by a Stadia rep that Super Bomberman
+304840	308360	R Online could never come out on another platform because of the fundamental way the game was
+308360	312040	programmed. There was also weird oddities that just made people think that Google had
+312040	315720	no idea what they were doing. Like how the Stadia profile page included areas to input
+315720	321300	your ICQ number, AIM scream name, MSN messenger, and Yahoo ID. All services that went the way
+321300	325700	of the dodo a decade ago. I remember using this shit in high school. Google hand-waved
+325700	332400	everything by going back to that dry old well of video games controversy. Yes, thank you,
+332400	336100	Frost, don't worry, your time will come on this channel. Google vows to fight abuse that
+336100	339980	could pop up in Stadia communities. Google wants to prevent its new Stadia from being
+339980	344220	filled up with racists, bigots, and trolls who congregate online. Like, listen to how
+344220	348700	this is framed. Creating the community could also open the door to abusive conduct and
+348700	352900	content, a problem that already plagues Facebook, Twitter, YouTube, and other social media platforms.
+352900	356980	Tech platforms are under intense scrutiny for failing to police what happens on their
+356980	360580	services. Google wants to make sure the problems don't reappear on Stadia. They view the internet
+360580	364860	itself as inherently a racist place. They view their own audience as a problem that
+364860	369900	needs to be solved. The actual issue is that people are inherently rowdy and edgy and judgey
+369900	373220	and shitposty, and that's not going to go away with a bit of social engineering from
+373220	377700	Google. People simply won't use your service. And of course, the old boogeyman is brought
+377700	382100	up. Discord, a chat app for gamers, has been criticized for being what some say is a safe
+382100	386780	place for white supremacists and anti-Semites. Gamergate, an online movement that gained
+386780	393540	steam in 2014, pushed some of the sexist and racist tropes of prevalent in gaming culture.
+393540	397860	Jesus, CNET, do you proofread your shit before publishing it? It's no surprise that this
+397860	401540	is the direction Google went with Stadia, as it's the direction they go company-wide.
+401540	405700	Woke nonsense force-fed to all employees through diversity training seminars and other garbage
+405700	410260	like that. A lot of the more moronic Stadia-related decisions can be understood through this lens.
+410260	414880	Like for example, Google's press packages including an emphasis on what they call gender-neutral
+414880	419900	controllers to appeal to women. What exactly made the Google Stadia controller gender-neutral?
+419900	424460	Well they made it in green. That's literally it. I don't know about you, but different
+424460	428660	colored controllers, including green, have been Nintendo's thing since the 90s. I don't
+428660	432220	think it's progressive or revolutionary. Maybe you have to slap that label on if it
+432220	436260	really counts. All of the complaints and issues were covered up on the subreddit r slash Stadia
+436260	440740	because all the moderators of that sub were Google employees. Seriously, Google runs the
+440740	445220	fan communities of the Stadia and spent the lifespan of the Stadia purging all the bad
+445220	449760	press and negative customer responses. Despite this though, fan complaints still kept getting
+449760	453380	through and going viral because there were just so many of them. Like pause the video
+453380	456860	and read some of these for yourself. Look at this one. They just hit the online player
+456860	462500	limit of 16 people in a single game of grid for the first time. Usually, nobody is playing
+462500	467380	anything on the Stadia. This was back in January of 2020, two months after launch. The service
+467380	471680	was dead before it even got off the ground. That didn't stop them from simultaneously
+471680	476700	announcing expansion plans in March and a free pass in April. Guys, stop throwing money
+476700	481380	into this black hole. It was no surprise to anyone that Google announced the final shutdown
+481380	485560	of Stadia a few weeks ago. The only surprise is that the service managed to limp along
+485560	490700	as far as it did. It will finally close its doors in early 2023, just past the three year
+490700	494560	mark. It was really funny as the last few Stadia users began to notice that Google had
+494560	497820	stopped talking about the Stadia, stopped updating it, was no longer moderating the
+497820	501420	subreddit, was no longer replying to anyone, and they had purchased all of these games
+501420	504300	that might be disappearing soon. What was going to happen to their money and their saves
+504300	508660	and their games? I've always been a proponent of owning physical copies of games where possible
+508660	512580	to avoid bullshit like this, but Google actually surprised everyone, saying that they would
+512580	516600	all get a refund of their games purchases when the service finally closed down. Some
+516600	520860	companies are offering transfer services to move gamers save files off Stadia to a different
+520860	524300	platform, but for other people they're just shit out of luck. As Stadia closes its doors,
+524300	528140	the subreddit has gotten really weird. Like check this out, rest in peace Google Stadia,
+528140	531940	you're awesome. Cloud gaming is sustainable gaming. Why are we using environmentalist
+531940	535980	activist language here? The bottom of the post reads, the savings in hardware cost,
+535980	540460	distribution, energy use, etc that cloud gaming provides because infrastructure is shared doesn't
+540460	544980	need a cool box and stands in an efficient data center should almost make it a requirement for
+544980	550340	all next-gen games. Why let people buy an expensive box they hardly play when they can use it in the
+550340	554940	cloud? Cloud gaming is sustainable gaming. You hear that pleb? The next part of live in the pod
+554940	559260	and eat the bugs is gonna be play on the cloud. You don't need to own your own stuff, just rent
+559260	563340	it from the data center. It's more sustainable. Stop being so selfish and wanting, you know,
+563380	569460	your own PlayStation. Google spent a lot of time and I mean a lot trying to reassure gamers that
+569460	573860	Stadia was here to stay, but it was all bullshit blowing smoke up everyone's ass hoping that their
+573860	578260	shitty product would catch on, but it never did. We all predicted Stadia's failure before it even
+578260	582620	got going. Streaming a game from the cloud isn't like streaming music or movies. Those are linear
+582620	587860	experiences that don't require split second input from the end user. This is a fundamental problem
+587860	592420	that won't be solved for a while considering current advancement internet speeds. All other
+592500	596380	cloud gaming services suffer from the same issues. The cloud versions of games on the switch,
+596380	600300	the PlayStation Plus cloud stuff, Amazon's Luna, Xbox Game Pass, Nvidia, all of it,
+600300	605060	all of them suffer from the same one-two punch of latency destroying game experiences and you
+605060	609820	losing your purchases and save games when the service eventually dies. At least with PlayStation
+609820	614300	Plus and Xbox Game Pass though, it actually functions like a Netflix. You pay your monthly fee
+614300	618580	and you can just play rotating selection of games and you can download them to your local hardware
+618580	622100	so you're not trying to play over the internet too. How many times has Google done this? Google
+622100	626100	Hangouts, Google Plus, Google Glass, Google Answers, Google Buzz, large chunks of Google Play.
+626100	629980	There's so much shit Google has invested in and then just dumped even when it worked very well
+629980	633820	like Hangouts and Google Reader. Well with the death of the Stadia, we finally got an inside
+633820	637700	leak as to why this keeps happening. The career progression and promotion at Google is based on
+637700	642100	moving the needle aka launches. You launch a service or a major overhaul and you put it in
+642100	645540	your promo package. No one ever fucking gets promoted for maintaining or fixing something
+645540	649300	broken. No, it's all about launching products. When something like Stadia or any other Google
+649300	652980	service launches, you always see an immediate slowdown in development and features. It's because
+652980	656860	all experienced and ambitious engineers leave the project very shortly after launch because there's
+656860	660340	no promo food to get anymore. So they leave for a new project or team where they can get more
+660340	665020	credits towards promo. The people that remain are those that can't easily transfer aka inexperienced
+665020	668940	or poor engineers. You see this all the time with Google products. Rapid development and activity
+668940	672740	until the launch and then everything grinds to a halt. When I worked at Google in 2012, internally
+672740	677540	we called it LPA, Launch, Promo, Abandon. Yes, this is how we described it internally at Google.
+677580	681860	Another insider at Google echoed the sentiment. Google features zero penalties for fucking shit
+681860	685180	up. Do you know what the people who wasted two years on Google Allo got after it was canned?
+685180	689540	Nothing. Some got promoted. Google greatly encourages launches, releasing something publicly.
+689540	693420	And keep in mind, no penalties if this shit is half-baked, not working, only working on Chrome
+693420	697300	or some such nonsense. This is the norm. Why? Promotion. You can't get promoted beyond a certain
+697300	700180	level in this place unless you launch something big. What do you get when you add all these
+700180	705900	perverse incentives? 9,883 chat apps and a never-ending chain of redesigns and relaunches
+705900	709380	so some people can get promoted. You know how many bugs you need to fix to get promoted? Infinity.
+709380	712820	No matter how many you fix, it will never get you enough impact for promotion. How many useless
+712820	717220	redesigns you need to launch to get promoted? One. People internally usually warn about this
+717220	720940	shit, complain about it, file bugs about performance, et cetera. It's all ignored. Most people who have
+720940	724220	been here for over a few years have given up filing bugs because their reply is always the
+724220	727920	same. You're not the target audience and we all know it. Some quit when they realize it. Others
+727920	731500	begin optimizing promotion as opposed to optimizing for it as good for the user or the company. And
+731500	735540	this is how you get the new Gmail, for example. Google looks like on the outside, the 2020s
+735580	740140	equivalent of Blockbuster Video grew too fast, too quickly, isn't adapting to its own size,
+740140	744140	isn't cutting out the rot within its own company and culture. At the top, Google thinks it can do
+744140	748140	no wrong. It is the axis in which the world turns. Anything that the Google label slapped onto it
+748140	752300	must be good. And if there's problems, it's other people sabotaging it. At the bottom, though,
+752300	756140	Google is filled with people existing within the husk of a once functional institution,
+756140	760940	fighting over scraps, focusing only on building one person's staircases for themselves rather
+760940	764860	than actually fixing the place up. The Google Stadia disaster was inevitable and I'm glad I
+764860	769060	didn't get on board, even just showing off the shit show on my gaming stream. I don't think it
+769060	772500	would have been worth it for me, frankly. Oh, well, Stadia subjects are making the migration
+772500	777460	over to Amazon's cloud gaming service, the Amazon Luna. Surely the exact same shit won't happen
+777460	778580	again. This'll be fine.

@@ -1,0 +1,574 @@
+Over on SFO Arcade, we just finished up Fourspoken, the latest PS5 exclusive.
+So I guess it's finally time to talk about it.
+And yes, it stinks.
+I wouldn't break out the indefensible intro and title if it didn't.
+Let me give you the history.
+Square Enix's early history is one of console exclusivity.
+Square games came out only on the NES and then the SNES.
+Then they famously jumped ship to Sony, choosing the PlayStation 1 over the Nintendo 64 due
+to the latter opting to stick with cartridges that maxed out at 32 megs, while the former
+utilized CDs with a storage capacity of 700 megs.
+Back in the 90s, Square made the claim that Final Fantasy VII just wouldn't fit on a
+cartridge.
+And as a kid of the 90s, let me tell you, this fueled a lot of schoolyard fights.
+Square continued to be exclusive to Sony during the PlayStation 2, for the most part.
+This strategy of Square Enix exclusivity worked because each of these console generations
+had a clear winner.
+The console that Square had backed was wildly more popular than the other options.
+But with the seventh generation of consoles, that's the Wii, Xbox 360, and PS3 by the
+way, all three of them were exceptionally popular.
+And Square Enix realized that remaining loyal to Sony meant losing money.
+So they developed a proprietary engine called Crystal Tools, meant to streamline the production
+of their big upcoming title, Final Fantasy XIII, making it easy to run on multiple platforms.
+The only problem is, it sucked.
+Crystal Tools ended up being a huge Square Enix boondoggle, delaying the release of Final
+Fantasy XIII by almost two years, while offering little to no value.
+By 2011, the Crystal Tools engine had already been pushed to its breaking point during the
+development of Final Fantasy XIII-2.
+Cracks were showing, and Square Enix needed something else, if it was going to be able
+to keep up on the PS4 and Xbox One.
+You'd think, after the failure of Crystal Tools, Square would be smart enough to not
+do this again, and maybe they'd use more conventional, more functional, more well-documented
+developer tools.
+Maybe license an engine, like Unreal or Unity or something.
+But no, they made the exact same mistake.
+To solve their Crystal Tools problem, Square Enix developed the Luminous engine in 2012,
+and showed it off at the E3 of that year with the tech demo Agni's Philosophy.
+Now if this looks familiar, that's because it should.
+A lot of it ended up becoming forespoken ten years later, which is also why huge chunks
+of forespoken look about ten years old.
+The Luminous engine ended up having all the same problems that Crystal Tools did, becoming
+another giant money pit for the company.
+To date, only two games have used the Luminous engine, Final Fantasy XV in 2016, and forespoken
+in 2023, eleven years later.
+So a broken engine, decade-old art assets, last-ditch attempt to recoup monumental cost.
+Forespoken's off to a great start, isn't it?
+What else could go wrong?
+Well, it was officially announced three years ago as Project Athia.
+And when you go back and watch that old 2020 trailer, you can see a lot of the pieces that
+would come together to later be forespoken.
+These locations, that dragon, it's all in the game.
+But this trailer was considered to be a huge joke.
+Look closely, she's not wearing boots or some kind of era-appropriate footwear, she's
+wearing kicks.
+Air Jordans, baby!
+That's when we all knew we were in for a fucking ride.
+I'm going to spoil everything about forespoken because I don't care.
+You shouldn't either, but if for some dumb reason you do, now's your chance to bail
+out.
+The plot of forespoken is the most bog-standard isekai plot I've ever seen.
+Isekai is a Japanese word meaning different world, and it refers to a genre of storytelling
+where a character from world A inexplicably finds themselves in world B and has to contend
+with a sudden upheaval.
+It's basically a fantastical version of the fish-out-of-water story, even though the
+word isekai didn't really start to be used until the glut of 80s and 90s anime that used
+the trope.
+This type of story has existed for quite a while.
+The quintessential Western isekai, for example, is Alice in Wonderland, and looking at Alice
+gives us a basic idea of what the rules are.
+One, the world that the protagonist originates from is generally the modern real world, at
+the time the story was written.
+In Alice, that's Victorian England, while in Vision of Escaflowne, for example, that's
+90s Japan.
+Rule two, what differentiates isekai from a normal travel epic like Lord of the Rings
+or Journey to the West, is that the protagonist in an isekai doesn't go on a daunting yet
+physically possible journey like crossing a continent.
+The journey is seemingly an impossible one, making the quest to get back home nigh insurmountable.
+In Alice, Wonderland is sometimes portrayed as an alternate dimension, and sometimes as
+Alice's own psyche.
+In Escaflowne, Gaia is an invisible, habitable planet caught in Earth's orbit.
+In Digimon, the characters go into a physical representation of the internet.
+In The Black Knight or A Kid in King Arthur's Court or Chrono Trigger, the characters are
+flung through time with seemingly no way back.
+In a countless number of isekai anime, especially pornographic ones, as well as those old cartoon
+shows, where your average kid gets sucked into the TV like Captain N, the alternate
+world operates like a video game.
+Some people are tempted to call a movie like Avatar an isekai, since the trip to Pandora
+is through deep space.
+Maybe, maybe not, but I think it's not an isekai because of the third rule.
+The protagonist has to be somewhat isolated, and must adapt to living in a totally alien
+culture.
+In Alice and Escaflowne, the characters are alone.
+In Digimon, it's a small group of kids.
+To contrast, in Avatar, a ton of humans have moved to Pandora and set up shop, recreating
+Earth-like habitats.
+Of course, people have played around with the genre.
+Sometimes you'll see a reverse isekai, like Beastmaster 2 or Thor, where the protagonist
+is from a fantasy world and crosses the dimensions that come to our world.
+Sometimes the protagonist doesn't adopt the role of a prophesized hero in the other
+world, and instead becomes a villain, like in My Next Life as a Villainess, or as a side
+character, like in That Time I Got Reincarnated as a Slime.
+But pretty much all isekai stories hit the same beats.
+The protagonist's life in their original world is pretty shitty.
+By random chance, the protagonist encounters a piece of the other world.
+Maybe it's a person who crossed over, maybe it's an artifact, but whatever it is, it
+inexplicably pulls them across the barrier.
+Once on the other side, the protagonist is stuck with no way back.
+New friends help the protagonist through the initial period of despair, and they begin
+to right wrongs in their new home and grow as a person.
+At the climax of the story, they finally have the opportunity to go home, and they take
+it.
+But once they're back, they realize they've changed too much.
+They can't go back to how things used to be.
+Their old life sucks, their new life is full of meaningful relationships, and now all they
+want to do is go back to the other world again.
+Eventually they do, generally just in time for the final confrontation with whatever
+villain happens to be at the center of all the events happening in the other world.
+A confrontation that our side heroes wouldn't be able to overcome without the protagonist's
+return.
+It's also revealed at some point that the reason all of this happened in the first place
+is because the protagonist, despite having an outwardly mundane life, has had some connection
+to the other world this whole time.
+Generally because one of their parents has traveled across the barrier in their youth
+and secretly settled in our world.
+Isekai stories are so old hat that any modern attempt either plays with the formula to make
+something new or sarcastically leans into the genre, parodying the whole thing and breaking
+the fourth wall constantly.
+Forespoken does neither of those things.
+In fact, Forespoken is the most by-the-books Isekai story I've ever seen.
+It feels like an AI-generated script.
+It follows every single convention of the genre.
+Frey lives a shit life as a poor black woman on the run from both the law and gangs in
+New York City.
+She breaks into a building to steal what looks to be a very expensive gold brace.
+The brace sucks her into the fantasy world of Athia, from Project Athia, remember, where
+she is a mage specializing in Earth magic.
+The land is covered in a consuming blight that corrupts all life and turns them into
+zombies, and the townsfolk desperately need a hero.
+The first three-quarters of the game consists of very generic open-world wandering and fetch-questing
+with little in the way of actual plot, until Frey wakes up one day and finds herself back
+in New York, this time living a much more comfortable life.
+This is the one real deviation from the Isekai convention.
+Frey's trip back to her old life ends up being an illusion created by another mage,
+which doesn't actually go back, but it serves the same emotional purpose.
+After this sequence, the final couple hours of the game is literally just cutscenes.
+They seriously dump all of the lore and the story on the player in the final stretch,
+expecting us to care when it's actually just really boring.
+And the lore that they dump is something that we all predicted within the first hour of
+the game.
+The blight corrupted the other three mages, called Tantas, powerful wise women who wield
+fire, water, and wind magic to complement Frey's Earth magic.
+Frey is the daughter of the original Earth Tanta, who in a fit of madness throws her
+baby into the portal to New York.
+No seriously, she just yeets that fucking kid.
+And all of the tomfoolery is caused by her talking gold brace, yeah it talks by the way,
+who turns out to be an ancient evil sealed by the Tantas.
+This guy, Cuff, is one of the more annoying parts of the game.
+He serves as the game's guide, like Navi in Ocarina of Time or Fi in Skyward Sword.
+But Cuff is more annoying than any of them, and unlike in the Zelda games, he's not bouncing
+off a silent protagonist, he's paired with Frey who is just as fucking annoying.
+These two together, they're a dialogue written by millennials who don't know how to take
+anything seriously whatsoever and have to insert Marvel-style jokes and quips every
+second, make for the cringiest moments in the entire game.
+But, to the
+game's credit, it's very rare that the tutorial helper becomes the main villain.
+Using the Zelda examples again, Navi is just a random fairy, Fi is your sword come to life,
+Midna is an important character in her own right but not the villain, and Hel in spirit
+tracks, the helper is the spirit of Princess Zelda, serving as both romantic interest and
+a ghost.
+But a villain?
+I can't say I've seen that before, I don't think.
+Anyway, that's the whole story.
+The entire thing is predictable the minute you realize you're playing an isekai.
+It brings nothing new to the table, and nearly everything old that it did, it did very poorly.
+But hey, there's more to a game than the story, right?
+What about the rest of it?
+Well, the game itself looks pretty hideous.
+The open world can be pretty sometimes, at least from a breathtaking Vista perspective,
+but the actual world itself seems barren, and I don't mean because the blight has depopulated
+the land.
+It seems unfinished, and sometimes it literally just is unfinished.
+The enemies that you fight, from zombies to animals to humans, are all generic but work
+well enough.
+The characters you meet, though, good god.
+You can tell development on this game started in 2012, because it certainly looks like it.
+Sometimes, For Spoken looks like it's a PS3 title, not a PS5 one, and the cutscenes
+also just look unfinished.
+Check this clip out of Frey breaking down a door with her magic.
+Not a single muscle twitches on her face, as she blasts the door away, which by the
+way, we won't even get to see because the camera cuts away last minute.
+Gotta save development time somehow, just don't animate that break-in scene guys,
+no one will notice, it'll be okay.
+As for what's actually in the open world itself, there's not much.
+You can find collectibles, like the same five herbs for potions arranged in the exact same
+pattern, like they just copy-paste with a cluster of them, or the same groups of zombies
+and wolves.
+Sometimes you'll find a dungeon, which is a short set of duplicated hallways with a
+boss at the end.
+And these can be kind of fun, if only because you're about to get some pretty good loot.
+Sometimes you'll find a spring where new spells can be unlocked, but these are few
+and far between.
+For the most part, there's just nothing to do in the open world.
+Despite the low quality of the visuals, this is a demanding game on PC.
+The recommended Steam specs are ridiculously high for what you're getting.
+Also, the game is 150 gigs dude, what the absolute fuck.
+The world's big, but it's not bigger than Skyrim, or Hyrule in Breath of the Wild, or
+the Commonwealth in Fallout 4.
+The only good part about the graphics are the spell effects, which do legitimately look
+magical.
+The flaming spear, the orb of water, the glitter that splashes off Frey's shoes when she
+runs around with magic speed, it all fits really well.
+And considering that the luminous engine was made specifically for those types of effects,
+it's no surprise that that's what stands out.
+The magic is, in fact, one of the only true positives of the game.
+The equipment system allows you to put on different cloaks and necklaces, the only two
+equip slots, and you can upgrade them with random bits and bobs you find in the open
+world, which is the same as most RPGs.
+You can do your nails by putting different runes in them as well.
+But all of these systems serve to buff your magic.
+The magic is what takes center stage, and it's pretty fun.
+It's satisfying to use the wide array of spells at your disposal.
+It's cool when you take out one of the tantas and learn their elemental magic, and each
+of the four elements has their own skill tree that you plug experience points into in order
+to unlock new spells and buff existing ones.
+And man, there are so many legitimately fun spells.
+You can throw rocks in a rapid succession or charge up for one big blast.
+You can swing a flame sword around or toss flame spears that explode on impact.
+You can encase enemies in a giant ball of water or fire a horizontal spread of ice shards.
+You can throw electric darts or charge up a huge lightning storm.
+And more!
+There's dozens of spells, all with their own unique effects and feel, and the trailer
+to the game has no problem emphasizing the variety.
+The issue is, you only unlock the other schools of magic by defeating the tantas, and defeating
+the tantas is the whole point of the game.
+You spend a huge chunk of the early game with earth magic, unlock fire magic halfway through,
+and you really only get a smidge of time with water and wind.
+In fact, once you kill the final tanta and unlock the wind magic, that's when the final
+two hours of exposition dump begins.
+There's no enemies, no challenges, no opportunities to use any of your cool new wind magic.
+There's long boring cutscenes telling you stuff you figured out hours ago if you're
+smart, punctuated by empty rooms that contain nothing but experience pickups you have to
+run around and collect, and an NPC who triggers the next cutscene.
+I'm not fucking kidding, dude.
+It feels like they knew they just gave you a new skill tree in the final hour of the
+game, and said oh shit this is useless unless we just dump a bunch of exp on you so you
+can level it up.
+In a well designed game, you unlock your core abilities relatively early on, so that the
+game has the opportunity to develop their use.
+In Zelda Breath of the Wild, you get bombs, magnets, time stop, and ice freeze all in
+the opening area of the game, because the entire game is all about using these tools
+to solve puzzles.
+Even in more linear Zeldas, the most useful tools show up in the early to mid game.
+This is elementary stuff in game design.
+You can even go back to Secret of Mana on the Super Nintendo, where you unlock every
+single magic school with the exception of I think nature magic in the first half of
+the game, or Luffyya 2, where the bombs, arrow, and hookshot are all obtained in dungeons
+pretty early on.
+Any competent game knows to give you the bulk of your kit by the halfway point, so that
+you can actually get good at using it, and save only the advanced stuff for later on,
+like Knights of the Round in Final Fantasy 7, or the alien weapons in Fallout.
+But in Forspoken, you're filling out a completely new skill tree that you'll never actually
+use in the final hour.
+The other interesting part of the game is movement.
+Each school of magic comes with a different movement ability.
+You start with magic running and magic parkour, which is the reason that Frey keeps her Air
+Jordans from the other world.
+In New York, she was a parkour artist.
+A parkourist?
+Whatever.
+Once you gain fire magic, you unlock a grappling hook that feels a lot like the ODM gear from
+Attack on Titan, and chaining parkour flips with grapples is legitimately really fun.
+With water magic, you unlock surfing, which I had to find a clip of online, because there's
+never a reason to ever enter a body of water in this game, where surfing would be required.
+And with wind magic, you unlock a quadruple jump, which isn't really that interesting,
+because you have to stay in place and charge it in order to do it, breaking the whole flow
+feeling of getting around the game.
+There is a glider in the game, the float spell, which in my opinion is an open world must-have
+ever since Breath of the Wild did it in 2016, but you can only unlock it near the end of
+the game, and for some reason it's a water spell, not a wind spell.
+In other games that have included gliders, like Zelda or Horizon Forbidden West, you
+pick them up early on because game developers realized just how much they aided exploration
+and open world environment.
+Letting you drift to a location you can see on the horizon from a tall area is actually
+really cool.
+Putting the float spell at the very end of the game, long after you'd ever need it,
+just doesn't make any sense.
+You can tell that I'm an old man at this point, considering how many old games and
+shows I'm referencing that did parts of what Forsaken tried to do, but better.
+Here, I'll put a bowtie on the whole thing.
+Forsaken reminds me of Final Fantasy Mystic Quest.
+For you zoomers who don't know what that is, here's the TLDR.
+In the early 90s, Japanese game developers thought that Americans were too dumb to understand
+RPGs.
+RPGs were the most popular genre in Japan, but platformers ruled the day in America,
+and Square was worried about spending tons of time translating Final Fantasy games only
+for them to have a poor reception.
+So they had an American development team create what is now derisively known as Baby's
+First RPG.
+Final Fantasy Mystic Quest has all the mechanics and feeling of a mainline Final Fantasy game
+on the Super Nintendo, but with everything drastically dumbed down to make it more accessible.
+Now it's still a pretty good game, great music specifically, but oh boy is it easy.
+Mystic Quest features easy-to-dodge enemies instead of random encounters.
+New armor overwrites old armor instead of actually being equippable.
+There's only four weapons in the whole game that you upgrade a couple times.
+Items and spells are identical, like a potion and the cure spell do the exact same thing.
+The story is laughably simplistic, but at the end of the day, Babydev had a good time
+with it.
+Playing for Spoken feels like playing Mystic Quest.
+Yeah, you can go into dungeons, but they're basically the same thing with similar loot
+every time.
+Yeah, you can equip necklaces and cloaks, but they don't really offer much in the
+way of upgrades beyond just flat bonuses to magic, or sometimes a specific element.
+And upgrading them is just a linear progression.
+There's no super amazing loot to find that radically changes the game somehow.
+Putting runes on your nails is the same thing.
+You slap on the 5% damage nails and then wait until you find the 10% damage nails.
+Rinse and repeat.
+The same herbs craft the same one potion you use all game, and you find them in every single
+zone.
+If Mystic Quest was Babby's first JRPG, for Spoken is Babby's first open world game.
+Everything in it is a dumbed down version of something from a better game.
+And if for Spoken was only Babys first open world game, there wouldn't be anything wrong
+with that.
+If the only issue with the game was simplicity, it would be a perfect game to hand to a kid,
+or a new gamer or something who wanted to get into it, as a gateway into something more
+complicated like Fallout or Skyrim.
+In this context, we can even forgive the paint by numbers storyline.
+If it's literally your first isekai because you're 6 years old, I'm sure it'll feel
+magical to you.
+Though then again, who lets their 6 year old play a game that drops the f-bomb every 30
+seconds?
+But it's not only the simplicity, it's the genuinely awful pacing of the game in
+terms of both plot and mechanics.
+It's the emptiness of the world.
+The ugliness of it.
+It's how the game feels fun for a little bit, until you realize you've just spent
+hours doing nothing because there's nothing in the game to do, and what little there is
+is mediocre at best.
+So it's no surprise that this game got absolutely bombarded by fans online.
+The Steam page for Spoken looks like the aftermath of a gangbang, and even though there's reports
+of the developers deleting reviews, it doesn't actually matter that much because the reviews
+are overwhelmingly negative, too many for them to handle.
+The Metacritic score doesn't look all that great either, and the game's already seeing
+some price drops.
+Square Enix went through all this hassle over the Luminous Engine, only to make two games
+with it.
+Final Fantasy XV might have been a success, but For Spoken, which came at the end of the
+engine's life, seems to be a total flop on multiple dimensions.
+We're this deep into the video, and I haven't even addressed the elephant in the room.
+Frey, the main character of For Spoken, is black.
+Dun dun dun.
+Now I personally don't care what race the characters in any game are.
+It shouldn't be an issue.
+And there are a few idiots out there who are just straight up saying, the main character
+in the game is black, no thanks.
+And it's like, what the fuck is wrong with you?
+No, the problem with Frey isn't that she's black.
+It's that she's black.
+Capital B Black.
+Political Black.
+You notice that, suddenly a whole bunch of things come into focus, like the way she speaks
+when engaging with the fantasy world of Athia, or how insistent she is on keeping her Air
+Jordans so that she can parkour around the wilderness, or how doing her nails up in garish
+patterns is a core mechanic, or how back in New York she lives in a crack shack but still
+displays proudly her expensive collection of kicks on a shelf in a central location.
+For Spoken clearly wants to be like a BLM game.
+It opens on Frey in court with a rap sheet filled with thefts.
+She gets a lenient sentence from the judge who takes pity on her, and then she immediately
+goes out into the streets and gets jumped by a gang that she owes money to or something.
+I don't know, and it doesn't matter, because I never actually see these characters again anyway.
+Frey manages to parkour away to safety, but the whole thing stinks of social commentary
+regarding the black inner-city experience or something.
+I already don't buy this setup, because this girl is 21, beautiful, and living in 2023.
+She's got a phone.
+There's no way she wouldn't start selling OnlyFans, make a bank, and get the fuck out of here.
+And this discrepancy is made more clear by the fact that they cast one of the hottest
+chicks around right now to play her.
+After admiring that shoe collection, she falls asleep back at the crack shack, only to wake
+up to the whole place on fire.
+It's pretty clear that the gang lit her apartment up as revenge, and this is when probably the
+dumbest sequence in the whole game happens.
+The Homer!
+Girl, come on, we gotta go!
+Gotta find Homer first.
+Gotta find Homer first.
+Gotta find Homer first.
+That's right, even though the duffel bag full of her life savings, in cash, is right at
+her feet, the money she's been scrimping together to be able to move the fuck out of New York
+for years, the game forces you to leave the money behind to go and find your pet cat.
+After which, of course, you lose the money.
+There's no reason for this.
+It's just right fucking there, dude, just pick it up and go!
+Frey survives the fire, though, and in desperation looks through the window of a building, sees
+Cuff, and decides to steal him to make some money, kicking off the adventure.
+And it's at this point that, beyond Frey's terrible personality, the political content
+of the game vanishes.
+They clearly tried to go for some sort of message, but it disappears from the game entirely.
+It doesn't even come back when she goes into the dreamscape, thinking she's back in her
+old life again.
+In fact, in that multi-hour cutscene where the entire plot is dumped at the end, it's
+revealed that while her mother is a Tanta from Athia, her father is a random black dude
+from New York named Al.
+I personally like to think it's Al Roker.
+But where is the guy?
+Frey's mother clearly knows him before she gets pregnant, and she didn't get magically
+transformed into a dragon until after she gave birth and yeeted Frey through the portal.
+Oh yeah, Frey's mother got transformed into a dragon, but it's not important.
+The point is, where is Frey's dad?
+He's not keeping up with the love of his life?
+The woman that he knocked up from the other fucking dimension?
+Nah, nobody hears from him again.
+He's literally the stereotype of the black absentee father.
+They're really going all out with the representation, eh?
+However, even with the reveal of Frey's parentage, the political aspect of the game
+never returns.
+Frey settles into her new life as the protector of the blissfully deracialized world of Athia,
+and abandons our world and its problems entirely.
+Here's the real kicker though.
+The game's awful.
+Like, I'd give it a 4 out of 10.
+But because it has this wallpaper of black politics.
+Because if you only played the first hour of the game, you might think it's highly
+politically charged.
+There's a lot of retarded progressives online right now who think that if you hate the game,
+it has to be because you're a racist.
+Can't be any other reason.
+Can't be that the game is poorly designed, or ugly, or buggy, or not all that fun to
+play.
+Because you're a fucking white male.
+Even if you're not.
+Is the game good?
+Yes, the game is good.
+Fuck social media, get you the game, is what I'm about to be saying.
+That's gonna be the title.
+Fuck social media, buy the game, okay?
+Because people tripping.
+No, I promise you, if you're playing the game, you're not gonna sit here and be like,
+oh my god, the dialogue, oh my god, it's so bad, I can't play the game!
+Because every three seconds, I see someone on social talking about, they see one clip
+and it's like, that's the whole game.
+Come on, bro.
+Damn it, you just stepped on my throat.
+I just kicked a whole deer, bro.
+Y'all didn't even see that, for real.
+If you haven't actually seen anything other than the one clip from a scene that wasn't
+even that cringey, I don't wanna hear about the dialogue.
+Like I said, if she looked like any other, anything else, if she looked like anything
+else and she said the same scene, no one would bat an eye.
+It would be like, what the hell?
+It would just be bad writing.
+Like, it's not the best writing, but it's not a bad game.
+That's what I'm trying to say.
+It's not a bad game.
+It's like the basic writing.
+It could be better.
+They probably could have gotten black writers, but they didn't.
+That's unfortunate.
+But the game's not ass.
+Gear and how you heal up and the crafting isn't too much because I hate crafting in
+the games and the crafting's not overbearing.
+You get like, you can change these nails that give you different powers.
+Like, I don't know.
+I just, I'm fucking with the game.
+It's a good game.
+The story is not even horrible.
+The story is a story, but I ain't like, damn, this plot is ass.
+I'm following it and I don't follow stories that well.
+I'm here.
+And of course, Prague game developers are out here saying the exact same thing.
+Do I think that some of the energy and vitriol and just discussion about this game is happening
+because some, but cause it is a lead female black character and it is on a PlayStation
+game versus an Xbox game.
+Yes, I do.
+And then people push back.
+Well, I haven't seen anything written like that.
+Really?
+You can't read between the lines.
+So do you ever actually see somebody when they're shitting on game pass go, I don't
+really have an issue with game pass.
+I just like PlayStation and want Microsoft to lose.
+Or when someone's being a misogynist, do they own being a misogynist and say, well, here's
+the real fucking deal.
+The real fucking deal is a women scare me.
+I don't really like them.
+I don't trust them and they don't want to fuck me.
+That's why I'm really upset about this game.
+No one talks like that.
+It's called subtext.
+So of course you're not seeing people overtly saying I'm not playing for spoken or I'm shitting
+on for spoken or I am giving an unjust given the success of what it looks like the game
+is going to have amount of time and energy on the internet and in my writing to first
+spoken because I'm a racist, they're not going to say that.
+Oh, and Bakaki wants you to know if you don't stream for spoken tonight, you're a racist
+and a misogynist.
+Oh, of course.
+Of course.
+If you read sarcasm from that clip, I promise you he was being serious.
+That's David Scott Jeff.
+Of course, the polygon review of the game has to dive into this topic as well.
+And outwardly, they appear to have the same take that I do.
+Before I wrap up, let's spare a word for Frey, a notionally black protagonist who joins
+a growing trend in media of putting black people in worlds where race is inconsequential.
+Except the game is very insistent that Frey is a New Yorker, mysterious birth or not,
+spending her entire life up until this point growing up in our decidedly non fantasy world
+where blackness is not a non factor.
+Regrettably, Frey's identity is thinly written and awkwardly deployed as the story leans
+not only on stereotypical narratives, but trauma as a plot device.
+The complaint here is that the political blackness of the game isn't given enough focus.
+Polygon felt bait and switch by that first hour and wanted it everywhere in the game.
+I feel the opposite way.
+I wanted none of it in the game.
+But if they were going to do it, immediately dispensing with it unceremoniously after making
+it to Athia is probably the worst way to do it.
+It feels like they're cowardly or something.
+What they could have done if they really wanted to make a racialized story correctly is have
+a different group in Athia, maybe not black Athians, that's two on the nose, make them
+a cast or a fantasy race or green people or something who are treated poorly due to their
+birth.
+And Frey, with her outsider knowledge of race relations on Earth, can shed some light on
+the problem from a perspective that Athians never considered.
+You could actually make a good story out of that if you tried.
+The problem here is no one tried.
+Before I get out of here, there's one final thing to talk about.
+Hi-Fi Rush.
+Hi-Fi Rush is a Bethesda game that looks and plays amazing.
+Everything about it, the cel-shaded graphics, the rhythm based combat, the soundtrack, all
+scream 2000s to me, which of course I'm a sucker for considering that was the time
+period of my high school experience.
+People online are comparing Hi-Fi Rush's dialogue to first spoken and fair enough,
+and both swamped in millennial writing, jokes during serious moments, fourth wall breaking
+stuff, all of it.
+But the difference is, forespoken is trying to be a serious fantasy adventure, while simultaneously
+being embarrassed of itself, while Hi-Fi Rush is a jokey Saturday morning cartoon that knows
+it is a cartoon.
+The game is in on the joke and it's endearing, and it also knows not to go too overboard
+with it as well.
+There's a balance here, Hi-Fi Rush strikes it, forespoken does not.
+Hi-Fi Rush and forespoken are being compared on the internet right now because they're
+polar opposites occupying the same space, and it's not just because they both feature
+millennial writing.
+They're the only two notable games to come out during January of 2023.
+Forespoken has a build up of multiple years of the Square Enix hype machine behind it,
+while Hi-Fi Rush was released the same day it was announced, during a recent Xbox Bethesda
+developer conference, with no hype behind it at all.
+Forespoken is an open world game, a bland empty sandbox with nothing to do and nobody
+interesting in it, while Hi-Fi Rush is a level based hack and slash where each of the environments
+and characters appear to be lovingly crafted.
+Forespoken launched at 70 US dollars, Sony paid a boatload of money to make it a two
+year PS5 console exclusive, and the PC version barely functions unless you've got an amazing
+graphics card, while Hi-Fi Rush launched for 30 dollars on Xbox and PC.
+You can play it on your shitty 10 year old computer, and you can even play it on Gamepass.
+It's no surprise that Hi-Fi Rush basically blew forespoken out of the water in terms
+of popularity, is it?
+The progs on Twitter are screeching that gamers are all just racist because the cringe writing
+in forespoken is identical to Hi-Fi Rush's, but what they don't seem to understand is
+that context matters.
+Also making a good fucking game matters too.
+By the time this video comes out, I have a feeling that the forespoken discourse will
+have already been fully washed away by Hi-Fi Rush's success.
+I started this script on February 2nd.
+The game is so indefensible generic, and people are so tired of being browbeat, that the cries
+of racist sexist gamers aren't going to do anything this time.
+The game sucks, and that's too bad because there's an okay skeleton in here.
+The combat, the movement, and even the skill trees are interesting.
+They just needed a totally different game packaged around it.
+Which is funny, because Agni's philosophy did in fact look like a totally different
+game.
+Same art style, same engine, same mechanics, same assets, but totally different characters.
+Forespoken really just feels like Square Enix desperately needed to recoup a lot of money.
+They had bits and bobs of their games lying around, and they decided to mash it all together
+and race swap the protagonist to make her black because Black Lives Matter sells.
+Well, it didn't sell enough.
+If you're going to get this one, wait for a deep discount, guys.
+I'm talking like five to ten dollars.
+This one is not fucking worth it.

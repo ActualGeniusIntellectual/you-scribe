@@ -1,0 +1,2416 @@
+1
+00:00:00,000 --> 00:00:16,300
+The last time I spoke about Final Fantasy XVI on my channel, it was in the context of
+
+2
+00:00:16,300 --> 00:00:19,400
+a controversy surrounding Yoshi-P, the game's producer.
+
+3
+00:00:19,400 --> 00:00:24,020
+He made a comment to the effect that Japanese developers no longer like using the term JRPG,
+
+4
+00:00:24,020 --> 00:00:25,820
+which caused a whole firestorm.
+
+5
+00:00:25,820 --> 00:00:30,140
+But that video was about the game's pre-release controversy, and since then Final Fantasy
+
+6
+00:00:30,140 --> 00:00:33,480
+XVI has come out, been pretty well received by most people, and is considered to be a
+
+7
+00:00:33,480 --> 00:00:36,020
+contender for Game of the Year at the VGAs.
+
+8
+00:00:36,020 --> 00:00:39,300
+Though personally, I don't think it's going to beat out either Baldur's Gate 3
+
+9
+00:00:39,300 --> 00:00:40,980
+or Legend of Zelda Tears of the Kingdom.
+
+10
+00:00:40,980 --> 00:00:44,620
+In fact, I think Zelda's got it in the bag, but if you watch my video on that, you'd
+
+11
+00:00:44,620 --> 00:00:46,340
+probably already know that I'm pretty biased.
+
+12
+00:00:46,340 --> 00:00:48,780
+Nonetheless, Final Fantasy XVI is a pretty good game.
+
+13
+00:00:48,780 --> 00:00:52,020
+It's not an amazing game, this isn't a return to the days when Final Fantasy was
+
+14
+00:00:52,020 --> 00:00:56,260
+a system seller, but it's certainly better than Final Fantasy X or XII or XIII.
+
+15
+00:00:56,260 --> 00:00:58,100
+Here's my general review of the game.
+
+16
+00:00:58,100 --> 00:01:01,420
+I won't spoil anything, so you have a chance to go and play it for yourself if you haven't
+
+17
+00:01:01,420 --> 00:01:04,700
+already, but the background footage I'm using is a random selection of the game's
+
+18
+00:01:04,700 --> 00:01:06,340
+side quests, so be warned.
+
+19
+00:01:06,340 --> 00:01:11,100
+Final Fantasy XVI's story has been described as Game of Thrones-like by a lot of reviewers,
+
+20
+00:01:11,100 --> 00:01:12,100
+and with good reason.
+
+21
+00:01:12,100 --> 00:01:15,980
+It's got that same type of gritty realism that Game of Thrones thrived off of.
+
+22
+00:01:15,980 --> 00:01:20,260
+Lots of violence and sexuality, political drama between noble families, medieval warfare.
+
+23
+00:01:20,260 --> 00:01:23,380
+The first half of the game genuinely feels like dark fantasy.
+
+24
+00:01:23,380 --> 00:01:27,660
+The second half of the game, though, returns to more general Final Fantasy fare, you know,
+
+25
+00:01:27,660 --> 00:01:31,820
+dealing with magic crystals and killing God, leaving behind a lot of the Game of Thrones
+
+26
+00:01:31,820 --> 00:01:33,340
+elements in its storytelling.
+
+27
+00:01:33,340 --> 00:01:37,660
+In terms of combat, Final Fantasy XVI plays like a game from the Devil May Cry series,
+
+28
+00:01:37,660 --> 00:01:40,360
+which makes sense considering that the two games share staff.
+
+29
+00:01:40,360 --> 00:01:44,820
+The combat is entirely action-oriented, nothing turn-based whatsoever, and the game is full
+
+30
+00:01:44,820 --> 00:01:47,820
+of flashy, relatively easy-to-pull-off combos.
+
+31
+00:01:47,820 --> 00:01:51,500
+The number of consecutive hits is displayed prominently on screen, incentivizing you to
+
+32
+00:01:51,500 --> 00:01:56,540
+keep the combos rolling, as well as various multipliers for dodges or counters or cinematic
+
+33
+00:01:56,540 --> 00:01:57,540
+events.
+
+34
+00:01:57,540 --> 00:01:58,540
+Yes, cinematic.
+
+35
+00:01:58,540 --> 00:02:00,620
+Our good ol' friend the QuickTime event makes a return.
+
+36
+00:02:00,620 --> 00:02:04,940
+Climactic battles often see the player take control of large monsters, where their moves
+
+37
+00:02:04,940 --> 00:02:07,400
+are replaced with more extreme variations.
+
+38
+00:02:07,400 --> 00:02:10,660
+These are considered by most players to be some of the coolest parts of the game, and
+
+39
+00:02:10,660 --> 00:02:13,700
+there's enough time between them that they don't overstay their welcome.
+
+40
+00:02:13,700 --> 00:02:17,380
+Your character grows in power with level ups like in most RPGs, but the real advancement
+
+41
+00:02:17,420 --> 00:02:19,200
+comes in the form of a skill tree.
+
+42
+00:02:19,200 --> 00:02:22,940
+Unlocking more combat abilities is primarily done through spending your skill points, and
+
+43
+00:02:22,940 --> 00:02:25,700
+more skill trees unlock at various points in the story.
+
+44
+00:02:25,700 --> 00:02:29,580
+This is all very normal action RPG stuff at this point, nothing revolutionary here.
+
+45
+00:02:29,580 --> 00:02:32,780
+The equipment system is pretty rudimentary, but it does the job well enough.
+
+46
+00:02:32,780 --> 00:02:35,600
+Buying and upgrading items is also very normal.
+
+47
+00:02:35,600 --> 00:02:38,180
+You find crafting materials out in the world, you upgrade your stuff.
+
+48
+00:02:38,180 --> 00:02:39,180
+It's all very by-the-books.
+
+49
+00:02:39,180 --> 00:02:44,580
+However, the equipment system was the source of the first post-launch controversy.
+
+50
+00:02:44,580 --> 00:02:49,100
+Final Fantasy XVI includes Game Journal mode in the form of overpowered equipment that
+
+51
+00:02:49,100 --> 00:02:51,340
+you have access to right from the start of the game.
+
+52
+00:02:51,340 --> 00:02:53,460
+These are called the Timely Accessories.
+
+53
+00:02:53,460 --> 00:02:58,340
+The Ring of Timely Strikes allows you to execute complex combos by simply tapping one button.
+
+54
+00:02:58,340 --> 00:03:01,320
+The Ring of Timely Evasion turns on auto-dodge.
+
+55
+00:03:01,320 --> 00:03:05,640
+The Ring of Timely Focus turns on slow motion right before you're about to get hit.
+
+56
+00:03:05,640 --> 00:03:09,500
+The Ring of Timely Healing turns on auto-heal, meaning you'll automatically use a potion
+
+57
+00:03:09,500 --> 00:03:10,500
+when you lose health.
+
+58
+00:03:10,500 --> 00:03:15,380
+The Ring of Timely Assistance will have your dog companion, Torgul, act in combat without
+
+59
+00:03:15,380 --> 00:03:17,140
+having to give him commands.
+
+60
+00:03:17,140 --> 00:03:20,380
+These items are pretty cheap on their own, but then some people out there tried to make
+
+61
+00:03:20,380 --> 00:03:25,220
+the argument that Final Fantasy XVI was shit, most of them repeatedly posting this clip
+
+62
+00:03:25,220 --> 00:03:29,440
+of some dumbass streaming the game, holding the controller with one hand and button-mashing
+
+63
+00:03:29,440 --> 00:03:30,940
+one button while eating.
+
+64
+00:03:30,940 --> 00:03:34,100
+This was apparently supposed to be proof that the game sucked, but it turned out he was
+
+65
+00:03:34,100 --> 00:03:36,020
+just using the Game Journal items.
+
+66
+00:03:36,060 --> 00:03:40,500
+The game has an unhideable UI element right above the HP meter, so you can always tell
+
+67
+00:03:40,500 --> 00:03:42,280
+if somebody's using these items.
+
+68
+00:03:42,280 --> 00:03:45,380
+The developers specifically said it was so that people couldn't hide their use of the
+
+69
+00:03:45,380 --> 00:03:49,580
+item online, which is pretty funny since so many people fell into that trap.
+
+70
+00:03:49,580 --> 00:03:53,560
+Speaking of the dog acting in combat without commands, you do get a few party members,
+
+71
+00:03:53,560 --> 00:03:55,100
+but they add almost nothing to the game.
+
+72
+00:03:55,100 --> 00:03:58,820
+Yeah, they're characters with personalities, and you do care about them, at least if you
+
+73
+00:03:58,820 --> 00:04:01,700
+care about the story, but in terms of what they actually bring to the fight, most of
+
+74
+00:04:01,700 --> 00:04:04,700
+the time they're just slowly auto-attacking in the background.
+
+75
+00:04:04,700 --> 00:04:08,300
+The dog is by far the most useful, and by that I mean not at all.
+
+76
+00:04:08,300 --> 00:04:12,340
+It's not like in Final Fantasy XV where the AI-controlled characters actually contribute
+
+77
+00:04:12,340 --> 00:04:16,300
+quite a bit, or like in the Final Fantasy VII Remake where you can actually switch focus
+
+78
+00:04:16,300 --> 00:04:17,420
+and play as them.
+
+79
+00:04:17,420 --> 00:04:21,180
+Nope, in this game your guys just sit around and lightly swing their weapons once every
+
+80
+00:04:21,180 --> 00:04:22,400
+five seconds or so.
+
+81
+00:04:22,400 --> 00:04:25,340
+You will be doing 99% of the damage in Final Fantasy XVI.
+
+82
+00:04:25,340 --> 00:04:29,060
+Nonetheless, it's still pretty cool to see them represented as little Final Fantasy
+
+83
+00:04:29,060 --> 00:04:32,000
+VI-style sprites in the save and load screens.
+
+84
+00:04:32,000 --> 00:04:35,380
+Game design is where Final Fantasy XVI starts to get a little bit shaky.
+
+85
+00:04:35,380 --> 00:04:39,040
+The story's pretty good, but we've surpassed Metal Gear Solid's four cutscene length
+
+86
+00:04:39,040 --> 00:04:40,040
+at this point.
+
+87
+00:04:40,040 --> 00:04:44,480
+You'll be watching at least 20 minutes of dialogue and lore-heavy cutscenes after every
+
+88
+00:04:44,480 --> 00:04:45,920
+main story mission.
+
+89
+00:04:45,920 --> 00:04:48,960
+Some of them are actually quite gripping, which is what you want if you have to lose
+
+90
+00:04:48,960 --> 00:04:51,800
+control of the game that you're playing for what is the length of time of a block
+
+91
+00:04:51,800 --> 00:04:53,080
+of TV programming.
+
+92
+00:04:53,080 --> 00:04:56,640
+But others are just really, really boring, almost insufferable.
+
+93
+00:04:56,640 --> 00:04:58,400
+The writing's very hit or miss.
+
+94
+00:04:58,400 --> 00:05:01,980
+It really feels like they crafted a very intricate lore for this world and threw the
+
+95
+00:05:01,980 --> 00:05:06,240
+vast majority of it into logs you have to read, or even worse, in the game's lore
+
+96
+00:05:06,240 --> 00:05:10,920
+menu, while there's many missed opportunities for environmental or contextual storytelling
+
+97
+00:05:10,920 --> 00:05:12,480
+with the settings and characters.
+
+98
+00:05:12,480 --> 00:05:14,880
+The side quests are almost all boring fetch quests.
+
+99
+00:05:14,880 --> 00:05:19,760
+In fact, even a good chunk of the main quests in between climactic fights are just fetch
+
+100
+00:05:19,760 --> 00:05:20,800
+quests too.
+
+101
+00:05:20,800 --> 00:05:26,400
+The level design is not quite as bad as the legendarily awful Final Fantasy XIII's hallways,
+
+102
+00:05:26,400 --> 00:05:27,720
+but it is pretty close.
+
+103
+00:05:27,720 --> 00:05:32,240
+This world is not like the wide open area of Final Fantasy XV, full of cool things to
+
+104
+00:05:32,240 --> 00:05:33,420
+check out on the horizon.
+
+105
+00:05:33,420 --> 00:05:35,780
+Many of the levels are just hallways.
+
+106
+00:05:35,780 --> 00:05:39,760
+Monster encounters in the hallway, treasure chests in the hallway, cutscenes in the hallway.
+
+107
+00:05:39,760 --> 00:05:43,500
+When the hallway does open up slightly, it's a boss arena, before narrowing back down into
+
+108
+00:05:43,500 --> 00:05:44,920
+a hallway once again.
+
+109
+00:05:44,920 --> 00:05:46,960
+Side quests have you running up and down the hallways.
+
+110
+00:05:46,960 --> 00:05:50,440
+Sometimes the hallways criss-cross over each other, but there's never anything approaching
+
+111
+00:05:50,440 --> 00:05:52,040
+a maze or a dungeon.
+
+112
+00:05:52,040 --> 00:05:55,880
+Occasionally, the game opens up into a large field you can explore, usually accompanied
+
+113
+00:05:55,880 --> 00:05:59,860
+by a handful of side quests from the latest town that take you to multiple areas of interest.
+
+114
+00:05:59,860 --> 00:06:03,720
+And these places are pretty fun for a little while, but functionally they are just wider
+
+115
+00:06:03,720 --> 00:06:04,720
+hallways.
+
+116
+00:06:04,720 --> 00:06:06,520
+There's one way in, and one way out.
+
+117
+00:06:06,520 --> 00:06:10,280
+The saving grace for the game's side content is the hunt board.
+
+118
+00:06:10,280 --> 00:06:13,360
+Particularly ferocious monsters have a bounty placed on their head, and if you bring them
+
+119
+00:06:13,360 --> 00:06:14,360
+in, you claim the reward.
+
+120
+00:06:14,360 --> 00:06:17,920
+They're the most engaging non-story fights in the game, and they're a lot of fun to
+
+121
+00:06:17,920 --> 00:06:18,920
+do.
+
+122
+00:06:18,920 --> 00:06:23,240
+All in all, Final Fantasy XVI is a good game, but it doesn't break into excellent territory.
+
+123
+00:06:23,560 --> 00:06:26,720
+It's still worth playing, absolutely, but if you were thinking of picking up a PS5 just
+
+124
+00:06:26,720 --> 00:06:27,840
+for this game, no.
+
+125
+00:06:27,840 --> 00:06:30,080
+Wait until it comes out in a steam, maybe wait for a sale.
+
+126
+00:06:30,080 --> 00:06:34,560
+Like every new game coming out nowadays, though, somebody on the internet got mad at it for
+
+127
+00:06:34,560 --> 00:06:35,880
+some stupid reason.
+
+128
+00:06:35,880 --> 00:06:38,840
+To talk about that, though, I'm going to have to start spoiling parts of the game.
+
+129
+00:06:38,840 --> 00:06:42,280
+So if for some reason you were only here for my review of it, and you want to play it for
+
+130
+00:06:42,280 --> 00:06:44,840
+yourself, now's your chance to skedaddle.
+
+131
+00:06:44,840 --> 00:06:48,960
+Before Final Fantasy XVI launched, Yoshi P announced that there would be no black people
+
+132
+00:06:48,960 --> 00:06:49,960
+in the game.
+
+133
+00:06:49,960 --> 00:06:52,900
+His reasoning was that the game's setting was inspired by medieval Europe, and black
+
+134
+00:06:52,900 --> 00:06:56,560
+people simply didn't fit into his vision of the game's various kingdoms.
+
+135
+00:06:56,560 --> 00:06:59,900
+Having now finished the game, I'll confirm that yes, there are no black people in the
+
+136
+00:06:59,900 --> 00:07:01,300
+world of Valisthea.
+
+137
+00:07:01,300 --> 00:07:06,480
+The expansionist Empire of Sembrech, the isolationist Kingdom of Veloud, and the tiny Duchy of Rosaria
+
+138
+00:07:06,480 --> 00:07:11,120
+all appear to be vaguely based on various European feudal realms, while the Iron Kingdom
+
+139
+00:07:11,120 --> 00:07:12,760
+to the west is a pirate kingdom.
+
+140
+00:07:12,760 --> 00:07:17,460
+Each of these locations are home to a different ethnic group in the lore, but they all look
+
+141
+00:07:17,460 --> 00:07:18,460
+European.
+
+142
+00:07:18,460 --> 00:07:21,820
+The Dalmekian Republic to the south is the only nation with an elected parliament.
+
+143
+00:07:21,820 --> 00:07:26,120
+They appear to be vaguely Arab or Turkic, with notably different architecture, customs,
+
+144
+00:07:26,120 --> 00:07:28,680
+food, and environment than the rest of the game world.
+
+145
+00:07:28,680 --> 00:07:31,960
+It seems like the game designers wanted to make the continent feel like Europe with all
+
+146
+00:07:31,960 --> 00:07:36,000
+of its squabbling kingdoms, and just on the edge of European understanding was the Middle
+
+147
+00:07:36,000 --> 00:07:37,720
+East with its alien ideas.
+
+148
+00:07:37,720 --> 00:07:38,720
+And you know what?
+
+149
+00:07:38,720 --> 00:07:39,720
+They did a pretty good job at it.
+
+150
+00:07:39,720 --> 00:07:42,980
+Yeah, the Middle East wasn't, and still isn't, democratic, but you get the point.
+
+151
+00:07:42,980 --> 00:07:46,760
+This is a story that the west can intuitively pick up on from our own cultural background,
+
+152
+00:07:46,760 --> 00:07:51,320
+but it also doesn't really have room for random black people to simply exist as background
+
+153
+00:07:51,320 --> 00:07:54,180
+peasants like we're watching the rings of power or something.
+
+154
+00:07:54,180 --> 00:07:58,780
+These are ethnically homogenous societies, not mixed interracial ones.
+
+155
+00:07:58,780 --> 00:08:03,800
+But the usual progressive suspects got very, very angry at the state of affairs.
+
+156
+00:08:03,800 --> 00:08:07,880
+Their outrage mirrored the reaction to Kingdom Come Deliverance years ago, where that game
+
+157
+00:08:07,880 --> 00:08:13,340
+was set in a historically accurate kingdom of Bohemia in 1403, meaning no ethnic non-European
+
+158
+00:08:13,340 --> 00:08:15,300
+characters were featured in the game.
+
+159
+00:08:15,300 --> 00:08:19,280
+Final Fantasy XVI has no business abiding by historical realism.
+
+160
+00:08:19,280 --> 00:08:21,840
+Final Fantasy XVI has a medieval approach to diversity.
+
+161
+00:08:21,840 --> 00:08:25,980
+Final Fantasy XVI developer has a terrible answer as to why the game is so white.
+
+162
+00:08:25,980 --> 00:08:29,980
+Yoshi P's answer is pretty obvious to anybody who's not ideologically motivated, but it's
+
+163
+00:08:29,980 --> 00:08:31,780
+an answer that game journals just can't accept.
+
+164
+00:08:31,780 --> 00:08:33,920
+Here's what he said about it in the interview.
+
+165
+00:08:33,920 --> 00:08:37,780
+This is a difficult question, but not one that was unexpected, seeing as diversity in
+
+166
+00:08:37,780 --> 00:08:41,200
+entertainment media has become a much-discussed topic as of late.
+
+167
+00:08:41,200 --> 00:08:45,420
+The answer I have, however, may end up being disappointing to some, depending on individual
+
+168
+00:08:45,420 --> 00:08:46,420
+expectations.
+
+169
+00:08:46,420 --> 00:08:49,380
+Rather than create something on a global scale, it was necessary to limit the scope
+
+170
+00:08:49,380 --> 00:08:54,100
+to a single landmass, one geographically and culturally isolated from the rest of the world,
+
+171
+00:08:54,100 --> 00:08:56,780
+in an age without airplanes, television, or phones.
+
+172
+00:08:56,780 --> 00:09:01,180
+Due to the underlying geographical, technological, and geopolitical constraints of this setting,
+
+173
+00:09:01,180 --> 00:09:05,780
+Valisthea was never going to realistically be as diverse as, say, modern-day Earth, or
+
+174
+00:09:05,780 --> 00:09:11,260
+even Final Fantasy XIV that has an entire planet and moon worth of nations, races, and
+
+175
+00:09:11,260 --> 00:09:12,980
+cultures at its disposal.
+
+176
+00:09:12,980 --> 00:09:17,620
+The isolated nature of this realm, however, does end up playing a large part in the story.
+
+177
+00:09:17,620 --> 00:09:21,820
+Ultimately, we felt that while incorporating ethnic diversity into Valisthea was important,
+
+178
+00:09:21,820 --> 00:09:26,220
+an over-incorporation into the single corner of a much larger world could end up causing
+
+179
+00:09:26,220 --> 00:09:29,900
+a violation of those narrative boundaries we originally set for ourselves.
+
+180
+00:09:29,900 --> 00:09:33,980
+The story we are telling is fantasy, yes, but it's also rooted in reality.
+
+181
+00:09:33,980 --> 00:09:38,280
+In the end, we simply want the focus to be less on the outward appearance of our characters
+
+182
+00:09:38,280 --> 00:09:40,520
+and more on who they are as people.
+
+183
+00:09:40,520 --> 00:09:45,400
+People who are complex and diverse in their natures, backgrounds, beliefs, personalities,
+
+184
+00:09:45,400 --> 00:09:46,560
+and motivations.
+
+185
+00:09:46,560 --> 00:09:48,480
+People whose stories we can resonate with.
+
+186
+00:09:48,480 --> 00:09:51,020
+There is diversity in Valisthea.
+
+187
+00:09:51,020 --> 00:09:54,560
+Diversity that, while not all-encompassing, is synergistic with the setting we've created
+
+188
+00:09:54,560 --> 00:09:57,360
+and is true to the inspirations from which we're drawing.
+
+189
+00:09:57,360 --> 00:09:59,040
+How do you think the Progs took this?
+
+190
+00:09:59,040 --> 00:10:03,500
+From the Verge, this idea of Final Fantasy XVI being rooted in reality is likely going
+
+191
+00:10:03,500 --> 00:10:07,300
+to end up hurting the developers' other, arguably more important goal for the game,
+
+192
+00:10:07,300 --> 00:10:09,360
+which is to reach as big of an audience as possible.
+
+193
+00:10:09,360 --> 00:10:13,080
+You know, based on those sales numbers, I don't think that ended up being a problem.
+
+194
+00:10:13,080 --> 00:10:16,240
+Over at Kotaku, it made them go, yikes, in real life.
+
+195
+00:10:16,240 --> 00:10:17,240
+And you know what?
+
+196
+00:10:17,240 --> 00:10:19,720
+Maybe this is why y'all didn't get a review copy of the game.
+
+197
+00:10:19,720 --> 00:10:24,880
+Between this, and Nintendo, and Bethesda, and Ubisoft, all blacklisting Kotaku for publishing
+
+198
+00:10:24,880 --> 00:10:26,220
+leaked info?
+
+199
+00:10:26,220 --> 00:10:29,040
+Does Kotaku get any review copies of anything anymore?
+
+200
+00:10:29,040 --> 00:10:32,040
+So, the Progs were mad that there weren't black characters in the game.
+
+201
+00:10:32,040 --> 00:10:35,280
+It's not like Final Fantasy has a history of only having white characters.
+
+202
+00:10:35,280 --> 00:10:36,360
+Far from it, in fact.
+
+203
+00:10:36,360 --> 00:10:40,600
+But after the game came out, their ire rapidly shifted in a pretty ironic way.
+
+204
+00:10:40,600 --> 00:10:43,840
+Final Fantasy XVI suffers from its superficial handling of slavery.
+
+205
+00:10:43,840 --> 00:10:46,400
+We need to talk about slavery in Final Fantasy XVI.
+
+206
+00:10:46,400 --> 00:10:50,640
+Final Fantasy XVI fails its players and its world with its misguided treatment of slavery.
+
+207
+00:10:50,640 --> 00:10:54,080
+Yeah, the game's got a fair bit of slavery in it, as well as open prostitution, another
+
+208
+00:10:54,080 --> 00:10:55,920
+of its thematic ties to Game of Thrones.
+
+209
+00:10:55,920 --> 00:10:59,600
+Here's the explanation of how magic works in Final Fantasy XVI.
+
+210
+00:10:59,600 --> 00:11:02,560
+There are these giant mountains of crystal called the Mother Crystals.
+
+211
+00:11:02,560 --> 00:11:07,120
+Pieces of crystal are mined off of these mountains and can be used to cast simple magic.
+
+212
+00:11:07,120 --> 00:11:09,320
+Everything in Valisthea operates off of crystals.
+
+213
+00:11:09,320 --> 00:11:12,400
+Street lamps, forges, water wells, crystals do it all.
+
+214
+00:11:12,400 --> 00:11:15,800
+Bearers are people who are randomly born with the ability to cast magic without the use
+
+215
+00:11:15,800 --> 00:11:16,800
+of a crystal.
+
+216
+00:11:16,800 --> 00:11:20,480
+However, doing so causes their body to slowly turn to stone.
+
+217
+00:11:20,480 --> 00:11:22,600
+Bearers are treated differently in each society.
+
+218
+00:11:22,600 --> 00:11:26,600
+In the Iron Kingdom, bearers are killed immediately as they're an affront to their religion.
+
+219
+00:11:26,600 --> 00:11:31,280
+In Rosaria, bearers are culturally looked down upon, but treated as valued servants.
+
+220
+00:11:31,280 --> 00:11:34,960
+Not equal, and certainly sometimes mistreated, but also generally not treated cruelly by
+
+221
+00:11:34,960 --> 00:11:36,120
+their masters.
+
+222
+00:11:36,120 --> 00:11:39,880
+In Sanbreque, bearers are chattel, used for labor until the curse renders them unable
+
+223
+00:11:39,880 --> 00:11:41,920
+to cast magic, and then discarded.
+
+224
+00:11:41,920 --> 00:11:46,440
+In overseas nations outside of the continent of Valisthea, bearers who are sold there are
+
+225
+00:11:46,440 --> 00:11:50,600
+treated extremely well, as those locations don't have Mother Crystals, and therefore
+
+226
+00:11:50,600 --> 00:11:52,960
+they have no other way to access magic.
+
+227
+00:11:52,960 --> 00:11:56,920
+The exception to this rule are the Dominants, family lineages who can not only use magic,
+
+228
+00:11:56,920 --> 00:11:59,360
+but transform into giant monsters known as Icons.
+
+229
+00:11:59,360 --> 00:12:01,760
+They can nonetheless still fall victim to the curse of stone.
+
+230
+00:12:01,760 --> 00:12:04,480
+The Dominants aren't relevant to the slavery conversation, though.
+
+231
+00:12:04,480 --> 00:12:09,400
+In Final Fantasy XVI's world, the bearers occupy some kind of slave class or other type
+
+232
+00:12:09,400 --> 00:12:12,120
+of underclass status in the various realms of Valisthea.
+
+233
+00:12:12,120 --> 00:12:16,620
+They're not the only source of magic, so they can't just take over with their power.
+
+234
+00:12:16,620 --> 00:12:18,200
+Regular humans can still use crystals.
+
+235
+00:12:18,200 --> 00:12:21,520
+But having somebody who can cast magic without a crystal is pretty convenient.
+
+236
+00:12:21,520 --> 00:12:23,840
+They're also rare and born at random.
+
+237
+00:12:23,840 --> 00:12:28,520
+The state tracks every pregnancy and tests every child to see if they're bearers.
+
+238
+00:12:28,520 --> 00:12:30,400
+It works a lot like the Jedi Order, in fact.
+
+239
+00:12:30,400 --> 00:12:34,000
+If a child is discovered to be a bearer, they're taken by the state and placed into a life
+
+240
+00:12:34,000 --> 00:12:35,280
+of slavery.
+
+241
+00:12:35,280 --> 00:12:39,040
+Most parents are actually happy to have their child taken like this, as culturally being
+
+242
+00:12:39,040 --> 00:12:41,840
+the parent of a bearer is considered embarrassing.
+
+243
+00:12:41,840 --> 00:12:45,600
+For the majority of the game, you play as a revolutionary who not only wants to overthrow
+
+244
+00:12:45,600 --> 00:12:49,580
+the various monarchies on the continent in the name of equality, but also destroy the
+
+245
+00:12:49,580 --> 00:12:52,880
+Mother Crystals and abolish magic in order to free the bearers.
+
+246
+00:12:52,880 --> 00:12:57,600
+The progressive complaints about Final Fantasy XVI revolve around the idea that this storyline,
+
+247
+00:12:57,680 --> 00:13:02,360
+where the bearers are a slave class, is not treated with the undue care and respect that
+
+248
+00:13:02,360 --> 00:13:03,900
+they believe it deserves.
+
+249
+00:13:03,900 --> 00:13:07,600
+Instead of wasting time with large block quotes from the articles, let me just summarize to
+
+250
+00:13:07,600 --> 00:13:08,600
+you their arguments.
+
+251
+00:13:08,600 --> 00:13:09,600
+1.
+
+252
+00:13:09,600 --> 00:13:13,520
+The protagonist of the game, Clive Rossfield, is a member of the royal family of Rosaria.
+
+253
+00:13:13,520 --> 00:13:15,360
+He's not a bearer in the traditional sense.
+
+254
+00:13:15,360 --> 00:13:19,080
+He was given fire magic due to the blessing of his younger brother, Joshua, the Dominant
+
+255
+00:13:19,080 --> 00:13:20,080
+of Fire.
+
+256
+00:13:20,080 --> 00:13:21,300
+At least, that's what everyone initially thinks.
+
+257
+00:13:21,300 --> 00:13:22,840
+It's actually a late-game plot twist.
+
+258
+00:13:22,840 --> 00:13:24,220
+They do something else entirely.
+
+259
+00:13:24,220 --> 00:13:28,380
+But dominance can give non-magicked humans access to bearer-like magic, so it's a reasonable
+
+260
+00:13:28,380 --> 00:13:29,380
+assumption.
+
+261
+00:13:29,380 --> 00:13:33,140
+After Clive's mother betrays her country to send Breck and orchestrates an attack on her
+
+262
+00:13:33,140 --> 00:13:37,340
+own family, I told you we'd be spoiling stuff at this point, Clive is presumed dead.
+
+263
+00:13:37,340 --> 00:13:41,940
+His identity is legally erased, and he's sold into slavery as any other bearer.
+
+264
+00:13:41,940 --> 00:13:46,540
+Despite this, the game doesn't really show the impact of slavery on Clive, even after
+
+265
+00:13:46,540 --> 00:13:50,000
+he's been freed and meets up with Cid, the leader of the revolutionaries, fighting to
+
+266
+00:13:50,000 --> 00:13:51,000
+end slavery.
+
+267
+00:13:51,000 --> 00:13:52,720
+I don't agree with this criticism.
+
+268
+00:13:52,720 --> 00:13:56,400
+Clive is noble and energetic when we see him as a teenager, and he's sullen and defeatist
+
+269
+00:13:56,400 --> 00:13:57,400
+as an adult.
+
+270
+00:13:57,400 --> 00:14:00,600
+And this is likely due not only to the loss of his family and country, but also to his
+
+271
+00:14:00,600 --> 00:14:02,140
+current lot in life.
+
+272
+00:14:02,140 --> 00:14:06,900
+We don't need to be shown the 13 years of Clive's torture, we can see it in his personality.
+
+273
+00:14:06,900 --> 00:14:10,960
+When he first encounters Cid's little terrorist cell, Clive's attitude is one of, this is
+
+274
+00:14:10,960 --> 00:14:13,000
+just the way the world is and we can't change it.
+
+275
+00:14:13,000 --> 00:14:16,160
+And over the course of the game, he comes around to the idea that Cid's quest to end
+
+276
+00:14:16,160 --> 00:14:18,640
+slavery in Valisthea is a moral one.
+
+277
+00:14:18,640 --> 00:14:23,360
+When Cid dies at the game's midpoint, Clive takes on his name and continues his operation,
+
+278
+00:14:23,360 --> 00:14:27,880
+and while him parroting Cid's viewpoint exactly down to the word is a bit on the nose,
+
+279
+00:14:27,880 --> 00:14:29,680
+we understand that he's come around.
+
+280
+00:14:29,680 --> 00:14:34,600
+Clive has the life experience of both highborn and low at this point, and unlike these articles,
+
+281
+00:14:34,600 --> 00:14:37,840
+I don't think he's driven solely to honor Cid's memory.
+
+282
+00:14:37,840 --> 00:14:41,880
+That's part of it, but I also think that Clive's been genuinely convinced of Cid's
+
+283
+00:14:41,880 --> 00:14:42,880
+position.
+
+284
+00:14:42,880 --> 00:14:46,680
+Of course, Clive's interest in abolishing the slavery he sees and personally experienced
+
+285
+00:14:46,680 --> 00:14:51,400
+does take a hard backseat to the whole killing god thing as the game ramps up.
+
+286
+00:14:51,400 --> 00:14:55,720
+But hey, when the villain aiming at you is god, maybe emancipation has to wait a little
+
+287
+00:14:55,720 --> 00:14:56,720
+longer.
+
+288
+00:14:56,720 --> 00:15:00,000
+Two, the game journals view the game's solution to slavery as assimilationist.
+
+289
+00:15:00,000 --> 00:15:04,440
+It's Cid's plan to destroy the Mother Crystals and abolish magic, which Clive continues after
+
+290
+00:15:04,440 --> 00:15:05,440
+his death.
+
+291
+00:15:05,440 --> 00:15:09,680
+Cid's assumption is that if magic were abolished, then the bearers would have no reason to continue
+
+292
+00:15:09,680 --> 00:15:10,960
+being enslaved.
+
+293
+00:15:10,960 --> 00:15:11,960
+This is stupid.
+
+294
+00:15:11,960 --> 00:15:16,000
+There's no reason the nobles wouldn't just keep the slaves they've already got, since
+
+295
+00:15:16,000 --> 00:15:19,240
+they're already enslaved, and put them to physical work instead, like slavery in the
+
+296
+00:15:19,240 --> 00:15:20,240
+real world.
+
+297
+00:15:20,240 --> 00:15:23,720
+Additionally, it places the burden of change on the enslaved.
+
+298
+00:15:23,720 --> 00:15:27,260
+It says if you didn't have this quality, you wouldn't be a slave.
+
+299
+00:15:27,260 --> 00:15:31,720
+The solution is to therefore remove the quality and make you like everyone else.
+
+300
+00:15:31,720 --> 00:15:35,720
+The people who own slaves are certainly depicted by the game as morally reprehensible, but
+
+301
+00:15:35,720 --> 00:15:41,720
+the solution the game's plot offers is less behead the slaver and more change the slave.
+
+302
+00:15:41,720 --> 00:15:45,320
+Unlike the first criticism, this one actually has some weight, and I personally agree with
+
+303
+00:15:45,320 --> 00:15:46,320
+it.
+
+304
+00:15:46,320 --> 00:15:48,640
+But it's a very non-leftist type of analysis, isn't it?
+
+305
+00:15:48,640 --> 00:15:52,720
+This isn't the argument of a political realist, of somebody who's employing some type of historical
+
+306
+00:15:52,720 --> 00:15:55,660
+materialist analysis to the world of Final Fantasy XVI.
+
+307
+00:15:55,660 --> 00:16:00,160
+A leftist view of the game's setting would reveal the economic forces at play.
+
+308
+00:16:00,160 --> 00:16:01,160
+Magic is valuable.
+
+309
+00:16:01,160 --> 00:16:05,240
+It's a method of generating more value with less labor, like using higher quality tools
+
+310
+00:16:05,240 --> 00:16:06,840
+or machines in the real world.
+
+311
+00:16:06,840 --> 00:16:11,400
+But since the bearers cast magic without the use of tools, they themselves are the means
+
+312
+00:16:11,400 --> 00:16:12,400
+of production.
+
+313
+00:16:12,480 --> 00:16:17,160
+Looking at Final Fantasy XVI through a Marxist lens, the option of abolish magic suddenly
+
+314
+00:16:17,160 --> 00:16:22,120
+makes a lot more sense, as doing so changes the relationship of the people with the means
+
+315
+00:16:22,120 --> 00:16:23,120
+of production.
+
+316
+00:16:23,120 --> 00:16:28,240
+The purely moral argument of, it doesn't matter what the status of magic is or how valuable
+
+317
+00:16:28,240 --> 00:16:33,560
+bearers are, slavery is evil, while certainly true, is a position you can't arrive at solely
+
+318
+00:16:33,560 --> 00:16:35,320
+through a materialist analysis.
+
+319
+00:16:35,320 --> 00:16:40,000
+Rather, moral intuitions are its source, which means Jonathan Haidt, which means evolutionary
+
+320
+00:16:40,000 --> 00:16:45,360
+psychology, and most leftists decry evolutionary psychology as biologically essentialist, therefore
+
+321
+00:16:45,360 --> 00:16:47,360
+eugenicist, therefore fascist and evil.
+
+322
+00:16:47,360 --> 00:16:50,840
+I don't think progressive games journalists are educated enough to follow the chain of
+
+323
+00:16:50,840 --> 00:16:52,720
+logic here, but I'm sure you get it.
+
+324
+00:16:52,720 --> 00:16:56,880
+TLDR, the second criticism is correct, but it's strange to see leftoids use it because
+
+325
+00:16:56,880 --> 00:16:59,320
+they reject all of its logical foundations.
+
+326
+00:16:59,320 --> 00:17:00,320
+3.
+
+327
+00:17:00,320 --> 00:17:04,060
+The vast majority of the game that focuses on the Plate of the Bearers is side content,
+
+328
+00:17:04,060 --> 00:17:06,520
+and you can go the whole game without even seeing it.
+
+329
+00:17:06,520 --> 00:17:07,520
+This is, again, true.
+
+330
+00:17:07,560 --> 00:17:11,960
+I remember one side quest, where a minor noble family was buying bears and having them get
+
+331
+00:17:11,960 --> 00:17:13,600
+ripped apart by dogs for fun.
+
+332
+00:17:13,600 --> 00:17:17,880
+They buy Clive, and being the main character badass he is, you kill the dogs.
+
+333
+00:17:17,880 --> 00:17:22,240
+Angered by this, they resolve to buy even more vicious dogs and show you what's what,
+
+334
+00:17:22,240 --> 00:17:25,560
+only to have the dogs immediately turn on them and rip them apart.
+
+335
+00:17:25,560 --> 00:17:28,680
+It is exactly as ham-fisted as it sounds.
+
+336
+00:17:28,680 --> 00:17:32,840
+Another side quest in the same area has a noble child hire you to find her pet Chloe.
+
+337
+00:17:32,840 --> 00:17:36,400
+You discover that Chloe wasn't a dog or something, but a bear who had turned to stone due to
+
+338
+00:17:36,400 --> 00:17:37,760
+using too much magic.
+
+339
+00:17:37,760 --> 00:17:41,560
+The child had owned several bears, naming them all Chloe, but had rode each of them
+
+340
+00:17:41,560 --> 00:17:42,560
+too hard.
+
+341
+00:17:42,560 --> 00:17:45,480
+She doesn't even seem to recognize that Chloe was a person, and she considers the
+
+342
+00:17:45,480 --> 00:17:48,300
+whole affair an annoyance now that she has to buy a new one.
+
+343
+00:17:48,300 --> 00:17:52,240
+The progressive complaint is because all of this stuff is side content, players don't
+
+344
+00:17:52,240 --> 00:17:55,520
+actually have to face the reality of bears in this world.
+
+345
+00:17:55,520 --> 00:17:59,060
+They can simply skip the quests, which is the video game equivalent of turning a blind
+
+346
+00:17:59,060 --> 00:18:00,560
+eye to injustice.
+
+347
+00:18:00,560 --> 00:18:01,860
+This is a dumb critique.
+
+348
+00:18:01,860 --> 00:18:04,940
+I still don't like this stuff personally, but for a different reason.
+
+349
+00:18:04,980 --> 00:18:08,700
+Guests like these serve to outline just how bad bears have it in this world, but they
+
+350
+00:18:08,700 --> 00:18:11,140
+are comedically, simplistically evil.
+
+351
+00:18:11,140 --> 00:18:14,500
+The people who abuse bears are Saturday morning cartoon villains.
+
+352
+00:18:14,500 --> 00:18:18,260
+In the real world, attitudes towards slavery weren't so cut and dry.
+
+353
+00:18:18,260 --> 00:18:22,780
+There absolutely were some real shitheels who just did not give a fuck and worked them
+
+354
+00:18:22,780 --> 00:18:25,040
+to death and raped them and all the rest of it.
+
+355
+00:18:25,040 --> 00:18:28,540
+There were also people who believed that they were doing a good thing by owning slaves.
+
+356
+00:18:28,540 --> 00:18:32,620
+A common belief in the American South was that black people simply were not capable
+
+357
+00:18:32,620 --> 00:18:37,040
+of self-governance and needed to be ruled the same way that parents rule their children.
+
+358
+00:18:37,040 --> 00:18:40,760
+For some of them, this was simply a post hoc justification of their exploitation, but others
+
+359
+00:18:40,760 --> 00:18:41,940
+genuinely believed it.
+
+360
+00:18:41,940 --> 00:18:45,260
+That doesn't make what they did morally acceptable, obviously, I'm not saying that,
+
+361
+00:18:45,260 --> 00:18:49,400
+but the person who is factually extremely wrong about the nature of his fellow man is
+
+362
+00:18:49,400 --> 00:18:53,860
+not the same kind of person who is sadistically evil and aware of himself.
+
+363
+00:18:53,860 --> 00:18:58,040
+Further still are the people who owned slaves while wanting slavery abolished, like many
+
+364
+00:18:58,040 --> 00:18:59,680
+of America's founding fathers.
+
+365
+00:18:59,680 --> 00:19:03,840
+They believed that while slavery was evil, as long as it was legal, they couldn't afford
+
+366
+00:19:03,840 --> 00:19:06,500
+to not employ slaves in their businesses.
+
+367
+00:19:06,500 --> 00:19:10,480
+If they took a moral stance and refused to use slave labor, they would find themselves
+
+368
+00:19:10,480 --> 00:19:14,200
+at a consistent disadvantage against their less moral competitors.
+
+369
+00:19:14,200 --> 00:19:19,020
+Their belief was that until the system itself was changed, they had no choice but to own
+
+370
+00:19:19,020 --> 00:19:22,640
+slaves, as individual action in a vacuum would simply mean their own destruction.
+
+371
+00:19:22,640 --> 00:19:26,540
+Again, this doesn't make it right, far from it, and maybe some of these people actually
+
+372
+00:19:26,540 --> 00:19:31,500
+were also sadistic fucks who use this as a cover story, who knows, but surely at least
+
+373
+00:19:31,500 --> 00:19:32,700
+some of them weren't.
+
+374
+00:19:32,700 --> 00:19:37,140
+The point I'm making is that the lack of nuance in Final Fantasy XVI's slavery story
+
+375
+00:19:37,140 --> 00:19:38,660
+makes it ridiculous.
+
+376
+00:19:38,660 --> 00:19:43,700
+Every slave is the purest saint, every slave owner is the absolute worst person with no
+
+377
+00:19:43,700 --> 00:19:49,300
+redeeming qualities or really, no characterization at all beyond just loving to pig fuck their
+
+378
+00:19:49,300 --> 00:19:50,300
+slaves.
+
+379
+00:19:50,300 --> 00:19:52,200
+But that isn't the game journal's critique.
+
+380
+00:19:52,200 --> 00:19:55,680
+Their view is that the story isn't black and white enough, and also that you can just
+
+381
+00:19:55,680 --> 00:19:56,680
+skip over it.
+
+382
+00:19:56,680 --> 00:20:00,440
+Speaking of black and white, they've completely forgotten about the whole no black people
+
+383
+00:20:00,440 --> 00:20:02,480
+complaint from back before the game came out.
+
+384
+00:20:02,480 --> 00:20:05,400
+Man, can you imagine how that would have unfolded?
+
+385
+00:20:05,400 --> 00:20:11,220
+Imagine an inclusively added black noble family, treating a white enslaved bearer like shit.
+
+386
+00:20:11,220 --> 00:20:15,640
+It would make sense in terms of Valisthea's class dynamics, but I can already imagine
+
+387
+00:20:15,640 --> 00:20:16,800
+their headlines.
+
+388
+00:20:16,800 --> 00:20:21,140
+Final Fantasy XVI's racially insensitive scene ignores the real-world racism.
+
+389
+00:20:21,140 --> 00:20:25,640
+These people really do just exist to hate on things that fall outside of the bounds
+
+390
+00:20:25,640 --> 00:20:26,640
+of their politics.
+
+391
+00:20:26,640 --> 00:20:30,080
+Not even explicitly against their politics, just not explicitly for it.
+
+392
+00:20:30,080 --> 00:20:35,000
+I wonder if that's why IGN recently published an article implying that Final Fantasy XVI
+
+393
+00:20:35,000 --> 00:20:38,920
+caused Square Enix to take a massive financial hit, when in reality it was Square's other
+
+394
+00:20:38,920 --> 00:20:44,040
+bombs like the Avengers game in Forespoken that lost them money, with Final Fantasy XVI's
+
+395
+00:20:44,040 --> 00:20:47,760
+success being the only one of their properties keeping them afloat right now.
+
+396
+00:20:47,760 --> 00:20:52,880
+I'll give you one final devian leap of logic before we wrap this up.
+
+397
+00:20:52,880 --> 00:20:56,600
+All of these articles complaining about the Final Fantasy XVI treatment of slavery as
+
+398
+00:20:56,600 --> 00:21:00,420
+a topic, they all hand-wave the whole killing god part of the story.
+
+399
+00:21:00,420 --> 00:21:03,780
+To them it's an afterthought, like oh, the plight of the bearers takes second fiddle
+
+400
+00:21:03,780 --> 00:21:06,040
+to the usual Final Fantasy schlock.
+
+401
+00:21:06,040 --> 00:21:07,040
+And fair enough.
+
+402
+00:21:07,040 --> 00:21:11,640
+But I'll tell you why I think all of these articles fail to go into that half of the
+
+403
+00:21:11,640 --> 00:21:13,120
+story in detail.
+
+404
+00:21:13,120 --> 00:21:17,080
+In their view, the whole Sid and Clive end slavery and overthrow the monarchy, that's
+
+405
+00:21:17,080 --> 00:21:19,160
+a fundamentally leftist storyline.
+
+406
+00:21:19,160 --> 00:21:23,040
+Reject the hereditary nobility, power to the people, French Revolution style, and Sid's
+
+407
+00:21:23,040 --> 00:21:26,680
+ragtag crew contains a whole bunch of different types of people.
+
+408
+00:21:26,680 --> 00:21:30,680
+Different ethnicities, nobles and commoners alike, all working hard to accomplish that
+
+409
+00:21:30,680 --> 00:21:31,680
+goal.
+
+410
+00:21:31,680 --> 00:21:35,240
+Clive goes on and on about freedom and liberation and being down with the cause.
+
+411
+00:21:35,240 --> 00:21:37,580
+It's the ideal lefty power fantasy.
+
+412
+00:21:37,580 --> 00:21:42,040
+But when the plot shifts towards the killing god stuff in the second half, the ethic of
+
+413
+00:21:42,040 --> 00:21:44,200
+the story also dramatically shifts.
+
+414
+00:21:44,200 --> 00:21:47,100
+The use of magic causes blight on the land.
+
+415
+00:21:47,100 --> 00:21:51,140
+Every force is sucked up from the land to cast spells, slowly killing everything.
+
+416
+00:21:51,140 --> 00:21:54,240
+Yes, Final Fantasy as a series has a few core themes.
+
+417
+00:21:54,240 --> 00:21:59,580
+And the idea of magic as a stand-in for fossil fuels and a pending ecological disaster resulting
+
+418
+00:21:59,580 --> 00:22:02,940
+from its use by humans failing to maintain a balance with nature?
+
+419
+00:22:02,940 --> 00:22:05,740
+That is a consistent one across most of the games in the series.
+
+420
+00:22:05,740 --> 00:22:10,300
+The god in the game that we're fighting against is actually an alien being named Ultima who
+
+421
+00:22:10,300 --> 00:22:14,100
+traveled to the planet the game takes place on, having destroyed his own world through
+
+422
+00:22:14,100 --> 00:22:15,840
+overusing magic.
+
+423
+00:22:15,840 --> 00:22:20,360
+After realizing that the blight was appearing on this new world too, Ultima devised a plan.
+
+424
+00:22:20,360 --> 00:22:24,600
+He created the Mother Crystals, he created humanity, and then he entombed parts of himself
+
+425
+00:22:24,600 --> 00:22:26,280
+inside the Mother Crystals.
+
+426
+00:22:26,280 --> 00:22:30,720
+As humanity discovered magic, the blight would spread, but the spent magical energy would
+
+427
+00:22:30,720 --> 00:22:34,520
+channel through the core of the Mother Crystals, Ultima's entombed parts.
+
+428
+00:22:34,520 --> 00:22:38,200
+Eventually, humanity would produce an ideal vessel through which unlimited magic could
+
+429
+00:22:38,200 --> 00:22:42,080
+be channeled, which Ultima could then possess seeing as he's a disembodied spirit.
+
+430
+00:22:42,080 --> 00:22:43,760
+Naturally, this person is Clive.
+
+431
+00:22:43,760 --> 00:22:47,860
+The story's not exactly clear on this next bit, but it's heavily implied that the capacity
+
+432
+00:22:47,860 --> 00:22:51,080
+for consciousness is a key component of the spread of the blight.
+
+433
+00:22:51,080 --> 00:22:56,720
+Humans, with will, casting magic, causes the land's aether to be consumed and lost, spreading
+
+434
+00:22:56,720 --> 00:22:57,720
+blight.
+
+435
+00:22:57,720 --> 00:23:01,080
+But an overabundance of aether in one location, a problem in the other direction, causes all
+
+436
+00:23:01,080 --> 00:23:06,060
+the life forms in the affected area to lose their will, becoming what the game calls Akashic.
+
+437
+00:23:06,060 --> 00:23:09,640
+In terms of game mechanics, this just means that there's stronger variants of regular
+
+438
+00:23:09,640 --> 00:23:10,640
+enemies.
+
+439
+00:23:10,640 --> 00:23:13,960
+But in terms of the story, Akashic creatures are philosophical zombies.
+
+440
+00:23:13,960 --> 00:23:17,600
+A philosophical zombie is a thought experiment, where a person behaves like any other person
+
+441
+00:23:17,600 --> 00:23:19,600
+but has no conscious experience.
+
+442
+00:23:19,600 --> 00:23:22,360
+For example, if I were to poke you with a sharp stick, you would presumably feel pain
+
+443
+00:23:22,360 --> 00:23:23,520
+and then react accordingly.
+
+444
+00:23:23,520 --> 00:23:27,440
+But if I were to poke a philosophical zombie, while it might react exactly like you did,
+
+445
+00:23:27,440 --> 00:23:30,120
+it would feel no pain, as it doesn't have the capacity for it.
+
+446
+00:23:30,120 --> 00:23:33,960
+You could talk to a philosophical zombie and it would talk back to you like a real human,
+
+447
+00:23:33,960 --> 00:23:36,160
+but there's no consciousness behind the eyes there.
+
+448
+00:23:36,160 --> 00:23:38,620
+It's simply an acting and reacting automaton.
+
+449
+00:23:38,620 --> 00:23:41,780
+In colloquial speech, the difference between a person and a philosophical zombie is that
+
+450
+00:23:41,780 --> 00:23:45,460
+a person has a soul, while a philosophical zombie doesn't, it's simply acting like
+
+451
+00:23:45,460 --> 00:23:46,460
+it does.
+
+452
+00:23:46,460 --> 00:23:51,460
+It's going through extremely complicated, identical to humans, but ultimately pre-programmed
+
+453
+00:23:51,460 --> 00:23:52,460
+responses.
+
+454
+00:23:52,460 --> 00:23:55,780
+The point of the thought experiment is that it's one of the common results of having
+
+455
+00:23:55,780 --> 00:23:57,220
+ultimate skepticism.
+
+456
+00:23:57,220 --> 00:24:00,820
+You can't know if other people are having a conscious experience like yours, because
+
+457
+00:24:00,820 --> 00:24:02,080
+you can't access it.
+
+458
+00:24:02,080 --> 00:24:05,900
+While you do know that your own consciousness exists because you are literally it, you don't
+
+459
+00:24:05,900 --> 00:24:08,580
+know with perfect accuracy if anybody else's does.
+
+460
+00:24:08,580 --> 00:24:12,460
+You might be the only real person and everybody else is just a philosophical zombie, a meat
+
+461
+00:24:12,460 --> 00:24:13,460
+puppet.
+
+462
+00:24:13,460 --> 00:24:16,220
+Now you know what, that's not true, because obviously I'm the main character, you guys
+
+463
+00:24:16,220 --> 00:24:18,220
+cease to exist the minute we stop talking.
+
+464
+00:24:18,220 --> 00:24:22,900
+This is what's being expressed by that kinda creepy Divine Light is Severed meme from Cruelty
+
+465
+00:24:22,900 --> 00:24:27,660
+Squad, where the caption says, Divine Light Severed, you are a flesh automaton animated
+
+466
+00:24:27,660 --> 00:24:28,660
+by neurotransmitters.
+
+467
+00:24:28,660 --> 00:24:32,560
+I don't know much about Cruelty Squad, but from what I can gather, this caption appears
+
+468
+00:24:32,560 --> 00:24:34,660
+when you die and you're brought back to life.
+
+469
+00:24:34,660 --> 00:24:37,720
+A new body is made and given your memories in the story.
+
+470
+00:24:37,720 --> 00:24:41,380
+And since you're aware of this process, you know that you're not really you, you're
+
+471
+00:24:41,380 --> 00:24:44,640
+just a facsimile meant to be indistinguishable from the previous you.
+
+472
+00:24:44,640 --> 00:24:48,380
+This meme gained a lot of traction because of its real-world implications in the postmodern
+
+473
+00:24:48,380 --> 00:24:49,380
+age.
+
+474
+00:24:49,380 --> 00:24:53,980
+Before the Enlightenment, humans understood themselves as divine beings connected to God,
+
+475
+00:24:53,980 --> 00:24:57,620
+and therefore they had a telos, making their actions a necessary part of putting the cosmos
+
+476
+00:24:57,620 --> 00:24:58,620
+in order.
+
+477
+00:24:58,620 --> 00:25:02,180
+But in the age of modern science, we've opened the hood on a lot of what makes us
+
+478
+00:25:02,180 --> 00:25:03,180
+sick.
+
+479
+00:25:03,180 --> 00:25:06,580
+And while we don't have ultimate understanding of everything yet, we do know that there probably
+
+480
+00:25:06,580 --> 00:25:11,900
+isn't a soul, that consciousness is an emergent property of our brains and their firing neurotransmitters.
+
+481
+00:25:11,900 --> 00:25:13,460
+Oh, real quick I guess.
+
+482
+00:25:13,460 --> 00:25:17,160
+An emergent property is a thing that doesn't exist in isolation, but does exist as a result
+
+483
+00:25:17,160 --> 00:25:19,720
+of the interaction between other systems that do exist.
+
+484
+00:25:19,720 --> 00:25:23,820
+For example, in economics, the market doesn't exist, but it's a property that emerges
+
+485
+00:25:23,820 --> 00:25:27,400
+when individual consumers make choices in a decentralized way.
+
+486
+00:25:27,400 --> 00:25:31,760
+As a result of people buying and selling products at their own preferred rates of exchange,
+
+487
+00:25:31,760 --> 00:25:35,860
+a market emerges, with efficient pricing based on supply and demand.
+
+488
+00:25:35,860 --> 00:25:39,580
+If the people stop trading, the market vanishes, but the market exists as long as the people
+
+489
+00:25:39,580 --> 00:25:41,100
+keep interacting with each other.
+
+490
+00:25:41,100 --> 00:25:45,560
+The formation of snowflakes, the shape of flying flocks of birds, the behavior of traffic
+
+491
+00:25:45,560 --> 00:25:48,100
+jams, these are all emergent properties.
+
+492
+00:25:48,100 --> 00:25:52,020
+The pattern doesn't exist on its own, but it comes into existence when individuals do
+
+493
+00:25:52,020 --> 00:25:53,740
+what they would normally do.
+
+494
+00:25:53,740 --> 00:25:56,840
+Human consciousness is, as far as we can tell, an emergent property.
+
+495
+00:25:56,840 --> 00:25:58,300
+There's no soul there.
+
+496
+00:25:58,300 --> 00:26:02,900
+It seems like consciousness exists as a result of the various brain systems operating together
+
+497
+00:26:02,900 --> 00:26:04,140
+in the way that they do.
+
+498
+00:26:04,140 --> 00:26:08,240
+In fact, an extremely pessimistic view of this discovery is that we're all actually
+
+499
+00:26:08,240 --> 00:26:09,680
+philosophical zombies.
+
+500
+00:26:09,680 --> 00:26:13,240
+Yes, even you, even if you think you know your own consciousness.
+
+501
+00:26:13,240 --> 00:26:18,260
+We're all just flesh automatons animated by neurotransmitters with no real consciousness,
+
+502
+00:26:18,260 --> 00:26:23,100
+no divine light, and that what we think our consciousness is, is actually just a perception
+
+503
+00:26:23,100 --> 00:26:27,900
+trick that our brains pull on us, and that what lies beneath the extremely thin surface
+
+504
+00:26:27,900 --> 00:26:32,260
+is actually just a bunch of biologically pre-programmed and environmentally learned
+
+505
+00:26:32,260 --> 00:26:33,860
+responses to stimuli.
+
+506
+00:26:33,860 --> 00:26:38,340
+Well, ignoring that dark turn, going back to Final Fantasy XVI, Akashic creatures are
+
+507
+00:26:38,340 --> 00:26:41,220
+lore-wise actually philosophical zombies.
+
+508
+00:26:41,220 --> 00:26:45,500
+They're empty husks, simply reacting as their biology leads them around, with no semblance
+
+509
+00:26:45,500 --> 00:26:47,320
+of understanding or consciousness.
+
+510
+00:26:47,320 --> 00:26:51,980
+When animals become Akashic, they tend to live in unison and harmony with other Akashic
+
+511
+00:26:51,980 --> 00:26:55,100
+creatures, even if one was a predator of the other normally.
+
+512
+00:26:55,100 --> 00:26:59,260
+When humans become Akashic, they just stand around in one place waiting for stimuli.
+
+513
+00:26:59,260 --> 00:27:02,820
+But all of them attack non-Akashic life on sight.
+
+514
+00:27:02,820 --> 00:27:07,000
+Ultima can control Akashic creatures with his mind, making them march in unison or attack
+
+515
+00:27:07,000 --> 00:27:08,000
+with strategy.
+
+516
+00:27:08,000 --> 00:27:13,220
+And when Akashic creatures use magic, the land's aether is not wasted, but collected.
+
+517
+00:27:13,220 --> 00:27:18,640
+If humans, with will, casting magic, cause that magic to be expended and expand the blight,
+
+518
+00:27:18,640 --> 00:27:23,400
+humans without will casting magic conserves the land's magic, causing it to concentrate.
+
+519
+00:27:23,400 --> 00:27:27,680
+So Ultima's plan is to accelerate the spread of blight to weaken the planet's life, and
+
+520
+00:27:27,680 --> 00:27:32,080
+then turn them Akashic with concentrated magic, allowing them to be empty vessels for his
+
+521
+00:27:32,080 --> 00:27:33,080
+purposes.
+
+522
+00:27:33,080 --> 00:27:37,420
+And Clive's body as the ultimate empty vessel he'll possess, allowing himself to cast
+
+523
+00:27:37,420 --> 00:27:39,280
+magic without causing blight.
+
+524
+00:27:39,280 --> 00:27:43,840
+The end result of Ultima's plan is what he considers a utopian society.
+
+525
+00:27:43,840 --> 00:27:48,200
+All life forms stripped of their free will, existing in an equality of emptiness, and
+
+526
+00:27:48,200 --> 00:27:50,920
+as such they'll no longer be capable of destroying the planet.
+
+527
+00:27:50,920 --> 00:27:55,120
+Ultima himself lives on in Clive's body, using it to cast magic as he wishes without
+
+528
+00:27:55,120 --> 00:27:58,840
+causing blight, since the body itself is technically also will-less.
+
+529
+00:27:58,840 --> 00:28:00,160
+Don't worry, I haven't gotten lost in the weeds.
+
+530
+00:28:00,160 --> 00:28:03,880
+I do actually remember that I'm supposed to be explaining why leftoids find this part
+
+531
+00:28:03,880 --> 00:28:07,760
+of the story distasteful, as opposed to the whole overthrow the monarchy and liberate
+
+532
+00:28:07,760 --> 00:28:09,120
+the slaves portion.
+
+533
+00:28:09,120 --> 00:28:14,040
+The king of Walood, the dominant of Odin, Barnabas Tharmir, is Ultima's right-hand man.
+
+534
+00:28:14,040 --> 00:28:19,960
+He has willingly sold his soul, or his neurotransmitters, to Ultima, as he actually views Ultima as
+
+535
+00:28:20,000 --> 00:28:24,760
+a god, and agrees that his vision of a world devoid of consciousness is the only way to
+
+536
+00:28:24,760 --> 00:28:25,760
+stop the blight.
+
+537
+00:28:25,760 --> 00:28:29,340
+Also, I guess having Ultima conjure up the naked form of his mother that he apparently
+
+538
+00:28:29,340 --> 00:28:32,600
+has the hots for was a big reason for Barnabas getting onside.
+
+539
+00:28:32,600 --> 00:28:37,200
+The point is, a lot of Ultima's philosophy is repeated through Barnabas as his earthly
+
+540
+00:28:37,200 --> 00:28:38,200
+mouthpiece.
+
+541
+00:28:38,200 --> 00:28:42,520
+They both believe that all of the evils and woes of humanity stem from free will, and
+
+542
+00:28:42,520 --> 00:28:47,040
+that salvation is found in the equality of abolishing all consciousness.
+
+543
+00:28:47,240 --> 00:28:51,520
+Clive takes up the individualist position in that debate, declaring that as his own
+
+544
+00:28:51,520 --> 00:28:53,560
+person, he is inherently valuable.
+
+545
+00:28:53,560 --> 00:28:56,880
+Even if Clive isn't perfectly equal to everyone else, that doesn't matter.
+
+546
+00:28:56,880 --> 00:29:00,400
+His friends and his family are also individuals, they're different from him, and while that
+
+547
+00:29:00,400 --> 00:29:04,440
+makes them not equals, since some are better in some ways and some are worse, that inequality
+
+548
+00:29:04,440 --> 00:29:05,560
+doesn't actually matter.
+
+549
+00:29:05,560 --> 00:29:07,640
+What matters is their relationships.
+
+550
+00:29:07,640 --> 00:29:12,300
+Final Fantasy XVI presents the utopian equality of Ultima as being equivalent to the real
+
+551
+00:29:12,300 --> 00:29:16,940
+world of the atomized individual, where everyone is isolated, everyone is interchangeable,
+
+552
+00:29:16,940 --> 00:29:18,400
+and everyone is the same.
+
+553
+00:29:18,400 --> 00:29:22,580
+While Clive's connections to Jill and Joshua and everyone else are rooted in individualism,
+
+554
+00:29:22,580 --> 00:29:26,680
+they're not all the same, and that's why they can have relationships with each other.
+
+555
+00:29:26,680 --> 00:29:31,820
+Because they're not equal, they have complementary attributes that give those connections meaning.
+
+556
+00:29:31,820 --> 00:29:35,540
+Even though Clive is a rebel against the crown and the breaker of chains, that doesn't
+
+557
+00:29:35,540 --> 00:29:40,700
+make Clive a leftist revolutionary hero, nor does it make Final Fantasy XVI a leftist game.
+
+558
+00:29:40,700 --> 00:29:42,420
+In fact, it's quite the opposite.
+
+559
+00:29:42,420 --> 00:29:47,220
+The ethics that drive Clive are equal parts liberal individualism and conservative traditional
+
+560
+00:29:47,220 --> 00:29:48,220
+family bonds.
+
+561
+00:29:48,220 --> 00:29:52,480
+To contrast, the ethics that drive Ultima are notions of equality, which necessitates
+
+562
+00:29:52,480 --> 00:29:56,860
+interchangeability and disposability, and notions of utopia, which necessitates a complete
+
+563
+00:29:56,860 --> 00:30:01,740
+wiping clean of all old orders and institutions, which is exactly what Ultima spends the whole
+
+564
+00:30:01,740 --> 00:30:06,220
+game pursuing through his manipulation behind the scenes, goading all the various powers
+
+565
+00:30:06,220 --> 00:30:10,740
+of Valisthea into destructive wars meant to abolish them all and create a blank slate.
+
+566
+00:30:10,740 --> 00:30:14,740
+Again, as I've said many times in this video and on this channel in general, I don't
+
+567
+00:30:14,740 --> 00:30:18,660
+think these people are educated enough to know what I'm talking about, but their intuition
+
+568
+00:30:18,660 --> 00:30:22,100
+tells them to look at the Ultima storyline and say, no, this bad.
+
+569
+00:30:22,100 --> 00:30:24,300
+They don't know why, not really, but I do.
+
+570
+00:30:24,300 --> 00:30:28,820
+If you are the type of person to hold equality and revolution as first-order moral values,
+
+571
+00:30:28,820 --> 00:30:34,060
+then a story where equality is depicted as lowest common denominator conformity and revolution
+
+572
+00:30:34,060 --> 00:30:38,420
+as destructive to every good thing humans want, that would be a story that you intuitively
+
+573
+00:30:38,420 --> 00:30:41,500
+find uncomfortable, even if you don't understand why.
+
+574
+00:30:41,500 --> 00:30:47,080
+And Clive's focus on individualism and tradition, when revolutionary leftism is anti both of
+
+575
+00:30:47,080 --> 00:30:49,900
+those things, is probably just as disquieting.
+
+576
+00:30:49,900 --> 00:30:53,140
+Anyway, the game journals and the progs don't really think of the game in this way.
+
+577
+00:30:53,140 --> 00:30:54,800
+They're not actively thinking this.
+
+578
+00:30:54,800 --> 00:30:56,540
+Their intuition just takes them there.
+
+579
+00:30:56,540 --> 00:30:59,820
+In the same vein, I don't think the game designers had this in mind either.
+
+580
+00:30:59,820 --> 00:31:03,820
+Like, I don't think that Yoshi P intended to write some anti-communist moral tale using
+
+581
+00:31:03,820 --> 00:31:04,820
+Ultima here.
+
+582
+00:31:04,820 --> 00:31:06,780
+It came out that way for the same reason.
+
+583
+00:31:06,780 --> 00:31:07,780
+Human intuition.
+
+584
+00:31:08,140 --> 00:31:11,780
+It's kind of like how socialists online claim that the Federation in Star Trek is a socialist
+
+585
+00:31:11,780 --> 00:31:13,660
+utopia because they don't use money.
+
+586
+00:31:13,660 --> 00:31:17,920
+Even though private property still clearly exists, and Roddenberry was a liberal end-of-history
+
+587
+00:31:17,920 --> 00:31:22,580
+type utopian who made one of the most enduring pop culture communist critiques in the form
+
+588
+00:31:22,580 --> 00:31:25,620
+of the Borg, where everyone's equal in the Borg collective.
+
+589
+00:31:25,620 --> 00:31:29,740
+It's one of those things where reading political theory allows you to word what is going on,
+
+590
+00:31:29,740 --> 00:31:32,980
+but it's not really necessary because you intuitively get it when you see it.
+
+591
+00:31:32,980 --> 00:31:37,180
+The world of equality is one where everyone and everything are the same, and forced to
+
+592
+00:31:37,180 --> 00:31:39,680
+be so because of our innate differences.
+
+593
+00:31:39,680 --> 00:31:44,580
+The world of diversity is one where differences exist, even if those differences generate
+
+594
+00:31:44,580 --> 00:31:49,300
+inequality, because the differences are what make relations between individuals worthwhile.
+
+595
+00:31:49,300 --> 00:31:53,820
+In other words, it's socialism versus liberalism, and that's why leftoids are complaining about
+
+596
+00:31:53,820 --> 00:31:57,500
+Final Fantasy XVI's story, even if they don't know why they're doing it.
+
+597
+00:31:57,500 --> 00:31:59,740
+Anyway, that's all I've got to say about this.
+
+598
+00:31:59,740 --> 00:32:00,740
+Thanks for being here, guys.
+
+599
+00:32:00,740 --> 00:32:04,020
+Despite its flaws, Final Fantasy XVI is still a good game, so if you like, pick it up.
+
+600
+00:32:04,020 --> 00:32:06,460
+Oh, actually, I forgot, the game really is 10 out of 10.
+
+601
+00:32:06,460 --> 00:32:07,460
+It's got Hodor.
+
+602
+00:32:07,460 --> 00:32:08,460
+That's right.
+
+603
+00:32:08,460 --> 00:32:09,460
+All is forgiven.
+
+604
+00:32:09,460 --> 00:32:09,480
+Game of the year, baby.
+

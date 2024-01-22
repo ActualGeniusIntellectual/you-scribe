@@ -1,0 +1,2192 @@
+1
+00:00:00,000 --> 00:00:16,760
+Let's talk about Unity, because that's been a pretty fun rollercoaster recently.
+
+2
+00:00:16,760 --> 00:00:22,500
+Back in 2005, three indie developers based out of Denmark founded the game studio Over
+
+3
+00:00:22,500 --> 00:00:27,160
+the Edge Entertainment and put out their very first game, the arcade puzzler Goo Ball for
+
+4
+00:00:27,160 --> 00:00:28,160
+Mac OS X.
+
+5
+00:00:28,760 --> 00:00:32,240
+There's nothing really remarkable about it, it's just a Super Monkey Ball knockoff, but
+
+6
+00:00:32,240 --> 00:00:36,880
+it was downloaded tons of times and it was one of the most popular games on the platform.
+
+7
+00:00:36,880 --> 00:00:41,400
+However, this popularity didn't translate into commercial success for the company.
+
+8
+00:00:41,400 --> 00:00:45,320
+Additionally, Over the Edge Entertainment had spent a significant amount of time building
+
+9
+00:00:45,320 --> 00:00:50,580
+custom tools to make the game, since Mac OS X didn't really have anything for game development.
+
+10
+00:00:50,580 --> 00:00:54,740
+Sensing a way to solve their financial problems, the company bundled its game dev tools into
+
+11
+00:00:54,740 --> 00:00:59,280
+one application and sold it as the Unity game engine, the first modern game engine
+
+12
+00:00:59,280 --> 00:01:01,500
+made specifically for Apple hardware.
+
+13
+00:01:01,500 --> 00:01:06,280
+With the explosive success of the iPhone two years later, the Unity engine was perfectly
+
+14
+00:01:06,280 --> 00:01:10,420
+poised to capitalize on the emerging market of smartphone games.
+
+15
+00:01:10,420 --> 00:01:14,640
+Over the Edge Entertainment soon after changed their name to Unity Technologies.
+
+16
+00:01:14,640 --> 00:01:19,900
+As Unity expanded beyond Apple's ecosystem, with versions for Android, consoles, and computers,
+
+17
+00:01:19,900 --> 00:01:24,440
+it became the go-to choice for a lot of developers, especially if they lacked experience with
+
+18
+00:01:24,440 --> 00:01:25,580
+game development.
+
+19
+00:01:25,580 --> 00:01:30,220
+By 2012, over half of all mobile developers were using Unity to make their phone games,
+
+20
+00:01:30,220 --> 00:01:33,020
+and Unity had hit 1 million registered users.
+
+21
+00:01:33,020 --> 00:01:36,900
+By 2016, they had 5.5 million registered users.
+
+22
+00:01:36,900 --> 00:01:41,260
+It basically became the next step up from the old RPG Maker applications of the early
+
+23
+00:01:41,260 --> 00:01:42,280
+2000s.
+
+24
+00:01:42,280 --> 00:01:46,020
+That was just a very simplistic game dev engine, and the only thing you could make with it
+
+25
+00:01:46,020 --> 00:01:49,120
+were basically just Dragon Quest ripoffs.
+
+26
+00:01:49,120 --> 00:01:53,580
+A lot of 90s kids who wanted to make games tinkered around with RPG Maker, including
+
+27
+00:01:53,580 --> 00:01:58,260
+myself, I have a lot of old, deep RPG Maker lore still stuffed in my head.
+
+28
+00:01:58,260 --> 00:02:02,820
+And many of those kids who did become indie devs in their 20s moved on to Unity for its
+
+29
+00:02:02,820 --> 00:02:04,380
+similar ease of use.
+
+30
+00:02:04,380 --> 00:02:10,820
+Unity's first big gangbuster title was Pokemon Go in 2016, after which the company's valuation
+
+31
+00:02:10,820 --> 00:02:11,860
+skyrocketed.
+
+32
+00:02:11,860 --> 00:02:14,520
+They went through several rounds of venture capital funding.
+
+33
+00:02:14,520 --> 00:02:18,640
+They started putting out asset libraries and software development kits and VR software
+
+34
+00:02:18,640 --> 00:02:20,660
+in order to further streamline game development.
+
+35
+00:02:20,740 --> 00:02:23,300
+They've been making big deals with Facebook and Google.
+
+36
+00:02:23,300 --> 00:02:26,540
+They've been buying out other companies like Vivox, a voice chat provider.
+
+37
+00:02:26,540 --> 00:02:30,620
+They've been massively expanding their business with new employees and branches.
+
+38
+00:02:30,620 --> 00:02:35,340
+And while it is paying off, Unity did post revenue of over half a billion dollars back
+
+39
+00:02:35,340 --> 00:02:36,520
+in 2019.
+
+40
+00:02:36,520 --> 00:02:41,380
+They have consistently operated at a loss every single year since their founding.
+
+41
+00:02:41,380 --> 00:02:46,100
+In September of 2020, Unity Technologies went public, with an estimated market value of
+
+42
+00:02:46,100 --> 00:02:48,660
+$13.7 billion.
+
+43
+00:02:48,660 --> 00:02:52,740
+The company continued on its growth spree, buying up smaller companies left and right,
+
+44
+00:02:52,740 --> 00:02:58,100
+expanding into markets everywhere between 2020 and 2022, leading us to the current 2023
+
+45
+00:02:58,100 --> 00:02:59,100
+controversy.
+
+46
+00:02:59,100 --> 00:03:02,860
+The story of Unity is one that seems pretty familiar to anybody who knows about the world
+
+47
+00:03:02,860 --> 00:03:03,860
+of tech startups.
+
+48
+00:03:03,860 --> 00:03:08,640
+A highly successful company offering an immensely popular product, but due to its own hubris
+
+49
+00:03:08,640 --> 00:03:13,900
+and bloat, fails to achieve profitability, even as they grow and become a household name.
+
+50
+00:03:13,940 --> 00:03:19,080
+On September 12th, 2023, Unity announced a change to their business model, adding new
+
+51
+00:03:19,080 --> 00:03:22,980
+fees to their subscription plans, and the addition of a runtime fee.
+
+52
+00:03:22,980 --> 00:03:27,660
+They clarified that it is indeed a price increase, but also that most Unity members won't be
+
+53
+00:03:27,660 --> 00:03:31,140
+affected by it, as most Unity users don't pay anything at all.
+
+54
+00:03:31,140 --> 00:03:35,180
+The only developers who will be affected are those who have successful games, and are generating
+
+55
+00:03:35,180 --> 00:03:38,800
+revenues way above what Unity considers to be its threshold.
+
+56
+00:03:38,800 --> 00:03:43,020
+The runtime fee install counter starts on January 1st, 2024.
+
+57
+00:03:43,020 --> 00:03:48,780
+It is not retroactive, but they will charge the game developer once for every new install
+
+58
+00:03:48,780 --> 00:03:50,140
+of a Unity game.
+
+59
+00:03:50,140 --> 00:03:54,560
+Unity insists that they look for ways to not do this, but it seems like their perpetual
+
+60
+00:03:54,560 --> 00:03:57,500
+financial troubles have finally forced their hand.
+
+61
+00:03:57,500 --> 00:03:58,780
+Here's the threshold table.
+
+62
+00:03:58,780 --> 00:04:02,140
+Basically, if you don't meet these thresholds, you won't be charged.
+
+63
+00:04:02,140 --> 00:04:08,340
+For Unity Personal and Unity Plus, you need $200,000 in revenue and 200,000 installs.
+
+64
+00:04:08,340 --> 00:04:12,340
+For Unity Pro and Enterprise, it's $1 million and 1 million installs.
+
+65
+00:04:12,340 --> 00:04:16,200
+I don't know if they intend for this to be that you have to hit both thresholds or just
+
+66
+00:04:16,200 --> 00:04:17,620
+one, it's ambiguous.
+
+67
+00:04:17,620 --> 00:04:21,340
+Once you're over the threshold, though, Unity Personal and Unity Plus developers will be
+
+68
+00:04:21,340 --> 00:04:26,240
+charged 20 cents for every install of their game, while Unity Pro and Unity Enterprise
+
+69
+00:04:26,240 --> 00:04:29,140
+have a bunch of tiers for various install levels.
+
+70
+00:04:29,140 --> 00:04:33,620
+Unity's confirmed that it's not every sale of a game, but every install of a game, meaning
+
+71
+00:04:33,620 --> 00:04:38,460
+that hypothetically a customer could re-download the game on multiple computers, and the developer
+
+72
+00:04:38,460 --> 00:04:41,140
+would be charged by Unity for every install.
+
+73
+00:04:41,140 --> 00:04:45,740
+They literally made this 4chan meme real, where the company loses money for every install.
+
+74
+00:04:45,740 --> 00:04:48,860
+Everybody realized that this was going to be a shitshow pretty much right away, and
+
+75
+00:04:48,860 --> 00:04:52,860
+after a massive public backlash, Unity came out with a second statement.
+
+76
+00:04:52,860 --> 00:04:57,260
+They clarified that demos will mostly not trigger a fee, developers won't be on the
+
+77
+00:04:57,260 --> 00:05:01,620
+hook for game pass downloads, and that they're rolling back that whole install scheme, saying
+
+78
+00:05:01,620 --> 00:05:03,980
+that only the first install will count.
+
+79
+00:05:03,980 --> 00:05:07,460
+If that's the case, why not just make it a cut of revenue from sales, dude?
+
+80
+00:05:07,460 --> 00:05:10,860
+One thing I will say, though, is that the public reaction to this whole mess got one
+
+81
+00:05:10,860 --> 00:05:12,580
+critical thing wrong.
+
+82
+00:05:12,580 --> 00:05:16,540
+Unity never said that the install fees would be retroactively applied, but everybody started
+
+83
+00:05:16,540 --> 00:05:17,980
+acting like it would've.
+
+84
+00:05:17,980 --> 00:05:22,420
+For example, this tweet went viral of an indie developer whose two games totaled 20 million
+
+85
+00:05:22,420 --> 00:05:26,220
+in sales, and how he now apparently owes Unity over 5 million dollars.
+
+86
+00:05:26,220 --> 00:05:29,620
+Yeah, that's pretty funny, and it's a pretty good way to hitch your brand to the latest
+
+87
+00:05:29,620 --> 00:05:34,420
+outrage train, but if the install fee only actually starts in 2024, this guy's fine.
+
+88
+00:05:34,420 --> 00:05:38,940
+However, Unity is potentially stepping on the toes of some very big players in the gaming
+
+89
+00:05:38,940 --> 00:05:40,380
+industry by doing this.
+
+90
+00:05:40,380 --> 00:05:45,460
+Genshin Impact uses Unity, Blizzard's Hearthstone uses Unity, Nintendo's Pokemon Diamond and
+
+91
+00:05:45,460 --> 00:05:47,300
+Pearl remakes use Unity.
+
+92
+00:05:47,300 --> 00:05:52,180
+If these companies start getting charged for every install of their games starting in 2024,
+
+93
+00:05:52,180 --> 00:05:54,540
+you can bet there will be lawsuits.
+
+94
+00:05:54,540 --> 00:05:58,540
+So let's actually examine that whole multiple installs thing in depth.
+
+95
+00:05:58,540 --> 00:06:01,340
+Here is the pro-Unity interpretation of events.
+
+96
+00:06:01,340 --> 00:06:05,460
+The general manager of Unity Create, which is a subdivision of Unity, Mark Whitten, was
+
+97
+00:06:05,460 --> 00:06:09,760
+interviewed about the controversy by Jason Wyman, a game developer who uses Unity.
+
+98
+00:06:09,760 --> 00:06:13,960
+One of the questions Whitten was asked was which group of their users would be the most
+
+99
+00:06:13,960 --> 00:06:16,180
+affected by the new pricing changes.
+
+100
+00:06:16,180 --> 00:06:20,900
+Before the way that Unity personal worked is you could use it up to $100,000 of revenue
+
+101
+00:06:20,900 --> 00:06:22,240
+for your company.
+
+102
+00:06:22,240 --> 00:06:26,780
+Now it's $200,000, so twice the size, so it's easier to use for more people, covers
+
+103
+00:06:26,780 --> 00:06:29,820
+more cases, and it's more flexible.
+
+104
+00:06:29,820 --> 00:06:31,800
+So that's number one.
+
+105
+00:06:31,800 --> 00:06:36,100
+Not a part of the program, totally free, majority of our users, and a lot more flexibility.
+
+106
+00:06:36,100 --> 00:06:43,060
+So the runtime fee applies for people who are over both a million dollars in sort of
+
+107
+00:06:43,060 --> 00:06:48,620
+trailing 12 months revenue money they've made over the last year on kind of an ongoing basis,
+
+108
+00:06:48,620 --> 00:06:53,740
+and a million engagements with new users, essentially.
+
+109
+00:06:53,740 --> 00:06:55,780
+And for those users, they're following changes.
+
+110
+00:06:55,780 --> 00:07:03,100
+The first one is this is with next year's LTS, which would be what is 2023 LTS, shipping
+
+111
+00:07:03,100 --> 00:07:04,240
+in 2024.
+
+112
+00:07:04,240 --> 00:07:08,820
+So it doesn't impact any games that have currently shipped, and it doesn't impact the games people
+
+113
+00:07:08,820 --> 00:07:12,760
+may have already been working on for a very, very long period of time.
+
+114
+00:07:12,760 --> 00:07:16,700
+One of the most, I think, really key pieces of feedback we heard is that it was a really
+
+115
+00:07:16,700 --> 00:07:21,460
+big business model change that people didn't expect.
+
+116
+00:07:21,460 --> 00:07:26,020
+And so it's very clear to us that having it start on a future version where everybody
+
+117
+00:07:26,020 --> 00:07:29,660
+can make the choice to use it is really, really important.
+
+118
+00:07:29,660 --> 00:07:33,780
+The second that we heard along with that is that people need to know that they can rely
+
+119
+00:07:33,780 --> 00:07:36,880
+on a set of terms when they start using a version of Unity.
+
+120
+00:07:36,880 --> 00:07:40,020
+So we're going to make sure that that's the case.
+
+121
+00:07:40,020 --> 00:07:45,620
+There are even some pieces about that, things like the GitHub repo that, by the way, I will
+
+122
+00:07:45,620 --> 00:07:49,780
+just say prior to last week, I did not know existed.
+
+123
+00:07:50,020 --> 00:07:53,900
+Now I know a lot about, and we're making sure, I think it's already back up there, it has
+
+124
+00:07:53,900 --> 00:07:55,020
+all of them in there.
+
+125
+00:07:55,020 --> 00:07:59,260
+Obviously, our website will always have our legal terms and terms of service and all of
+
+126
+00:07:59,260 --> 00:08:03,140
+those sorts of things, but we're going to make sure it's also on the GitHub so people
+
+127
+00:08:03,140 --> 00:08:04,220
+can track that.
+
+128
+00:08:04,220 --> 00:08:09,880
+And then the last that I would talk about is when you are using this future version
+
+129
+00:08:09,880 --> 00:08:15,360
+of Unity, you have a game that's over the million dollars, million engagements, that
+
+130
+00:08:15,360 --> 00:08:24,220
+there's a choice between either a 2.5% revenue share or measuring based on this calculated
+
+131
+00:08:24,220 --> 00:08:28,660
+amount of initial user engagements that you can do.
+
+132
+00:08:28,660 --> 00:08:34,720
+And if you do both of those, you'll always be billed the lesser of whatever that calculation
+
+133
+00:08:34,720 --> 00:08:35,720
+is, but it's also up to you.
+
+134
+00:08:35,720 --> 00:08:39,260
+If you only wanted to do one of them, leave the box blank, whatever.
+
+135
+00:08:39,260 --> 00:08:45,020
+And again, that's only for those games that were over those thresholds.
+
+136
+00:08:45,680 --> 00:08:49,260
+Sorry, one more minute, you asked me.
+
+137
+00:08:49,260 --> 00:08:51,640
+And then the other key part on that one is it's self-reported.
+
+138
+00:08:51,640 --> 00:08:56,000
+So it's both numbers being self-reported, both on the revenue side and on the user engagements.
+
+139
+00:08:56,000 --> 00:08:58,860
+Yeah, I think that's a big one.
+
+140
+00:08:58,860 --> 00:09:02,480
+I think there are a couple of questions about that that we'll get into, but I think the
+
+141
+00:09:02,480 --> 00:09:07,520
+self-reporting and the mix up around there is a big one that I think people would be
+
+142
+00:09:07,520 --> 00:09:08,520
+pretty happy with.
+
+143
+00:09:08,520 --> 00:09:11,080
+If Witten's telling the truth, this sounds pretty good.
+
+144
+00:09:11,080 --> 00:09:13,680
+The vast majority of users won't be affected at all.
+
+145
+00:09:13,680 --> 00:09:18,000
+The next question was about how the multiple installs would be tracked, and Witten replied
+
+146
+00:09:18,000 --> 00:09:21,060
+that basically the whole thing is going to be on the honor system.
+
+147
+00:09:21,060 --> 00:09:25,580
+How will you track what version of Unity developers are using, or is that something you're even
+
+148
+00:09:25,580 --> 00:09:27,260
+going to track?
+
+149
+00:09:27,260 --> 00:09:31,620
+You know what version of Unity that you're using, and we're going to make sure that you're
+
+150
+00:09:31,620 --> 00:09:35,960
+clear, like what terms are associated with that particular version.
+
+151
+00:09:35,960 --> 00:09:40,340
+This is actually, frankly, the same as actually Unity Personal.
+
+152
+00:09:40,340 --> 00:09:46,760
+When we say that you can use Unity Personal up to $200,000, we're also not tracking that.
+
+153
+00:09:46,760 --> 00:09:52,180
+We're just telling you that this is what the rights are associated with this version so
+
+154
+00:09:52,180 --> 00:09:58,000
+that you know, and then obviously if we find out that you're doing it, we have a conversation,
+
+155
+00:09:58,000 --> 00:09:59,400
+but you know.
+
+156
+00:09:59,400 --> 00:10:04,480
+Yeah, so there's not an extra tracking or anything added in, which I kind of assumed.
+
+157
+00:10:04,480 --> 00:10:09,320
+I figured it would be just like the current setup where you use Unity Free, and then eventually
+
+158
+00:10:09,320 --> 00:10:13,700
+you upgrade to Pro unless you don't like to follow the rules, and maybe if you get
+
+159
+00:10:13,700 --> 00:10:17,340
+super huge or something, somebody at Unity might hit you up.
+
+160
+00:10:17,340 --> 00:10:21,960
+Just to real quick clarify one more time for everybody, on the counting of those, that's
+
+161
+00:10:21,960 --> 00:10:26,060
+just you're going in, now make sure I understand this right, I'm just going into like Steam
+
+162
+00:10:26,060 --> 00:10:31,700
+and saying, hey, I sold this many, subtracting my refunds from that, and putting that in.
+
+163
+00:10:31,700 --> 00:10:32,700
+Subtract refunds, exactly.
+
+164
+00:10:32,700 --> 00:10:33,700
+Yeah.
+
+165
+00:10:33,700 --> 00:10:34,700
+Okay, yeah.
+
+166
+00:10:34,700 --> 00:10:35,700
+That's kind of what I expected.
+
+167
+00:10:35,700 --> 00:10:36,700
+Yeah, those are my things.
+
+168
+00:10:36,700 --> 00:10:37,700
+Yes.
+
+169
+00:10:37,700 --> 00:10:38,700
+Okay.
+
+170
+00:10:39,080 --> 00:10:43,760
+I've reported based on data that you easily have available, not sort of like I have to
+
+171
+00:10:43,760 --> 00:10:48,560
+track some sort of user behavior that's different than I've ever done or anything like that.
+
+172
+00:10:48,560 --> 00:10:52,620
+You don't have to go add in analytics or some tracking or anything, you just look at whatever
+
+173
+00:10:52,620 --> 00:10:55,220
+your numbers are and then put those into the page.
+
+174
+00:10:55,220 --> 00:10:59,400
+That's kind of been what I expected from the start, but it was definitely, I'll be honest,
+
+175
+00:10:59,400 --> 00:11:03,320
+it was very unclear because it said there was a proprietary algorithm in there.
+
+176
+00:11:03,320 --> 00:11:08,520
+I feel like those two words made the thing drastically more confusing and led to a lot
+
+177
+00:11:08,520 --> 00:11:09,520
+of speculation.
+
+178
+00:11:09,520 --> 00:11:12,060
+Even for me, I don't know what that means.
+
+179
+00:11:12,060 --> 00:11:13,620
+Yeah, you're right.
+
+180
+00:11:13,620 --> 00:11:17,840
+And we want to be super clear that self-reporting, and by the way, on both, both the revenue
+
+181
+00:11:17,840 --> 00:11:19,940
+side and on that is really key.
+
+182
+00:11:19,940 --> 00:11:24,860
+It's why this program is very important, but we're trying to make sure that this is easy
+
+183
+00:11:24,860 --> 00:11:27,380
+for our game creators as well.
+
+184
+00:11:27,380 --> 00:11:28,380
+Yeah.
+
+185
+00:11:28,380 --> 00:11:29,380
+No, that's good.
+
+186
+00:11:29,380 --> 00:11:34,100
+I mean, that seems like data that, at least I've always had, if you sell games and have
+
+187
+00:11:34,100 --> 00:11:37,700
+people download them, you've got the info on how many are downloading it or how much
+
+188
+00:11:37,700 --> 00:11:39,080
+money you're making each month.
+
+189
+00:11:39,080 --> 00:11:43,520
+So, that seems relatively straightforward and a lot better than some built-in tracking
+
+190
+00:11:43,520 --> 00:11:46,320
+spyware thing that I kept hearing about.
+
+191
+00:11:46,320 --> 00:11:47,320
+Yeah.
+
+192
+00:11:47,320 --> 00:11:51,080
+And again, I'm sorry that I had to use the corporate jargon, but the truth is there's
+
+193
+00:11:51,080 --> 00:11:53,160
+just a lot of different scenarios in games.
+
+194
+00:11:53,160 --> 00:11:56,080
+And so, some people might say, why isn't it sales?
+
+195
+00:11:56,080 --> 00:11:58,240
+But sales doesn't work if it's a free-to-play game.
+
+196
+00:11:58,240 --> 00:12:03,300
+And so, we're trying to make sure that we can clearly define that in a way that works
+
+197
+00:12:03,300 --> 00:12:06,580
+for a bunch of different ways that Unity's used.
+
+198
+00:12:06,580 --> 00:12:08,640
+This seems pretty above board too.
+
+199
+00:12:08,640 --> 00:12:13,020
+Unity will require game developers to self-report their statistics on sales numbers and revenue
+
+200
+00:12:13,020 --> 00:12:17,200
+and number of installs, all of which Steam's backend provides to the developer.
+
+201
+00:12:17,200 --> 00:12:18,760
+Xbox's backend provides them.
+
+202
+00:12:18,760 --> 00:12:20,700
+Most storefronts provide these numbers.
+
+203
+00:12:20,700 --> 00:12:24,880
+This does mean there's a possibility that lying developers can inaccurately report their
+
+204
+00:12:24,880 --> 00:12:25,880
+numbers.
+
+205
+00:12:25,880 --> 00:12:29,120
+And Witten does say that if there's obvious huge discrepancies, like if a game with 10
+
+206
+00:12:29,120 --> 00:12:33,400
+million players reports to Unity 10,000 sales, they reserve the right to approach the game
+
+207
+00:12:33,400 --> 00:12:34,620
+developer about it.
+
+208
+00:12:34,640 --> 00:12:39,320
+But for the most part, they intend to just roll with self-reporting on revenue and installs.
+
+209
+00:12:39,320 --> 00:12:44,360
+Witten also clarified what was meant by an install and admits that Unity did a very bad
+
+210
+00:12:44,360 --> 00:12:46,560
+job at explaining what they meant to do.
+
+211
+00:12:46,560 --> 00:12:47,560
+That's an understatement.
+
+212
+00:13:04,620 --> 00:13:17,200
+Yeah, and I'm going to sound a little corporatey here for a second while I use the words around
+
+213
+00:13:17,200 --> 00:13:20,720
+it, but I'm just going to use them and then try to explain them a little bit.
+
+214
+00:13:20,720 --> 00:13:27,280
+And that's, you know, the goal is as simple as saying that it's a legitimate user of your
+
+215
+00:13:27,280 --> 00:13:30,640
+software on a particular distribution channel.
+
+216
+00:13:30,640 --> 00:13:32,640
+So okay, what's a legitimate user?
+
+217
+00:13:32,660 --> 00:13:38,900
+Well, a legitimate user would be an actual user, not your automated use, not whether
+
+218
+00:13:38,900 --> 00:13:44,060
+there was piracy, not someone that had bought it and instantly refunded it, but like a legitimate
+
+219
+00:13:44,060 --> 00:13:49,340
+first time that someone was engaging with your free-to-play game or your paid game.
+
+220
+00:13:49,340 --> 00:13:50,540
+What's a distribution channel?
+
+221
+00:13:50,540 --> 00:13:52,980
+Well, an app store is a distribution channel.
+
+222
+00:13:52,980 --> 00:14:00,500
+So if that user went to a particular store and bought it or downloaded it or whatever,
+
+223
+00:14:01,000 --> 00:14:03,040
+then you would start thinking of that as sort of doing it.
+
+224
+00:14:03,040 --> 00:14:08,520
+Now if they had multiple devices or they reinstalled it, you don't count those multiple times.
+
+225
+00:14:08,520 --> 00:14:11,680
+Because I might have gotten the same thing in my library from a store that I can use
+
+226
+00:14:11,680 --> 00:14:14,000
+on a couple of different devices, great.
+
+227
+00:14:14,000 --> 00:14:15,720
+That's one, not two.
+
+228
+00:14:15,720 --> 00:14:21,420
+So there's a bunch more examples that are around that in the FAQ and we're very committed
+
+229
+00:14:21,420 --> 00:14:24,080
+to making sure that we give more details around that.
+
+230
+00:14:24,080 --> 00:14:32,060
+But our intent is very simple, which is that the first time that your game with our runtime
+
+231
+00:14:32,060 --> 00:14:37,340
+engages with a very legitimate user on a distribution channel, use that as account.
+
+232
+00:14:37,340 --> 00:14:44,940
+And then again, we think that many times that will be much less than this 2.5% revenue share.
+
+233
+00:14:44,940 --> 00:14:48,980
+And so you could pay less or less through that, or you just go to the revenue share
+
+234
+00:14:48,980 --> 00:14:50,820
+if you didn't want to track that.
+
+235
+00:14:50,820 --> 00:14:54,880
+Whitten also went into detail on why they went with a fee for an install rather than
+
+236
+00:14:54,880 --> 00:14:56,360
+a fee for a sale.
+
+237
+00:14:56,360 --> 00:15:00,160
+Why was there a whole install thing in the beginning anyway?
+
+238
+00:15:00,160 --> 00:15:02,860
+We think it's going to be cheaper for a lot of games.
+
+239
+00:15:02,860 --> 00:15:08,520
+So listen, we're trying to build a model that we think is fair and is a good value exchange
+
+240
+00:15:08,520 --> 00:15:13,400
+that works for games once they find a level of success.
+
+241
+00:15:13,400 --> 00:15:18,960
+And we also want to tie it to this value that Unity brings, which is our runtime that's
+
+242
+00:15:18,960 --> 00:15:21,600
+inside of the games themselves.
+
+243
+00:15:21,600 --> 00:15:24,980
+And so it felt like a way where we could tie those two pieces together.
+
+244
+00:15:24,980 --> 00:15:31,940
+And we think that in a pretty reasonable number of cases, that that's actually a smaller number.
+
+245
+00:15:31,940 --> 00:15:33,340
+And we think that's good.
+
+246
+00:15:33,340 --> 00:15:37,820
+Now what we heard, got a lot of really, really good feedback is that there were cases where
+
+247
+00:15:37,820 --> 00:15:41,160
+people first off couldn't plan because they're like, well, I don't know, maybe something's
+
+248
+00:15:41,160 --> 00:15:45,840
+going to go crazy or I have this particular scenario and that doesn't work.
+
+249
+00:15:45,840 --> 00:15:51,260
+And so adding in the 2.5% revenue share as an option, you can only use that, or where
+
+250
+00:15:51,260 --> 00:15:52,260
+you have the both.
+
+251
+00:15:52,260 --> 00:15:58,060
+And so you can always plan for it and hopefully do better, definitely was, frankly, my opinion
+
+252
+00:15:58,060 --> 00:16:02,200
+makes the plan better based on what we were trying to do.
+
+253
+00:16:02,200 --> 00:16:03,600
+So it was really good feedback.
+
+254
+00:16:03,600 --> 00:16:10,140
+Yeah, I was, to be honest, I said this in my streams earlier that the idea of being
+
+255
+00:16:10,140 --> 00:16:14,540
+forced on a rev share doesn't sound appealing to me, but I've come from the background of
+
+256
+00:16:14,540 --> 00:16:20,540
+MMOs and, you know, 50, $60 AAA games where a small install fee, we're looking at less
+
+257
+00:16:20,540 --> 00:16:22,320
+than 1% or a 1% fee.
+
+258
+00:16:22,320 --> 00:16:28,000
+So I like the option of both, but yeah, I haven't understood the argument of just force
+
+259
+00:16:28,000 --> 00:16:29,000
+a rev share.
+
+260
+00:16:29,000 --> 00:16:32,320
+So hopefully that doesn't change and we stay with both options.
+
+261
+00:16:32,320 --> 00:16:34,040
+I assume that's the plan.
+
+262
+00:16:34,040 --> 00:16:37,620
+Oh, that's absolutely the plan or the plan is that choice.
+
+263
+00:16:37,620 --> 00:16:41,860
+This actually sounds reasonable, like, yeah, free to play games would have no game sales
+
+264
+00:16:41,860 --> 00:16:42,860
+they could cut off.
+
+265
+00:16:42,860 --> 00:16:47,300
+Also people who just own a ton of random steam games from sales or humble bundles or something,
+
+266
+00:16:47,300 --> 00:16:50,360
+but never actually play them, they won't trigger a fee either.
+
+267
+00:16:50,360 --> 00:16:53,220
+By the way, I have a humble bundle affiliate link in the description, make sure to use
+
+268
+00:16:53,220 --> 00:16:54,400
+it to buy your games.
+
+269
+00:16:54,400 --> 00:16:58,180
+Basically, I know that it's Witten's job to put his company's best foot forward.
+
+270
+00:16:58,180 --> 00:17:02,500
+He's obviously not impartial here, but he did offer an apology and some decent reasons
+
+271
+00:17:02,500 --> 00:17:05,440
+as to why Unity decided to change their payment structure.
+
+272
+00:17:05,440 --> 00:17:09,840
+But there is a second possible reason, one that isn't quite so above board.
+
+273
+00:17:09,840 --> 00:17:13,460
+Remember when I mentioned that Unity was gobbling up companies left and right?
+
+274
+00:17:13,460 --> 00:17:18,180
+Well, their expansion led them to buy out IronSource back in July of 2022.
+
+275
+00:17:18,180 --> 00:17:21,120
+It's a bit tricky to figure out what IronSource actually does.
+
+276
+00:17:21,120 --> 00:17:24,440
+Their Wikipedia page lists them as a mobile games company, but they don't seem to have
+
+277
+00:17:24,440 --> 00:17:25,720
+put out any games.
+
+278
+00:17:25,720 --> 00:17:29,420
+Their website says, one platform to turn your app into a business.
+
+279
+00:17:29,420 --> 00:17:33,940
+Our platform lets you focus on what you do best, creating great apps and user experiences
+
+280
+00:17:33,940 --> 00:17:35,540
+while we take care of the rest.
+
+281
+00:17:35,540 --> 00:17:40,120
+Get the IronSource SDK to start monetizing your app and acquiring quality users.
+
+282
+00:17:40,120 --> 00:17:42,240
+SDK just stands for Software Development Kit.
+
+283
+00:17:42,240 --> 00:17:44,800
+Basically, it's a set of tools you can use to make a program.
+
+284
+00:17:44,800 --> 00:17:48,800
+So alright, they sell tools that developers use to make games, just like Unity.
+
+285
+00:17:48,800 --> 00:17:53,480
+IronSource used to sell their tools back in 2011 under the name InstallCore, and InstallCore
+
+286
+00:17:53,480 --> 00:17:55,240
+has a sordid history.
+
+287
+00:17:55,240 --> 00:18:00,560
+Various anti-virus and anti-malware applications began to label InstallCore as malware starting
+
+288
+00:18:00,560 --> 00:18:02,120
+in 2014.
+
+289
+00:18:02,140 --> 00:18:05,820
+InstallCore was an application that allowed those using it to include monetization in
+
+290
+00:18:05,820 --> 00:18:09,640
+their programs through advertising, as well as making it possible to charge companies
+
+291
+00:18:09,640 --> 00:18:12,260
+per installation through install tracking.
+
+292
+00:18:12,260 --> 00:18:16,020
+It could also add toolbars to your internet browser that were difficult to remove, record
+
+293
+00:18:16,020 --> 00:18:20,140
+your computer's processes, and send that data back home, and it was also the main reason
+
+294
+00:18:20,140 --> 00:18:23,420
+that when you went to install a legitimate application, you often found that a whole
+
+295
+00:18:23,420 --> 00:18:26,260
+bunch of other garbage got installed along with it.
+
+296
+00:18:26,260 --> 00:18:30,660
+InstallCore became one of the most infamous bits of malware of the 2010s.
+
+297
+00:18:30,680 --> 00:18:34,960
+InstallCore was phased out in 2020, having been replaced with the IronCore SDK, which
+
+298
+00:18:34,960 --> 00:18:36,620
+is basically just more of the same.
+
+299
+00:18:36,620 --> 00:18:39,760
+In fact, whenever you're on the Pirate Bay or some other torrent site or downloading
+
+300
+00:18:39,760 --> 00:18:43,760
+site, and you see a banner ad claiming to lead you to a Google Chrome install but actually
+
+301
+00:18:43,760 --> 00:18:48,040
+goes to some malware URL, that's generally IronCore's work.
+
+302
+00:18:48,040 --> 00:18:52,080
+If you were to click on one of those obvious links, IronCore would install a toolbar into
+
+303
+00:18:52,080 --> 00:18:55,920
+your browser that would display ads to you, track your internet usage, and lag the fuck
+
+304
+00:18:55,920 --> 00:18:57,200
+out of your PC.
+
+305
+00:18:57,380 --> 00:19:00,960
+Unity completed their buyout of IronSource in November of 2022.
+
+306
+00:19:00,960 --> 00:19:04,940
+As part of the deal, IronSource's CEO joined the Unity board of directors.
+
+307
+00:19:04,940 --> 00:19:08,500
+A few months later, the Unity board began the discussion of how to further monetize
+
+308
+00:19:08,500 --> 00:19:12,060
+Unity and eventually came up with the idea of a per-install fee.
+
+309
+00:19:12,060 --> 00:19:16,060
+It's not too much of a stretch to say that Unity, having just acquired a company that
+
+310
+00:19:16,060 --> 00:19:20,740
+specialized in tracking malware, might put that software to use in the tracking of their
+
+311
+00:19:20,740 --> 00:19:21,740
+users.
+
+312
+00:19:21,740 --> 00:19:26,420
+Right now, everybody's claiming Unity's now ex-CEO, John Risatello, for this whole
+
+313
+00:19:26,420 --> 00:19:27,420
+shit show.
+
+314
+00:19:27,420 --> 00:19:29,860
+There's a pretty convincing story for that interpretation of events.
+
+315
+00:19:29,860 --> 00:19:34,020
+Risatello was previously the CEO at EA, a gaming company that everyone's loved to
+
+316
+00:19:34,020 --> 00:19:36,620
+hate for about, I don't know, 30 years now.
+
+317
+00:19:36,620 --> 00:19:40,980
+He was brought into Unity back in 2014 and began to push for the company's aggressive
+
+318
+00:19:40,980 --> 00:19:41,980
+expansion.
+
+319
+00:19:41,980 --> 00:19:45,900
+During an interview, Risatello explained his logic behind Unity acquiring IronSource.
+
+320
+00:19:57,420 --> 00:20:03,120
+We realized we shared a common vision, and with Unity, most of the world's game content
+
+321
+00:20:03,120 --> 00:20:05,220
+is built on Unity.
+
+322
+00:20:05,220 --> 00:20:08,420
+We've also got a really strong monetization network.
+
+323
+00:20:08,420 --> 00:20:12,980
+And what we're trying to get to, you know, over the course of many years, is a platform
+
+324
+00:20:12,980 --> 00:20:18,060
+where a creator can make the best content and monetize the best content.
+
+325
+00:20:18,060 --> 00:20:22,420
+And sometimes monetization is harder than it is to build the great game.
+
+326
+00:20:22,420 --> 00:20:26,060
+If you don't have a great business to go with a great game, you don't have a great
+
+327
+00:20:26,060 --> 00:20:29,340
+game because you don't have the resources to make it.
+
+328
+00:20:29,340 --> 00:20:35,080
+And so here, what this is about is they have some tools that are pretty amazing that if
+
+329
+00:20:35,080 --> 00:20:40,220
+you add them to our stack, we can get to a place where a creator can get user feedback
+
+330
+00:20:40,220 --> 00:20:42,900
+on pieces of the game along the way.
+
+331
+00:20:42,900 --> 00:20:48,660
+So they know how the game or the digital twin or whatever the real-time 3D content is made
+
+332
+00:20:48,660 --> 00:20:49,660
+to be.
+
+333
+00:20:50,660 --> 00:20:55,620
+And they get feedback on user engagement and what's working, not working, and not working,
+
+334
+00:20:55,620 --> 00:21:00,460
+and also simultaneously get feedback on what it takes to acquire a user.
+
+335
+00:21:00,460 --> 00:21:07,940
+So the outgrowth of a unified creation and growth platform that we could put together
+
+336
+00:21:07,940 --> 00:21:13,860
+is really better content and a better business in a way that we think is really magical for
+
+337
+00:21:13,860 --> 00:21:14,860
+creators.
+
+338
+00:21:14,860 --> 00:21:18,560
+While I'm sure there's certainly some very positive uses for IronSource's tracking tools,
+
+339
+00:21:18,560 --> 00:21:22,720
+he does make a good case for them, it's also very easy to see how it's not all sunshine
+
+340
+00:21:22,720 --> 00:21:26,760
+and rainbows, where Satello went into more detail on the data front, specifically saying
+
+341
+00:21:26,760 --> 00:21:28,120
+more data is good.
+
+342
+00:21:48,560 --> 00:21:52,520
+means we're not dependent on any one data source, and so they've got a lot of different
+
+343
+00:21:52,520 --> 00:21:54,560
+data sources and so do we.
+
+344
+00:21:54,560 --> 00:21:57,880
+It's a large number, I can list them if you want.
+
+345
+00:21:57,880 --> 00:22:02,520
+The second is they've got a leading mediation tool, which is an important part of a full
+
+346
+00:22:02,520 --> 00:22:05,560
+stack monetization platform.
+
+347
+00:22:05,560 --> 00:22:11,840
+We will bring more data, more demand to that platform, and that's helpful to both companies.
+
+348
+00:22:11,840 --> 00:22:14,280
+Again, customers win, we win.
+
+349
+00:22:14,280 --> 00:22:19,160
+And third, they've got a set of publishing tools that they call SuperSonic.
+
+350
+00:22:19,160 --> 00:22:21,360
+And it's a great solution for the long tail.
+
+351
+00:22:21,360 --> 00:22:24,960
+Firstly, everybody in the long tail makes their games on Unity.
+
+352
+00:22:24,960 --> 00:22:30,120
+This is one of those peanut butter and chocolate mixes where we've got the customer that they
+
+353
+00:22:30,120 --> 00:22:33,580
+need, they've got the solution we need, and we see strong synergy in that.
+
+354
+00:22:33,580 --> 00:22:38,420
+When Unity went public back in September of 2020, a few choice groups bought up a significant
+
+355
+00:22:38,420 --> 00:22:39,580
+amount of their stock.
+
+356
+00:22:39,580 --> 00:22:43,280
+A lot of people who follow stock ownership conspiracies will likely recognize some of
+
+357
+00:22:43,280 --> 00:22:44,280
+these names.
+
+358
+00:22:44,280 --> 00:22:47,720
+Sequoia Capital, Silver Lake Management, The Vanguard Group.
+
+359
+00:22:47,720 --> 00:22:52,560
+Ironsource was even praised by the World Economic Forum as one of their preferred global growth
+
+360
+00:22:52,560 --> 00:22:53,560
+companies.
+
+361
+00:22:53,560 --> 00:22:56,440
+Okay, I'm not going to be diving into the Klaus Schwab rabbit hole today, I'm not prepared
+
+362
+00:22:56,440 --> 00:22:57,440
+for it right now.
+
+363
+00:22:57,440 --> 00:22:59,000
+And frankly, I don't think I believe a lot of it.
+
+364
+00:22:59,000 --> 00:23:02,560
+I'm bringing this up because the CEO of a public company serves at the pleasure of the
+
+365
+00:23:02,560 --> 00:23:03,880
+shareholder board.
+
+366
+00:23:03,880 --> 00:23:07,240
+Even if Risatello disagreed with the Ironsource merger, and he probably didn't, he wasn't
+
+367
+00:23:07,240 --> 00:23:11,240
+in a position to actually reject it, considering that Silver Lake and Sequoia announced an
+
+368
+00:23:11,240 --> 00:23:15,720
+additional $1 billion of investment into the company if they took the deal.
+
+369
+00:23:15,720 --> 00:23:20,160
+Risatello sold 2,000 Unity shares six days before the pricing announcement.
+
+370
+00:23:20,160 --> 00:23:22,640
+He's been selling shares of Unity all year.
+
+371
+00:23:22,640 --> 00:23:25,040
+Other executives at Unity have been doing the same.
+
+372
+00:23:25,040 --> 00:23:28,880
+I think people at Unity have a feeling that things are starting to go belly up, despite
+
+373
+00:23:28,880 --> 00:23:30,440
+their public statements otherwise.
+
+374
+00:23:30,440 --> 00:23:34,420
+And now that Unity's had a spectacular PR blowout, Risatello has probably decided that
+
+375
+00:23:34,420 --> 00:23:36,680
+now is the time for him to step down.
+
+376
+00:23:36,680 --> 00:23:39,960
+What's likely is that he saw the writing on the wall, cashed out, and abandoned the sinking
+
+377
+00:23:39,960 --> 00:23:40,960
+ship.
+
+378
+00:23:40,960 --> 00:23:44,160
+He may have been the accidental orchestrator of this disaster, and decided to cut his losses
+
+379
+00:23:44,160 --> 00:23:45,160
+and leave.
+
+380
+00:23:45,160 --> 00:23:48,320
+He might have objected to the merger and been overruled by the owners of Unity, and now
+
+381
+00:23:48,320 --> 00:23:50,560
+he's taken off before things really go tits up.
+
+382
+00:23:50,560 --> 00:23:54,400
+Either way, he's gone, and the internet has certainly decided to blame him for everything.
+
+383
+00:23:54,400 --> 00:23:59,040
+By the way, I personally believe that the Ironsource malware tracking story is probably
+
+384
+00:23:59,040 --> 00:24:03,200
+more likely than the Mark Ritten, everything is totally cool story, because Unity announced
+
+385
+00:24:03,200 --> 00:24:08,000
+that it will quietly waive all of those fees if game developers switch to their in-game
+
+386
+00:24:08,000 --> 00:24:09,820
+ad monetization service.
+
+387
+00:24:09,820 --> 00:24:12,820
+Another bit of software that came along with the Ironsource acquisition.
+
+388
+00:24:12,820 --> 00:24:18,180
+Oh, also because of that $1 billion invested from Sequoia and Silver Lake to make that
+
+389
+00:24:18,180 --> 00:24:23,100
+Ironsource deal go down smoothly, a chunk of it probably went towards executive compensation
+
+390
+00:24:23,100 --> 00:24:24,100
+packages.
+
+391
+00:24:24,100 --> 00:24:29,100
+$45 million over three years for Risatello, and $47 million over two years to Ritten,
+
+392
+00:24:29,100 --> 00:24:30,620
+not to mention the other executives.
+
+393
+00:24:30,620 --> 00:24:35,220
+Neil Long, reporting for the website Mobile Gamer, was contacted by sources within Unity
+
+394
+00:24:35,220 --> 00:24:36,500
+about the whole fiasco.
+
+395
+00:24:36,500 --> 00:24:39,540
+They are anonymous sources, presumably because they don't want to lose their jobs, so take
+
+396
+00:24:39,580 --> 00:24:40,740
+this with a grain of salt.
+
+397
+00:24:40,740 --> 00:24:44,260
+This was published only a few days ago on October 23rd, and it seems to be the most
+
+398
+00:24:44,260 --> 00:24:45,780
+recent news in the story.
+
+399
+00:24:45,780 --> 00:24:49,740
+I would wager a guess that now that the initial controversy has blown over, these guys felt
+
+400
+00:24:49,740 --> 00:24:51,420
+more comfortable talking to the press.
+
+401
+00:24:51,420 --> 00:24:56,500
+A major mobile game publisher and one of Unity's biggest clients met with John Risatello himself
+
+402
+00:24:56,500 --> 00:24:59,140
+after the first runtime fee policy was announced.
+
+403
+00:24:59,140 --> 00:25:01,980
+They directly told him, fuck you, we're not paying.
+
+404
+00:25:01,980 --> 00:25:07,060
+Unity planned to announce a 4% revenue share for games that earned over $1 million, slightly
+
+405
+00:25:07,060 --> 00:25:09,340
+undercutting Unreal Engine's 5%.
+
+406
+00:25:09,340 --> 00:25:14,620
+But the response was so fierce, it was knocked down to 2.5% in the second tweaked policy,
+
+407
+00:25:14,620 --> 00:25:16,140
+announced a week and a half later.
+
+408
+00:25:16,140 --> 00:25:20,560
+Before the original runtime fee announcement was made, a very large group of senior Unity
+
+409
+00:25:20,560 --> 00:25:23,140
+managers met to discuss the proposed changes.
+
+410
+00:25:23,140 --> 00:25:26,340
+Half of the people in that meeting said that the model was too complicated.
+
+411
+00:25:26,340 --> 00:25:29,140
+It wasn't going to be well-received and that they should talk to other people before they
+
+412
+00:25:29,140 --> 00:25:30,140
+do it.
+
+413
+00:25:30,140 --> 00:25:33,380
+Apparently, Unity had spoken to people, they didn't say who it was.
+
+414
+00:25:33,380 --> 00:25:35,320
+The whole thing felt very rushed.
+
+415
+00:25:35,320 --> 00:25:38,300
+They had a meeting and they were told that it was happening, but they weren't told to
+
+416
+00:25:38,300 --> 00:25:39,300
+date.
+
+417
+00:25:39,340 --> 00:25:43,340
+This actually sounds a lot like something that Mark Whitten said in that interview from
+
+418
+00:25:43,340 --> 00:25:44,340
+earlier.
+
+419
+00:26:09,300 --> 00:26:16,020
+feedback and we need to do better and I can tell you you know as an example on Sunday
+
+420
+00:26:16,020 --> 00:26:20,860
+I think it's been a long week so the days together a little bit but on Sunday I think
+
+421
+00:26:20,860 --> 00:26:27,660
+we put up on on X a kind of a statement saying that we'll get back to you in a couple of
+
+422
+00:26:27,660 --> 00:26:31,080
+days the reason we didn't get back to you in a couple of days is because we were as
+
+423
+00:26:31,080 --> 00:26:35,820
+we were working through the plan we were going back and talking to big customers independent
+
+424
+00:26:35,820 --> 00:26:40,320
+developers partners over and over again to get that feedback because I think the most
+
+425
+00:26:40,320 --> 00:26:47,220
+fundamental thing about talking to customers is it's it's kind of an ongoing iterative
+
+426
+00:26:47,220 --> 00:26:52,780
+conversation and we didn't do that well enough and you know now I'm very very convicted on
+
+427
+00:26:52,780 --> 00:26:57,920
+this policy that we're doing that the source also said that the company Apple oven is dominating
+
+428
+00:26:57,920 --> 00:27:02,760
+and unity tried to use this policy as a forcing agent to try and get back some market share
+
+429
+00:27:02,760 --> 00:27:07,160
+it was iron source and unity's play to increase their mediation business and developers have
+
+430
+00:27:07,160 --> 00:27:10,840
+been caught in the crossfire of this mediation war that's been going on for a couple of years
+
+431
+00:27:10,840 --> 00:27:15,240
+now here's the deep lore on that iron source has a competitor in the advertisements in
+
+432
+00:27:15,240 --> 00:27:20,040
+apps space called app lovin app lovin is a larger company without the reputation of spreading
+
+433
+00:27:20,040 --> 00:27:24,520
+malware around and when unity announced their desire to merge with iron source in 2022 app
+
+434
+00:27:24,520 --> 00:27:28,640
+lovin seeing their competitor merge with a major player decided to counter offer they
+
+435
+00:27:28,640 --> 00:27:34,200
+would buy unity instead and offered up 17 billion dollars for the deal unity ultimately rejected
+
+436
+00:27:34,200 --> 00:27:38,880
+them sticking with their iron source acquisition instead which cost them around 4.4 billion to
+
+437
+00:27:38,880 --> 00:27:43,560
+complete neil long reported previously on the app love and story back in september where multiple
+
+438
+00:27:43,560 --> 00:27:48,400
+game development studios using unity admitted that unity quietly offered to waive the runtime
+
+439
+00:27:48,400 --> 00:27:53,400
+fee if they switched away from app lovin and used their in-app advertisement tools instead
+
+440
+00:27:53,400 --> 00:27:58,360
+one developer specifically speculated that iron source has wanted to kill app lovin for a long
+
+441
+00:27:58,400 --> 00:28:03,200
+time and now unity as iron sources owner and with iron source executives on their board have
+
+442
+00:28:03,200 --> 00:28:07,920
+continued that goal app lovin has been dominating this specific market offering what developers
+
+443
+00:28:07,920 --> 00:28:12,240
+claim is a superior product to iron sources an iron sources game plan has been to integrate
+
+444
+00:28:12,240 --> 00:28:16,480
+themselves vertically to control access to other pieces of the market chain rather than develop
+
+445
+00:28:16,480 --> 00:28:20,960
+their own superior product the developers have also stated that this move has come from the iron
+
+446
+00:28:20,960 --> 00:28:26,160
+source side of the merged business not the unity side and that while large companies can simply
+
+447
+00:28:26,200 --> 00:28:31,760
+pay the fee small developers have no choice but to accept unity's in-app advertisement tools in
+
+448
+00:28:31,760 --> 00:28:36,960
+order to save their projects going back to the october article the anonymous sources inside unity
+
+449
+00:28:36,960 --> 00:28:41,200
+confirmed that neil long's reporting and the developer assertions from the september article
+
+450
+00:28:41,200 --> 00:28:45,600
+were actually accurate a second large mobile publisher who also refused to switch from
+
+451
+00:28:45,600 --> 00:28:49,680
+app lovin to iron source was told by the company that that was the last time you could have got
+
+452
+00:28:49,680 --> 00:28:53,440
+that money and that in the future presumably when the terms of service changed again they will be
+
+453
+00:28:53,440 --> 00:28:58,640
+forced to use iron source and that iron source's intention is to completely wipe app lovin out
+
+454
+00:28:58,640 --> 00:29:03,120
+nonetheless the source at unity doesn't believe this was done maliciously unity has lost a lot
+
+455
+00:29:03,120 --> 00:29:07,680
+of money over the last 18 years billions of dollars and they need to do something to make
+
+456
+00:29:07,680 --> 00:29:12,480
+money sadly this wasn't delivered well but the need to make more money is still there again this
+
+457
+00:29:12,480 --> 00:29:17,360
+is very similar to something witten said earlier why did you go about doing this whole thing the
+
+458
+00:29:17,360 --> 00:29:23,120
+the pricing plan change putting this up posting it out there making a lot of people angry of course
+
+459
+00:29:23,120 --> 00:29:28,320
+and then rolling it back a week later like what was the point of doing all that if you're gonna
+
+460
+00:29:28,320 --> 00:29:35,120
+kind of do this roll back afterwards well uh the most fundamental thing that we're trying to do is
+
+461
+00:29:35,120 --> 00:29:40,080
+we're building a sustainable business for unity and for us that means that we do need to have a
+
+462
+00:29:40,080 --> 00:29:46,240
+model that includes some sort of balanced exchange including shared success that's really really
+
+463
+00:29:46,240 --> 00:29:51,520
+important for the the long-term future of how we think about um our business how we think about the
+
+464
+00:29:51,520 --> 00:29:56,480
+engine and the main reason is really clear it has to be a sustainable business we want to keep
+
+465
+00:29:56,480 --> 00:30:00,400
+massively and deeply investing in the engine we want to make sure that we can build the best
+
+466
+00:30:00,960 --> 00:30:07,040
+editor and runtime for everyone to build the games today and tomorrow and that's the reason why we
+
+467
+00:30:07,040 --> 00:30:12,320
+work on it very very focused on that it's very important for unity according to like your
+
+468
+00:30:12,320 --> 00:30:18,080
+internal projections is this going to be enough to just keep things stable or do you feel like
+
+469
+00:30:18,160 --> 00:30:25,040
+you're going to need to re-evaluate in another year or two uh well listen you know when we make
+
+470
+00:30:25,040 --> 00:30:29,920
+a shift that says that it doesn't start until next year obviously that means that games that
+
+471
+00:30:29,920 --> 00:30:34,560
+are participating in the runtime are going to come later so like there's a shift on sort of where some
+
+472
+00:30:34,560 --> 00:30:39,440
+of that comes but this is about a business model transition this isn't about hey we need to do
+
+473
+00:30:39,440 --> 00:30:44,000
+something for the next three months or something like that this is about setting up the foundation
+
+474
+00:30:44,000 --> 00:30:47,920
+of the company this this program is critical for us for the foundation of the company
+
+475
+00:30:47,920 --> 00:30:52,960
+to be able to continue to invest for a very very long period of time so if the shape kind of is
+
+476
+00:30:52,960 --> 00:30:57,280
+like this you know like a little shape that goes like this versus being earlier that's less
+
+477
+00:30:57,280 --> 00:31:01,280
+relevant than making sure that we have a right program that works for our creators that's why
+
+478
+00:31:01,280 --> 00:31:05,440
+i believe that this is a better program because i think we got great feedback to make it a better
+
+479
+00:31:05,440 --> 00:31:09,920
+program and works for unity it's not just resatella who's decided to abandon the unity
+
+480
+00:31:09,920 --> 00:31:14,000
+sinking ship the source mentioned that many people have begun to apply elsewhere in the
+
+481
+00:31:14,000 --> 00:31:19,440
+games industry the writing's on the wall unity stock was at 200 in november of 2021
+
+482
+00:31:19,440 --> 00:31:24,720
+well before the iron source merger while it's now sitting at around 26 what makes this really funny
+
+483
+00:31:24,720 --> 00:31:29,280
+is that unity stock price has collapsed so much since this shit show began that applevan can
+
+484
+00:31:29,280 --> 00:31:32,800
+actually afford to just buy them outright again which they are currently considering
+
+485
+00:31:32,800 --> 00:31:36,880
+but it turns out despite whitman's remarks about the thresholds and whatever else in that interview
+
+486
+00:31:36,880 --> 00:31:40,640
+the people who will actually be affected by the changes at unity are the middle of the road
+
+487
+00:31:40,640 --> 00:31:45,600
+creators the unity source remarked that a lot of the outcry from indie devs was misplaced as none
+
+488
+00:31:45,600 --> 00:31:50,080
+of them will ever get anywhere near the 1 million dollar threshold anyway that rules out the indie
+
+489
+00:31:50,080 --> 00:31:55,280
+underclass meanwhile anyone in a bigger developer's business team or sales team is going to be able to
+
+490
+00:31:55,280 --> 00:32:00,640
+reduce those fees some big clients might leave other big clients might keep using unity and
+
+491
+00:32:00,640 --> 00:32:05,200
+simply pay a fee to avoid switching over to applevan that rules out the big names the only
+
+492
+00:32:05,200 --> 00:32:09,440
+ones who are going to start seeing serious money losses are the successful indies who are nonetheless
+
+493
+00:32:09,440 --> 00:32:12,800
+still a small companies like the hollow knights and the shovel knights and the undertales of the
+
+494
+00:32:12,800 --> 00:32:17,760
+world it's these people who will feel the pinch from unity so that brings us to the end is it
+
+495
+00:32:17,760 --> 00:32:23,440
+possible that unity was actually going okay not great but okay until deciding to buy iron source
+
+496
+00:32:23,440 --> 00:32:27,920
+a plague blanket of a company a deal which the executives were incentivized to take due to a
+
+497
+00:32:27,920 --> 00:32:31,680
+fat stack of cash provided to them by their investors which explains why they rejected
+
+498
+00:32:31,680 --> 00:32:36,640
+the applevan counteroffer a deal which left unity on the hook for a huge bill as well as ownership
+
+499
+00:32:36,640 --> 00:32:40,400
+of a bunch of tracking software that they had to somehow monetize leading them to pull this
+
+500
+00:32:40,400 --> 00:32:44,960
+retarded stunt on their own consumer base causing consumer confidence in their product to completely
+
+501
+00:32:44,960 --> 00:32:49,200
+vanish ending with the whole house of cards collapsing it's entirely possible but without
+
+502
+00:32:49,200 --> 00:32:53,840
+detailed information about the various mergers and acquisitions we can't be sure what we do know is
+
+503
+00:32:53,840 --> 00:32:59,840
+that individual on the ground game developers don't trust unity anymore publishers don't trust unity
+
+504
+00:32:59,840 --> 00:33:05,600
+anymore gamers don't trust unity anymore no one trusts unity anymore trust is hard to earn and
+
+505
+00:33:05,600 --> 00:33:11,440
+easy to lose and unity burned over a decade of trust in one swift stupid move many game developers
+
+506
+00:33:11,440 --> 00:33:15,600
+are pledging to move their games over from unity if possible others are saying that their next
+
+507
+00:33:15,600 --> 00:33:20,720
+titles won't use unity people are already beginning to make quick conversion tools for people moving
+
+508
+00:33:20,720 --> 00:33:25,760
+their stuff from unity to unreal or whatever people are asking if it's legal for unity to
+
+509
+00:33:25,760 --> 00:33:30,000
+simply unilaterally change the terms of service and they're finding out that as long as there's
+
+510
+00:33:30,000 --> 00:33:33,920
+enough time before changes are implemented and as long as customers re-sign the deal next time they
+
+511
+00:33:33,920 --> 00:33:38,480
+boot up the application companies that offer a service can change that service as they see fit
+
+512
+00:33:38,480 --> 00:33:43,040
+they're not bound to do the exact same thing in perpetuity just because you want them to
+
+513
+00:33:43,040 --> 00:33:47,680
+this next question is one i have been wondering and i don't know anything about and they were
+
+514
+00:33:47,680 --> 00:33:53,040
+wondering if it's legal to change the terms of service overnight and i don't know if it was
+
+515
+00:33:53,040 --> 00:33:57,440
+necessarily overnight but do you know i don't know anything about the legal side of this stuff
+
+516
+00:33:57,440 --> 00:34:02,080
+all i've heard is random speculation from people who are also not lawyers well i mean i mean i
+
+517
+00:34:02,080 --> 00:34:08,160
+think at sort of one level uh all companies change their terms over time you know frequently and
+
+518
+00:34:08,160 --> 00:34:12,240
+constantly and consistently you know because frankly the world changes gaming is a very
+
+519
+00:34:12,240 --> 00:34:16,880
+dynamic world the world we live in is dynamic and there are obviously always new things that are
+
+520
+00:34:16,880 --> 00:34:21,280
+that are being added or whatever however i want to back up from that and say you know it kind of
+
+521
+00:34:21,280 --> 00:34:27,200
+comes back to your trust point which is i think one thing that i heard a lot is people very very
+
+522
+00:34:27,200 --> 00:34:32,000
+deeply need to know what they're signing up for when they pick a version of unity to build their
+
+523
+00:34:32,000 --> 00:34:37,200
+game on and that they can you know be sure that they can continue to use that and i think that
+
+524
+00:34:37,200 --> 00:34:41,600
+feedback and there's a lot of other things that come along with trust so i just want to be clear
+
+525
+00:34:41,600 --> 00:34:46,240
+but that feedback is really really really super clear and that's one reason why you know what i
+
+526
+00:34:46,240 --> 00:34:50,880
+talked about today we're going to make sure that you can do that the problem with this all is that
+
+527
+00:34:50,880 --> 00:34:56,560
+it requires trust the very thing that unity has just torched customers need to trust that unity
+
+528
+00:34:56,560 --> 00:35:01,760
+is not darth vader altering the deal on a whim in some unfair way and that's out the window now
+
+529
+00:35:01,760 --> 00:35:05,840
+whitton did state in that interview that they haven't seen a significant drop in unity developers
+
+530
+00:35:05,840 --> 00:35:10,160
+like do you know that there's been a dip in users or is that something that you have to wait a
+
+531
+00:35:10,160 --> 00:35:17,600
+little while to see i mean i listen i see all of it on uh like any channel where we get feedback
+
+532
+00:35:17,600 --> 00:35:23,520
+obviously we see all the the feedback i haven't seen anything in our like actual numbers uh that
+
+533
+00:35:23,520 --> 00:35:28,160
+would show that not saying that that means it's not happening uh and i i will just say that it's
+
+534
+00:35:28,160 --> 00:35:33,600
+my job to make sure that we build the best product um so that um people don't want to do that and
+
+535
+00:35:33,600 --> 00:35:37,680
+that they want to stay on unity and build great games that might be true we probably won't know
+
+536
+00:35:37,680 --> 00:35:42,960
+until their next quarterly report despite all the backlash and all the pr spin from unity they
+
+537
+00:35:42,960 --> 00:35:47,280
+ultimately still aren't backing down i don't even necessarily begrudge them for wanting to make a
+
+538
+00:35:47,280 --> 00:35:50,880
+bit more money they're not exactly making tons of it right now though i do know where they probably
+
+539
+00:35:50,880 --> 00:35:57,440
+could pull a few bucks we rift or essentially reduce um some job categories for total about
+
+540
+00:35:57,440 --> 00:36:03,280
+250 and of course i i feel deeply about every individual so don't get me wrong the story for
+
+541
+00:36:03,280 --> 00:36:09,120
+one person is paid so i want to be clear about whenever there's job losses and most unity users
+
+542
+00:36:09,120 --> 00:36:14,400
+do actually pay them nothing for the use of their product but they bungled this so badly it might
+
+543
+00:36:14,400 --> 00:36:19,840
+actually mean the end of unity and that means i'm probably never getting hollow knight silks on
+
+544
+00:36:19,840 --> 00:36:24,400
+god damn it all right guys that about does it for me i know i'm late to the unity story we talked
+
+545
+00:36:24,400 --> 00:36:29,520
+about it on the archcast like a month ago for example but my laziness or my my prudence has
+
+546
+00:36:29,520 --> 00:36:33,920
+paid off if you want to hear more from me naomi and i recently recorded a vlog where we watched
+
+547
+00:36:33,920 --> 00:36:38,800
+the classic film they live in theaters click on the link on screen and i'll see you over there
+
+548
+00:36:38,800 --> 00:36:40,640
+have a good one guys i love you
+
