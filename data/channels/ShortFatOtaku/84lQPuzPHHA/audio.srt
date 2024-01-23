@@ -1,0 +1,1376 @@
+1
+00:00:00,000 --> 00:00:17,760
+So, I've been playing Elden Ring on the gaming channel with my editor and lackey Dave recently.
+
+2
+00:00:17,760 --> 00:00:19,880
+Yeah, that thumbnail's a work of art, I know.
+
+3
+00:00:19,880 --> 00:00:22,000
+The comment section is right down there, tell me about it.
+
+4
+00:00:22,000 --> 00:00:23,000
+And you know what?
+
+5
+00:00:23,000 --> 00:00:24,000
+It's actually a pretty good game.
+
+6
+00:00:24,000 --> 00:00:27,760
+The combat is exactly the way that a Souls-like game should be, though to be honest, the summons
+
+7
+00:00:27,760 --> 00:00:29,880
+make things a bit too easy sometimes.
+
+8
+00:00:29,880 --> 00:00:34,160
+The dungeons you can find throughout the game feel exactly like an area in Dark Souls.
+
+9
+00:00:34,160 --> 00:00:37,620
+The bosses all have that same feel, the lore, it's all just great.
+
+10
+00:00:37,620 --> 00:00:41,160
+The addition of an open world feels a bit disjointed, I'm not going to lie, but for
+
+11
+00:00:41,160 --> 00:00:43,060
+what it is, it's done very well.
+
+12
+00:00:43,060 --> 00:00:47,300
+Open worlds in games always feel empty, because, well, they are.
+
+13
+00:00:47,300 --> 00:00:51,240
+The reason most open world games are set in a post-apocalypse is because it's an easy
+
+14
+00:00:51,240 --> 00:00:54,440
+excuse to not fill the world out with people and stuff to do.
+
+15
+00:00:54,440 --> 00:00:57,960
+Don't get me wrong, games like Fallout or Breath of the Wild have stuff to discover
+
+16
+00:00:57,960 --> 00:01:02,920
+in their sandboxes, and those are great games, but generally open worlds, due to this emptiness,
+
+17
+00:01:02,920 --> 00:01:06,060
+make the player feel like they're actually the last person on Earth, running around a
+
+18
+00:01:06,060 --> 00:01:07,960
+depopulated landscape.
+
+19
+00:01:07,960 --> 00:01:10,160
+Sometimes this fits the setting well, like with Fallout.
+
+20
+00:01:10,160 --> 00:01:13,060
+Other times it goes against the conventions of the franchise, like Zelda.
+
+21
+00:01:13,060 --> 00:01:15,320
+But with Elden Ring, it's a perfect pairing.
+
+22
+00:01:15,320 --> 00:01:19,400
+Souls games, lore-wise, always have this general idea that you're fucked.
+
+23
+00:01:19,400 --> 00:01:21,160
+The entire world's fucked, and you've got to fix it.
+
+24
+00:01:21,160 --> 00:01:25,840
+The land has fallen into decay, the civilization is crumbling, and the few friendly creatures
+
+25
+00:01:25,840 --> 00:01:29,360
+that are still left are just subsisting within its rotting corpse.
+
+26
+00:01:29,360 --> 00:01:31,560
+The only hope is that you can rejuvenate the whole thing.
+
+27
+00:01:31,560 --> 00:01:34,800
+It's not like Fallout, where the land might be fucked, but there's a lot of good healthy
+
+28
+00:01:34,800 --> 00:01:35,800
+people still running around.
+
+29
+00:01:35,800 --> 00:01:39,200
+It's not like a zombie setting, where the people are fucked, but infrastructure is still
+
+30
+00:01:39,200 --> 00:01:40,920
+kind of intact, at least at the start.
+
+31
+00:01:40,920 --> 00:01:45,920
+In Souls games, the story generally is that reality itself is fucked on some fundamental
+
+32
+00:01:45,920 --> 00:01:46,920
+level.
+
+33
+00:01:46,920 --> 00:01:50,560
+Everyone and everything is cursed, including yourself, but you need to march on if there's
+
+34
+00:01:50,560 --> 00:01:52,060
+going to be any hope of fixing it.
+
+35
+00:01:52,060 --> 00:01:55,120
+The open world of Elden Ring perfectly compliments this feeling.
+
+36
+00:01:55,120 --> 00:01:59,520
+The UI is sparse, no quest log, no mini-map, a compass of only limited usefulness.
+
+37
+00:01:59,520 --> 00:02:03,120
+You're dropped into the world with a general idea of where to go, Stormveil Castle, and
+
+38
+00:02:03,120 --> 00:02:08,400
+the most direct route, while nearby, is guarded by a punishingly hard boss, Margit the Fel.
+
+39
+00:02:08,400 --> 00:02:11,520
+If you're good at the game, you can beat him right out the gate, but the game expects you
+
+40
+00:02:11,520 --> 00:02:12,740
+to search the area.
+
+41
+00:02:12,740 --> 00:02:17,040
+There are bosses right out in the open, like that mounted golden knight guy or the dragon
+
+42
+00:02:17,040 --> 00:02:21,500
+you fight on horseback, that drop a lot of experience, as well as unique powerful items.
+
+43
+00:02:21,500 --> 00:02:25,760
+There are also mini-dungeons to discover and explore, not marked on the map, containing
+
+44
+00:02:25,760 --> 00:02:27,900
+treasure and the opportunity to get stronger.
+
+45
+00:02:27,900 --> 00:02:29,700
+In other words, the game doesn't hold your hand.
+
+46
+00:02:29,700 --> 00:02:33,460
+It gives you a goal that you probably can't accomplish, a world full of things to discover
+
+47
+00:02:33,460 --> 00:02:37,860
+that will incrementally move you closer towards that goal, and then says, have at it.
+
+48
+00:02:37,860 --> 00:02:42,220
+That type of game design really helps hammer home the everything and everyone is fucked
+
+49
+00:02:42,220 --> 00:02:44,180
+feeling from this genre of game.
+
+50
+00:02:44,180 --> 00:02:49,540
+So is anybody surprised that the NPCs who make up Western game development raged at
+
+51
+00:02:49,540 --> 00:02:52,700
+Elden Ring's success, and at the gamers who enjoy it?
+
+52
+00:02:52,700 --> 00:02:55,840
+Here is a public conversation on Twitter between several developers.
+
+53
+00:02:55,840 --> 00:03:00,340
+One of them is an Ubisoft dev, another is a programmer, and the third one is from Guerrilla
+
+54
+00:03:00,340 --> 00:03:02,460
+Games, the people who made Horizon Zero Dawn.
+
+55
+00:03:02,460 --> 00:03:07,660
+The fact that Elden Ring scored a 97 on Metacritic is proof that reviewers don't give a flaming
+
+56
+00:03:07,660 --> 00:03:13,280
+poop about game user experience, nor PC graphics stability and performance apparently, nor
+
+57
+00:03:13,280 --> 00:03:14,600
+quest design really.
+
+58
+00:03:14,600 --> 00:03:18,540
+This exchange went viral because it showed just how out of touch these people are with
+
+59
+00:03:18,540 --> 00:03:20,620
+what gamers actually want.
+
+60
+00:03:20,620 --> 00:03:25,100
+Somebody made this mockup of what these people think a good user experience is, and this
+
+61
+00:03:25,100 --> 00:03:28,060
+looks exactly like the trash these people put out.
+
+62
+00:03:28,060 --> 00:03:32,580
+The screen is cluttered with shit, constant popups and alerts of nearby objectives or
+
+63
+00:03:32,580 --> 00:03:37,100
+quests, button prompts are everywhere, the character uselessly narrating to nobody, and
+
+64
+00:03:37,100 --> 00:03:39,000
+of course, microtransactions.
+
+65
+00:03:39,000 --> 00:03:42,220
+This was the kind of thing we memed about on V over a decade ago.
+
+66
+00:03:42,220 --> 00:03:43,540
+No really, this was the meme.
+
+67
+00:03:43,540 --> 00:03:47,100
+The guy from Guerrilla ended up locking his account over the whole thing, because he really
+
+68
+00:03:47,100 --> 00:03:51,420
+showed his ass in this conversation, worse than when he made Alloy look like Nakato Avocado.
+
+69
+00:03:51,420 --> 00:03:55,840
+The original poster, meanwhile, also stated that the user experience is generally awful,
+
+70
+00:03:55,840 --> 00:03:58,660
+nothing feels intentional or playtested.
+
+71
+00:03:58,660 --> 00:04:00,700
+What an awful take.
+
+72
+00:04:00,700 --> 00:04:06,860
+Before joining Ubisoft, this guy actually worked on the UI for Battlefield 2042, a game
+
+73
+00:04:06,860 --> 00:04:09,920
+made by EA, and look at this hideous garbage.
+
+74
+00:04:09,920 --> 00:04:12,580
+Can you tell if these settings in the menu are on or off?
+
+75
+00:04:12,580 --> 00:04:16,540
+The color inverts when you move your cursor off the selection, so it seems like it should
+
+76
+00:04:16,540 --> 00:04:18,940
+have been on, but it's actually off when you move it away.
+
+77
+00:04:18,940 --> 00:04:22,940
+If you have to like, select it, and then move away and stare at it a bit, and then test
+
+78
+00:04:22,940 --> 00:04:26,100
+it in the game, you have failed at making your UI.
+
+79
+00:04:26,100 --> 00:04:30,540
+But this controversy rapidly expanded beyond Elden Ring, or its difficulty, or the quality
+
+80
+00:04:30,540 --> 00:04:31,540
+of its UI.
+
+81
+00:04:31,540 --> 00:04:35,660
+It very quickly became about hating Japanese games and Japanese game devs.
+
+82
+00:04:35,660 --> 00:04:39,980
+Not being able to equip armor from the inventory and having to go into the equipment tab is
+
+83
+00:04:39,980 --> 00:04:41,500
+its own level of hell.
+
+84
+00:04:41,500 --> 00:04:46,320
+All From Software games and IMO almost all Japanese games have a UI problem.
+
+85
+00:04:46,320 --> 00:04:49,440
+Could it be a difference in usability, mental model, across regions?
+
+86
+00:04:49,440 --> 00:04:53,060
+That last sentence is a woke way of saying Japanese people fundamentally think differently
+
+87
+00:04:53,060 --> 00:04:54,060
+from us.
+
+88
+00:04:54,060 --> 00:04:55,720
+And he doesn't want to sound like a racist so he says it like that.
+
+89
+00:04:55,720 --> 00:05:00,580
+This is the mother of all reasons why I just can't get myself to try most Japanese games.
+
+90
+00:05:00,580 --> 00:05:03,540
+You can instantly recognize the style and it puts me off.
+
+91
+00:05:03,540 --> 00:05:06,840
+Dark Souls revolutionized games, in the sense that instead of a story, now you can just
+
+92
+00:05:06,840 --> 00:05:11,820
+have some guy with a big sword named Myrmidon of loss, who gasps ZANDIBART FORGIVE ME when
+
+93
+00:05:11,820 --> 00:05:16,280
+he dies and then 20 YouTubers will make an hour long video about how deep your lore is.
+
+94
+00:05:16,280 --> 00:05:18,640
+In this anti-Japanese thing, it's not a new sentiment.
+
+95
+00:05:18,640 --> 00:05:22,120
+Here's Phil Fish in 2015 saying the same damn thing.
+
+96
+00:05:22,120 --> 00:05:25,360
+What do you think about recent Japanese games?
+
+97
+00:05:25,360 --> 00:05:28,320
+Is it what is about Japanese games that inspired us?
+
+98
+00:05:28,320 --> 00:05:29,320
+Recent?
+
+99
+00:05:29,320 --> 00:05:30,320
+Recent?
+
+100
+00:05:30,320 --> 00:05:31,320
+I'm sorry.
+
+101
+00:05:31,320 --> 00:05:32,320
+They suck.
+
+102
+00:05:32,320 --> 00:05:33,320
+I'm sorry.
+
+103
+00:05:33,320 --> 00:05:42,400
+You guys need to get with the times and make better interfaces and update your technology.
+
+104
+00:05:42,400 --> 00:05:43,840
+We're totally kicking your ass.
+
+105
+00:05:43,840 --> 00:05:49,600
+Hey Phil, what have you done since Fez?
+
+106
+00:05:49,600 --> 00:05:53,480
+You know that game that won Indie Game of the Year twice in two different years, completely
+
+107
+00:05:53,480 --> 00:05:56,860
+against the rules of the contest, and the second time it happened, it was because the
+
+108
+00:05:56,860 --> 00:05:59,520
+judges were also investors in your company?
+
+109
+00:05:59,520 --> 00:06:04,520
+And then when I made a video exposing it back in 2014, you sent me a cease and desist letter?
+
+110
+00:06:04,520 --> 00:06:05,840
+Yeah, that video is still up.
+
+111
+00:06:05,840 --> 00:06:06,840
+Fuck you.
+
+112
+00:06:06,840 --> 00:06:07,840
+You're a has-been.
+
+113
+00:06:07,840 --> 00:06:10,820
+But frankly, this all just seems like anger that Western devs don't get the same love
+
+114
+00:06:10,820 --> 00:06:12,080
+as Japanese devs.
+
+115
+00:06:12,080 --> 00:06:13,080
+Except they do.
+
+116
+00:06:13,320 --> 00:06:15,440
+There's many Western games with cult followings.
+
+117
+00:06:15,440 --> 00:06:17,900
+There's many Western games with blowout sales.
+
+118
+00:06:17,900 --> 00:06:20,760
+Ghost of Tsushima is literally the inverse of Dark Souls.
+
+119
+00:06:20,760 --> 00:06:24,240
+A Japanese game by a Western dev instead of a Western game by a Japanese dev.
+
+120
+00:06:24,240 --> 00:06:26,160
+And for all of its faults, it's loved.
+
+121
+00:06:26,160 --> 00:06:30,480
+Hollow Knight, one of my personal favorites, does the Dark Souls fallen world full of environmental
+
+122
+00:06:30,480 --> 00:06:32,840
+storytelling thing better than Dark Souls does.
+
+123
+00:06:32,840 --> 00:06:35,080
+And it's made by a Western indie studio.
+
+124
+00:06:35,080 --> 00:06:37,440
+The issue isn't Japanese versus Western.
+
+125
+00:06:37,440 --> 00:06:42,180
+The issue is letting your games setting, the environment, the style, breathe a little bit
+
+126
+00:06:42,180 --> 00:06:44,200
+rather than just doing this.
+
+127
+00:06:44,200 --> 00:06:45,240
+So how'd we get here?
+
+128
+00:06:45,240 --> 00:06:48,620
+Why is there such a drastic divide between these big-name developers and the people who
+
+129
+00:06:48,620 --> 00:06:50,140
+they make games for?
+
+130
+00:06:50,140 --> 00:06:54,100
+Well part of the reason I went over already in my G4 Frost Curin video.
+
+131
+00:06:54,100 --> 00:06:58,320
+These people don't like gamers because gamers are, frankly, very different from them.
+
+132
+00:06:58,320 --> 00:06:59,320
+Gamers are edgier.
+
+133
+00:06:59,320 --> 00:07:00,780
+They enjoy edgier humor.
+
+134
+00:07:00,780 --> 00:07:04,860
+Game advertisements from the 90s and 2000s had no problem embracing that aspect of gaming
+
+135
+00:07:04,860 --> 00:07:06,100
+culture for example.
+
+136
+00:07:06,100 --> 00:07:09,020
+Downstream from this, gamers are very anti-censorship.
+
+137
+00:07:09,020 --> 00:07:12,140
+They didn't tolerate Jack Thompson censoring their games from the right and they don't
+
+138
+00:07:12,140 --> 00:07:14,900
+like these woke scolds censoring them from the left now.
+
+139
+00:07:14,900 --> 00:07:18,740
+The fact that things that were considered perfectly fine when I was a kid are now being
+
+140
+00:07:18,740 --> 00:07:23,820
+censored by a new generation of Puritans is a hint that we might be regressing as a society.
+
+141
+00:07:23,820 --> 00:07:28,160
+But more importantly is that gamers are competitive and competition flies directly in the face
+
+142
+00:07:28,160 --> 00:07:32,540
+of the everybody is equal, everybody gets a participation trophy, everybody is safe,
+
+143
+00:07:32,540 --> 00:07:35,620
+nobody is challenge mentality of the broader left right now.
+
+144
+00:07:35,620 --> 00:07:38,780
+And yes I'm not talking about liberals, I'm talking about progressives who coddle
+
+145
+00:07:38,780 --> 00:07:40,620
+and socialists who equalize.
+
+146
+00:07:40,620 --> 00:07:44,780
+The number of stories that people post on social media about how they were a young impressionable
+
+147
+00:07:44,780 --> 00:07:48,560
+gamer once and they were once part of the alt-right because of video games and now they
+
+148
+00:07:48,560 --> 00:07:53,180
+see their younger siblings or cousins playing games and smack talking in League of Legends
+
+149
+00:07:53,180 --> 00:07:57,380
+and getting too competitive to ever become leftoids has to be in the millions.
+
+150
+00:07:57,380 --> 00:08:01,300
+Every time one of these stories is put out there, usually in like a 30 tweet thread,
+
+151
+00:08:01,300 --> 00:08:05,520
+it gets tons of shares and likes from people who just want their biases confirmed.
+
+152
+00:08:05,520 --> 00:08:09,040
+That gamerism and leftism are mutually exclusive and that's that.
+
+153
+00:08:09,040 --> 00:08:10,040
+And you know what?
+
+154
+00:08:10,040 --> 00:08:12,560
+I've been thinking about this for a little bit and on some level that actually might
+
+155
+00:08:12,560 --> 00:08:13,800
+be correct.
+
+156
+00:08:13,800 --> 00:08:17,200
+It's true that a healthy competitive spirit and socialism are at odds with one another
+
+157
+00:08:17,200 --> 00:08:19,360
+on some fundamental level but it's more than that.
+
+158
+00:08:19,360 --> 00:08:23,280
+Here's an article from 2018, how video games are fueling the rise of the far right.
+
+159
+00:08:23,280 --> 00:08:26,520
+It's obviously a ridiculous title but I'm coming around to the idea that video games
+
+160
+00:08:26,520 --> 00:08:31,420
+absolutely fuel anti-leftism, not necessarily pro-rightism, just anti-leftism.
+
+161
+00:08:31,420 --> 00:08:35,480
+This guy, of course, links Trump and 4chan and gamergate and gamers together, claiming
+
+162
+00:08:35,480 --> 00:08:38,060
+that gamers and gamer culture recruits for the right.
+
+163
+00:08:38,060 --> 00:08:41,140
+But I do think that these things recruit for the not left.
+
+164
+00:08:41,140 --> 00:08:45,440
+And the not left isn't just the right, it's also the center and the politically unaligned.
+
+165
+00:08:45,440 --> 00:08:50,180
+These spaces are places that allow edgy humor, while the left is very padded corners about
+
+166
+00:08:50,180 --> 00:08:51,180
+comedy.
+
+167
+00:08:51,180 --> 00:08:53,260
+They foster competition, while the left favors equality.
+
+168
+00:08:53,260 --> 00:08:57,340
+And really gaming, actually playing a game at a high level of skill, generally favors
+
+169
+00:08:57,340 --> 00:09:02,620
+an intuitional mindset, while the left routinely ignores intuition and instead relies on pure
+
+170
+00:09:02,620 --> 00:09:03,620
+reason.
+
+171
+00:09:03,620 --> 00:09:06,220
+Right wing ideologies have been overrepresented and dominant throughout the history of video
+
+172
+00:09:06,220 --> 00:09:07,220
+games.
+
+173
+00:09:07,220 --> 00:09:11,300
+Although affected by context, video games have long focused on the expulsion of aliens,
+
+174
+00:09:11,300 --> 00:09:16,420
+space invaders to XCOM, fear of impure infection, half-life to the last of us, border control,
+
+175
+00:09:16,420 --> 00:09:20,820
+missile commander to Plants vs. Zombies, territory acquisition, command and conquer to Splatoon,
+
+176
+00:09:20,820 --> 00:09:24,660
+empire building, civilization to Tropico, princess recovery, Mario to Zelda, and the
+
+177
+00:09:24,660 --> 00:09:27,340
+restoration of natural harmony, Sonic to Farmville.
+
+178
+00:09:27,340 --> 00:09:31,380
+The issue is, this person is describing positive things about the right.
+
+179
+00:09:31,380 --> 00:09:32,820
+These are virtues.
+
+180
+00:09:32,820 --> 00:09:35,940
+Rescuing a person in distress, even if she's a girl, is good.
+
+181
+00:09:35,940 --> 00:09:38,900
+Border control and expulsion of invaders is good.
+
+182
+00:09:38,900 --> 00:09:40,540
+Restoration of natural harmony is good.
+
+183
+00:09:40,540 --> 00:09:45,100
+In fact, the left even agrees this stuff is good, from environmental activists to native
+
+184
+00:09:45,100 --> 00:09:46,460
+rights movements.
+
+185
+00:09:46,460 --> 00:09:51,180
+Video games put the user to work on an instinctual level, making the gamer feel impulsive agreement
+
+186
+00:09:51,180 --> 00:09:52,540
+with these ideologies.
+
+187
+00:09:52,540 --> 00:09:56,260
+Being Resident Evil is not equivalent to watching the movie, because the controller-wielding
+
+188
+00:09:56,260 --> 00:10:00,900
+gamer experiences the desires of the game as their own desires, not as the desires of
+
+189
+00:10:00,900 --> 00:10:01,900
+another.
+
+190
+00:10:01,900 --> 00:10:05,980
+The psychoanalyst Jacques Lacan distinguished between drives and instincts.
+
+191
+00:10:05,980 --> 00:10:09,740
+While instincts come from within us, drives occur when political forces propel us in certain
+
+192
+00:10:09,740 --> 00:10:10,740
+directions.
+
+193
+00:10:10,740 --> 00:10:15,500
+In these terms, video games are drives masquerading as instincts, naturalizing right-wing ideologies
+
+194
+00:10:15,500 --> 00:10:19,660
+in a way that other media can't by offering its users the chance to experience them on
+
+195
+00:10:19,660 --> 00:10:20,660
+a personal level.
+
+196
+00:10:20,660 --> 00:10:23,740
+This is actually, post-modernism aside, a true passage.
+
+197
+00:10:23,740 --> 00:10:28,180
+This person is describing a whole section of the human condition that the left has abandoned.
+
+198
+00:10:28,180 --> 00:10:32,260
+What's actually going on here, is that video games are showing why these instincts, not
+
+199
+00:10:32,260 --> 00:10:34,580
+drives, fuck Lacan, have some merit.
+
+200
+00:10:34,580 --> 00:10:38,220
+They're letting players experience things in a simulated first-hand way, so that they
+
+201
+00:10:38,220 --> 00:10:42,100
+may better understand those things on a deeper level, rather than simply being told what
+
+202
+00:10:42,100 --> 00:10:43,100
+to think.
+
+203
+00:10:43,100 --> 00:10:46,840
+Again, it's intuitively knowing something through experience, rather than rationalistically
+
+204
+00:10:46,840 --> 00:10:48,800
+reading the theory of that thing.
+
+205
+00:10:48,800 --> 00:10:50,000
+And we know this is true.
+
+206
+00:10:50,000 --> 00:10:51,680
+That's what game feel is.
+
+207
+00:10:51,680 --> 00:10:56,280
+The idea that your mind and the controller kind of merge when you're playing a game,
+
+208
+00:10:56,280 --> 00:10:59,800
+and moving the character on the screen becomes as natural as walking around.
+
+209
+00:10:59,800 --> 00:11:00,800
+That's game feel.
+
+210
+00:11:00,800 --> 00:11:04,560
+That's a component of game feel, and it's an intuitional process, not a rational one.
+
+211
+00:11:04,560 --> 00:11:07,880
+And on some level, we know that this is all true, because we have a very public example
+
+212
+00:11:07,880 --> 00:11:11,680
+of a game that goes against intuition, and that is The Last of Us 2.
+
+213
+00:11:11,680 --> 00:11:17,720
+The game tries very, very hard to put forward this, both sides are equal, revenge is bad
+
+214
+00:11:17,720 --> 00:11:18,720
+story.
+
+215
+00:11:19,640 --> 00:11:22,520
+Everybody liked Ellie, because Ellie was a part of the first game.
+
+216
+00:11:22,520 --> 00:11:26,160
+She was what made the first game, in fact, her relationship with Joel.
+
+217
+00:11:26,160 --> 00:11:29,520
+Nobody wanted to cheer for Abby, nobody cared about Abby's side of the story.
+
+218
+00:11:29,520 --> 00:11:34,560
+But the game forced that on the player, and anybody who actually played that game, and
+
+219
+00:11:34,560 --> 00:11:38,720
+isn't just an establishment shill, will tell you, in different words, but they'll mean
+
+220
+00:11:38,720 --> 00:11:44,040
+the same thing, that playing as Abby, and doing things against Ellie's interest, felt
+
+221
+00:11:44,040 --> 00:11:45,600
+counter to their intuition.
+
+222
+00:11:45,600 --> 00:11:48,920
+In general, this article is actually kind of correct, but where the author writes things
+
+223
+00:11:48,920 --> 00:11:51,220
+as negatives, I think they're actually positives.
+
+224
+00:11:51,220 --> 00:11:55,560
+It's not that gaming is explicitly right-leaning, it's just explicitly not left-leaning, and
+
+225
+00:11:55,560 --> 00:11:57,780
+that there's more to politics than just right and left.
+
+226
+00:11:57,780 --> 00:12:01,620
+The effect he's appealing to here does exist, that doesn't mean that gaming is a pipeline
+
+227
+00:12:01,620 --> 00:12:05,960
+to white nationalism or whatever, it simply means that gamers are generally more immunized
+
+228
+00:12:05,960 --> 00:12:08,760
+than your average person, against socialist subversion.
+
+229
+00:12:08,760 --> 00:12:12,160
+So that explains the gamer side of the gamer-developer divide.
+
+230
+00:12:12,160 --> 00:12:13,160
+But what about the developer side?
+
+231
+00:12:13,160 --> 00:12:14,160
+How'd we get here?
+
+232
+00:12:14,200 --> 00:12:16,080
+Well, just look at the state of game dev.
+
+233
+00:12:16,080 --> 00:12:19,840
+There's sexual assault allegations at the wazoo, constant crunch and layoffs, attempts
+
+234
+00:12:19,840 --> 00:12:24,000
+to unionize that either go bust, or massively harm the company they're working for.
+
+235
+00:12:24,000 --> 00:12:27,960
+The industry's got institutional problems, at least insofar as AAA is concerned.
+
+236
+00:12:27,960 --> 00:12:30,260
+Way more to cover in this video, but it's not just that.
+
+237
+00:12:30,260 --> 00:12:34,480
+Look at the people inside these institutions, look at how they treat what they've inherited.
+
+238
+00:12:34,480 --> 00:12:37,440
+Let me give you a rapid-fire of a bunch of shit, cause there's just too much of it to
+
+239
+00:12:37,440 --> 00:12:38,440
+go over.
+
+240
+00:12:38,440 --> 00:12:41,600
+Ubisoft's controversy about Assassin's Creed Odyssey in 2019, Wokes Gold's complained
+
+241
+00:12:41,600 --> 00:12:45,320
+that the player was forced into a heterosexual relationship, which made sense in the lore
+
+242
+00:12:45,320 --> 00:12:50,200
+of the game, because the past in Assassin's Creed, in this case Ancient Greece, is a simulation
+
+243
+00:12:50,200 --> 00:12:54,540
+by the Animus Machine, created by reading the DNA of a presently alive person, which
+
+244
+00:12:54,540 --> 00:12:57,120
+contains the genetic memory of their ancestors.
+
+245
+00:12:57,120 --> 00:13:00,500
+If the character in Odyssey was gay, they wouldn't have reproduced, and their genetic
+
+246
+00:13:00,500 --> 00:13:02,280
+memory wouldn't exist today.
+
+247
+00:13:02,280 --> 00:13:06,860
+Lore just doesn't matter though nowadays, and Ubisoft added gay relationships in a DLC,
+
+248
+00:13:06,860 --> 00:13:10,920
+with probably the dumbest of the Wokes Golds saying, this is an important first step towards
+
+249
+00:13:10,920 --> 00:13:12,320
+mitigating the damage.
+
+250
+00:13:12,320 --> 00:13:13,820
+The damage of a video game?
+
+251
+00:13:13,820 --> 00:13:16,060
+The damage to their stocks more like it.
+
+252
+00:13:16,060 --> 00:13:19,360
+Dead or Alive advertisement running on an Evo stream, also in 2019.
+
+253
+00:13:19,360 --> 00:13:23,640
+Dead or Alive 6 features female characters who were attractive, which Wokes Gold's found
+
+254
+00:13:23,640 --> 00:13:24,640
+to be problematic.
+
+255
+00:13:24,640 --> 00:13:29,000
+The ad itself contained two attractive Japanese women making jokes about jiggle physics in
+
+256
+00:13:29,000 --> 00:13:31,480
+video games, pointing to their own boobs.
+
+257
+00:13:31,480 --> 00:13:36,780
+Evo apologized and ended the stream early to quote, protect the integrity of their brand.
+
+258
+00:13:36,780 --> 00:13:41,500
+After the failure of Mass Effect Andromeda, the developers left EA to form their own indie
+
+259
+00:13:41,500 --> 00:13:43,260
+studio, also in 2019.
+
+260
+00:13:43,260 --> 00:13:47,380
+It's called Brass Lion Entertainment, and it's focused on creating original fictional
+
+261
+00:13:47,380 --> 00:13:52,380
+universes that center on black, brown, and other marginalized characters, cultures, and
+
+262
+00:13:52,380 --> 00:13:53,380
+stories.
+
+263
+00:13:53,380 --> 00:13:57,500
+Despite being funded and three years of development time, nothing has come out of Brass Lion Entertainment
+
+264
+00:13:57,500 --> 00:13:58,500
+yet.
+
+265
+00:13:58,500 --> 00:14:03,460
+Their website lists one unannounced action RPG and one other project, called Corner Wolves,
+
+266
+00:14:03,460 --> 00:14:06,980
+which was due to launch in 2021 as a narrative fictional PODCAST.
+
+267
+00:14:06,980 --> 00:14:09,020
+Not a game, but a podcast.
+
+268
+00:14:09,020 --> 00:14:12,220
+Well it's 2021 on their website, but it's 2020 on their Twitter.
+
+269
+00:14:12,220 --> 00:14:16,660
+It's still not out yet though, THQ Nordic hosted an AMA on 8chan at one point.
+
+270
+00:14:16,660 --> 00:14:21,940
+The GM of Microsoft Studios took the opportunity to publicly pressure THQ Nordic on Twitter.
+
+271
+00:14:21,940 --> 00:14:27,740
+A developer at DICE over on Reset Era instigated the brigading of that community towards THQ
+
+272
+00:14:27,740 --> 00:14:28,740
+Nordic.
+
+273
+00:14:28,740 --> 00:14:33,060
+Major video game publishers use social media to get their followers to perform witch hunts
+
+274
+00:14:33,060 --> 00:14:34,300
+against their competitors.
+
+275
+00:14:34,300 --> 00:14:38,660
+Diadelic Entertainment, the creator of the Deponia series, posted this with the hashtag
+
+276
+00:14:38,660 --> 00:14:40,180
+refugees welcome.
+
+277
+00:14:40,180 --> 00:14:41,180
+What the shit is this?
+
+278
+00:14:41,180 --> 00:14:46,180
+This is like a 10 year old simultaneously making EU migrant propaganda and foot fetish
+
+279
+00:14:46,180 --> 00:14:47,180
+pictures.
+
+280
+00:14:47,180 --> 00:14:50,980
+Mortal Kombat, a game series known for its ridiculous over the top amounts of violence,
+
+281
+00:14:50,980 --> 00:14:55,760
+saw the female characters in its latest entry, Mortal Kombat 11, purposefully desexualized
+
+282
+00:14:55,760 --> 00:14:59,660
+for woke reasons, despite all of the, you know, obvious violence.
+
+283
+00:14:59,660 --> 00:15:03,940
+Complaints on their Steam page and forms were immediately cracked down on.
+
+284
+00:15:03,940 --> 00:15:07,420
+Rivet from the new Ratchet and Clank game is apparently problematic because she has
+
+285
+00:15:07,420 --> 00:15:11,500
+the tiniest bit of a feminine looking figure, even though it's a fucking space rat furry
+
+286
+00:15:11,500 --> 00:15:15,020
+whatever, and the person who modelled her character has no problem telling you about
+
+287
+00:15:15,020 --> 00:15:19,460
+how the voices of trans people were ignored by higher ups when the game was being created.
+
+288
+00:15:19,460 --> 00:15:21,700
+Even though, look at her, there's nothing wrong with this.
+
+289
+00:15:21,700 --> 00:15:24,900
+In fact, people thought Rivet was trans before the game came out.
+
+290
+00:15:24,900 --> 00:15:29,380
+The issue is, the institution of game development is full of progressives.
+
+291
+00:15:29,380 --> 00:15:33,780
+People who cry over every little fucking thing, who take every moment to point out the tiniest
+
+292
+00:15:33,780 --> 00:15:37,980
+of microaggressions, and who absolutely hate the people who pay their bills, whether that's
+
+293
+00:15:37,980 --> 00:15:39,500
+their bosses or their customers.
+
+294
+00:15:39,500 --> 00:15:43,540
+The current Elden Ring thing is just the latest in a long tradition of game devs who don't
+
+295
+00:15:43,540 --> 00:15:47,140
+know how to make a good game, getting pissy because the market has spoken, and told them
+
+296
+00:15:47,140 --> 00:15:49,180
+that people like something other than what they make.
+
+297
+00:15:49,180 --> 00:15:51,460
+Maybe that's why they want to abolish the market so fucking badly.
+
+298
+00:15:51,460 --> 00:15:52,820
+But the truth is, they just suck.
+
+299
+00:15:52,820 --> 00:15:56,940
+There's no big deep mystery behind it, the stuff they make is hot garbage, and they can't
+
+300
+00:15:56,940 --> 00:15:57,940
+compete.
+
+301
+00:15:57,940 --> 00:16:00,320
+So they're going to use their platform to complain that people like other products more
+
+302
+00:16:00,320 --> 00:16:01,320
+than what they're making.
+
+303
+00:16:01,320 --> 00:16:04,100
+Remember that big shitstorm over Steam's unparalleled market share?
+
+304
+00:16:04,100 --> 00:16:08,260
+And how Randy Pitchfork made a big public virtue signal about Borderlands being a one-year
+
+305
+00:16:08,260 --> 00:16:11,900
+Epic Games Store exclusive because he wanted Steam to be taken down a peg or two?
+
+306
+00:16:11,900 --> 00:16:16,020
+Well the reason Steam got there in the first place, is because it just does everything
+
+307
+00:16:16,020 --> 00:16:17,220
+that people want it to do.
+
+308
+00:16:17,220 --> 00:16:20,000
+No bullshit, no fuss, and really, only a few problems.
+
+309
+00:16:20,000 --> 00:16:21,140
+Steam's competitors suck.
+
+310
+00:16:21,140 --> 00:16:24,820
+They ban people for the wrong opinions on or off platform, they support awful business
+
+311
+00:16:24,820 --> 00:16:28,980
+practices, they implement bad business practices themselves, and Prague support them not because
+
+312
+00:16:28,980 --> 00:16:33,060
+they want to demonopolize Steam, but because they envision themselves as wielding that
+
+313
+00:16:33,060 --> 00:16:34,820
+power in their favor.
+
+314
+00:16:34,820 --> 00:16:37,660
+And this Elden Ring situation is just like that.
+
+315
+00:16:37,660 --> 00:16:39,860
+Elden Ring does what gamers want it to do.
+
+316
+00:16:39,860 --> 00:16:40,860
+It's popular.
+
+317
+00:16:40,860 --> 00:16:42,240
+It's the big thing on social media right now.
+
+318
+00:16:42,240 --> 00:16:46,620
+And the game devs who view their job as not creating fun or interesting games, but instead
+
+319
+00:16:46,620 --> 00:16:50,500
+as directing the flow of culture, are livid that they're being eroded around.
+
+320
+00:16:50,500 --> 00:16:53,480
+Elden Ring is a game that explicitly does not hold your hand.
+
+321
+00:16:53,480 --> 00:16:54,480
+It's punishing.
+
+322
+00:16:54,480 --> 00:16:56,240
+It requires something of you to play it.
+
+323
+00:16:56,240 --> 00:16:59,000
+Not a lot, just that you familiarize yourself with its rules.
+
+324
+00:16:59,000 --> 00:17:00,840
+It won't tell you where to go or what to do.
+
+325
+00:17:00,840 --> 00:17:05,600
+It will ask you to engage your brain and figure it out the way that older games once did.
+
+326
+00:17:05,600 --> 00:17:09,120
+And it will also demand that you learn its combat rather than simply mashing the A button
+
+327
+00:17:09,120 --> 00:17:10,120
+to win.
+
+328
+00:17:10,120 --> 00:17:13,120
+It's not toxic gamer culture that you have to play by its rules.
+
+329
+00:17:13,120 --> 00:17:14,280
+It's called getting good.
+
+330
+00:17:14,280 --> 00:17:15,840
+And getting good is part of the fun.
+
+331
+00:17:15,840 --> 00:17:19,160
+Ultimately, it's just a good dose of escapism.
+
+332
+00:17:19,160 --> 00:17:22,840
+Prague's cry about how everything's political, there's no neutral consumption, there's
+
+333
+00:17:22,840 --> 00:17:23,840
+no escapism.
+
+334
+00:17:23,840 --> 00:17:27,760
+Frankly, that just means that they're the thing that people need to escape from in the
+
+335
+00:17:27,760 --> 00:17:28,760
+first place.
+
+336
+00:17:28,760 --> 00:17:31,920
+Alright guys, that's about it for me.
+
+337
+00:17:31,920 --> 00:17:33,360
+Hope you enjoyed the video.
+
+338
+00:17:33,360 --> 00:17:37,440
+Yes, trucker video's still coming, it's a big one, I'm working on it, don't worry.
+
+339
+00:17:37,440 --> 00:17:40,360
+I'm streaming tonight on the gaming channel, that's Game Boomers.
+
+340
+00:17:40,360 --> 00:17:42,120
+You'll find us on Twitch and YouTube.
+
+341
+00:17:42,120 --> 00:17:43,120
+And you know what?
+
+342
+00:17:43,120 --> 00:17:44,560
+We're playing Elden Ring.
+
+343
+00:17:44,560 --> 00:17:45,560
+I'll see you there guys.
+
+344
+00:17:45,560 --> 00:17:46,080
+I love you.
+
