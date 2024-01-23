@@ -1,0 +1,638 @@
+WEBVTT
+
+00:00.000 --> 00:09.040
+YouTube wants to remove the downvote button on videos, again.
+
+00:09.040 --> 00:12.080
+This last came up back in 2019, and I made a video on it then.
+
+00:12.080 --> 00:15.160
+I actually recommend you go back and watch that one, because today I'm going to be building
+
+00:15.160 --> 00:17.120
+on some of the ideas from back then.
+
+00:17.120 --> 00:20.540
+But as always, because I love you a lot, I'll give you the TLDR real quick.
+
+00:20.540 --> 00:23.920
+In that video I used two then-contemporary examples.
+
+00:23.920 --> 00:28.020
+Firstly, the episode of The Orville, where the alien planet they encounter has a government
+
+00:28.020 --> 00:32.300
+run by social media votes, and secondly, the Egoraptor controversy, where he had built
+
+00:32.300 --> 00:36.300
+a career out of edgy humor, and now that he's comfortably established, wants that humor
+
+00:36.300 --> 00:39.640
+and anything else that may make people uncomfortable be banned from the internet.
+
+00:39.640 --> 00:43.420
+Both examples, as well as other smaller ones I briefly mentioned, focused on people who
+
+00:43.420 --> 00:47.500
+spend too much time on social media, to the point that dislikes and downvotes cripple
+
+00:47.500 --> 00:51.500
+their ability to behave normally, and as such, they begin to advocate for the removal of
+
+00:51.500 --> 00:55.400
+all negative feedback online, in the hopes that they will never have to experience a
+
+00:55.400 --> 00:57.100
+negative emotion ever again.
+
+00:57.100 --> 01:00.500
+And if that other people's rights had to be trampled, that was a sacrifice they were
+
+01:00.500 --> 01:01.500
+willing to pay.
+
+01:01.500 --> 01:04.980
+I referred to this point of view as having had a moral lobotomy, and it's a label that
+
+01:04.980 --> 01:06.160
+I still think fits.
+
+01:06.160 --> 01:10.820
+The always-on nature of social media, the everything-is-political, nothing-is-private
+
+01:10.820 --> 01:14.980
+progressive orientation of the online world nowadays, has created a cast of people who
+
+01:14.980 --> 01:17.780
+are constantly emoting for the sake of an audience.
+
+01:17.780 --> 01:21.260
+Everything they do is calculated and performed, with no humanity behind it.
+
+01:21.260 --> 01:25.020
+And those people who don't perform, who don't turn themselves into an object of theater
+
+01:25.020 --> 01:28.940
+during every public moment of their lives, are considered outcasts, even if they're just
+
+01:28.940 --> 01:30.280
+behaving neutrally.
+
+01:30.280 --> 01:34.360
+The specific launch point for this video is YouTube's newest announcement that the dislike
+
+01:34.360 --> 01:38.060
+button is going away, something that they toyed with in 2019 but never actually did.
+
+01:38.060 --> 01:39.320
+Here's the video where they announced it.
+
+01:39.320 --> 01:41.320
+As expected, it's got 80,000 dislikes.
+
+01:41.320 --> 01:44.560
+In that episode of The Orville, there was a guy who had so many dislikes that he was
+
+01:44.560 --> 01:49.540
+deemed socially undesirable, and had his brain altered so that he was the perfectly sanitized,
+
+01:49.540 --> 01:51.920
+always-emoting social media candidate.
+
+01:51.920 --> 01:54.280
+Let's compare his mannerisms and vocabulary to this guy.
+
+02:21.920 --> 02:27.820
+Jesus, it was a social commentary on YouTube, you're not actually supposed to turn people
+
+02:27.820 --> 02:28.820
+into this.
+
+02:28.820 --> 02:31.080
+Okay, fun aside, let's actually go through this video.
+
+02:31.080 --> 02:37.800
+Apparently groups of viewers are targeting a video's dislike button to drive up the count,
+
+02:37.800 --> 02:42.680
+turning it into something like a game with a visible scoreboard.
+
+02:42.680 --> 02:47.840
+And it's usually just because they don't like the creator or what they stand for.
+
+02:47.840 --> 02:52.160
+That's a big problem when half of YouTube's mission is to give everyone a voice.
+
+02:52.160 --> 02:54.840
+But downvotes don't deny people that voice, do they?
+
+02:54.840 --> 02:58.120
+Having a lot of downvotes doesn't mean the video is yeeted off the platform, it's still
+
+02:58.120 --> 02:59.120
+engagement.
+
+02:59.120 --> 03:02.160
+But more importantly, yes, you're describing a feature, not a flaw.
+
+03:02.160 --> 03:05.560
+When he says that the votes are used as a scoreboard in a game, that's correct, and
+
+03:05.560 --> 03:06.680
+that's how it should be.
+
+03:06.680 --> 03:09.600
+YouTube is ultimately still a place that people use for entertainment, YouTube's official
+
+03:09.600 --> 03:10.880
+party line be damned.
+
+03:10.880 --> 03:14.440
+And some of the best moments come out of when YouTubers themselves recognize the game, and
+
+03:14.440 --> 03:17.320
+ask for their fans to test the limits of YouTube's features.
+
+03:17.320 --> 03:19.760
+I literally just want to try something.
+
+03:19.760 --> 03:23.800
+If everybody, okay, everybody who's watching this, no I'm serious, I'm fucking serious,
+
+03:23.800 --> 03:27.240
+if you have a YouTube account and you're watching this, comment something, anything.
+
+03:27.240 --> 03:32.520
+I just want to see, um, like, how comments work on like the rankings.
+
+03:32.520 --> 03:38.120
+I legitimately just like want to see, like, what if we get like 90 fucking thousand comments?
+
+03:38.120 --> 03:41.080
+Like everybody, just for fun, I'm doing this seriously just as a test.
+
+03:41.080 --> 03:44.320
+To see if it like, if it makes us appear on like the front page.
+
+03:44.320 --> 03:47.520
+Or like, and like, just to see if YouTube is like, checks us like, what the fuck's going
+
+03:47.520 --> 03:48.520
+on here?
+
+03:48.520 --> 03:50.900
+Like, let's see how many comments we can get on YouTube.
+
+03:50.900 --> 03:56.160
+The update from YouTube is that the dislike button is staying, but the dislike counts
+
+03:56.160 --> 03:58.820
+will now be private.
+
+03:58.820 --> 04:03.960
+You can still dislike videos and that action will be used to tune your own recommendations,
+
+04:03.960 --> 04:07.240
+but you won't be able to see the dislike count.
+
+04:07.240 --> 04:10.480
+Only the creator can find it on the back end if they want.
+
+04:10.480 --> 04:13.760
+This is contrary to what they said before, where the dislike button would be going away
+
+04:13.760 --> 04:14.760
+entirely.
+
+04:14.760 --> 04:16.100
+But if it's still there, then what's the point?
+
+04:16.100 --> 04:19.320
+They claim us to protect the mental health of creators who get too many downvotes.
+
+04:19.320 --> 04:22.360
+But creators can still see these downvotes, it's only the public who can't.
+
+04:22.360 --> 04:23.600
+Do you know who this actually protects?
+
+04:23.600 --> 04:27.100
+It protects the White House, whose videos have been constantly downvoted into oblivion
+
+04:27.100 --> 04:28.640
+ever since Biden took office.
+
+04:28.640 --> 04:33.000
+It protects legacy media, who are overwhelmingly rejected in favor of alt-tech nowadays.
+
+04:33.000 --> 04:36.320
+It protects Disney and Activision Blizzard and every other shitty corporation that keeps
+
+04:36.320 --> 04:38.940
+pumping out garbage from being ridiculed for it.
+
+04:38.940 --> 04:42.960
+It protects blue checkmarks, who generally want likes, dislikes, comments, all of it
+
+04:42.960 --> 04:46.880
+disabled, on every site everywhere, so they don't have to hear from common people whenever
+
+04:46.880 --> 04:47.880
+they say something dumb.
+
+04:47.880 --> 04:51.640
+And it certainly protects those thin-skinned, older YouTubers I mentioned in the last video,
+
+04:51.640 --> 04:55.020
+who might have been edgy a decade ago, but now they're constantly disabling comments
+
+04:55.020 --> 04:56.020
+and banning people.
+
+04:56.020 --> 04:59.180
+It's not just YouTube though, every social media site is trending this way.
+
+04:59.180 --> 05:03.820
+The only emotion allowed on the internet nowadays is a shallow, vague sense of fake happiness.
+
+05:03.820 --> 05:06.200
+How many times have you seen this below a Twitter thread?
+
+05:06.200 --> 05:08.400
+Show offensive content, show offensive content, show offensive content.
+
+05:08.400 --> 05:10.560
+Never mind that none of the content is actually offensive.
+
+05:10.560 --> 05:13.480
+Hell, my Twitter page is marked as dangerous.
+
+05:13.480 --> 05:15.240
+It has been for a while, and you want to know why?
+
+05:15.240 --> 05:18.500
+It's because I've been rejecting Twitter's requests to verify my phone number.
+
+05:18.500 --> 05:19.500
+That's it.
+
+05:19.500 --> 05:20.500
+Fuck you, Twitter.
+
+05:20.500 --> 05:21.500
+But Twitter does shit like this regularly.
+
+05:21.500 --> 05:24.940
+They disable retweets and likes on stuff they say promotes violence, or goes contrary to
+
+05:24.940 --> 05:28.060
+the views of their fact-checkers, even if that's obvious bullshit.
+
+05:28.060 --> 05:31.960
+Kyle Rittenhouse's Mom's Defense Fund is suppressed by Twitter, despite him clearly
+
+05:31.960 --> 05:33.900
+being innocent and acting in self-defense.
+
+05:33.900 --> 05:36.740
+The fundraiser sites used for these types of things routinely deplatform people for
+
+05:36.740 --> 05:39.120
+no reason other than not liking their political slant.
+
+05:39.120 --> 05:42.080
+Facebook nukes whole-ass pages for the flimsiest of reasons.
+
+05:42.080 --> 05:46.040
+Hell, as the centralization of internet services has continued, Fandom, the service that provides
+
+05:46.040 --> 05:50.920
+for fan-wickies, has decided that no sexual content is allowed on any of their wiki services,
+
+05:50.920 --> 05:54.820
+even if the specific show or movie series or game series has sex in it.
+
+05:54.820 --> 05:58.800
+This is all part of the always emoting, always on mentality I mentioned before.
+
+05:58.800 --> 06:02.720
+The elites need to not only have power, but to also look like they are loving and adored
+
+06:02.720 --> 06:03.720
+by the plebs.
+
+06:03.720 --> 06:06.600
+And the plebs need to smile and say they like it every time they get raped.
+
+06:06.600 --> 06:10.240
+You're being told to love your chains, or at the very least, perform publicly like
+
+06:10.240 --> 06:14.440
+you do so that other people develop a sense of crippling self-doubt for wondering if something
+
+06:14.440 --> 06:15.440
+might be wrong.
+
+06:15.440 --> 06:19.040
+And God forbid you emote in the other direction if you perform in such a way that sheds light
+
+06:19.040 --> 06:20.360
+or makes fun of this mentality.
+
+06:20.360 --> 06:24.440
+God forbid you use memes to make fun of those in power rather than reinforce the existing
+
+06:24.440 --> 06:25.440
+structures.
+
+06:25.440 --> 06:28.840
+Recently House Rep Paul Gosar got in trouble for posting a remake of the opening of Attack
+
+06:28.840 --> 06:32.800
+on Titan, with illegal immigrants replacing the Titans, border patrol replacing the Survey
+
+06:32.800 --> 06:36.540
+Corps, Republicans replacing the main heroes, and it's a bit hard to see, but yes that
+
+06:36.540 --> 06:38.640
+is an AOC Titan being killed.
+
+06:38.640 --> 06:43.320
+It ends with Gosar himself confronting a giant oblivious Joe Biden in the place of the colossal
+
+06:43.320 --> 06:44.320
+Titan.
+
+06:44.320 --> 06:46.520
+Now this is fucking hilarious, this is shitpostygoodness.
+
+06:46.520 --> 06:48.360
+But it's memeing in the other direction.
+
+06:48.360 --> 06:49.920
+It's emoting in the other direction.
+
+06:49.920 --> 06:53.780
+It's using the equalizing nature of social media, where anyone can post anything and
+
+06:53.780 --> 06:57.320
+anybody can see it, to make fun of the powers that be rather than reinforce them.
+
+06:57.320 --> 06:59.780
+So of course the entire internet lost its fucking mind.
+
+06:59.780 --> 07:00.780
+Just like they did with Pepe.
+
+07:00.780 --> 07:02.300
+Just like they did with the okay hand symbol.
+
+07:02.300 --> 07:05.620
+Just like they did with anything that they didn't understand, but seemed to be at their
+
+07:05.620 --> 07:06.620
+expense.
+
+07:06.620 --> 07:09.240
+The journos and the corpos pearl clutched and said how dare you.
+
+07:09.240 --> 07:12.900
+Even Nancy Pelosi said this was a legitimate threat of violence and called on the ethics
+
+07:12.900 --> 07:15.500
+committee to investigate the creation of this horrific meme.
+
+07:15.500 --> 07:19.660
+And when Gosar replied with a Wojak vs Chad meme, the progressives lost their mind again.
+
+07:19.660 --> 07:22.740
+I've mentioned a few times on this channel that tyrants can tolerate people who offer
+
+07:22.740 --> 07:25.660
+serious critiques of their regimes, as long as they don't get too uppity.
+
+07:25.660 --> 07:28.380
+It's better for somebody to speak and feel as if they've been heard, because then he's
+
+07:28.380 --> 07:29.380
+less of a threat.
+
+07:29.380 --> 07:33.260
+But tyrants can never tolerate humor, because at least if he's critiqued, he's taken seriously.
+
+07:33.260 --> 07:37.540
+If he's laughed at, things only a joke, a farce, not worthy of respect or fear.
+
+07:37.540 --> 07:41.020
+A tyrant's only response to being laughed at is violence, that's why they always go
+
+07:41.020 --> 07:42.220
+for comedians first.
+
+07:42.220 --> 07:46.220
+But that idea, that view on comedy in relation to the tyrant, is another piece of this social
+
+07:46.220 --> 07:47.340
+media puzzle.
+
+07:47.340 --> 07:51.060
+Social media is that great equalizer, where everybody can see what you post, high status
+
+07:51.060 --> 07:52.060
+or low.
+
+07:52.060 --> 07:54.820
+But those with high status don't like being told that the rest of us don't like what they
+
+07:54.820 --> 07:55.820
+do.
+
+07:55.820 --> 07:58.060
+They find it offensive, because I guess if you live your life with privilege and then
+
+07:58.060 --> 08:01.220
+suddenly have to experience what it's like to be critiqued by those you look down on,
+
+08:01.220 --> 08:02.600
+you probably would feel offended.
+
+08:02.600 --> 08:06.380
+So slowly but surely, social media sites will continue to strip away tools that those with
+
+08:06.380 --> 08:08.140
+low status use to speak.
+
+08:08.140 --> 08:12.340
+Because those high status people in charge of things have realized, more often than not,
+
+08:12.340 --> 08:14.060
+those tools are used to speak dissent.
+
+08:14.060 --> 08:17.880
+In the late 90s and early 2000s, having a form or a comment section on your website
+
+08:17.880 --> 08:18.880
+meant you'd have made it.
+
+08:18.880 --> 08:20.620
+You could be a legitimate place for conversation now.
+
+08:20.620 --> 08:24.060
+Hell, even a guest book where people could leave comment to serve the same function.
+
+08:24.060 --> 08:27.340
+But now, comment sections on news articles are all but gone, because journals don't like
+
+08:27.340 --> 08:28.540
+being contradicted.
+
+08:28.540 --> 08:31.660
+Rating features are becoming more simplified or removed outright, or in the case of something
+
+08:31.660 --> 08:35.340
+like Rotten Tomatoes, repeatedly rigged to present a false air of popularity.
+
+08:35.340 --> 08:38.580
+YouTubers disabling comments on their videos is no longer considered a sign of weakness,
+
+08:38.580 --> 08:42.980
+as it should be, but instead shows them to be a victim of hate, hate from their own audience.
+
+08:42.980 --> 08:46.820
+Content warnings everywhere, fact-checking labels added to posts in real time, the inability
+
+08:46.820 --> 08:50.100
+to share content deemed problematic, it's all part of the same thing.
+
+08:50.100 --> 08:54.620
+Corpos, journos, politicians, and pearl-clutching progressives have all realized that nobody
+
+08:54.620 --> 08:55.880
+fucking likes them.
+
+08:55.880 --> 08:59.200
+Nobody wants to adhere to their rules, nobody subscribes to their vision of the future,
+
+08:59.200 --> 09:02.760
+and their solution is to restrict speech online to the point that your regular person has
+
+09:02.760 --> 09:06.160
+no choice but to either leave a smiling emoji or say nothing at all.
+
+09:06.160 --> 09:10.320
+And in fact, depending on where you live, dissenting online might actually be illegal.
+
+09:10.320 --> 09:14.080
+Old tech like Newgrounds and 4chan, along with alt-tech like Bitchute and Odyssey, remain
+
+09:14.080 --> 09:15.080
+outliers.
+
+09:15.080 --> 09:18.280
+They're more committed to free speech than mainline tech, which makes them more fun places
+
+09:18.280 --> 09:19.280
+to hang out.
+
+09:19.280 --> 09:23.280
+It also explains why they're constantly slandered as alt-right, fascist, nazi, racist, sexist,
+
+09:23.280 --> 09:25.200
+transphobic, Islamophobic, you name it, they are it.
+
+09:25.200 --> 09:29.760
+But that's the counterculture nowadays, these outside spaces, these new wild wests,
+
+09:29.760 --> 09:30.760
+where the rules are few.
+
+09:30.760 --> 09:34.140
+It's not these sanitized platforms that only serve to inject dopamine into the base
+
+09:34.140 --> 09:38.120
+of your skull until you realize you've wasted the last decade of your life doomscrolling.
+
+09:38.120 --> 09:42.500
+If your hypersensitive, hypersafe mentality is parroted by every social media platform,
+
+09:42.500 --> 09:47.360
+every corpos, nosy HR department, every nannying university's campus trust and safety council,
+
+09:47.360 --> 09:51.400
+every union, every politician, every journalist, actor, musician, or large content creator,
+
+09:51.400 --> 09:53.360
+you're not the rebellion, you're the empire.
+
+09:53.520 --> 09:55.220
+What I said before still holds true.
+
+09:55.220 --> 09:57.200
+These people are moral lobotomites.
+
+09:57.200 --> 09:59.440
+They think being good means appearing to be good.
+
+09:59.440 --> 10:01.880
+They think morality is something you perform to other people.
+
+10:01.880 --> 10:05.440
+Your moral position isn't what you believe, it isn't even what real things you do, it's
+
+10:05.440 --> 10:08.360
+how you contort yourself to fit a narrative for the purposes of an audience.
+
+10:08.360 --> 10:11.760
+To such people, the worst crime you can commit is simply refusing to go along with their
+
+10:11.760 --> 10:12.760
+theater.
+
+10:12.760 --> 10:13.760
+So, don't.
+
+10:13.760 --> 10:14.760
+Lewis, thank god.
+
+10:14.760 --> 10:15.760
+Are you alright?
+
+10:15.760 --> 10:16.760
+I am well.
+
+10:16.760 --> 10:17.760
+Don't you recognize me?
+
+10:17.760 --> 10:18.760
+It's Claire.
+
+10:19.160 --> 10:20.160
+Of course.
+
+10:20.160 --> 10:21.160
+Claire, you look healthy.
+
+10:21.160 --> 10:22.160
+And happy.
+
+10:22.160 --> 10:23.160
+Lewis, I need to know.
+
+10:23.160 --> 10:24.160
+What did they do to you?
+
+10:24.160 --> 10:25.160
+I did something terrible.
+
+10:25.160 --> 10:26.160
+And then I was corrected.
+
+10:26.160 --> 10:27.160
+I'm better now.
+
+10:27.160 --> 10:28.160
+I'm healthier.
+
+10:28.160 --> 10:28.660
+And happier.
+

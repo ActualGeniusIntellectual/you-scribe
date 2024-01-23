@@ -1,0 +1,725 @@
+WEBVTT
+
+00:00.000 --> 00:07.760
+Let's talk about Shinagami Eyes.
+
+00:07.760 --> 00:11.620
+Shinagami Eyes is a plugin, mainly known for its use on Twitter, but it does work anywhere
+
+00:11.620 --> 00:16.500
+on the internet, that highlights transphobic individuals' names in red, and trans-positive
+
+00:16.500 --> 00:17.500
+names in green.
+
+00:17.500 --> 00:19.580
+That's pretty much it, it's quite simple.
+
+00:19.580 --> 00:23.540
+But the context surrounding the name of the plugin, Shinagami Eyes, holds a lot of hidden
+
+00:23.540 --> 00:24.540
+meaning.
+
+00:24.540 --> 00:26.760
+I'll very quickly go over it because those who know don't need to be told.
+
+00:26.760 --> 00:30.360
+Death Note is a pretty good anime from 2006, it's one of those shows that everybody should
+
+00:30.360 --> 00:32.580
+watch, though as always, skip the Netflix adaptation.
+
+00:32.580 --> 00:36.720
+The TLDR is, Light Yagami is a Japanese high school student who finds a magical notebook,
+
+00:36.720 --> 00:38.000
+the titular Death Note.
+
+00:38.000 --> 00:41.380
+What makes it magical is that if you write somebody's name in the book while picturing
+
+00:41.380 --> 00:43.360
+their face in your mind, they die.
+
+00:43.360 --> 00:47.260
+Light is an athletic, attractive, charismatic super genius, who is bored with the world
+
+00:47.260 --> 00:48.880
+and views other people as beneath him.
+
+00:48.880 --> 00:52.200
+Couple that with his own very retributive sense of morality, and he decides to use the
+
+00:52.200 --> 00:56.160
+powers of the Death Note to begin to systematically kill every criminal on the planet, in order
+
+00:56.160 --> 00:57.440
+to bring about the utopia.
+
+00:57.440 --> 00:58.620
+This is where the Shinagami come in.
+
+00:58.620 --> 01:01.840
+Shinagami means Death God in Japanese, and there's a wide variety of interpretations
+
+01:01.840 --> 01:05.940
+of them in their culture, but Death Note uses them the way that we'd use Angel of Death,
+
+01:05.940 --> 01:09.760
+a being responsible for the orderliness of death, who comes for those when their time
+
+01:09.760 --> 01:11.940
+is up and brings their soul to the afterlife.
+
+01:11.940 --> 01:14.600
+The Shinagami are the owners of the Death Notes, the tools of their trade.
+
+01:14.600 --> 01:18.040
+They invisibly move about the world with the ability to see the names of people floating
+
+01:18.040 --> 01:21.740
+above their heads, along with a timer counting down the remainder of their natural life.
+
+01:21.740 --> 01:24.520
+In this way the Shinagami know whose turn it is to die.
+
+01:24.520 --> 01:28.320
+But if a human happens to acquire a Death Note, its corresponding Shinagami becomes
+
+01:28.320 --> 01:29.720
+their invisible companion.
+
+01:29.720 --> 01:33.360
+One of the perks a Shinagami might offer to their new human is the Shinagami eyes.
+
+01:33.360 --> 01:37.760
+In exchange for half of the human's remaining natural life, the human gains the power to
+
+01:37.760 --> 01:41.900
+see the world as the Shinagami do, with the names and times above everybody's heads.
+
+01:41.900 --> 01:45.240
+It sort of looks like the way Google Glass was supposed to operate, or like the scanning
+
+01:45.240 --> 01:46.680
+from the Watchdog games.
+
+01:46.680 --> 01:50.880
+And they all appeal to that same idea, that you can walk through society appearing normal
+
+01:50.880 --> 01:55.040
+while you exist half in another plane, learning people's secrets simply by looking at them.
+
+01:55.040 --> 01:58.740
+Death Note is the kind of show that came out at just the right time and was just edgy and
+
+01:58.740 --> 02:03.160
+smart enough that a lot of the terminally online trans twitter crowd nowadays absolutely
+
+02:03.160 --> 02:05.400
+worship it as part of their formative years.
+
+02:05.400 --> 02:09.960
+And so I am not surprised that they would name their transphobe detector software Shinagami
+
+02:09.960 --> 02:10.960
+Eyes.
+
+02:10.960 --> 02:13.800
+The implication that there is this secret underpinning of reality that only the special
+
+02:13.800 --> 02:17.960
+few have access to, that they can peer beyond the veil and see the truth beneath people's
+
+02:17.960 --> 02:19.840
+hearts with their unique trans powers.
+
+02:19.840 --> 02:22.780
+That shit is right up their Mary Sue special snowflake alley.
+
+02:22.780 --> 02:26.240
+Of course, how the plugin works is, there's a database of names, and people are rated
+
+02:26.240 --> 02:29.380
+by users of the app on how more or less transphobic they are.
+
+02:29.380 --> 02:33.360
+So if you see a green name, that means that people rated that person as trans positive.
+
+02:33.360 --> 02:36.880
+You see a red name, that means that people rated that person as transphobic.
+
+02:36.880 --> 02:39.320
+It's kind of like that Lulu app, if you remember that controversy.
+
+02:39.320 --> 02:41.720
+Back in 2013, the Lulu app was launched.
+
+02:41.720 --> 02:43.520
+It was a way for women to rate men.
+
+02:43.520 --> 02:46.500
+It was considered a side app to Tinder, launched in 2012.
+
+02:46.500 --> 02:50.220
+And piggybacking off that app's success, if you were a girl and you approved of meeting
+
+02:50.220 --> 02:53.880
+a guy on Tinder, you could hop over to Lulu and see what other girls thought of him.
+
+02:53.880 --> 02:58.460
+For a time, Lulu was also considered this secret exclusive network running beneath Tinder
+
+02:58.460 --> 03:00.340
+while still being an unofficial part of it.
+
+03:00.340 --> 03:04.080
+And when it finally became public knowledge, the men who were on it found it rather demeaning
+
+03:04.080 --> 03:06.300
+that they were being catalogued by their intimate partners.
+
+03:06.300 --> 03:10.320
+The resulting controversy saw Lulu fall into disuse, and the company was eventually sold
+
+03:10.320 --> 03:11.320
+off in 2016.
+
+03:11.320 --> 03:14.100
+Also, because we're not coming back to Death Note again in this video, and when the hell
+
+03:14.100 --> 03:15.100
+am I going to talk about this again?
+
+03:15.100 --> 03:20.280
+The 2019 Death Note one-shot Donald Trump as President of the United States pays one
+
+03:20.280 --> 03:25.260
+quadrillion yen to obtain a new Death Note, but declines to use it, simply opting to keep
+
+03:25.260 --> 03:26.980
+it out of China's hands.
+
+03:26.980 --> 03:27.980
+Based.
+
+03:27.980 --> 03:31.580
+So even though I'm not trans, I decided to install Shinigami eyes.
+
+03:31.580 --> 03:32.580
+Because why not?
+
+03:32.580 --> 03:35.820
+Why not see the world the way that those terminally online Twitter trans people see it?
+
+03:35.820 --> 03:37.920
+I'm sure there's going to be a few of them who screech at the idea.
+
+03:37.920 --> 03:39.220
+How dare I pop their bubble?
+
+03:39.220 --> 03:41.320
+How dare somebody like me use their tools?
+
+03:41.320 --> 03:42.320
+But uh, fuck it.
+
+03:42.320 --> 03:46.040
+Alright, here we are on Twitter.com, let's take a look at who I'm following, and who's
+
+03:46.040 --> 03:47.040
+marked what.
+
+03:47.040 --> 03:50.800
+Nothing so far, nothing so far, oh, Simpneelix.
+
+03:50.800 --> 03:53.760
+Simpneelix is the first.
+
+03:53.760 --> 03:55.000
+Why this account?
+
+03:55.000 --> 03:58.640
+Simpneelix is the first casualty as apparently being transphobic.
+
+03:58.640 --> 04:05.520
+Zachrabbit is red, Yizz, Yizz is red, again not surprised, Gamby is red, Gamby is a trans
+
+04:05.520 --> 04:06.520
+woman.
+
+04:06.520 --> 04:09.320
+Anti-fascist, rad lib content creator, trans woman.
+
+04:09.320 --> 04:14.160
+Anivelens is predictably marked as green, though keep that name in mind for later.
+
+04:14.160 --> 04:16.200
+People whining about stone toss.
+
+04:16.200 --> 04:18.600
+Even gimmick accounts aren't safe from Shinigami eyes.
+
+04:18.600 --> 04:21.320
+9V green, I wonder if all the feet pics helped him out.
+
+04:21.320 --> 04:23.200
+Riley is green, no surprise there.
+
+04:23.200 --> 04:26.320
+If you're marked as green it doesn't mean that you're just a woke scold and that's it.
+
+04:26.320 --> 04:30.280
+For green it's about 50% chance you're a woke scold, 50% chance you're actually pretty cool.
+
+04:30.280 --> 04:34.200
+The left can't meme, of course, is marked red.
+
+04:34.200 --> 04:38.440
+But then again, so is Erika, the super lesbian, I guess because she doesn't want to suck the
+
+04:38.440 --> 04:39.440
+dick bigot.
+
+04:39.440 --> 04:41.200
+She's a transphobe, alright.
+
+04:41.200 --> 04:43.200
+The Real Daily Wire, marked red.
+
+04:43.200 --> 04:44.800
+Alan Bocari, marked red.
+
+04:44.800 --> 04:47.000
+Breitbart, marked red, no surprises here.
+
+04:47.000 --> 04:48.400
+Colin Borisenko is red.
+
+04:48.400 --> 04:50.560
+I never, like is she anti-trans?
+
+04:50.560 --> 04:52.320
+I didn't think she was.
+
+04:52.320 --> 04:54.740
+Sinatra Says is red.
+
+04:54.740 --> 04:55.840
+What did Sinatra do?
+
+04:55.840 --> 04:58.200
+Zuby's red, there's no surprises there.
+
+04:58.200 --> 04:59.200
+Hold on, hold on, hold on.
+
+04:59.200 --> 05:03.160
+Babylon Bee is red?
+
+05:03.160 --> 05:04.160
+Are they a comedy say?
+
+05:04.160 --> 05:05.680
+Aren't they news parody?
+
+05:05.680 --> 05:11.520
+Pink Spot, that's Jordan Peterson's attempt to make a social media platform, right?
+
+05:11.520 --> 05:13.720
+It's a transphobic platform?
+
+05:13.720 --> 05:15.160
+Is that the implication here?
+
+05:15.160 --> 05:18.800
+Oh shit, Dr. Diddler, one of the mods over at Adam and Stitch.
+
+05:18.800 --> 05:20.800
+I guess he's a transphobe, shit.
+
+05:20.800 --> 05:23.480
+The Corridoring and his editor are both red.
+
+05:23.480 --> 05:24.840
+Nobody's surprised with this, right?
+
+05:24.840 --> 05:26.520
+Razorfist is marked red.
+
+05:26.520 --> 05:30.800
+At this point I'm just kind of wondering if they're marking red anybody who like makes
+
+05:30.800 --> 05:33.240
+a joke at the expense of trans people.
+
+05:33.240 --> 05:37.360
+Of course, a lot of the more cucked online personalities are green, Markiplier's green,
+
+05:37.360 --> 05:39.720
+Egoraptor's green, Moviebob is green.
+
+05:39.720 --> 05:42.560
+Oh shit, V and Stix are red.
+
+05:42.560 --> 05:44.320
+Oh my God, guys, I didn't know.
+
+05:44.320 --> 05:48.120
+Why didn't you tell me that you wanted to exterminate the trans population?
+
+05:48.120 --> 05:54.360
+Lauren Southern, Jordan Peterson, Joe Rogan, Notch, Brett Weinstein, Christina Hoff Sommers,
+
+05:54.360 --> 05:59.280
+William Shatner, Red Red, Red Red Red Red Red, Arielle Scarcella, or whatever, however
+
+05:59.280 --> 06:01.040
+you pronounce her last name, I don't know.
+
+06:01.040 --> 06:04.640
+Queen of Controversial Conversations and Lesbian, yeah, I really do think that for
+
+06:04.640 --> 06:08.320
+a lot of these people, especially if they're cis women, it's going to be a suck the dick
+
+06:08.320 --> 06:09.680
+bigot situation.
+
+06:09.680 --> 06:14.600
+Titania McGrath, they are in fact calling satirical humor transphobic.
+
+06:14.600 --> 06:22.280
+Oh damn, dude, the elf porn account and Aiden Paladin and CafeBeef, she's trans herself.
+
+06:22.280 --> 06:24.480
+The world's just full of transphobes, dude, shit.
+
+06:24.480 --> 06:28.040
+The more I look at this list, the more I'm realizing that if someone's marked red, they
+
+06:28.040 --> 06:33.600
+may or may not be transphobic, but it's much more likely that they're just an interesting
+
+06:33.600 --> 06:35.800
+person, or at least somebody who understands the nature of humor.
+
+06:35.800 --> 06:39.920
+Just out of curiosity, I decided to hit up the alt-right page on Wikipedia.
+
+06:39.920 --> 06:45.760
+Of course, we got Richard Spencer labeled, The Daily Stormer, Steve Bannon, Donald Trump,
+
+06:45.760 --> 06:46.760
+Ayn Rand.
+
+06:46.760 --> 06:48.760
+Was Ayn Rand anti-trans?
+
+06:48.760 --> 06:50.880
+I mean, I don't know.
+
+06:50.880 --> 06:52.120
+I don't know enough about her.
+
+06:52.120 --> 06:54.240
+Vladimir Putin, David Duke.
+
+06:54.240 --> 06:56.920
+Oh, this article has Margaret Atwood as green.
+
+06:56.920 --> 06:58.800
+I guess the app hasn't caught up yet.
+
+06:58.800 --> 06:59.800
+She's a transphobe now.
+
+06:59.800 --> 07:01.280
+I don't know if you've heard the recent news.
+
+07:01.280 --> 07:03.880
+There is a little bit I wanted to show you on the Gab Wikipedia as well.
+
+07:03.880 --> 07:06.340
+Yeah, the entire site of Gab is marked as red.
+
+07:06.340 --> 07:07.340
+Check this out.
+
+07:07.340 --> 07:13.400
+Tim Pool, Dave Rubin, British National Party, Allen West, Richard Spencer, Mark Meechan,
+
+07:13.400 --> 07:19.760
+that's Dankula, and Carl Benjamin, Sargon, Sargon, you're spared.
+
+07:19.760 --> 07:23.040
+You're not transphobic, but Jess Phillips is.
+
+07:23.040 --> 07:27.960
+Okay, there's one last thing I got to look up, all right?
+
+07:27.960 --> 07:29.960
+Just bear with me.
+
+07:29.960 --> 07:34.200
+Oh shit, dude.
+
+07:34.200 --> 07:38.000
+They labeled Hitler as being transphobic.
+
+07:38.000 --> 07:40.840
+I totally needed the app to figure this out.
+
+07:40.840 --> 07:42.840
+Actually, I don't know.
+
+07:42.840 --> 07:48.400
+Was there a modern conception of transness, you know, back in the 1930s and 1940s?
+
+07:48.400 --> 07:55.840
+In fact, in the article on Nazism, the only red links are Adolf Hitler, Nazi Party, and
+
+07:55.840 --> 07:59.820
+if you keep scrolling down, none of these names, none of these organizations have anything
+
+07:59.820 --> 08:05.620
+on here, and you have one more red link, Joseph Stalin.
+
+08:05.620 --> 08:09.400
+This is literally just an interactive list of people they don't like.
+
+08:09.400 --> 08:10.640
+That's all it is.
+
+08:10.640 --> 08:11.960
+There's nothing more to it than that.
+
+08:11.960 --> 08:16.000
+Now, as fun as this all is, I've known about Shinigami Eyes for maybe a year now, maybe
+
+08:16.000 --> 08:17.000
+a little bit less.
+
+08:17.000 --> 08:19.720
+Something came out, but I remember hearing about it on Twitter for a while now.
+
+08:19.720 --> 08:23.080
+Whenever it was talked about, it was always in the vein of, hey, hey, hey, the silly cis
+
+08:23.080 --> 08:27.520
+people don't know that we can see them, and now that the normies have finally caught up,
+
+08:27.520 --> 08:29.960
+they're all screeching and spouting nonsense.
+
+08:29.960 --> 08:34.320
+Jordan Tildesly wrote an article about the app called Redlisted, stating that the browser
+
+08:34.320 --> 08:38.080
+extension Shinigami Eyes color codes names on the wrong side of history.
+
+08:38.080 --> 08:41.840
+This week, I had the audacity to suggest on Twitter that antisemitism remains a problem
+
+08:41.840 --> 08:46.640
+within someone on the left, well, it does, and that led me down an extraordinary and
+
+08:46.640 --> 08:48.040
+terrifying rabbit hole.
+
+08:48.040 --> 08:50.400
+Welcome to the online world of Shinigami Eyes.
+
+08:50.400 --> 08:54.080
+I received a notification from one Twitter user alerting another to the fact that Shinigami
+
+08:54.080 --> 09:00.600
+Eyes shows me as a transphobe, with a link to the page shinigami-slash-eyes-dot-github-dot-io.
+
+09:00.600 --> 09:03.320
+Confused, I clicked on the link and made a startling discovery.
+
+09:03.320 --> 09:06.760
+It's a database of people who are being recorded for their views without their knowledge or
+
+09:06.760 --> 09:07.760
+consent.
+
+09:07.760 --> 09:11.160
+Shinigami Eyes uses a combination of user contributions and algorithms to decide your
+
+09:11.160 --> 09:12.160
+fate.
+
+09:12.160 --> 09:14.560
+Anyone who installs it can type your name into a search engine and form an opinion of
+
+09:14.560 --> 09:16.280
+you based on the color you've been assigned.
+
+09:16.280 --> 09:19.800
+You have involuntarily joined a database which includes information about you for others
+
+09:19.800 --> 09:20.800
+to inspect.
+
+09:20.800 --> 09:25.320
+Yeah, see, I wonder if progressives like Jordan here complained when it was them on
+
+09:25.320 --> 09:27.200
+Lulu talking about men.
+
+09:27.200 --> 09:29.920
+Probably not, frankly, but now that the shoe isn't on the other foot, I guess it's a
+
+09:29.920 --> 09:30.920
+problem.
+
+09:30.920 --> 09:31.920
+Forget about Lulu, though.
+
+09:31.920 --> 09:35.440
+There's a far more popular add-on that once upon a time added an extra layer to your browsing
+
+09:35.440 --> 09:39.480
+experience, an add-on that progressives decried as being a hotbed of fascism and bigotry and
+
+09:39.480 --> 09:40.480
+whatever else.
+
+09:40.480 --> 09:41.480
+It was called...
+
+09:41.480 --> 09:42.480
+Dissenter.
+
+09:42.480 --> 09:43.480
+Remember that?
+
+09:43.480 --> 09:44.480
+I made a video on it back in the day.
+
+09:44.480 --> 09:47.280
+Dissenter was a Chrome extension made by Gab that added a comment section to every single
+
+09:47.280 --> 09:48.320
+page of the internet.
+
+09:48.320 --> 09:51.620
+The comments were stored on Gab's servers and were sorted by URL, so whenever you were
+
+09:51.620 --> 09:54.840
+on any page, you could open up Dissenter and see what people were saying about it.
+
+09:54.840 --> 09:59.200
+It blew up rapidly back in 2019, until Google moved to kill it from working on Chromium
+
+09:59.200 --> 10:00.200
+based browsers.
+
+10:00.200 --> 10:04.560
+In practice, it was a far superior Shinigami Eyes in that it also acted as an underlayer
+
+10:04.560 --> 10:08.480
+of the internet that only those in the know could access, which transmitted extra information
+
+10:08.480 --> 10:11.920
+to the user, but this time it allowed for whole conversations to happen on there.
+
+10:11.920 --> 10:12.920
+Same principle.
+
+10:12.920 --> 10:13.920
+Better implementation.
+
+10:13.920 --> 10:16.920
+And... everybody lost their fucking minds at Dissenter.
+
+10:16.920 --> 10:20.080
+How dare you comment on articles when we specifically shut the comments off?
+
+10:20.080 --> 10:21.080
+Who do you think you are?
+
+10:21.080 --> 10:24.680
+How dare you leave notes in Dissenter on my tweets that I can't see unless I install your
+
+10:24.680 --> 10:26.360
+racist transphobic app?
+
+10:26.360 --> 10:30.120
+How dare you talk to each other or trade information in a way that we don't approve of?
+
+10:30.120 --> 10:33.160
+Probably the silliest take of all came from Anna Valens over the Daily Dot, who called
+
+10:33.160 --> 10:37.520
+it a far-right comment section for hating on journalists and the home of all things
+
+10:37.520 --> 10:39.000
+gamergate and MAGA.
+
+10:39.000 --> 10:41.640
+Geez, even back then gamergate was five years old.
+
+10:41.640 --> 10:42.640
+Give it up.
+
+10:42.640 --> 10:46.600
+When they create a secret shadow layer of the internet, it's an empowering tool to help
+
+10:46.600 --> 10:49.600
+others, to label people as problematic and safely exile them.
+
+10:49.600 --> 10:51.600
+But when others do it, it's an alt-right recruiting tool.
+
+10:51.600 --> 10:52.920
+It's a hotbed for fascism.
+
+10:52.920 --> 10:56.280
+In actuality, though, Dissenter and Shinigami Eyes are cut from the same cloth, in that
+
+10:56.280 --> 11:00.160
+they contribute hidden knowledge layered atop a regular internet experience that only those
+
+11:00.160 --> 11:01.600
+who know can access.
+
+11:01.600 --> 11:04.980
+Shinigami Eyes provides a single data point, whether or not you're a transphobe, that is
+
+11:04.980 --> 11:05.980
+commonly inaccurate.
+
+11:05.980 --> 11:10.460
+At a quick glance, Dissenter provided whole conversations worth of information from multiple
+
+11:10.460 --> 11:13.140
+sources if you had the inclination to read it all.
+
+11:13.140 --> 11:16.620
+There's nothing actually wrong with either of them, but it's telling who objects to which
+
+11:16.620 --> 11:17.620
+and why.
+
+11:17.620 --> 11:20.820
+See, in the end, I actually don't care that people seriously use Shinigami Eyes.
+
+11:20.820 --> 11:23.860
+I find it cringe, but you've got the right to be as cringe as you want, and I've got
+
+11:23.860 --> 11:25.260
+the right to troll cringey people.
+
+11:25.260 --> 11:26.340
+So it all works out.
+
+11:26.340 --> 11:27.620
+And uh, speaking of that...
+
+11:56.340 --> 12:05.620
+I'll see you next time.
+

@@ -1,0 +1,348 @@
+I once made a video titled, health care is not a human right.
+And despite the title of today's video, I'm completely correct, health care isn't
+a right.
+Health care is the labour of other people, and you don't have a right to anybody else's
+labour.
+You might trade something for it, or maybe they'll give it to you willingly, but if
+you had a right to it, that means you compel it out of them even if they don't get compensated
+for it.
+Nobody has the right to expropriate the labour of others, and so, nobody has the right to
+health care.
+But that was more of a political philosophy video.
+This video isn't about rights, instead it's a practical discussion.
+Classical liberals, social liberals, conservatives and libertarians all consider free or highly
+open competitive markets to be the best way to efficiently distribute resources in society.
+And they're correct!
+But unlike most other goods and services, health care has some unique facets that result
+in a highly competitive market not actually creating the best health care system through
+those competitive forces.
+The nature of the health care market means that, unlike a lot of other markets, a purely
+deregulated no-government version of it is not functional.
+Let's begin by describing an economic concept called a perfect competition.
+According to Investopedia, perfect competition is a theoretical market structure where the
+following criteria are met.
+All firms sell an identical product, meaning there's no difference in what's being sold
+or in its quality.
+All firms are price takers, meaning that any one individual seller is small enough that
+they can't unilaterally influence the market price of their product.
+Its share has no influence on prices, meaning that the market is so competitive that even
+larger sellers can't adjust their prices without suffering a loss.
+Buyers have complete information about the product being sold and the prices being charged,
+meaning that everybody buying the product knows exactly what they're buying and what
+it should cost, so it's impossible for sellers to pull a fast one.
+Capital resources and labour are perfectly mobile, meaning that capital and labour can
+move within the market without incurring a cost.
+And firms can enter and exit the market without cost, pretty self-explanatory.
+Some other definitions of perfect competition include points like no externalities, meaning
+that costs and benefits of an activity don't affect some uninvolved third party.
+Or all buyers are rational, meaning that every single choice people make in this market increases
+their standing.
+And a whole bunch of others, but frankly, all of these points overlap in a lot of ways,
+and can be boiled down to four easy-to-understand factors.
+1.
+All the products are homogenous.
+2.
+All actors are price takers.
+3.
+All actors have perfect knowledge.
+And 4.
+All actor has an entry or exit cost.
+I should make it clear at this point that perfect competition does not and cannot actually
+exist in the real world.
+There is no market that, if left to its own devices, would naturally read a state of perfect
+competition.
+Rather, the idea is that various markets, if left to their own devices, will reach various
+places on a spectrum of competition.
+The closer any given market's natural spot on that spectrum is to perfect competition,
+the less that outside regulation will be required to keep the market intact.
+The further away from perfect competition on the spectrum, the more regulation will
+be required.
+Over-regulating a market relative to its level of natural competition generally leads to
+excess economic drag that destroys the market.
+In other words, taxes and regulations make everything cost too much, while under-regulating
+a market generally leads to a market failure.
+In other words, there's no instance where supply and demand match up so nothing gets
+sold.
+So, with all of this in mind, let's consider the healthcare market.
+Using these four points, how close is it to perfect competition?
+Well, one, are the products homogenous?
+As in, are healthcare products indistinguishable from one another?
+The answer is obviously no.
+Every health problem has a different solution.
+There's not one cure for everything.
+Even within the realm of one disease, there may also be multiple treatments.
+Additionally, healthcare is constantly changing, with new medicines, new surgeries, and new
+forms of therapy appearing constantly.
+Not only that, but individual actors often perceive healthcare in a specific, particular
+manner.
+People may prefer some brands or types of medicine over others, even if there's no
+practical difference.
+People will prefer their own familiar family doctor over somebody new.
+People often visit the same pharmacy to get their drugs, even if another would do just
+as well.
+Even in instances where products might be homogenous, the intimate nature of healthcare
+leads people to treat them as if they're not.
+How about point two, are all actors price takers?
+As in, no individual actor can affect prices, meaning buyers can't bargain any lower and
+sellers can't bargain any higher because price equilibrium has already been reached.
+Again, the answer is obviously no.
+Healthcare providers have a lot of influence to set prices in the market.
+There's a number of reasons for why this is the case.
+One is the inelastic demand for healthcare, meaning that the buyers of healthcare don't
+see their demand drop off as supply or price changes.
+Here's an example.
+Assume you have a cure for cancer.
+If you have cancer and the price for the cure is $1,000, you'll want to stay alive so you'll
+pay the $1,000.
+If the price is now $10,000, your desire to stay alive hasn't gone down, you'll still
+pay that price.
+For most people, if it means staying alive, the healthcare market can charge them everything
+they have to be cured, because what are they going to do, not get cured?
+So the demand for the cure is inelastic, meaning that the normal supply demand curve doesn't
+really apply because there's no upper limit on what you might pay.
+Of course, for some people, this just isn't the case.
+A 90-year-old might not want to destroy his savings and leave his family with nothing
+in order to cure some disease if he's just going to die of something else a little bit
+later anyway.
+This is the don't destroy your economy for the sake of grandma because of COVID argument
+and it's a good one.
+But for most regular people, the demand for healthcare is pretty inelastic.
+Now you might object here.
+You might say, well, if somebody wanted to charge me too much for a cure, I'd shop
+around for a lower price.
+And that might work to a limited extent.
+But that leads to the second reason as to why some actors are price takers and some
+aren't.
+There's an extremely limited supply of healthcare options in any given area.
+Most people can't just fly to a different location to get more specialized or competitive
+care.
+Most people are stuck with the one hospital in their town, the handful of doctors that
+are still hanging around, and if they're lucky, a trip to the nearest city to see a
+specialist.
+If you live in a city, you'll certainly have access to some more options, but it's
+still not going to be on the same level as something like having five grocery stores
+all within distance to buy your food at.
+The third reason is because of patents.
+Patents are good.
+They allow inventors and discoverers of new products to profit off their hard work and
+not just have it stolen from them, but they also severely restrict the supply of some
+products.
+Consider that cancer cure again.
+If one doctor discovers the cure for cancer and patents it, he ends up holding a monopoly
+and can charge whatever he wants for that cure.
+And on some level, good for him.
+He put in the work of discovering it and deserves to be rewarded disproportionately in comparison
+to those who didn't.
+But without competition, you still reach the same problem I described in my first point.
+Patents can exacerbate the negative effects of inelastic demand.
+And they're likely the reason why at least some price controls are necessary.
+Let's move on to the third quality of perfect markets.
+Do all actors have perfect knowledge?
+Again, for the third time, absolutely not.
+Healthcare providers have a huge information advantage compared to patients, giving them
+ample opportunity to obscure the actual market price of any good or service.
+I remember reading an article on a recent weekly sip a few weeks ago where a dentist
+took advantage of his low information customer base to perform a number of unnecessary fillings
+and root canals in order to line his pockets.
+The average person doesn't have enough knowledge to evaluate whether or not they're getting
+a good deal from their doctor or just being taken for a ride.
+The reason you should be getting second opinions on medical advice isn't only because your
+doctor might be shit, it's also because your doctor might be scamming you.
+And four, do actors have entry or exit costs?
+Yes, they do.
+Beyond simply the cost of starting up a business, the regulatory cost of starting a healthcare
+business specifically is quite high.
+And to be honest, I'm kind of okay with that.
+Yes, the ancaps are correct that a healthcare market with no regulations would remove entry
+costs and probably lead to lower prices.
+That's true.
+But you know what else we'd see?
+Remember this quack from red litter media fame who tried to sell this dumb roller device
+as a pain reliever so you could make an infomercial where he rolls it all over a naked lady?
+Yeah, this guy got absolutely fucked by healthcare-related lawsuits for selling such an obviously fraudulent
+device.
+Pre-regulation, the amount of snake oil being peddled by less than reputable individuals
+was way higher.
+If you want to be sold pills that do nothing and devices that don't work for an illness
+you don't actually have, deregulation is the way to go.
+But having an actually functional healthcare service requires some consumer protections,
+which means there needs to be some market entry costs.
+There are certainly ways we can reform the current regulations to reduce drag while not
+sacrificing quality, but the extremist position of no regulation just isn't tenable.
+There are some other libertarian objections to universal healthcare that are probably
+worth going over as well.
+People often rightfully object that centralized systems tend to become more inefficient and
+corrupt the larger they grow.
+This is true.
+This is often an argument against universal healthcare in America.
+That the federal government can't possibly manage a system that is large and centralized
+enough to account for all of America's citizens and locations.
+But the truth is, most other countries don't actually have that kind of centralized system.
+The Nordic countries, Canada, the UK, and I think Japan as well, have devolved a lot
+of their healthcare operations to more local levels of government.
+Using the system I know best as an example, federal involvement in Canadian healthcare
+basically amounts to a legal requirement that the provincial government implement a universal
+health insurance plan.
+Everything else is left to the provinces.
+It's funny, if you ask your average American socialist the question, do you want Canadian
+style healthcare, they'll overwhelmingly say yes.
+But if you ask them the question, do you want each individual state government to manage
+their own healthcare service, they'll reject that option in favor of a universal standard.
+It's almost like they don't know what they're talking about.
+Just to clarify here, single payer healthcare refers to systems where hospitals and clinics
+are privately owned, where doctors can work for themselves or work for others, but the
+bill is paid for by the state's health insurance program, that's the single entity that pays.
+While multi payer refers to systems that have a number of different insurance programs,
+both private and state run, that cover the cost.
+These two schemes contrast with systems where there is little to no government involvement
+in healthcare, like how the US is often portrayed, and systems where the government not only
+pays for healthcare, but owns all of the infrastructure that provides it, and employs
+all of the doctors directly as state employees as well, like in China.
+It does turn out that the Canadian style decentralized single payer system is pretty efficient though.
+I know the World Health Organization is quite shitty nowadays, but it wasn't always so,
+and back in 2000 they put out a study on the efficiency of the healthcare systems in 190
+odd nations, and those decentralized single payer countries ranked pretty well.
+However the top spots were held by decentralized multi payer countries, like France and Italy.
+There's a wealth of data from the OECD as well, comparing the healthcare for multiple
+different nations, and on average, countries with some form of universal healthcare system
+are able to match or exceed America on pretty much everything.
+Another libertarian criticism is that the less regulated, more profit driven system
+of the United States gives them an advantage when it comes to research and development
+of new drugs and practices.
+A more profit driven system can lead to more innovation, and healthcare is no exception,
+but I'm not sure how much of that is actually a contributing factor here.
+America does produce a lot of innovation, don't get me wrong, but a 2010 study in the
+American Journal of Public Health found that while America does produce a huge amount of
+innovation in healthcare, it's proportional to America's GDP and the amount of money
+America spends on healthcare.
+The same study also notes that countries with more regulations still produce as much innovation
+proportionally, so the fear that America might lose its competitive edge if it adopts a single
+payer system may be unfounded, even if that precludes the option for private investment.
+There's a couple reasons for this.
+One is that insofar as drugs are concerned, even countries with the best universal healthcare
+schemes generally don't cover drugs.
+This makes sense to me because a healthcare service is something that you use only occasionally,
+so setting it up to be a communal pot to cover that occasional use, like how you'd fund
+a firefighting service, seems reasonable, while drugs are goods that are owned privately
+and used exclusively, so it makes a lot more sense that you should have to buy them.
+So all that being said, the pharmaceutical industry is likely to remain private, and
+the benefits of a private system will still apply, including innovation.
+Meanwhile in the medical side of the system, there's not much reason to believe that
+a single payer option will lead to some kind of innovative stagnation.
+Consider the American military and American spaceflight, two domains where, despite there
+being a single payer system, in that only the American government is selling contracts
+for these services in the US, there are multiple private companies competing against each other
+to fulfill the contracts.
+The innovation stagnation argument is a lot stronger when it comes to the outright nationalization
+of a business.
+Not so much when private businesses continue to compete, and the government just so happens
+to be the customer.
+Another common criticism is efficiency of cost, which is different than the efficiency
+of service discussion we had earlier.
+And on this point, there is no argument, we've all seen those ridiculous bills that go viral
+on social media, where people end up paying tens of thousands of dollars just to have
+a kid at a hospital in the States.
+It's rather crazy to be honest.
+Here's some more data from the OECD, and it shouldn't surprise anybody just how much more
+Americans spend on healthcare, but take a closer look at the numbers breakdown.
+The OECD average shows, per person, $3,038 of public spending, meaning coming from government
+taxes, $207 of private spending, meaning coming from a private insurer, and $629 of out of
+pocket spending, meaning the person themselves has to pay for it.
+Compare that to American numbers, $4,993 and $1,122 out of pocket dollars, which are both
+much higher, but at least proportional to the OECD average.
+But Americans also spend $4,092 on private spending.
+That's both directly and proportionally much higher, and we've already gone over the data
+earlier showing healthcare quality to be about on par, so Americans aren't really getting
+a good bang for their buck.
+That extra $4,000 in private spending, that's money going to private health insurance companies.
+In another study, aptly named Healthcare Administrative Costs in the United States and Canada, 2017,
+it's found that the American system is more inefficient than the Canadian one, despite
+the gross inefficiencies of the Canadian one, and I know them well, specifically because
+the deregulated nature of the American system has allowed private insurance companies to
+create a gigantic bureaucratic apparatus that is incredibly inefficient and drives
+costs way up.
+In most markets, the hardcore libertarian types have a good point when they say that
+deregulation promotes competition, and competition will force businesses to trim the fat in order
+to stay competitive.
+But in the healthcare market, the opposite has actually happened.
+Due to the unique nature of healthcare, which we went over earlier, the inelastic demand,
+the lack of knowledge, etc., excessive deregulation actually leads to more market inefficiency.
+In healthcare, once regulation puts a hard cap on the profit motive, the business model
+naturally shifts to reducing costs, which can be bad depending on how it's done, and
+broadening market access, which is not only a positive, but the exact goal of the regulation.
+Looking over everything I've presented here today, it seems like while the possibility
+for disaster certainly exists, as right-leaning people like to point out, it is also entirely
+possible for there to be a universal healthcare service that avoids the inefficiencies inherent
+to central planning, avoids the tendency of government to destroy competition through
+nationalization, still provide quality service, still allow for innovation, and broaden access
+to the service while reducing costs.
+I would however warn left-leaning people that this is not due to the failure of markets
+themselves, nor is it a structural problem inherent to liberal capitalism, but rather
+it is due to the unique nature of the healthcare market.
+This could not be replicated with the food market or the property market, for example.
+They are all different animals.
+But if you're dumb enough to just call it all capitalism and think it's all bad, you
+probably don't get that.
+The thing is, the libertarians of old understood this too.
+No, I don't mean that common commie talking point of OMG, libertarian used to mean socialist
+but they stole it from us.
+That's just a bunch of crying coke, frankly.
+Frederick Hayek is considered a libertarian before his time.
+He called himself a classical liberal, and in his 1943 book, The Road to Serfdom, he
+wrote extensively about what is now known to be the libertarian argument for a universal
+healthcare service, where, as in the case of sickness and accident, neither the desire
+to avoid such calamities nor the efforts to overcome their consequences are as a rule
+weakened by the provision of assistance, where, in short, we deal with genuinely insurable
+risks.
+The case for the states helping to organize a comprehensive system of social insurance
+is very strong.
+There is no incompatibility in principle between the states providing greater security in this
+way and the preservation of individual freedom.
+To the same category belongs also the increase of security through the states rendering assistance
+to the victims of such acts of God as earthquakes and floods.
+Wherever communal action can mitigate disasters against which the individual can neither attempt
+to guard himself nor make provision for the consequences, such communal action should
+undoubtedly be taken.
+Unlike the frankly crazier libertarians and anarcho-capitalists who came later, Hayek
+was not interested in stateless societies.
+He recognized the necessity of the state, but he also recognized the necessity that
+its power be checked and restricted.
+After Hayek had abandoned his native Austria for the UK and refused to return due to it
+being brought under the control of Nazi Germany, he wrote The Road to Serfdom to specifically
+be a rebuttal to both fascism and communism from not only a moral but economic perspective.
+His position, a position I think is true, is that loss of individual liberties occurs
+when the government controls economic decision-making through the type of central planning necessary
+to implement a command economy, something that fascist Italy, Nazi Germany, and Soviet
+Russia all did.
+Hayek also argued that the abandonment of classical liberalism in favor of these planist
+ideologies would create oppressive societies, and he was right.
+And despite this, he still viewed a universal healthcare service not as a component of planism,
+not as a backslide into these totalitarian, authoritarian ideologies, but rather as a
+method to maximize personal liberty.
+And from a layman's perspective, it's not hard to intuit how this is true.
+It's not only that we have an ethical injunction to help the sick, it's that if a person can
+return to contributing to society after being cared for, he more than makes up his burden.
+It's both a moral and a material argument.
+One of Hayek's most famous quotes is regulation for competition, the meaning being that government
+should regulate a market if that promotes competition, and should deregulate if that
+promotes competition.
+It's not a dogmatic stance of deregulate everything or nationalize everything, but
+rather an understanding of the practical reality that not every market is the same, and that
+state action is not universally evil.
+By the way, despite all of this, healthcare still isn't a right.
+You still don't get to compel labor out of others.
+You still don't get to take from them and not provide compensation for the taking.
+But understanding that fact and operating within that knowledge, a universal healthcare
+service is still a good idea.
+It's still a privilege that wealthy nations should afford to their citizens, if they have
+the money to do so.
+And thinking so is not exclusively a socialist position.
+There is a strong capitalist argument for universal healthcare, and frankly it's a
+bit strange to see that America hasn't figured it out yet.
+Alright guys, that about does it for me, thank you very much for watching.
+I have a feeling that this video will be controversial among my audience, but just remember, if I've
+offended you, I'm right.
+As always, streaming tonight on the gaming channel, twitch.tv slash game boomers, make
+sure you drop by.
+I'll see you there.
+Have a good one, I love you.
