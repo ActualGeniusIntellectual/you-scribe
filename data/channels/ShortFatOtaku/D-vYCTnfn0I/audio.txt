@@ -1,0 +1,377 @@
+To anyone who's made Let's Plays or commentary or any other kind of YouTube video, you've
+probably seen Audacity before. It's a lightweight, feature-filled, easy-to-use audio recording
+program. Pretty much everybody uses it. Even a lot of the big players in the YouTube scene
+use it. Because it's just as good, and sometimes even better, than professional options like
+Adobe Audition. And the recent controversy surrounding it is that it's now a possible
+spyware. The famous open-source audio manipulation program was acquired by a company named Muse
+Group two months ago. The same company owns other projects in its portfolio, such as Ultimate
+Guitar and MuseScore. Ever since then, Audacity has been a heated topic. The parent company
+is a multinational company, and it has been trying to start a data collection mechanism
+in the software. While Audacity is nothing more than a desktop program, its developers
+want to make it phone home with various data taken from users' machines.
+And here's a look at their new terms of service. What personal data does Audacity
+collect and why? They'll collect your operating system version, your country based on your
+IP, details about your computer, non-fatal error codes and messages, and crash reports.
+The IP is a bit sketchy, but this is pretty normal for most programs. However, they also
+collect for legal enforcement, data necessary for law enforcement, litigation and authorities
+requests, if any. What does that mean? Well, nobody knows. They're not telling us. But
+it is entirely possible that they could be just collecting copies of anything that you
+record with the program. Who does Audacity share your personal data with? Our staff members,
+any competent law enforcement body, regulatory, government agency, court or other third party,
+our auditors, advisors, legal representatives and similar agents, and to a potential buyer.
+At the same time, they also added this clause. The app we provide is not intended for individuals
+below the age of 13. If you are under 13 years old, please do not use the app. In many parts
+of the internet using world, there's pretty strict laws regarding data collection from
+people who are under the age of 13. So it really sounds like Audacity plans to collect
+all of your data, like every other app out there, and sell it in order to make some kind
+of a profit. In essence, Audacity has become spyware. Audacity uses the GPL3 license. It's
+a license for open source software, mainly because people who make free software don't
+want it being stolen by big corpos. How it works is GPL code is considered to be free
+and open source, meaning anyone can use it and no one can charge money for it. And how
+the license works is that if you use any GPL code from somebody else's project, then all
+of the code in your project also has to be GPL. GPL software legally has to be free and
+not have any restrictions on who can use it. Audacity's new owners are trying to circumvent
+this by having their coders sign new agreements to change Audacity's license over to a different
+one, which would allow it to be sold as regular software. But to do so, they have to rewrite
+code that was made by GPL contributors, especially those who are refusing to sign. And yes, this
+is a violation of the GPL license because derivative works are also legally covered
+by GPL, meaning that if you look at, say, a GPL program and say, you know what, I don't
+want to deal with this license bullshit. I'll just remake it looking at this. Well, that's
+still covered by the license because if you're just rewriting the code to do the exact same
+thing for the explicit purpose of replacing existing code, you are absolutely in for a
+legal battle. And if Audacity's new owners successfully managed to actually do this,
+there will likely be a new license because the current license is GPL3. They're likely
+going to make GPL4, which closes all of these loopholes. In other words, people are fucking
+pissed and I don't blame them, man. This is a reliable piece of software that's been used
+for over a decade. And now that it's in the hands of new owners, they're suddenly harvesting
+everybody's data. This affects Audacity 3.0.0 or later. So if you still want to use the
+program, get a previous version. Additionally, get it from a site that's not the Audacity
+official site, just in case. But as always, there's a wider story here. And the story
+is that of privacy. Every website seems to be going in the shitter nowadays, and they're
+all requiring like a phone number or a picture of your photo ID or something. They want you
+to basically plant a beacon at your house and let everybody know where you are. And
+it's rather ridiculous, isn't it? At least to my sensibilities, it is. I'm old enough
+that I come from an era of the internet where like your parents and PSAs and stuff on TV
+would say, hey, don't give out your private information online. That's dangerous. Who
+knows who might be out there? And you know what? That's still true. And everybody's forgotten
+it. At one point being anonymous used to be prudent until Facebook made being publicly
+identifiable trendy. It's not just Twitter and Facebook. It's even more niche things
+like GitHub, or those Snapchat and Instagram personality quizzes. The most recent push
+against anonymity is happening due to the the soccer situation over in Europe right
+now. I will have a video with Lilith and I talking about that situation more in depth,
+but we can do a surface level right now for this conversation. Piers Morgan went viral
+a couple days ago for this stunningly stupid take. Racist abuse targeted at England football
+stars exposes social media's biggest failing. It's time tech firms ban all anonymous accounts
+and insist on ID so we can see how brave these bigoted scumbags feel when they're made accountable.
+In the name of progressive values, get rid of anonymity. Of course it's not just soccer
+players, it's actors and comedians and verified people of all stripes. None of them like the
+fact that they can actually be talked back to. That a commoner actually has a method
+by which they can point at them and say, no, you're ridiculous. Fuck off. They simply want
+to be able to rule unchallenged. Here's old man Devo story number 9000 on this channel.
+Two in one video in fact. But when I was younger and the left was the dissident voice
+and not the main culture, anonymity was highly valued among progressives because they feared
+retaliation from the religious conservative monoculture. But now that these people are
+in charge, now that they're the ones wielding power, the protection of being anonymous has
+to go. And yeah, they all feel this way. Boris and parliament should stop online racism in
+its tracks by passing legislation forcing Twitter and Facebook in the UK to have only
+named accounts, checking people's details and banning anonymous ones. It happens in
+bedding, so why not social media? Come on Zuckerberg, literally in online papers, please.
+Social media companies need to step up and take accountability and action to ban abusers
+from their platforms. Gather evidence that can lead to prosecution and support making
+their platforms free from this type of abuse. Stop anonymity and require ID. Everyone's
+saying this has a checkmark beside their names, obviously. None of them are anonymous, so
+they want none of us to be anonymous too. As a social media professional, you look like
+one, dude. I want everybody to understand this and the real issue. I've had to ban
+so many people on Facebook for the terrible things they've said. Anonymity definitely
+makes abuse easier because social media sites do a bad job of policing their spaces. These
+people never stopped being children. They simply substituted their parents for a larger
+authority whether that be corporations or the state. Make verified ID a requirement
+for opening a social media account. Nearly 400,000 fucking idiots signed this petition.
+It's ridiculous that I now have almost 12,000 accounts blocked. Nearly all of them are anonymous.
+Requiring official ID would wipe out most trolling overnight. You have them blocked,
+man. What's the problem? Like you've already solved the problem. Not all anonymous accounts
+are used for bile or trolling. Some people have them to protect their identity or their
+lives from others. And of course, the verified replies with, sorry, trolling is the top priority,
+I'm afraid. It's literally killing people. If you're worried about being identified,
+don't go on Twitter or Facebook. Trolling is literally killing people, guys. Some people
+have never been punched in the face and it shows. Trolling is an issue. You need to get a grip like
+you sound like a naive child who knows nothing. You're trash and your YouTube channel is trash.
+You have been reported repair for a ban. These have to be the softest people that our species
+has ever created. Like this is shit that kids would say back in the day. Now you have like
+35 year olds saying this shit. The truth is though, a lot of these progressives want to
+ban anonymity. Not because they're getting trolled. Well, maybe it's kind of because
+they're getting trolled. They don't have a spine, but more importantly, because every day,
+their propaganda attempts are effortlessly destroyed and replaced by much more coherent
+analysis by idiots on Twitter named fart butt with daily dose, Vegeta Piccolo avatars,
+who also post a big titty anime porn on their accounts. And the verifieds are so fucking angry
+about it that every time they're showed to be the idiots that they are, they want that guy's
+bank account information, his address and his place of employment so that they can use all
+of their clout to ruin him for daring to talk back. This is old hat, by the way, I'm going to
+CNN docs, the guy for making fun of them. That was like four years ago. I did a video on it back
+in the day. The absolute worst site for abuse right now is Facebook, not even Twitter, Facebook,
+and Facebook actually has a real name policy. So on some level, this isn't about being anonymous.
+It's about stopping dissent. And of course, we all know this, right? It doesn't matter that
+losing the right to be anonymous will hurt investigative journalists or whistleblowers
+or free expression and privacy rights people or people who are gay or trans and still in the
+closet or ex Muslims hiding from an oppressive family or people who are running away from
+oppressive regimes of all types. These people will continue to screech that being anonymous
+is inherently harassment and white supremacy and also their nonsense because they are simply
+puppets for tyrants. And of course, we know the next step, right? As soon as you can easily
+identify somebody for even the slightest of grievances, well, why not strip everything
+from them? They're already guilty. And I've got a plan. The time has come to not only find these
+people, not only to prosecute them for their lawless behavior, but also basically to ex
+communicate them from our society. So forget about locking them up, forget about throwing away the
+key. Forget about banning them from football stadiums, right? I've got a better idea. Instead,
+let's make it impossible for them to actually have a life. No bank account, no ability to travel,
+no passport, no benefits, nothing. Forget kicking out. Let's kick them out. We don't need them.
+Britain doesn't need them. Adios amigos. And you don't like it because I've said that in Spanish,
+no bank account, no ability to travel, no passport, no benefits, nothing. Of course,
+these people never call for this regarding say pedophiles or rapists, maybe because they'd hit
+too many of their own. This ties into cancel culture. And like I said before, it's already
+been happening for years. This happened a little while ago, academic agent, a far right YouTuber,
+allegedly a former Surrey lecturer was let go by his university. Now, I don't agree with AA's
+politics that much, but should he be fired for them? No, of course, his GoFundMe meant to support
+him and his family during that time was taken down. Because for people who have been canceled,
+people who have had their anonymity stripped away from them, there is no more private life,
+which is again, why this stuff isn't liberal shit, but leftist shit. It's not liberals who
+say everything's political. We believe that it's important to have a non political space,
+a private life. That being said, there are absolutely instances where leftists have been
+very pro anonymous. Last year, somebody on GitHub programmed a face depixelizer. It does what it
+says. It'll take a pixelized face and reveal it using algorithms. And here are some of the
+leftist objections to it. Following the killing of George Floyd by police on May 25,
+people of color across the US have been risking their lives in protests against police brutality
+and a deeply racist system. Police have been known to threaten, assault and even kill protesters,
+identifying them using information gathered from social media, as well as facial recognition
+algorithms. The highly questionable ethics of releasing a tool that could be used to
+subvert anonymization under any circumstance aside, releasing this right now is not only
+incredibly dangerous, but can and will get people killed. Any use of this technology is an aid to
+the illegitimate American police state and police states all over the world. What you're doing is
+unethical and will lead to more and more deaths from the savage police system of the United
+States. Of course, the problem is you can't really close a Pandora's box. Somebody will invent this
+eventually, though I do think it's hilarious that they're calling it narc code. During the
+Brianna Taylor protests, the protesters not only removed all white people, but also removed the
+press. They, too, didn't want to be filmed.
+A protest in DC saw protesters wearing masks, yes, because of COVID, but this wasn't allowed before,
+and shining lights into the cameras of media to prevent them from documenting who was actually
+there. Andy Ngo pointed out this is what Antifa were first doing to me back in 2018. Local
+journalists stayed silent or said conservative media didn't deserve support. It emboldened Antifa
+eventually to beat me and steal my equipment. Well, this is what happens. It starts with
+conservative media, and now it is all media. Also from Andy Ngo, law enforcement in Portland
+are expressing concern over Antifa's announced BLM direct action tonight in downtown. This was
+back in November of 2020. Video recording was banned, which is a predictor of planned violence.
+No streamers, no megaphones, no masters. The left absolutely understands the value of being
+anonymous. No one is ever going to get anything done if you're filming them and giving them years
+in prison or getting them killed and for what? So you can get money and a stupid action shot?
+They absolutely want to go unseen. They want the media to report how stunning and brave they are,
+but not actually film them as they commit crimes. To the point that the anarchist library has an
+essay called In Defense of Smashing Cameras. This is where the left differs from the liberals in
+their defensive anonymity. Our concern is not concerning the so-called right to take pictures
+in a public place. We could care less about this boring defense that photographers resort to when
+critiqued. Our question is not what are your rights in public? Rather, where do you stand
+when it comes to social struggle? How do you act to further the revolt? Simply put, journalists do
+not have any political right to a spectacle. They have the ability to participate in a moment of
+revolt and they forgo that capacity by consigning the event to a digital memory rather than a future
+possibility. While photographic evidence has been useful in the past, we maintain that by
+prioritizing documentation in ignorance or indifference to its effect on an action,
+journalists are not comrades. This is not a liberal defense of being anonymous. This in fact
+strips away people's right to be a bystander. This is George Bush level you're with us or against us
+shit. And of course they have 10 rules. One, contrary to what many protest photography tips
+tell you, don't get up close. Two, if there are faces in your shot, blur them. A simple
+swirl in photoshop won't do. We're talking scrambling such that the police cannot reverse
+the process. Three, if there's distinctive or identifying clothing in your shot, blur them.
+Four, if certain identities stick out, the few black bodies in a white protest for example,
+delete the photo. Five, if you choose to participate as a spectator, keep in mind that
+even spectators participate here, then realize that your participation is secondary to those
+actively engaged in the moment of revolt. This means that you should step aside even if that
+means losing the winning shot. Six, if possible, and it usually is,
+ask for consent or indicate that you are taking a photo so that we have an option to turn away
+or decline. Yes, we get it. We're in a public place you don't have to ask. But realize that failure to
+ask makes us suspicious of your motivations and provides us with added reason to assert
+our capacity for opacity. Seven, your camera is a weapon. Friendly fire is unacceptable.
+Eight, you are a partisan in a social war. Become involved in the struggles you choose
+to document. Should they be documented? If so, how should they be documented to
+spread their capacities? Become a comrade and earn the trust of those around you.
+Accepting professional activists. For the vast majority of us, this is not a career.
+Nine, photograph the police. So again, all of these rules apply only to them and not to their
+opponents. And ten, infer more guidelines from the analysis above. The left does not defend being
+anonymous. It defends being anonymous for them. It's not just activists. It's not just activists
+that progressives want anonymity to protect. This conversation also links very well with the
+trans deadnaming thing. There is this push by progressives recently to basically remove every
+possible barrier to changing your name and your gender. Even the fact that it might cost a little
+bit of money down at the DMV, that's too much. Most notably in the destiny versus the serfs
+debate, where Lance thought it was incredibly fucked up that Google required people to have
+their dead names on their official ID for security reasons. But if you can change your name at a whim
+with no cost, just easily snip all the cords to your past and then go off burden-free. I mean,
+it sounds nice, but what does that let you get away with? There have absolutely been instances
+of people changing their names to avoid connection to a prior crime. If you make this easier,
+even under the guise of trans rights, there will always be people who exploit it.
+Mastercard even created something called True Name, which allows transgender and non-binary
+people to display their chosen name on their credit card. Regardless of legal status,
+this is 100% going to open the way to fraud, and also trolling. Thanks, Twitter.
+And we can actually see the progressive hypocrisy on being anonymous, because even as they screech
+for protecting anonymity for their activists, they are absolutely overwhelmingly the faction
+of cancel culture right now. And yes, I've done videos on cancel culture before, so we're not
+going to dig into it too deeply. But it is important to look at some examples specifically
+in terms of being anonymous. Let's start here. A Deliveroo writer in Berlin made the mistake
+of saying he thought Brexit was good to some remainder British customers. He accused him
+of being a Nazi and he lost his job. As of early Sunday morning, four offensive tweets using an
+anti-gay slur remained active on Kyler Murray's Twitter account.
+I apologize for the tweets that have come to light tonight from when I was 14 and 15.
+I used a poor choice of word that doesn't reflect who I am or what I believe.
+Is this not fucking ridiculous? Shit posting as a kid and it comes back to haunt you when
+you're an adult. I am so happy I did not grow up in the age of social media. Holy shit,
+dude. How Kevin Hart tweeted himself out of a job hosting the Oscars.
+Step one, be really mean to gay people for no reason. In 2011, he tweeted,
+yo, if my son comes home and tries to play with my daughter's dollhouse,
+I'm going to break it over his head and say in my voice, stop, that's gay. Yes, humor was edgier
+back in the day. Yes, that's not a problem. You know what? It was better. The American Humanist
+Association has withdrawn an honor from Richard Dawkins. And I don't know if you're an atheist
+and you're critiquing religion. I don't think it's racist to critique Islam. This is a Canadian
+sports program. And this went down last year. We apologize to Hal Johnson for the racism he
+experienced at TSN beginning in 1988. I mean, I'm sure it sucked, but it's 1988, dude. A 1971
+Playboy interview featuring John Wayne's comments on race and sexuality have stirred a fresh debate.
+Holy fuck. How long has John Wayne been dead for? Who cares? The past was problematic. Fucking live
+with it. If I haven't yet made it clear to you, the point is progressives view anonymity as they
+view many other things as a privilege. One set of rules for thee and another for me. And when some
+dumb fuck online says, oh, you're an anonymous account, no one's trying to dox you. Just present
+yourself, Mr. Anime Avatar. It sounds a whole lot like Goebbels saying, if you have nothing to fear,
+you have nothing to hide. A lot of these people, the progressives, the check marks,
+even the socialist activists who want this stuff, they're all pawns. None of them have any real
+power, but they are being used because the actual powers that be are moving on the anonymous
+question. And they're using the left's brain dead defense of removing anonymity to justify doing so.
+As of April of this year, anonymous social media accounts in Australia might be gone. They may need
+100 points of identification to use social media. A judge has granted the first known warrant for
+law enforcement to conduct a dragnet search through the DNA of 1.3 million people in the
+GED matched genetic genealogy database. 86% of those users did not explicitly consent to
+law enforcement searches. The US wants smartphone location data to fight the coronavirus. The
+Pentagon is surveilling Americans without a warrant revealed by a senator back in May.
+And as another reminder, this isn't new. Back in 2018, Jess Phillips was calling for the banning
+of anonymous social media accounts, and the Guardian was happy to support her on this.
+In the present day, Diane Abbott has said that social media companies should collect names and
+addresses of all social media users, stating that absolute anonymity on social media has had its
+day. Last week, there was a huge controversy, as it was discovered that the NSA was actually spying
+on Tucker Carlson. There's definitely been a slow boiling the frog on the anonymity issue.
+Back in 2001, when we had the Patriot Act passed, they were saying they were only going to spy on
+foreign enemies. By 2013, we had learned that the NSA had spied on Americans, but nobody cared.
+By 2014, we had learned that the CIA had spied on the US Senate, but they were really sorry about
+it. By 2017, we had learned that the FBI had spied on Donald Trump while he was president,
+but I mean, he's Hitler, so who cares, right? By 2021, we had realized the NSA had spied on
+US journalists, but it's just Tucker Carlson, so who gives a shit, right? It has been both
+governments and corporations getting people used to the idea that it's okay if they're spied on,
+that it's okay if they don't have a private life, and it seems that people generally don't object
+to this until it's their job that's lost, or their friends that shun them, or their speech that's
+been silenced. Even Anonymous themselves, like the activist group Anonymous, has turned into a
+fucking joke. As my pal Brick once said before he got banned off Twitter, Anonymous in 2008,
+we DDoS the Church of Scientology and track down pedophiles. Anonymous in 2020,
+Twitter, please help us, they're ruining my poll. People for like thousands of years at this point,
+people have understood the value of being anonymous, of being able to actually say what's
+on your mind. Literally speaking truth to power, that is what being anonymous allows for, to have a
+place that is private, to have a location where you don't have to be always on, to be able to
+regroup and then come back to those things that you find politically important in life,
+with a renewed energy, or with renewed arguments, or new ideas. In this video I have done what in my
+opinion is a completely justified overlap between the concept of anonymity and the concept of
+privacy, because when you take away one you must necessarily take away the other, and that is
+absolutely what they're gunning for. They are gunning for not only your ability to be anonymous,
+to say things anonymously online, to not get fired over an old take from when you were a child,
+or a controversial political opinion that you really shouldn't be fired for,
+but what goes with that is also the ability to live privately, to not live in a glass house.
+At the same time, as a content creator who has been doxxed, I do kind of understand the objection to
+it, right? Let's be honest here, let's give the devil his due. If you're a streamer, especially
+if you're a lot bigger than me, I understand larger streamers have this to the nth degree,
+but if you're a streamer or you're a video creator, where everything you do is hate-watched
+and catalogued, and then put into an archive for like three years, only to be pulled out later by
+somebody who absolutely fucking wants to destroy you, and that person is completely anonymous,
+does kind of seem unfair, doesn't it? Yes, it's part of the job, but in the moment when it happens
+it does feel unfair. But, because it's generally progressives doing this sort of thing,
+and they want anonymity for them and not for you, they see no problems with this. They should be
+anonymous, and the creators they harass should absolutely not be. There's no principles here,
+there's simply power. So I understand it when a content creator says, hey, you're out here
+shitting on me and like hate-watching me and cataloging everything that I do,
+but you're not going to step to the plate? Like, I understand their position. But at the same time,
+this is why progressives scream bloody murder when there is a popular, well-known content creator who
+manages to remain anonymous. And there are some of them. Like, I don't think anyone's doxxed It's
+a Gundam yet, and people fucking hate him. But forcing everybody to be named is not the answer.
+In fact, it seems to me like a better answer is forcing everybody to be anonymous.
+That's why I still like places like 4chan, and to a lesser extent Newgrounds,
+they still hold that principle. Now, there are some solutions floating around out there.
+One of them is the EU's right to be forgotten. The idea behind the right to be forgotten is
+that its proponents believe that there should be a right to have private information about
+a person removed from the internet. The problem with the right to be forgotten is that it
+directly clashes with the right to access of information, the right to education, and yes,
+the right to speech and the right to freedom of expression, as well as criticism over the
+possibility of using it to rewrite history or maintain censorship. Of course, there are good
+reasons to consider such a thing too. Not simply cancel culture or the right to be anonymous,
+but also stuff like revenge porn or having absolute falsehoods appear whenever you get
+your name searched on Google or something. However, the right to be forgotten, especially
+how the EU implements it, seems to be a sledgehammer of a tool when the situation
+probably requires something more like a scalpel. Lilith had this idea that doxing should be a
+federal crime, it's not free speech to post people's information for malicious purposes.
+Dankula replied with, I would argue that private administration information about an individual
+is their private property that can only be shared with their permission. Tech companies that use
+data as currency would also be seething. That seems to target most of the bad parts of the
+equation here without actually infringing on people's right to free speech. I do disagree
+with Lilith here though. She says, none of that lol I found your information through extensive digging,
+so it's basically public. I get what she's saying, but the problem with this point of view is that
+it completely disregards the fact that phone books used to be a thing. Now for those of you zoomers
+don't know what a phone book is, back in the day everybody's name, address, and phone number,
+in your area anyway, your local area, was listed in a phone book. And so if you wanted to look up
+somebody's number and call them, all you had to do was fill out your phone book. Everyone had one,
+they were given away by the city once a year for free with updates and every yearly revision,
+and the concept of the phone book has since fallen out of style. Nobody knows what they are anymore,
+nobody cares about them, but they are new enough that back during gamergate, back in 2014 when
+gamergate was happening, and Zoe Quinn was screaming bloody murder about being doxxed by
+people, it turns out that her doxxing came from the phone book. Because in 2014 they were on the
+way out, but they weren't gone yet. And anyone who lived in her area or her family's area could
+simply look her up in the phone book. The argument against doxxing back then was that if you could
+find it in a phone book, it wasn't doxxing because that was absolutely publicly available information.
+And that seems like a good argument even now. There's a difference though. There's no more
+phone books. And not only is there no more phone books, people are way crazier nowadays than they
+were in 2014. Cancel culture was minuscule back then compared to now. But still, Dankula seems
+to have a good solution here. If we can consider data to be property, and therefore it can only
+legally be shared with the person's express permission, then I think that would solve a
+lot of the problems. But not all of them. There are absolutely some people out there who just
+don't give a shit. They'll say, you know what, I like Facebook too much, I like Instagram too
+much, I like TikTok too much, fuck it. You can have all the data, I don't care. Here it is.
+I'll gladly sign whatever piece of paper you put in front of me so I can use these fun services.
+And then when they go out and get fucking cancelled because all their data's out there,
+it'll be too late. That being said, it's a far better solution than the government forcing
+all social media to collect everyone's data and remove anonymity in the process. That sounds
+absolutely fucking terrible. I wouldn't mind a world where there's like a set of social media
+platforms that are old, archaic, and completely data collection heavy, and then a set of newer
+social media platforms that are more anonymized. I'm okay with that. But like I said at the
+beginning of the video, this is only partially about being anonymous. It is more importantly
+about the destruction of the concept of privacy, and what it does to those people who have been
+affected by it. I mentioned Academic Agent earlier, but there have been many YouTubers
+and content creators who have had their lives destroyed by hate viewers. And those people,
+in order to survive because they're now completely unemployable, they have to rely on basically the
+charity of their viewers, whether that be through watching ads on YouTube or Twitch or wherever
+they happen to be putting their stuff, through donations, through subs on Twitch, through super
+chats, through Patreon or Subscribestar donations, whatever it is. As more people express wrong
+opinions and are cancelled for it, more and more of them turn towards crowdfunding to stay alive.
+And then those people who hold the same opinions, but still manage to have an income,
+and let's assume that they actually care about supporting the YouTubers and content creators
+that they like, well now they have to support another one, and another one, and another one.
+It almost feels like a long war of attrition to slowly destroy those people who are ideologically
+opposed to wokeness. If your opposition cannot even provide for themselves and their family,
+then one, they're less able to move against you, and two, that is an extra burden on their
+community for those people who still can support themselves. This is the reality of the culture
+war. It's not going to be a bloody conflict or a riot in the streets. Those do happen,
+but those are primarily a distraction. The real war is a slow, steady march to destroy all dissent.
+This is the main reason why alt tech has to survive. Because if it doesn't, there will be
+no anonymity. It will be a dystopia where you have no privacy and everything you do is watched.
+And every single dumbfuck progressive out there will cheer it on until the day it finally comes
+for them. You use the wrong pronoun, you tell the wrong joke, you make the wrong hand gesture,
+say the wrong word, wear the wrong clothes, order the wrong food, sing the wrong song.
+Nobody can keep track of all of their rules, so eventually everyone slips up. And as soon as you
+do, you're far right, you're a bigot, you're islamophobic, you're a knuckle dragger, you're
+hateful, you're white trash, you're a patriarch. All of your previous virtue signaling counts for
+nothing. You can never be forgiven. You will always be that person who did that problematic
+thing. You'll be unemployable, unlovable, unwanted. You will be exactly like those people that you
+currently torment. This is the brave new world you've created. Welcome to the purity spiral.
+It's a long way down. Hey guys, that's the end of the video, so thanks for watching. What I
+described here has also unfortunately happened to my roommate. Simply, through his association
+with me, he actually lost his job. And until he can get back up on his feet, he's helping me out
+with my projects and this channel supporting him too. So, if you're interested in keeping us going,
+please consider dropping by our gaming channel. Tomorrow night we're playing the Skyward Sword
+HD release. We actually have a pretty big event planned for it, so it'll be I think a pretty
+fun stream. Thanks very much for your support, and I'll see you there. I love you.

@@ -1,0 +1,504 @@
+1
+00:00:00,000 --> 00:00:25,240
+Oh, what's this, Jack? Why is everyone mad at you? Why do you get heckled wherever you
+
+2
+00:00:25,240 --> 00:00:29,740
+go? And you know what? It's not just the hecklers. It seems like the world's governments
+
+3
+00:00:29,780 --> 00:00:36,740
+are finally taking notice of Twitter. India to Twitter. Comply with IT rules or face unintended
+
+4
+00:00:36,740 --> 00:00:41,340
+consequences. India's new rules, which were announced in February and which became effective
+
+5
+00:00:41,340 --> 00:00:46,200
+at the end of last month, are aimed at regulating content on social media and making firms such
+
+6
+00:00:46,200 --> 00:00:52,300
+as Facebook, its WhatsApp messenger, and Twitter more accountable to legal requests. They also
+
+7
+00:00:52,300 --> 00:00:57,420
+require big social media companies to set up grievance redressal mechanisms and appoint
+
+8
+00:00:57,420 --> 00:01:02,780
+new executives to coordinate with law enforcement. Back at the start of the year, Uganda decided
+
+9
+00:01:02,780 --> 00:01:06,100
+to take a swing at Twitter too. Ahead of the Ugandan election, we're hearing reports that
+
+10
+00:01:06,100 --> 00:01:10,660
+the internet service providers are being ordered to block social media and messaging apps.
+
+11
+00:01:10,660 --> 00:01:15,940
+We strongly condemn internet shutdowns. They are hugely harmful, violate basic human rights
+
+12
+00:01:15,940 --> 00:01:19,980
+and the principles of the open internet. Oh, internet access and social media is a human
+
+13
+00:01:19,980 --> 00:01:24,740
+right now. In fact, take that even further. When Nigeria decided to ban Twitter a few
+
+14
+00:01:24,740 --> 00:01:29,600
+days ago, nationwide, Twitter had a similar response. We are deeply concerned by the blocking
+
+15
+00:01:29,600 --> 00:01:34,180
+of Twitter in Nigeria. Access to the free and open internet is an essential human right
+
+16
+00:01:34,180 --> 00:01:39,180
+in modern society. We will work to restore access for all those in Nigeria who rely on
+
+17
+00:01:39,180 --> 00:01:43,260
+Twitter to communicate and connect with the world. Now, I'm not here to simp for Nigeria
+
+18
+00:01:43,260 --> 00:01:49,500
+or Uganda or whatever, but an essential human right, eh? This is a topic I did a video on
+
+19
+00:01:49,500 --> 00:01:53,380
+before, called Health Care is Not a Human Right. And just as a reminder, that video
+
+20
+00:01:53,380 --> 00:01:57,540
+wasn't actually anti-universal healthcare. I simply pointed out that universal healthcare
+
+21
+00:01:57,540 --> 00:02:03,060
+is a privilege that rich nations should provide to its population, but it wasn't a right.
+
+22
+00:02:03,060 --> 00:02:07,240
+Because a right is something that is inalienable, meaning that force can't take it from you
+
+23
+00:02:07,240 --> 00:02:11,180
+without killing you. This is why, for example, you have a right to free speech. If you're
+
+24
+00:02:11,180 --> 00:02:14,940
+standing on public property and saying whatever you want, people can hate what you're saying,
+
+25
+00:02:14,940 --> 00:02:18,860
+they can hate you, you might lose your job or something. But the actual physical action
+
+26
+00:02:18,860 --> 00:02:23,200
+of speaking, they must use violence on you to stop it. That's why a right is something
+
+27
+00:02:23,240 --> 00:02:27,720
+that is intrinsic to you. If you have a right to healthcare, that means that even if you
+
+28
+00:02:27,720 --> 00:02:32,640
+can't pay for the healthcare, even if the doctors don't get paid at all by anybody,
+
+29
+00:02:32,640 --> 00:02:35,760
+if they don't give you healthcare, even if they have a good reason not to, they're
+
+30
+00:02:35,760 --> 00:02:39,800
+violating your rights. A conception of rights that requires somebody else to take a positive
+
+31
+00:02:39,800 --> 00:02:44,060
+action for you means that they have the ability to compel your labor. This is why healthcare
+
+32
+00:02:44,060 --> 00:02:49,080
+is not a right, but speech is. But okay, Twitter, even though it's not, if you think that
+
+33
+00:02:49,080 --> 00:02:53,340
+access to your service is an essential human right, let's take a quick look at how you've
+
+34
+00:02:53,340 --> 00:02:58,840
+treated those rights over the years. In 2019, Twitter declined to confirm if people could
+
+35
+00:02:58,840 --> 00:03:03,760
+or could not post that transsexualism is a mental disorder. Now that's some pretty
+
+36
+00:03:03,760 --> 00:03:08,040
+inflammatory language, it's not something that I would say. But we did learn later that
+
+37
+00:03:08,040 --> 00:03:12,520
+no, posting this kind of language gets you banned. And if Twitter access is an essential
+
+38
+00:03:12,520 --> 00:03:17,640
+right, I guess transphobes don't have rights. Alright, Twitter has banned users for using
+
+39
+00:03:17,640 --> 00:03:24,040
+Elton John songs in video remixes. A number of Brexit party supporters were banned off
+
+40
+00:03:24,040 --> 00:03:29,000
+of Twitter. And although researchers say that many of them aren't behaving like genuine
+
+41
+00:03:29,000 --> 00:03:34,160
+voters due to posting at high volumes, short intervals and at odd times of the day, it
+
+42
+00:03:34,160 --> 00:03:39,120
+does turn out that based on its internal tools, Twitter is confident that the accounts flagged
+
+43
+00:03:39,120 --> 00:03:44,460
+by BuzzFeed news are those of real people in the UK despite their seemingly suspicious
+
+44
+00:03:44,460 --> 00:03:49,300
+activity. Nick Monroe was not allowed to post about threats against New Zealand's Prime
+
+45
+00:03:49,300 --> 00:03:54,240
+Minister. He was forced to delete his tweet, reporting that the New Zealand Prime Minister
+
+46
+00:03:54,240 --> 00:04:00,200
+had received a copy of the Christchurch Shooters Manifesto before it happened. Nick Monroe
+
+47
+00:04:00,200 --> 00:04:04,780
+would later be banned for his other tweets, including one where he says that he likes
+
+48
+00:04:04,780 --> 00:04:11,780
+it when his fans suck his cock. Twitter CEO Jack Dorsey admitted to the US House of Representatives
+
+49
+00:04:11,780 --> 00:04:17,440
+in 2018 that they were unfairly filtering 600,000 accounts, but it wasn't politically
+
+50
+00:04:17,440 --> 00:04:22,940
+motivated. Twitter believes that this random person intends to build a time machine just
+
+51
+00:04:22,940 --> 00:04:27,020
+so that they can rape women from different time periods. This is a video of Pennsylvania
+
+52
+00:04:27,020 --> 00:04:33,100
+State Representative Brian Sims calling for protesters praying outside of a planned parenthood
+
+53
+00:04:33,100 --> 00:04:38,100
+to be doxxed. The video and Brian Sims are still allowed on Twitter. A Twitter executive
+
+54
+00:04:38,100 --> 00:04:44,740
+was revealed to be a British Army PSYOPs soldier whose job was to spread disinformation
+
+55
+00:04:44,740 --> 00:04:51,300
+on social media. Gordon McMillan, who joined Twitter in 2013 and is listed as the company's
+
+56
+00:04:51,300 --> 00:04:57,980
+head of editorial for EMEA, also serves with the 77th Brigade, an outfit formed in 2015
+
+57
+00:04:57,980 --> 00:05:03,780
+to conduct information warfare and develop non-lethal ways of conducting war. On February
+
+58
+00:05:03,780 --> 00:05:09,220
+4, 2020, Twitter decided that its users may not deceptively share synthetic or manipulated
+
+59
+00:05:09,220 --> 00:05:14,580
+media that are likely to cause harm. In addition, they may label tweets containing synthetic
+
+60
+00:05:14,580 --> 00:05:18,700
+and manipulated media to help people understand their authenticity and to provide context.
+
+61
+00:05:18,700 --> 00:05:24,220
+This was widely reported on as banning memes, since all of Photoshop falls under this rule.
+
+62
+00:05:24,220 --> 00:05:29,300
+Olinda Hassan, a policy manager at Twitter Trust and Safety, was caught on video stating
+
+63
+00:05:29,300 --> 00:05:33,500
+that Twitter was trying to get the shitty people to not show up. It's a product thing
+
+64
+00:05:33,540 --> 00:05:38,500
+that we're working on. Former Twitter employees have been charged with spying for Saudi Arabia
+
+65
+00:05:38,500 --> 00:05:44,060
+by digging into the accounts of the kingdom's critics. Twitter says that Trump's Thugs tweet
+
+66
+00:05:44,060 --> 00:05:49,940
+about Minneapolis protests violated standards by glorifying violence. And of course, I don't
+
+67
+00:05:49,940 --> 00:05:55,020
+think we need to go into the constant back and forth between Twitter and Trump during
+
+68
+00:05:55,020 --> 00:06:00,540
+the course of his presidency. Twitter is considering subscriptions amid an advertising slump. Subscriptions
+
+69
+00:06:00,540 --> 00:06:05,500
+to remember an essential right. These are some leaked backend shots from Twitter if
+
+70
+00:06:05,500 --> 00:06:09,820
+you'll recall from like a year or two ago. And you'll notice these tags placed on some
+
+71
+00:06:09,820 --> 00:06:15,940
+of these Twitter accounts. Permanently suspended, suspended, bounced, protected, bounced, inactive,
+
+72
+00:06:15,940 --> 00:06:21,740
+protected, compromised, trends blacklisted, search blacklisted, read only. Remember, Twitter
+
+73
+00:06:21,740 --> 00:06:27,900
+told Congress that they didn't blacklist people. And imagine being temporarily suspended, permanently
+
+74
+00:06:27,900 --> 00:06:34,620
+suspended or blacklisted from an essential right. This individual posted, Dear God, who
+
+75
+00:06:34,620 --> 00:06:40,420
+is the absolute boomer retard running your social media. But before she could post it,
+
+76
+00:06:40,420 --> 00:06:44,320
+Twitter asked her to revise it. And here's the questionnaire that Twitter forced her
+
+77
+00:06:44,320 --> 00:06:48,820
+to fill out. Why do you believe you receive this message to revise your tweet? Did your
+
+78
+00:06:48,820 --> 00:06:53,340
+tweet contain language that recipients of it might find offensive? Do you agree or disagree
+
+79
+00:06:53,340 --> 00:06:58,140
+with the following statements about your tweet? And strangely enough, which of the
+
+80
+00:06:58,140 --> 00:07:03,340
+following describes your race and ethnicity? Is Twitter saying that the status of this
+
+81
+00:07:03,340 --> 00:07:09,540
+essential right changes based on your race? The account always actions was banned, but
+
+82
+00:07:09,540 --> 00:07:14,040
+only after Trump retweeted them. They were your generic conservative Twitter account
+
+83
+00:07:14,040 --> 00:07:18,060
+where they posted videos of Black Lives Matter and Antifa protests getting violent. The White
+
+84
+00:07:18,060 --> 00:07:23,180
+House press secretary had her access to Twitter revoked when she posted about the Hunter Biden
+
+85
+00:07:23,180 --> 00:07:27,500
+email leaks back before the election. Twitter said that they don't permit the use of their
+
+86
+00:07:27,500 --> 00:07:32,740
+service to directly distribute content obtained through hacking that contains private information
+
+87
+00:07:32,740 --> 00:07:37,180
+may put people in physical harm or danger or contains trade secrets. Of course, this
+
+88
+00:07:37,180 --> 00:07:41,220
+wasn't applied evenly when it came to stuff like the Trump piss dossier a few years ago.
+
+89
+00:07:41,220 --> 00:07:45,420
+And of course, there's the fact that currently right now on Twitter, people are talking about
+
+90
+00:07:45,420 --> 00:07:51,040
+memes from Hunter Biden's laptop, which are surely leaked or hacked materials. But no
+
+91
+00:07:51,040 --> 00:07:55,860
+one cares anymore. The editor at the New York Post, one of the nation's largest papers
+
+92
+00:07:55,860 --> 00:08:01,480
+by circulation, was not allowed by Twitter to post one of their own stories that details
+
+93
+00:08:01,480 --> 00:08:06,120
+corruption by a major party presidential candidate, Joe Biden. Other accounts that posted that
+
+94
+00:08:06,120 --> 00:08:12,440
+article were also banned. Twitter considers US government websites to be unsafe. Bill
+
+95
+00:08:12,440 --> 00:08:17,920
+Cosby convicted for rape is still on Twitter. Twitter is developing an anti troll feature
+
+96
+00:08:17,920 --> 00:08:22,320
+called Safety Mode. It will automatically block accounts that are spammy, use insults,
+
+97
+00:08:22,320 --> 00:08:27,620
+strong language or hateful remarks. Vijaya Gadd, Jack's shield from Tim Pool during the
+
+98
+00:08:27,620 --> 00:08:32,600
+Joe Rogan podcast, has stated that Twitter has plans for political censorship on a global
+
+99
+00:08:32,600 --> 00:08:36,920
+scale. The National Archives, which creates copies of everything that a president says
+
+100
+00:08:36,920 --> 00:08:41,200
+publicly, has requested Twitter for an archive of Donald Trump's Twitter account. Twitter
+
+101
+00:08:41,200 --> 00:08:47,140
+has refused. Twitter once banned everyone who said the word Memphis on their platform.
+
+102
+00:08:47,140 --> 00:08:52,480
+Ramzan Kadriov, the Chechen leader who rounded up gay people and tortured and murdered them
+
+103
+00:08:52,480 --> 00:08:57,700
+in concentration camps, is still allowed on Twitter. The leader of the Islamic Republic
+
+104
+00:08:57,700 --> 00:09:04,020
+of Iran has openly called for genocide against the Jews on Twitter. Erdogan, the leader of
+
+105
+00:09:04,020 --> 00:09:09,400
+Turkey, announced his own ethnic cleansing on Twitter. Meanwhile, shitposting hero The
+
+106
+00:09:09,400 --> 00:09:15,080
+Hindu-Dindu, Brick, was banned for tweeting, Don't like being banned Twitter? Make your
+
+107
+00:09:15,080 --> 00:09:21,000
+own Uganda? Twitter has openly stated that they will ban people for tweeting at somebody
+
+108
+00:09:21,000 --> 00:09:25,920
+without their permission, and Twitter's terms of service directly state that you may
+
+109
+00:09:25,920 --> 00:09:33,320
+be banned for no reason at all. Even as other websites rise and fall, YTMND is dead, Newgrounds
+
+110
+00:09:33,320 --> 00:09:38,540
+is a shadow of its former self, most abandonware sites are gone, and GOG didn't really pick
+
+111
+00:09:38,540 --> 00:09:43,560
+up the slack. All of those random Japanese GeoCities sites with obscure information about
+
+112
+00:09:43,560 --> 00:09:48,560
+niche manga or games or anime disappeared into the bowels of the internet. But, like
+
+113
+00:09:48,560 --> 00:09:53,680
+plastic in the ocean, Twitter will be here forever. And it's a good thing! After all,
+
+114
+00:09:53,680 --> 00:09:57,880
+it's an essential human right. However, I think it's really important to notice exactly
+
+115
+00:09:57,880 --> 00:10:03,020
+who Twitter is extending this essential human right to. Which people are banned for minor
+
+116
+00:10:03,020 --> 00:10:08,020
+infractions or literally nothing sometimes? Which people can do the most heinous things
+
+117
+00:10:08,020 --> 00:10:13,220
+on and off platform, and yet their essential human right of access to this service is respected
+
+118
+00:10:13,220 --> 00:10:17,900
+no matter what? Answer that question and you will discover what type of human Twitter
+
+119
+00:10:17,900 --> 00:10:21,540
+considers to have rights. Ah shit, I forgot the most important one. You could do anything
+
+120
+00:10:21,540 --> 00:10:25,580
+on 2007 to 2012 Twitter. I showed people how to cut crack in the microwave and nothing
+
+121
+00:10:25,580 --> 00:10:30,300
+happened. Now I can't even call a fat bitch fat. Alright my friends, thanks for watching.
+
+122
+00:10:30,300 --> 00:10:33,700
+Yes, this video was a bit more low effort than the last, but I did want to get something
+
+123
+00:10:33,700 --> 00:10:38,580
+out today. I've spent the majority of my time preparing for the E3 stream happening
+
+124
+00:10:38,580 --> 00:10:42,500
+shortly. Shortly at least if you're watching this video on release. If you are, hit up
+
+125
+00:10:42,500 --> 00:10:46,540
+that Twitch channel in the pinned comment, and I'll see you soon. Alright guys, I'll
+
+126
+00:10:46,540 --> 00:10:49,820
+see you there at the stream. Thanks very much. Have a good one, and I love you.
+

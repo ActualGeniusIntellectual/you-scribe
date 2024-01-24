@@ -1,0 +1,844 @@
+1
+00:00:00,000 --> 00:00:09,900
+This is going to be a stupid video, I can already tell.
+
+2
+00:00:09,900 --> 00:00:15,180
+In case you haven't noticed, the past few days, people have been panic buying gasoline.
+
+3
+00:00:15,180 --> 00:00:20,700
+They're not just filling up their vehicles, but they're also filling up gas canisters,
+
+4
+00:00:20,700 --> 00:00:24,300
+making sure they have enough to ride out a potential shortage.
+
+5
+00:00:24,300 --> 00:00:30,620
+And I don't know about you, but already, right off the bat, this looks like something
+
+6
+00:00:30,620 --> 00:00:34,080
+that a game developer would put into place in a first person shooter.
+
+7
+00:00:34,080 --> 00:00:39,460
+You know, a car full of gas tanks set in just a specific spot in the level, so that if you
+
+8
+00:00:39,460 --> 00:00:42,660
+shoot it at the right time, you can get max combo kills.
+
+9
+00:00:42,660 --> 00:00:46,500
+If this woman gets hit going home, she's going to take out an entire city block.
+
+10
+00:00:46,500 --> 00:00:48,540
+But hey, people don't care about that.
+
+11
+00:00:48,540 --> 00:00:52,780
+There's a gas shortage, so people are stocking up, making the shortage even worse.
+
+12
+00:00:52,780 --> 00:00:57,240
+And if you can't afford gas containers like these people, well, don't worry about it.
+
+13
+00:00:57,240 --> 00:01:03,100
+Just load up plastic totes, that'll work, right?
+
+14
+00:01:03,100 --> 00:01:07,460
+You know, I can't believe I have to say this, gasoline evaporates very quickly.
+
+15
+00:01:07,460 --> 00:01:11,340
+You don't even have lids for these things, I hope there's like lids in the trunk or something.
+
+16
+00:01:11,340 --> 00:01:16,320
+Also, not only will it evaporate, it'll corrode that cheap ass plastic.
+
+17
+00:01:16,320 --> 00:01:22,880
+And like, how do you expect to pour it into your car, lady?
+
+18
+00:01:22,880 --> 00:01:26,360
+There's there's multiple levels of failure in this picture.
+
+19
+00:01:26,360 --> 00:01:34,160
+And what the fuck are you doing filling like a clear, thin plastic trash bags with gasoline
+
+20
+00:01:34,160 --> 00:01:36,880
+and throwing that in the back of your trunk?
+
+21
+00:01:36,880 --> 00:01:46,000
+Like everything, everything that I said about the plastic tote will apply tenfold here.
+
+22
+00:01:46,000 --> 00:01:52,360
+So yes, as it turns out, 72% of North Carolina gas stations are without fuel.
+
+23
+00:01:52,360 --> 00:01:56,000
+Experts are warning residents to prepare for another tough day, and it's been like this
+
+24
+00:01:56,000 --> 00:01:59,040
+for I think three or four days now, maybe even a little bit longer.
+
+25
+00:01:59,040 --> 00:02:00,880
+And it's not just North Carolina.
+
+26
+00:02:00,880 --> 00:02:04,320
+Hundreds of gas stations have run out of fuel, and others see massive lines as the shortage
+
+27
+00:02:04,320 --> 00:02:05,320
+worsens.
+
+28
+00:02:05,320 --> 00:02:10,440
+The 5,500 mile colonial pipeline has been shut down indefinitely since Friday, which
+
+29
+00:02:10,440 --> 00:02:14,680
+would have been May 7th, after a cyber attack led its operators to cease operations of the
+
+30
+00:02:14,680 --> 00:02:19,320
+major arteries supplying gasoline to states all throughout the southeast and mid-Atlantic
+
+31
+00:02:19,320 --> 00:02:20,320
+regions.
+
+32
+00:02:20,320 --> 00:02:22,760
+The company hopes to reopen most of the line by the end of the week.
+
+33
+00:02:22,760 --> 00:02:27,840
+So the pipeline gets hacked, this somehow shuts off all of the gas flow from I think
+
+34
+00:02:27,840 --> 00:02:32,800
+it's Texas to the to the eastern seaboard, and people start losing their minds over it.
+
+35
+00:02:32,800 --> 00:02:37,080
+But it's not just those locations, there's a cascading effect of this.
+
+36
+00:02:37,080 --> 00:02:41,000
+Far from the colonial pipeline, panic buying leaves Florida cities short of gas.
+
+37
+00:02:41,000 --> 00:02:45,300
+These are people who are not necessarily even affected by this, but they hear it happening
+
+38
+00:02:45,300 --> 00:02:47,640
+somewhere else in the nation, and so they stock up.
+
+39
+00:02:47,640 --> 00:02:51,320
+But wait wait wait, the pipeline was hacked.
+
+40
+00:02:51,320 --> 00:02:57,760
+That's right, a hacking group known as DarkSide, a day before the pipeline was shut down, stole
+
+41
+00:02:57,760 --> 00:03:00,660
+around 100 gigabytes of data from the company.
+
+42
+00:03:00,660 --> 00:03:07,880
+They then locked them out of their computers and demanded 5 million dollars in cryptocurrency,
+
+43
+00:03:07,880 --> 00:03:10,440
+which is, as you know, untraceable.
+
+44
+00:03:10,440 --> 00:03:11,940
+And Colonial paid them.
+
+45
+00:03:11,940 --> 00:03:15,720
+After getting paid, the hackers provided the company with a decrypting tool to restore
+
+46
+00:03:15,720 --> 00:03:17,600
+its disabled computer network.
+
+47
+00:03:17,600 --> 00:03:22,680
+An audit of the pipeline three years ago found glaring problems, with the auditor saying
+
+48
+00:03:22,680 --> 00:03:25,440
+that an 8th grader could have hacked into their system.
+
+49
+00:03:25,440 --> 00:03:33,120
+Now Colonial has not officially said how the hackers penetrated their network, but an anonymous
+
+50
+00:03:33,120 --> 00:03:37,800
+source at Colonial Pipeline said the hackers were able to gain access to their computer
+
+51
+00:03:37,800 --> 00:03:40,360
+systems through a phishing scheme.
+
+52
+00:03:40,360 --> 00:03:46,000
+According to the source, an employee clicked on a link in an email titled More Like Kansas
+
+53
+00:03:46,000 --> 00:03:47,000
+City.
+
+54
+00:03:47,000 --> 00:03:52,520
+The email contained an image of a large-breasted female in a Kansas City Chiefs bikini with
+
+55
+00:03:52,520 --> 00:03:55,360
+a link promising additional pictures.
+
+56
+00:03:55,360 --> 00:04:01,440
+So 5 million in Bitcoin, one of the biggest pipelines in the world shut down for a week,
+
+57
+00:04:01,440 --> 00:04:05,160
+and mass panic buying over Booba.
+
+58
+00:04:05,160 --> 00:04:07,260
+Well, probably worth it.
+
+59
+00:04:07,260 --> 00:04:10,180
+And of course, the memes coming out of this are great.
+
+60
+00:04:10,180 --> 00:04:15,300
+I mean, there's no reason we can't have a Coke and Mentos fueled economy instead of
+
+61
+00:04:15,300 --> 00:04:16,380
+an oil one.
+
+62
+00:04:16,380 --> 00:04:21,180
+Forget about totes and garbage bags, this guy's got half a basement full of gas.
+
+63
+00:04:21,180 --> 00:04:25,980
+This idiot filled up his Hummer with five cans of gas and decided to have a smoke.
+
+64
+00:04:25,980 --> 00:04:28,020
+You did know it's flammable, right?
+
+65
+00:04:28,020 --> 00:04:32,720
+Considering all this craziness, the US Consumer Product Safety Commission had to come out
+
+66
+00:04:32,720 --> 00:04:37,220
+and say, do not fill plastic bags with gasoline.
+
+67
+00:04:37,220 --> 00:04:40,220
+Use only containers approved for fuel.
+
+68
+00:04:40,220 --> 00:04:45,300
+Follow the gas canister manufacturer instructions for storing and transporting gasoline.
+
+69
+00:04:45,300 --> 00:04:49,380
+When using a gas canister, never pour gasoline over or near an open flame.
+
+70
+00:04:49,380 --> 00:04:52,100
+Man, I remember being taught this when I was like five.
+
+71
+00:04:52,100 --> 00:04:54,460
+What the hell is wrong with people?
+
+72
+00:04:54,460 --> 00:04:56,660
+Did you like the gas shortage?
+
+73
+00:04:56,660 --> 00:05:01,060
+We could make it permanent by passing AOC's Green New Deal.
+
+74
+00:05:01,060 --> 00:05:03,440
+Nobody liked the gas shortage.
+
+75
+00:05:03,440 --> 00:05:04,440
+Nobody wanted this.
+
+76
+00:05:04,440 --> 00:05:06,100
+What the fuck are you talking about?
+
+77
+00:05:06,100 --> 00:05:12,700
+You're literally describing a state of emergency and you want it to be permanent.
+
+78
+00:05:12,700 --> 00:05:15,460
+What is this acceleration ass bullshit?
+
+79
+00:05:15,460 --> 00:05:21,060
+Because the Dark Side hacking group is based in Eastern Europe, most probably Russia, there
+
+80
+00:05:21,060 --> 00:05:25,580
+is a lot of people on the left calling this a Russian attack against the United States.
+
+81
+00:05:25,580 --> 00:05:29,620
+And damn, it is kind of terrifying to think that hackers, you know, half a world away
+
+82
+00:05:29,620 --> 00:05:33,860
+can get a bit creative and cause a gas shortage in the United States.
+
+83
+00:05:33,860 --> 00:05:37,380
+Good thing the CIA is currently promoting diversity and inclusion.
+
+84
+00:05:37,380 --> 00:06:03,460
+I'm sure that'll help.
+
+85
+00:06:03,460 --> 00:06:05,660
+Thanks for keeping the state safe, guys.
+
+86
+00:06:05,660 --> 00:06:08,340
+But for real, here's the actual government response to it.
+
+87
+00:06:08,340 --> 00:06:12,700
+Because of the fact that there's not a whole lot of other supply.
+
+88
+00:06:12,700 --> 00:06:18,060
+Now, this particular pipeline also supplies other states, but there are other pipelines
+
+89
+00:06:18,060 --> 00:06:19,780
+that supply their states as well.
+
+90
+00:06:19,780 --> 00:06:22,640
+So there's more diversity in this particular region.
+
+91
+00:06:22,640 --> 00:06:24,700
+That's where we're going to see the crunch.
+
+92
+00:06:24,700 --> 00:06:28,340
+And this is why we are we know that we have gasoline.
+
+93
+00:06:28,340 --> 00:06:30,940
+We just have to get it to the right places.
+
+94
+00:06:30,940 --> 00:06:34,380
+And that's why these next couple of days I think will be challenging and we want to
+
+95
+00:06:34,380 --> 00:06:36,300
+encourage people.
+
+96
+00:06:36,300 --> 00:06:39,100
+It's not that we have a gasoline shortage.
+
+97
+00:06:39,100 --> 00:06:44,700
+It's that we have this supply crunch and that things will be back to normal soon.
+
+98
+00:06:44,700 --> 00:06:46,500
+And then we're asking people not to hoard.
+
+99
+00:06:46,500 --> 00:06:50,340
+I got to say there's nothing that comes out of the current Biden administration that sounds
+
+100
+00:06:50,340 --> 00:06:51,340
+truthful.
+
+101
+00:06:51,340 --> 00:06:54,660
+A supply crunch, not a gasoline shortage.
+
+102
+00:06:54,660 --> 00:06:57,580
+What do you think a supply crunch is?
+
+103
+00:06:57,580 --> 00:07:00,940
+A shortage is when there is a lack of supply.
+
+104
+00:07:00,940 --> 00:07:06,460
+Meanwhile, Biden's solution to the problem is more education spending.
+
+105
+00:07:06,460 --> 00:07:07,860
+All right.
+
+106
+00:07:07,860 --> 00:07:12,540
+I think that this shows that I think we have to make a greater investment in education
+
+107
+00:07:12,540 --> 00:07:17,100
+as it relates to being able to train and graduate more people proficient in cybersecurity.
+
+108
+00:07:17,100 --> 00:07:23,800
+Okay, I can I can kind of see the connection here, but I think the extent of the education
+
+109
+00:07:23,800 --> 00:07:28,360
+is don't click on links promising big titties.
+
+110
+00:07:28,360 --> 00:07:33,200
+Of course, Newt Gingrich, a bag of gasoline himself, is using the opportunity to shill
+
+111
+00:07:33,200 --> 00:07:35,360
+for another pointless, terrible war.
+
+112
+00:07:35,360 --> 00:07:37,520
+Nobody should be surprised by this.
+
+113
+00:07:37,520 --> 00:07:41,160
+The former Speaker of the House called for military strikes to kill those involved in
+
+114
+00:07:41,160 --> 00:07:43,660
+an act of war against America.
+
+115
+00:07:43,660 --> 00:07:48,440
+Now Newt Gingrich is not part of the Democratic Party, but we all know that the Democrats
+
+116
+00:07:48,440 --> 00:07:50,360
+have been itching for a new war.
+
+117
+00:07:50,360 --> 00:07:51,560
+And who knows?
+
+118
+00:07:51,560 --> 00:07:54,920
+Maybe they'll blow enough smoke up everyone's ass to finally get one going here.
+
+119
+00:07:54,920 --> 00:07:58,880
+I'm sure the neocons would be happy to get on board by the time this became a full fledged
+
+120
+00:07:58,880 --> 00:07:59,880
+story.
+
+121
+00:07:59,880 --> 00:08:00,880
+However, it was over.
+
+122
+00:08:00,880 --> 00:08:02,560
+They paid their five million in crypto.
+
+123
+00:08:02,560 --> 00:08:06,480
+They got their computer systems back and the pipeline has now restarted.
+
+124
+00:08:06,480 --> 00:08:08,300
+Normal service will take several days.
+
+125
+00:08:08,300 --> 00:08:13,760
+But even now, as things return to normal, it has still sparked a round of panic buying.
+
+126
+00:08:13,760 --> 00:08:15,480
+And that really is the real conversation here.
+
+127
+00:08:15,480 --> 00:08:22,320
+I did a video last year on panic buying regarding back then it was getting food and toilet paper
+
+128
+00:08:22,320 --> 00:08:25,280
+before the first wave of coronavirus hit your area.
+
+129
+00:08:25,280 --> 00:08:28,860
+I'm sure you guys must still remember what it was like a year ago, right?
+
+130
+00:08:28,860 --> 00:08:32,720
+Toilet paper, along with a lot of grocery staples, started getting completely wiped
+
+131
+00:08:32,720 --> 00:08:34,400
+out in major population centers.
+
+132
+00:08:34,400 --> 00:08:38,580
+And I was one of many people back then who were saying, ignore those who claim that prepping
+
+133
+00:08:38,580 --> 00:08:44,160
+for coronavirus is racism and go out and buy yourself some extra food now while you still
+
+134
+00:08:44,160 --> 00:08:48,040
+can if you live in an area where there has not yet been runs on this stuff.
+
+135
+00:08:48,040 --> 00:08:50,360
+And I heard from a lot of you, you guys did so.
+
+136
+00:08:50,360 --> 00:08:54,400
+You guys went out and bought like a bunch of cheap staples like beans and rice and pasta.
+
+137
+00:08:54,400 --> 00:08:57,420
+You guys got extra toilet paper and extra cleaning supplies.
+
+138
+00:08:57,420 --> 00:08:59,920
+And a lot of you were able to ride out that initial wave.
+
+139
+00:08:59,920 --> 00:09:00,920
+No problem.
+
+140
+00:09:00,920 --> 00:09:01,920
+I was too.
+
+141
+00:09:01,920 --> 00:09:06,080
+I actually remember telling Naomi, hey, listen, uh, we've got to get like, you know, a month
+
+142
+00:09:06,080 --> 00:09:08,620
+or two's worth of extra food here at least.
+
+143
+00:09:08,620 --> 00:09:09,620
+And she listened to me.
+
+144
+00:09:09,620 --> 00:09:11,160
+She was a bit skeptical, but she, but she listened to me.
+
+145
+00:09:11,160 --> 00:09:14,660
+And then as things got worse, she was like, yeah, okay, that was the right call.
+
+146
+00:09:14,660 --> 00:09:16,360
+We actually had so much toilet paper.
+
+147
+00:09:16,360 --> 00:09:21,900
+We had, we had bought like triple the amount that we would use throughout an entire year.
+
+148
+00:09:21,900 --> 00:09:24,480
+And we're still kind of going through it now.
+
+149
+00:09:24,480 --> 00:09:27,760
+And we actually ended up giving some away to some people because, uh, like some friends
+
+150
+00:09:27,760 --> 00:09:30,520
+didn't have any, but still I'm sure you remember what it was like.
+
+151
+00:09:30,520 --> 00:09:32,760
+Other cleaning supplies were vanishing too.
+
+152
+00:09:32,760 --> 00:09:38,160
+And yeah, idiots were dying after drinking hand sanitizer for, for some fucking reason.
+
+153
+00:09:38,160 --> 00:09:40,840
+But panic buying seems to be something that we do.
+
+154
+00:09:40,840 --> 00:09:42,000
+And of course, right.
+
+155
+00:09:42,000 --> 00:09:43,000
+It would make sense.
+
+156
+00:09:43,000 --> 00:09:44,400
+That's part of our psychology.
+
+157
+00:09:44,400 --> 00:09:47,480
+We evolved in an environment of fundamental scarcity.
+
+158
+00:09:47,480 --> 00:09:50,880
+We see many other animals saving food for lean times.
+
+159
+00:09:50,880 --> 00:09:55,740
+And in that video, it was, it was called, I think, um, why is preparation problematic
+
+160
+00:09:55,740 --> 00:09:56,880
+or something like that?
+
+161
+00:09:56,880 --> 00:10:02,360
+I basically laid out the argument that a lot of socialists don't like the idea of panic
+
+162
+00:10:02,360 --> 00:10:08,080
+buying or in general prepping for the future is because one, their ideal socialist utopia
+
+163
+00:10:08,080 --> 00:10:10,520
+is a world where scarcity has been eliminated.
+
+164
+00:10:10,520 --> 00:10:14,820
+And two, because a lot of them are ignorant of the nuts and bolts of, of how things work.
+
+165
+00:10:14,820 --> 00:10:17,600
+They think we are a lot closer to that than we actually are.
+
+166
+00:10:17,600 --> 00:10:21,940
+The number of socialists who have told me that under real socialism, there would never
+
+167
+00:10:21,940 --> 00:10:29,340
+again be a rainy day and therefore no reason to save up for one has been rather high.
+
+168
+00:10:29,340 --> 00:10:33,320
+The main reason I can't show you a lot of these conversations specifically is because
+
+169
+00:10:33,320 --> 00:10:36,880
+they were with an old account that has since been banned, but I'm sure we all remember
+
+170
+00:10:36,880 --> 00:10:41,240
+this person who said in response to people buying a little bit extra saving for a rainy
+
+171
+00:10:41,240 --> 00:10:44,160
+day, all houses should be inspected.
+
+172
+00:10:44,160 --> 00:10:47,760
+Anyone that has more than two weeks food should be fined heavily.
+
+173
+00:10:47,760 --> 00:10:49,280
+After all, that's not your food.
+
+174
+00:10:49,280 --> 00:10:51,120
+It's the people's food comrade.
+
+175
+00:10:51,120 --> 00:10:53,120
+And you're hoarding it like a cool lock.
+
+176
+00:10:53,120 --> 00:10:58,000
+You're being solipsistic again, socialism will always require a massive surveillance
+
+177
+00:10:58,000 --> 00:11:01,960
+state to ensure that people are following the rules.
+
+178
+00:11:01,960 --> 00:11:03,680
+Meanwhile, liberalism doesn't care.
+
+179
+00:11:03,680 --> 00:11:04,680
+Yeah.
+
+180
+00:11:04,680 --> 00:11:06,040
+There are sometimes shortages.
+
+181
+00:11:06,040 --> 00:11:07,920
+There are sometimes bread lines.
+
+182
+00:11:07,920 --> 00:11:10,520
+And under socialism, you sometimes get bread.
+
+183
+00:11:10,520 --> 00:11:15,460
+Market fluctuations are inevitable and the temporary disruption of supply is not a good
+
+184
+00:11:15,460 --> 00:11:17,800
+enough argument against liberal society.
+
+185
+00:11:17,800 --> 00:11:21,080
+I will end off with just an idle musing here.
+
+186
+00:11:21,080 --> 00:11:25,120
+It is really funny to me that we're currently facing this situation when this time a year
+
+187
+00:11:25,120 --> 00:11:29,040
+ago, the value of oil actually dropped below zero.
+
+188
+00:11:29,040 --> 00:11:30,040
+You remember that shit?
+
+189
+00:11:30,040 --> 00:11:31,560
+That was a big story back then.
+
+190
+00:11:31,560 --> 00:11:35,420
+I didn't cover it because it was kind of a flash in the pan thing, but I'm sure you saw
+
+191
+00:11:35,420 --> 00:11:36,420
+it somewhere.
+
+192
+00:11:36,420 --> 00:11:41,660
+April 2020, oil became so cheap it was less than a bottle of Coke and people who were
+
+193
+00:11:41,660 --> 00:11:46,000
+trading barrels of oil buying with the intention to flip it, they actually started losing quite
+
+194
+00:11:46,000 --> 00:11:49,460
+a bit of money because the price on oil was just so low.
+
+195
+00:11:49,460 --> 00:11:50,460
+And now look at us.
+
+196
+00:11:50,460 --> 00:11:55,360
+We have a run on oil without making any other claim about any other political situation
+
+197
+00:11:55,360 --> 00:11:56,700
+beyond this topic.
+
+198
+00:11:56,700 --> 00:12:00,960
+I do miss the days when oil was so cheap, we could just pull up to a gas station, fill
+
+199
+00:12:00,960 --> 00:12:01,960
+up our tank.
+
+200
+00:12:01,960 --> 00:12:04,580
+And if our car needed a little bit of wash, oh, it's fine.
+
+201
+00:12:04,580 --> 00:12:06,780
+Just a splash, a little bit of gasoline on it.
+
+202
+00:12:06,780 --> 00:12:07,780
+It'll be okay.
+
+203
+00:12:07,780 --> 00:12:08,780
+Oh my gosh.
+
+204
+00:12:08,780 --> 00:12:09,780
+Okay.
+
+205
+00:12:09,780 --> 00:12:15,700
+So you go, go in and tell, yeah, somebody's are going and tell somebody she's doing the
+
+206
+00:12:15,700 --> 00:12:18,540
+whole car and see what she's doing.
+
+207
+00:12:18,540 --> 00:12:22,740
+Well, also think about how much money she's spending because she's running right now.
+
+208
+00:12:22,740 --> 00:12:24,320
+This is a lot of money.
+
+209
+00:12:24,320 --> 00:12:27,180
+This is the most expensive car wash ever.
+
+210
+00:12:27,180 --> 00:12:31,740
+Wait, wait, actually, what do we, what do you want us to say?
+
+211
+00:12:31,740 --> 00:12:36,820
+Say stop washing your car with gasoline, maybe.
+

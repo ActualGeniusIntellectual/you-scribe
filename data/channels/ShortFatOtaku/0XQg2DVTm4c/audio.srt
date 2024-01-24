@@ -1,0 +1,772 @@
+1
+00:00:00,000 --> 00:00:09,280
+In my Scott Cawthon video, I outlined the following principle, and since we're going
+
+2
+00:00:09,280 --> 00:00:12,840
+to be using it again today, it's probably a good idea to dig into it a bit more deeply.
+
+3
+00:00:12,840 --> 00:00:17,160
+I mentioned that if you had an immutable characteristic that you publicly identified with, you could
+
+4
+00:00:17,160 --> 00:00:18,720
+experience bigotry for it.
+
+5
+00:00:18,720 --> 00:00:22,980
+For example, if you outwardly identified as a gay man, and you had the immutable characteristic
+
+6
+00:00:22,980 --> 00:00:26,260
+of being gay, you might face homophobia from some people.
+
+7
+00:00:26,260 --> 00:00:31,100
+To anybody who is liberal-minded, to anybody who values fairness as a principle, this isn't
+
+8
+00:00:31,100 --> 00:00:32,100
+right.
+
+9
+00:00:32,100 --> 00:00:35,140
+It makes no sense to hold somebody back in life for something that they cannot help and
+
+10
+00:00:35,140 --> 00:00:36,140
+cannot change.
+
+11
+00:00:36,140 --> 00:00:37,580
+That seems simple enough, right?
+
+12
+00:00:37,580 --> 00:00:41,260
+That was the backbone of gay marriage activism, back when that was still a relevant social
+
+13
+00:00:41,260 --> 00:00:42,260
+issue.
+
+14
+00:00:42,260 --> 00:00:43,660
+You know, being born that way.
+
+15
+00:00:43,660 --> 00:00:49,140
+I still believe this to be fundamentally true, but when you poison this equation with intersectionality,
+
+16
+00:00:49,140 --> 00:00:53,460
+when you replace the fairness of liberalism with the equity of progressivism, we can watch
+
+17
+00:00:53,460 --> 00:00:56,420
+in real time this formulation crumble away.
+
+18
+00:00:56,420 --> 00:01:00,980
+The liberal conception of bigotry requires both components to be real homophobia, the
+
+19
+00:01:00,980 --> 00:01:03,260
+identity and the immutable characteristic.
+
+20
+00:01:03,260 --> 00:01:04,800
+That should seem obvious.
+
+21
+00:01:04,800 --> 00:01:08,660
+For example, if you're a closeted gay man, and let's say that you're closeted enough
+
+22
+00:01:08,660 --> 00:01:12,300
+that others can't really tell that you're gay, if you have the immutable characteristic
+
+23
+00:01:12,300 --> 00:01:17,580
+of being gay, but not that public persona, you're not actually going to experience homophobia,
+
+24
+00:01:17,580 --> 00:01:19,500
+at least not directed at you.
+
+25
+00:01:19,500 --> 00:01:23,600
+There are, of course, also instances where you cannot actually conceal the identity.
+
+26
+00:01:23,600 --> 00:01:27,540
+For example, you can't be a closeted black man, you're always going to have that outward
+
+27
+00:01:27,540 --> 00:01:29,220
+signifier due to your skin color.
+
+28
+00:01:29,220 --> 00:01:33,500
+The legitimate racism that black people face comes from the public identification of their
+
+29
+00:01:33,500 --> 00:01:36,780
+blackness, plus the immutable characteristic that is their ethnicity.
+
+30
+00:01:36,780 --> 00:01:41,020
+What progressives began to notice, however, is that people who had the identity, but not
+
+31
+00:01:41,020 --> 00:01:45,900
+the immutable characteristic, could also experience something that, on the surface, seemed like
+
+32
+00:01:45,900 --> 00:01:46,900
+bigotry.
+
+33
+00:01:46,900 --> 00:01:49,140
+Let's assume a man who isn't actually gay at all.
+
+34
+00:01:49,140 --> 00:01:52,900
+He lacks the immutable characteristic of being gay, but he outwardly presents as very
+
+35
+00:01:52,900 --> 00:01:58,020
+feminine and camp, and you know, stereotypically gay, even though he's not.
+
+36
+00:01:58,020 --> 00:02:02,220
+If that individual were to be placed in a social situation where a gay person might
+
+37
+00:02:02,220 --> 00:02:07,020
+experience homophobia, he too would be given shit for his outward behaviors by those same
+
+38
+00:02:07,020 --> 00:02:08,020
+people.
+
+39
+00:02:08,020 --> 00:02:11,940
+However, where the progressives went wrong, was in assuming that this negativity was actually
+
+40
+00:02:11,940 --> 00:02:17,100
+homophobia, of the exact same stripe that a legitimately gay man would face, however,
+
+41
+00:02:17,100 --> 00:02:18,100
+it's not.
+
+42
+00:02:18,100 --> 00:02:19,860
+After all, he's not actually gay.
+
+43
+00:02:19,860 --> 00:02:23,780
+Maybe it's anti-male sentiment, maybe it's anti-femboy sentiment, though I can see why
+
+44
+00:02:23,780 --> 00:02:27,940
+the progs, for political reasons, would not want to admit that those two forms of bigotry
+
+45
+00:02:27,940 --> 00:02:29,280
+actually exist.
+
+46
+00:02:29,280 --> 00:02:32,580
+Maybe it's not bigotry at all, maybe they're just making fun of him for being a wimp.
+
+47
+00:02:32,580 --> 00:02:34,260
+Maybe he actually does need to toughen up a little bit.
+
+48
+00:02:34,260 --> 00:02:35,300
+Maybe not, who knows?
+
+49
+00:02:35,300 --> 00:02:40,260
+But the point is, within the liberal framework we're talking about here, this isn't homophobia
+
+50
+00:02:40,260 --> 00:02:42,520
+because there's no actual gay people involved.
+
+51
+00:02:42,520 --> 00:02:46,200
+By the way, this is why I think two white people who jokingly say the n-word to each
+
+52
+00:02:46,200 --> 00:02:50,240
+other aren't actually racist, because I don't believe language is a magic spell that you
+
+53
+00:02:50,240 --> 00:02:53,160
+cast to make the universe incrementally better or worse.
+
+54
+00:02:53,160 --> 00:02:57,240
+However, if we accept the progressive framework rather than the liberal one on this issue,
+
+55
+00:02:57,240 --> 00:03:00,600
+if we were to actually believe that the feminine guy getting flacked for being feminine is
+
+56
+00:03:00,600 --> 00:03:06,640
+somehow actually homophobia, and not simply anti-male or anti-fem or just people being
+
+57
+00:03:06,640 --> 00:03:11,220
+assholes, then it logically follows that in order to experience bigotry, you don't actually
+
+58
+00:03:11,220 --> 00:03:14,520
+need the immutable characteristic, only the identity.
+
+59
+00:03:14,520 --> 00:03:17,560
+You don't need to be gay to experience homophobia.
+
+60
+00:03:17,560 --> 00:03:21,800
+And what logically follows from that is people demanding all of their identities be respected
+
+61
+00:03:21,800 --> 00:03:26,720
+as valid, all the way down to mental illnesses or associations with fandoms and subcultures,
+
+62
+00:03:26,720 --> 00:03:28,560
+and yes, transracialism.
+
+63
+00:03:28,560 --> 00:03:32,200
+And even if there's a possibility that the person is just faking it for clout, like I
+
+64
+00:03:32,200 --> 00:03:36,700
+brought up in my Demi Lovato video, there's a big story recently about Ollie London transitioning
+
+65
+00:03:36,700 --> 00:03:38,440
+their race to become Korean.
+
+66
+00:03:38,440 --> 00:03:41,760
+This was covered by Hassan, who hilariously had no argument against it.
+
+67
+00:03:41,760 --> 00:04:04,880
+It was also covered by Sargon and PewDiePie and others too.
+
+68
+00:04:04,880 --> 00:04:08,180
+But I think everybody's missing a crucial component of the conversation here.
+
+69
+00:04:08,180 --> 00:04:12,100
+That component is the difference between the liberal and progressive conceptions of
+
+70
+00:04:12,100 --> 00:04:13,100
+bigotry.
+
+71
+00:04:13,100 --> 00:04:17,120
+This logic applies to other transracial people as well, from Shaun King to Rachel Dolezal.
+
+72
+00:04:17,120 --> 00:04:21,300
+The progressives find themselves without any convincing arguments against transracialism
+
+73
+00:04:21,300 --> 00:04:25,480
+because they have already expelled the immutable characteristic from the bigotry equation.
+
+74
+00:04:25,480 --> 00:04:30,480
+If it really is all just identification, then however you identify must inherently be valid,
+
+75
+00:04:30,480 --> 00:04:32,800
+no matter what it is you're identifying as.
+
+76
+00:04:32,800 --> 00:04:36,480
+By the way, this is the core of the attack helicopter joke from years and years ago.
+
+77
+00:04:36,480 --> 00:04:57,480
+I'm glad progressives are finally beginning to catch on to this logic.
+
+78
+00:04:57,480 --> 00:05:02,480
+I remember at one point speaking to Lilith about her own transgenderism, and she colloquially
+
+79
+00:05:02,480 --> 00:05:06,500
+defined it as, I think I'm a girl and I can't stop.
+
+80
+00:05:06,500 --> 00:05:08,500
+There's two important takeaways from that.
+
+81
+00:05:08,500 --> 00:05:12,700
+One is that she's appealing to an immutable characteristic, that she cannot help but be
+
+82
+00:05:12,700 --> 00:05:13,700
+trans.
+
+83
+00:05:13,700 --> 00:05:17,700
+It doesn't matter if in some alternate timeline, she decided to not transition, and instead
+
+84
+00:05:17,700 --> 00:05:20,080
+outwardly appearing to be hyper-masculine.
+
+85
+00:05:20,080 --> 00:05:22,660
+She would always be this way inside her own head.
+
+86
+00:05:22,660 --> 00:05:24,620
+She would always be closeted.
+
+87
+00:05:24,620 --> 00:05:29,460
+And two, naturally following from one, she recognizes that she thinks she is a woman.
+
+88
+00:05:29,460 --> 00:05:33,440
+Not that she's actually biologically female and therefore sex doesn't exist and all
+
+89
+00:05:33,440 --> 00:05:34,440
+this other nonsense.
+
+90
+00:05:34,440 --> 00:05:37,960
+Lilith understands that she has gender dysphoria, that it is a mental disorder, and that her
+
+91
+00:05:37,960 --> 00:05:41,820
+being afflicted with it is the grounds that makes her treatment of it legitimate.
+
+92
+00:05:41,820 --> 00:05:43,480
+Part of that treatment is transitioning.
+
+93
+00:05:43,480 --> 00:05:46,820
+Part of that treatment is surrounding herself with people who accept her identity.
+
+94
+00:05:46,820 --> 00:05:49,560
+But she also understands that some people just won't do that.
+
+95
+00:05:49,560 --> 00:05:52,420
+They have the right not to, and she has the right not to associate with them.
+
+96
+00:05:52,420 --> 00:05:55,660
+This is what makes transgenderism valid within a liberal framework.
+
+97
+00:05:55,660 --> 00:05:59,800
+The understanding that it's not simply a matter of identity, but that it has an immutable,
+
+98
+00:05:59,800 --> 00:06:00,800
+medical component.
+
+99
+00:06:00,800 --> 00:06:04,100
+And that transitioning is not simply living your best life or being accepted for who you
+
+100
+00:06:04,100 --> 00:06:06,880
+are deep down, it's medical treatment.
+
+101
+00:06:06,880 --> 00:06:10,620
+Progressives fundamentally reject this liberal argument as transmedicalism.
+
+102
+00:06:10,620 --> 00:06:15,780
+The transmedicalist is somebody who believes that being transgender is contingent on experiencing
+
+103
+00:06:15,780 --> 00:06:20,120
+gender dysphoria, and that people who identify as transgender but don't experience gender
+
+104
+00:06:20,120 --> 00:06:24,620
+dysphoria and have no desire to transition are not truly transgender.
+
+105
+00:06:24,620 --> 00:06:29,860
+Progressives often deride transmedicalists as true scum, which stands for true transsexual
+
+106
+00:06:29,860 --> 00:06:33,980
+scum, referring to the practice of gatekeeping transness to people who actually experience
+
+107
+00:06:33,980 --> 00:06:35,180
+gender dysphoria.
+
+108
+00:06:35,180 --> 00:06:40,380
+The progressives also contrast true scum with too cute, standing for too cute to be cisgender.
+
+109
+00:06:40,380 --> 00:06:44,140
+Yes, I know that neither of these terms are acronyms, I never said this shit made any
+
+110
+00:06:44,140 --> 00:06:45,140
+sense.
+
+111
+00:06:45,140 --> 00:06:48,940
+The point is, there is a massive split between the trans people who genuinely cannot help
+
+112
+00:06:48,940 --> 00:06:53,260
+but be trans, and the trans people who believe that they are trans based solely on their
+
+113
+00:06:53,260 --> 00:06:54,860
+identity as such.
+
+114
+00:06:54,860 --> 00:06:59,540
+Liberal versus progressive, transmedicalist versus transtrender, immutable characteristic
+
+115
+00:06:59,540 --> 00:07:00,540
+versus identity.
+
+116
+00:07:00,540 --> 00:07:03,240
+It should be no surprise to you which side I fall on.
+
+117
+00:07:03,240 --> 00:07:07,280
+When Hassan spoke out against Olly London's transracialism on the grounds of it lacking
+
+118
+00:07:07,280 --> 00:07:11,660
+an immutable characteristic, his own chatroom rebelled against him, bringing up the spectre
+
+119
+00:07:11,660 --> 00:07:37,260
+of transmedicalism.
+
+120
+00:08:07,260 --> 00:08:14,060
+And if you're a progressive who already expelled the legitimacy of immutable characteristics
+
+121
+00:08:14,060 --> 00:08:18,420
+from your moral framework, then you have no leg to stand on when it comes to transracial
+
+122
+00:08:18,420 --> 00:08:19,420
+people.
+
+123
+00:08:19,420 --> 00:08:22,200
+Progressives have to fall back on liberal positions to object to this shit.
+
+124
+00:08:22,200 --> 00:08:24,900
+Like I said, this is an older phenomenon than just Olly London.
+
+125
+00:08:24,900 --> 00:08:26,440
+Other people have been doing this for a while now.
+
+126
+00:08:26,440 --> 00:08:30,880
+This is an article from 2019 complaining about Rachel Dolezal, titled Transracial is not
+
+127
+00:08:30,880 --> 00:08:32,140
+the New Transgender.
+
+128
+00:08:32,140 --> 00:08:34,700
+How do you think these people square their objection to it?
+
+129
+00:08:34,700 --> 00:08:39,420
+Unlike gender, which is assigned to you at birth, your race or ethnicity is rooted in
+
+130
+00:08:39,420 --> 00:08:40,420
+ancestry.
+
+131
+00:08:40,420 --> 00:08:43,340
+You can't inherit your gender, but you do inherit your race.
+
+132
+00:08:43,340 --> 00:08:46,660
+The fact that these people believe that they can pick and choose parts of their ethnicity
+
+133
+00:08:46,660 --> 00:08:50,820
+they want, and later decide to revert to their whiteness is white privilege at its worst.
+
+134
+00:08:50,820 --> 00:08:53,860
+Oh look, it's an appeal to immutable characteristics.
+
+135
+00:08:53,860 --> 00:08:58,480
+Of course, the truth is, you do actually inherit both your biological sex, and in many cases
+
+136
+00:08:58,480 --> 00:09:02,460
+your gender identity, from your parents, because we are not purely socially constructed beings.
+
+137
+00:09:02,740 --> 00:09:04,820
+Here's the real kicker though.
+
+138
+00:09:04,820 --> 00:09:09,700
+Progressives actually do believe in transracialism, but only when it benefits their politics.
+
+139
+00:09:09,700 --> 00:09:11,540
+Here's a viral Twitter thread from last year.
+
+140
+00:09:11,540 --> 00:09:13,300
+If you look white, you're white.
+
+141
+00:09:13,300 --> 00:09:16,380
+The concept of race is based on appearance.
+
+142
+00:09:16,380 --> 00:09:20,020
+So you're outward facing identity, not your immutable characteristics.
+
+143
+00:09:20,020 --> 00:09:22,180
+So yeah, you're white and you need to face that.
+
+144
+00:09:22,180 --> 00:09:27,020
+Yes, you can still be ethnically and culturally part of a non-white culture, but you are still
+
+145
+00:09:27,020 --> 00:09:28,020
+white.
+
+146
+00:09:28,020 --> 00:09:29,300
+Check your privilege and use it for good.
+
+147
+00:09:29,300 --> 00:09:31,580
+Maybe sometimes you're seen as white, but sometimes you're not.
+
+148
+00:09:31,700 --> 00:09:35,300
+Yet the mere fact that you can be seen as white at all is a privilege itself.
+
+149
+00:09:35,300 --> 00:09:37,100
+You can still be white and indigenous.
+
+150
+00:09:37,100 --> 00:09:39,820
+You can be white and have parents or siblings who are visibly non-white.
+
+151
+00:09:39,820 --> 00:09:42,060
+It doesn't cancel out your hardships.
+
+152
+00:09:42,060 --> 00:09:43,700
+Intersectionality will always be a thing.
+
+153
+00:09:43,700 --> 00:09:48,060
+Don't come into my mentions telling me about how your struggles as a white passing person
+
+154
+00:09:48,060 --> 00:09:50,900
+overshadow mine as a very visible Asian person.
+
+155
+00:09:50,900 --> 00:09:54,780
+I respect and encourage you to stay connected with your non-white culture, but don't act
+
+156
+00:09:54,780 --> 00:09:57,740
+like you know what it's like to be an actual person of color.
+
+157
+00:09:57,740 --> 00:10:01,940
+When the transracialism involves a white person transitioning to be another race, it's invalid,
+
+158
+00:10:01,940 --> 00:10:05,860
+it's blackface, it's whitey avoiding responsibility for their colonizing past.
+
+159
+00:10:05,860 --> 00:10:09,620
+But when the transracialism involves a non-white person looking more white than they actually
+
+160
+00:10:09,620 --> 00:10:14,080
+are, these activists are willing to completely expel people into the white race based on
+
+161
+00:10:14,080 --> 00:10:15,080
+colorism alone.
+
+162
+00:10:15,080 --> 00:10:18,500
+If you're a black person who is white passing, you ain't black, I guess.
+
+163
+00:10:18,500 --> 00:10:23,800
+It's almost as if non-white racial identities are cherished and protected as something exclusive
+
+164
+00:10:23,800 --> 00:10:24,800
+by these people.
+
+165
+00:10:24,860 --> 00:10:28,600
+As a side note, it will always be weird to me to watch progressives fall back on the
+
+166
+00:10:28,600 --> 00:10:33,340
+one-drop rule in order to justify their strict ethnic segregationism, despite completely
+
+167
+00:10:33,340 --> 00:10:36,960
+avoiding biology as they abolish gender segregationism.
+
+168
+00:10:36,960 --> 00:10:41,900
+The separate but equal doctrine in American law was enshrined by the Plessy vs Ferguson
+
+169
+00:10:41,900 --> 00:10:44,080
+lawsuit in 1896.
+
+170
+00:10:44,080 --> 00:10:47,960
+Homer Plessy, who was one-eighth black and therefore legally considered to be a black
+
+171
+00:10:47,960 --> 00:10:52,620
+man because American law cared about race in that way at that time, and despite appearing
+
+172
+00:10:52,620 --> 00:10:57,880
+entirely white, was forced out of the first class carriage of a train back into the colored
+
+173
+00:10:57,880 --> 00:11:00,600
+carriage despite having a first class ticket.
+
+174
+00:11:00,600 --> 00:11:05,960
+Over 100 years later, people similarly complain about pretendians like Elizabeth Warren who
+
+175
+00:11:05,960 --> 00:11:11,400
+use some distant Native American ancestry to gain advantages, despite being almost entirely
+
+176
+00:11:11,400 --> 00:11:12,400
+white.
+
+177
+00:11:12,400 --> 00:11:15,480
+Both are bigotry, both are unfair, both are fundamentally anti-liberal.
+
+178
+00:11:15,480 --> 00:11:19,800
+We can object to this stuff because our formulation of bigotry is still intact, it's not just
+
+179
+00:11:19,800 --> 00:11:23,520
+how you identify, it's also your immutable characteristics that determines legitimate
+
+180
+00:11:23,520 --> 00:11:24,520
+bigotry.
+
+181
+00:11:24,520 --> 00:11:27,620
+In removing the immutable characteristics from their arguments, progressives have no
+
+182
+00:11:27,620 --> 00:11:32,220
+reply to any of this, and if that's the case, there is no argument against stuff like
+
+183
+00:11:32,220 --> 00:11:33,320
+this too.
+
+184
+00:11:33,320 --> 00:11:38,360
+Why not simply define yourself as not white but 75% French and 25% Belgian?
+
+185
+00:11:38,360 --> 00:11:41,220
+If white people today are going to take the blame for shit they didn't do on the grounds
+
+186
+00:11:41,220 --> 00:11:44,740
+of ancestral guilt, why not just identify yourself out of whiteness?
+
+187
+00:11:44,740 --> 00:11:45,740
+Fuck it.
+
+188
+00:11:45,740 --> 00:11:50,900
+Why, from a liberal perspective, we see progressives as being racist, sexist, homophobic and so
+
+189
+00:11:50,900 --> 00:11:54,740
+on because their conception of bigotry inevitably leads to more bigotry.
+
+190
+00:11:54,740 --> 00:11:58,500
+The progressive in stripping away the immutable characteristic from the equation becomes permissive
+
+191
+00:11:58,500 --> 00:12:02,660
+of a whole bunch of terrible stuff that liberals correctly view as bigoted.
+
+192
+00:12:02,660 --> 00:12:06,740
+Their only way out is to double down on their bigotry or fall back to our position once
+
+193
+00:12:06,740 --> 00:12:08,060
+they can no longer stand lying.
+
