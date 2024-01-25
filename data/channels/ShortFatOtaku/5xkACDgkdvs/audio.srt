@@ -1,0 +1,816 @@
+1
+00:00:00,000 --> 00:00:04,680
+Hello everyone and welcome to This Week in Stupid for the 30th of September 2018, because
+
+2
+00:00:04,680 --> 00:00:10,160
+I will no longer be producing This Week in Stupid, Dev from Shofar Taku, will be uploading
+
+3
+00:00:10,160 --> 00:00:16,400
+content to my main channel. I'm tired though, you know? I'm tired.
+
+4
+00:00:16,400 --> 00:00:21,400
+Thank you very much, Sargon. Rest assured that while you're sleeping off your low dopamine
+
+5
+00:00:21,400 --> 00:00:26,580
+levels, This Week in Stupid is in good hands. And just so I don't break tradition, today
+
+6
+00:00:26,580 --> 00:00:33,300
+I have vanilla hazelnut coffee, and man, is it tasty.
+
+7
+00:00:33,300 --> 00:00:40,000
+And the subject of this week's episode is university stupidity, so let's jump right
+
+8
+00:00:40,000 --> 00:00:47,460
+into it. A mathematician says activists made his paper disappear because its findings offended
+
+9
+00:00:47,460 --> 00:00:52,560
+them. At behest of a feminist professor, an academic journal's board reportedly threatened
+
+10
+00:00:52,560 --> 00:00:57,820
+to harass the journal until it died. Theodore Hill, a retired professor of mathematics at
+
+11
+00:00:57,820 --> 00:01:03,280
+Georgia Tech, claims that activists successfully pressured the New York Journal of Mathematics
+
+12
+00:01:03,280 --> 00:01:07,240
+to delete an article he had written for the academic journal because it considered a politically
+
+13
+00:01:07,240 --> 00:01:12,760
+incorrect subject, the achievement gap between men and women at very high levels of human
+
+14
+00:01:12,760 --> 00:01:20,520
+intelligence. See, it doesn't even say what stance this professor took on this subject,
+
+15
+00:01:20,520 --> 00:01:25,920
+it's that he was considering it. If you consider it now, you have to be banned, you have to
+
+16
+00:01:25,920 --> 00:01:30,860
+be censored, you have to be thrown out, your journal has to be harassed until it dies.
+
+17
+00:01:30,860 --> 00:01:36,200
+The greater male variability hypothesis, first proposed by Charles Darwin, suggests that
+
+18
+00:01:36,200 --> 00:01:40,380
+there are more men than women at both the bottom and the very top of the distribution
+
+19
+00:01:40,380 --> 00:01:45,440
+for intelligence scores. More men than women are Nobel Prize winners and chess grand champions,
+
+20
+00:01:45,440 --> 00:01:51,600
+and more men than women are homeless, unemployed, and in prison. Men as a group express greater
+
+21
+00:01:51,600 --> 00:01:57,800
+variability in aptitude and ability. This difference, of course, need not be innate.
+
+22
+00:01:57,800 --> 00:02:02,880
+It could be the case that social custom and pressure... hold on a second guys, it's my
+
+23
+00:02:02,880 --> 00:02:15,400
+girlfriend... hey! What do you want? I'm currently live and the phone's right up against the
+
+24
+00:02:15,400 --> 00:02:23,960
+mic, say hello! Hi guys, I didn't know you were live. Okay, what's going on? Nope, nevermind,
+
+25
+00:02:23,960 --> 00:02:30,560
+not an important question at all, just leave. Bye. You're worse than V! I'm gonna get in
+
+26
+00:02:30,560 --> 00:02:35,400
+shit for that later. So the whole point of the greater male variability hypothesis is
+
+27
+00:02:35,400 --> 00:02:42,400
+basically that because men are more biologically disposable than women are, nature kind of
+
+28
+00:02:42,400 --> 00:02:47,400
+has more free rein to tinker with them and to see what works and what doesn't in terms
+
+29
+00:02:47,400 --> 00:02:54,720
+of random mutations. And this is obvious because, you know, in order to secure reproduction,
+
+30
+00:02:54,720 --> 00:03:01,520
+men have to have sex for like, at the very least, the absolute minimum, a couple of minutes,
+
+31
+00:03:01,520 --> 00:03:06,760
+meanwhile women have to carry the child for nine months. So biologically speaking, men
+
+32
+00:03:06,760 --> 00:03:11,480
+are just not as valuable. Socially speaking, of course, we can have a completely different
+
+33
+00:03:11,480 --> 00:03:17,940
+conversation there, but biologically speaking, that is just the way it is. So, if random
+
+34
+00:03:17,940 --> 00:03:21,680
+mutations have to happen, it's better overall for them to happen in the males of a species
+
+35
+00:03:21,680 --> 00:03:27,720
+than in the females. Which I think makes sense, because, you know, one woman who gets knocked
+
+36
+00:03:27,720 --> 00:03:33,880
+out of the game, that's a far bigger hit to a population biologically than one man that
+
+37
+00:03:33,880 --> 00:03:38,760
+gets knocked out of the game. So, nature will tinker around with random mutations in men,
+
+38
+00:03:38,760 --> 00:03:42,880
+sometimes they're bad and they become fucking losers, sometimes they're good and they become
+
+39
+00:03:42,880 --> 00:03:48,000
+gifted geniuses or something. Hill says that he and a co-author came up with a theoretical
+
+40
+00:03:48,000 --> 00:03:52,880
+model that would help explain the gap, then attempted to publish a paper about their work
+
+41
+00:03:52,880 --> 00:03:59,720
+in Mathematical Intelligencer. The paper was accepted, though the topic is controversial.
+
+42
+00:03:59,720 --> 00:04:04,400
+Larry Summers resigned as president of Harvard University, in part due to criticism he received
+
+43
+00:04:04,400 --> 00:04:09,000
+for broaching the subject of variability at an academic conference. This subject of variability
+
+44
+00:04:09,000 --> 00:04:18,400
+is one, the truth, and two, it's a political minefield right now, because people just don't
+
+45
+00:04:18,400 --> 00:04:23,740
+want to hear that maybe there's a biological component to some things. Now you're being
+
+46
+00:04:23,740 --> 00:04:28,720
+a biological essentialist or something ridiculous like that. As might have been anticipated,
+
+47
+00:04:28,720 --> 00:04:38,160
+the paper was poorly received by feminist scholars. Hill's co-author, Sergei Tabachatkinov,
+
+48
+00:04:38,160 --> 00:04:43,040
+faced strident opposition at Penn State, where he is employed as a professor of mathematics.
+
+49
+00:04:43,040 --> 00:04:47,840
+According to Hill, at a faculty meeting the week before, the department head had explained
+
+50
+00:04:47,840 --> 00:04:52,740
+that sometimes values such as academic freedom and free speech come into conflict with other
+
+51
+00:04:52,740 --> 00:04:58,820
+values to which Penn State was committed. Well guess what? When that conflict happens,
+
+52
+00:04:58,820 --> 00:05:04,540
+academic freedom and free speech should win. A female colleague had then instructed Sergei
+
+53
+00:05:04,540 --> 00:05:10,120
+that he needed to admit and fight bias, adding that the belief that women have a lesser chance
+
+54
+00:05:10,120 --> 00:05:16,300
+to succeed in mathematics at the very top end is bias. Sergei had said that he had spent
+
+55
+00:05:16,300 --> 00:05:21,340
+endless hours talking to people who explained that the paper was bad and harmful, and tried
+
+56
+00:05:21,340 --> 00:05:26,200
+to convince him to withdraw my name to restore peace at the department and to avoid losing
+
+57
+00:05:26,200 --> 00:05:31,980
+whatever political capital I may still have. This is just basically the SJWs, the feminists,
+
+58
+00:05:31,980 --> 00:05:36,540
+the postmodernists trying to bully him into capitulation, saying no, it doesn't matter
+
+59
+00:05:36,540 --> 00:05:42,140
+what your research says, this is a political decision and you have to abide by it. The
+
+60
+00:05:42,140 --> 00:05:47,220
+National Science Foundation eventually wrote to him, asking that he remove from the paper
+
+61
+00:05:47,220 --> 00:05:51,780
+any acknowledgement that the NSF had helped to fund the research. This was done, according
+
+62
+00:05:51,780 --> 00:05:57,480
+to Hill, after two Penn State academics, the chair of the Climate and Diversity Committee
+
+63
+00:05:57,480 --> 00:06:03,060
+and the associate head for diversity and equity, had warned the NSF that the paper promotes
+
+64
+00:06:03,060 --> 00:06:07,940
+ideas detrimental to the advancement of women in science and at odds with the values of
+
+65
+00:06:07,940 --> 00:06:14,140
+the NSF. And also the truth. I mean, this is where it gets particularly ridiculous.
+
+66
+00:06:14,140 --> 00:06:19,020
+You see SJWs in video games, like with the gamergate, or you see Comixgate, or something
+
+67
+00:06:19,020 --> 00:06:25,780
+like that, and those things are obviously bad, but it's like, I mean, I hate to really
+
+68
+00:06:25,780 --> 00:06:31,860
+bring this up, but it really is just entertainment, right? Like, obviously I don't want this to
+
+69
+00:06:31,860 --> 00:06:37,720
+happen here, but it's not super, super important, but when it happens to suppress legitimate
+
+70
+00:06:37,720 --> 00:06:46,180
+studies, studies with a factual backing, studies with some real meat and potatoes behind them,
+
+71
+00:06:46,180 --> 00:06:52,240
+this is extremely dangerous because now they're saying that their ideology has to take precedent
+
+72
+00:06:52,240 --> 00:06:58,880
+over reality itself. Mathematical intelligence rescinded its acceptance of the paper. According
+
+73
+00:06:58,880 --> 00:07:05,240
+to its editor in chief, publishing Hill and Russian's work would create a very real possibility
+
+74
+00:07:05,240 --> 00:07:09,520
+that the right wing media may pick this up and hype it internationally. Well, guess what?
+
+75
+00:07:09,520 --> 00:07:14,420
+The Streisand effect kicked in, and now people know about this, you idiots. Moreover, it's
+
+76
+00:07:14,420 --> 00:07:18,160
+not saying that women can't compete at a high level. It's saying that they're less likely
+
+77
+00:07:18,160 --> 00:07:24,100
+to be able to do so due to all of these factors. There are still exceptional women. Oh, fuck's
+
+78
+00:07:24,100 --> 00:07:28,960
+it. Okay. In this Colette piece, Hill claims that a University of Chicago mathematics professor
+
+79
+00:07:28,960 --> 00:07:35,080
+Amy Wilkinson lobbied the journal to abandon its plans to publish the piece. Sometime later,
+
+80
+00:07:35,080 --> 00:07:40,120
+an editor at another publication, the New York Journal of Mathematics, wrote to Hill
+
+81
+00:07:40,120 --> 00:07:45,400
+and offered to publish the paper. Hill accepted, and the article was published. But then, three
+
+82
+00:07:45,400 --> 00:07:51,200
+days later, the paper had vanished. And a few days after that, a completely different
+
+83
+00:07:51,200 --> 00:07:58,440
+paper by different authors appeared at exactly the same page of the same volume, volume 23,
+
+84
+00:07:58,440 --> 00:08:07,240
+page 1641, where mine had once been. As it turns out, Amy Wilkinson is married to Benson
+
+85
+00:08:07,240 --> 00:08:13,400
+Farb, a member of the NYJM editorial board. Upon discovering that the journal had published
+
+86
+00:08:13,400 --> 00:08:20,960
+my paper, Professor Barb had written a furious email to the NYJM editor-in-chief Mark Steinenberger
+
+87
+00:08:20,960 --> 00:08:26,860
+demanding that it be deleted at once. Unaware of any of this, I wrote to Steinberger on
+
+88
+00:08:26,860 --> 00:08:31,700
+November 14th to find out what had happened. I pointed out that if the deletion were permanent,
+
+89
+00:08:31,700 --> 00:08:35,900
+it would leave me in an impossible position. I would not be able to republish anywhere
+
+90
+00:08:35,900 --> 00:08:39,520
+else, because I would be unable to sign a copyright form declaring that it had not been
+
+91
+00:08:39,520 --> 00:08:45,260
+already published elsewhere. Steinberger replied later that day. Half his board, he explained
+
+92
+00:08:45,260 --> 00:08:51,220
+unhappily, had told him that unless he pulled the article, they would all resign and harass
+
+93
+00:08:51,220 --> 00:08:56,820
+the journal he had founded 25 years earlier until it died. Faced with the loss of his
+
+94
+00:08:56,820 --> 00:09:02,980
+own scientific legacy, he had capitulated. A publication in a dead journal, he offered,
+
+95
+00:09:02,980 --> 00:09:07,000
+wouldn't help you. This is how far these people are willing to go. They will worm their way
+
+96
+00:09:07,000 --> 00:09:12,120
+into any institution. They will put themselves on any board. As soon as they have a foot
+
+97
+00:09:12,120 --> 00:09:17,260
+in the door, they will start bringing in other people who will push their own ideology. And
+
+98
+00:09:17,260 --> 00:09:22,820
+then as soon as they hit critical mass, as soon as the scale tips, they start censoring
+
+99
+00:09:22,820 --> 00:09:27,200
+everything they don't like. And the media is complicit in this too, because as we all
+
+100
+00:09:27,200 --> 00:09:34,240
+know, math is racist. How data is driving inequality on CNN tech of all places. It's
+
+101
+00:09:34,240 --> 00:09:39,340
+no surprise that inequality in the US is on the rise, but what you might not know is that
+
+102
+00:09:39,340 --> 00:09:46,220
+math is partly to blame. In a new book, Weapons of Math Destruction, Kathy O'Neill details
+
+103
+00:09:46,220 --> 00:09:51,580
+all the ways that math is essentially being used for evil. My word, not hers. Well, at
+
+104
+00:09:51,580 --> 00:09:56,720
+least we know who the idiot is then. From targeted advertising and insurance to education
+
+105
+00:09:56,720 --> 00:10:02,420
+and policing, O'Neill looks at how algorithms and big data are targeting the poor, reinforcing
+
+106
+00:10:02,420 --> 00:10:09,120
+racism, and amplifying inequality. These WMDs, as she calls them, have three key features.
+
+107
+00:10:09,120 --> 00:10:15,340
+They are opaque, scalable, and unfair. Denied a job because of a personality test? Too bad.
+
+108
+00:10:15,340 --> 00:10:20,780
+The algorithm said you wouldn't be a good fit. Charged a higher rate for a loan? Well,
+
+109
+00:10:20,780 --> 00:10:26,220
+people in your zip code tend to be riskier borrowers. Received a harsher prison sentence?
+
+110
+00:10:26,220 --> 00:10:30,840
+Here's the thing, your friends and family have criminal records too, so you're likely
+
+111
+00:10:30,840 --> 00:10:34,780
+to be a repeat offender. Spoiler alert, the people on the receiving end of these messages
+
+112
+00:10:34,780 --> 00:10:39,720
+don't actually get the explanation. Here's the interesting thing. One, all this data
+
+113
+00:10:39,720 --> 00:10:46,880
+collection, it's happening by Facebook and by Google and by Twitter and by all of these
+
+114
+00:10:46,880 --> 00:10:54,120
+big tech companies that also likes to suppress conservatives and is run entirely by leftist
+
+115
+00:10:54,120 --> 00:11:00,820
+people. Two, all of these situations that you're talking about, the personality tests,
+
+116
+00:11:00,820 --> 00:11:06,300
+it's grouping you in as an individual into a group of people with a similar personality.
+
+117
+00:11:06,300 --> 00:11:10,420
+The zip code example, you're being grouped into people that you live near. The prison
+
+118
+00:11:10,420 --> 00:11:14,780
+sentence example, you're being grouped in with your friends and family. These are all
+
+119
+00:11:14,780 --> 00:11:19,940
+collectivist judgments, not individualist judgments, and that's kind of the problem.
+
+120
+00:11:19,940 --> 00:11:24,420
+That's why whenever an SJW talks about collectivism, because they're racial activists or they're
+
+121
+00:11:24,420 --> 00:11:28,480
+gender activists or something, this is the kind of stuff they're ushering in. They're
+
+122
+00:11:28,480 --> 00:11:33,760
+saying it's okay to judge people based on group characteristics rather than assuming
+
+123
+00:11:33,760 --> 00:11:40,120
+the inherent supremacy of the individual. So now we can do shit like this. Okay. Okay.
+
+124
+00:11:40,120 --> 00:11:46,840
+Okay. If we're going to say that you are a white male or you are a black female, then
+
+125
+00:11:46,840 --> 00:11:51,480
+how come we can't say that, oh, you're part of this neighborhood. Oh, you're part of this
+
+126
+00:11:51,480 --> 00:11:58,480
+family. Oh, you're, you're part of this socioeconomic group and just judge you like that. That is
+
+127
+00:11:58,520 --> 00:12:04,880
+what SJWs have brought back from the fucking dark ages of the pre 1960s. Of course, when
+
+128
+00:12:04,880 --> 00:12:10,400
+data is used by the left, everything's fine. But when it's used by other people, it's suddenly
+
+129
+00:12:10,400 --> 00:12:17,400
+white privilege because the democratic rep said, citing uncomfortable data is white privilege.
+
+130
+00:12:18,560 --> 00:12:23,600
+Republican Iowa representative Steve King found himself accused of using his white privilege
+
+131
+00:12:23,640 --> 00:12:30,640
+last week after he offered statistics that democratic Louisiana rep Cedric Richmond didn't
+
+132
+00:12:30,680 --> 00:12:34,440
+like. It all started at a house judiciary committee hearing where King brought up the
+
+133
+00:12:34,440 --> 00:12:39,500
+high crime rates of Central American nations that many immigrants hail from. King called
+
+134
+00:12:39,500 --> 00:12:44,680
+the violence of countries like El Salvador shocking, but then pointed out that some cities
+
+135
+00:12:44,680 --> 00:12:50,300
+in the US have comparable murder rates. And that talk infuriated representative Richmond
+
+136
+00:12:50,300 --> 00:12:54,460
+who represents parts of New Orleans, one of the cities that he mentioned, we just had
+
+137
+00:12:54,460 --> 00:12:57,780
+a conversation about this. We're going to lose all civility in this community. If he
+
+138
+00:12:57,780 --> 00:13:02,220
+thinks it's appropriate to compare New Orleans to Guatemala, Richmond fumed while incorrectly
+
+139
+00:13:02,220 --> 00:13:08,140
+identifying the nation King was speaking of. Oops. The committee chairman, Republican Virginia
+
+140
+00:13:08,140 --> 00:13:13,300
+representative Bob Goodlatte tried to calm down the situation by pointing out the obvious.
+
+141
+00:13:13,300 --> 00:13:18,080
+The gentleman from Iowa has the right to make a statistical comparison between two locations,
+
+142
+00:13:18,080 --> 00:13:22,120
+but that only made the congressional black caucus member get even angrier and bring up
+
+143
+00:13:22,120 --> 00:13:27,200
+the inevitable KKK comparison. You are comparing the people in the location. That would be
+
+144
+00:13:27,200 --> 00:13:32,500
+like me comparing him to somebody in the Klan. I don't have the basis to do that. Richmond
+
+145
+00:13:32,500 --> 00:13:36,600
+retorted to Goodlatte before humble bragging what how civil and bipartisan he is. Okay,
+
+146
+00:13:36,600 --> 00:13:43,220
+I have a feeling that this article might not be completely unbiased. But he said, it's
+
+147
+00:13:43,220 --> 00:13:46,880
+not appropriate. It's insensitive. And it's nothing more than a traditional white privilege
+
+148
+00:13:46,880 --> 00:13:52,000
+of let me criticize a minority city. I take it how you want. I'm telling you how I feel.
+
+149
+00:13:52,000 --> 00:13:55,800
+That's kind of the problem of putting all your chips on collectivism, isn't it? If you
+
+150
+00:13:55,800 --> 00:14:01,560
+identify as some stripe of racial collectivist, whether it be like a white supremacist, or
+
+151
+00:14:01,560 --> 00:14:07,520
+a Black Lives Matter person or whatever, then other people can just simply judge you based
+
+152
+00:14:07,520 --> 00:14:13,400
+on the statistical truths of your group. I mean, if you don't want to be judged as individual
+
+153
+00:14:13,400 --> 00:14:19,880
+Cedric Richmond, but rather as a part of a black community, well, then we can judge
+
+154
+00:14:19,880 --> 00:14:25,080
+you by the actions of that black community. I don't think you want that, do you? I don't
+
+155
+00:14:25,080 --> 00:14:29,120
+think you want to have all the crimes of the black community pinned on your shoulders,
+
+156
+00:14:29,120 --> 00:14:33,560
+do you? And this is the ultimate problem with collectivism, because it makes all of that
+
+157
+00:14:33,560 --> 00:14:39,820
+data from from the previous article relevant, frankly. And this applies to both collectivism
+
+158
+00:14:39,820 --> 00:14:46,900
+on the left and collectivism on the right. It really seems to be right now the centrists
+
+159
+00:14:46,900 --> 00:14:50,880
+that are the only group that promotes actual individualism that says no, you can't judge
+
+160
+00:14:50,880 --> 00:14:57,000
+people because of their race, or their sex, or their economic status, or where they live
+
+161
+00:14:57,000 --> 00:15:02,560
+or any of that nonsense, you just judge them as individuals, and make individual judgments
+
+162
+00:15:02,560 --> 00:15:06,860
+as you meet them. That seems to be the only way forward. Because things aren't getting
+
+163
+00:15:06,860 --> 00:15:11,780
+better. They're getting worse. And right now, SJWs are to blame. They're not the only
+
+164
+00:15:11,780 --> 00:15:15,720
+collectivists that exist in the world, but they're certainly the ones with the most power
+
+165
+00:15:15,720 --> 00:15:21,680
+right now. And finally, we get to peak university stupidity with student editor who retweeted
+
+166
+00:15:21,680 --> 00:15:29,020
+article pointing out that women don't have penises is fired from University Journal.
+
+167
+00:15:29,020 --> 00:15:40,120
+A student editor at a top university has been fired in a transphobia row after he tweeted
+
+168
+00:15:40,120 --> 00:15:48,220
+that women don't have penises. Remember when I said that ideology has to take precedence
+
+169
+00:15:48,220 --> 00:15:54,200
+over reality? Angelos Sophakalos, I don't fucking know. Angelos, assistant editor at
+
+170
+00:15:54,200 --> 00:15:59,620
+Durham University's philosophy journal Critique, was sacked from his post after just three
+
+171
+00:15:59,620 --> 00:16:07,100
+days for writing a tweet deemed transphobic by fellow students. He's 24, he's from Cyprus.
+
+172
+00:16:07,100 --> 00:16:12,080
+He faces disciplinary action last month after he retweeted an article by The Spectator on
+
+173
+00:16:12,080 --> 00:16:18,960
+his Twitter titled, is it a crime to say women don't have penises? With the comment, RT,
+
+174
+00:16:18,960 --> 00:16:24,820
+if women don't have penises. He's technically not even saying here that he thinks women
+
+175
+00:16:24,820 --> 00:16:32,300
+don't have penises. He's simply saying that, is it a crime to say so? And asking his followers
+
+176
+00:16:32,300 --> 00:16:37,760
+if they think so or not, asking for RTs if they do, retweets. The postgraduate philosophy
+
+177
+00:16:37,760 --> 00:16:41,580
+and psychology student was dismissed from his position at the university after the tweet
+
+178
+00:16:41,580 --> 00:16:46,400
+sparked outrage. He was also fired from his position as editor of Durham University's
+
+179
+00:16:46,400 --> 00:16:51,440
+online magazine, The Bubble, and forced to resign as president of Free Speech Society
+
+180
+00:16:51,440 --> 00:16:59,100
+Humanist Students. Oh, oh, really? So he has to resign from the Free Speech Society over
+
+181
+00:16:59,100 --> 00:17:04,520
+speech? Wait, wait, wait, wait. He didn't even tweet it. So he did actually take a stand
+
+182
+00:17:04,520 --> 00:17:09,620
+on whether or not women have penises, but he didn't even tweet anything. He simply retweeted
+
+183
+00:17:09,620 --> 00:17:15,140
+somebody else's tweet. He was fired for a retweet. The since deleted tweet has received
+
+184
+00:17:15,140 --> 00:17:20,120
+backlash from former chair of LGBT humanist Christopher Ward, who claimed that the post
+
+185
+00:17:20,120 --> 00:17:27,740
+was factually incorrect and not worthy of debate. It's fact, so it's factually incorrect
+
+186
+00:17:27,740 --> 00:17:35,800
+that women, that women don't have penises. Okay. I mean, that's one thing, but it's not
+
+187
+00:17:35,800 --> 00:17:46,060
+worthy of debate. So you can't debate whether or not women have penises. I don't know if
+
+188
+00:17:46,060 --> 00:17:52,380
+there's anything more to say beyond this guys. He wrote, as a former chair of LGBT humanist
+
+189
+00:17:52,380 --> 00:17:57,100
+UK, the opposition I experienced from a number of longstanding humanist members to trans
+
+190
+00:17:57,100 --> 00:18:01,820
+people and trans issues was a stain on an otherwise great organization. And here's the
+
+191
+00:18:01,820 --> 00:18:09,120
+new president of humanist students RT-ing horrific transphobic shit. It's, it's not,
+
+192
+00:18:09,120 --> 00:18:14,660
+it's not even horrific. It's not horrific. Maybe they've watched too much Bible black
+
+193
+00:18:14,660 --> 00:18:19,520
+or something. I don't fucking know. And of course he's right. He says, he says on Chronicle
+
+194
+00:18:19,520 --> 00:18:24,920
+live, what I said was a biological fact. We've reached a weird era where we are sacking people
+
+195
+00:18:24,920 --> 00:18:29,920
+for stating facts. Even if this is an opinion, people shouldn't be sacked for having it.
+
+196
+00:18:29,920 --> 00:18:33,000
+We should be having healthy discussions instead of silencing people. It seems like we're taking
+
+197
+00:18:33,000 --> 00:18:40,180
+steps backward. Exactly that this, this, this quotation from the guy, this is exactly what
+
+198
+00:18:40,180 --> 00:18:45,720
+basically this entire video has been about everything that there's the thesis. All right.
+
+199
+00:18:45,720 --> 00:18:52,680
+I'm just glad I'm a, I'm not in school anymore. But I'll be streaming on this channel on the
+
+200
+00:18:52,680 --> 00:18:56,780
+YouTube channel for once, not the Twitch. I'll be doing the monthly community stream
+
+201
+00:18:56,780 --> 00:19:03,540
+tonight and we're probably going to be watching, um, uh, the third, that guy with the glasses
+
+202
+00:19:03,540 --> 00:19:07,580
+movie suburban nights and taking a big old shit on it. So if you want to, uh, want to
+
+203
+00:19:07,580 --> 00:19:14,620
+come by and say hi, um, drop in, it'll probably be like 7 PM or 8 PM EST. I'll see you then
+
+204
+00:19:14,620 --> 00:19:15,740
+guys. I love you.
+

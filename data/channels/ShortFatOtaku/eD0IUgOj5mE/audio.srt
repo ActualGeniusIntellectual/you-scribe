@@ -1,0 +1,280 @@
+1
+00:00:00,000 --> 00:00:02,160
+Hey guys, Dev here.
+
+2
+00:00:02,160 --> 00:00:06,380
+Dave was supposed to do this video like the last two times, but because he's a hungover
+
+3
+00:00:06,380 --> 00:00:08,780
+lazy bum I'm going to do it instead.
+
+4
+00:00:08,780 --> 00:00:13,020
+The video footage is just me playing Marble Zone Act 3 in the original Sonic the Hedgehog
+
+5
+00:00:13,020 --> 00:00:14,020
+again.
+
+6
+00:00:14,020 --> 00:00:18,000
+I wanted to show all of you naysayers I could do it without Dave heckling me.
+
+7
+00:00:18,000 --> 00:00:21,660
+For those of you paying attention to our channel, you probably noticed that we managed to keep
+
+8
+00:00:21,660 --> 00:00:26,700
+a 5 video a week schedule going from September to January with only a few minor hiccups.
+
+9
+00:00:26,700 --> 00:00:29,420
+That's a pretty big success in our books.
+
+10
+00:00:29,420 --> 00:00:33,860
+Going forward, we're going to try to expand that to 7 videos a week.
+
+11
+00:00:33,860 --> 00:00:37,260
+That's right, a Team SFO video every single day.
+
+12
+00:00:37,260 --> 00:00:40,380
+Let's take a look at how things will be arranged from here on.
+
+13
+00:00:40,380 --> 00:00:42,900
+The week begins with multiplayer Mondays.
+
+14
+00:00:42,900 --> 00:00:48,100
+We'll be playing a variety of 4 player games every Monday, and introducing old and new
+
+15
+00:00:48,100 --> 00:00:50,020
+faces to the channel as well.
+
+16
+00:00:50,020 --> 00:00:53,780
+Tuesday will remain the release day for Sonic and Miramasa.
+
+17
+00:00:53,780 --> 00:00:57,820
+Instead of alternating though, I think we'll release one until it finishes, then release
+
+18
+00:00:57,820 --> 00:00:58,820
+the other.
+
+19
+00:00:59,060 --> 00:01:03,860
+So one of these two titles will go on a short hiatus, probably Miramasa since Sonic the
+
+20
+00:01:03,860 --> 00:01:06,340
+Hedgehog 2 is a much shorter game.
+
+21
+00:01:06,340 --> 00:01:10,940
+On Wednesday, we've got the second season of Game Roulette already underway.
+
+22
+00:01:10,940 --> 00:01:16,380
+Our channel actually won 3 awards for the first season of Game Roulette, so hey, why
+
+23
+00:01:16,380 --> 00:01:18,220
+not keep it up?
+
+24
+00:01:18,220 --> 00:01:20,420
+Plus the 3 of us love doing it.
+
+25
+00:01:20,420 --> 00:01:23,260
+Thursday is Zelda Day, currently linked to the past.
+
+26
+00:01:23,260 --> 00:01:24,260
+This is the same.
+
+27
+00:01:24,260 --> 00:01:26,540
+Fire Red Fridays are still a thing as well.
+
+28
+00:01:26,540 --> 00:01:32,860
+Banjo Kazooie is moving to Saturdays, however as Fire Red comes to a close, Banjo will eventually
+
+29
+00:01:32,860 --> 00:01:37,060
+shift to Friday with a new feature starting up on Saturday.
+
+30
+00:01:37,060 --> 00:01:40,340
+And finally, there's behind the scenes Sundays.
+
+31
+00:01:40,340 --> 00:01:45,340
+On this day, we'll post stuff like commentaries, bloopers, and other goodies.
+
+32
+00:01:45,340 --> 00:01:51,220
+Oh, and I know I've been talking about dev-trospectives now for a little while.
+
+33
+00:01:51,220 --> 00:01:54,220
+Almost 2 years actually, or at least a year and a half.
+
+34
+00:01:54,220 --> 00:01:58,140
+They're still coming, it's just we have so much stuff on the go it's kinda hard to get
+
+35
+00:01:58,140 --> 00:02:03,340
+around to everything, but they will come within the next couple months, and they'll also be
+
+36
+00:02:03,340 --> 00:02:08,100
+released on Sunday whenever there's no behind the scenes stuff to go out.
+
+37
+00:02:08,100 --> 00:02:13,020
+This will be a way for us to tackle larger animes that we couldn't cover in a single
+
+38
+00:02:13,020 --> 00:02:16,340
+SFO review, but it won't just be anime either.
+
+39
+00:02:16,340 --> 00:02:21,020
+Using dev-trospectives, I'm going to be looking at a whole bunch of different stuff.
+
+40
+00:02:21,020 --> 00:02:24,980
+I'm sure a lot of you are asking, what about the anime content?
+
+41
+00:02:24,980 --> 00:02:27,620
+After all, we started off as an anime channel.
+
+42
+00:02:27,620 --> 00:02:30,300
+Well, we haven't forgotten it.
+
+43
+00:02:30,300 --> 00:02:34,620
+When anime stuff comes out, it'll likely take the place of Zelda on Thursdays.
+
+44
+00:02:34,620 --> 00:02:40,140
+Also, we're going to try to ramp it back up to two anime videos a month, like how we had
+
+45
+00:02:40,140 --> 00:02:42,420
+in the summer of 2013.
+
+46
+00:02:42,420 --> 00:02:46,580
+There's been a minority of people complaining in comments about what they perceive as a
+
+47
+00:02:46,580 --> 00:02:50,260
+lack of anime content, and let me address that here.
+
+48
+00:02:50,260 --> 00:03:18,200
+Do you remember when the Short
+
+49
+00:03:18,200 --> 00:03:23,560
+Well of course, we could always do more, and we will always try to do more, no matter how
+
+50
+00:03:23,560 --> 00:03:28,280
+advanced we get, but those people who are claiming that we don't post as much anime
+
+51
+00:03:28,280 --> 00:03:33,720
+content as we used to, are just factually incorrect.
+
+52
+00:03:33,720 --> 00:03:36,780
+Also I guess I'll update you on the copyright situation.
+
+53
+00:03:36,780 --> 00:03:42,280
+As predicted, we've won every copyrighted battle we've come across, but on YouTube,
+
+54
+00:03:42,280 --> 00:03:43,960
+it's just never ending.
+
+55
+00:03:43,960 --> 00:03:48,200
+You've probably heard this already since the double shitstorm of Google Plus and multi-channel
+
+56
+00:03:48,200 --> 00:03:52,480
+network neutering just happened, but every time someone puts a claim on our videos, frivolous
+
+57
+00:03:52,480 --> 00:03:56,840
+or not, that's 30 days of ad revenue that we lose.
+
+58
+00:03:56,840 --> 00:04:00,940
+There are entire companies set up solely for the purpose of making unfounded copyright
+
+59
+00:04:00,940 --> 00:04:04,440
+claims on YouTube and stealing 30 days of advertising revenue.
+
+60
+00:04:04,440 --> 00:04:11,000
+So if you're a fan of the show, I'd ask you to check out our videos over at blip.tv slash
+
+61
+00:04:11,000 --> 00:04:16,240
+shortfatotaku or our website at shortfatotaku.com.
+
+62
+00:04:16,240 --> 00:04:19,880
+These sources provide a significantly bigger payout than YouTube does, which supports the
+
+63
+00:04:19,880 --> 00:04:20,880
+channel.
+
+64
+00:04:20,880 --> 00:04:24,380
+And it's not like we're just swimming in a pool of internet monies or anything.
+
+65
+00:04:24,380 --> 00:04:28,840
+We actually reinvest every single cent you guys send us right back into the show.
+
+66
+00:04:28,840 --> 00:04:34,440
+We reinvest everything so that we can give you a quality product, nothing saved for ourselves.
+
+67
+00:04:34,440 --> 00:04:38,520
+Of course, if you want to ad block, ad block, that's cool too, we won't hold it against
+
+68
+00:04:38,520 --> 00:04:39,520
+you.
+
+69
+00:04:39,560 --> 00:04:42,680
+We still enjoy the fact that you like to watch our content.
+
+70
+00:04:42,680 --> 00:04:45,680
+I mean, who do you think we are, Reviewtopia?
+

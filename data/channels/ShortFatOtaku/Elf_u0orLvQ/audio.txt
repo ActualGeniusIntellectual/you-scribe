@@ -1,0 +1,36 @@
+As some of you may know from our previous Set Tour videos, we use an Elgato as our primary capture device.
+It records in a variety of formats, it's got a dongle for older inputs, and it's slick and cool looking.
+But, we've found a fatal flaw in how it works.
+We've lost a number of games to this specific bug.
+Two sessions of Mario Sunshine, and one session each of Muramasa the Demon Blade, Sonic 3,
+Shovel Knight, Legend of Zelda Link to the Past, and Splatoon.
+When you first open up the Elgato's capturing application, it immediately begins recording.
+These files are dumped into a folder with the name given in the software, and consist of .ts files, and a bunch of metadata.
+TS files are just a simple MPEG stream, the same format our camera also records in.
+From what we can tell, when you hit the big record button on the Elgato, it's not actually recording anything.
+The Elgato is always recording when the software is open and the Elgato is connected.
+What it's doing instead, is making a marker in the metadata that points to a specific time in the TS file.
+When you click the recording off, the program makes a second marker,
+and then begins to convert all the captured footage between the two markers into a .mp4 file,
+which is what we actually use in our videos.
+We learned very early on that all of these TS files build up fairly quickly, and to delete them once the video's been uploaded.
+Here's where the problem arises.
+If during the last recording session we played a high definition game through an HDMI cable,
+and we're now playing to play a standard definition game through the Elgato's composite dongle,
+we have to change the input settings and resolution.
+But because it's so easy to forget that the Elgato doesn't actually begin recording when you click record,
+but is always recording from boot up, we actually end up changing resolution and input mid-recording without realizing it.
+In our example, the TS files the Elgato generates are 1920x1080.
+But the Elgato software abruptly begins to feed the file 720x480 footage at a different framerate from a different source.
+The end result is a garbled mess, with the Elgato trying to compensate for what it perceives to be lost frames and footage
+by adding random junk frames everywhere, distorting the picture, and making an audio sync impossible.
+The solution to this is simple, but really inconvenient, and makes up my only complaint about the Elgato.
+When we start a recording session, and are recording from a console that uses a different set of cables,
+or plays at a different resolution from our last session, we have to power up the console and Elgato,
+turn on the software and allow it to begin generating its .ts file,
+change the resolution and input, causing footage corruption,
+close the recording software, clear out the newly generated corrupt files,
+and reopen the whole thing again, so that the recording software starts the new .ts files at the proper resolution for our current session.
+It's a pain to do, and it's honestly a little easy to forget, but at least we've finally figured out what the problem is.
+If you happen to use an Elgato for your own stuff, always make sure to reboot the application and clear out your cache of old files
+any time you have to change the resolution or input.

@@ -1,0 +1,1308 @@
+1
+00:00:00,000 --> 00:00:04,640
+This video is not meant to be a statement of absolute fact, nor does it exist to directly
+
+2
+00:00:04,640 --> 00:00:06,160
+accuse anybody of anything.
+
+3
+00:00:06,160 --> 00:00:09,600
+Rather, it's a presentation of the evidence that we've discovered and an open call for
+
+4
+00:00:09,600 --> 00:00:13,840
+others on both the inside and out to discuss the issues explored therein.
+
+5
+00:00:13,840 --> 00:00:18,760
+Furthermore, any audio accompanied by the Devon no-talent gaming artwork can be considered
+
+6
+00:00:18,760 --> 00:00:21,740
+to be entirely our own opinion or conjecture on a topic.
+
+7
+00:00:21,740 --> 00:00:22,620
+Thank you and enjoy!
+
+8
+00:00:30,000 --> 00:00:41,320
+Sorry for the hideously late video, buddies, but the subject matter ended up taking a lot
+
+9
+00:00:41,320 --> 00:00:43,440
+longer to investigate than we thought.
+
+10
+00:00:43,440 --> 00:00:45,880
+Recently, something stupid happened on Twitter.
+
+11
+00:00:45,880 --> 00:00:47,000
+Shocking, right?
+
+12
+00:00:47,000 --> 00:00:53,000
+Jay Allen, aka a man in black, tweeted, Shigeru Miyamoto was hired because of nepotism.
+
+13
+00:00:53,000 --> 00:00:57,680
+And then later, seriously, Shigeru Miyamoto got a job at Nintendo because his father knew
+
+14
+00:00:57,680 --> 00:00:58,680
+somebody there.
+
+15
+00:00:58,680 --> 00:01:03,960
+Thankfully, many people saw exactly how retarded Jay Allen was being, and the internet gave
+
+16
+00:01:03,960 --> 00:01:06,520
+him the lashing he so rightly deserved.
+
+17
+00:01:06,520 --> 00:01:10,520
+Margaret Jell posted a passage regarding Jay Allen's stupidity, which I'll summarize here
+
+18
+00:01:10,520 --> 00:01:11,520
+quickly.
+
+19
+00:01:11,520 --> 00:01:15,820
+Some indie devs and social justice warriors view the behaviors of AAA development studios
+
+20
+00:01:15,820 --> 00:01:18,600
+as being the gaming industry's biggest problem.
+
+21
+00:01:18,600 --> 00:01:24,080
+And because they oppose AAA developers, they must be, by default, the gaming industry's
+
+22
+00:01:24,080 --> 00:01:25,080
+solution.
+
+23
+00:01:25,080 --> 00:01:31,240
+And because Gamergate opposes them, we must be, by default, supporting anything AAA studios
+
+24
+00:01:31,240 --> 00:01:33,120
+do and be part of the problem.
+
+25
+00:01:33,120 --> 00:01:36,240
+It's a very you're with us or against us mentality.
+
+26
+00:01:36,240 --> 00:01:41,200
+Just for the sake of meticulousness, let's actually examine Jay Allen's claim.
+
+27
+00:01:41,200 --> 00:01:46,720
+Nick Pongarten published Master of Play, The Story of Miyamoto, in The New Yorker on December
+
+28
+00:01:46,720 --> 00:01:47,980
+20th, 2010.
+
+29
+00:01:47,980 --> 00:01:51,640
+In it, it stated that Miyamoto's father got him an interview with Nintendo's president
+
+30
+00:01:51,640 --> 00:01:55,720
+through a mutual friend, and that in his interview, he showed off toys of his own design.
+
+31
+00:01:55,720 --> 00:01:59,320
+Miyamoto impressed them enough that he was hired to be an apprentice in the planning
+
+32
+00:01:59,320 --> 00:02:00,320
+department.
+
+33
+00:02:00,320 --> 00:02:04,200
+So, was Miyamoto hired because of his dad, like Jay Allen claimed?
+
+34
+00:02:04,200 --> 00:02:05,560
+Well, no.
+
+35
+00:02:05,560 --> 00:02:09,920
+He got the job interview because of his dad's friend, but it was Miyamoto himself who made
+
+36
+00:02:09,920 --> 00:02:11,920
+a good impression during the interview.
+
+37
+00:02:11,920 --> 00:02:13,960
+Is it nepotism that Miyamoto got hired?
+
+38
+00:02:13,960 --> 00:02:14,960
+No.
+
+39
+00:02:14,960 --> 00:02:18,280
+Is it nepotism that Miyamoto got a chance at an interview?
+
+40
+00:02:18,280 --> 00:02:19,960
+Well, yes.
+
+41
+00:02:19,960 --> 00:02:25,040
+But considering it happened in 1977, and ultimately gave birth to not just some of the best video
+
+42
+00:02:25,040 --> 00:02:29,920
+games of all time, but also created modern gaming, perhaps we can cut them a little bit
+
+43
+00:02:29,920 --> 00:02:30,920
+of slack.
+
+44
+00:02:30,920 --> 00:02:36,200
+All of Jay Allen's rampant stupidity reminded me of David Arbok's recent tweet longer.
+
+45
+00:02:36,200 --> 00:02:39,840
+Arbok is a software engineer and columnist over at Slate.
+
+46
+00:02:39,840 --> 00:02:44,120
+We first got wind of him when he watched our videos on the IGF and Brandon Boye, and stated
+
+47
+00:02:44,120 --> 00:02:49,160
+that the IGF merits an independent audit, and, prediction, Boye, Scavio, and Edwards
+
+48
+00:02:49,160 --> 00:02:51,440
+will all step down within 18 months.
+
+49
+00:02:51,440 --> 00:02:55,920
+His tweet longer really is a good read, I recommend everyone give it a good once over,
+
+50
+00:02:55,920 --> 00:02:58,280
+but once again, I'll give a brief rundown here.
+
+51
+00:02:58,280 --> 00:03:02,640
+Arbok says that the ultimate goal of the indie press, meaning Kotaku, Polygon, Gamasutra,
+
+52
+00:03:02,640 --> 00:03:05,340
+and so on, is to gain more influence in the industry.
+
+53
+00:03:05,340 --> 00:03:09,240
+They want to have the ears of the AAA developers, they want to be invited to the conferences,
+
+54
+00:03:09,240 --> 00:03:10,240
+and so on.
+
+55
+00:03:10,240 --> 00:03:12,140
+That remains their primary professional goal.
+
+56
+00:03:12,140 --> 00:03:15,960
+While the individuals working for and running these outlets may have personal goals relating
+
+57
+00:03:15,960 --> 00:03:19,840
+to their own career advancement, or bringing social justice into gaming or whatever, the
+
+58
+00:03:19,840 --> 00:03:23,320
+top prize is still ultimately influence with the big boys.
+
+59
+00:03:23,320 --> 00:03:26,760
+When Gamergate came along and began exposing the corrupt behaviour of these outlets, it
+
+60
+00:03:26,760 --> 00:03:30,180
+lessened their influence, which is why it was in the best interest of these outlets
+
+61
+00:03:30,180 --> 00:03:35,040
+to try and discredit Gamergate by any means necessary, even going so far as to link IGN's
+
+62
+00:03:35,040 --> 00:03:40,000
+adoption of ethical policies to the idea that IGN is appeasing what they have publicly labelled
+
+63
+00:03:40,000 --> 00:03:41,000
+as a hate group.
+
+64
+00:03:41,040 --> 00:03:45,760
+In other words, these indie press outlets desire to discredit Gamergate so much that
+
+65
+00:03:45,760 --> 00:03:49,640
+they are willing to slander anybody who discusses ethics, whether they consider themselves to
+
+66
+00:03:49,640 --> 00:03:53,400
+be affiliated with Gamergate or not, as racists and misogynists.
+
+67
+00:03:53,400 --> 00:03:57,360
+Arbok says these indie press outlets were banking on the spectre of misogyny to be a
+
+68
+00:03:57,360 --> 00:04:01,520
+powerful enough scare that AAA developers would come out of the woodwork to admonish
+
+69
+00:04:01,520 --> 00:04:05,960
+Gamergate, and in doing so, they would be giving the indie press outlets the professional
+
+70
+00:04:05,960 --> 00:04:08,000
+influence they so desperately crave.
+
+71
+00:04:08,000 --> 00:04:10,280
+However there are two big problems with their plan.
+
+72
+00:04:10,280 --> 00:04:13,880
+One, AAA developers largely don't share the same opinions with these journalists on
+
+73
+00:04:13,880 --> 00:04:18,960
+a personal level, they see their social justice warrior leanings as curtailing artistic freedom.
+
+74
+00:04:18,960 --> 00:04:23,440
+And two, AAA developers understood that the indie press outlets fucked up big time when
+
+75
+00:04:23,440 --> 00:04:25,280
+they chose to attack all gamers.
+
+76
+00:04:25,280 --> 00:04:28,220
+These outlets were willing to attack their own audience and tank their own businesses
+
+77
+00:04:28,220 --> 00:04:32,920
+as a calculated gamble to improve their own standing in the industry, but the AAA developers
+
+78
+00:04:32,920 --> 00:04:35,320
+aren't willing to follow them into that abyss.
+
+79
+00:04:35,320 --> 00:04:39,360
+But most importantly of all, Arbok theorizes that AAA developers have been largely silent
+
+80
+00:04:39,360 --> 00:04:43,200
+on Gamergate because they're willing to let Gamergate do the dirty work of taking out the indie
+
+81
+00:04:43,200 --> 00:04:45,960
+press that has been a thorn in their sides for over a decade.
+
+82
+00:04:45,960 --> 00:04:49,960
+The indie press outlets were an easy target for Gamergate because they are extremely incompetent
+
+83
+00:04:49,960 --> 00:04:54,280
+with their corruption, while corporate corruption by actual industry names is often significantly
+
+84
+00:04:54,280 --> 00:04:56,880
+more professional, and therefore harder to uncover.
+
+85
+00:04:56,880 --> 00:05:01,360
+Arbok directly says the AAAs and mouthpieces like IGN run a professional outlet.
+
+86
+00:05:01,360 --> 00:05:05,200
+Sure, it's all a big PR con job, but they aren't going to have journalists reviewing
+
+87
+00:05:05,200 --> 00:05:08,640
+games by people they're publicly friends with, and they eventually realize to cut out the
+
+88
+00:05:08,640 --> 00:05:10,960
+Doritos nonsense even if a bit too late.
+
+89
+00:05:10,960 --> 00:05:14,680
+He also says that the indie press journals were the low-hanging fruit.
+
+90
+00:05:14,680 --> 00:05:19,440
+Investigation into AAA corruption would take boots on the ground that Gamergate doesn't have.
+
+91
+00:05:19,440 --> 00:05:24,040
+This reality that Arbok describes actually forms what I consider to be the only legitimate
+
+92
+00:05:24,040 --> 00:05:27,560
+criticism anti-Gamergators have ever thrown at Gamergate.
+
+93
+00:05:27,560 --> 00:05:29,400
+And that criticism is this.
+
+94
+00:05:29,400 --> 00:05:34,360
+Gamergate only focuses on small-time corruption, for example like Zoe Quinn way back at the
+
+95
+00:05:34,360 --> 00:05:38,160
+beginning, not because she was corrupt, but because she's a woman and her corruption
+
+96
+00:05:38,160 --> 00:05:40,920
+offers misogynists a convenient excuse to harass her.
+
+97
+00:05:40,920 --> 00:05:43,640
+I have no doubt that this is the case for some people.
+
+98
+00:05:43,640 --> 00:05:49,880
+However, this criticism often leads anti-Gamergators to the next logical step, that Gamergate does
+
+99
+00:05:49,880 --> 00:05:54,840
+not actually care about corruption at all, because it has yet to tackle AAA corruption,
+
+100
+00:05:54,840 --> 00:05:56,840
+which is obviously much bigger.
+
+101
+00:05:56,840 --> 00:06:00,280
+Arbok's tweet longer offers the best reply to this.
+
+102
+00:06:00,280 --> 00:06:04,420
+It's not that Gamergate doesn't care, it's that Gamergate isn't big enough to do it.
+
+103
+00:06:04,580 --> 00:06:09,500
+Everybody over here hopes that Gamergate will one day grow large enough to tackle AAA corruption,
+
+104
+00:06:09,500 --> 00:06:13,140
+even if it would have to shed the Gamergate hashtag in order to get it done.
+
+105
+00:06:13,140 --> 00:06:17,060
+And even among AAA corruption, there's some obvious low-hanging fruit too.
+
+106
+00:06:17,060 --> 00:06:21,000
+Everybody knows about the Kane & Lynch Deadman controversy, but I'll give you a quick primer
+
+107
+00:06:21,000 --> 00:06:22,000
+right here.
+
+108
+00:06:22,000 --> 00:06:25,100
+In 2007, Kane & Lynch came out.
+
+109
+00:06:25,100 --> 00:06:26,100
+It sucked.
+
+110
+00:06:26,100 --> 00:06:30,220
+Jeff Gerstmann, writing a review for GameSpot of the game, gave it a 6 out of 10, at the
+
+111
+00:06:30,220 --> 00:06:33,660
+same time as Eidos was paying GameSpot a ton of money to advertise the game.
+
+112
+00:06:33,660 --> 00:06:37,300
+Gerstmann was fired, and GameSpot refused to elaborate on it.
+
+113
+00:06:37,300 --> 00:06:38,300
+But nobody was fooled.
+
+114
+00:06:38,300 --> 00:06:42,860
+5 years later, after the non-disclosure agreement was up, Gerstmann confirmed what we all already
+
+115
+00:06:42,860 --> 00:06:47,220
+knew in an interview on Giant Bomb, that Eidos pressured GameSpot to fire him, and GameSpot
+
+116
+00:06:47,220 --> 00:06:48,220
+caved.
+
+117
+00:06:48,220 --> 00:06:52,360
+And, as a related aside, in our last video we brought up Geogrify performing consulting
+
+118
+00:06:52,360 --> 00:06:58,680
+for BioWare, EA, Microsoft Studios, and Ubisoft, while also simultaneously performing consulting
+
+119
+00:06:58,680 --> 00:07:02,840
+for the IGDA, stating that there may be a potential conflict of interest when the same
+
+120
+00:07:02,840 --> 00:07:06,740
+company performs consulting for the companies developers work for, and also the association
+
+121
+00:07:06,740 --> 00:07:09,060
+meant to stand up for the rights of said developers.
+
+122
+00:07:09,060 --> 00:07:13,460
+We also said that it probably wasn't a big deal, but our friend Derek Smart wasn't
+
+123
+00:07:13,460 --> 00:07:14,460
+so convinced.
+
+124
+00:07:14,460 --> 00:07:17,760
+He said there may actually be something to it, and he was going to look into it.
+
+125
+00:07:17,760 --> 00:07:21,160
+Haven't heard back from him yet, one way or the other, and I hope he decides to come
+
+126
+00:07:21,160 --> 00:07:22,720
+forward if he finds anything.
+
+127
+00:07:22,720 --> 00:07:26,440
+But when it comes to corruption, not all the happenings take place on our side of the Pacific.
+
+128
+00:07:26,440 --> 00:07:27,840
+Yeah, I'm talking about Japan.
+
+129
+00:07:27,840 --> 00:07:31,140
+Gamergate doesn't seem to focus too much on the Japanese gaming industry, presumably
+
+130
+00:07:31,140 --> 00:07:35,660
+because Gamergate is a primarily English-speaking movement without access to the non-English
+
+131
+00:07:35,660 --> 00:07:36,660
+scene.
+
+132
+00:07:36,660 --> 00:07:40,420
+Whenever gators do talk about Japan, it's almost always in reference to Mighty No. 9,
+
+133
+00:07:40,420 --> 00:07:43,700
+which is less of a corruption issue and more of a social justice issue.
+
+134
+00:07:43,700 --> 00:07:47,260
+Don't get me wrong, backers to Mighty No. 9 losing their privileges for supporting Gamergate
+
+135
+00:07:47,260 --> 00:07:51,520
+is corrupt, people paid money for a service and lost it due to their political stance.
+
+136
+00:07:51,520 --> 00:07:56,060
+But I hate to break it to you guys, but Dina pushing social justice views isn't corrupt,
+
+137
+00:07:56,060 --> 00:07:59,740
+it's just mind-numbingly stupid, and she ultimately got what was coming to her.
+
+138
+00:07:59,740 --> 00:08:02,260
+And then there's the mystical fabled Shenmue 3.
+
+139
+00:08:02,260 --> 00:08:06,740
+For those of you who don't know, during Sony's E3 conference this year, Shenmue 3 was shown
+
+140
+00:08:06,740 --> 00:08:08,620
+off along with a link to its Kickstarter.
+
+141
+00:08:08,620 --> 00:08:12,800
+This was unusual, because usually during an E3 conference, the games shown off are already
+
+142
+00:08:12,800 --> 00:08:15,740
+in development, usually by the company hosting the conference.
+
+143
+00:08:15,740 --> 00:08:19,940
+But for Shenmue 3, it was a short teaser and a link to the Kickstarter.
+
+144
+00:08:19,940 --> 00:08:23,820
+Kickstarter was knocked offline immediately, and Shenmue 3 got its requested 2 million
+
+145
+00:08:23,820 --> 00:08:26,160
+bucks in about 24 hours.
+
+146
+00:08:26,160 --> 00:08:30,380
+That seems like a lot of money, and it did break some Kickstarter records until you realize
+
+147
+00:08:30,380 --> 00:08:34,840
+that Shenmue 1 cost between 47 million and 70 million dollars to develop.
+
+148
+00:08:34,840 --> 00:08:37,600
+When you adjust that for inflation, that's 99 million.
+
+149
+00:08:37,600 --> 00:08:41,120
+To contrast, Witcher 3's budget was 25 million.
+
+150
+00:08:41,120 --> 00:08:45,200
+And even without doing the math, I think it's pretty obvious that Sony has a vested interest
+
+151
+00:08:45,200 --> 00:08:48,520
+in seeing Shenmue 3 come out, and will be funding it themselves to that end.
+
+152
+00:08:48,520 --> 00:08:52,640
+This was directly confirmed by Yu Suzuki, Shenmue's director, on a post on the Kickstarter,
+
+153
+00:08:52,640 --> 00:08:56,080
+saying that both Sony and Shibuya Productions will be funding Shenmue 3.
+
+154
+00:08:56,080 --> 00:08:57,320
+So what's the Kickstarter for?
+
+155
+00:08:57,320 --> 00:08:58,320
+Just to drum up hype?
+
+156
+00:08:58,320 --> 00:09:00,480
+To pad somebody's pockets with a bit of extra cash?
+
+157
+00:09:00,480 --> 00:09:03,800
+As of recording this, the Kickstarter is at 4.1 million bucks.
+
+158
+00:09:03,800 --> 00:09:08,000
+Assume for a minute, Shenmue 3 didn't have a Kickstarter, and Sony just announced it
+
+159
+00:09:08,000 --> 00:09:09,000
+at E3.
+
+160
+00:09:09,000 --> 00:09:12,120
+You don't think Sony couldn't pony up an extra 4.1 million?
+
+161
+00:09:12,120 --> 00:09:14,560
+It's good that Suzuki came out and clarified things.
+
+162
+00:09:14,560 --> 00:09:18,380
+That sort of transparency is something we need to see more of, not less.
+
+163
+00:09:18,380 --> 00:09:21,060
+But there's a major problem with the way Kickstarter is heading.
+
+164
+00:09:21,060 --> 00:09:24,280
+It used to be a platform for people who couldn't fund their projects to get things off the
+
+165
+00:09:24,280 --> 00:09:25,280
+ground.
+
+166
+00:09:25,480 --> 00:09:27,980
+It's just a place for big names to hype up their next project.
+
+167
+00:09:27,980 --> 00:09:30,040
+Kind of like the IGF, now that I think of it.
+
+168
+00:09:30,040 --> 00:09:32,480
+But oh wait, we're not done with Japan just yet.
+
+169
+00:09:32,480 --> 00:09:34,920
+Let's take a peek at the Japanese indie scene.
+
+170
+00:09:34,920 --> 00:09:41,020
+In 2013, James Melk, or Mielk, I can't pronounce it, an employee at the Japanese developer
+
+171
+00:09:41,020 --> 00:09:45,540
+Q Games, started up BitSummit, a convention for Japanese indies to get together and showcase
+
+172
+00:09:45,540 --> 00:09:46,540
+their games.
+
+173
+00:09:46,540 --> 00:09:49,480
+Polygon ran an article discussing the details of BitSummit's beginnings.
+
+174
+00:09:49,480 --> 00:09:53,760
+In 2014, during the second BitSummit, they decided to give out awards to the best indie
+
+175
+00:09:53,760 --> 00:09:54,760
+games at the show.
+
+176
+00:09:55,240 --> 00:09:56,760
+Sounds pretty familiar so far, right?
+
+177
+00:09:56,760 --> 00:10:01,520
+Well, on BitSummit's own page, five development studios are stated to be the backers behind
+
+178
+00:10:01,520 --> 00:10:02,520
+BitSummit.
+
+179
+00:10:02,520 --> 00:10:08,520
+They are Q Games, Vitai, 17-Bit, Pygmy Studio, and O2 Inc.
+
+180
+00:10:08,520 --> 00:10:13,280
+Now anybody who knows about Q Games knows that it's not really an indie studio.
+
+181
+00:10:13,280 --> 00:10:18,420
+It's made multiple first and second party games with both Sony and Nintendo, most notably
+
+182
+00:10:18,420 --> 00:10:21,680
+Star Fox Command and Star Fox 64 3D.
+
+183
+00:10:21,680 --> 00:10:26,120
+This is important because Q Games president, Dylan Cuthbert, programmed the original Star
+
+184
+00:10:26,120 --> 00:10:29,040
+Fox on the Super Nintendo when he was just 17 years old.
+
+185
+00:10:29,040 --> 00:10:31,560
+The point is, these guys aren't indies.
+
+186
+00:10:31,560 --> 00:10:35,400
+Cuthbert married Miyamoto's daughter for fuck's sake, he's not an indie.
+
+187
+00:10:35,400 --> 00:10:39,600
+Let's take a look at the second studio on the list of the five BitSummit backers, Vitai.
+
+188
+00:10:39,600 --> 00:10:43,800
+On an old background page only accessible by the internet wayback machine, Vitai is
+
+189
+00:10:43,800 --> 00:10:48,760
+described as being founded in 2002 by Giles Goddard, who has been an important figure
+
+190
+00:10:48,760 --> 00:10:53,040
+in the Japanese games industry since 1990 when he moved to Kyoto to program Star Fox
+
+191
+00:10:53,040 --> 00:10:54,320
+for the SNES.
+
+192
+00:10:54,320 --> 00:10:57,760
+For many years he worked at Nintendo on a variety of key franchises, including Stunt
+
+193
+00:10:57,760 --> 00:11:00,680
+Race FX, Super Mario 64, and Tinnitus Snowboarding.
+
+194
+00:11:00,680 --> 00:11:04,360
+It's likely that Goddard and Cuthbert are old friends due to their time spent working
+
+195
+00:11:04,360 --> 00:11:05,640
+on Star Fox together.
+
+196
+00:11:05,640 --> 00:11:09,120
+And clearly, Goddard isn't really all that indie either.
+
+197
+00:11:09,120 --> 00:11:13,080
+He went out and founded his own studio, sure, but he's still got his old connections and
+
+198
+00:11:13,080 --> 00:11:14,080
+everything.
+
+199
+00:11:14,080 --> 00:11:16,600
+Hell, the website boasts that Vitai works closely with Nintendo to create games such
+
+200
+00:11:16,600 --> 00:11:20,800
+as Steel Diver, which was produced in close coordination with Shigeru Miyamoto.
+
+201
+00:11:20,800 --> 00:11:22,480
+So again, not indie.
+
+202
+00:11:22,480 --> 00:11:25,360
+But this is all okay so far.
+
+203
+00:11:25,360 --> 00:11:29,680
+These guys are heading up BitSummit, they don't necessarily have to be indie themselves.
+
+204
+00:11:29,680 --> 00:11:35,200
+Except that, the modern zombie taxi driver, a game by Vitai, won the Vermillion Gate award
+
+205
+00:11:35,200 --> 00:11:39,700
+at BitSummit 2014, Vermillion Gate basically being BitSummit's best of show.
+
+206
+00:11:39,700 --> 00:11:41,440
+Are you fucking kidding me?
+
+207
+00:11:41,440 --> 00:11:45,680
+Not only is Vitai not an indie studio by any stretch of the imagination, what with their
+
+208
+00:11:45,680 --> 00:11:50,200
+buddy buddying it up with Nintendo, but Vitai is a fucking backer of BitSummit.
+
+209
+00:11:50,200 --> 00:11:55,440
+Vitai helps support and organize an award show, and then wins an award at that very
+
+210
+00:11:55,440 --> 00:12:01,040
+same show, while another of the backers, Q Games, is run by a personal friend of Vitai's
+
+211
+00:12:01,040 --> 00:12:02,040
+director.
+
+212
+00:12:02,040 --> 00:12:03,040
+That's just awesome.
+
+213
+00:12:03,040 --> 00:12:06,120
+Is there just something about the term indie that makes it an incestuous circlejerk no
+
+214
+00:12:06,120 --> 00:12:07,520
+matter what language it's in?
+
+215
+00:12:07,520 --> 00:12:11,160
+I actually thought the Japanese scene would have been free of this shit, but no, I guess
+
+216
+00:12:11,160 --> 00:12:12,600
+it's the same everywhere you go.
+
+217
+00:12:12,600 --> 00:12:16,400
+Ah, let's just cover all our bases here, let's look at the other three backers.
+
+218
+00:12:16,400 --> 00:12:22,400
+17bit, run by Jake Cazdel, his resume includes working at EA, working at Sega where he helped
+
+219
+00:12:22,400 --> 00:12:27,240
+make Rez and Space Channel 5, and working on Illusion of Gaia, as well as a number of
+
+220
+00:12:27,240 --> 00:12:28,720
+unnamed N64 games.
+
+221
+00:12:28,720 --> 00:12:32,600
+It's the same situation as with Goddard at Vitai and Cuthbert at Q Games.
+
+222
+00:12:32,600 --> 00:12:36,000
+The might have started their own studios, but they've still got all their old connections
+
+223
+00:12:36,000 --> 00:12:37,000
+and friendships.
+
+224
+00:12:37,000 --> 00:12:38,000
+They're not indies.
+
+225
+00:12:38,000 --> 00:12:39,560
+Wait, wait, wait.
+
+226
+00:12:39,560 --> 00:12:42,480
+We are a Seattle-based independent developer?
+
+227
+00:12:42,480 --> 00:12:45,640
+You're not even over there and you have your thumbs in BitSummit?
+
+228
+00:12:45,640 --> 00:12:48,840
+Pygmy Studios and O2 Inc seem to be legit enough.
+
+229
+00:12:48,840 --> 00:12:51,880
+At the very least they're fucking Japanese.
+
+230
+00:12:51,880 --> 00:12:54,120
+Let's take a peek at the other awards winners.
+
+231
+00:12:54,120 --> 00:12:55,680
+Lots of Japanese text.
+
+232
+00:12:55,680 --> 00:12:58,160
+Something to be expected at a Japanese awards show.
+
+233
+00:12:58,160 --> 00:12:59,320
+Hold on.
+
+234
+00:12:59,320 --> 00:13:04,440
+Funkatronic Labs, Nova 11, won second place for Game Design and runner up for Vermillion
+
+235
+00:13:04,440 --> 00:13:05,440
+Gate.
+
+236
+00:13:05,440 --> 00:13:07,080
+Let's take a peek at their about page.
+
+237
+00:13:07,080 --> 00:13:08,880
+Pasadena, California?
+
+238
+00:13:08,880 --> 00:13:10,760
+These guys aren't even a Japanese indie dev.
+
+239
+00:13:10,760 --> 00:13:15,280
+Is this sort of like how one of Zoe Quinn's games won in IGF China, even though I doubt
+
+240
+00:13:15,280 --> 00:13:18,420
+Zoe's ever actually stepped foot in the Glorious Motherland?
+
+241
+00:13:18,420 --> 00:13:22,880
+This video is over two months late, and the primary reason for that is because Camry Lady
+
+242
+00:13:22,880 --> 00:13:24,600
+wanted to tackle the triple A's.
+
+243
+00:13:24,600 --> 00:13:26,240
+And she did a lot of digging.
+
+244
+00:13:26,240 --> 00:13:30,400
+But the cold heart truth is, you can only do so much being an armchair detective.
+
+245
+00:13:30,400 --> 00:13:34,480
+David Arbok was pretty spot on when he said that triple A corruption isn't sloppy and
+
+246
+00:13:34,480 --> 00:13:36,760
+stupid the way indie corruption is.
+
+247
+00:13:36,760 --> 00:13:42,960
+Obama spent a ton of time overturning every rock, tapping every resources, asking questions
+
+248
+00:13:42,960 --> 00:13:47,600
+in private, and ultimately even traveling down to Toronto to meet with an old high school
+
+249
+00:13:47,600 --> 00:13:52,600
+friend, who by random chance is currently married to a small time Japanese indie dev,
+
+250
+00:13:52,600 --> 00:13:54,640
+and we're in Canada to visit her family.
+
+251
+00:13:54,640 --> 00:13:59,200
+He told her that the Japanese indie scene was just as bullshit as the English one, and
+
+252
+00:13:59,200 --> 00:14:01,360
+directed her towards BitSummit.
+
+253
+00:14:01,360 --> 00:14:05,480
+And really, for all of her efforts, this is the most she could get.
+
+254
+00:14:05,480 --> 00:14:09,080
+That said, Nintendo is a tertiary party in the same corrupt bullshit in the Japanese
+
+255
+00:14:09,080 --> 00:14:11,900
+indie scene that we're all used to hearing about by now.
+
+256
+00:14:11,900 --> 00:14:16,240
+In my opinion, no one at Nintendo themselves even seems to be guilty of anything.
+
+257
+00:14:16,240 --> 00:14:19,760
+It's all just former Nintendo employees thinking they can put on the indie hat while
+
+258
+00:14:19,760 --> 00:14:23,400
+keeping all of their old connections, and act like kings of the shitpile.
+
+259
+00:14:23,400 --> 00:14:26,800
+Does this mean that when it comes to triple A corruption, Gamegate is completely outmatched
+
+260
+00:14:26,800 --> 00:14:27,800
+and useless?
+
+261
+00:14:27,800 --> 00:14:30,520
+Well, no, I don't think it does.
+
+262
+00:14:30,520 --> 00:14:34,520
+People have remarked that Gamegate has shifted focus from being an angry mob and into a vigilant
+
+263
+00:14:34,520 --> 00:14:38,680
+watchdog, and the truth is, that is the only way that triple A corruption is ever going
+
+264
+00:14:38,680 --> 00:14:39,680
+to be routed.
+
+265
+00:14:39,680 --> 00:14:42,920
+Remember when the Xbox One got completely shit on with its mandatory Kinect and its
+
+266
+00:14:42,920 --> 00:14:47,060
+always-on functionality, and the arrogance to the point of the people at Microsoft telling
+
+267
+00:14:47,060 --> 00:14:51,360
+consumers to buy an Xbox 360 if they wanted a console that wasn't always on?
+
+268
+00:14:51,360 --> 00:14:54,040
+Remember how they got their shit royally kicked in for it?
+
+269
+00:14:54,040 --> 00:14:55,920
+That's ultimately who we are.
+
+270
+00:14:55,920 --> 00:14:57,940
+As Gamegaters, and as gamers.
+
+271
+00:14:57,940 --> 00:15:03,080
+If you think someone's being corrupt, whether it's with reviews, or DRM, or bullshit
+
+272
+00:15:03,080 --> 00:15:08,240
+DLC in microtransactions, or whatever, all you need to do is talk about it.
+
+273
+00:15:08,240 --> 00:15:11,840
+We're all aware of the shit they try to pull now, and we have the tools to get the
+
+274
+00:15:11,840 --> 00:15:12,840
+word out.
+
+275
+00:15:12,840 --> 00:15:17,000
+This isn't directly related, but Reddit is burning right now, because everybody is
+
+276
+00:15:17,000 --> 00:15:21,300
+hyper aware of what all of these shitheads are trying to slip by under our noses.
+
+277
+00:15:21,300 --> 00:15:27,040
+We keep them alive, and we've also become their most dangerous enemy, an informed consumer
+
+278
+00:15:27,040 --> 00:15:28,040
+base.
+
+279
+00:15:28,040 --> 00:15:31,100
+Arbok was right when he said that the triple A's are content to let us deal with their
+
+280
+00:15:31,100 --> 00:15:35,000
+journal problem for them, and honestly we are content to do it, but we're also keeping
+
+281
+00:15:35,000 --> 00:15:37,420
+a very close eye on you triple A's.
+
+282
+00:15:37,420 --> 00:15:41,420
+YouTubers are far less likely to gloss over a game's obvious problems than a reviewer
+
+283
+00:15:41,420 --> 00:15:42,420
+is.
+
+284
+00:15:42,420 --> 00:15:46,300
+Sup guys, here's a bit of an after video special.
+
+285
+00:15:46,300 --> 00:15:49,560
+I'm really sorry it took us so long to get this one out, but it happened pretty much
+
+286
+00:15:49,560 --> 00:15:50,560
+like I said.
+
+287
+00:15:50,560 --> 00:15:53,820
+Cam spent a lot of time investigating, and unfortunately just didn't dig up much to
+
+288
+00:15:53,820 --> 00:15:54,820
+show for it.
+
+289
+00:15:54,820 --> 00:15:58,080
+The only way we're ever going to get conclusive proof of triple A corruption is either from
+
+290
+00:15:58,080 --> 00:16:01,920
+the inside, or something stupidly public like Kane & Lynch happens again.
+
+291
+00:16:01,920 --> 00:16:05,720
+I'm still holding out hope that developers will feel free to speak to us or others, even
+
+292
+00:16:05,720 --> 00:16:06,720
+anonymously.
+
+293
+00:16:06,720 --> 00:16:10,840
+I also plan to release a video discussing the future of the Indefensible series, and
+
+294
+00:16:10,840 --> 00:16:14,320
+other happenings on the Short Fighter Taku channel sometime tomorrow, so please come
+
+295
+00:16:14,320 --> 00:16:15,400
+back and check that out.
+
+296
+00:16:15,400 --> 00:16:19,000
+But basically, regardless of the reasoning behind it, the wait between this video and
+
+297
+00:16:19,000 --> 00:16:23,760
+the last one was just unacceptably long, especially since a regular update to this series was
+
+298
+00:16:23,760 --> 00:16:25,800
+promised as a Patreon goal.
+
+299
+00:16:25,800 --> 00:16:30,240
+I mean, you guys gave us money, and for the past two months we've failed to come through
+
+300
+00:16:30,240 --> 00:16:31,240
+with the goods.
+
+301
+00:16:31,240 --> 00:16:35,640
+There's really no excuse for that, and we do have other videos coming in short order
+
+302
+00:16:35,640 --> 00:16:37,360
+to rectify the situation.
+
+303
+00:16:37,360 --> 00:16:42,280
+I've seen what kind of people exploit Patreon by promising goals and not following through,
+
+304
+00:16:42,280 --> 00:16:46,880
+and we've all agreed that we need to actually keep up with the videos y'all are here for,
+
+305
+00:16:46,880 --> 00:16:48,480
+or just shut the Patreon down.
+
+306
+00:16:48,480 --> 00:16:50,120
+And we choose option one.
+
+307
+00:16:50,120 --> 00:16:55,560
+So this is our formal apology to you, our viewers, but with the lack of content, and
+
+308
+00:16:55,560 --> 00:16:58,400
+you will see the next Indefensible very soon.
+
+309
+00:16:58,400 --> 00:17:05,600
+And speaking of Patreon, a very special thanks to Rex, James Knotz, Smitho, Samuel Dillon,
+
+310
+00:17:05,600 --> 00:17:14,640
+Murray, BigBoss79, Pharmacist, Garrison James Hamilton, Berto Elcon, Simon Kvam, Hente Logic,
+
+311
+00:17:14,640 --> 00:17:18,200
+Pasquale Festa, and anybody else who contributes anonymously.
+
+312
+00:17:18,200 --> 00:17:21,040
+Any amount helps, and you guys are amazing.
+
+313
+00:17:21,040 --> 00:17:25,200
+We've put your money to good use, buying new equipment that our show desperately needs.
+
+314
+00:17:25,200 --> 00:17:31,160
+If you want to support the show, the Patreon address is www.patreon.com slash shortfireotaku.
+
+315
+00:17:31,160 --> 00:17:36,840
+Or if you'd rather do a one-time thing, our paypal's at shortfireotaku at hotmail.com.
+
+316
+00:17:36,840 --> 00:17:41,720
+We post receipts and vlogs about the equipment we buy, so you'll always know your money is
+
+317
+00:17:41,720 --> 00:17:44,320
+going towards our videos and our channel.
+
+318
+00:17:44,320 --> 00:17:46,840
+And of course, don't feel pressured to give or anything.
+
+319
+00:17:46,840 --> 00:17:48,920
+You'll always be welcome whether you give or not.
+
+320
+00:17:48,920 --> 00:17:53,200
+If you want to see more of us, me and my roommate Dave play video games twice a day on this
+
+321
+00:17:53,200 --> 00:17:56,480
+channel, and we're actually starting up a new round of games right now if you want to
+
+322
+00:17:56,480 --> 00:17:58,480
+jump on board with a fresh run of something.
+
+323
+00:17:58,480 --> 00:18:02,120
+We're also doing anime reviews again finally too, with the most recent review just coming
+
+324
+00:18:02,120 --> 00:18:05,240
+out on the 3rd, and the next review coming in about 3 weeks time.
+
+325
+00:18:05,240 --> 00:18:09,680
+And well, if you're only here to listen to me talk about Gamergate, come back for my update
+
+326
+00:18:09,680 --> 00:18:13,200
+video tomorrow, and the next Indefensible video next week.
+
+327
+00:18:13,200 --> 00:18:14,880
+Wherever you see me, I'll see you there.
+

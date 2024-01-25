@@ -1,0 +1,1372 @@
+1
+00:00:00,000 --> 00:00:04,400
+Welcome to coronavirus land guys, I figure that I'll be doing coronavirus stuff from
+
+2
+00:00:04,400 --> 00:00:07,760
+now until this thing blows over, if it ever does.
+
+3
+00:00:07,760 --> 00:00:14,980
+Current totals are at 94,250 confirmed, that probably means we're at like 250,000 or something
+
+4
+00:00:14,980 --> 00:00:16,520
+unconfirmed.
+
+5
+00:00:16,520 --> 00:00:21,600
+Total deaths is at 3,214, total recovered is at 51,038.
+
+6
+00:00:21,600 --> 00:00:26,640
+So yeah, by the stats, this is more deadly than SARS, this is more deadly than the various
+
+7
+00:00:26,640 --> 00:00:30,020
+other outbreaks we've had in the past 20 years or so, but this definitely does seem
+
+8
+00:00:30,020 --> 00:00:32,600
+to be the big one, or at least this century's big one.
+
+9
+00:00:32,600 --> 00:00:36,120
+But at the same time, considering these numbers, you're likely not to die if you actually
+
+10
+00:00:36,120 --> 00:00:37,120
+catch this.
+
+11
+00:00:37,120 --> 00:00:38,520
+And let's be clear, you will catch this.
+
+12
+00:00:38,520 --> 00:00:42,680
+This thing's incubation period is so ridiculously long, I could have it right now and I don't
+
+13
+00:00:42,680 --> 00:00:43,680
+even know.
+
+14
+00:00:43,680 --> 00:00:46,920
+So you will probably get it and you will probably be fine, there's no reason to panic.
+
+15
+00:00:46,920 --> 00:00:49,880
+But yeah, there's almost no point even going over what countries have it now because it
+
+16
+00:00:49,880 --> 00:00:52,940
+just keeps popping up everywhere, there's a new case in a bunch of these other countries
+
+17
+00:00:52,940 --> 00:00:56,000
+that used to not have it, it'll go everywhere eventually I think.
+
+18
+00:00:56,000 --> 00:01:02,400
+A viewer of mine, Ranger Aqua, passed on this flyer that was put up at his local Costco,
+
+19
+00:01:02,400 --> 00:01:05,440
+and apparently these are being put up at a lot of Costcos everywhere.
+
+20
+00:01:05,440 --> 00:01:07,440
+We are currently sold out of the following items.
+
+21
+00:01:07,440 --> 00:01:12,720
+All brands of toilet paper, Arrowhead Water, Glaxo, Glaco, whatever, Smart Water, all Kirkland
+
+22
+00:01:12,720 --> 00:01:16,880
+Signature Water, Kirkland Signature Paper Towels, Kirkland Signature Surface Wipes,
+
+23
+00:01:16,880 --> 00:01:22,720
+Clorox Disinfecting Wipes, Clorox Bleach, Clorox Cleanup, Hand Sanitizer, Lysol Disinfecting
+
+24
+00:01:22,720 --> 00:01:27,400
+spray, Kraft Macaroni and Cheese, all canned vegetables, Cup of Noodles, Canned Chicken
+
+25
+00:01:27,400 --> 00:01:32,120
+Noodle Soup, Baked Beans, all 25 pound bags of rice, and Spam.
+
+26
+00:01:32,120 --> 00:01:35,400
+If you are currently living in an area where there's no shortages of anything, go out and
+
+27
+00:01:35,400 --> 00:01:37,000
+get your stuff now, be prepared.
+
+28
+00:01:37,000 --> 00:01:39,920
+If you are living in an area where there are shortages, then you should have listened to
+
+29
+00:01:39,920 --> 00:01:41,400
+me a month ago and got your food.
+
+30
+00:01:41,400 --> 00:01:45,720
+I'm personally stocked up with enough food to last like six months, so I'm good, and
+
+31
+00:01:45,720 --> 00:01:49,700
+I hope you guys are smart enough to get yourself into a similar situation as me.
+
+32
+00:01:49,700 --> 00:01:54,620
+There have been some rather stupid happenings though, for example, 38% of Americans was
+
+33
+00:01:54,620 --> 00:01:58,540
+a trending phrase on Twitter, and it's because 38% of Americans thought that the Coronavirus
+
+34
+00:01:58,540 --> 00:02:00,260
+came from Corona Beer.
+
+35
+00:02:00,260 --> 00:02:01,260
+Good job guys.
+
+36
+00:02:01,260 --> 00:02:05,860
+But other hashtags that started the trend are Trump virus, and Trump lies about the
+
+37
+00:02:05,860 --> 00:02:06,860
+Coronavirus.
+
+38
+00:02:06,860 --> 00:02:09,420
+I don't know how you could possibly blame this thing on Trump.
+
+39
+00:02:09,420 --> 00:02:14,340
+Considering that this virus came from China, and the quarantine failed because of the ineptness
+
+40
+00:02:14,340 --> 00:02:18,220
+of the Chinese Communist government, I don't know how you could possibly blame this on
+
+41
+00:02:18,220 --> 00:02:19,220
+Trump.
+
+42
+00:02:19,740 --> 00:02:20,740
+This is going to try.
+
+43
+00:02:20,740 --> 00:02:22,100
+Let's call it the Trump virus.
+
+44
+00:02:22,100 --> 00:02:24,180
+If you're feeling awful, you know who to blame.
+
+45
+00:02:24,180 --> 00:02:29,300
+However, this is an opinion piece written by opinion columnist Gail Collins, which means
+
+46
+00:02:29,300 --> 00:02:31,380
+that it's quite literally full of fluff.
+
+47
+00:02:31,380 --> 00:02:34,060
+I don't get why these news outlets have opinion pieces.
+
+48
+00:02:34,060 --> 00:02:40,380
+I go to you for news not to listen to off-brand Elizabeth Warren give me her take on the Coronavirus.
+
+49
+00:02:40,380 --> 00:02:44,900
+Coronavirus has also caused the GDC, the Game Developers Conference, to be postponed.
+
+50
+00:02:44,900 --> 00:02:48,700
+And apparently while it was happening back on February 28th, a whole bunch of indie game
+
+51
+00:02:48,700 --> 00:02:52,420
+devs were stuck in the city with hotels they couldn't refund and nothing to do.
+
+52
+00:02:52,420 --> 00:02:56,820
+Also, since they're on the subject of video games, Plague Inc. has been removed from the
+
+53
+00:02:56,820 --> 00:02:59,800
+China App Store and Steam.
+
+54
+00:02:59,800 --> 00:03:04,020
+The real-time strategy game has been taken down due to illegal content.
+
+55
+00:03:04,020 --> 00:03:07,180
+It was in China for years before, it wasn't illegal then.
+
+56
+00:03:07,180 --> 00:03:13,420
+Additionally, an Arkansas woman causes a courthouse evacuation by claiming she has Coronavirus.
+
+57
+00:03:13,420 --> 00:03:15,700
+I'm surprised it wasn't a Florida woman.
+
+58
+00:03:15,700 --> 00:03:19,180
+And boy, that is the face of regret, if there's ever been one.
+
+59
+00:03:19,180 --> 00:03:23,100
+An Arkansas woman sent a courtroom into chaos by claiming she had come down with the Coronavirus
+
+60
+00:03:23,100 --> 00:03:25,540
+and she is now facing criminal charges for it.
+
+61
+00:03:25,540 --> 00:03:29,400
+She was brought to a local hospital where she tested negative for the virus.
+
+62
+00:03:29,400 --> 00:03:32,240
+As far as we can tell, she lied about having Coronavirus.
+
+63
+00:03:32,240 --> 00:03:36,100
+The episode led to more charges against her for filing a false report, obstructing governmental
+
+64
+00:03:36,100 --> 00:03:38,100
+operations and contempt of court.
+
+65
+00:03:38,100 --> 00:03:43,020
+You know, if you're already arrested for something and you're in court dealing with it, maybe
+
+66
+00:03:43,020 --> 00:03:45,380
+you should just leave it there, you know.
+
+67
+00:03:45,380 --> 00:03:49,460
+Most sleeping dogs lie, don't claim you have Coronavirus to get out of it.
+
+68
+00:03:49,460 --> 00:03:55,300
+The West's medical apparatus seems to be creaking and groaning under the strain of Coronavirus.
+
+69
+00:03:55,300 --> 00:03:59,260
+This is from the US Surgeon General, seriously people, stop buying masks.
+
+70
+00:03:59,260 --> 00:04:02,940
+They're not effective in preventing general public from catching Coronavirus, but if healthcare
+
+71
+00:04:02,940 --> 00:04:06,700
+providers can't get them to care for sick patients, it puts them in our communities
+
+72
+00:04:06,700 --> 00:04:07,700
+at risk.
+
+73
+00:04:07,700 --> 00:04:09,240
+Now this is technically true.
+
+74
+00:04:09,240 --> 00:04:12,820
+A mask won't prevent you from getting Coronavirus, it'll just prevent you from spreading it to
+
+75
+00:04:12,820 --> 00:04:13,820
+other people.
+
+76
+00:04:13,820 --> 00:04:18,440
+We are living in a timeline where the US medical apparatus is so poorly put together that you
+
+77
+00:04:18,440 --> 00:04:24,280
+have the US Surgeon General asking people to not buy commercially available products
+
+78
+00:04:24,280 --> 00:04:27,380
+because their doctors will have to go and stock up on their own.
+
+79
+00:04:27,380 --> 00:04:29,660
+But it's just a flu, right?
+
+80
+00:04:29,660 --> 00:04:31,180
+But there's more incompetence.
+
+81
+00:04:31,180 --> 00:04:39,340
+The CDC refused to test first possible community transmitted Coronavirus case for days.
+
+82
+00:04:39,340 --> 00:04:43,660
+In the UK, the NHS is struggling to cope with the volume of Coronavirus calls.
+
+83
+00:04:43,660 --> 00:04:48,040
+Callers give up after failing to get a reply or waiting hours and even days for clinicians
+
+84
+00:04:48,040 --> 00:04:49,160
+to call them back.
+
+85
+00:04:49,160 --> 00:04:51,620
+The stock market's begun to collapse.
+
+86
+00:04:51,620 --> 00:04:55,480
+Coronavirus crash wipes 5 trillion off of world stocks.
+
+87
+00:04:55,480 --> 00:04:59,060
+These are highly uncertain times, no one really knows the answer and the markets are really
+
+88
+00:04:59,060 --> 00:05:00,060
+panicking.
+
+89
+00:05:00,060 --> 00:05:02,660
+It's not just stocks though, it's also productivity.
+
+90
+00:05:02,660 --> 00:05:07,040
+Coronavirus could cost the global economy 1.1 trillion in lost income.
+
+91
+00:05:07,040 --> 00:05:11,600
+The virus is already having a chilling effect as China factory closures continue to spread.
+
+92
+00:05:11,600 --> 00:05:16,580
+The latest explosive epicenter is Iran for the Coronavirus, and this is a thread from
+
+93
+00:05:16,580 --> 00:05:20,100
+somebody who seems to know some information about the area.
+
+94
+00:05:20,100 --> 00:05:23,100
+Coronavirus epidemic in Iran has passed the crisis level.
+
+95
+00:05:23,100 --> 00:05:24,940
+The country is imploding.
+
+96
+00:05:24,940 --> 00:05:27,500
+Law and order is to disappear in the next few days.
+
+97
+00:05:27,500 --> 00:05:30,980
+A number of government officials have already died and mass infection among hospital staff
+
+98
+00:05:30,980 --> 00:05:32,660
+and police forces are reported.
+
+99
+00:05:32,660 --> 00:05:36,220
+The regime hid the initial cases, since it was just before an election and they needed
+
+100
+00:05:36,220 --> 00:05:37,220
+high turnout.
+
+101
+00:05:37,220 --> 00:05:40,540
+Let's be honest guys, I wouldn't be surprised if Trump's doing the same thing here.
+
+102
+00:05:40,540 --> 00:05:44,480
+Trump entirely runs on an economic platform, and if there's an economic downturn due to
+
+103
+00:05:44,480 --> 00:05:46,720
+the Coronavirus it might backfire in his face.
+
+104
+00:05:46,720 --> 00:05:47,720
+2.
+
+105
+00:05:47,720 --> 00:05:49,480
+Due to political need they didn't stop travel to China.
+
+106
+00:05:49,480 --> 00:05:50,480
+3.
+
+107
+00:05:50,480 --> 00:05:53,760
+The source seems to be clerical students from China arriving in Qom, which is the biggest
+
+108
+00:05:53,760 --> 00:05:54,760
+epicenter.
+
+109
+00:05:54,760 --> 00:05:55,760
+4.
+
+110
+00:05:55,760 --> 00:05:58,240
+Iran didn't close the religious shrines.
+
+111
+00:05:58,240 --> 00:05:59,240
+5.
+
+112
+00:05:59,240 --> 00:06:02,260
+Instead of providing information on the gravity of the rest of the public, they played it
+
+113
+00:06:02,260 --> 00:06:05,600
+down and resorted to the same tactic of rhetoric, we will fight and beat it.
+
+114
+00:06:05,600 --> 00:06:06,600
+Now it has spread everywhere.
+
+115
+00:06:06,600 --> 00:06:09,680
+This is an Iranian MP who got the virus and died.
+
+116
+00:06:09,820 --> 00:06:11,980
+A well-known filmmaker in Iran, he's died.
+
+117
+00:06:11,980 --> 00:06:15,340
+Number of graves are being dug seem to be related to the high casualty of corona in
+
+118
+00:06:15,340 --> 00:06:16,980
+the province of Galan.
+
+119
+00:06:16,980 --> 00:06:18,740
+Airline staff collapsing at the airport.
+
+120
+00:06:18,740 --> 00:06:22,920
+This morgue ambulance was reported to have been abandoned after carrying a victim of
+
+121
+00:06:22,920 --> 00:06:23,920
+coronavirus.
+
+122
+00:06:23,920 --> 00:06:27,820
+They just abandoned it.
+
+123
+00:06:27,820 --> 00:06:28,820
+Wow dude.
+
+124
+00:06:28,820 --> 00:06:29,820
+6.
+
+125
+00:06:29,820 --> 00:06:32,740
+A clinic in the south of Iran has been torched by angry locals after allegedly 10 corona
+
+126
+00:06:32,740 --> 00:06:34,300
+patients were transferred to the center.
+
+127
+00:06:34,300 --> 00:06:36,060
+They just burned it?
+
+128
+00:06:36,060 --> 00:06:40,280
+Oh my fucking god dude.
+
+129
+00:06:40,280 --> 00:06:44,280
+Yeah they just lit it up.
+
+130
+00:06:44,280 --> 00:06:46,200
+Holy shit dude.
+
+131
+00:06:46,200 --> 00:06:48,840
+Yeah that's smart.
+
+132
+00:06:48,840 --> 00:06:52,080
+Burn the hospitals that are actually caring for the patients.
+
+133
+00:06:52,080 --> 00:06:53,720
+You fucking idiots.
+
+134
+00:06:53,720 --> 00:06:58,800
+And speaking of fucking idiots, Iranians are licking religious shrines in defiance of the
+
+135
+00:06:58,800 --> 00:07:01,880
+coronavirus spread.
+
+136
+00:07:01,880 --> 00:07:03,680
+Yeah.
+
+137
+00:07:03,680 --> 00:07:06,700
+This has to be peak Darwin award at this point.
+
+138
+00:07:06,700 --> 00:07:07,700
+I get it.
+
+139
+00:07:07,700 --> 00:07:08,700
+It's a test of faith.
+
+140
+00:07:08,700 --> 00:07:11,820
+It's like oh look I believe so much that my god will protect me.
+
+141
+00:07:11,820 --> 00:07:16,340
+I will lick this religious shrine and I will not get the virus.
+
+142
+00:07:16,340 --> 00:07:18,920
+You guys are all gonna fucking die oh my god.
+
+143
+00:07:18,920 --> 00:07:23,540
+These pro-regime people are licking the shrines and encouraging people to visit them.
+
+144
+00:07:23,540 --> 00:07:26,900
+Iran's authorities are endangering the lives of Iranians and the world.
+
+145
+00:07:26,900 --> 00:07:30,820
+The shrine is considered a place for healing and those who are photographed licking the
+
+146
+00:07:30,820 --> 00:07:33,400
+door say they don't care what happens.
+
+147
+00:07:33,400 --> 00:07:35,980
+I can't believe this is the world in which I live.
+
+148
+00:07:35,980 --> 00:07:40,780
+There have been some reports of Trump being a bit flippant about the virus saying oh yeah
+
+149
+00:07:40,780 --> 00:07:43,120
+we got under control guys don't worry it's not a big deal.
+
+150
+00:07:43,120 --> 00:07:47,520
+I don't think that he's being an idiot like that that some of those hashtags suggested.
+
+151
+00:07:47,520 --> 00:07:51,620
+I think he's trying to downplay the coronavirus because he doesn't want to affect 2020.
+
+152
+00:07:51,620 --> 00:07:56,620
+However in reply to that you get insanity like this leftist Denver councilwoman cheers
+
+153
+00:07:56,620 --> 00:08:00,740
+the idea of infecting Trump rallies with the coronavirus.
+
+154
+00:08:00,740 --> 00:08:05,640
+Denver city councilwoman was hit with calls to resign on Tuesday after she showed support
+
+155
+00:08:05,640 --> 00:08:10,960
+for a tweet floating the idea of attending Make America Great Again rallies to infect
+
+156
+00:08:10,960 --> 00:08:13,020
+Trump supporters with the coronavirus.
+
+157
+00:08:13,020 --> 00:08:19,480
+She tweeted hashtag solidarity yes for the record if I do get the coronavirus I'm attending
+
+158
+00:08:19,480 --> 00:08:21,360
+every mega rally I can.
+
+159
+00:08:21,360 --> 00:08:24,440
+I really thought it was just a flu guys like isn't that what you've been saying?
+
+160
+00:08:24,440 --> 00:08:28,000
+Isn't that what the left has been saying trying to downplay this as Sinophobia it's just a
+
+161
+00:08:28,000 --> 00:08:29,000
+flu?
+
+162
+00:08:29,000 --> 00:08:30,980
+You're just being racist against Chinese people?
+
+163
+00:08:30,980 --> 00:08:35,100
+Oh but as soon as you can become a living fucking bioweapon you're all over it right?
+
+164
+00:08:35,100 --> 00:08:39,180
+I've never gotten the coronavirus and I've never gone to a Trump rally but if I get the
+
+165
+00:08:39,180 --> 00:08:40,900
+first I'm doing the second.
+
+166
+00:08:40,900 --> 00:08:45,260
+If I contracted coronavirus I would go out and try to attend every Trump rally possible.
+
+167
+00:08:45,260 --> 00:08:49,280
+All I'm saying is if you do think you have coronavirus you should immediately attend
+
+168
+00:08:49,280 --> 00:08:52,380
+a Trump rally to be briefed by the president on what to do.
+
+169
+00:08:52,380 --> 00:08:56,100
+He is an expert on everything and I'm sure there will be at least a few prescribing doctors
+
+170
+00:08:56,100 --> 00:08:57,100
+in the crowd.
+
+171
+00:08:57,100 --> 00:09:01,120
+If I find out I have the coronavirus I'm going to attend every Trump rally I can till I fall
+
+172
+00:09:01,120 --> 00:09:02,120
+over dead.
+
+173
+00:09:02,120 --> 00:09:04,360
+Now I get it right it's jokes it's memes.
+
+174
+00:09:04,360 --> 00:09:07,920
+I can see the black humor in it for sure but it is a little bit different when an elected
+
+175
+00:09:07,920 --> 00:09:10,200
+official says they're going to do it.
+
+176
+00:09:10,200 --> 00:09:14,400
+It's a bad time for the neoliberal shitheels over at the EU.
+
+177
+00:09:14,400 --> 00:09:18,120
+Coronavirus nightmare could be the end for Europe's borderless dream.
+
+178
+00:09:18,120 --> 00:09:22,980
+The crown jewel of the EU its network of open internal borders has been hit hard by the
+
+179
+00:09:22,980 --> 00:09:24,460
+refugee crisis.
+
+180
+00:09:24,460 --> 00:09:26,400
+The virus could deliver another blow.
+
+181
+00:09:26,400 --> 00:09:30,540
+If you needed another reason as to why open borders just doesn't work here it is.
+
+182
+00:09:30,540 --> 00:09:33,500
+Amazon's also told its employees to not do any traveling.
+
+183
+00:09:33,500 --> 00:09:36,520
+And honestly this is probably a good idea because if you have like an Amazon packer
+
+184
+00:09:36,520 --> 00:09:41,380
+who has the coronavirus and he's spreading it into every package that could be nightmarish.
+
+185
+00:09:41,380 --> 00:09:46,260
+Toronto is getting an Asian food festival in response to coronavirus fears nope nope
+
+186
+00:09:46,260 --> 00:09:47,780
+nope no thank you.
+
+187
+00:09:47,780 --> 00:09:50,540
+No thank you man with bat apron I'm not interested.
+
+188
+00:09:50,540 --> 00:09:53,440
+Oh yeah and there was this shit I almost forgot.
+
+189
+00:09:53,440 --> 00:09:58,020
+Amazon's deputy health minister and I think also the V.P. as well tests positive as the
+
+190
+00:09:58,020 --> 00:10:00,900
+coronavirus outbreak worsens.
+
+191
+00:10:00,900 --> 00:10:02,520
+Check this out dude.
+
+192
+00:10:02,520 --> 00:10:08,020
+So he's here and he's like off to the side talking about the coronavirus and how they've
+
+193
+00:10:08,020 --> 00:10:12,860
+got it all under control and how things are OK and he starts sweating like a fountain
+
+194
+00:10:12,860 --> 00:10:20,700
+on live TV and it turns out he has coronavirus holy shit.
+
+195
+00:10:20,700 --> 00:10:24,240
+This is like this is the kind of thing that you see at the beginning of the zombie story
+
+196
+00:10:24,240 --> 00:10:25,920
+before the outbreak happens.
+
+197
+00:10:25,920 --> 00:10:31,440
+Same energy by the way guy who was quarantined and said he was fine can't stop coughing during
+
+198
+00:10:31,440 --> 00:10:35,720
+his interview with Fox.
+
+199
+00:10:35,720 --> 00:10:37,480
+Why would you share it with your dog.
+
+200
+00:10:37,480 --> 00:10:38,480
+Why would you.
+
+201
+00:10:38,480 --> 00:10:40,540
+Oh my fucking God.
+
+202
+00:10:40,540 --> 00:10:42,800
+But forget Iran's vice president forget the pope.
+
+203
+00:10:42,800 --> 00:10:43,800
+G.T.S.
+
+204
+00:10:43,800 --> 00:10:50,480
+Vivian has caught and been killed by the coronavirus unfortunately GTS Vivian was a prominent artist
+
+205
+00:10:50,480 --> 00:10:53,900
+in the giantess fetish community.
+
+206
+00:10:53,900 --> 00:10:58,260
+And yes I'm sure there's a few jokes you can make here and maybe in the future but it's
+
+207
+00:10:58,260 --> 00:10:59,700
+still a person who's dead.
+
+208
+00:10:59,700 --> 00:11:03,080
+Italy's followed in Japan's footsteps and decided to close down all the schools.
+
+209
+00:11:03,080 --> 00:11:07,440
+Meanwhile the World Health Organization has finally announced its official death rate
+
+210
+00:11:07,440 --> 00:11:10,700
+for the coronavirus and it's at three point four percent.
+
+211
+00:11:10,700 --> 00:11:11,740
+It's not a crazy amount.
+
+212
+00:11:11,740 --> 00:11:16,020
+If you get it you have a 97 percent chance of surviving it but that's higher than SARS
+
+213
+00:11:16,020 --> 00:11:21,240
+it's higher than the flu and it seems to actually disproportionately kill old people.
+
+214
+00:11:21,240 --> 00:11:23,760
+So this might be the end of the boomer generation after all.
+
+215
+00:11:23,760 --> 00:11:26,240
+We have to talk about China's involvement again though.
+
+216
+00:11:26,240 --> 00:11:28,540
+This article here don't buy China's story.
+
+217
+00:11:28,540 --> 00:11:30,920
+The coronavirus may have leaked from a lab.
+
+218
+00:11:30,920 --> 00:11:31,920
+OK fair enough.
+
+219
+00:11:31,920 --> 00:11:35,000
+This is all stuff that we've heard before you know the what did it come from the wet
+
+220
+00:11:35,000 --> 00:11:37,400
+market did it come from the bio lab.
+
+221
+00:11:37,400 --> 00:11:38,400
+Who knows.
+
+222
+00:11:38,400 --> 00:11:41,160
+However there's an interesting bit in here that we should probably talk about.
+
+223
+00:11:41,160 --> 00:11:46,580
+Some Chinese researchers at the bio lab are in the habit of selling their laboratory animals
+
+224
+00:11:46,580 --> 00:11:51,540
+to street vendors after they have finished experimenting on them instead of properly
+
+225
+00:11:51,540 --> 00:11:55,300
+disposing of infected animals by cremation as the law requires.
+
+226
+00:11:55,300 --> 00:12:00,200
+They sell them on the side to make a little extra cash or in some cases a lot of extra
+
+227
+00:12:00,200 --> 00:12:01,200
+cash.
+
+228
+00:12:01,200 --> 00:12:06,460
+One Beijing researcher now in jail made a million dollars selling his monkeys and rats
+
+229
+00:12:06,460 --> 00:12:11,020
+on the live animal market where they eventually wound up in someone's stomach.
+
+230
+00:12:11,020 --> 00:12:12,020
+Here we go.
+
+231
+00:12:12,020 --> 00:12:13,080
+That's probably where it came from.
+
+232
+00:12:13,080 --> 00:12:14,520
+Someone sold out the Batman.
+
+233
+00:12:14,520 --> 00:12:18,600
+And of course we all know that everyone the Americans the Chinese whoever they're all
+
+234
+00:12:18,600 --> 00:12:22,100
+cooking the numbers to try and avoid a global economic depression.
+
+235
+00:12:22,100 --> 00:12:27,320
+Leaked documents reveal coronavirus infections up to 52 times higher than reported figures
+
+236
+00:12:27,320 --> 00:12:29,040
+in China's Shandong province.
+
+237
+00:12:29,040 --> 00:12:32,740
+There is no way that Iran has 66 deaths with only a couple hundred cases.
+
+238
+00:12:32,740 --> 00:12:34,860
+It's not possible at a death rate of 3 percent.
+
+239
+00:12:34,860 --> 00:12:36,920
+This thing is everywhere for real.
+
+240
+00:12:36,920 --> 00:12:40,880
+And now we have to get into the tin foil hat territory where this might be an actual
+
+241
+00:12:40,880 --> 00:12:42,660
+super virus or something.
+
+242
+00:12:42,660 --> 00:12:47,200
+Wuhan to quarantine all cured patients for 14 days after some of them tested positive
+
+243
+00:12:47,200 --> 00:12:48,200
+again.
+
+244
+00:12:48,200 --> 00:12:51,780
+There is a chance that after you've been cured of this disease you still spread it
+
+245
+00:12:51,780 --> 00:12:54,080
+around and that's just how it is.
+
+246
+00:12:54,080 --> 00:12:56,280
+You become an asymptomatic carrier.
+
+247
+00:12:56,280 --> 00:12:57,280
+It's entirely possible.
+
+248
+00:12:57,280 --> 00:13:03,360
+The coronavirus is far more likely than SARS to bond to human cells due to HIV like mutation.
+
+249
+00:13:03,360 --> 00:13:06,900
+Again you might just become an asymptomatic carrier after you get it spreading it to everyone.
+
+250
+00:13:06,900 --> 00:13:10,060
+This might just be a thing that humanity now has to live with.
+
+251
+00:13:10,060 --> 00:13:13,140
+Additionally, this new bitter research just came out.
+
+252
+00:13:13,140 --> 00:13:18,080
+Researchers identify two coronavirus strains as the Chinese case's dwindle.
+
+253
+00:13:18,080 --> 00:13:21,900
+Scientists in China studying the outbreak of the disease caused by the new coronavirus
+
+254
+00:13:21,900 --> 00:13:25,800
+say they have found that two main strains of the virus are circulating in humans and
+
+255
+00:13:25,800 --> 00:13:26,800
+causing infections.
+
+256
+00:13:26,800 --> 00:13:27,800
+That's interesting.
+
+257
+00:13:27,800 --> 00:13:30,420
+Maybe we are at the point where mutations have actually begun to happen and things are
+
+258
+00:13:30,420 --> 00:13:31,420
+splitting off.
+
+259
+00:13:31,420 --> 00:13:34,660
+I do recall that I think it was with Ebola or one of these diseases.
+
+260
+00:13:34,660 --> 00:13:36,900
+It fundamentally wasn't humans that stopped it.
+
+261
+00:13:36,900 --> 00:13:41,140
+Nature stopped itself because an asymptomatic variant evolved naturally and then started
+
+262
+00:13:41,140 --> 00:13:42,640
+inoculating the population.
+
+263
+00:13:42,640 --> 00:13:47,100
+The preliminary study found that a more aggressive strain of the new coronavirus associated with
+
+264
+00:13:47,100 --> 00:13:52,660
+the outbreak in Wuhan accounted for about 70% of analyzed cases, while 30% were linked
+
+265
+00:13:52,660 --> 00:13:54,300
+to a less aggressive type.
+
+266
+00:13:54,300 --> 00:13:59,300
+The prevalence of the more aggressive virus type decreased after early January 2020.
+
+267
+00:13:59,300 --> 00:14:03,540
+Now on the one hand this is from the Chinese Academy of Sciences and it quite literally
+
+268
+00:14:03,540 --> 00:14:08,660
+could just be propaganda to try and calm the world down or make China look better or
+
+269
+00:14:08,660 --> 00:14:10,260
+prevent an economic slump or something.
+
+270
+00:14:10,260 --> 00:14:13,380
+On the other hand it might actually be a cause for legitimate hope.
+
+271
+00:14:13,380 --> 00:14:15,620
+Maybe things aren't as bad as they seem sometimes.
+
+272
+00:14:15,620 --> 00:14:16,620
+Who knows?
+
+273
+00:14:16,620 --> 00:14:18,340
+We'll have to wait and see.
+
+274
+00:14:18,340 --> 00:14:21,060
+As they say, further immediate studies are needed.
+
+275
+00:14:21,060 --> 00:14:26,660
+And of course the ACE2 expression in kidney and testis may cause kidney and testis damage
+
+276
+00:14:26,660 --> 00:14:28,660
+after the coronavirus infection.
+
+277
+00:14:28,660 --> 00:14:30,780
+Now there's a lot to go through here.
+
+278
+00:14:30,780 --> 00:14:33,920
+I'm definitely not a scientist and there's a lot of scientific talk here.
+
+279
+00:14:33,920 --> 00:14:36,780
+But here's my basic layman's understanding of it.
+
+280
+00:14:36,780 --> 00:14:42,620
+The angiotensin-converting enzyme 2 is a major receptor that mediates the entry of the coronavirus
+
+281
+00:14:42,620 --> 00:14:43,620
+into human cells.
+
+282
+00:14:43,620 --> 00:14:47,620
+This is an enzyme overwhelmingly found in Asian populations, which may mean that this
+
+283
+00:14:47,620 --> 00:14:50,680
+virus is more infectious to Asians than other people.
+
+284
+00:14:50,680 --> 00:14:55,400
+At the same time it causes kidney and testicle damage, which does partially corroborate the
+
+285
+00:14:55,400 --> 00:14:58,120
+reports that this thing will make you infertile after you get it.
+
+286
+00:14:58,120 --> 00:15:01,160
+This is all still up in the air, but it seems like it might be a nightmare disease.
+
+287
+00:15:01,160 --> 00:15:04,920
+But if it is the case that this thing at least somewhat selects by race, or that it leaves
+
+288
+00:15:04,920 --> 00:15:08,960
+lasting permanent damage after it's done with you, or that you can continue infecting people
+
+289
+00:15:08,960 --> 00:15:10,720
+long after you've been cured of it.
+
+290
+00:15:10,720 --> 00:15:15,740
+One of my mods in my Discord server, she theorized that this would actually cause a new form
+
+291
+00:15:15,740 --> 00:15:17,480
+of discrimination to come about.
+
+292
+00:15:17,480 --> 00:15:21,320
+Where people who have been infected with it, even though they suffered no ill effects,
+
+293
+00:15:21,320 --> 00:15:24,840
+because they're spreading it around, they're going to be treated like a second-class citizen.
+
+294
+00:15:24,880 --> 00:15:29,920
+Imagine an entire society full of Typhoid Marys and like, a very stratified class system.
+
+295
+00:15:29,920 --> 00:15:30,920
+That might be our future.
+
+296
+00:15:30,920 --> 00:15:35,520
+And of course, China being China, they're now forcing their workers back to work in
+
+297
+00:15:35,520 --> 00:15:37,120
+order to avoid an economic collapse.
+
+298
+00:15:37,120 --> 00:15:41,120
+Doesn't matter if you're sick, doesn't matter who else gets sick, get back to work.
+
+299
+00:15:41,120 --> 00:15:46,240
+Meanwhile these Chinese people had their apartment block forcibly demolished by the government
+
+300
+00:15:46,240 --> 00:15:48,920
+in the efforts to stop the spread of coronavirus.
+
+301
+00:15:48,920 --> 00:15:53,120
+The land will be used for something else, and the people who live there, they're now
+
+302
+00:15:53,120 --> 00:15:54,120
+simply homeless.
+
+303
+00:15:54,400 --> 00:15:58,920
+Oh, and by the way, if you're in China driving around, this is how you'd be treated now.
+
+304
+00:15:58,920 --> 00:16:01,160
+These are coronavirus checkpoints.
+
+305
+00:16:01,160 --> 00:16:04,960
+In order to even travel now, you have to be scanned with a handheld thermometer, and then
+
+306
+00:16:04,960 --> 00:16:09,860
+they have SWAT teams in hazmat suits ready to force you into quarantine if you even have
+
+307
+00:16:09,860 --> 00:16:10,360
+a fever.
+
+308
+00:16:17,200 --> 00:16:21,360
+Of course, this guy's a moron for taking off his face mask, and he did kind of deserve
+
+309
+00:16:21,480 --> 00:16:26,160
+this at the end, but I understand him being pissed, like, Jesus, this is some draconian
+
+310
+00:16:26,160 --> 00:16:27,880
+ass shit, dude.
+
+311
+00:16:27,880 --> 00:16:31,720
+This really does look like it's out of a sci-fi movie, isn't it?
+
+312
+00:16:31,720 --> 00:16:33,120
+Man.
+
+313
+00:16:33,120 --> 00:16:37,200
+Now they're like spraying down the car and spraying down the- oh my god.
+
+314
+00:16:37,200 --> 00:16:40,760
+Alright, that's all the coronavirus news I have for you today.
+
+315
+00:16:40,760 --> 00:16:42,480
+Even in my city, things are starting to heat up.
+
+316
+00:16:42,480 --> 00:16:44,200
+There have been some shortages of food.
+
+317
+00:16:44,200 --> 00:16:49,280
+I went to the grocery store a couple days ago, and there was definitely a crowd in there.
+
+318
+00:16:49,280 --> 00:16:50,800
+People are starting to notice.
+
+319
+00:16:50,800 --> 00:16:54,520
+If you haven't done your supply stock up a month ago, like when I was saying to do
+
+320
+00:16:54,520 --> 00:16:56,940
+it, it might be a lot harder to do it now.
+
+321
+00:16:56,940 --> 00:17:00,280
+If you are still in a relatively quiet area, and you still happen to have the luxury of
+
+322
+00:17:00,280 --> 00:17:02,120
+time, don't wait.
+
+323
+00:17:02,120 --> 00:17:03,560
+Go out and get some extra food.
+
+324
+00:17:03,560 --> 00:17:05,680
+And most importantly of all, don't panic.
+
+325
+00:17:05,680 --> 00:17:08,080
+Even if you have coronavirus, don't panic.
+
+326
+00:17:08,080 --> 00:17:09,320
+It's not likely to kill you.
+
+327
+00:17:09,320 --> 00:17:13,200
+All of those long-term side effects are still unconfirmed, and to be honest, things will
+
+328
+00:17:13,200 --> 00:17:14,200
+probably be just fine.
+
+329
+00:17:14,200 --> 00:17:18,640
+I know the meme is LOL is just a flu, bro, but if you get it, and for some reason you're
+
+330
+00:17:18,640 --> 00:17:21,880
+not going to the hospital, or they won't take you, or for some reason you're stuck
+
+331
+00:17:21,880 --> 00:17:25,080
+on your own, then your best bet is to probably treat it like a flu.
+
+332
+00:17:25,080 --> 00:17:29,480
+Rest up, stay in bed, take medication, eat some decent food, chicken soup, you know how
+
+333
+00:17:29,480 --> 00:17:30,480
+to do it.
+
+334
+00:17:30,480 --> 00:17:33,240
+Remember, I said chicken soup, not bat soup, alright?
+
+335
+00:17:33,240 --> 00:17:34,240
+And you know what?
+
+336
+00:17:34,240 --> 00:17:35,240
+You probably won't die.
+
+337
+00:17:35,240 --> 00:17:36,800
+We're all probably going to make it.
+
+338
+00:17:36,800 --> 00:17:40,480
+What kills people right now isn't the virus, it's panic, and you have to avoid that.
+
+339
+00:17:40,480 --> 00:17:42,440
+Alright my friends, good luck out there.
+
+340
+00:17:42,440 --> 00:17:43,440
+I love you.
+
+341
+00:17:43,440 --> 00:17:47,360
+Oh yeah, I almost forgot.
+
+342
+00:17:47,360 --> 00:17:49,800
+virus-themed porn is going viral.
+
+343
+00:17:49,800 --> 00:17:51,240
+The internet's a wonderful place, isn't it?
+

@@ -1,0 +1,110 @@
+WEBVTT
+
+00:00.000 --> 00:06.000
+As some of you may know from our previous Set Tour videos, we use an Elgato as our primary capture device.
+
+00:06.000 --> 00:12.000
+It records in a variety of formats, it's got a dongle for older inputs, and it's slick and cool looking.
+
+00:12.000 --> 00:15.000
+But, we've found a fatal flaw in how it works.
+
+00:15.000 --> 00:18.000
+We've lost a number of games to this specific bug.
+
+00:18.000 --> 00:24.000
+Two sessions of Mario Sunshine, and one session each of Muramasa the Demon Blade, Sonic 3,
+
+00:24.000 --> 00:27.000
+Shovel Knight, Legend of Zelda Link to the Past, and Splatoon.
+
+00:27.000 --> 00:32.000
+When you first open up the Elgato's capturing application, it immediately begins recording.
+
+00:32.000 --> 00:38.000
+These files are dumped into a folder with the name given in the software, and consist of .ts files, and a bunch of metadata.
+
+00:38.000 --> 00:43.000
+TS files are just a simple MPEG stream, the same format our camera also records in.
+
+00:43.000 --> 00:49.000
+From what we can tell, when you hit the big record button on the Elgato, it's not actually recording anything.
+
+00:49.000 --> 00:53.000
+The Elgato is always recording when the software is open and the Elgato is connected.
+
+00:53.000 --> 00:59.000
+What it's doing instead, is making a marker in the metadata that points to a specific time in the TS file.
+
+00:59.000 --> 01:03.000
+When you click the recording off, the program makes a second marker,
+
+01:03.000 --> 01:08.000
+and then begins to convert all the captured footage between the two markers into a .mp4 file,
+
+01:08.000 --> 01:11.000
+which is what we actually use in our videos.
+
+01:11.000 --> 01:18.000
+We learned very early on that all of these TS files build up fairly quickly, and to delete them once the video's been uploaded.
+
+01:18.000 --> 01:20.000
+Here's where the problem arises.
+
+01:20.000 --> 01:25.000
+If during the last recording session we played a high definition game through an HDMI cable,
+
+01:25.000 --> 01:29.000
+and we're now playing to play a standard definition game through the Elgato's composite dongle,
+
+01:29.000 --> 01:32.000
+we have to change the input settings and resolution.
+
+01:32.000 --> 01:37.000
+But because it's so easy to forget that the Elgato doesn't actually begin recording when you click record,
+
+01:37.000 --> 01:44.000
+but is always recording from boot up, we actually end up changing resolution and input mid-recording without realizing it.
+
+01:44.000 --> 01:49.000
+In our example, the TS files the Elgato generates are 1920x1080.
+
+01:49.000 --> 01:57.000
+But the Elgato software abruptly begins to feed the file 720x480 footage at a different framerate from a different source.
+
+01:57.000 --> 02:03.000
+The end result is a garbled mess, with the Elgato trying to compensate for what it perceives to be lost frames and footage
+
+02:03.000 --> 02:08.000
+by adding random junk frames everywhere, distorting the picture, and making an audio sync impossible.
+
+02:08.000 --> 02:14.000
+The solution to this is simple, but really inconvenient, and makes up my only complaint about the Elgato.
+
+02:14.000 --> 02:19.000
+When we start a recording session, and are recording from a console that uses a different set of cables,
+
+02:19.000 --> 02:24.000
+or plays at a different resolution from our last session, we have to power up the console and Elgato,
+
+02:24.000 --> 02:28.000
+turn on the software and allow it to begin generating its .ts file,
+
+02:28.000 --> 02:31.000
+change the resolution and input, causing footage corruption,
+
+02:31.000 --> 02:36.000
+close the recording software, clear out the newly generated corrupt files,
+
+02:37.000 --> 02:44.000
+and reopen the whole thing again, so that the recording software starts the new .ts files at the proper resolution for our current session.
+
+02:44.000 --> 02:50.000
+It's a pain to do, and it's honestly a little easy to forget, but at least we've finally figured out what the problem is.
+
+02:50.000 --> 02:57.000
+If you happen to use an Elgato for your own stuff, always make sure to reboot the application and clear out your cache of old files
+
+02:57.000 --> 02:59.000
+any time you have to change the resolution or input.
+

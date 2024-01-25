@@ -1,0 +1,89 @@
+Hey guys, Dev here. I'm just going to do a quick little vlog.
+When Dave went off to work today, he found an Amazon package and this would be the package
+outside the door. And he was really excited about it, so he came to get me, but he couldn't
+actually stick around to open it up with me. And then I immediately started ripping it
+open and I realized, you know what, I should probably actually do a little video on this,
+if only because, well, you guys made this possible. This is about 250 bucks worth of
+sound equipment, which we got the money from, this time from ad revenue. Not from Patreon.
+Patreon is going towards something else, but this time this is from our ad revenue from
+YouTube over the past little while. So thanks a lot for watching, if you watch without ad
+blocker. And if you watch with ad blocker, that's totally fine too, but thanks. For all
+you guys who watch, thanks. We couldn't do this without you.
+So the first thing we got was the Zenix Q1202 USB audio mixer by Behringer. And the main
+reason we picked up this is because we're going to use it to vastly increase our sound
+quality of all of our videos. It'll work for the Let's Plays, the anime reviews, vlogs,
+gamergate stuff. It'll do something for everything. Let's just kind of take a look here. Like
+I said, I jumped the gun and I started opening it up a little bit. We have here standard
+USB. This is where the sound kind of comes out of the device and into your computer.
+Standard power cable, nothing too special about it. And here's the thing itself. I'm
+just going to open this up. There it is in the packaging. Let me just pull it off and
+kind of look at it. This is normally on for about 200 Canadian. We picked it up for about
+130 Canadian because Amazon was having a special. And here it is all outside of the packaging.
+It did contain one of those little containers of candy that you should always feed your
+children but not today. The actual device itself is pretty sturdy. It's some pretty
+good plastic, some pretty good metal on it. I'll get this box away. It's kind of confusing
+actually. But it seems like it's very solidly built. And that's always a plus. Just because
+there's always some objects that you buy and you spend a lot of money on them and they
+fall apart right away. But here it is. Now there is an instruction manual so I'm sure
+we'll go over the details of what each of these functions does. But basically you plug
+your microphones in up there. You can adjust levels, adjust audio quality. You can do effects,
+various things. And then on the back it all outputs by USB to your computer. And then
+you record it with Audacity or some other program. So if you have a large number of
+people speaking at once you'd want a board like this. Or if you have only one person
+and you want to do an effect or increase the audio quality you would also use this board.
+As you can see there's a number of different types of connectors. You can plug in all different
+types of mics. A bunch of different knobbies that I have no clue what they'll do yet. But
+I mean we'll figure it out right? But basically this will have the biggest impact on the Let's
+Plays. This camera that I'm using right now has a shotgun mic on the top of it. And usually
+what happens is because we cannot cut out the TV volume from the shotgun mic picking
+up our speaking, what will end up happening is that the camera audio track will have the
+TV game stuff and then our speaking. And that's what we end up using. And some people have
+noticed the game audio quality is kind of low because it's coming out of the TV and
+back into the camera. Our only real solution for this was to pick up a bunch of mics, have
+them wired through a panel like this, and then kind of attach the mics to our shirts.
+In that situation only our voices would be picked up and then we could use the higher
+quality audio from the game capture. And we needed technology like this to be able to
+do that. And now we have it. So that's great. The second thing we got today were these lavalier
+microphones to go with it. Now we are going to need adapters for these mics to make it
+work with this panel but the adapters are cheap. They're like $2 a piece. We got three
+of these mics. Now these are two in the box here. We were hoping to get four because usually
+we would use four on the Let's Plays at maximum but only three of them were on sale. So when
+the fourth, we're not in a rush, when the fourth one comes on sale we'll buy the fourth
+one. Let's take a quick look at these. They're from Audio Technica which is the same company
+that we use for this mic which is our AT2020 which is a very good mic. It's lasted five
+years now and it's still going strong. These ran us at 30 bucks a pop so that ends up being
+around 90. And these honestly are only going to help with the Let's Plays. We'll use the
+panel with other microphones for the gamergate stuff and for the anime review stuff. These
+are our Let's Play only thing. They are a lower end lavalier mic but I did see a video
+online showing off their quality and they're good for what we need. We don't need to spend
+100 bucks a person, at least just yet. This thing, this is actually a mic that's primarily
+made to be used on cell phones so this thing is basically for that. It's like a cell phone
+connector. Everything else here, the clip attaches it to your shirt, there's the mic,
+there's the windsock if you want to use it, there's the power thing and there's the battery.
+So it all really is standard stuff. The sound quality on it, from what I could tell was
+very good, at least for the price of 30 bucks. You can't ask for more than that. And with
+three of these, Dave and I will use one each during the Let's Plays and when we do Skyward
+Sword again with Cabbage we'll have three of them going. And then we'll just have to
+get by using our old method for any kind of four player game until we get the fourth mic.
+So yeah, all in all this stash of stuff ran us about 250 bucks, probably another 30 for
+a fourth mic. We're going to have to buy some replacement batteries because these, they're
+not common, you can't just go into a hardware store and just pick them up like a watch battery,
+they're a different size. So we'll probably need to buy some spares of those. And we will
+need to buy the cheap connectors that allow us to plug these mics into this board. But
+here's the great thing about it, is that these mics are cheap, but they'll do. If we ever
+get big, these can be easily replaced, but this board will work with everything. And
+this really is the more expensive piece. So like, if a few years down the road we have
+enough money and enough of a demand to actually get like really good mics, like $100 mics,
+these can be easily replaced because they're kind of cheapos, but the new mics will work
+with this thing too, which is great. So we do have the ability to expand and upgrade,
+and these will work as long as I just buy that little adapter because this is a standard
+computer mic size for the jack here. Meanwhile, those jacks over there are for the next size
+up, but it's completely compatible. All you got to do is just buy the thing and stick
+it in. So it's going to be great. I don't know when you'll actually see this stuff in
+use, but I'm sure we'll make a big hullabaloo about it on the show. So yeah, thanks to everyone
+who watches, thanks to everyone who watches without adblock, who donates to Patreon, who
+donates to Paypal, everything, you're all great. And I know some of you are probably
+looking for the gamergate video, I know, I know. It's coming, trust me. There's just...
+I'm not involved in the digging process, but apparently Camera Lady will pull a thread
+in digging and then find more stuff and they want to get back at it. So I mean, you'll
+see it, we haven't given up. But yeah, thanks everyone, and see you next time.

@@ -1,0 +1,844 @@
+1
+00:00:00,000 --> 00:00:05,360
+So I was having a very enlightening conversation on stream last night. It was the The Last of Us 2
+
+2
+00:00:05,360 --> 00:00:12,480
+stream. And to be fair, I was actually doing quite poorly at it. And the main reason for that is
+
+3
+00:00:12,480 --> 00:00:19,920
+because, well, I was operating on about one and a half hours sleep. Yeah, it's it's it's been kind
+
+4
+00:00:19,920 --> 00:00:26,480
+of a rough, a rough past couple days, if you know what I mean. But nonetheless, my chatroom was
+
+5
+00:00:26,480 --> 00:00:32,080
+making some very good points. And I would like at least the opportunity to ruminate on them and
+
+6
+00:00:32,080 --> 00:00:37,280
+maybe answer some questions at a time when I have, you know, had a full night's sleep and had some
+
+7
+00:00:37,280 --> 00:00:42,640
+coffee and I'm actually kind of at least halfway put together right now. Okay, so the contention
+
+8
+00:00:42,640 --> 00:00:48,640
+was over my use of the terms, you know, leftist, centrist, and I guess rightist. And the way I've
+
+9
+00:00:48,640 --> 00:00:52,960
+always seen things is that you have, you know, the left-right spectrum of politics. I know that it's
+
+10
+00:00:53,440 --> 00:00:58,720
+it's very simplistic. Most people like to use either like the the eight axis spectrum of
+
+11
+00:00:58,720 --> 00:01:03,520
+politics. Sometimes they like to use the left-right freedom order grid of politics. I think all of
+
+12
+00:01:03,520 --> 00:01:07,680
+these tools have their place when talking about politics. The way that I conceptualize the the
+
+13
+00:01:07,680 --> 00:01:12,720
+one axis system where it's just left and right is that it's relatively unchanging and that the
+
+14
+00:01:12,720 --> 00:01:19,040
+Overton window is a box on this left-right politics that kind of shifts leftward or rightward
+
+15
+00:01:19,040 --> 00:01:24,960
+as basically the larger public opinion changes. Which is how, you know, my support in the late
+
+16
+00:01:24,960 --> 00:01:31,360
+1990s of say gay marriage and universal health care and things like that. Those were a very
+
+17
+00:01:31,360 --> 00:01:37,200
+solidly leftist position but as the Overton window has shifted much further left and now that it's
+
+18
+00:01:37,200 --> 00:01:42,000
+all about, you know, hard socialism or the demonization of masculinity and other things
+
+19
+00:01:42,000 --> 00:01:46,880
+like this that things have kind of gone too far left to me. Well within the Overton window I now
+
+20
+00:01:46,880 --> 00:01:51,520
+look like somebody who is right wing which is why a lot of the far left nowadays calls me right
+
+21
+00:01:51,520 --> 00:01:57,440
+wing. And why I call them the far left because see if the entire spectrum is left center right
+
+22
+00:01:57,440 --> 00:02:01,360
+then I am still the center left and the far left is now the far left. However, and this is something
+
+23
+00:02:01,360 --> 00:02:06,000
+that I genuinely didn't know about this is this is news to me, some people actually view the left
+
+24
+00:02:06,000 --> 00:02:12,240
+right center labels as being part of the Overton window itself. So the definitions of left center
+
+25
+00:02:12,240 --> 00:02:17,440
+and right will change as the Overton window moves. Okay that makes sense to me. I think it's a dumb
+
+26
+00:02:17,440 --> 00:02:21,680
+way of doing things but if that is how we are going to understand these concepts then maybe we
+
+27
+00:02:21,680 --> 00:02:26,000
+should change up the conversation entirely. For example a person on discord DMed me this a couple
+
+28
+00:02:26,000 --> 00:02:32,320
+months ago and I wish I could remember which one it was. Was it Sushimaru? I'm sorry I can't remember
+
+29
+00:02:32,320 --> 00:02:37,360
+who it was. I'm sorry but you know who you are. You showed me this idea. Other than having an axis
+
+30
+00:02:37,360 --> 00:02:42,720
+with two ends you have a triangle. When the enlightenment basically philosophically shattered
+
+31
+00:02:42,720 --> 00:02:48,000
+the idea of the old theocracies and the old monarchies once and for all we got primarily
+
+32
+00:02:48,000 --> 00:02:53,200
+three schools of thought out of it and those three schools of thought are properly described by
+
+33
+00:02:53,200 --> 00:02:59,280
+the French motto liberty equality and fraternity with liberty generally mapping onto liberalism
+
+34
+00:02:59,280 --> 00:03:04,800
+equality generally mapping onto communism and fraternity generally mapping onto fascism.
+
+35
+00:03:04,800 --> 00:03:10,960
+These also correspondingly map onto the human values of freedom equality and tradition and
+
+36
+00:03:10,960 --> 00:03:15,200
+really it's it's not too hard to see how this is the case the liberals the original liberals the
+
+37
+00:03:15,200 --> 00:03:19,680
+classical liberals they're more concerned with personal freedom than they are with tradition
+
+38
+00:03:19,680 --> 00:03:24,960
+or equality the free speech of liberalism is a direct challenge to tradition meanwhile the free
+
+39
+00:03:24,960 --> 00:03:29,760
+markets of liberalism are a direct challenge to equality meanwhile the communist in valuing
+
+40
+00:03:29,760 --> 00:03:34,640
+equality over both freedom and tradition will try to see that everyone is equal oftentimes
+
+41
+00:03:34,640 --> 00:03:38,720
+they will claim to do this by raising everyone up to the highest standard but oftentimes that
+
+42
+00:03:38,720 --> 00:03:43,600
+is impossible and in practice communism often drags everyone to the lowest standard one of the
+
+43
+00:03:43,600 --> 00:03:47,920
+great jokes about communism is that we might all be poor but at least we're all equal fascism
+
+44
+00:03:47,920 --> 00:03:53,280
+meanwhile in its valuing of tradition over both freedom and equality always devolves into tyrannical
+
+45
+00:03:53,280 --> 00:03:59,600
+states that bind themselves together by some kind of unifying force with the Italians it was
+
+46
+00:03:59,600 --> 00:04:05,200
+nationalism with Germans it was the race but it's always some kind of characteristic like that
+
+47
+00:04:05,200 --> 00:04:10,240
+that keeps the society together so okay we've got these three schools of thought and they are all
+
+48
+00:04:10,240 --> 00:04:15,600
+opposed to each other in equal measure for example the liberal with freedom as his highest order value
+
+49
+00:04:15,600 --> 00:04:20,560
+correctly views both fascism and communism as being anti-freedom the traditional life that the
+
+50
+00:04:20,560 --> 00:04:25,360
+fascist would impose on everyone is fundamentally anti-freedom because people would not be free to
+
+51
+00:04:25,360 --> 00:04:30,080
+reject it meanwhile the redistribution policies that the communists would impose on the marketplace
+
+52
+00:04:30,080 --> 00:04:35,040
+as well as in practice the mass slaughtering of those people that they deemed to be the bourgeoisie
+
+53
+00:04:35,040 --> 00:04:39,520
+like say the kulaks the peasantry who were you know these serfs that finally managed to get
+
+54
+00:04:39,520 --> 00:04:43,360
+a little bit of land for themselves did well because they were actually competent farmers
+
+55
+00:04:43,360 --> 00:04:47,520
+and then got slaughtered by the soviets when they resisted the collectivization of their rightly
+
+56
+00:04:47,520 --> 00:04:52,720
+owned lands remember the kulaks were heroes sorry about that that little side rant my main point is
+
+57
+00:04:52,720 --> 00:04:58,240
+the liberal with freedom as his highest order value when push comes to shove will reject both
+
+58
+00:04:58,240 --> 00:05:03,920
+tradition and equality because those values in their purest form infringe on the freedom of the
+
+59
+00:05:03,920 --> 00:05:09,840
+individual meanwhile the communist with equality as his highest order value will reject both
+
+60
+00:05:09,840 --> 00:05:15,360
+freedom and tradition but for different reasons tradition because tradition because that is the
+
+61
+00:05:15,360 --> 00:05:20,720
+thing that they are trying to destroy they want to directly revolt and wash away those old orders and
+
+62
+00:05:20,720 --> 00:05:24,320
+all of their problems like with monarchy and feudalism as well as with what they perceive to
+
+63
+00:05:24,320 --> 00:05:29,280
+be problems in capitalism but they also do oppose individual freedom because freedom means the
+
+64
+00:05:29,280 --> 00:05:34,160
+freedom not to go along with their revolution that's why they label these people as bootlickers
+
+65
+00:05:34,160 --> 00:05:39,920
+as counter-revolutionary elements as reactionaries they do fundamentally believe that there is a
+
+66
+00:05:39,920 --> 00:05:45,600
+proper politics that there is only one way for progress to actually go that there is only one
+
+67
+00:05:45,600 --> 00:05:50,400
+path to follow so if you're a fascist and therefore in the name of tradition you reject
+
+68
+00:05:50,400 --> 00:05:56,320
+progress the communist will oppose you however if you are a liberal and therefore you don't reject
+
+69
+00:05:56,320 --> 00:06:01,600
+progress but you have a different idea of what progress is if you don't agree with them well
+
+70
+00:06:01,600 --> 00:06:05,920
+then the communist will oppose you as well and this is also why communists often conflate
+
+71
+00:06:05,920 --> 00:06:11,920
+liberals and fascists you'll often see things like liberalism is the handmaiden of fascism or you'll
+
+72
+00:06:11,920 --> 00:06:17,520
+see fascism is just capitalism and decay you know stuff like this it's because they believe they
+
+73
+00:06:17,520 --> 00:06:24,480
+have an exclusive claim to what progressivism is they believe they are the arbiter of progress and
+
+74
+00:06:24,480 --> 00:06:30,960
+so even the act of debating it is to them fascism counter-intuitively enough it's why you constantly
+
+75
+00:06:30,960 --> 00:06:36,640
+see these people deplatforming others or initiating violence in the streets or slandering everyone who
+
+76
+00:06:36,640 --> 00:06:40,800
+doesn't agree with them as a nazi or something right meanwhile the fascist rejects the liberal
+
+77
+00:06:40,800 --> 00:06:45,280
+for the same reason that the liberal rejects the fascist freedom means having the option to not
+
+78
+00:06:45,280 --> 00:06:49,760
+be traditional or live a traditional life and if tradition is your highest order of value then
+
+79
+00:06:49,760 --> 00:06:53,840
+freedom is in natural opposition to that meanwhile tradition is also in natural opposition to
+
+80
+00:06:53,840 --> 00:06:58,720
+equality because the traditional hierarchy was not an equal one the old orders were not orders
+
+81
+00:06:58,720 --> 00:07:02,800
+of equality and therefore the communists and fascists also fundamentally disagreed on that
+
+82
+00:07:02,800 --> 00:07:08,320
+you'll notice that i've spent more time talking about the flaws of communism than the flaws of
+
+83
+00:07:08,320 --> 00:07:13,360
+fascism in this video so far that is not out of any love of the fascist rather it's because
+
+84
+00:07:13,360 --> 00:07:17,760
+i don't think we really need to go over the flaws of fascism anymore do we the 20th century kind of
+
+85
+00:07:17,760 --> 00:07:22,720
+showed the flaws pretty clearly of both fascism and communism to the point that i can't believe
+
+86
+00:07:22,720 --> 00:07:27,360
+we're still fucking debating it like 80 years later but the difference is as i talked about
+
+87
+00:07:27,360 --> 00:07:32,800
+in my yuri bezbanov video yesterday it's that fascists never culturally integrated themselves
+
+88
+00:07:32,800 --> 00:07:37,280
+into the west the way the communists did there are no fascist university professors teaching the next
+
+89
+00:07:37,280 --> 00:07:41,520
+round of kids to be white supremacists or something but there are a shit ton of marxists
+
+90
+00:07:41,520 --> 00:07:45,360
+out there i personally have had the unfortunate pleasure of being taught by a bunch of them and
+
+91
+00:07:45,360 --> 00:07:51,280
+i'm very grateful that i managed to pull myself out of that the point is you have this triangle
+
+92
+00:07:51,280 --> 00:07:57,280
+right of these opposing values and i'd say the classical liberal is probably about here if you
+
+93
+00:07:57,280 --> 00:08:01,280
+go extremely high up on the freedom scale you get to like the anarcho stuff like the anarcho
+
+94
+00:08:01,280 --> 00:08:06,560
+capitalists and stuff the classical liberal is is not quite so high you've got the basic bitch
+
+95
+00:08:06,560 --> 00:08:11,360
+conservative you know the conservative that you would find in like a regular first world democracy
+
+96
+00:08:11,360 --> 00:08:15,680
+they're going to be leaning a bit more towards order you have the social democrat who's probably
+
+97
+00:08:15,680 --> 00:08:20,240
+leaning a bit more towards equality but they still have some aspects of freedom in them you of course
+
+98
+00:08:20,240 --> 00:08:24,960
+have the pure fascist and the pure communist meanwhile the nazis specifically they were
+
+99
+00:08:24,960 --> 00:08:29,440
+actually probably a little bit more towards equality than freedom though they were definitely
+
+100
+00:08:29,440 --> 00:08:33,120
+still within tradition because if you read a lot of a lot of hitler's writings you'll realize
+
+101
+00:08:33,680 --> 00:08:40,320
+that he adopted some socialist policy he simply wanted to be a nationalized variant of it not a
+
+102
+00:08:40,320 --> 00:08:46,400
+globalized variant he wanted socialism for only the germans that's why it was national socialism
+
+103
+00:08:46,400 --> 00:08:50,560
+the mere image of that would probably be the tankies because you know the the stalin types
+
+104
+00:08:50,560 --> 00:08:54,560
+they weren't pure ideological communists but they definitely filled in that gap with
+
+105
+00:08:54,560 --> 00:09:00,880
+authoritarianism and not personal freedom and so we have a very rough but i think at least
+
+106
+00:09:00,880 --> 00:09:06,560
+somewhat useful political map and since the terms leftist or or center left or right wing centrist
+
+107
+00:09:06,560 --> 00:09:11,920
+whatever they've kind of become nebulous i think i'm going to try and stick with with this graphic
+
+108
+00:09:11,920 --> 00:09:17,360
+from now on in terms of how i declare myself politically because i do believe myself to be
+
+109
+00:09:17,360 --> 00:09:23,280
+a classical liberal i'm not a communist i'm not a fascist personal freedom is the highest order
+
+110
+00:09:23,280 --> 00:09:27,760
+value for me and i think the most successful societies are the ones that value personal
+
+111
+00:09:27,760 --> 00:09:34,320
+freedom over both equality and tradition i spend so much of my time on this channel talking about
+
+112
+00:09:34,320 --> 00:09:40,000
+the communists because that seems to be the resurgent political ideology right now go over
+
+113
+00:09:40,000 --> 00:09:44,720
+to breadtube you can find a shit ton of socialist channels over there there's marxist apologists
+
+114
+00:09:44,720 --> 00:09:49,760
+all over the place is there actually like a resurgent fascism you got like guys like richard
+
+115
+00:09:49,760 --> 00:09:54,800
+spencer or or nick fuentes in the alt-right but who the hell are they does anyone care they had
+
+116
+00:09:54,800 --> 00:10:01,280
+their peak like four years ago and they peaked at what maybe maybe at the most like 20 000 people
+
+117
+00:10:01,280 --> 00:10:06,720
+the remnants of what was once the alt-right basically just became ethan ralph's fan base
+
+118
+00:10:06,720 --> 00:10:11,600
+like there's nothing left to them they're absolutely gone the current political war
+
+119
+00:10:11,600 --> 00:10:15,760
+right now is between the liberals and the communists and because the communist views
+
+120
+00:10:15,760 --> 00:10:21,680
+liberalism and fascism as being hand in hand that's why they all call everyone fascist i've
+
+121
+00:10:21,680 --> 00:10:26,480
+been talking about all this for a while now because i want to show how liberalism communism
+
+122
+00:10:26,480 --> 00:10:31,680
+and fascism while they're connected they all oppose each other for very specific reasons
+
+123
+00:10:31,680 --> 00:10:36,640
+and they have connected yet different views on a lot of topics for example regarding the state the
+
+124
+00:10:36,640 --> 00:10:41,440
+liberal views the state as a necessary evil it exists as a night watchman it stays out of people's
+
+125
+00:10:41,440 --> 00:10:46,640
+way it has no real moral opinion and it only gets involved when someone's rights are violated
+
+126
+00:10:46,640 --> 00:10:50,960
+the socialist state meanwhile is a temporary evil because the socialist state is meant to transition
+
+127
+00:10:50,960 --> 00:10:57,680
+towards pure communism the state is totalitarian it is as marks described it a dictatorship of the
+
+128
+00:10:57,680 --> 00:11:02,960
+proletariat it's run by the workers revolution which spends its time forcibly re-educating the
+
+129
+00:11:02,960 --> 00:11:08,000
+people towards communist thought until the state can naturally wither away into a stateless society
+
+130
+00:11:08,000 --> 00:11:12,160
+so they view the state as a temporary evil the fascist meanwhile views the state as the ultimate
+
+131
+00:11:12,160 --> 00:11:17,200
+good the eternal mechanism through which the people are best expressed as mussolini wrote
+
+132
+00:11:17,200 --> 00:11:21,280
+and everything the people the property everything is subservient to the state
+
+133
+00:11:21,280 --> 00:11:25,680
+speaking of property the liberals view property as an inherently good thing they view it as an
+
+134
+00:11:25,680 --> 00:11:30,480
+expression of a person's labor if you work you create property or you get paid and money and then
+
+135
+00:11:30,480 --> 00:11:33,840
+use the money to buy property either way at some point you're working at something and you're
+
+136
+00:11:33,840 --> 00:11:38,240
+creating property out of it and in fact it's out of the concept of property that human rights come
+
+137
+00:11:38,240 --> 00:11:43,200
+about because we own our lives as if it is property we own our bodies as if they are property
+
+138
+00:11:43,200 --> 00:11:48,400
+communism meanwhile views property as inherently evil all property is communal property including
+
+139
+00:11:48,400 --> 00:11:52,720
+the individual and of course this view of property and money in the economy fails to take into
+
+140
+00:11:52,720 --> 00:11:57,600
+account natural human greed which believe it or not you can't be re-educated out of which is why
+
+141
+00:11:57,600 --> 00:12:02,720
+it always takes a tremendous amount of force directly from the government in order to impose
+
+142
+00:12:02,720 --> 00:12:07,280
+this sort of thing on the people that is the main reason why socialism will never actually
+
+143
+00:12:07,280 --> 00:12:12,560
+wither away and become communism because no bureaucracy ever voluntarily shrinks itself
+
+144
+00:12:12,560 --> 00:12:16,880
+meanwhile fascists view property as a necessary evil they recognize that people will work harder
+
+145
+00:12:16,880 --> 00:12:21,760
+if they work for themselves but ultimately all property is state-owned again including the
+
+146
+00:12:21,760 --> 00:12:26,880
+individual and speaking of the individual the liberal views the purpose of the state itself
+
+147
+00:12:26,880 --> 00:12:32,000
+to be the citizens of it the people create the state for their purposes laws are written at the
+
+148
+00:12:32,000 --> 00:12:36,960
+whim of the people the liberal state is almost like a patchwork piece where free people will
+
+149
+00:12:36,960 --> 00:12:42,480
+debate vote and ultimately change up the making of the state as circumstance demands socialism
+
+150
+00:12:42,480 --> 00:12:47,600
+views the citizen as inconsequential they hope for a global worldwide communist revolution and
+
+151
+00:12:47,600 --> 00:12:53,040
+everyone will simply be communal fascism meanwhile views people as being owned directly by the state
+
+152
+00:12:53,040 --> 00:12:57,920
+the state controls and guides them as an eternal father and while the liberals believe that the
+
+153
+00:12:57,920 --> 00:13:02,880
+people create the state the fascists believe that the state creates the people so while these three
+
+154
+00:13:02,880 --> 00:13:08,320
+forces exist in opposition to each other they also sometimes agree as you can see the liberals and
+
+155
+00:13:08,320 --> 00:13:13,280
+fascists both agree that the state should exist meanwhile the communists do not therefore the
+
+156
+00:13:13,280 --> 00:13:19,040
+communists often see the liberals as fascists or at least as fascist helpers or vulnerable to
+
+157
+00:13:19,040 --> 00:13:24,320
+fascism liberals and communists both hate the elitism of the fascist the purpose of the fascist
+
+158
+00:13:24,320 --> 00:13:29,840
+state is to create and enforce a strict hierarchy of power while the communist wishes to do away
+
+159
+00:13:29,840 --> 00:13:34,400
+with hierarchy altogether and the liberal prefers a hierarchy of competence communists and fascists
+
+160
+00:13:34,400 --> 00:13:39,360
+both agree with mass slavery fascism enslaves people directly in the name of the state
+
+161
+00:13:39,360 --> 00:13:42,640
+communism does it indirectly by the collectivization of the means of production
+
+162
+00:13:42,640 --> 00:13:47,600
+and the mass re-education of people to think the same way which in practice also results in slavery
+
+163
+00:13:47,600 --> 00:13:53,200
+the liberal opposes both communism and fascism as revolutionary ideologies destructive to the
+
+164
+00:13:53,200 --> 00:13:58,000
+freedom of the individual so with this in place you can kind of see why someone from a liberal
+
+165
+00:13:58,000 --> 00:14:02,400
+point of view will look at a communist and a fascist and say those are both totalitarian
+
+166
+00:14:02,400 --> 00:14:05,920
+they're anti-freedom i don't want that the communist meanwhile looks at a liberal
+
+167
+00:14:05,920 --> 00:14:12,080
+and screams fascist nazi collaborator bootlicker etc etc meanwhile the fascist views both of them
+
+168
+00:14:12,080 --> 00:14:17,040
+as disorderly as rejecting the natural state of the world some of my fans have linked to me
+
+169
+00:14:17,680 --> 00:14:22,320
+i i'd say about five different breadtubers at this point voshes is only one of them
+
+170
+00:14:22,320 --> 00:14:25,760
+but five different breadtubers who have done videos on me people who have done you know
+
+171
+00:14:25,760 --> 00:14:30,960
+reply girl videos to some of the things that i've done um i haven't really watched much of them to
+
+172
+00:14:30,960 --> 00:14:35,040
+be honest you know the drama scene is not exactly my cup of tea anymore you know but even though i
+
+173
+00:14:35,040 --> 00:14:39,120
+don't watch those videos fans of those communities definitely come into my videos and start leaving
+
+174
+00:14:39,120 --> 00:14:42,800
+comments and starting debates that's fine of course that's their freedom of speech but in
+
+175
+00:14:42,800 --> 00:14:49,280
+talking with them i've kind of discovered a few things um i've discovered why these people think
+
+176
+00:14:49,280 --> 00:14:54,720
+the way that they do about progress you know we we had the whole reactionary video we had we had
+
+177
+00:14:54,720 --> 00:14:59,360
+the talk on progressivism what progress is and that's because in general the communist worships
+
+178
+00:14:59,360 --> 00:15:03,760
+progress they are an entirely materialistic philosophy there's no there's no spiritual
+
+179
+00:15:03,760 --> 00:15:07,440
+aspect to them at all they're all about progress but they're all about a very narrow definition of
+
+180
+00:15:07,440 --> 00:15:12,160
+what progress is and it's also why i think most people who are who are progressives or who are
+
+181
+00:15:12,160 --> 00:15:15,680
+on the progressive left or whatever i think that's why most of them end up being communists or
+
+182
+00:15:15,680 --> 00:15:21,520
+socialists in the end but the fascist rejects the idea of progress entirely in favor of tradition
+
+183
+00:15:21,520 --> 00:15:26,720
+they say no that's something new that's progress we're not going that way we are sticking to the
+
+184
+00:15:26,720 --> 00:15:31,200
+old ways that is the way of the fascist meanwhile the liberal is different from both of these things
+
+185
+00:15:31,200 --> 00:15:35,680
+the liberal doesn't reject progress as a concept the way that the fascist does but the liberal
+
+186
+00:15:35,680 --> 00:15:40,960
+does not agree with the narrow-minded definition of what progress is that the communist believes
+
+187
+00:15:40,960 --> 00:15:46,880
+in the communist you know skimmed over the little red book and said oh this is the road map of
+
+188
+00:15:46,880 --> 00:15:50,960
+progress we follow these steps like their commandments and will reach the promised land
+
+189
+00:15:50,960 --> 00:15:56,000
+the communist utopia the communists lacking a spiritual aspect of their philosophy and being
+
+190
+00:15:56,000 --> 00:16:01,280
+entirely materialistic worship progressivism as if it is a religion in a sense they believe that
+
+191
+00:16:01,280 --> 00:16:07,440
+there is only one path for humanity to take for things to progress and that everyone who doesn't
+
+192
+00:16:07,440 --> 00:16:12,320
+follow that path is a reactionary a counter-revolutionary something like that i talked
+
+193
+00:16:12,320 --> 00:16:15,600
+about this a little bit at the start of the video but but here's kind of the main point the liberal's
+
+194
+00:16:15,600 --> 00:16:19,920
+view of progress is much broader than the socialist's view of progress for the liberal
+
+195
+00:16:19,920 --> 00:16:25,840
+progress is a spectrum you could say for the liberal what progress is isn't predetermined or
+
+196
+00:16:25,840 --> 00:16:31,440
+predefined written by a prophet in an ancient text or by a philosopher in a manifesto progress is the
+
+197
+00:16:31,440 --> 00:16:36,560
+future it's the unknown we don't know what progress is how can you know the thing that you haven't
+
+198
+00:16:36,560 --> 00:16:42,800
+thought up yet so for the liberal progress is experimentation progress is trying new things
+
+199
+00:16:42,800 --> 00:16:49,040
+progress is a thousand different paths that may or may not lead somewhere it is not inherited knowledge
+
+200
+00:16:49,040 --> 00:16:54,080
+brought down it is not inherited knowledge brought down by god himself meanwhile the
+
+201
+00:16:54,080 --> 00:16:58,720
+socialist believes that they have the perfect knowledge of what progressivism is they believe
+
+202
+00:16:58,720 --> 00:17:04,240
+that they have the perfect politics they know the one true way just like every other religious zealot
+
+203
+00:17:04,240 --> 00:17:08,320
+and therefore every person who disagrees with them regardless of whether they're disagreeing with them
+
+204
+00:17:08,320 --> 00:17:13,280
+on the utility of progress itself or the direction that progress should take they're labeled as a
+
+205
+00:17:13,280 --> 00:17:18,720
+heretic or you know a reactionary and since the ideological war right now is between the
+
+206
+00:17:18,720 --> 00:17:23,920
+liberals and the socialists and this war is fought not over whether or not we should progress
+
+207
+00:17:23,920 --> 00:17:29,360
+but what form that progress should take it is no surprise to me that breadtubers for example
+
+208
+00:17:29,360 --> 00:17:35,120
+view liberals as reactionaries just like the communists view liberals as fascists if they
+
+209
+00:17:35,120 --> 00:17:40,320
+categorically understand the one true path of progress then everyone else's opinion
+
+210
+00:17:40,320 --> 00:17:44,480
+must simply be going backwards but we know that's not the truth of the matter
+
+211
+00:17:44,480 --> 00:17:49,840
+all right i'm done guys make sure to speak freely i'll talk to you next time i love you
+

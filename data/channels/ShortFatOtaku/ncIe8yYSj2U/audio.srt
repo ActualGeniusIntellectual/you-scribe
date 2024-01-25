@@ -1,0 +1,356 @@
+1
+00:00:00,000 --> 00:00:02,800
+Hey guys, Dev here. I'm just going to do a quick little vlog.
+
+2
+00:00:02,800 --> 00:00:10,120
+When Dave went off to work today, he found an Amazon package and this would be the package
+
+3
+00:00:10,120 --> 00:00:14,480
+outside the door. And he was really excited about it, so he came to get me, but he couldn't
+
+4
+00:00:14,480 --> 00:00:18,240
+actually stick around to open it up with me. And then I immediately started ripping it
+
+5
+00:00:18,240 --> 00:00:21,640
+open and I realized, you know what, I should probably actually do a little video on this,
+
+6
+00:00:21,640 --> 00:00:28,120
+if only because, well, you guys made this possible. This is about 250 bucks worth of
+
+7
+00:00:28,120 --> 00:00:35,280
+sound equipment, which we got the money from, this time from ad revenue. Not from Patreon.
+
+8
+00:00:35,280 --> 00:00:40,320
+Patreon is going towards something else, but this time this is from our ad revenue from
+
+9
+00:00:40,320 --> 00:00:46,520
+YouTube over the past little while. So thanks a lot for watching, if you watch without ad
+
+10
+00:00:46,520 --> 00:00:52,000
+blocker. And if you watch with ad blocker, that's totally fine too, but thanks. For all
+
+11
+00:00:52,000 --> 00:00:55,520
+you guys who watch, thanks. We couldn't do this without you.
+
+12
+00:00:55,920 --> 00:01:08,200
+So the first thing we got was the Zenix Q1202 USB audio mixer by Behringer. And the main
+
+13
+00:01:08,200 --> 00:01:13,960
+reason we picked up this is because we're going to use it to vastly increase our sound
+
+14
+00:01:13,960 --> 00:01:19,320
+quality of all of our videos. It'll work for the Let's Plays, the anime reviews, vlogs,
+
+15
+00:01:19,320 --> 00:01:25,000
+gamergate stuff. It'll do something for everything. Let's just kind of take a look here. Like
+
+16
+00:01:25,000 --> 00:01:32,000
+I said, I jumped the gun and I started opening it up a little bit. We have here standard
+
+17
+00:01:32,000 --> 00:01:39,200
+USB. This is where the sound kind of comes out of the device and into your computer.
+
+18
+00:01:39,200 --> 00:01:46,320
+Standard power cable, nothing too special about it. And here's the thing itself. I'm
+
+19
+00:01:46,320 --> 00:02:00,120
+just going to open this up. There it is in the packaging. Let me just pull it off and
+
+20
+00:02:00,120 --> 00:02:08,120
+kind of look at it. This is normally on for about 200 Canadian. We picked it up for about
+
+21
+00:02:08,120 --> 00:02:13,920
+130 Canadian because Amazon was having a special. And here it is all outside of the packaging.
+
+22
+00:02:13,920 --> 00:02:19,680
+It did contain one of those little containers of candy that you should always feed your
+
+23
+00:02:19,680 --> 00:02:28,400
+children but not today. The actual device itself is pretty sturdy. It's some pretty
+
+24
+00:02:28,400 --> 00:02:33,840
+good plastic, some pretty good metal on it. I'll get this box away. It's kind of confusing
+
+25
+00:02:33,840 --> 00:02:43,160
+actually. But it seems like it's very solidly built. And that's always a plus. Just because
+
+26
+00:02:43,200 --> 00:02:47,280
+there's always some objects that you buy and you spend a lot of money on them and they
+
+27
+00:02:47,280 --> 00:02:59,840
+fall apart right away. But here it is. Now there is an instruction manual so I'm sure
+
+28
+00:02:59,840 --> 00:03:05,280
+we'll go over the details of what each of these functions does. But basically you plug
+
+29
+00:03:05,280 --> 00:03:12,080
+your microphones in up there. You can adjust levels, adjust audio quality. You can do effects,
+
+30
+00:03:12,080 --> 00:03:21,000
+various things. And then on the back it all outputs by USB to your computer. And then
+
+31
+00:03:21,000 --> 00:03:26,040
+you record it with Audacity or some other program. So if you have a large number of
+
+32
+00:03:26,040 --> 00:03:32,400
+people speaking at once you'd want a board like this. Or if you have only one person
+
+33
+00:03:32,400 --> 00:03:36,920
+and you want to do an effect or increase the audio quality you would also use this board.
+
+34
+00:03:36,920 --> 00:03:41,760
+As you can see there's a number of different types of connectors. You can plug in all different
+
+35
+00:03:41,760 --> 00:03:49,480
+types of mics. A bunch of different knobbies that I have no clue what they'll do yet. But
+
+36
+00:03:49,480 --> 00:03:57,440
+I mean we'll figure it out right? But basically this will have the biggest impact on the Let's
+
+37
+00:03:57,440 --> 00:04:04,680
+Plays. This camera that I'm using right now has a shotgun mic on the top of it. And usually
+
+38
+00:04:04,680 --> 00:04:11,120
+what happens is because we cannot cut out the TV volume from the shotgun mic picking
+
+39
+00:04:11,120 --> 00:04:17,320
+up our speaking, what will end up happening is that the camera audio track will have the
+
+40
+00:04:17,320 --> 00:04:24,240
+TV game stuff and then our speaking. And that's what we end up using. And some people have
+
+41
+00:04:24,240 --> 00:04:27,960
+noticed the game audio quality is kind of low because it's coming out of the TV and
+
+42
+00:04:27,960 --> 00:04:33,320
+back into the camera. Our only real solution for this was to pick up a bunch of mics, have
+
+43
+00:04:33,320 --> 00:04:39,720
+them wired through a panel like this, and then kind of attach the mics to our shirts.
+
+44
+00:04:40,520 --> 00:04:44,400
+In that situation only our voices would be picked up and then we could use the higher
+
+45
+00:04:44,400 --> 00:04:50,560
+quality audio from the game capture. And we needed technology like this to be able to
+
+46
+00:04:50,560 --> 00:04:56,560
+do that. And now we have it. So that's great. The second thing we got today were these lavalier
+
+47
+00:04:56,560 --> 00:05:00,560
+microphones to go with it. Now we are going to need adapters for these mics to make it
+
+48
+00:05:00,560 --> 00:05:04,360
+work with this panel but the adapters are cheap. They're like $2 a piece. We got three
+
+49
+00:05:04,360 --> 00:05:09,640
+of these mics. Now these are two in the box here. We were hoping to get four because usually
+
+50
+00:05:09,640 --> 00:05:15,380
+we would use four on the Let's Plays at maximum but only three of them were on sale. So when
+
+51
+00:05:15,380 --> 00:05:19,480
+the fourth, we're not in a rush, when the fourth one comes on sale we'll buy the fourth
+
+52
+00:05:19,480 --> 00:05:24,880
+one. Let's take a quick look at these. They're from Audio Technica which is the same company
+
+53
+00:05:24,880 --> 00:05:30,800
+that we use for this mic which is our AT2020 which is a very good mic. It's lasted five
+
+54
+00:05:30,800 --> 00:05:35,600
+years now and it's still going strong. These ran us at 30 bucks a pop so that ends up being
+
+55
+00:05:35,600 --> 00:05:41,820
+around 90. And these honestly are only going to help with the Let's Plays. We'll use the
+
+56
+00:05:41,820 --> 00:05:47,280
+panel with other microphones for the gamergate stuff and for the anime review stuff. These
+
+57
+00:05:47,280 --> 00:05:53,760
+are our Let's Play only thing. They are a lower end lavalier mic but I did see a video
+
+58
+00:05:53,760 --> 00:05:59,080
+online showing off their quality and they're good for what we need. We don't need to spend
+
+59
+00:05:59,080 --> 00:06:05,720
+100 bucks a person, at least just yet. This thing, this is actually a mic that's primarily
+
+60
+00:06:05,720 --> 00:06:11,160
+made to be used on cell phones so this thing is basically for that. It's like a cell phone
+
+61
+00:06:11,160 --> 00:06:16,120
+connector. Everything else here, the clip attaches it to your shirt, there's the mic,
+
+62
+00:06:16,120 --> 00:06:19,860
+there's the windsock if you want to use it, there's the power thing and there's the battery.
+
+63
+00:06:19,860 --> 00:06:26,360
+So it all really is standard stuff. The sound quality on it, from what I could tell was
+
+64
+00:06:26,360 --> 00:06:32,720
+very good, at least for the price of 30 bucks. You can't ask for more than that. And with
+
+65
+00:06:32,720 --> 00:06:38,600
+three of these, Dave and I will use one each during the Let's Plays and when we do Skyward
+
+66
+00:06:38,600 --> 00:06:43,400
+Sword again with Cabbage we'll have three of them going. And then we'll just have to
+
+67
+00:06:43,400 --> 00:06:49,360
+get by using our old method for any kind of four player game until we get the fourth mic.
+
+68
+00:06:50,240 --> 00:06:56,920
+So yeah, all in all this stash of stuff ran us about 250 bucks, probably another 30 for
+
+69
+00:06:56,920 --> 00:07:03,280
+a fourth mic. We're going to have to buy some replacement batteries because these, they're
+
+70
+00:07:03,280 --> 00:07:09,240
+not common, you can't just go into a hardware store and just pick them up like a watch battery,
+
+71
+00:07:09,240 --> 00:07:14,220
+they're a different size. So we'll probably need to buy some spares of those. And we will
+
+72
+00:07:14,220 --> 00:07:19,380
+need to buy the cheap connectors that allow us to plug these mics into this board. But
+
+73
+00:07:19,380 --> 00:07:25,260
+here's the great thing about it, is that these mics are cheap, but they'll do. If we ever
+
+74
+00:07:25,260 --> 00:07:31,400
+get big, these can be easily replaced, but this board will work with everything. And
+
+75
+00:07:31,400 --> 00:07:35,900
+this really is the more expensive piece. So like, if a few years down the road we have
+
+76
+00:07:35,900 --> 00:07:42,900
+enough money and enough of a demand to actually get like really good mics, like $100 mics,
+
+77
+00:07:43,540 --> 00:07:46,980
+these can be easily replaced because they're kind of cheapos, but the new mics will work
+
+78
+00:07:46,980 --> 00:07:51,980
+with this thing too, which is great. So we do have the ability to expand and upgrade,
+
+79
+00:07:51,980 --> 00:07:58,420
+and these will work as long as I just buy that little adapter because this is a standard
+
+80
+00:07:58,420 --> 00:08:05,420
+computer mic size for the jack here. Meanwhile, those jacks over there are for the next size
+
+81
+00:08:07,060 --> 00:08:11,860
+up, but it's completely compatible. All you got to do is just buy the thing and stick
+
+82
+00:08:11,860 --> 00:08:15,100
+it in. So it's going to be great. I don't know when you'll actually see this stuff in
+
+83
+00:08:15,100 --> 00:08:20,980
+use, but I'm sure we'll make a big hullabaloo about it on the show. So yeah, thanks to everyone
+
+84
+00:08:20,980 --> 00:08:26,980
+who watches, thanks to everyone who watches without adblock, who donates to Patreon, who
+
+85
+00:08:26,980 --> 00:08:32,180
+donates to Paypal, everything, you're all great. And I know some of you are probably
+
+86
+00:08:32,180 --> 00:08:39,180
+looking for the gamergate video, I know, I know. It's coming, trust me. There's just...
+
+87
+00:08:39,180 --> 00:08:43,540
+I'm not involved in the digging process, but apparently Camera Lady will pull a thread
+
+88
+00:08:43,540 --> 00:08:48,460
+in digging and then find more stuff and they want to get back at it. So I mean, you'll
+
+89
+00:08:48,460 --> 00:08:51,660
+see it, we haven't given up. But yeah, thanks everyone, and see you next time.
+

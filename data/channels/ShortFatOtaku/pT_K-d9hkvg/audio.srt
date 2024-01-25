@@ -1,0 +1,964 @@
+1
+00:00:00,000 --> 00:00:04,560
+Gab's Dissenter service came out recently, and I've been making a point to try and
+
+2
+00:00:04,560 --> 00:00:07,480
+use it regularly because it is absolutely phenomenal.
+
+3
+00:00:07,480 --> 00:00:08,920
+Here's how it works.
+
+4
+00:00:08,920 --> 00:00:12,880
+Do you sometimes go to leave a comment on a video or an article, only to find that the
+
+5
+00:00:12,880 --> 00:00:14,240
+comment section is disabled?
+
+6
+00:00:14,240 --> 00:00:15,900
+Well, worry no more.
+
+7
+00:00:15,900 --> 00:00:21,120
+Just head over to www.dissenter.com, type in whatever article you want to comment on,
+
+8
+00:00:21,120 --> 00:00:23,320
+and boom, you've got a comment section.
+
+9
+00:00:23,320 --> 00:00:26,720
+You can do this with any URL you like, like say, my YouTube channel.
+
+10
+00:00:26,720 --> 00:00:28,760
+I've got comments open, of course.
+
+11
+00:00:28,760 --> 00:00:35,240
+But Dissenter organizes every post by URL—hey, what the—fuck you, butters!
+
+12
+00:00:35,240 --> 00:00:37,160
+I didn't expect anything to be here.
+
+13
+00:00:37,160 --> 00:00:40,960
+Anyway, that's how you use Dissenter, if you're excessively anal about it.
+
+14
+00:00:40,960 --> 00:00:45,000
+Alternatively, if you're a regular human being, you pick up the Dissenter app, click
+
+15
+00:00:45,000 --> 00:00:49,060
+on the Dissenter button in your browser when you're on a webpage, and the Dissenter comments
+
+16
+00:00:49,060 --> 00:00:51,980
+section for that page will load up in a side window.
+
+17
+00:00:51,980 --> 00:00:55,360
+This is, by far, the easier way to use the service.
+
+18
+00:00:55,360 --> 00:00:58,580
+But either way you use Dissenter, it is revolutionary.
+
+19
+00:00:58,580 --> 00:01:03,260
+For years, people online have been complaining about the increasing centralization of power
+
+20
+00:01:03,260 --> 00:01:05,300
+into the hands of Silicon Valley.
+
+21
+00:01:05,300 --> 00:01:09,660
+Communities no longer have specialized forums, they just have subreddits or Facebook pages.
+
+22
+00:01:09,660 --> 00:01:14,400
+A significant amount of public discourse—and to society's detriment, journalism—happens
+
+23
+00:01:14,400 --> 00:01:15,580
+on Twitter.
+
+24
+00:01:15,580 --> 00:01:19,720
+YouTube and Twitch have been more heavy-handed in auto-moderating comments and streamchats
+
+25
+00:01:19,720 --> 00:01:24,880
+as time passes, with both demonetizations and expulsions becoming more and more common
+
+26
+00:01:24,880 --> 00:01:26,740
+for even the slightest infraction.
+
+27
+00:01:26,740 --> 00:01:31,540
+To the point that YouTube is now demonetizing videos if the comments posted on those videos
+
+28
+00:01:31,540 --> 00:01:33,500
+are not family-friendly.
+
+29
+00:01:33,500 --> 00:01:37,020
+Media outlets have begun removing comment sections on their articles, as more and more
+
+30
+00:01:37,020 --> 00:01:41,980
+people become wise to their attempts to push narratives and ideologies into the mainstream.
+
+31
+00:01:41,980 --> 00:01:47,340
+The internet is not the chaotic, frenzied, lively, amazing place it was ten or fifteen
+
+32
+00:01:47,340 --> 00:01:48,340
+years ago.
+
+33
+00:01:48,340 --> 00:01:50,940
+But Dissenter brings that all back, at least partially.
+
+34
+00:01:50,940 --> 00:01:55,940
+Oh, Apple insiders no longer allowing comments on this Global Feminist Day article.
+
+35
+00:01:55,940 --> 00:01:58,220
+No discourse allowed on leftist articles?
+
+36
+00:01:58,220 --> 00:02:01,420
+Thank you, Dissenter, for proving my exact point right out the gate.
+
+37
+00:02:01,420 --> 00:02:03,540
+Comments off on the related video, Apple.
+
+38
+00:02:03,540 --> 00:02:04,540
+Not anymore.
+
+39
+00:02:04,540 --> 00:02:06,220
+Haha, block this, Apple.
+
+40
+00:02:06,220 --> 00:02:08,220
+Torba is a national treasure.
+
+41
+00:02:08,220 --> 00:02:11,340
+Amazon isn't allowing any more reviews of the QAnon book?
+
+42
+00:02:11,340 --> 00:02:12,840
+Review it using Dissenter.
+
+43
+00:02:12,840 --> 00:02:13,840
+Amazon can't stop you.
+
+44
+00:02:13,840 --> 00:02:16,300
+And as it turns out, people are doing just that.
+
+45
+00:02:16,300 --> 00:02:18,600
+Here's Vice's take on the whole situation.
+
+46
+00:02:18,600 --> 00:02:22,980
+Users of far-right social network Gab can now comment on the entire internet.
+
+47
+00:02:22,980 --> 00:02:25,300
+Oh no, we can't control the narrative anymore!
+
+48
+00:02:25,300 --> 00:02:27,700
+Quick, get the hit pieces out as fast as we can!
+
+49
+00:02:27,700 --> 00:02:29,380
+Make sure nobody chooses freedom!
+
+50
+00:02:29,380 --> 00:02:33,980
+Gab, the social network of the far right, has extended its free speech platform with
+
+51
+00:02:33,980 --> 00:02:39,060
+a tool that allows users to bypass rampant corporate censorship and comment on almost
+
+52
+00:02:39,060 --> 00:02:41,140
+anything the company said Tuesday.
+
+53
+00:02:41,140 --> 00:02:46,380
+Called Dissenter, the new service lets users comment on news articles, YouTube videos,
+
+54
+00:02:46,380 --> 00:02:51,260
+and even individual social media posts, even if those sites don't have comment sections
+
+55
+00:02:51,260 --> 00:02:52,920
+or have comments switched off.
+
+56
+00:02:52,920 --> 00:02:57,240
+For example, movie review website Rotten Tomatoes announced that it was switching off
+
+57
+00:02:57,240 --> 00:03:01,560
+comments on the new Captain Marvel movie this week over concerns that trolls plan to
+
+58
+00:03:01,560 --> 00:03:05,560
+leave negative comments following remarks by the film's star.
+
+59
+00:03:05,560 --> 00:03:09,040
+And thank god, Rotten Tomatoes has really been circling the bowl recently.
+
+60
+00:03:09,040 --> 00:03:12,120
+I remember actually trusting it for unbiased opinions once.
+
+61
+00:03:12,120 --> 00:03:15,960
+At least Dissenter allows us to solve the problem the way that we've solved most other
+
+62
+00:03:15,960 --> 00:03:16,960
+problems.
+
+63
+00:03:16,960 --> 00:03:17,960
+Outsource it to the marketplace!
+
+64
+00:03:17,960 --> 00:03:22,840
+Another popular use is to comment on YouTube videos where comments have been disabled.
+
+65
+00:03:22,840 --> 00:03:27,680
+YouTube last week purged the site of tens of millions of comments after it was revealed
+
+66
+00:03:27,680 --> 00:03:31,720
+that they were being used to direct users to potentially sexual videos of children.
+
+67
+00:03:31,720 --> 00:03:35,820
+The way this is written, the implication here is that Gab wouldn't delete comments that
+
+68
+00:03:35,820 --> 00:03:40,800
+also somehow involved linking to sexual videos of children, but Gab's policy has always
+
+69
+00:03:40,800 --> 00:03:45,840
+been to uphold the law of the United States and go not one step farther in so far as free
+
+70
+00:03:45,840 --> 00:03:47,000
+speech is concerned.
+
+71
+00:03:47,040 --> 00:03:51,520
+Radical ideologues like the ones at Vice would have you believe there's no middle ground
+
+72
+00:03:51,520 --> 00:03:57,560
+between complete unfettered free speech including all slanderous inciting illegal pedophilic
+
+73
+00:03:57,560 --> 00:04:02,480
+content and overarching totalitarian control of speech and thought with Silicon Valley's
+
+74
+00:04:02,480 --> 00:04:06,080
+trust and safety team directly jacked into our brains at all times.
+
+75
+00:04:06,080 --> 00:04:09,600
+Oh what's this David, no comment section on your shitty article?
+
+76
+00:04:09,600 --> 00:04:11,160
+Ah ha, too bad!
+
+77
+00:04:11,160 --> 00:04:12,600
+This is what Vice hates.
+
+78
+00:04:12,600 --> 00:04:16,600
+The fact that with a simple click of the mouse the narrative is now out of their control.
+
+79
+00:04:16,600 --> 00:04:22,080
+And nobody is surprised that Vice supporting SJWs on Twitter see this as problematic.
+
+80
+00:04:22,080 --> 00:04:27,160
+So the alt-right platform Gab has produced an app called Dissenter that lets neo-Nazi
+
+81
+00:04:27,160 --> 00:04:31,360
+shitstains and MRAs comment on closed webpages and social media.
+
+82
+00:04:31,360 --> 00:04:33,000
+I'm not any of those though.
+
+83
+00:04:33,000 --> 00:04:34,800
+Well you are if you use Dissenter.
+
+84
+00:04:34,800 --> 00:04:38,360
+You'll be getting your Nazi membership card in the mail shortly.
+
+85
+00:04:38,360 --> 00:04:42,280
+Tommy Robinson fans find a new way to get around Facebook and Twitter bans.
+
+86
+00:04:42,280 --> 00:04:47,160
+I know that Tommy's panorama situation has made the UK's media institutions massively
+
+87
+00:04:47,160 --> 00:04:51,880
+butthurt but Dissenter isn't just for Tommy Robinson fans, it's for everyone.
+
+88
+00:04:51,880 --> 00:04:55,800
+This one actually reads more Orwellian than the Vice article, like listen to this.
+
+89
+00:04:55,800 --> 00:04:59,880
+In the BBC's article announcing Robinson's latest social media ban, the comment section
+
+90
+00:04:59,880 --> 00:05:04,820
+has been disabled but in its place there is a flowing conversation on Dissenter.
+
+91
+00:05:04,820 --> 00:05:09,600
+One Gab user, Crusader Keith, proclaimed his joy at being able to say what he likes in
+
+92
+00:05:09,600 --> 00:05:11,040
+a BBC article.
+
+93
+00:05:11,040 --> 00:05:13,600
+That is the problem these tyrants have in the end.
+
+94
+00:05:13,600 --> 00:05:15,960
+Somebody is able to say what they like.
+
+95
+00:05:15,960 --> 00:05:16,960
+Somebody is happy.
+
+96
+00:05:16,960 --> 00:05:19,520
+Gab wants to add a comment section to everything on the internet.
+
+97
+00:05:19,520 --> 00:05:22,800
+I remember the early days of the internet when implementing a comment section was a
+
+98
+00:05:22,800 --> 00:05:24,800
+big deal for a growing website.
+
+99
+00:05:24,800 --> 00:05:28,620
+But now the true sign of growth is removing features, not adding them.
+
+100
+00:05:28,620 --> 00:05:29,960
+What a strange world we live in.
+
+101
+00:05:29,960 --> 00:05:33,880
+Dissenter comes at a time when platforms are struggling with how to manage what gets posted
+
+102
+00:05:33,880 --> 00:05:35,000
+on their services.
+
+103
+00:05:35,000 --> 00:05:37,440
+Which is why it's so important.
+
+104
+00:05:37,440 --> 00:05:39,540
+Freedom is the solution, not the problem.
+
+105
+00:05:39,540 --> 00:05:44,100
+In February, YouTube disabled comments for tens of millions of videos and also booted
+
+106
+00:05:44,100 --> 00:05:46,980
+more than 400 channels for the comments that had been left.
+
+107
+00:05:46,980 --> 00:05:50,340
+Imagine saying this in your article as if it's a good thing, that people lost their
+
+108
+00:05:50,340 --> 00:05:54,360
+YouTube channels because of the comments posted on those channels by other people.
+
+109
+00:05:54,360 --> 00:05:58,380
+That means that this person, the author of this article, Aaron Carson, thinks it's acceptable
+
+110
+00:05:58,380 --> 00:06:03,740
+for me to go on an innocent channel with false troll accounts and spam it with YouTube disapproved
+
+111
+00:06:03,740 --> 00:06:07,420
+rhetoric until YouTube decides to ban that channel for my actions.
+
+112
+00:06:07,420 --> 00:06:10,300
+Nobody with a brain can think this is a good idea.
+
+113
+00:06:10,300 --> 00:06:15,140
+Gab browser extension puts a far right comment section on every site, and how dare they do
+
+114
+00:06:15,140 --> 00:06:16,140
+so.
+
+115
+00:06:16,140 --> 00:06:21,760
+The Dissenter plugin, even just dissenting now warrants scare quotes, allows Gab users
+
+116
+00:06:21,760 --> 00:06:27,020
+to discuss everything from tweets to Wikipedia pages in real time, without the fear of said
+
+117
+00:06:27,020 --> 00:06:29,660
+comment being removed by the site's moderators.
+
+118
+00:06:29,660 --> 00:06:33,580
+You know, I really think this is the online version of the overbearing helicopter parent
+
+119
+00:06:33,580 --> 00:06:37,540
+who wants to prevent their children from having any secrets, getting into any trouble,
+
+120
+00:06:37,540 --> 00:06:41,820
+or enjoying any fun until they're fucking 35, all the while forgetting what it was like
+
+121
+00:06:41,820 --> 00:06:42,820
+to be young themselves.
+
+122
+00:06:42,820 --> 00:06:46,620
+Now that they've lived through their own childhoods as free spirits, it's time for
+
+123
+00:06:46,620 --> 00:06:50,220
+the entirety of human existence to be tightly controlled and regulated.
+
+124
+00:06:50,220 --> 00:06:51,820
+It's hardly a unique idea.
+
+125
+00:06:51,820 --> 00:06:56,900
+Pre-Reddit social aggregator dig launched a comments tool in 2015 to encourage conversations
+
+126
+00:06:56,900 --> 00:07:00,860
+on newslinks, but Dissenter is clearly tailor-made for the Gab crowd.
+
+127
+00:07:00,860 --> 00:07:03,620
+And that reminds me, wasn't Dissenter made before?
+
+128
+00:07:03,620 --> 00:07:04,620
+Oh yeah.
+
+129
+00:07:04,620 --> 00:07:09,100
+I remember a web app like Dissenter 15 years ago, and it dried up because who gives a fuck
+
+130
+00:07:09,100 --> 00:07:11,540
+what a bunch of random trolls online think.
+
+131
+00:07:11,540 --> 00:07:13,100
+It was built by Google.
+
+132
+00:07:13,100 --> 00:07:14,100
+It didn't dry up.
+
+133
+00:07:14,100 --> 00:07:18,380
+They shut it down because the media, publishers, and advertisers lost their minds and pressured
+
+134
+00:07:18,380 --> 00:07:19,380
+them to.
+
+135
+00:07:19,380 --> 00:07:20,380
+We won't.
+
+136
+00:07:20,380 --> 00:07:21,380
+Trolls surface truth.
+
+137
+00:07:21,380 --> 00:07:25,940
+Truth is found in the comments section, always, which is why publishers shut them all down.
+
+138
+00:07:25,940 --> 00:07:27,420
+And here's the core of the matter.
+
+139
+00:07:27,420 --> 00:07:30,840
+Dissenter is something that people all across the internet, with the exception of the isolated
+
+140
+00:07:30,840 --> 00:07:35,040
+bubble that is the radical left, have been clamoring for for years now.
+
+141
+00:07:35,040 --> 00:07:38,160
+Of course, we should remember that censorship isn't a left-right issue.
+
+142
+00:07:38,160 --> 00:07:41,720
+Today's censors are on the left, sure, but the right has been the great censor in the
+
+143
+00:07:41,720 --> 00:07:43,960
+past, and they probably will be again in the future.
+
+144
+00:07:43,960 --> 00:07:48,920
+The common view of the censor, at least when I was young, was either a fascist or religious
+
+145
+00:07:48,920 --> 00:07:52,220
+fanatic, both figures commonly associated with the radical right.
+
+146
+00:07:52,220 --> 00:07:56,760
+But nowadays, it's the genderless, plaid-wearing, dyed-hair, hipster tech journal.
+
+147
+00:07:56,760 --> 00:08:01,840
+But regardless of their differences in politics, they all arbitrarily find some speech offensive
+
+148
+00:08:01,840 --> 00:08:06,720
+to their sensibilities, they all desire social control, and so they all censor.
+
+149
+00:08:06,720 --> 00:08:11,200
+If you hold an opinion, there's somebody, somewhere, who wants you to shut up.
+
+150
+00:08:11,200 --> 00:08:15,120
+And in regards to public discourse, progressives have created a list of prohibited words and
+
+151
+00:08:15,120 --> 00:08:20,420
+ideas, continually expanding it to include more and more speech as more and more people
+
+152
+00:08:20,420 --> 00:08:23,040
+voice their own individual special complaints.
+
+153
+00:08:23,040 --> 00:08:26,640
+With the common fear that, eventually, no speech at all will ever be allowed.
+
+154
+00:08:26,640 --> 00:08:31,200
+The real solution, though, is to not cave to any complaints in the first place.
+
+155
+00:08:31,200 --> 00:08:35,600
+As the ability for people to voice themselves dwindles, an ability that was and remains
+
+156
+00:08:35,600 --> 00:08:40,400
+the foundation of the entire internet, Dissenter re-enpowers the people in a monumental way.
+
+157
+00:08:40,400 --> 00:08:46,280
+In the current digitized world, trivial information is accumulating every second, preserved in
+
+158
+00:08:46,280 --> 00:08:50,760
+all its triteness, never fading, always accessible.
+
+159
+00:08:50,760 --> 00:08:55,600
+Rumors about petty issues, misinterpretations, slander.
+
+160
+00:08:55,600 --> 00:09:01,960
+All this junk data, preserved in an unfiltered state, growing at an alarming rate.
+
+161
+00:09:01,960 --> 00:09:05,920
+It will only slow down social progress, reduce the rate of evolution.
+
+162
+00:09:05,920 --> 00:09:06,920
+Right.
+
+163
+00:09:06,920 --> 00:09:10,120
+You seem to think that our plan is one of censorship.
+
+164
+00:09:10,120 --> 00:09:12,000
+Are you telling me it's not?
+
+165
+00:09:12,000 --> 00:09:13,000
+You're being silly.
+
+166
+00:09:13,000 --> 00:09:17,680
+What we propose to do is not to control content, but to create context.
+
+167
+00:09:18,080 --> 00:09:22,000
+In an age of curated content, where large companies dictate to their users that they
+
+168
+00:09:22,000 --> 00:09:27,200
+will enjoy safe, plastic wrapped, mindless, non-controversial media, Dissenter allows
+
+169
+00:09:27,200 --> 00:09:29,080
+people to debate and discuss again.
+
+170
+00:09:29,080 --> 00:09:33,240
+It allows things to actually trend instead of old media purchasing front page spots.
+
+171
+00:09:33,240 --> 00:09:37,760
+And it allows complaints to be freely aired without them being labeled as problematic.
+
+172
+00:09:37,760 --> 00:09:42,180
+YouTube and Facebook are going the way of Las Vegas, where what happened in Vegas stays
+
+173
+00:09:42,180 --> 00:09:47,420
+in Vegas was a saying that once actually referred to wild cocaine gangbangs, but is now only
+
+174
+00:09:47,420 --> 00:09:52,100
+uttered by obese moms in their fifties, sipping on fruity drinks, losing a couple hundred
+
+175
+00:09:52,100 --> 00:09:54,780
+bucks at the casino and turning in at 8 30 PM.
+
+176
+00:09:54,780 --> 00:09:58,340
+But the rough edges of the internet can't be rounded off the same way that Vegas is
+
+177
+00:09:58,340 --> 00:09:59,900
+or Times Squares have been.
+
+178
+00:09:59,900 --> 00:10:03,460
+I mentioned at the beginning of the video that smaller communities used to run their
+
+179
+00:10:03,460 --> 00:10:04,740
+own tiny forms.
+
+180
+00:10:04,740 --> 00:10:08,020
+The internet was once an endless frontier where everybody could carve out their own
+
+181
+00:10:08,020 --> 00:10:09,820
+little homestead in the wild.
+
+182
+00:10:09,820 --> 00:10:13,940
+But now a lot of these communities simply rely on Reddit subs or Facebook pages due
+
+183
+00:10:13,940 --> 00:10:15,060
+to the ease of it.
+
+184
+00:10:15,060 --> 00:10:16,420
+And for a lot of them, that's fine.
+
+185
+00:10:16,420 --> 00:10:21,020
+But as that list of prohibited words and ideas expands ever outward, more and more
+
+186
+00:10:21,020 --> 00:10:23,400
+people will be banned from these huge platforms.
+
+187
+00:10:23,400 --> 00:10:25,920
+Back in the day, if you were banned from a form, fine, whatever.
+
+188
+00:10:25,920 --> 00:10:27,300
+You move on to the next community.
+
+189
+00:10:27,300 --> 00:10:31,060
+But now when you're banned, you've been completely cut off from public discourse.
+
+190
+00:10:31,060 --> 00:10:34,540
+There is no going to the next one when there is only one.
+
+191
+00:10:34,540 --> 00:10:37,980
+Do that enough and people start to group together on the fringes of the internet.
+
+192
+00:10:37,980 --> 00:10:42,260
+When Gab popped up, both Silicon Valley and the left-leaning media realized that the internet
+
+193
+00:10:42,260 --> 00:10:46,580
+wasn't like Yu-Gi-Oh!, where banning somebody to the shadow realm wasn't just a clever
+
+194
+00:10:46,580 --> 00:10:54,940
+euphemism for killing someone.
+
+195
+00:10:54,940 --> 00:10:57,540
+When you ban somebody, they don't just vanish.
+
+196
+00:10:57,540 --> 00:11:01,260
+When you erect walls, the world beyond them continues to exist.
+
+197
+00:11:01,260 --> 00:11:06,020
+These tech giants centralized so much power that those who were banned had no alternative
+
+198
+00:11:06,020 --> 00:11:07,100
+but to innovate.
+
+199
+00:11:07,100 --> 00:11:11,460
+To center is the graffiti on the walls that big tech erected around their consolidated
+
+200
+00:11:11,460 --> 00:11:12,460
+internet.
+
+201
+00:11:12,460 --> 00:11:16,860
+Decentre has done something that, so far, Gab has unfortunately failed to do, and that's
+
+202
+00:11:16,860 --> 00:11:17,860
+go mainstream.
+
+203
+00:11:17,860 --> 00:11:23,000
+Gab's official Twitter account claims that 43% of Decentre users have commented using
+
+204
+00:11:23,000 --> 00:11:24,000
+the service.
+
+205
+00:11:24,000 --> 00:11:29,400
+In comparison, most platforms see an 8-9% usage rate, with 90% of people simply passively
+
+206
+00:11:29,400 --> 00:11:30,980
+consuming whatever's in front of them.
+
+207
+00:11:30,980 --> 00:11:34,720
+Some of this can be chalked up to Decentre being new, sure, but I do think a good chunk
+
+208
+00:11:34,720 --> 00:11:37,580
+of it is a genuine desire for people to have a voice again.
+
+209
+00:11:37,580 --> 00:11:40,420
+Honestly, the most fun I've had with Decentre is outside of the culture war.
+
+210
+00:11:40,420 --> 00:11:44,260
+I'll load it up on something completely apolitical and sometimes even ancient, like
+
+211
+00:11:44,260 --> 00:11:50,380
+a Wii U soft mod guide, or an old is it a good idea to microwave this video from 2007,
+
+212
+00:11:50,380 --> 00:11:54,680
+or instructions on how to cook the perfect stir fry, and I'll just leave a random message.
+
+213
+00:11:54,680 --> 00:11:58,540
+Something innocuous, something that somebody might not even see for another five years
+
+214
+00:11:58,540 --> 00:11:59,540
+or something.
+
+215
+00:11:59,540 --> 00:12:00,780
+It's like leaving behind a time capsule.
+
+216
+00:12:00,780 --> 00:12:02,720
+I hope Decentre continues to succeed.
+
+217
+00:12:02,720 --> 00:12:04,700
+It absolutely is a work in progress.
+
+218
+00:12:04,700 --> 00:12:08,020
+They've announced that they're creating their own trending pages for every single
+
+219
+00:12:08,020 --> 00:12:09,020
+domain.
+
+220
+00:12:09,020 --> 00:12:14,020
+Rather than dealing with, for example, YouTube's curated crap on the recommended page, we can
+
+221
+00:12:14,020 --> 00:12:17,100
+just see Decentre's neutral trending on YouTube selection.
+
+222
+00:12:17,100 --> 00:12:21,040
+In my opinion, I could also use a follow or friends feature so that you can see what people
+
+223
+00:12:21,040 --> 00:12:22,820
+you want to follow are commenting on.
+
+224
+00:12:22,820 --> 00:12:26,300
+But long term, I think Decentre's going to change the internet in a huge way, far
+
+225
+00:12:26,300 --> 00:12:29,700
+more than Gab ever could as a simple social media platform.
+
+226
+00:12:29,700 --> 00:12:32,800
+When I set up a new PC, there's a few things I do right off.
+
+227
+00:12:32,800 --> 00:12:37,580
+Replace Internet Explorer, get Discord and Skype, install basic useful apps like ImageBurn
+
+228
+00:12:37,580 --> 00:12:40,240
+and Recuva and Hardware Monitor and Steam.
+
+229
+00:12:40,240 --> 00:12:42,900
+I think the Decentre plugin is going on that list.
+
+230
+00:12:42,900 --> 00:12:44,780
+With it, the internet feels like home again.
+
+231
+00:12:44,780 --> 00:12:48,520
+It feels like I can voice my opinion and not have to worry about being blacklisted from
+
+232
+00:12:48,520 --> 00:12:51,740
+five different social media companies Alex Jones style.
+
+233
+00:12:51,740 --> 00:12:55,900
+Push comes to shove, I would rather be offended than be censored.
+
+234
+00:13:21,740 --> 00:13:25,020
+Long enough you're likely to come to believe it.
+
+235
+00:13:25,020 --> 00:13:31,700
+I spoke to somebody who said that when she watched her 15th Alex Jones Info Wars video,
+
+236
+00:13:31,700 --> 00:13:36,540
+he said something that made sense to her and it freaked her out because she had been trying
+
+237
+00:13:36,540 --> 00:13:40,020
+to keep her wits about her and trying to make sure that she didn't get taken down a rabbit
+
+238
+00:13:40,020 --> 00:13:43,900
+hole and all of a sudden she herself was starting to believe in these views.
+
+239
+00:13:43,900 --> 00:13:48,820
+So it seems like it's a really underexplored aspect of being a content moderator.
+
+240
+00:13:48,820 --> 00:13:53,100
+And of course the scary thing is you might only do this job for eight months, ten months,
+
+241
+00:13:53,100 --> 00:13:56,260
+but then you know these new beliefs that you have can last for a lot longer.
+

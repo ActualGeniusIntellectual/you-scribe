@@ -1,0 +1,1442 @@
+WEBVTT
+
+00:00.000 --> 00:04.680
+As of recording this video, one week ago, Google employee James Damore released a document
+
+00:04.680 --> 00:06.900
+that went internally viral within the company.
+
+00:06.900 --> 00:10.400
+This document was titled Google's Ideological Echo Chamber, but has become colloquially
+
+00:10.400 --> 00:11.880
+known as the Google Manifesto.
+
+00:11.880 --> 00:15.320
+I'm going to be referring to the manifesto throughout this video, but it's a bit too
+
+00:15.320 --> 00:16.760
+long to simply read the whole thing.
+
+00:16.760 --> 00:20.480
+I highly recommend you go read it yourselves at the website googlemanifesto.com.
+
+00:20.480 --> 00:25.000
+I will, however, read the TLDR of it, just so you can get an idea of its content.
+
+00:25.000 --> 00:28.420
+Google's political bias has equated the freedom from offense with psychological safety,
+
+00:28.420 --> 00:31.780
+but shaming into silence is the antithesis of psychological safety.
+
+00:31.780 --> 00:35.540
+This silencing has created an ideological echo chamber where some ideas are too sacred
+
+00:35.540 --> 00:36.540
+to be honestly discussed.
+
+00:36.540 --> 00:41.100
+The lack of discussion fosters the most extreme and authoritarian elements of this ideology.
+
+00:41.100 --> 00:44.540
+Extreme meaning, all disparities in representation are due to oppression.
+
+00:44.540 --> 00:47.100
+Authoritarian meaning, we should discriminate to correct this oppression.
+
+00:47.100 --> 00:51.540
+Differences in distributions of traits between men and women may in part explain why we don't
+
+00:51.540 --> 00:54.540
+have 50% representation of women in tech and leadership.
+
+00:54.620 --> 00:58.820
+The question to reach equal representation is unfair, divisive, and bad for business.
+
+00:58.820 --> 01:02.620
+I'm guessing you probably had the same reaction that I had when I first read it.
+
+01:02.620 --> 01:05.820
+Sounds reasonable, but oh boy is this guy in for a world of hurt.
+
+01:05.820 --> 01:06.820
+And that's exactly what happened.
+
+01:06.820 --> 01:11.500
+The Google employee who wrote the controversial Google Manifesto was fired after CEO Sundar
+
+01:11.500 --> 01:13.580
+Pichai called it not okay.
+
+01:13.580 --> 01:17.820
+And of course, because this guy just has to sound like a Twitter SJW, he would use the
+
+01:17.820 --> 01:21.340
+phrase not okay to describe something that he's ideologically opposed to.
+
+01:21.340 --> 01:26.060
+A Google engineer has been fired following the release of a now infamous diversity manifesto.
+
+01:26.060 --> 01:28.620
+The engineer confirmed to Bloomberg that he was fired on Monday.
+
+01:28.620 --> 01:31.700
+His writing has caused shockwaves across Google and the larger tech industry.
+
+01:31.700 --> 01:35.620
+A source confirmed the firing, but a Google representative declined to comment on personal
+
+01:35.620 --> 01:36.620
+matters.
+
+01:36.620 --> 01:40.660
+CEO Sundar Pichai objects to the author's claims that biological differences make women
+
+01:40.660 --> 01:42.260
+less suited for careers in tech.
+
+01:42.260 --> 01:46.700
+Pichai suggests that this portion of the manifesto was not okay, and he said it went too far
+
+01:46.700 --> 01:49.580
+by advancing harmful gender stereotypes in our workplace.
+
+01:49.580 --> 01:53.020
+To suggest a group of our colleagues have traits that make them less biologically suited
+
+01:53.020 --> 01:55.340
+to that work is offensive and not okay.
+
+01:55.340 --> 01:58.900
+Now that's quite the claim for Demore to apparently make, that women are less suited
+
+01:58.900 --> 01:59.900
+for careers in tech.
+
+01:59.900 --> 02:02.980
+Let's look at the actual manifesto and see if it's true.
+
+02:02.980 --> 02:05.380
+Possible non-biased causes of the gender gap in tech.
+
+02:05.380 --> 02:09.220
+At Google, we're regularly told that implicit and explicit biases are holding women back
+
+02:09.220 --> 02:10.400
+in tech and leadership.
+
+02:10.400 --> 02:14.780
+Of course, men and women experience bias, tech, and the workplace differently, and we
+
+02:14.780 --> 02:16.060
+should be cognizant of this.
+
+02:16.060 --> 02:17.420
+But it's far from the whole story.
+
+02:17.420 --> 02:20.860
+On average, men and women biologically differ in many ways.
+
+02:20.860 --> 02:24.360
+These differences aren't just socially constructed because they're universal across
+
+02:24.360 --> 02:29.100
+human cultures, they often have clear biological causes and links to prenatal testosterone,
+
+02:29.100 --> 02:33.360
+biological males that were castrated at birth and raised as females often still identify
+
+02:33.360 --> 02:34.660
+and act like males.
+
+02:34.660 --> 02:38.100
+The underlying traits are highly heritable, they're exactly what we would predict from
+
+02:38.100 --> 02:39.820
+an evolutionary psychology perspective.
+
+02:39.820 --> 02:43.280
+I'm not saying that all men differ from women in the following ways, or that these
+
+02:43.280 --> 02:44.460
+differences are just.
+
+02:44.620 --> 02:48.140
+I'm simply stating that the distribution of preferences and abilities of men and women
+
+02:48.140 --> 02:52.140
+differ, in part due to biological causes and that these differences may explain why we
+
+02:52.140 --> 02:55.140
+don't see equal representation of women in tech and leadership.
+
+02:55.140 --> 02:57.100
+And in my opinion, here's the important bit.
+
+02:57.100 --> 03:01.700
+Many of these differences are small, and there's significant overlap between men and women,
+
+03:01.700 --> 03:05.780
+so you can't say anything about an individual given the population level distributions.
+
+03:05.780 --> 03:09.580
+Here's a graph that seems to illustrate DeMoor's point a little bit later in the
+
+03:09.580 --> 03:14.180
+manifesto, regarding how men as a whole seem to be predisposed to value higher status over
+
+03:14.180 --> 03:15.460
+personal comfort.
+
+03:15.460 --> 03:19.580
+The green looks like it represents men, and the purple women, and as an aside, nice callback
+
+03:19.580 --> 03:20.940
+to gamergate buddy.
+
+03:20.940 --> 03:25.820
+As you can see, the absolute upper echelons of men, the top tier, seem to be the pinnacle
+
+03:25.820 --> 03:29.140
+of human potential in this regard, and they are there alone.
+
+03:29.140 --> 03:31.080
+But the vast majority of men?
+
+03:31.080 --> 03:33.060
+They're equal to the vast majority of women.
+
+03:33.060 --> 03:37.060
+There is significantly more overlap of genders than anything else, and his second graph goes
+
+03:37.060 --> 03:41.820
+on to show how only taking the raw mathematical averages of these cases misrepresents his
+
+03:41.820 --> 03:42.820
+argument.
+
+03:42.860 --> 03:47.020
+Do you think that Pachai's claim of advancing harmful gender stereotypes, and suggesting
+
+03:47.020 --> 03:50.180
+that a group of colleagues have traits to make them less biologically suited for work
+
+03:50.180 --> 03:52.620
+at Google is accurate to DeMoor's position?
+
+03:52.620 --> 03:53.820
+Because I don't think it is.
+
+03:53.820 --> 03:57.420
+In fact, if you look on DeMoor's graph, you can see a giant swath of people where
+
+03:57.420 --> 03:58.820
+this is not the case.
+
+03:58.820 --> 04:02.620
+But of course, DeMoor was fired from Google for authoring the manifesto, presumably for
+
+04:02.620 --> 04:03.620
+wrong think.
+
+04:03.620 --> 04:07.620
+Pachai stated that the memo violated Google's code of conduct, and Danielle Brown, Google's
+
+04:07.620 --> 04:11.640
+new vice president of diversity, integrity, and governance, sent a statement to staff
+
+04:11.640 --> 04:14.980
+condemning DeMoor's views and reaffirmed the company's stance on diversity.
+
+04:14.980 --> 04:16.780
+So yeah, wrong think.
+
+04:16.780 --> 04:20.680
+The memo and surrounding debate comes as Google fends off a lawsuit from the US Department
+
+04:20.680 --> 04:23.960
+of Labor alleging the company systematically discriminates against women.
+
+04:23.960 --> 04:27.760
+Google has denied the charges, arguing that it doesn't have a gender pay gap, but has
+
+04:27.760 --> 04:30.840
+declined to share full salary information with the government.
+
+04:30.840 --> 04:35.480
+According to the company's most recent demographic report, 69% of its workforce and 80% of its
+
+04:35.480 --> 04:36.920
+technical staff are male.
+
+04:36.920 --> 04:40.720
+Oh, oh, so there's really only two possible ways to interpret this.
+
+04:40.880 --> 04:45.360
+DeMoor's assertions were in fact correct, despite Google's attempts to promote diversity,
+
+04:45.360 --> 04:48.400
+or Google's actually run by a bunch of fucking bigots.
+
+04:48.400 --> 04:53.120
+Well, it may very well be that the second answer, that Google is run by bigots, is actually
+
+04:53.120 --> 04:54.120
+the right one.
+
+04:54.120 --> 04:56.000
+But not in the way that you might be thinking.
+
+04:56.000 --> 05:00.200
+James DeMoor gave an interview to Jordan Peterson on August 8th, and what he has to say on the
+
+05:00.200 --> 05:01.600
+subject is really striking.
+
+05:01.600 --> 05:02.600
+Let's listen in.
+
+05:10.720 --> 05:17.920
+I went to one of our diversity summits, all of it unrecorded and super secret, and they
+
+05:17.920 --> 05:22.160
+told me a lot of things that I thought just were not right.
+
+05:22.160 --> 05:25.480
+Okay, what do you mean unrecorded and super secret?
+
+05:25.480 --> 05:32.400
+Well, I mean, they were telling us about a lot of these potentially illegal practices
+
+05:32.400 --> 05:37.360
+that they've been doing to try to increase diversity.
+
+05:37.360 --> 05:39.160
+What kind of practices?
+
+05:40.160 --> 05:45.120
+Well, basically treating people differently based on what their race or gender are.
+
+05:45.120 --> 05:47.120
+Oh, you mean racism?
+
+05:47.120 --> 05:49.120
+Yeah, basically.
+
+05:49.120 --> 05:50.120
+I see.
+
+05:50.120 --> 05:54.120
+And it was ultra secret and unrecorded in what manner?
+
+05:54.120 --> 05:58.600
+Yeah, so most meetings at Google are recorded.
+
+05:58.600 --> 06:00.520
+Anyone at Google can watch it.
+
+06:00.520 --> 06:04.840
+We're trying to be really open about everything, except for this.
+
+06:04.840 --> 06:08.240
+They don't want any paper trail for any of these things.
+
+06:08.320 --> 06:09.320
+Okay, why?
+
+06:11.320 --> 06:17.320
+Because I think it's illegal, and I mean, as some of the internal polls showed, there
+
+06:17.320 --> 06:22.880
+were a large percent of people that agreed with me on the document, and so if everyone
+
+06:22.880 --> 06:29.640
+got to see this stuff, then they would really bring up some criticism.
+
+06:29.640 --> 06:34.640
+Yeah, well, a large number of people in Google and a very large number of well-informed biological
+
+06:34.640 --> 06:37.240
+scientists we might also add.
+
+06:37.240 --> 06:44.760
+So I mean, I was quite struck by your document, given that it would have been a decent document
+
+06:44.760 --> 06:48.960
+for a well-informed psychologist, research psychologist to write, but you're somewhat
+
+06:48.960 --> 06:54.240
+of an outsider, but you've got the highlights accurate as far as I'm concerned.
+
+06:54.240 --> 07:00.040
+So okay, so you went to this diversity meeting, and you weren't happy with the sorts of things
+
+07:00.040 --> 07:04.000
+that you were being told and with the practices, is that both correct?
+
+07:04.000 --> 07:05.000
+Yeah.
+
+07:05.000 --> 07:07.760
+What were you being told?
+
+07:10.760 --> 07:16.640
+I mean, there's a lot of ways in which they pressure people to increase the diversity
+
+07:16.640 --> 07:22.960
+of their team, and there's no way to do that besides actually choosing someone based on
+
+07:22.960 --> 07:24.680
+their race or gender, right?
+
+07:24.680 --> 07:30.840
+It's certainly also distressing to hear that there is acceptance of the idea that diversity
+
+07:30.840 --> 07:35.280
+can be mapped onto race and gender, especially with regards to performance, because there's
+
+07:35.280 --> 07:37.480
+no evidence for that whatsoever.
+
+07:37.480 --> 07:43.200
+So okay, so you went to this meeting, and then you decided to write this document, and
+
+07:43.200 --> 07:46.600
+how long had you been working on it before you released it?
+
+07:46.600 --> 07:54.920
+Yeah, so I was doing it throughout my free time, and I just wanted to clarify my thoughts
+
+07:54.920 --> 07:59.800
+on this, and I really just wanted to be proven wrong, because if what I was saying was right,
+
+07:59.800 --> 08:02.040
+then something bad is happening.
+
+08:02.040 --> 08:09.080
+And so about a month ago, I submitted it to feedback to that program, and I saw that people
+
+08:09.080 --> 08:12.640
+looked at it, but no one actually said anything.
+
+08:12.640 --> 08:16.040
+What sort of feedback did you submit?
+
+08:16.040 --> 08:22.680
+I basically said what I said in the document, and then I linked to the document itself.
+
+08:22.680 --> 08:29.920
+And so I actually published this about a month ago, and it was only after it got viral and
+
+08:29.920 --> 08:33.800
+then leaked to the news that Google started caring.
+
+08:33.800 --> 08:39.360
+Okay, so how did it go viral, and do you know, and how was it leaked?
+
+08:39.360 --> 08:46.680
+Yeah, so there was a group at Google called Skeptics, and so I was like, okay, maybe they'll
+
+08:46.680 --> 08:48.920
+be able to prove me wrong in some way.
+
+08:48.920 --> 08:51.960
+Like they're skeptical about things, right?
+
+08:51.960 --> 08:54.080
+I was naive, I guess.
+
+08:54.080 --> 08:58.200
+And so I sent them a message like, okay, what do you think about this?
+
+08:58.200 --> 09:03.600
+Is Google in some sort of echo chamber, or am I in an echo chamber?
+
+09:03.600 --> 09:13.720
+And then it just exploded after that, and our internal, yeah, it was just spread throughout
+
+09:13.720 --> 09:14.720
+all of Google.
+
+09:14.720 --> 09:20.960
+And do you know, was it the Skeptics group that started to spread it around?
+
+09:20.960 --> 09:28.200
+Yeah, and then there were a lot of upper management that, you know, specifically called
+
+09:28.200 --> 09:33.320
+it out and started saying how harmful it is and how it's unacceptable.
+
+09:33.320 --> 09:36.560
+This sort of viewpoint is not allowed at Google.
+
+09:36.560 --> 09:39.200
+Yeah, what sort of viewpoint exactly?
+
+09:39.200 --> 09:42.800
+The idea that there are differences between men and women that actually might play a role
+
+09:42.800 --> 09:47.480
+in the corporate world?
+
+09:47.480 --> 09:49.440
+That's an opinion that's not acceptable?
+
+09:49.960 --> 09:52.000
+Yeah, it seems so.
+
+09:52.000 --> 09:58.240
+Oh, so Google is racist and sexist, but apparently in the name of diversity, as in discriminating
+
+09:58.240 --> 09:59.320
+against white men.
+
+09:59.320 --> 10:04.160
+I know that the bullshit SJW definition of racism and sexism is prejudice plus power,
+
+10:04.160 --> 10:06.200
+but legally that's not the case.
+
+10:06.200 --> 10:10.160
+This is illegal, which is presumably why these meetings are unrecorded and not released to
+
+10:10.160 --> 10:11.160
+the public.
+
+10:11.160 --> 10:15.200
+It's no surprise to me that Sundar Pichai, Danielle Brown, and a couple of other Google
+
+10:15.200 --> 10:17.720
+execs are regressive left ideologues.
+
+10:17.760 --> 10:21.120
+This does seem to be the case at a lot of the big tech giants right now.
+
+10:21.120 --> 10:24.720
+It's also no surprise to me that a lot of the underlings actually end up agreeing, at
+
+10:24.720 --> 10:28.920
+least in part, with Demore's less ideological and more reasonable point of view.
+
+10:28.920 --> 10:33.920
+An examination of the internal memos at Google while the manifesto was going viral, but before
+
+10:33.920 --> 10:38.400
+it became public knowledge, shows that a number of employees do, in fact, question Google's
+
+10:38.400 --> 10:40.480
+diversity at all costs stance.
+
+10:40.480 --> 10:44.320
+But does anybody want to take a guess at how the news media decided to spin this story?
+
+10:44.320 --> 10:48.840
+James Demore, the Google employee fired for his controversial manifesto, is almost certainly
+
+10:48.840 --> 10:51.120
+not a victim of a free speech violation.
+
+10:51.120 --> 10:53.960
+Why free speech couldn't save that Google engineer's job.
+
+10:53.960 --> 10:57.820
+I'm a woman in computer science, let me lady-slain the Google memo to you.
+
+10:57.820 --> 11:01.600
+How you can use the Google manifesto to advance women, not gender stereotypes.
+
+11:01.600 --> 11:06.320
+Google firing its manifesto engineer is a powerful lesson in emotional intelligence.
+
+11:06.320 --> 11:07.640
+And many, many more.
+
+11:07.640 --> 11:10.480
+I don't need to go through them all with you, links are in the description if you want
+
+11:10.480 --> 11:11.480
+to check them out yourself.
+
+11:11.480 --> 11:14.240
+But all these articles revolve around three arguments.
+
+11:14.240 --> 11:15.240
+1.
+
+11:15.240 --> 11:19.020
+That the hurt feelings of the employees that found themselves feeling judged or ashamed
+
+11:19.020 --> 11:23.560
+or misrepresented or whatever is more important than the factual accuracy of the manifesto.
+
+11:23.560 --> 11:24.560
+2.
+
+11:24.560 --> 11:28.240
+Keeping the ideology intact is more important than considering alternative points of view.
+
+11:28.240 --> 11:29.240
+3.
+
+11:29.240 --> 11:32.520
+That the first amendment protects us against government infringing on free speech, not private
+
+11:32.520 --> 11:34.400
+organizations like Google.
+
+11:34.400 --> 11:35.920
+Let's go over all three of these points.
+
+11:35.920 --> 11:36.920
+1.
+
+11:36.920 --> 11:40.120
+The reactions of many journalists, as well as the official reaction by Google's staff,
+
+11:40.120 --> 11:42.300
+seems to consist of feelings over facts.
+
+11:42.300 --> 11:46.560
+In doing so, these people obfuscate the facts presented within the manifesto.
+
+11:46.560 --> 11:50.880
+General trends of large groups of people become specific statements about coworkers.
+
+11:50.880 --> 11:54.320
+Talking about ways in which current diversity projects are failing becomes an opinion that
+
+11:54.320 --> 11:56.220
+wants no diversity at all.
+
+11:56.220 --> 12:00.320
+For an emotional reaction to be sufficient, things had to be blown out of proportion.
+
+12:00.320 --> 12:03.780
+Fringe interpretations become the narrative that the media coalesces around, solely to
+
+12:03.780 --> 12:04.780
+stamp out dissent.
+
+12:04.780 --> 12:10.080
+But in reality, not only are the hurt feelings of employees not more important than the facts,
+
+12:10.080 --> 12:14.080
+but these facts are distorted in order to generate the maximum amount of hurt feelings
+
+12:14.080 --> 12:15.080
+possible.
+
+12:15.080 --> 12:16.080
+2.
+
+12:16.080 --> 12:19.040
+The Google Manifesto specifically states that the author, Demore, is not interested in being
+
+12:19.040 --> 12:20.180
+anti-diverse.
+
+12:20.180 --> 12:23.720
+It states that many women at Google are deserving of their positions due to their hard work
+
+12:23.720 --> 12:24.720
+and dedication.
+
+12:24.720 --> 12:27.920
+The manifesto advocates for a let-things-fall-where-they-may approach.
+
+12:27.920 --> 12:32.080
+Rather than courting specific demographics in an effort for 50-50 parody, allow talent
+
+12:32.080 --> 12:35.840
+to rise to the top solely on merit, and the women who have the merit will rise just as
+
+12:35.840 --> 12:36.840
+well as the men.
+
+12:36.840 --> 12:40.800
+Demore said specifically in the manifesto that he believes sexism exists, and that he
+
+12:40.800 --> 12:44.120
+values diversity, but that Google's approach to the problem was wrong.
+
+12:44.120 --> 12:48.400
+He advocated for treating people as individuals, not as just another member of their group.
+
+12:48.400 --> 12:52.080
+The problem with this point of view wasn't that it was flawed, or that it was sexist.
+
+12:52.080 --> 12:55.160
+It was that it went against the ideology of Google's top brass.
+
+12:55.160 --> 12:59.100
+When everything is seen through the lens of victimhood, alternative opinions and solutions
+
+12:59.100 --> 13:02.160
+to the problems of bigotry are also considered to be bigotry.
+
+13:02.160 --> 13:03.160
+3.
+
+13:03.160 --> 13:07.000
+The government does, indeed, protect against the government infringing on free speech.
+
+13:07.000 --> 13:08.000
+Not Google.
+
+13:08.000 --> 13:10.880
+And unless you're part of a union, or you have specific stipulations in your hiring
+
+13:10.880 --> 13:14.380
+contract that say otherwise, or it can be proven that your employer broke the law on
+
+13:14.380 --> 13:17.480
+firing you, you can be fired for any reason.
+
+13:17.480 --> 13:18.640
+Or even no reason.
+
+13:18.640 --> 13:20.960
+Just like you can quit your job for any or no reason.
+
+13:20.960 --> 13:22.200
+It works both ways.
+
+13:22.200 --> 13:25.700
+It seems to be well within Google's legal rights to fire Demore for publishing his manifesto
+
+13:25.700 --> 13:27.160
+on their internal servers.
+
+13:27.160 --> 13:29.000
+That is a consequence of his free speech.
+
+13:29.000 --> 13:31.400
+However, is it unethical of Google to fire him?
+
+13:31.400 --> 13:34.820
+Considering that the manifesto is not inflammatory, it's not discriminatory, and it's backed
+
+13:34.820 --> 13:36.160
+up by scientific fact?
+
+13:36.160 --> 13:37.160
+I think it is.
+
+13:37.160 --> 13:39.700
+It's legal, but also unethical.
+
+13:39.700 --> 13:43.520
+And now that the public knows that Google, though entirely within their legal rights,
+
+13:43.520 --> 13:47.880
+has acted unethically, should we use our own free speech rights to push back against Google?
+
+13:47.880 --> 13:49.120
+Yes, we should.
+
+13:49.120 --> 13:52.360
+But I don't think Google's going to allow us to do so, at least not on YouTube or other
+
+13:52.360 --> 13:53.680
+Google owned platforms.
+
+13:53.680 --> 13:55.880
+Remember the adpocalypse of a few months back?
+
+13:55.880 --> 13:59.560
+Where ad rates plummeted and despite YouTube's insistence to the contrary, never really recovered?
+
+13:59.720 --> 14:03.280
+Well, we've now entered into a second round of YouTube restriction, known as the limited
+
+14:03.280 --> 14:04.280
+state.
+
+14:04.280 --> 14:07.920
+In a recent YouTube blog post, titled An Update on our Commitment to Fight Terror Content
+
+14:07.920 --> 14:11.720
+Online, a number of methods YouTube uses to moderate their platform are described.
+
+14:11.720 --> 14:15.200
+I'm going to read a few choice sections for you, and try to give you an honest interpretation
+
+14:15.200 --> 14:16.200
+of them.
+
+14:16.200 --> 14:17.200
+Tougher standards.
+
+14:17.200 --> 14:20.860
+We'll soon be applying tougher treatment to videos that aren't illegal, but have been
+
+14:20.860 --> 14:25.560
+flagged by users as potential violations of our policies on hate speech and violent extremism.
+
+14:25.560 --> 14:29.200
+If we find that these videos don't violate our policies but contain controversial religious
+
+14:29.200 --> 14:32.340
+or supremacist content, they will be placed in a limited state.
+
+14:32.340 --> 14:35.680
+The videos will remain on YouTube behind an interstitial, won't be recommended, won't
+
+14:35.680 --> 14:39.640
+be monetized, and won't have key features including comments, suggested videos, and
+
+14:39.640 --> 14:40.640
+likes.
+
+14:40.640 --> 14:43.640
+So basically, the limited state is where YouTube is going to be placing videos that contain
+
+14:43.640 --> 14:47.920
+content that they consider to be controversial, even if the video breaks none of YouTube's
+
+14:47.920 --> 14:48.920
+rules.
+
+14:48.920 --> 14:52.800
+These videos will generate no revenue, and will garner no audience interaction or growth.
+
+14:52.800 --> 14:56.720
+YouTube could just boot these videos and their creators offline, but I think the people over
+
+14:56.720 --> 15:00.640
+there are smart enough to know that keeping up the pretense of YouTube being a free speech,
+
+15:00.640 --> 15:04.520
+free for all platform where people can hear from other people and not just approved sources
+
+15:04.520 --> 15:06.160
+is integral to their business.
+
+15:06.160 --> 15:09.840
+But it's also clear that YouTube does not want people who create this content around
+
+15:09.840 --> 15:13.200
+anymore, and this is them squeezing those content creators hoping they'll up and leave
+
+15:13.200 --> 15:14.200
+on their own.
+
+15:14.200 --> 15:15.560
+And this is happening right now.
+
+15:15.560 --> 15:20.920
+Mundane Matt's channel made $15 and 101,000 views, which is ridiculously low, presumably
+
+15:20.920 --> 15:28.520
+because he's a political YouTuber.
+
+15:28.520 --> 15:32.640
+The Act Man made a video on how we should all stop making racism and sexism an issue
+
+15:32.640 --> 15:37.680
+in video games, titled Feminists and SAWs vs Video Games, and he got a community guidelines
+
+15:37.680 --> 15:39.240
+strike for hate speech.
+
+15:39.240 --> 15:43.080
+Musical antiheroes been private messaged by another YouTuber who received this lovely
+
+15:43.080 --> 15:47.920
+message, limited or no ads due to content identified as not suitable for all advertisers.
+
+15:47.920 --> 15:51.040
+Upon requesting a review of this decision, he received this message.
+
+15:51.040 --> 15:55.200
+We are only able to review videos with at least 1,000 views in the past 28 days, so
+
+15:55.200 --> 15:59.440
+if you're simply not popular enough, you're not even able to have your video reviewed
+
+15:59.440 --> 16:01.480
+to see if it was placed in limitation and error.
+
+16:01.480 --> 16:02.680
+And it's happened to me too.
+
+16:02.680 --> 16:06.380
+I did a video a few months back, titled Is it possible to be a moral pedophile?
+
+16:06.380 --> 16:10.200
+In that video I discussed pedophilia from a rational, non-emotional point of view.
+
+16:10.200 --> 16:14.860
+I was not apologetic for pedophilia, of course, but I didn't resort to baseless insults
+
+16:14.860 --> 16:18.640
+or reactionary comments in my explanation of why I thought pedophilia was an obviously
+
+16:18.640 --> 16:19.640
+bad thing.
+
+16:19.640 --> 16:24.620
+But because I dared to discuss the topic at all, the video was deemed not advertiser friendly.
+
+16:24.620 --> 16:28.260
+It's my opinion that these moves on YouTube's part are directly linked to the Google Manifesto.
+
+16:28.260 --> 16:31.100
+It's no secret that YouTube is bleeding money like crazy.
+
+16:31.100 --> 16:35.500
+400 hours of video are uploaded to YouTube's servers every minute, and the cost to maintain
+
+16:35.500 --> 16:38.140
+that amount of data is absolutely colossal.
+
+16:38.140 --> 16:41.620
+Every time somebody clicks a video, that's bandwidth and server strain that comes out
+
+16:41.620 --> 16:42.620
+of YouTube's pocket.
+
+16:42.620 --> 16:45.740
+And like Damore said in the Manifesto, Google's finances are not infinite.
+
+16:45.740 --> 16:48.140
+There's only so much ad revenue to spread around.
+
+16:48.140 --> 16:51.540
+I think that YouTube needs to start cutting costs in order to stay afloat in the long
+
+16:51.540 --> 16:55.460
+term, and one way they can do this is by giving creators a smaller cut of that revenue, through
+
+16:55.460 --> 16:57.460
+actions like the adpocalypse.
+
+16:57.460 --> 17:00.780
+Another way to do this is to put videos in the limited state described earlier, where
+
+17:00.780 --> 17:04.680
+no creator revenue will be paid out, and the video won't appear in search results and
+
+17:04.680 --> 17:08.820
+have no audience interaction, driving the number of views down, which in turn will drive
+
+17:08.820 --> 17:11.540
+down the strain on YouTube's servers, saving them a little bit of money.
+
+17:11.580 --> 17:15.980
+I think the limited state, in the coming months and years, will be expanded to large swaths
+
+17:15.980 --> 17:17.780
+of content as a cost-cutting measure.
+
+17:17.780 --> 17:22.080
+I think they're starting off with non-left political or anti-social justice content for
+
+17:22.080 --> 17:23.120
+a number of reasons.
+
+17:23.120 --> 17:26.000
+This content is relatively easy to identify at a quick glance.
+
+17:26.000 --> 17:29.940
+The community surrounding this type of channel is somewhat insular, so their loss will create
+
+17:29.940 --> 17:31.220
+minimal shockwaves.
+
+17:31.220 --> 17:34.380
+And because they're ideologically opposed to that content, which we already know to
+
+17:34.380 --> 17:37.940
+be the case with the Google Manifesto, it's like killing two birds with one stone for
+
+17:37.940 --> 17:38.940
+them.
+
+17:39.940 --> 17:46.900
+This connects to another point on YouTube's blog post about methods currently being taken
+
+17:46.900 --> 17:48.220
+to moderate the platform.
+
+17:48.220 --> 17:50.980
+Early intervention and expanding counter-extremism work.
+
+18:02.980 --> 18:07.340
+Well okay, when somebody searches, say, how to join ISIS, they're going to get videos
+
+18:07.340 --> 18:10.420
+related to why ISIS is bad, how to get help, etc etc.
+
+18:10.420 --> 18:12.460
+That's not necessarily a bad thing.
+
+18:12.460 --> 18:14.540
+But recall the Google Manifesto again.
+
+18:14.540 --> 18:18.620
+Recall Sundar Pichai's blog post describing the women at Google as hurting and feeling
+
+18:18.620 --> 18:19.620
+under threat.
+
+18:19.620 --> 18:22.860
+I do not trust YouTube's determination on what should be covered by redirection.
+
+18:22.860 --> 18:26.540
+This honestly sounds to me like in the near future we're going to be seeing a scenario
+
+18:26.540 --> 18:30.620
+in which somebody searches for anti-SJW on YouTube and the search fetches a bunch of
+
+18:30.620 --> 18:34.740
+social justice videos telling him that social justice is the superior ideology and that
+
+18:34.740 --> 18:36.400
+the people who disagree are bigoted.
+
+18:36.400 --> 18:37.600
+Or experts.
+
+18:37.600 --> 18:40.340
+Of course, our systems are only as good as the data they're based on.
+
+18:40.340 --> 18:44.320
+Over the past weeks, we have begun working with more than 15 additional expert NGOs and
+
+18:44.320 --> 18:48.040
+institutions through our trusted FLAGA program, including the Anti-Defamation League, the
+
+18:48.040 --> 18:51.000
+No Hate Speech movement, and the Institute for Strategic Dialogue.
+
+18:51.000 --> 18:54.440
+Tell me Google, did you include Crash Override in that list of partners?
+
+18:54.440 --> 18:57.680
+You know, Zoe Quinn's organization, the one that was all about helping victims of
+
+18:57.680 --> 19:01.040
+online harassment, but specifically set out to harass people they disagreed with?
+
+19:01.040 --> 19:06.080
+You know, the harassers you invited to Google to get their opinion on how to stop harassment?
+
+19:06.080 --> 19:09.240
+Rather detection and faster removal driven by machine learning, we've always used a
+
+19:09.240 --> 19:13.080
+mix of technology and human review to address the ever-changing challenges around controversial
+
+19:13.080 --> 19:14.140
+content on YouTube.
+
+19:14.140 --> 19:17.800
+We recently began developing and implementing cutting-edge machine learning technology designed
+
+19:17.800 --> 19:21.800
+to help us identify and remove violent extremism and terrorism-related content in a scalable
+
+19:21.800 --> 19:22.800
+way.
+
+19:22.800 --> 19:26.200
+Oh yes, yes, we all know that Google's AI technology is cutting edge.
+
+19:26.200 --> 19:30.540
+Meet Perspective, Google's AI bot that will take comments and speech and tell you how
+
+19:30.540 --> 19:31.540
+toxic it is.
+
+19:31.540 --> 19:37.100
+Let's give it a go, shall we?
+
+19:37.100 --> 19:41.340
+The U.S. Government is Corrupt Oh, 71% toxic, is it?
+
+19:41.340 --> 19:43.340
+We'd better censor that opinion straight away.
+
+19:43.340 --> 19:49.060
+The U.S. Government is Wonderful Ah, 5% toxic, that's better.
+
+19:49.060 --> 19:52.140
+The word Trump all on its own is 42% toxic.
+
+19:52.140 --> 19:55.700
+If you're going for 100%, that's a gimme right off the bat.
+
+19:55.700 --> 20:01.780
+Black man dating white woman 86% toxic
+
+20:01.780 --> 20:06.700
+How many millions did you spend, Google, to develop an AI that disapproves of race mixing?
+
+20:06.700 --> 20:11.100
+If I hadn't made it clear by now, I don't trust YouTube to be objective in their policing
+
+20:11.100 --> 20:15.700
+of its platform, because of the extreme ineptitude of its staff and tools, its past behaviors
+
+20:15.700 --> 20:20.040
+when it comes to the DMCA, and because its parent company, Google, has an ideological
+
+20:20.040 --> 20:22.780
+stake in YouTube not being objective.
+
+20:22.780 --> 20:24.060
+But there is a silver lining here.
+
+20:24.060 --> 20:27.740
+The media has not completely united around Google in the way that it united around developers
+
+20:27.740 --> 20:29.180
+and press during Gamergate.
+
+20:29.180 --> 20:32.620
+Even though it's a very similar story of an insider publishing trade secrets that show
+
+20:32.620 --> 20:34.620
+illegal and unethical practices.
+
+20:34.620 --> 20:38.820
+Though there was that one idiot over at the Guardian that actually blamed this all on
+
+20:38.820 --> 20:39.820
+Gamergate.
+
+20:39.820 --> 20:42.380
+But okay, okay, that's enough stupidity for one video.
+
+20:42.380 --> 20:43.660
+Silver lining, silver lining.
+
+20:43.660 --> 20:46.660
+No, the Google manifesto isn't sexist or anti-diversity.
+
+20:46.660 --> 20:47.660
+It's science.
+
+20:47.660 --> 20:51.140
+Mr. Demore confirmed last night he was fired for perpetuating gender stereotypes.
+
+20:51.140 --> 20:55.340
+Despite how it's been portrayed, the memo was fair and factually accurate.
+
+20:55.340 --> 20:58.800
+Scientific studies have confirmed sex differences in the brain that lead to differences in our
+
+20:58.800 --> 21:00.380
+interests and behavior.
+
+21:00.380 --> 21:04.860
+As mentioned in the memo, gendered interests are predicted by exposure to prenatal testosterone.
+
+21:04.860 --> 21:08.420
+Higher levels are associated with a preference for mechanically interesting things in occupations
+
+21:08.420 --> 21:09.420
+in adulthood.
+
+21:09.420 --> 21:13.420
+Lower levels are associated with a preference for people-oriented activities in occupations.
+
+21:13.420 --> 21:16.220
+This is why STEM fields tend to be dominated by men.
+
+21:16.220 --> 21:19.040
+And this speaks to the regressive left's extreme problem with science.
+
+21:19.040 --> 21:22.640
+They only claim it as part of their domain when its outcomes agree with their ideology.
+
+21:22.640 --> 21:26.280
+But could climate change, you know, that thing that hard-left environmentalists repeatedly
+
+21:26.280 --> 21:28.080
+say that the science is settled on?
+
+21:28.080 --> 21:31.240
+Like here, over at Slate, climate science is settled enough.
+
+21:31.240 --> 21:34.040
+How long do you think it's going to take me to dig up a Slate article talking about how
+
+21:34.040 --> 21:40.680
+the Google manifesto is wrong and that science isn't representative of the truth?
+
+21:40.680 --> 21:41.680
+Well I'm back.
+
+21:41.680 --> 21:43.440
+It took me about three fucking seconds.
+
+21:43.440 --> 21:47.280
+Science is something that, when it agrees with the regressive left's worldview, is cool
+
+21:47.280 --> 21:49.780
+and awesome and worthy of upvotes on Reddit.
+
+21:49.780 --> 21:53.080
+But when it tells them that they're wrong, it's hateful and discriminatory.
+
+21:53.080 --> 21:56.180
+Remember that bit with the black student who thought a shaman could call down lightning
+
+21:56.180 --> 21:58.840
+and that the guy who told her she was wrong was racist?
+
+21:58.840 --> 22:06.040
+There's a place in Kabyalihana, and they believe that through the magic, the black magic, you
+
+22:06.040 --> 22:10.560
+call it black magic, they call it witchcuff to others, that you are able to send a lightning
+
+22:10.560 --> 22:11.560
+to strike someone.
+
+22:11.560 --> 22:21.520
+Yeah, isn't that a special brand of insanity?
+
+22:21.520 --> 22:25.520
+Well a bit later in the video, she talks about how science must be destroyed and remade from
+
+22:25.520 --> 22:27.880
+the ground up with her specific style of understanding.
+
+22:27.880 --> 22:33.360
+Western modernity is the problem that decolonization directly deals with, to say that we are going
+
+22:33.360 --> 22:38.920
+to decolonize by having knowledge that is produced by us, that speaks to us, and that
+
+22:38.920 --> 22:41.760
+is able to accommodate knowledge from our perspective.
+
+22:41.760 --> 22:46.560
+So if you're saying that you disagree with her approach, it means that you are vested
+
+22:46.560 --> 22:50.280
+in the Western and Eurocentric way of understanding, which means you yourself still need to go
+
+22:50.280 --> 22:56.240
+back, internally decolonize your mind, come back and say, how can I re-look at what I've
+
+22:56.240 --> 23:00.560
+been studying all these years, because Western knowledge is very pathetic to say the least.
+
+23:00.560 --> 23:05.400
+I from a decolonized perspective believe we can do more as knowledge producers, as people
+
+23:05.400 --> 23:10.680
+who are given the ability to reason or whatever, is that people say we do when we think or
+
+23:10.680 --> 23:11.680
+rationalize.
+
+23:11.680 --> 23:16.760
+So decolonizing the science would mean doing away with it entirely and starting all over
+
+23:16.760 --> 23:20.440
+again to deal with how we respond to the environment and how we understand it.
+
+23:20.440 --> 23:22.000
+Here's the problem with that.
+
+23:22.000 --> 23:25.720
+If your African scientists are worth a damn, they're still going to come to the conclusion
+
+23:25.720 --> 23:27.320
+that shamans can't summon lightning.
+
+23:27.320 --> 23:31.160
+The scientific process is the scientific process, and it does not change based on your culture
+
+23:31.160 --> 23:32.480
+or lived experiences.
+
+23:32.480 --> 23:36.160
+The nerd in me would now like to reference this Star Trek clip, just to show you that
+
+23:36.160 --> 24:04.920
+despite your ideology, science will always be correct about the nature of the universe.
+
+24:04.920 --> 24:08.080
+Beyond the science angle, people are also taking other stands.
+
+24:08.080 --> 24:11.080
+Demors filed suit against Google and I hope it goes well for him.
+
+24:11.080 --> 24:14.520
+I truly believe that the professional treatment of people who don't share the political views
+
+24:14.520 --> 24:19.180
+of their CEOs is serious enough to possibly consider it a civil rights issue.
+
+24:19.180 --> 24:23.120
+Some think that Sundar Pichai was in the wrong, so much so that he should step down.
+
+24:23.120 --> 24:25.180
+Others are talking about the free speech angle too.
+
+24:25.180 --> 24:29.260
+The application of hostile work environment law to workplace speech, including basically
+
+24:29.260 --> 24:33.360
+political or ideological discussions, not just vulgar jokes or unwanted personal talk,
+
+24:33.360 --> 24:34.760
+goes back decades.
+
+24:34.760 --> 24:40.480
+Jonathan Rauch, for example, in the New Republic in 1997, wrote that quietly, gradually, the
+
+24:40.480 --> 24:44.280
+workplace has become an exception to the general rule that in America the law does not seek
+
+24:44.280 --> 24:46.320
+to restrain wrongful opinion and expression.
+
+24:46.320 --> 24:49.680
+And Rauch explained the indirect mechanism by which this has come to pass.
+
+24:49.680 --> 24:54.440
+What the government cannot do directly, it now requires employers to do in its stead.
+
+24:54.440 --> 24:56.040
+Police discriminatory speech.
+
+24:56.040 --> 25:00.000
+It seems to me that conservatives aren't really all that welcome within Silicon Valley.
+
+25:00.000 --> 25:04.040
+I'm not even a conservative, and I can tell that rational conservative arguments are being
+
+25:04.040 --> 25:08.520
+snuffed out at major tech companies in the USA, in favour of feels-based, regressive
+
+25:08.520 --> 25:12.960
+left policies, as well as more than a few cry sessions after Donald Trump's election.
+
+25:12.960 --> 25:17.480
+I think political affiliation and opinion should be protected by law from firing in
+
+25:17.480 --> 25:21.240
+the same way as race, religion, gender, sexuality, ethnicity, and so on.
+
+25:21.240 --> 25:25.200
+It's the only way to ensure diversity of opinion at these companies, which by the way,
+
+25:25.200 --> 25:29.220
+is far more important than surface level diversity like race and sex.
+
+25:29.220 --> 25:32.760
+And yet the higher ups at these companies just don't see that there's a problem with
+
+25:32.760 --> 25:34.200
+how they treat conservatives.
+
+25:34.200 --> 25:37.680
+The subject of Google's ideological bent came up at the most recent shareholder meeting
+
+25:37.680 --> 25:38.680
+in June.
+
+25:38.680 --> 25:42.320
+A shareholder asked executives whether conservatives would feel welcome at the company.
+
+25:42.320 --> 25:44.320
+Executives disagreed with the idea that anyone wouldn't.
+
+25:44.320 --> 25:48.760
+The company was founded under the principles of freedom of expression, diversity, inclusiveness,
+
+25:48.760 --> 25:50.000
+and science-based thinking.
+
+25:50.000 --> 25:53.200
+You'll also find that all of the other companies in our industry agree with us.
+
+25:53.200 --> 25:56.680
+Either they're entirely unaware of their horrendous and unethical treatment of people
+
+25:56.680 --> 25:59.420
+that disagree with them, or they just simply do not care.
+
+25:59.420 --> 26:03.060
+If this doesn't stop, I think we're going to see a balkanization of the tech industry.
+
+26:03.060 --> 26:07.340
+Talented young minds, not interested in working within the oppressive atmospheres of today's
+
+26:07.340 --> 26:11.260
+Google, Twitter, Reddit, and Facebook, will flee to alternative services and startups
+
+26:11.260 --> 26:12.260
+with potential.
+
+26:12.260 --> 26:17.300
+We're already seeing it, with Vidme, Gab, Vote, and Mines springing up as viable, growing
+
+26:17.300 --> 26:18.300
+healthy alternatives.
+
+26:18.300 --> 26:22.000
+I foresee a future in which there's two sets of social media platforms.
+
+26:22.000 --> 26:26.360
+The left will define the two as reasonable people versus bigots, while the rest of us
+
+26:26.360 --> 26:29.940
+will simply see them as hard left versus everybody else.
+
+26:29.940 --> 26:34.140
+The regressive left will continue to reinforce their echo chambers, perform witch hunts,
+
+26:34.140 --> 26:38.420
+and drive people away to the remaining social media platforms dedicated to free speech.
+
+26:38.420 --> 26:42.240
+And those platforms that remain out of their ideological grasp will be branded as hate
+
+26:42.240 --> 26:44.600
+sites with no value whatsoever.
+
+26:44.600 --> 26:47.380
+Two sets of services, two internets.
+
+26:47.380 --> 26:50.360
+And this will only be bad for the current social media giants.
+
+26:50.360 --> 26:54.740
+They have everything to lose in this future, and if it happens, they'll have only themselves
+
+26:54.740 --> 27:24.560
+to blame for it.
+
+27:24.560 --> 27:29.100
+Of course, considering the upcoming balkanization of social media, now is probably a good time
+
+27:29.100 --> 27:31.560
+to start getting on some of those alternative sites.
+
+27:31.560 --> 27:35.500
+I've already got a Mines account where I post each one of these videos, under the name,
+
+27:35.500 --> 27:39.180
+you guessed it, Short Fight Otaku, and I'm going to start looking at mirroring my work
+
+27:39.180 --> 27:42.700
+on Vidme as well, because I hear that's actually a very good YouTube alternative.
+
+27:42.700 --> 27:44.620
+Alright, that about does it for me.
+
+27:44.620 --> 27:45.980
+I'll catch you later, guys.
+
+27:45.980 --> 27:46.500
+I love you.
+

@@ -1,0 +1,432 @@
+1
+00:00:00,000 --> 00:00:03,500
+Everyone and their mother right now is making jokes about the new Mac Pro.
+
+2
+00:00:03,500 --> 00:00:05,900
+Yes, it's a $6,000 cheese grater.
+
+3
+00:00:05,900 --> 00:00:08,100
+Yes, the monitor is another $5,000.
+
+4
+00:00:08,100 --> 00:00:11,200
+Yes, the stand to hold out the monitor costs another $1,000.
+
+5
+00:00:11,200 --> 00:00:14,100
+And yes, those figures are for the base model.
+
+6
+00:00:14,100 --> 00:00:16,300
+The souped-up version is more like $16,000.
+
+7
+00:00:16,300 --> 00:00:18,800
+It's not that the new Mac Pro is unimpressive.
+
+8
+00:00:18,800 --> 00:00:21,800
+The actual hardware inside is not top-tier, but it's pretty close.
+
+9
+00:00:21,800 --> 00:00:25,100
+And the monitor having 6K capabilities is pretty phenomenal.
+
+10
+00:00:25,100 --> 00:00:27,800
+But a PC with these stats would cost half the price.
+
+11
+00:00:27,800 --> 00:00:32,700
+And it's no surprise to anyone that after Apple got thwomped by Microsoft in the 1990s,
+
+12
+00:00:32,700 --> 00:00:35,900
+and they attached some chrome plating to track the hipsters over,
+
+13
+00:00:35,900 --> 00:00:38,500
+that when you buy Apple, you're largely buying a brand.
+
+14
+00:00:38,500 --> 00:00:43,400
+That's why when I needed to use Mac-only software, I ran a Hackintosh for two years.
+
+15
+00:00:43,400 --> 00:00:48,600
+A Hackintosh, for those of you unaware, is when you use PC hardware and run Mac OS on it.
+
+16
+00:00:48,600 --> 00:00:52,300
+It takes some tinkering to get working, but it's a lot cheaper than buying an actual Mac.
+
+17
+00:00:52,300 --> 00:00:56,300
+I actually recorded an old vlog about the creation of my Hackintosh back when I did it,
+
+18
+00:00:56,300 --> 00:00:58,600
+that I was too lazy to put up.
+
+19
+00:00:58,600 --> 00:01:01,400
+Is there any actual real interest in seeing it with you guys?
+
+20
+00:01:01,400 --> 00:01:02,500
+Should I actually put it up?
+
+21
+00:01:02,500 --> 00:01:07,500
+Anyway, my point is, when you're building a PC, you have near-infinite levels of customizability.
+
+22
+00:01:07,500 --> 00:01:11,800
+But Macs are, as a regular viewer once described them in my stream chat as,
+
+23
+00:01:11,800 --> 00:01:14,200
+luxury Ledite appliances.
+
+24
+00:01:14,200 --> 00:01:15,500
+That's pretty good, dude, thanks.
+
+25
+00:01:15,500 --> 00:01:19,400
+There's not much in the way of tinkering around inside of Apple products.
+
+26
+00:01:19,400 --> 00:01:21,000
+At least not very easily.
+
+27
+00:01:21,000 --> 00:01:25,600
+And that's by Apple's design, so that you have to go through their expensive repair services.
+
+28
+00:01:25,600 --> 00:01:31,000
+That's why the right-to-repair legal battle often centers around things like iPhones and whatever.
+
+29
+00:01:31,000 --> 00:01:36,700
+Apple would prefer that you think of everything they sell as a magic box, with unknowable arcane contents.
+
+30
+00:01:36,700 --> 00:01:41,600
+Something that you can't simply tinker with yourself to repair, but must be handed off to their experts.
+
+31
+00:01:41,600 --> 00:01:43,800
+Or better yet, simply replaced for something new.
+
+32
+00:01:43,800 --> 00:01:48,100
+This is the same reason why the Geek Squad still maintains a tiny niche market among the boomers.
+
+33
+00:01:48,100 --> 00:01:52,000
+Where they'll charge you hundreds of bucks to reset a Windows password, another bullshit like that.
+
+34
+00:01:52,000 --> 00:01:54,700
+A boomer probably knows how to do maintenance on his own car,
+
+35
+00:01:54,700 --> 00:01:58,800
+or at the very least understands that you can pop the hood and take a look at the inner workings.
+
+36
+00:01:58,800 --> 00:01:59,700
+But a computer?
+
+37
+00:01:59,700 --> 00:02:04,600
+It might as well be an ancient black obelisk that only the Best Buy shamans can commune with.
+
+38
+00:02:04,600 --> 00:02:08,400
+And the car analogy really does describe the stunt that Apple's trying to pull.
+
+39
+00:02:08,400 --> 00:02:11,300
+With a car, everything on the inside is relatively accessible.
+
+40
+00:02:11,300 --> 00:02:15,100
+And there's a thriving culture around do-it-yourself vehicle mods and repairs.
+
+41
+00:02:15,100 --> 00:02:16,600
+With computers, not so much.
+
+42
+00:02:16,600 --> 00:02:18,600
+And Apple capitalizes on that ignorance.
+
+43
+00:02:18,600 --> 00:02:21,900
+An Apple car would quite literally have no way to repair it.
+
+44
+00:02:21,900 --> 00:02:25,800
+And an Apple mechanic would simply tell you to shell out for a new one like you're an easy mark.
+
+45
+00:02:25,800 --> 00:02:30,400
+And the coastal elites, the hipsters and the journos and the social justice Apples, they all fall for it.
+
+46
+00:02:30,400 --> 00:02:31,500
+Hook, line and sinker.
+
+47
+00:02:31,500 --> 00:02:37,000
+For being members of the working class, they sure can't afford to buy wildly overpriced garbage.
+
+48
+00:02:37,000 --> 00:02:40,600
+And Apple, for being such a socially left company that they proudly declare,
+
+49
+00:02:40,600 --> 00:02:42,600
+hate has no place on our platforms.
+
+50
+00:02:42,600 --> 00:02:46,500
+They've got no problem with exploiting brown third-worlders in their sweatshops,
+
+51
+00:02:46,500 --> 00:02:49,800
+making Apple products in order to mark them up about 10,000%
+
+52
+00:02:49,800 --> 00:02:54,200
+and then sell them to rich kid communists who see absolutely no problem with what they're doing.
+
+53
+00:02:54,200 --> 00:02:56,000
+It's all just a gigantic circle jerk.
+
+54
+00:02:56,000 --> 00:02:58,900
+SJWs talk about how progressive and morally superior they are,
+
+55
+00:02:58,900 --> 00:03:01,300
+as they support business models they claim to oppose.
+
+56
+00:03:01,300 --> 00:03:06,100
+Companies virtue signal in the press and fake progressivism to try and sell more of their product,
+
+57
+00:03:06,100 --> 00:03:10,300
+all the while never truly bringing their business practices into line with their stated goals.
+
+58
+00:03:10,300 --> 00:03:15,200
+Nobody cares when Apple talks about hate speech or Google slaps a pride flag on their search engine,
+
+59
+00:03:15,200 --> 00:03:16,700
+because we all know it's a smokescreen.
+
+60
+00:03:16,700 --> 00:03:17,400
+It's a lie.
+
+61
+00:03:17,400 --> 00:03:20,800
+It's a calculated tactic to get social justice idiots to give them more money.
+
+62
+00:03:20,800 --> 00:03:24,700
+And it works because of Apple's design philosophy, and the sneaky sleight of hand they use along with it.
+
+63
+00:03:24,700 --> 00:03:27,300
+When you look at an Apple product, especially some of their earlier stuff,
+
+64
+00:03:27,300 --> 00:03:30,900
+you can see why the transition from educational tool to hipster paradise worked.
+
+65
+00:03:30,900 --> 00:03:34,700
+The iPod, the iPhone, and iMac all have a sleek feel to them.
+
+66
+00:03:34,700 --> 00:03:37,500
+There's a simplicity to the buttons and the on-screen interfaces.
+
+67
+00:03:37,500 --> 00:03:40,000
+You know exactly what everything does just by looking at it.
+
+68
+00:03:40,000 --> 00:03:43,600
+This allows Apple products to be accessible, cross-language, cross-culture,
+
+69
+00:03:43,600 --> 00:03:45,000
+even with the technologically illiterate.
+
+70
+00:03:45,000 --> 00:03:50,100
+But the process of simplification has also been smoothing nuance out of the conversation at Apple for a long time now.
+
+71
+00:03:50,100 --> 00:03:53,200
+There's no room to modify an Apple device, because who knows how it works.
+
+72
+00:03:53,200 --> 00:03:57,300
+You can't repair it if it breaks, it's so simple either it works or it doesn't, and that's that.
+
+73
+00:03:57,300 --> 00:04:01,300
+And if you try, well, expect the entire weight of Apple to come down on you,
+
+74
+00:04:01,300 --> 00:04:06,000
+because they don't want anybody breaking the illusion that their products aren't simply enchanted talismans,
+
+75
+00:04:06,000 --> 00:04:08,200
+but have knowable constituent parts.
+
+76
+00:04:08,200 --> 00:04:10,900
+Which is hilarious, by the way, considering that the new Mac Pro
+
+77
+00:04:10,900 --> 00:04:16,800
+does actually include industry-standard PCIe ports alongside their own proprietary GPU option.
+
+78
+00:04:16,800 --> 00:04:22,200
+Now, if you could simply open the computer up, put in a GeForce or a Radeon graphics card into one of those PCIes,
+
+79
+00:04:22,200 --> 00:04:26,200
+then you'd be fine, but the minute you open an Apple machine, you void the warranty.
+
+80
+00:04:26,200 --> 00:04:31,300
+So instead, you get stuck with Apple's aging proprietary GPU models that will likely never get updated,
+
+81
+00:04:31,300 --> 00:04:36,000
+or you can pay out the ass to have a certified Apple tech install an industry-standard graphics card,
+
+82
+00:04:36,000 --> 00:04:38,100
+at triple the PC price because you're a sucker.
+
+83
+00:04:38,100 --> 00:04:41,900
+And all those suckers that lap this nonsense up are precisely the types of people
+
+84
+00:04:41,900 --> 00:04:45,000
+who are fine with dumbing down everything else in their lives.
+
+85
+00:04:45,000 --> 00:04:49,000
+The over-reliance on simplistic IKEA constructions for furniture, for example,
+
+86
+00:04:49,000 --> 00:04:53,300
+or buying everything they can off Amazon because Amazon Prime is just so convenient,
+
+87
+00:04:53,300 --> 00:04:56,100
+over-consumption of fast food or other unhealthy options,
+
+88
+00:04:56,100 --> 00:04:58,700
+while claiming that their poor health is due to genetic factors,
+
+89
+00:04:58,700 --> 00:05:03,300
+a failure to understand any type of living that isn't centered on California or New York,
+
+90
+00:05:03,300 --> 00:05:07,300
+the tendency to reduce politics to an it's-us-or-them zero-sum game,
+
+91
+00:05:07,300 --> 00:05:11,100
+where you're either a progressive SJW or you're a fascist, there's no middle ground.
+
+92
+00:05:11,100 --> 00:05:14,100
+I'm not saying there's no room for convenience in life, there obviously is,
+
+93
+00:05:14,100 --> 00:05:19,700
+but the people that Apple products appeal to are the people who consistently take the easiest and shallowest routes throughout their life,
+
+94
+00:05:19,700 --> 00:05:23,200
+and then blame the state of the world and of themselves on everything else around them,
+
+95
+00:05:23,200 --> 00:05:26,900
+failing to fully realize both the poor consequences of their poor choices,
+
+96
+00:05:26,900 --> 00:05:31,700
+and that most of their problems would be solved by not taking the path of least resistance every single time.
+
+97
+00:05:31,700 --> 00:05:35,400
+In other words, unlike all of the other elements of Apple's design philosophy,
+
+98
+00:05:35,400 --> 00:05:38,500
+freedom can't be simplified away, it's too complex.
+
+99
+00:05:38,500 --> 00:05:40,600
+Social justice is what you get when you try.
+
+100
+00:05:40,600 --> 00:05:42,500
+Unlike most other companies right now,
+
+101
+00:05:42,500 --> 00:05:46,300
+I'd argue that Chick-fil-A is actually following their personal morality at this point,
+
+102
+00:05:46,300 --> 00:05:48,000
+and operating beyond profit.
+
+103
+00:05:48,000 --> 00:05:51,300
+I don't agree at all with Chick-fil-A's stance on gay people,
+
+104
+00:05:51,300 --> 00:05:57,300
+but they're not motivated solely by profit because they've stuck to it even when it's become socially unpopular to do so.
+
+105
+00:05:57,300 --> 00:06:01,200
+All of these other companies only took up the rainbow flag after it became the safe option to do so.
+
+106
+00:06:01,200 --> 00:06:04,100
+A business is only truly interested in a social cause,
+
+107
+00:06:04,100 --> 00:06:06,300
+if it's willing to lose customers to stand up for it.
+
+108
+00:06:06,300 --> 00:06:09,700
+Otherwise, it's just plain old greed wearing the SJW hat.
+

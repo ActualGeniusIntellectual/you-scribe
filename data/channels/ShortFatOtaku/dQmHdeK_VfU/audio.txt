@@ -1,0 +1,325 @@
+We all know Dlive's a scam at this point, right?
+I mean, come on, I've done a couple videos on it, people have been talking about it all
+over the place, even PewDiePie abandoned the platform to go back to YouTube.
+But there's been some weird stuff happening with it the past few months.
+I recommend you go back and actually watch my previous videos if you want context on
+this.
+But here's the basic idea.
+Three years ago, Dlive was part of the Steam blockchain.
+It seemed like it was only on that blockchain in order to learn how to build its own blockchain,
+and then once the guys behind Dlive basically stole the knowledge, they left to join the
+Lino blockchain.
+Even though Lino is, or was, its own company, there was a lot of overlapping staff with
+Dlive, and it seems like they all just came out of the same graduating year at some west
+coast school.
+Here's how Lino basically worked.
+Viewers could buy Lino, or I think in some instances earn Lino by watching other streamers.
+These came in the form of cutesy little tokens like lemons or ice creams or whatever.
+Then you could donate those things to the streamers who could then cash them out.
+However, streamers were actively encouraged by Dlive not to cash them out, but instead
+to stake them.
+The idea with staked Lino would be that you can't actually withdraw it for three months,
+but it would slowly grow.
+You would earn Lino interest.
+This was supposed to give the Lino network, and by extension Dlive, some added stability.
+The idea that there was still money in the system and there were still people invested
+in the growth of the system.
+Some people, in fact, put quite a bit of money into Lino and staked it.
+It's hard to find information on this at this point, because it's been a little while,
+but I think how it used to work would be that you had to lock in your Lino for a set amount
+of time, and then when you unlocked it, it would only slowly trickle into your account
+plus the interest.
+However, streamers could absolutely cash out the Lino using PayPal until PayPal was removed,
+and then they could do it through direct deposit into your bank.
+And aside from paying for the transfer costs, you would get the entirety of your Lino.
+Dlive wasn't taking a cut.
+They were, in fact, aiming for massive growth, presumably with the hopes that they would
+attract some kind of big investor.
+I'm sure signing with PewDiePie was also part of the plan.
+And that is exactly what ended up happening at the end of last year.
+Dlive joins the BitTorrent ecosystem and begins migration to the Tron blockchain.
+Okay, so they went from the Steemit blockchain to the Lino blockchain, and now they're
+on the Tron blockchain.
+So they were basically bought out by BitTorrent.
+Okay, fair enough.
+The whole Tron crypto thing is a more known entity than Lino ever was, and there's certainly
+a bit more confidence surrounding this.
+But then the big question was, what happens to all your Lino?
+What happens to all the people who had Lino staked in?
+How do they get their money?
+Well, here's their migration timeline.
+January 15th, 2020, the ACE Protocol Foundation will release a detailed plan to introduce
+BTT tokens to all existing Lino and Lino stakeholders.
+In quarter one of 2020, Dlive will merge its account systems with BitTorrents.
+Late quarter one 2020, the Lemon and Lino Stake systems will be updated to further integrate
+with BTT token and the Tron blockchain.
+Late quarter two 2020, deep content integration within BitTorrent and uTorrent's desktop
+and mobile clients.
+This is from the Lino website from back at the end of February 2020.
+The BTT conversion gateway is ready.
+Thank you for this amazing journey.
+Now fasten your seatbelts.
+All non-US Lino token holders who choose to exchange their Lino tokens into BitTorrent
+tokens, which are BTTs, can choose to convert their Lino tokens to BTT starting at 4 p.m.
+PST on the 24th of February, up until 1259 p.m. PST, the 14th of April.
+Each day, up until the cutoff date, Lino token holders can choose to convert their Lino tokens
+to BTT based off the average 24-hour market price on Poloniex exchange.
+So okay, since Lino was just a massively inflated token given value only by Dlive's investors,
+and the BitTorrent token is actually a crypto, they were offering some method of exchange
+up until the April 14th cutoff.
+Fair enough, that actually sounds pretty good.
+That was for non-American Lino holders, here it is for the States.
+Dlive, the foundation's partner, will accept Lino for the purchase of Lemons on the Dlive
+platform.
+Lemons is a fixed value platform currency used in Dlive and can only be used to make
+purchases and donations on the Dlive platform.
+Lemons are basically like the Twitch bits.
+On Twitch you can spend money to get bits, donate bits to streamers, and then only streamers
+can take donated bits and convert that back into money.
+And it's in those conversions between money to bits to money that Twitch takes their cut
+off the top.
+So if you were a viewer who had a bunch of Lino, your only option if you were an American
+was to basically cash out into Lemons and then donate them to somebody.
+If you were a streamer and you had a bunch of Lemons, you could still use the get paid
+function to convert those Lemons into actual money, but what would you do with your Lino?
+It really sounds like here that even as a streamer you could only take those Lino, convert
+them into Lemons, and then give them to somebody else.
+What happens to the Lino blockchain and Lino coin and stake after the migration on April
+15th?
+Beginning January 15th at 10pm, Lino blockchain validators will implement an upgrade that
+allows all Lino stake to be staked out in one day.
+That's better than three months.
+This means all stakes that have been processed before this time and after this time will
+all be staked out into Lino within one day.
+For those Lino account holders who wish to retain their Lino stake, staking rewards are
+expected to continue functioning until the cut off time.
+There haven't ever been any real staking rewards, by the way.
+The Foundation strongly recommends that all Lino stakeholders stake out before the cut
+off time.
+After the cut off time, the Foundation will no longer support the Lino blockchain and
+Lino coin or Lino stake.
+There is no assurance that Lino tokens can be transferred or that there is any value
+or functionality in the Lino blockchain after the cut off time.
+So basically, DLive was dropping Lino and switching over to BitTorrent's ecosystem.
+The Lino network and the Lino currency associated with it was going to be completely destroyed.
+Something known as, I think, coin burning.
+I'm not completely up on the whole crypto thing, but basically it was no longer going
+to be a usable currency and they were offering through a crypto exchange known as Poloniex.com
+to transfer your Lino into BTT and then presumably you could take that BTT and sell it on Poloniex
+and get dollars like you always would.
+From what I've been able to find, the exchange rate from Lino to BTT and then from BTT to
+dollars is approximately the same as the old exchange rate of directly cashing out
+your Lino into dollars using DLive's get paid button.
+So really, the only people who got seriously burned here are the people who were like die-hard
+DLive fans, the ones that thought that this was the future and Lino was going to be a
+big thing.
+No, it was just abandoned.
+And really, the only way you got hurt is through your ego.
+It's not like people are losing tons of money, are they?
+Well firstly, even though Lino is now a dead network and a dead currency, the site is still
+and you can still create a wallet and give them money for a currency that no longer exists.
+Maybe this site should go down, guys.
+Although it still has PewDiePie on it, so I guess they're just not paying attention
+anymore.
+But there were a few big draws of DLive back when they were really pushing it.
+One, it was the claim that they were supposedly decentralized.
+And two, that somehow through this roundabout Lino system, DLive wasn't taking a cut.
+And this fellow named Eric Wilson on his blog ran the math and realized that's no longer
+the case now that they're over on Tron.
+After BTT staking is enabled on DLive, streamers will get less of a percentage than on Twitch.
+And I think on Twitch they already get half or something?
+I didn't know anything about Tron, so I literally had to start at the ground floor.
+Friends that I greatly respect showed immediate concerns.
+I played the wait and see game.
+I absolutely believe that DLive would have folded if it weren't for Justin Sun.
+Remember that name, Justin Sun.
+They called it a partnership, but he bought them out and kept them afloat.
+So in a way it is sort of a, what does the community have to lose?
+Apparently what they have to lose is 15% more of their donations.
+And here's the spreadsheet.
+On Twitch, for 100 bits, which is worth $1 to a streamer, you pay $1.40 and it seems
+like Twitch gets a cut of 40 cents.
+So it's like 33% or 30% or something.
+I know Twitch takes a 50% cut when it comes to the sub button via the monthly Twitch subs,
+but when it comes to bits, it seems to be a little bit different.
+However, over on DLive, 88 lemons, which is worth $1.06, costs $1.53.
+There's taxes, but then there's also something called a donation tax, as well as DLive's
+cut of 74 cents.
+And the streamer only gets to withdraw 79 cents.
+So DLive's old claim that they don't take a cut just isn't true anymore.
+In fact, the cut they take is bigger.
+Initially they ran everything on the lino testnet.
+Your lino points could be staked.
+It was an easy calculation.
+Every time someone donated, 9.9% of the donation went towards the community staked pot.
+What you received from stake rewards depended on the daily pot, how much total was staked,
+and how much you had staked.
+Basically, your percentage of the total staked gets that percentage of the staked pot.
+This entire time, lino was available to be purchased and sold through the lino network
+only for a flat price of 0.012 US dollars.
+I would like to add that they paid for their validators through the inflation.
+Part of that inflation was also used as content bonuses based on a bunch of math.
+Then they changed it.
+They wanted to change it to two different coins.
+Lino would be now only used for staking and rewards.
+And they added lemons as the stable coin and the donation coin of the platform, keeping
+the price the same on that.
+How it worked was 9.9% of lemon donations were converted to lino to be distributed to
+stakeholders.
+What happened then was obvious and very predictable.
+This platform was full of streamers.
+It is very, very top heavy of streamers compared to viewers, having many content creators without
+the large content consumption audience.
+The reason this is such a big deal is much of the donations were between stakeholders
+who were also getting donations and staked rewards.
+People were using their staked rewards to donate to other streamers.
+Once they changed it to lino and lemons, however, the liquid lemons used to donate were drying
+up because 9.9% of the lemons were essentially burned and converted to lino every time it
+was donated, taking the liquidity out of the available donations.
+Then the only way you could get more lemons was to be donated them or buy them.
+Everyone paying attention could see what was happening.
+Donations were slowing down and continued to drop.
+I can only assume that when they changed over to lemons, it was their hope that purchases
+of lemons would outpace their need to pay for servers and paying out to streamers.
+I felt, even then when things were sort of exciting, the end was near.
+Several articles from over a year ago where people asked Charles Wayne, one of the guys
+behind this whole thing, how he planned for this operation to be profitable, he basically
+said that in the short term he didn't.
+He wanted to focus on massive short term growth in order to attract an investor that would
+hopefully buy his company.
+And as we can see, this was the logical end result of that.
+They basically started running out of money.
+But now that the percentage of donations that went to staking rewards was up from 9.9% to
+25%, that is more money for the community.
+No it's not.
+That's more money for BTT holders, which very likely is mostly Justin's son.
+BTT has been available for over a year.
+BTT holders are largely outside the platform.
+And this next little bit here is from the BTT whitepaper.
+BTT token issuance, we will create a total supply of 99 trillion BTT.
+Public sale tokens constitute 6% of total token supply.
+Private sale tokens constitute 2% of total token supply.
+Bittorrent team and the Bittorrent foundation were at 19%, the Tron foundation got 20%,
+the Bittorrent ecosystem is allocated 19%, and partnership tokens constitute 4%.
+So basically, as the Lino token was being spread around and people were starting to
+get more and more of it, they decided to switch to this previously created token system where
+a large chunk of the token is owned by some select insiders.
+Including Justin's son.
+Imagine growing your brand on Dlive, thinking you're a whale and then this happens.
+If you were in the United States during the conversion, you had to do KYC verification
+and cash out.
+If you were outside of the country, you had to use Justin's son's Poloniex exchange
+to get your BTT.
+And that's the rub, isn't it?
+Justin's son owns Poloniex.com, the only exchange that allowed you to transfer your
+Lino out into something resembling real currency.
+So yeah, if you were a Dlive streamer between January and April of this year, if you were
+in the US, you'd do KYC verification and cash out.
+If you were outside the US, you had to use Justin's son's exchange site to transfer
+your Lino into Justin's son's BTT and then try to cash that out into real money.
+And all those people who didn't do it on time, well, that money was just lost.
+It was simply kept by Dlive and most likely kept by Justin's son since he's the one
+who bought them out.
+The amount of Lino converted compared to the amount of BTT already out there is a drop
+in the bucket.
+There is no way the Dlive community is going to get any sort of majority of rewards with
+this.
+This is further centralization and protection.
+So this blog post is talking more about the centralized versus decentralized part of the
+argument when it comes to Dlive.
+And fair enough, this is further centralization and protection.
+And it completely goes against the Dlive that we were all sold.
+However, personally, I'm a bit more interested in the part of the conversation where Justin
+sunlines his own pockets.
+Here's a testimonial by somebody who, during the actual proper cash out period for Lino,
+was trying to do just that.
+They forced us to lock our Lino points in.
+I literally just put in a request to unlock my Lino a month ago and now suddenly the Lino
+isn't worth anything.
+It claims on that page you can buy lemons with Lino, but this functionality doesn't
+actually exist.
+His website was just one giant scam.
+No different than a pump and dump.
+They got a bunch of people to give them money for worthless Lino by paying off PewDiePie
+and using his fanbase.
+And they just literally kept all the money and turned Lino into a worthless crypto that
+you have to convert into some other crypto now.
+And that does sound like what I predicted they would do about a year ago.
+They were going to blow smoke up everybody's ass about Lino, get people to drop a whole
+bunch of money on it, and then basically run away with it.
+Of course, there were ways, at least during the grace period, to turn your Lino into another
+usable crypto.
+But it was convoluted, and it involved Justin Sun taking multiple cuts and fees every step
+of the way.
+The thing is, though, this isn't the first time this has happened, and I don't mean
+just with Steemit.
+October of last year, decentralized streaming platform Dlive partners with the Theta network
+to engage users with token rewards.
+How many companies and blockchains and ecosystems is Dlive going to go through?
+The truth is, this was always going to happen.
+At some point, the people behind Dlive were going to pull the rug out from everyone else.
+What they did wasn't illegal.
+What would be illegal, at least according to current laws regarding crypto, is if they
+unilaterally massively devalued Lino, right before their acquisition by BitTorrent, basically
+leaving everyone who had money in Lino high and dry.
+They didn't quite do that.
+That would have been the best way for them to scam the maximum amount of money, but it
+also probably would have got them shut down.
+So they did the next best thing.
+They set it up so that Lino would become valueless.
+Oh, and by the way, you can still give them money for their useless token after the value
+has been set to zero for some dumb reason.
+And everyone who has Lino, well, you just have to transfer over to this new token that
+they've got going.
+Of course, the transfer will have a minor fee, don't worry about it.
+I wonder if in a year or two's time, assuming Dlive is still around, if they transfer away
+from the BitTorrent ecosystem to another blockchain, will there be another transfer fee?
+Will you once again have to use the owner of the company's proprietary software or something
+to make the transfer and there's a charge associated with that as well?
+This isn't a scam, but it is like on the very edge of being a scam.
+People are still getting paid on this site, even though it's at this point quite dead
+now that PewDiePie's off of it.
+But you're jumping through hoops, you're losing money along the way, cuts and skims off the
+top are coming left, right, and center.
+And despite their initial promise of we don't take any of your money, Dlive's actually worse
+than the big names when it comes to this sort of stuff.
+And you know, I don't think that PewDiePie actually knew about this.
+I think he just likes the idea of some kind of streaming service or a video service or
+something that's not YouTube, because YouTube is frankly pretty shit nowadays, and he took
+a chance on Dlive.
+Of course he took a chance because they offered him a big bucket full of money, but nonetheless
+he took a chance on Dlive.
+I don't think PewDiePie was being malicious, I just think he was being kind of dumb.
+No offense to the guy personally, I like his videos.
+And I think this because he's done it before.
+Here's a video of PewDiePie promoting S-Game Pro, a mobile games platform where users can
+mine their crypto by just playing the games on the platform.
+It too turned out to be a scam.
+So listen up people, PewDiePie is going to tell you about S-Game Pro, a wonderful place
+where you can mine crypto tokens just by playing some of the world's most popular mobile games.
+Play mine urn.
+Players log into the platform to chat, stream and complete PVP games.
+Winners get rewarded with highly liquid ERC20 crypto tokens.
+You can exchange SGM for other cryptos, use it to shop in the online store, get gift cards
+or cash it in for real life money.
+Plus the total supply of SGM is capped at 350 million and 139 million is already sold.
+So it's pretty popular already.
+Play mine urn with S-Game Pro.
+You know, I'm not Pewds, obviously.
+I'm sure he has a better idea of how to run his business than I ever would.
+But as an outsider looking in, as a little guy with no clout whatsoever, it really seems
+like unless he's intentionally ripping people off, and I don't think he is, he needs to
+pay a little bit more attention to what he promotes.
+Because in so far as decentralized platforms are concerned, he's batting zero for two.
+A lot of these people, Justin Sun, Charles Wayne, everyone behind Lino and Tron and Dlive,
+a lot of them are Chinese nationals who moved to the United States to go to school.
+That's not a problem in and of itself, but they've all taken Chinese money.
+All of their projects have gone through multiple funding rounds coming from Chinese angel investors
+and venture capitalists.
+And that means somewhere along the line, the PRC is involved.
+And at least to me, that is absolutely unacceptable.
+Anyway, with PewDiePie gone, Dlive is dying.
+Hopefully I won't have to do another video updating you on all of the Dlive stuff that's
+been happening, because frankly, the main social media video and streaming sites are
+bad enough.
+I don't think we need to be talking about how the tinier ones are even worse, you know?

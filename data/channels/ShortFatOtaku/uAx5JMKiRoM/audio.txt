@@ -1,0 +1,138 @@
+Oh boy, my video yesterday was I'm gonna try dlive, and today's video is dlive might be bad guys.
+If I were actually a popular youtuber, somebody would make a life comes at you fast meme out of
+this. I had heard about dlive before the whole pewdiepie thing actually. I knew it as the site
+that Ralph's kill stream took refuge on after he got his ass blacklisted from youtube. Dlive banned
+him after like one stream, where he then moved over to stream me, which a few months later cashed
+out and closed up shop. Geez, I guess you can abort the retort after all. But dlive went through
+a radical restructuring, and took on pewdiepie as a promoted content creator. Pewdiepie announced he
+would be using dlive as his exclusive home for streaming content going forward, and that he was
+giving out $50,000 in dlive's proprietary cryptocurrency, lino, as a way to draw other
+creators to the site. Dlive's technology is blockchain based, making it significantly harder
+for outside authorities to censor or regulate, and when pewdiepie made his pitch to the audience,
+he did so specifically referencing the fact that blockchain based services are better for creators.
+That endorsement, by the way, was a not so subtle jab at youtube and twitch for their draconian,
+hypocritical, murky, and arbitrarily enforced policies on things like copyrighted content,
+community guidelines, and hate speech. There's a rumor floating around, though,
+that dlive's a pyramid scheme. Well, let's take a look.
+Dlive declined to comment on how the company expects to earn money.
+We are growing fast. Monetizing is not in our short term plans. Our sole focus is on growth.
+Really? Well, that sounds a bit strange, doesn't it?
+The fellow who made that statement is Wilson Wei, the CEO of the lino network.
+Considering that the lino network is run by a bunch of Chinese students who attended
+UFC Berkeley, and dlive's CEO was the president of the Chinese Entrepreneurial Association at
+UFC Berkeley while they were all at school there, it's probably no surprise these guys
+all decided to work together. Wei, even though he's the CEO of the
+lino network, was also responsible for the development of dlive's streaming features,
+which he posted about on his public blog. And other lino network employees have also
+worked on dlive. Basically, despite dlive and the lino network being two different
+companies with two different CEOs, they have got largely the same staff.
+But Wei, you're really not looking to monetize? I mean, you've taken in 20 million dollars of
+surprise surprise Chinese money from Zenfund, a Beijing-based venture capitalist firm.
+They've got to be expecting their investment back, right?
+A year ago, at dlive's launch, it was using a different cryptocurrency,
+steam. But dlive decided to move away from steam and adopt lino.
+Here's their statement on the matter.
+We've been monitoring the analytics, and we were not able to reward our
+content creators with the true value of their content.
+Our focus was to grow our user base and build an engaging live streaming and video
+community while growing steam as well, and deliver upvotes as evenly as possible
+during the last nine months. However, the current economic model of steam
+incentivizes large steam holders to continuously upvote their own content,
+and other creators who specifically support their content.
+This creates an ecosystem where a content's true value can't be recognized or be fairly rewarded.
+The dlive steam split happened around September 20th, 2018.
+The lino network set up shop in January of 2018.
+Remember, with the same people who run dlive under a different banner.
+They got their zenfund money in February of 2018.
+In March of 2018, dlive wrote about how awesome steam is on medium,
+and how they're running experiments on the platform.
+In May of 2018, the lino team, including recognizable faces from dlive,
+talks about how they're going to use blockchain to take on YouTube.
+In September of 2018, dlive swaps steam for lino as their only cryptocurrency,
+citing systemic problems with steam. Problems that, to be fair, did exist,
+and existed back in March when they claimed the platform was great.
+It seems to me that, basically, these dlive kids got into steam in order to learn how
+to build their own crypto that they could manage themselves,
+and then unceremoniously dumped steam once they obtained the knowledge they needed.
+Anyway, after the change, steam's value tanked and hasn't really recovered.
+If all of dlive's transactions are in their own proprietary lino currency,
+what's to keep that currency from crashing?
+And really, where does the money come from when you cash your lino out for real money?
+Well, it seems like you just don't get to cash it out.
+Here's dlive's terms of service.
+You understand that the lino points may not be sold and have no value.
+You understand that it is not possible to use
+the services to convert lino points into any other value.
+Lino points are solely for use in connection with the services,
+and there is no opportunity for profit.
+Lino points may not be transferred to anyone outside of the site,
+and may not be sold or otherwise converted into any value.
+So the company is washing its hands of actually letting you get real money
+to pay rent or buy groceries with, out of the lino you earn on dlive.
+Oh, also, you don't like it?
+Well, by using dlive, you waive your right to a trial by jury or a class action lawsuit.
+Let's get this straight.
+All of dlive's transactions have to happen via the company's proprietary cryptocurrency lino.
+A crypto that's managed by the lino network.
+A company legally separate from dlive, but has all the same people in it.
+Making the claim that dlive doesn't take a cut of your profits technically true,
+because dlive doesn't.
+The lino network does.
+Additionally, lino can't be reliably cashed out with the company back into real currency,
+and you have no legal claim regarding accessing your investment in their currency.
+Especially when they arbitrarily slap price controls or trade restrictions on it,
+which is something we'll get to in a bit.
+Of course, you can cash out your lino into real money on dlive using paypal,
+but the exchange rate of cashing in versus cashing out is wildly imbalanced.
+The worth of lino is arbitrarily set by the company, not by market value.
+And as it turns out, according to etherscan, a crypto tracker,
+one account holds 99.98% of all lino in existence.
+I wonder, I wonder who that is?
+Who could that be?
+Who could be holding all of the lino in the world?
+A cryptocurrency with an arbitrarily controlled value.
+No real guarantee that you will ever actually receive that value.
+And whose owner works with the streaming service that heavily pushes it.
+Also, the source code of lino includes a section allowing the owner of lino
+to arbitrarily stop the trading of lino for, you know,
+whatever reason they might want to do such a thing.
+There's no danger of the company arbitrarily deciding to no longer allow you to buy and sell
+your lino once the lino network has turned a profit from all the suckers who have bought
+into their worthless hash script, leaving you holding the bag of an untested,
+unused currency with absolutely zero value outside of the hermetically sealed
+marketplace they've created?
+No, that'll never happen.
+You're just, you're just paranoid.
+Yeah, this is starting to sound pretty shitty to me, guys.
+I don't think PewDiePie knows.
+I think he genuinely just wants an alternative to the shitty platforms that exist out there.
+I don't think he'd knowingly support something that sounds like a pyramid scheme.
+But as it turns out, the platform might be just as shitty anyway.
+Dlive's hate speech policy checks off all of the usual social justice-y boxes.
+And apparently the canary in the coal mine, Alex Jones, has already been banned off of Dlive.
+Blockchain technology is a step in the right direction,
+but not when the same old oppressive terms of service is attached to it.
+I mean, if you really want to use Dlive, just tell your audiences not to buy or trade in
+lino while you use it and accept PayPal tips or Streamlabs or something.
+But frankly, if it's got the same shitty,
+censorious terms of service as Twitch, plus the extra baggage of shady,
+nonsense garbage, why not just take your chances with Twitch?
+Maybe PewDiePie just made a giant mistake.
+Maybe he meant to join Dtube instead of Dlive and just mix it up.
+Dtube is a YouTube alternative that, like Dlive, is blockchain-based and uses cryptocurrency.
+Unlike Dlive, though, Dtube's crypto monetization does not seem to be centrally controlled with a
+kill switch on it, and Dtube has taken a strong free speech stance in its content moderation policy.
+And Dtube was heavily courting PewDiePie just before he announced he was coming over to Dlive.
+I mean, probably not, but it's hilarious to think Pewds got the name wrong.
+In any case, Dlive just seems like the whole bitconnect thing that fell apart last year.
+I have a feeling that Dlive is going to be another very public slow-motion train wreck,
+and that really sucks because I want viable alternatives to the Silicon Valley oligarchy.
+Here's the TLDR.
+Lino is owned by a company run by people who also run Dlive.
+Dlive's transactions are all based on lino.
+Lino's value is arbitrarily set and centrally controlled by the company,
+and not only can they devalue it at the drop of a hat if it serves their financial interests to do
+so, destroying your stake in the process, they can flip a switch and stop you from trading in lino
+at any time, meaning that if you put real money into lino, you might as well just be tossing it
+into a dumpster fire. If you still want to use Dlive, use Streamlabs or something,
+do not trade in lino, and tell your viewers not to trade in lino.

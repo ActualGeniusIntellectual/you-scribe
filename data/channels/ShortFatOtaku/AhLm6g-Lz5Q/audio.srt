@@ -1,0 +1,3700 @@
+1
+00:00:00,000 --> 00:00:02,040
+Hey guys, Dev finally here with a new video.
+
+2
+00:00:02,040 --> 00:00:06,080
+I know it's been nearly two months since the last full SFO video and I apologize for
+
+3
+00:00:06,080 --> 00:00:07,080
+that.
+
+4
+00:00:07,080 --> 00:00:09,240
+Real life has kept me a bit run down recently.
+
+5
+00:00:09,240 --> 00:00:12,560
+But I'm back and I'm going to be doing my best to maintain a regular schedule.
+
+6
+00:00:12,560 --> 00:00:16,860
+While I was gone I was still working on and off on a handful of different videos.
+
+7
+00:00:16,860 --> 00:00:20,280
+One of them was on net neutrality, because it's a topic that's returned to the forefront
+
+8
+00:00:20,280 --> 00:00:23,580
+of everyone's minds in the past week and will likely stay there for the next little
+
+9
+00:00:23,580 --> 00:00:26,640
+bit due to recent and ongoing happenings on the subject.
+
+10
+00:00:26,640 --> 00:00:30,440
+However, I realized that the arguments I wanted to present in that video required that
+
+11
+00:00:30,440 --> 00:00:35,040
+I lay a rather large foundation on the topic of the pros and cons of capitalism, which
+
+12
+00:00:35,040 --> 00:00:38,600
+just so happened to be the focus of one of the other scripts I was working on during
+
+13
+00:00:38,600 --> 00:00:39,600
+the break.
+
+14
+00:00:39,600 --> 00:00:43,460
+So, let's spend this time discussing the inner workings of capitalism, and I'll put
+
+15
+00:00:43,460 --> 00:00:47,920
+out a companion piece a few days after this video goes live on net neutrality, using this
+
+16
+00:00:47,920 --> 00:00:51,960
+video as a basis for it and feeding us into that conversation as best I can.
+
+17
+00:00:51,960 --> 00:00:57,040
+The premise I'm starting with is that capitalism is the single most successful, prosperous,
+
+18
+00:00:57,040 --> 00:01:00,500
+egalitarian, and robust economic system in human history.
+
+19
+00:01:00,500 --> 00:01:04,700
+We need to examine not only how this can be so, but why it is so.
+
+20
+00:01:04,700 --> 00:01:08,520
+And coming to this understanding is going to require us not only to examine the positives
+
+21
+00:01:08,520 --> 00:01:12,660
+and negatives of capitalism, but also the positives and negatives of a few of its main
+
+22
+00:01:12,660 --> 00:01:18,880
+historical competitors, namely socialism, communism, feudalism, fascism, and anarchism.
+
+23
+00:01:18,880 --> 00:01:21,840
+Now that's a lot to unpack, so please bear with me a bit.
+
+24
+00:01:21,840 --> 00:01:24,720
+Let's start with a few basic definitions, to set things up.
+
+25
+00:01:24,720 --> 00:01:29,160
+I'll pull these first two from Wikipedia, yes, I know, but for our purposes they will
+
+26
+00:01:29,160 --> 00:01:30,160
+do.
+
+27
+00:01:30,160 --> 00:01:34,800
+A social system can be reasonably defined as a patterned network of relationships constituting
+
+28
+00:01:34,800 --> 00:01:38,640
+a coherent whole that exists between individuals, groups, and institutions.
+
+29
+00:01:38,640 --> 00:01:42,520
+An individual may belong to multiple social systems at once.
+
+30
+00:01:42,520 --> 00:01:47,560
+Examples of social systems include nuclear family units, communities, cities, nations,
+
+31
+00:01:47,560 --> 00:01:50,440
+college campuses, corporations, and industries.
+
+32
+00:01:50,440 --> 00:01:55,240
+The organization and definition of groups within a social system depend on various shared
+
+33
+00:01:55,240 --> 00:02:01,300
+characteristics such as location, socioeconomic status, race, religion, societal function,
+
+34
+00:02:01,300 --> 00:02:02,980
+or other distinguishable features.
+
+35
+00:02:02,980 --> 00:02:08,360
+An economic system can be reasonably defined as a system of production, resource allocation,
+
+36
+00:02:08,360 --> 00:02:12,720
+and distribution of goods and services within a society or a given geographic area.
+
+37
+00:02:12,720 --> 00:02:18,040
+It includes the combination of the various institutions, agencies, entities, decision
+
+38
+00:02:18,040 --> 00:02:22,420
+making processes, and patterns of consumption that comprise the economic structure of a
+
+39
+00:02:22,420 --> 00:02:24,300
+given community.
+
+40
+00:02:24,300 --> 00:02:27,340
+As such, an economic system is a type of social system.
+
+41
+00:02:27,340 --> 00:02:31,100
+From these definitions we can glean that a social system is an area of human interpersonal
+
+42
+00:02:31,100 --> 00:02:33,720
+behavior that governs a specific part of society.
+
+43
+00:02:33,720 --> 00:02:37,800
+An economic system is a type of social system that governs finance and production, just
+
+44
+00:02:37,800 --> 00:02:42,200
+like a legal system is a type of social system that governs law and order, and the same goes
+
+45
+00:02:42,200 --> 00:02:44,820
+for political systems, cultural systems, and so on.
+
+46
+00:02:44,820 --> 00:02:46,680
+This stuff becomes pretty obvious when you think about it.
+
+47
+00:02:46,680 --> 00:02:52,600
+We can also define our end goal for any given social system being in the service of humanity,
+
+48
+00:02:52,600 --> 00:02:57,700
+meaning a functioning social system must serve the needs of as many people as possible, with
+
+49
+00:02:57,700 --> 00:03:02,300
+a social system being considered more functional than its competitors if it is capable of serving
+
+50
+00:03:02,300 --> 00:03:06,480
+more people, serving the same number of people more efficiently, or serving the same number
+
+51
+00:03:06,480 --> 00:03:09,680
+of people with the same efficiency, but at a higher quality.
+
+52
+00:03:09,680 --> 00:03:11,800
+So quality, quantity, and efficiency.
+
+53
+00:03:11,800 --> 00:03:14,620
+Now I don't mean this in the strictest of utilitarian terms.
+
+54
+00:03:14,620 --> 00:03:19,080
+In my video titled When Is Political Violence Acceptable, I do spend some time picking apart
+
+55
+00:03:19,080 --> 00:03:20,080
+utilitarian ethics.
+
+56
+00:03:20,080 --> 00:03:21,780
+But let me give you the cliff notes here.
+
+57
+00:03:21,780 --> 00:03:26,120
+The idea of the greatest good for the greatest number of people sounds moral at a glance,
+
+58
+00:03:26,120 --> 00:03:29,320
+but there is no safeguard in place for the people that fall outside the bounds of the
+
+59
+00:03:29,320 --> 00:03:30,320
+greatest number.
+
+60
+00:03:30,320 --> 00:03:33,520
+This is what is commonly referred to as the tyranny of the majority.
+
+61
+00:03:33,520 --> 00:03:37,880
+If you want a simplistic example of the failure of utilitarian ethics, there is always bike
+
+62
+00:03:37,880 --> 00:03:38,880
+cuck.
+
+63
+00:03:38,880 --> 00:03:42,520
+In any case, this is not what I mean when I say that a social system needs to be in
+
+64
+00:03:42,520 --> 00:03:43,920
+the service of humanity.
+
+65
+00:03:43,920 --> 00:03:48,180
+While it's true that no social system can adequately protect the rights of, and provide
+
+66
+00:03:48,180 --> 00:03:52,800
+prosperity for, every single human being, it also cannot actively work to violate the
+
+67
+00:03:52,800 --> 00:03:57,720
+rights of, or inhibit the prosperity of people not within the system, at least not without
+
+68
+00:03:57,720 --> 00:03:59,200
+sufficient provocation.
+
+69
+00:03:59,200 --> 00:04:02,560
+Now there are some people who don't actually agree with me on this starting point.
+
+70
+00:04:02,560 --> 00:04:05,840
+A good example of those people would be the hardline multiculturalists.
+
+71
+00:04:05,840 --> 00:04:08,760
+When the claim is made that all cultures are basically the same, that they all have
+
+72
+00:04:08,760 --> 00:04:13,280
+the same value, and that a nation is not intrinsically tied to its national cultures but instead
+
+73
+00:04:13,280 --> 00:04:17,680
+to all cultures of the world, on an equal basis regardless of population demographics
+
+74
+00:04:17,680 --> 00:04:22,000
+or language or history or anything else that exists in reality, this is a rejection of
+
+75
+00:04:22,000 --> 00:04:25,640
+the idea that a social system must prioritize people within the system.
+
+76
+00:04:25,640 --> 00:04:29,200
+And there's not really an easy way to bridge the gap between these two points of view.
+
+77
+00:04:29,200 --> 00:04:32,720
+I mean, what's the point of having a social system if the bloody thing doesn't perform
+
+78
+00:04:32,720 --> 00:04:35,480
+its work primarily for the benefits of those invested in it?
+
+79
+00:04:35,480 --> 00:04:39,640
+The multicultural point of view is that any social system must equally accommodate all
+
+80
+00:04:39,640 --> 00:04:44,360
+people regardless of their participation in the system, and this idea is both impractical
+
+81
+00:04:44,360 --> 00:04:45,360
+and untenable.
+
+82
+00:04:45,360 --> 00:04:49,200
+I mean, you can't continuously withdraw from society more than you deposit, any more
+
+83
+00:04:49,200 --> 00:04:50,800
+than you can do so from a bank.
+
+84
+00:04:50,800 --> 00:04:54,240
+But then again, I don't think that these people have ever had to balance a budget.
+
+85
+00:04:54,240 --> 00:04:57,840
+So maybe I'm not so surprised that they think that piling on unrelenting burden is
+
+86
+00:04:57,840 --> 00:04:59,680
+how social systems should work.
+
+87
+00:04:59,680 --> 00:05:04,800
+But if we do accept the idea that a good social system must prioritize an in-group while still
+
+88
+00:05:04,800 --> 00:05:09,080
+not causing harm towards an out-group, that gives us a way to measure the relative effectiveness
+
+89
+00:05:09,080 --> 00:05:11,560
+of the six economic systems I listed off earlier.
+
+90
+00:05:11,560 --> 00:05:13,960
+Let's knock off some of the simple ones right away.
+
+91
+00:05:13,960 --> 00:05:15,900
+On anarchism.
+
+92
+00:05:15,900 --> 00:05:20,160
+Anarchism as an economic system, or really as any form of social system, is a complete
+
+93
+00:05:20,160 --> 00:05:21,160
+joke.
+
+94
+00:05:21,160 --> 00:05:22,160
+It doesn't work.
+
+95
+00:05:22,160 --> 00:05:23,160
+It never will.
+
+96
+00:05:23,160 --> 00:05:25,880
+I honestly don't think that the anarchists have any idea about the nature of humanity.
+
+97
+00:05:25,880 --> 00:05:30,720
+I can simply say, go read On the Social Contract, and despite the flaws in that book, this is
+
+98
+00:05:30,720 --> 00:05:34,600
+basically all the refutation anybody needs to throw all flavors of anarchism out the
+
+99
+00:05:34,600 --> 00:05:35,600
+window.
+
+100
+00:05:35,600 --> 00:05:39,560
+Anarchism describes a stateless society, where there is no government, no power structure,
+
+101
+00:05:39,560 --> 00:05:40,560
+and no nation.
+
+102
+00:05:40,560 --> 00:05:44,080
+And if this society ever manages to come to fruition, it will be promptly flattened by
+
+103
+00:05:44,080 --> 00:05:48,520
+the next society over that decides to actually unify into any type of fighting force, because
+
+104
+00:05:48,520 --> 00:05:51,720
+a stateless anarchist society will be entirely defenseless.
+
+105
+00:05:51,720 --> 00:05:55,880
+But that doesn't even matter, because when you even get just two human beings together,
+
+106
+00:05:55,880 --> 00:06:00,600
+there needs to be some form of self-mediation between them, some basis by which they recognize
+
+107
+00:06:00,600 --> 00:06:02,180
+each other on some level.
+
+108
+00:06:02,180 --> 00:06:07,240
+Even the most primitive, ass-backwards, uncontacted tribes have a power structure, a chief of
+
+109
+00:06:07,240 --> 00:06:11,360
+some kind directing the others, because as it turns out, organization and specialization
+
+110
+00:06:11,360 --> 00:06:15,480
+are good things for society, and an anarchist society by its very definition lacks those
+
+111
+00:06:15,480 --> 00:06:16,480
+virtues.
+
+112
+00:06:16,480 --> 00:06:19,960
+If you want to see anarchy in action, go watch The Thinkery's video on Slab City, and if
+
+113
+00:06:19,960 --> 00:06:23,400
+you want to get angry about it, realize that these people take food stamps from the US
+
+114
+00:06:23,400 --> 00:06:26,680
+government so they can live in houses made of scrap metal in the middle of the desert
+
+115
+00:06:26,680 --> 00:06:28,840
+and spend their time destroying other people's shit.
+
+116
+00:06:28,840 --> 00:06:30,520
+Anyway, it's time for judgement.
+
+117
+00:06:30,520 --> 00:06:34,920
+Remember our criteria, we can judge a social system if it provides for its in-group while
+
+118
+00:06:34,920 --> 00:06:39,020
+protecting the rights of its out-group in its given field, which is, in this case, finance
+
+119
+00:06:39,020 --> 00:06:40,020
+and production.
+
+120
+00:06:40,020 --> 00:06:41,160
+Does anarchism do this?
+
+121
+00:06:41,160 --> 00:06:43,200
+The answer is a resounding no.
+
+122
+00:06:43,200 --> 00:06:46,720
+Not only does it fail to do this, it fails to exist in any meaningful way.
+
+123
+00:06:46,720 --> 00:06:50,840
+And should an anarchist society ever actually exist, it will likely be the result of a massive
+
+124
+00:06:50,840 --> 00:06:54,980
+nuclear holocaust where entire continents are on fire and the few dozen remaining members
+
+125
+00:06:54,980 --> 00:06:57,920
+of humanity are spending their final moments eating each other because the Earth can no
+
+126
+00:06:57,920 --> 00:06:59,500
+longer support life.
+
+127
+00:06:59,500 --> 00:07:00,720
+On feudalism.
+
+128
+00:07:00,720 --> 00:07:04,580
+The case for feudalism as an economic system is another of the weaker ones on the list.
+
+129
+00:07:04,580 --> 00:07:08,780
+Put very simply, feudalism was a system where the noble class owned land within a kingdom
+
+130
+00:07:08,780 --> 00:07:12,340
+and peasants worked the land in exchange for the right to live on it and subsist off of
+
+131
+00:07:12,340 --> 00:07:13,340
+it.
+
+132
+00:07:13,340 --> 00:07:16,460
+Any excess value that peasantry managed to pull from the land would almost never actually
+
+133
+00:07:16,460 --> 00:07:20,580
+stay in the hands of the peasantry, but return to the nobles who owned the land.
+
+134
+00:07:20,580 --> 00:07:24,060
+Feudalism failed when the Black Plague hollowed out Europe, removing most of the serfs from
+
+135
+00:07:24,060 --> 00:07:28,100
+the equation altogether, as well as a shift in policy away from nobility maintaining their
+
+136
+00:07:28,100 --> 00:07:32,740
+own men-at-arms loyal to them and threw them to the crown and towards a more centralized
+
+137
+00:07:32,740 --> 00:07:34,500
+professional military.
+
+138
+00:07:34,500 --> 00:07:38,820
+Feudalism did manage to last until the mid-1800s in Russia, however, which would have a huge
+
+139
+00:07:38,820 --> 00:07:42,060
+impact on communism in that country, but that's for later.
+
+140
+00:07:42,060 --> 00:07:46,560
+So as an economic system, does feudalism provide for the largest number of people possible
+
+141
+00:07:46,560 --> 00:07:50,820
+while still not harming those outside of its system within the sphere of finance and economics?
+
+142
+00:07:50,820 --> 00:07:53,180
+The answer is again obviously no.
+
+143
+00:07:53,180 --> 00:07:58,520
+The out-group, the serfs, vastly outnumbered the in-group, the nobles, and they lived lives
+
+144
+00:07:58,520 --> 00:08:02,540
+of multi-generational indentured servitude with no possibility of personal freedom or
+
+145
+00:08:02,540 --> 00:08:04,100
+social advancement.
+
+146
+00:08:04,100 --> 00:08:07,640
+Feudalism was specifically designed to restrict the lives of its out-group as much as possible
+
+147
+00:08:07,640 --> 00:08:10,420
+in order to keep them working for the benefit of the in-group.
+
+148
+00:08:10,420 --> 00:08:14,780
+We can safely classify it as a failure, though this time at least it didn't require reducing
+
+149
+00:08:14,780 --> 00:08:18,200
+the planet to a ball of ash in order for it to exist.
+
+150
+00:08:19,200 --> 00:08:23,680
+The critique of fascism is a bit more complex than the previous two.
+
+151
+00:08:23,680 --> 00:08:27,880
+Fascism is not only an economic system, but also a political system that exists as a form
+
+152
+00:08:27,880 --> 00:08:28,880
+of hyper-nationalism.
+
+153
+00:08:28,880 --> 00:08:35,080
+Nationalism, as a social system, is not always a bad thing, but when it turns bad, it generally
+
+154
+00:08:35,080 --> 00:08:37,680
+morphs into some form of fascism.
+
+155
+00:08:37,680 --> 00:08:41,940
+Fascism prioritizes all-encompassing state control over every single social system.
+
+156
+00:08:41,940 --> 00:08:45,680
+The political system must be fascist, in order to maintain political power and direct the
+
+157
+00:08:45,680 --> 00:08:46,680
+nation.
+
+158
+00:08:46,680 --> 00:08:50,240
+The economic system must be fascist, in order to micromanage the economy for the betterment
+
+159
+00:08:50,240 --> 00:08:51,240
+of the state.
+
+160
+00:08:51,240 --> 00:08:55,040
+The cultural system must be fascist, in order to indoctrinate the people of the nation through
+
+161
+00:08:55,040 --> 00:08:56,040
+propaganda.
+
+162
+00:08:56,040 --> 00:09:00,240
+The military system must be fascist, as fascism values a state of total war, where the distinction
+
+163
+00:09:00,240 --> 00:09:05,440
+between military and civilian disappears, and all production, all people, all economics
+
+164
+00:09:05,440 --> 00:09:10,440
+and trade and art and everything else that exists is made to serve the war effort.
+
+165
+00:09:10,440 --> 00:09:14,520
+Fascism is ultimately totalitarian in nature because by its own definition it must control
+
+166
+00:09:14,520 --> 00:09:15,720
+and govern everything.
+
+167
+00:09:15,760 --> 00:09:20,360
+Oh, and for those of you calling the modern alt-right fascists or Nazis, you might want
+
+168
+00:09:20,360 --> 00:09:24,240
+to re-listen to the definition of fascism as a social system that I just gave you.
+
+169
+00:09:24,240 --> 00:09:28,460
+I very rarely agree with the alt-right, but they do not meet the definition of fascism,
+
+170
+00:09:28,460 --> 00:09:29,780
+on multiple criteria.
+
+171
+00:09:29,780 --> 00:09:32,240
+So let's talk fascist economics.
+
+172
+00:09:32,240 --> 00:09:35,920
+In Alfred Rocco's The Political Doctrine of Fascism, Rocco writes,
+
+173
+00:09:45,720 --> 00:09:49,800
+it considers the economic development, and especially the production of wealth, as an
+
+174
+00:09:49,800 --> 00:09:54,480
+eminently social concern, wealth being for society an essential element of power and
+
+175
+00:09:54,480 --> 00:09:55,480
+prosperity.
+
+176
+00:09:55,480 --> 00:09:58,720
+But fascism maintains that in the ordinary run of events economic liberty serves the
+
+177
+00:09:58,720 --> 00:10:03,300
+social purposes best, that it is profitable to entrust to individual initiative the task
+
+178
+00:10:03,300 --> 00:10:07,580
+of economic development both as to production and as to distribution, that in the economic
+
+179
+00:10:07,580 --> 00:10:12,000
+world individual ambition is the most effective means for obtaining the best social results
+
+180
+00:10:12,000 --> 00:10:13,240
+with the least effort.
+
+181
+00:10:13,240 --> 00:10:17,240
+Therefore on the question also of economic liberty the fascists differ fundamentally
+
+182
+00:10:17,240 --> 00:10:18,400
+from the liberals.
+
+183
+00:10:18,400 --> 00:10:22,560
+The liberals see in liberty a principle, the fascists accept it as a method.
+
+184
+00:10:22,560 --> 00:10:25,680
+By the liberals, freedom is recognized in the interest of the citizens.
+
+185
+00:10:25,680 --> 00:10:28,280
+The fascists grant freedom in the interest of the state.
+
+186
+00:10:28,280 --> 00:10:32,600
+In other terms, fascists make of the individual an economic instrument for the advancement
+
+187
+00:10:32,600 --> 00:10:37,200
+of society, an instrument which they use so long as it functions, in which they subordinate
+
+188
+00:10:37,200 --> 00:10:38,560
+when no longer serviceable.
+
+189
+00:10:38,560 --> 00:10:43,720
+In this guise, fascism solves the eternal problem of economic freedom and of state interference,
+
+190
+00:10:43,720 --> 00:10:47,640
+considering both as mere methods which may or may not be employed in accordance with
+
+191
+00:10:47,640 --> 00:10:49,000
+the social needs at the moment.
+
+192
+00:10:49,000 --> 00:10:52,820
+On first glance, this might sound pretty good, because hey, the fascists aren't stuck to
+
+193
+00:10:52,820 --> 00:10:56,180
+one specific economic policy, they're willing to swap things around based on what works
+
+194
+00:10:56,180 --> 00:10:57,400
+best for any given time.
+
+195
+00:10:57,400 --> 00:11:01,240
+But then you notice that they define what works best by what's best for the state,
+
+196
+00:11:01,240 --> 00:11:03,520
+and by the state they mean the government, the party.
+
+197
+00:11:03,520 --> 00:11:06,680
+And then you notice that individual rights are only respected while they're in alignment
+
+198
+00:11:06,680 --> 00:11:07,680
+with the state.
+
+199
+00:11:07,800 --> 00:11:11,520
+And then you realize that there's nothing built into fascist economics to stop the state
+
+200
+00:11:11,520 --> 00:11:14,100
+from turning on the individual when it suits them to do so.
+
+201
+00:11:14,100 --> 00:11:18,120
+Fascist economists believe that their pulling bits and pieces from capitalism and communism
+
+202
+00:11:18,120 --> 00:11:21,420
+meant that they represented a true third option to the problem of economics.
+
+203
+00:11:21,420 --> 00:11:24,940
+Unlike communists, they believed that the existence of social hierarchy was beneficial
+
+204
+00:11:24,940 --> 00:11:25,940
+to society.
+
+205
+00:11:25,940 --> 00:11:29,360
+But unlike capitalists, they believed that the government had a fundamental role to play
+
+206
+00:11:29,360 --> 00:11:32,620
+in managing the economic interactions between the various classes.
+
+207
+00:11:32,620 --> 00:11:36,740
+Like laissez-faire capitalists, they believed in social Darwinism within business, where
+
+208
+00:11:36,800 --> 00:11:41,060
+people were allowed to catastrophically fail or miraculously secede based on their own
+
+209
+00:11:41,060 --> 00:11:42,060
+merits.
+
+210
+00:11:42,060 --> 00:11:45,420
+But like socialists, they believed that a catastrophic failure in the private sector
+
+211
+00:11:45,420 --> 00:11:49,740
+set back not only the entrepreneur, but the state, and therefore the people of the nation.
+
+212
+00:11:49,740 --> 00:11:52,560
+And the entrepreneur was responsible to the collective in this regard.
+
+213
+00:11:52,560 --> 00:11:57,560
+In George Reisman's essay, Why Nazism was Socialism and Why Socialism is Totalitarian,
+
+214
+00:11:57,560 --> 00:12:02,380
+Reisman goes into great detail describing how fascist economics eventually snowballed
+
+215
+00:12:02,380 --> 00:12:06,220
+into the extreme restriction of all freedoms, not just economic but personal freedom.
+
+216
+00:12:06,220 --> 00:12:08,740
+Freedom of the press, freedom of expression, and so on.
+
+217
+00:12:08,740 --> 00:12:11,980
+It's a really interesting read, and I recommend you take a look at it, but the basic idea
+
+218
+00:12:11,980 --> 00:12:16,100
+is that Nazi Germany printed a whole bunch of excess money in order to finance its war
+
+219
+00:12:16,100 --> 00:12:17,100
+effort.
+
+220
+00:12:17,100 --> 00:12:21,740
+Dumping that much money into a free capitalist system caused hyperinflation, so in response,
+
+221
+00:12:21,740 --> 00:12:25,100
+the German government took control of most of the private businesses, and instituted
+
+222
+00:12:25,100 --> 00:12:27,580
+price controls and rationing of goods.
+
+223
+00:12:27,580 --> 00:12:30,660
+Because of the lack of freedom regarding what could be bought and sold, and at what price
+
+224
+00:12:30,660 --> 00:12:33,360
+and quantity, a large black market developed.
+
+225
+00:12:33,360 --> 00:12:37,060
+In response to the black market, the German government began issuing fines for anybody
+
+226
+00:12:37,060 --> 00:12:39,160
+caught dealing in an authorized business.
+
+227
+00:12:39,160 --> 00:12:43,480
+But the official state economy was so heavily controlled, and the black market was so profitable,
+
+228
+00:12:43,480 --> 00:12:47,560
+even excessively large fines could simply be absorbed into the huge profit margins as
+
+229
+00:12:47,560 --> 00:12:48,920
+a business expense.
+
+230
+00:12:48,920 --> 00:12:52,960
+So the German government had to set up a justice system in which the penalty for black market
+
+231
+00:12:52,960 --> 00:12:57,940
+trade was long-term incarceration or death, a secret network of spies to not only infiltrate
+
+232
+00:12:57,940 --> 00:13:01,960
+black markets but also intimidate uninvolved citizens into keeping their noses clean, and
+
+233
+00:13:01,960 --> 00:13:05,920
+a police force empowered with the authority to spend swift justice on the spot due to
+
+234
+00:13:05,920 --> 00:13:09,840
+a jury's obvious willingness to let somebody off easy for selling a couple of pounds of
+
+235
+00:13:09,840 --> 00:13:10,840
+meat.
+
+236
+00:13:10,840 --> 00:13:14,720
+And so, we now have the apparatus for the police state, which extends itself far beyond
+
+237
+00:13:14,720 --> 00:13:19,720
+economics but exists because excessive government control of an economy requires it to.
+
+238
+00:13:19,720 --> 00:13:23,560
+So, does fascism provide for the largest number of people possible within its in-group while
+
+239
+00:13:23,560 --> 00:13:27,680
+simultaneously not harming people within its out-group in the realm of finance and production?
+
+240
+00:13:27,680 --> 00:13:32,700
+Again, the answer is no, but not due to its non-existence like with anarchism, or its
+
+241
+00:13:32,700 --> 00:13:38,160
+extremely small in-group and the brutal repression of a massively large out-group like with feudalism.
+
+242
+00:13:38,160 --> 00:13:42,560
+In fact, the in-group of fascism is very well defined as the citizens of a nation.
+
+243
+00:13:42,560 --> 00:13:47,280
+The problem with fascism, as an economic system anyway, is not that it defines a large out-group
+
+244
+00:13:47,280 --> 00:13:51,200
+and then brutalizes them, but that it fails to provide for the economic well-being of
+
+245
+00:13:51,200 --> 00:13:52,840
+its large in-group.
+
+246
+00:13:52,840 --> 00:13:58,200
+Even though fascism's in-group is clearly defined, individuals within the in-group garner
+
+247
+00:13:58,200 --> 00:14:01,420
+minimal economic advantages due to their in-group membership.
+
+248
+00:14:01,420 --> 00:14:06,600
+Of course, fascism clearly does violate the rights of its well-defined minority out-groups,
+
+249
+00:14:06,600 --> 00:14:11,160
+but that has less to do with economics and more to do with other aspects of fascism.
+
+250
+00:14:11,160 --> 00:14:12,160
+On socialism.
+
+251
+00:14:12,160 --> 00:14:14,280
+Ah yes, socialism.
+
+252
+00:14:14,280 --> 00:14:17,680
+Communism's little brother, and often considered a stepping stone for a society moving from
+
+253
+00:14:17,680 --> 00:14:19,660
+capitalism to communism.
+
+254
+00:14:19,660 --> 00:14:23,300
+Socialism is defined primarily by social ownership of the means of production.
+
+255
+00:14:23,300 --> 00:14:27,260
+There are many different stripes of socialism, but they are united by the idea of social
+
+256
+00:14:27,260 --> 00:14:28,260
+ownership.
+
+257
+00:14:28,260 --> 00:14:31,060
+The means of production, for those of you who don't know, is socialist and communist
+
+258
+00:14:31,060 --> 00:14:35,620
+lingo for the factories, the farms, and the other locations, equipment, and methods used
+
+259
+00:14:35,620 --> 00:14:37,300
+to produce goods or services.
+
+260
+00:14:37,300 --> 00:14:41,660
+So, in a capitalist society, the owner of a factory would employ workers to run his
+
+261
+00:14:41,660 --> 00:14:45,940
+factory and produce the goods of the factory in exchange for a negotiated wage, which the
+
+262
+00:14:45,940 --> 00:14:48,280
+owner would then turn around and sell on the market.
+
+263
+00:14:48,280 --> 00:14:51,320
+The revenue generated from the sale of the goods would then be used to provide for the
+
+264
+00:14:51,320 --> 00:14:55,280
+wages of the workers, as well as pay the owner of the factory enough for him to live on in
+
+265
+00:14:55,280 --> 00:14:59,720
+exchange for not only the owner's ownership of the factory, but for his work in directing
+
+266
+00:14:59,720 --> 00:15:03,640
+and overseeing the production, the hiring and firing of workers, and the negotiation
+
+267
+00:15:03,640 --> 00:15:06,360
+of sale on the marketplace for his products.
+
+268
+00:15:06,360 --> 00:15:10,040
+Socialists believe that the setup is inherently unethical, that the means of production cannot
+
+269
+00:15:10,040 --> 00:15:13,400
+be privately owned by one person, but must be socially owned.
+
+270
+00:15:13,400 --> 00:15:15,320
+Well, what does social ownership entail?
+
+271
+00:15:15,320 --> 00:15:17,160
+Let's ask an actual socialist.
+
+272
+00:15:17,240 --> 00:15:20,720
+Yeah, I got into a shitty Twitter argument with this person a few months back.
+
+273
+00:15:20,720 --> 00:15:24,440
+I kept it up solely because I knew I was going to be using her stupidity in a video eventually.
+
+274
+00:15:24,440 --> 00:15:27,600
+I won't bore you with the details, you can go read it yourself if you've really gotten
+
+275
+00:15:27,600 --> 00:15:30,800
+bored with hitting your own dick with a hammer and want something a bit more painful.
+
+276
+00:15:30,800 --> 00:15:32,600
+Here's the gist of her argument.
+
+277
+00:15:32,600 --> 00:15:35,260
+Bosses at work don't actually do anything of value.
+
+278
+00:15:35,260 --> 00:15:38,360
+Workers do all the work, and management just gets fat off of it.
+
+279
+00:15:38,360 --> 00:15:42,420
+Therefore, any workplace must be socially owned, and must lack hierarchy.
+
+280
+00:15:42,420 --> 00:15:46,120
+The workers would all hold an equal ownership of the workplace, and a council of workers
+
+281
+00:15:46,120 --> 00:15:48,280
+would be elected to take the place of management.
+
+282
+00:15:48,280 --> 00:15:52,080
+The council would collectively decide every decision the workplace makes, with input from
+
+283
+00:15:52,080 --> 00:15:53,320
+the electorate of workers.
+
+284
+00:15:53,320 --> 00:15:58,000
+Oh, also, in this hypothetical dreamlike scenario, the state would not exist.
+
+285
+00:15:58,000 --> 00:16:03,240
+Yes, she was an anarcho-socialist, and that small townships and cities would have elected
+
+286
+00:16:03,240 --> 00:16:06,320
+councils to independently rule them from any federal body.
+
+287
+00:16:06,320 --> 00:16:11,080
+Which would effectively make them city-states, and would not be anarchy, but fine, whatever.
+
+288
+00:16:11,080 --> 00:16:13,680
+I don't know where to start here, this is so absolutely moronic.
+
+289
+00:16:13,680 --> 00:16:17,440
+I asked her if she believed it was inherently unethical for a boss to offer money in exchange
+
+290
+00:16:17,440 --> 00:16:18,700
+for a worker's work.
+
+291
+00:16:18,700 --> 00:16:22,800
+She said yes, because even if both the boss and the worker consent to the arrangement,
+
+292
+00:16:22,800 --> 00:16:25,820
+it's oppressive and exploitative, because it involves a power structure.
+
+293
+00:16:25,820 --> 00:16:29,940
+I asked her if it was possible for a worker to sell their partial ownership of a workplace,
+
+294
+00:16:29,940 --> 00:16:32,200
+and she said no, because money would not exist.
+
+295
+00:16:32,200 --> 00:16:36,280
+I asked her if having an elected council of workers would be too bureaucratic to function
+
+296
+00:16:36,280 --> 00:16:39,720
+during a crisis situation, where a single boss having to make a quick decision would
+
+297
+00:16:39,720 --> 00:16:40,840
+be more effective.
+
+298
+00:16:40,840 --> 00:16:41,960
+And she dodged the question.
+
+299
+00:16:42,000 --> 00:16:46,260
+I asked her if she knew that partial ownership by workers of a workplace already existed
+
+300
+00:16:46,260 --> 00:16:50,520
+in capitalism, in the form of some companies offering stock options for employees as part
+
+301
+00:16:50,520 --> 00:16:52,360
+of hiring, and she dodged the question.
+
+302
+00:16:52,360 --> 00:16:56,320
+I asked her how her rules would be enforced, which is when she mentioned those township
+
+303
+00:16:56,320 --> 00:17:00,560
+councils, and then I asked her if force would be used by these councils to prevent bosses
+
+304
+00:17:00,560 --> 00:17:04,720
+and workers willingly exchanging in barter for work simply beyond partially owning the
+
+305
+00:17:04,720 --> 00:17:06,720
+workplace, and she dodged the question.
+
+306
+00:17:06,720 --> 00:17:09,280
+But here's the most telling part of my whole exchange with her.
+
+307
+00:17:09,280 --> 00:17:11,800
+I said to her, let's pretend I'm running my own business.
+
+308
+00:17:11,800 --> 00:17:13,120
+With just me working in it.
+
+309
+00:17:13,120 --> 00:17:17,400
+If I wanted to bring on somebody to help me work, expanding my business into a two-person
+
+310
+00:17:17,400 --> 00:17:21,080
+enterprise, I would not be allowed to simply pay them out for their work, right?
+
+311
+00:17:21,080 --> 00:17:24,820
+I would have to offer this other person 50% ownership of my business?
+
+312
+00:17:24,820 --> 00:17:26,400
+She agreed, that's how it would work.
+
+313
+00:17:26,400 --> 00:17:30,160
+And then I asked her, well, what if I can't find anybody willing to work as hard as I
+
+314
+00:17:30,160 --> 00:17:31,320
+am on my business?
+
+315
+00:17:31,320 --> 00:17:35,960
+What if the business is my passion project, like say, my YouTube channel or my stream?
+
+316
+00:17:35,960 --> 00:17:39,920
+Why should anybody else deserve an equal share of ownership in the project if to me it's
+
+317
+00:17:39,920 --> 00:17:43,640
+a passion I will invest my all in, and to them it's simply a job?
+
+318
+00:17:43,640 --> 00:17:48,240
+Her reply was striking, and it gave me a hard look into the mind of a true socialist.
+
+319
+00:17:48,240 --> 00:17:52,000
+According to her, I didn't actually feel passionately or work hard on my business the
+
+320
+00:17:52,000 --> 00:17:53,680
+way I describe myself as doing.
+
+321
+00:17:53,680 --> 00:17:57,760
+According to her, all people inherently invest the same amounts of work into all things,
+
+322
+00:17:57,760 --> 00:17:59,840
+as long as they're not being oppressed by capitalism.
+
+323
+00:17:59,840 --> 00:18:03,440
+The idea that some people work harder than others, that some people have passion for
+
+324
+00:18:03,440 --> 00:18:07,840
+their projects, that some people may be considered to be exceptional, was simply a capitalist
+
+325
+00:18:07,840 --> 00:18:08,840
+myth.
+
+326
+00:18:08,840 --> 00:18:09,840
+Everybody's the same.
+
+327
+00:18:09,840 --> 00:18:13,720
+I was lying about my passion, and anyone I picked up off the street would do as a co-owner
+
+328
+00:18:13,720 --> 00:18:17,840
+of my enterprise, because I don't work harder or care more, I'm just a liar.
+
+329
+00:18:17,840 --> 00:18:19,520
+This is what socialism is, folks.
+
+330
+00:18:19,520 --> 00:18:23,520
+It does not believe in the true passion that humans can feel for their life's work.
+
+331
+00:18:23,520 --> 00:18:25,000
+It does not believe in a calling.
+
+332
+00:18:25,000 --> 00:18:28,320
+It does not believe that people are capable of becoming more than they currently are.
+
+333
+00:18:28,320 --> 00:18:33,760
+It attributes all differences in work ethic not to ability, talent, competence, education,
+
+334
+00:18:33,760 --> 00:18:38,440
+experience or passion, but simply due to the oppression present in the boss-worker dynamic.
+
+335
+00:18:38,440 --> 00:18:43,280
+And when that dynamic is removed, socialists believe all human beings to be unchangingly
+
+336
+00:18:43,280 --> 00:18:44,960
+equal in their capacity to work.
+
+337
+00:18:44,960 --> 00:18:49,440
+It does not believe in growth through effort, or successful entrepreneurship, or motivations
+
+338
+00:18:49,440 --> 00:18:51,560
+beyond simply subsisting.
+
+339
+00:18:51,560 --> 00:18:54,240
+Socialism talks about rights, but not responsibility.
+
+340
+00:18:54,240 --> 00:18:57,800
+It talks about alleviating suffering, but not about creating wonders.
+
+341
+00:18:57,800 --> 00:19:00,040
+It talks about survival, but nothing beyond that.
+
+342
+00:19:00,040 --> 00:19:03,020
+It talks about being alive, but not living a full life.
+
+343
+00:19:03,020 --> 00:19:05,880
+But like I said before, this woman was an anarcho-socialist.
+
+344
+00:19:06,000 --> 00:19:09,040
+Maybe all the problems come from the anarcho part of that equation.
+
+345
+00:19:09,040 --> 00:19:11,000
+So let's talk about state socialism.
+
+346
+00:19:11,000 --> 00:19:12,760
+Well, we kind of already did.
+
+347
+00:19:12,760 --> 00:19:16,840
+A lot of the arguments against fascist economics also apply to state socialism.
+
+348
+00:19:16,840 --> 00:19:19,000
+A contemporary example is Venezuela.
+
+349
+00:19:19,000 --> 00:19:23,480
+The Venezuelan government has seized approximately 30% of the nation's private enterprises.
+
+350
+00:19:23,480 --> 00:19:27,260
+But that 30% consists of almost all vital private infrastructure.
+
+351
+00:19:27,260 --> 00:19:30,880
+And just like what happened with Nazi Germany, rapid inflation has kicked in.
+
+352
+00:19:30,880 --> 00:19:34,840
+It's become a Twitter meme at this point, with how low the Venezuelan Bolivar has fallen.
+
+353
+00:19:34,840 --> 00:19:38,840
+I remember being astounded when the World of Warcraft in-game gold coin became worth
+
+354
+00:19:38,840 --> 00:19:39,840
+more than the Bolivar.
+
+355
+00:19:39,840 --> 00:19:42,760
+But that was months ago, and it's only gotten worse.
+
+356
+00:19:42,760 --> 00:19:46,560
+The Venezuelan government's response to this was to limit the amount of bolivars people
+
+357
+00:19:46,560 --> 00:19:47,900
+can withdraw from banks.
+
+358
+00:19:47,900 --> 00:19:50,880
+A massive black market is also beginning to spring up as well.
+
+359
+00:19:50,880 --> 00:19:54,360
+And if Venezuela doesn't change its course, we already know what's coming down the road.
+
+360
+00:19:54,360 --> 00:20:00,040
+Spies, secret police, suppression of freedoms of the people, foreign scapegoating and propaganda,
+
+361
+00:20:00,040 --> 00:20:02,640
+and transformation into a pure totalitarian state.
+
+362
+00:20:02,640 --> 00:20:07,280
+It's a catastrophic collapse of an otherwise viable country based on purely ideological
+
+363
+00:20:07,280 --> 00:20:08,280
+bullshit.
+
+364
+00:20:08,280 --> 00:20:10,720
+And a lot of Venezuelans are starving and dying because of it.
+
+365
+00:20:10,720 --> 00:20:13,800
+The Venezuelan government is committing human rights atrocities against its own people.
+
+366
+00:20:13,800 --> 00:20:16,840
+And I don't care how often they say that they're doing it to try and liberate the
+
+367
+00:20:16,840 --> 00:20:17,840
+working class.
+
+368
+00:20:17,840 --> 00:20:19,620
+Look at you, you fat fuck.
+
+369
+00:20:19,620 --> 00:20:22,920
+You've gained like 50 pounds during one of the worst famines in your country's history,
+
+370
+00:20:22,920 --> 00:20:24,240
+and you've caused it all.
+
+371
+00:20:24,240 --> 00:20:28,440
+And of course, the verified Twitterinos love to talk about how Venezuelan socialism isn't
+
+372
+00:20:28,440 --> 00:20:30,680
+real socialism, because it's state tyranny.
+
+373
+00:20:30,680 --> 00:20:33,840
+There's some understanding that socialism requires state tyranny to exist because the
+
+374
+00:20:33,840 --> 00:20:37,120
+owners of the means of production aren't going to give up those means unjustly unless
+
+375
+00:20:37,120 --> 00:20:39,160
+you impose massive force on them.
+
+376
+00:20:39,160 --> 00:20:42,520
+There's a Twitter verified account called the Official Socialist Party, which by the
+
+377
+00:20:42,520 --> 00:20:46,100
+way, shows you the real worthlessness of that blue checkmark.
+
+378
+00:20:46,100 --> 00:20:48,080
+But this account has some choice takes.
+
+379
+00:20:48,080 --> 00:20:49,360
+Like this, for instance.
+
+380
+00:20:49,360 --> 00:20:53,000
+There needs to be far more discussions and preparations taking place worldwide so that
+
+381
+00:20:53,000 --> 00:20:55,640
+there can be a smooth transition to genuine socialism.
+
+382
+00:20:55,640 --> 00:20:57,520
+Actual socialism has never existed anywhere.
+
+383
+00:20:57,520 --> 00:21:00,200
+It won't exist until global capitalism has ended.
+
+384
+00:21:00,240 --> 00:21:02,320
+Outdated economics get replaced by better ones.
+
+385
+00:21:02,320 --> 00:21:04,840
+A moneyless society with no ruling class is next.
+
+386
+00:21:04,840 --> 00:21:07,020
+You know, there's a lot of things that are just straight up wrong here.
+
+387
+00:21:07,020 --> 00:21:09,400
+But let me touch on one that I haven't mentioned yet in this video.
+
+388
+00:21:09,400 --> 00:21:13,040
+The claim that actual socialism will not exist while capitalism exists.
+
+389
+00:21:13,040 --> 00:21:14,040
+Why not?
+
+390
+00:21:14,040 --> 00:21:17,100
+Can't you go have your actual socialism somewhere while some other group of people somewhere
+
+391
+00:21:17,100 --> 00:21:19,740
+else not in contact with you has a capitalist system?
+
+392
+00:21:19,740 --> 00:21:24,160
+Why does socialism need to be all-encompassing, blanketing over every country and person before
+
+393
+00:21:24,160 --> 00:21:26,240
+it can be considered to be functional, or real?
+
+394
+00:21:26,240 --> 00:21:30,520
+Why does the mere existence of capitalism somewhere outside of the borders of socialism
+
+395
+00:21:30,520 --> 00:21:32,920
+cause socialism to fail spectacularly?
+
+396
+00:21:32,920 --> 00:21:37,240
+Is it because socialism necessitates a tyrannical government, and a tyranny requires foreign
+
+397
+00:21:37,240 --> 00:21:40,600
+scapegoats that its propaganda arm can use to distract the people from the tyranny they
+
+398
+00:21:40,600 --> 00:21:41,600
+live under?
+
+399
+00:21:41,600 --> 00:21:45,360
+Is it because if socialism actually existed everywhere, then there would be no more excuses
+
+400
+00:21:45,360 --> 00:21:48,840
+for the government to use for its failure, and it always, always fails?
+
+401
+00:21:48,840 --> 00:21:51,880
+Oh man, here's Jeremy Corbyn praising Hugo Chavez.
+
+402
+00:21:51,880 --> 00:21:53,220
+And Michael Moore, too.
+
+403
+00:21:53,220 --> 00:21:56,400
+Is there any reason why you chaps haven't decided to go and live in Venezuela since
+
+404
+00:21:56,400 --> 00:21:57,660
+it's such a paradise?
+
+405
+00:21:57,660 --> 00:22:01,560
+Or why you haven't socialized your own massive amounts of personal wealth and property if
+
+406
+00:22:01,560 --> 00:22:02,980
+the poor matter to you that much?
+
+407
+00:22:02,980 --> 00:22:06,720
+I mean, it's not like Venezuelans are resorting to eating their pets or anything.
+
+408
+00:22:06,720 --> 00:22:09,660
+Or that teenage girls are working as prostitutes to avoid going hungry.
+
+409
+00:22:09,660 --> 00:22:11,900
+That would be an awful state of affairs.
+
+410
+00:22:11,900 --> 00:22:15,420
+Though, considering the pedophilic state of Hollywood at the minute, there's a fair chance
+
+411
+00:22:15,420 --> 00:22:19,020
+that underage pussy on tap might actually motivate Michael Moore to move to Venezuela
+
+412
+00:22:19,020 --> 00:22:20,020
+after all.
+
+413
+00:22:20,020 --> 00:22:23,860
+Okay, okay, I know I'm just spending some time here taking the piss out of these idiots.
+
+414
+00:22:23,860 --> 00:22:26,700
+Let's actually discuss socialism seriously for a bit.
+
+415
+00:22:26,700 --> 00:22:30,780
+It's written in Trandran Kukkatha's article, The Cultural Contradictions of Socialism,
+
+416
+00:22:30,780 --> 00:22:34,140
+that socialism is by its very nature doomed to fail.
+
+417
+00:22:34,140 --> 00:22:37,220
+Socialist thinkers have usually presented social transformation as the solution to social
+
+418
+00:22:37,220 --> 00:22:41,340
+ills, since the source of those ills has been held to be the social and economic order in
+
+419
+00:22:41,340 --> 00:22:43,900
+which private interests and market relations are dominant.
+
+420
+00:22:43,900 --> 00:22:46,940
+Once market relations are transformed, they have assumed the way we would be open for
+
+421
+00:22:46,940 --> 00:22:48,840
+rule by the collective in the interest of the whole.
+
+422
+00:22:48,840 --> 00:22:52,880
+In these circumstances, there is little need to say anything about how political institutions
+
+423
+00:22:52,880 --> 00:22:55,720
+under socialism would check and control the exercise of power.
+
+424
+00:22:55,720 --> 00:22:58,740
+The problem of the abuse of power no longer needs to be considered.
+
+425
+00:22:58,740 --> 00:23:01,840
+It is liberal political theory that is focused on the problem of controlling the abuse of
+
+426
+00:23:01,840 --> 00:23:05,500
+power, since it always assumes that there will always be a danger of such abuse.
+
+427
+00:23:05,500 --> 00:23:09,420
+For in any society, there will always be particular interests trying to gain advantages for themselves.
+
+428
+00:23:09,420 --> 00:23:14,480
+Tyranny is always possible, but socialism assumes, or hopes, that such problems will
+
+429
+00:23:14,480 --> 00:23:17,800
+not arise, and so does not assume the need for political theory.
+
+430
+00:23:17,800 --> 00:23:21,840
+Indeed, were it to borrow from a theory of politics, such as the liberal theory, that
+
+431
+00:23:21,840 --> 00:23:23,720
+might help it address the problem of tyranny.
+
+432
+00:23:23,720 --> 00:23:27,720
+Yet in avoiding such borrowing, socialism has also avoided in addressing the problem
+
+433
+00:23:27,720 --> 00:23:31,360
+of how there can be a socialist order that is not simply a dictatorship by a socialist
+
+434
+00:23:31,360 --> 00:23:32,440
+political elite.
+
+435
+00:23:32,440 --> 00:23:35,920
+This is true of the socialisms described by almost every socialist thinker, even though
+
+436
+00:23:35,920 --> 00:23:40,200
+all of them envision the good socialist order not as a dictatorship, but as a society marked
+
+437
+00:23:40,200 --> 00:23:42,200
+by collective self-rule for the good of the whole.
+
+438
+00:23:42,200 --> 00:23:46,300
+In other words, socialism simply assumes that when capitalism is swept aside, the economic
+
+439
+00:23:46,300 --> 00:23:49,740
+system and the people within it will naturally settle into work or ownership of the means
+
+440
+00:23:49,740 --> 00:23:50,900
+of production, all on its own.
+
+441
+00:23:50,900 --> 00:23:54,020
+I know I'm sounding like a broken record here at this point, but it's pretty clear
+
+442
+00:23:54,020 --> 00:23:56,700
+that the socialists are ignorant regarding the nature of humanity.
+
+443
+00:23:56,700 --> 00:23:59,220
+Finally, we come to the judgement of socialism.
+
+444
+00:23:59,220 --> 00:24:03,500
+As an economic system, does socialism provide for a widely established in-group, while still
+
+445
+00:24:03,500 --> 00:24:07,380
+respecting the rights of a minority out-group, in the realm of finance and production?
+
+446
+00:24:07,380 --> 00:24:11,180
+Well, first of all, socialism lacks an out-group entirely.
+
+447
+00:24:11,180 --> 00:24:15,820
+You could make the argument that socialism's out-group are the bosses, or owners, or management
+
+448
+00:24:15,820 --> 00:24:16,900
+of a workplace.
+
+449
+00:24:16,900 --> 00:24:20,860
+But unlike communism, which simply wants to kill those people, socialism wants to demote
+
+450
+00:24:20,860 --> 00:24:22,780
+them to the position of co-owner.
+
+451
+00:24:22,780 --> 00:24:27,440
+So unlike anarchism, feudalism, or fascism, socialism wants to absorb as many people as
+
+452
+00:24:27,440 --> 00:24:32,340
+it can into its in-group, from its out-group, until the out-group no longer exists.
+
+453
+00:24:32,340 --> 00:24:34,780
+But does it provide for its in-group?
+
+454
+00:24:34,780 --> 00:24:37,940
+The only reasonable conclusion one can come to is no.
+
+455
+00:24:37,940 --> 00:24:42,300
+As an economic system, socialism does not provide for its in-group for several reasons.
+
+456
+00:24:42,300 --> 00:24:46,300
+One, it's too bogged down with its own bureaucracy to make expediated decisions.
+
+457
+00:24:46,300 --> 00:24:50,860
+Two, it provides no safeguards against its massive bureaucracy from becoming extremely
+
+458
+00:24:50,860 --> 00:24:51,860
+corrupt.
+
+459
+00:24:51,860 --> 00:24:56,260
+Three, it believes that the capability of becoming corrupt is some capitalist infestation,
+
+460
+00:24:56,260 --> 00:24:58,180
+and not something intrinsic to everybody.
+
+461
+00:24:58,180 --> 00:25:03,080
+And finally, four, just as it does not recognize that innate evil in human beings, it also
+
+462
+00:25:03,080 --> 00:25:07,500
+does not recognize the innate good in human beings, to strive for excellence.
+
+463
+00:25:07,500 --> 00:25:12,140
+Socialism fails not only as an economic system, but as any form of social system.
+
+464
+00:25:12,140 --> 00:25:13,420
+Non-communism.
+
+465
+00:25:13,420 --> 00:25:17,180
+The critique of communist economics will likely use many of the same criticisms I use to critique
+
+466
+00:25:17,180 --> 00:25:20,460
+socialist economics, because the two are closely related ideologies.
+
+467
+00:25:20,460 --> 00:25:23,340
+However, there are a few key differences that are worth discussion.
+
+468
+00:25:23,340 --> 00:25:26,900
+First, socialism advocates for worker co-ownership of the means of production.
+
+469
+00:25:26,900 --> 00:25:30,500
+Communism, on the other hand, advocates for communal ownership of the means of production.
+
+470
+00:25:30,500 --> 00:25:32,340
+Sounds similar, but is different.
+
+471
+00:25:32,340 --> 00:25:36,500
+In a socialized factory, 50 workers might each own one fiftieth of the factory.
+
+472
+00:25:36,500 --> 00:25:40,580
+In a communized factory, each worker owns the entire factory, and everybody's rights
+
+473
+00:25:40,580 --> 00:25:42,940
+overlap, creating community ownership.
+
+474
+00:25:42,940 --> 00:25:46,820
+Of course, in practice, both options often meant state ownership of the factory, due
+
+475
+00:25:46,820 --> 00:25:50,100
+to the state being the only legitimate representative of the people.
+
+476
+00:25:50,100 --> 00:25:52,620
+But fine, whatever, at least the theory is different.
+
+477
+00:25:52,620 --> 00:25:56,660
+Second, like I mentioned just a bit ago, socialism advocates for leveling the playing field by
+
+478
+00:25:56,660 --> 00:26:00,220
+forcing the bosses to have the same social standing as the workers, with everybody being
+
+479
+00:26:00,220 --> 00:26:02,420
+a co-owner of the means of production.
+
+480
+00:26:02,420 --> 00:26:05,480
+Communism, however, is entirely willing to just kill the bosses outright.
+
+481
+00:26:05,480 --> 00:26:08,740
+Of course, this is not directly stated in the Communist Manifesto, but with a bit of
+
+482
+00:26:08,740 --> 00:26:11,820
+reasoning, I think I can show you how this is indeed the case.
+
+483
+00:26:11,820 --> 00:26:15,560
+The communist theory of hierarchy revolves around the idea that all hierarchies within
+
+484
+00:26:15,560 --> 00:26:19,340
+a capitalist system are based in power, and only in power.
+
+485
+00:26:19,340 --> 00:26:23,260
+The great class struggle that Karl Marx describes is a power struggle between the proletariat
+
+486
+00:26:23,260 --> 00:26:26,660
+and the bourgeoisie, the haves and the have-nots.
+
+487
+00:26:26,660 --> 00:26:28,540
+And there is some legitimate truth to this.
+
+488
+00:26:28,540 --> 00:26:32,940
+The rampant, unregulated capitalism of Marx's time lacked a minimum wage or a maximum amount
+
+489
+00:26:32,940 --> 00:26:36,660
+of hours' work per day or week, it lacked workers' rights and protections, and it
+
+490
+00:26:36,660 --> 00:26:38,340
+had no problem with child labour.
+
+491
+00:26:38,340 --> 00:26:42,220
+It would not be uncommon for the factories of that era to employ ten-year-old boys to
+
+492
+00:26:42,220 --> 00:26:45,740
+work sixteen-hour days for a pittance, which is why so much of the Communist Manifesto
+
+493
+00:26:45,740 --> 00:26:50,620
+revolves around either factories or farms, with industrialization and serfdom both serving
+
+494
+00:26:50,620 --> 00:26:54,040
+to smother the working class, though using different methods.
+
+495
+00:26:54,040 --> 00:26:58,500
+This is also why Russia ultimately became the core nexus of communist activity, as Russian
+
+496
+00:26:58,500 --> 00:27:02,540
+feudalism had continued for several hundred years after Europe abandoned it.
+
+497
+00:27:02,540 --> 00:27:06,220
+So okay, it's reasonable to accept that hierarchies are based in power, there's
+
+498
+00:27:06,220 --> 00:27:08,100
+a lot of evidence for this to be the case.
+
+499
+00:27:08,100 --> 00:27:11,940
+But communism claims that all hierarchies are based in power without exception.
+
+500
+00:27:11,940 --> 00:27:15,860
+That if somebody got to the top of any given hierarchy, it was a power play.
+
+501
+00:27:15,860 --> 00:27:20,180
+Communism leaves no room for, say, a hierarchy of merit, where the people who exhibit the
+
+502
+00:27:20,180 --> 00:27:23,680
+greatest consistent skill rise to the top of the hierarchy based on that skill.
+
+503
+00:27:23,680 --> 00:27:27,300
+And well, you might consider me to be naive for even believing that hierarchies of merit
+
+504
+00:27:27,300 --> 00:27:31,540
+can exist in the first place, but no, no, I'm really not naive.
+
+505
+00:27:31,540 --> 00:27:35,700
+Of course, power plays can corrupt hierarchies of merit, but power can only corrupt a hierarchy
+
+506
+00:27:35,700 --> 00:27:38,820
+of merit so much before the hierarchy ceases to function entirely.
+
+507
+00:27:38,820 --> 00:27:42,980
+And really, can we reasonably say that the hierarchies of merit that exist within Western
+
+508
+00:27:42,980 --> 00:27:46,340
+capitalist democracies have been compromised to that degree?
+
+509
+00:27:46,340 --> 00:27:47,340
+I don't think we can.
+
+510
+00:27:47,340 --> 00:27:50,780
+I mean, look around you, you're likely watching this video on a computer right now,
+
+511
+00:27:50,780 --> 00:27:52,620
+which gets its power through the power grid.
+
+512
+00:27:52,620 --> 00:27:55,940
+And the data is being sent from your internet provider through the telecommunications grid.
+
+513
+00:27:55,940 --> 00:28:00,000
+If the hierarchies of merit that govern electricity and the internet in your area were so hopelessly
+
+514
+00:28:00,000 --> 00:28:03,820
+corrupted by incompetent people making power plays, would you still have power and internet
+
+515
+00:28:03,820 --> 00:28:04,820
+at all?
+
+516
+00:28:04,940 --> 00:28:08,260
+The fact that you're even able to hear my voice right now is testament to the hierarchies
+
+517
+00:28:08,260 --> 00:28:11,380
+of your society functioning at least somewhat on merit.
+
+518
+00:28:11,380 --> 00:28:14,820
+Complicated systems like power grids are falling apart all the time, and society is
+
+519
+00:28:14,820 --> 00:28:18,680
+full of workers who go out and patch it back together constantly, and we are so good at
+
+520
+00:28:18,680 --> 00:28:23,180
+doing this that we have things like water, power, heat, transportation, food, internet,
+
+521
+00:28:23,180 --> 00:28:24,940
+and so on almost all the time.
+
+522
+00:28:24,940 --> 00:28:29,140
+And hey guys, if you ever actually meet a communist, ask him if he had to get, say,
+
+523
+00:28:29,140 --> 00:28:33,220
+a dangerous operation performed, if he would shop around for the most competent surgeon
+
+524
+00:28:33,220 --> 00:28:34,580
+he could find within his budget.
+
+525
+00:28:34,580 --> 00:28:38,680
+And when he naturally says yes, tell him that the competent surgeon is only in his position
+
+526
+00:28:38,680 --> 00:28:42,420
+due to a hierarchy of power, and he would be better off going to the marginalized doctor
+
+527
+00:28:42,420 --> 00:28:44,060
+instead of the privileged one.
+
+528
+00:28:44,060 --> 00:28:48,340
+So, communism claims to want to upend those pesky hierarchies of power for the betterment
+
+529
+00:28:48,340 --> 00:28:50,520
+of the poor, downtrodden working class.
+
+530
+00:28:50,520 --> 00:28:54,540
+But in Soviet Russia, during the collectivization of all the farms, the most successful farmers
+
+531
+00:28:54,540 --> 00:28:58,260
+were completely wiped out, either through force or starvation, and this action led to
+
+532
+00:28:58,260 --> 00:29:01,340
+the starvation of millions of Ukrainians in the 1930s.
+
+533
+00:29:01,340 --> 00:29:04,220
+Just so you can have a taste of what this was like, I'm going to read an excerpt from
+
+534
+00:29:04,220 --> 00:29:05,220
+David Patra...
+
+535
+00:29:05,220 --> 00:29:06,220
+Patra...
+
+536
+00:29:06,220 --> 00:29:07,220
+Patrakarikos?
+
+537
+00:29:07,220 --> 00:29:08,220
+Fucking...
+
+538
+00:29:08,220 --> 00:29:13,460
+I'll read an excerpt from David's article, Why Stalin Starved Ukraine.
+
+539
+00:29:13,460 --> 00:29:16,780
+People crawled into wheat fields to eat ears of wheat before dropping dead.
+
+540
+00:29:16,780 --> 00:29:19,480
+They died from hunger in the act of eating.
+
+541
+00:29:19,480 --> 00:29:21,460
+Children collapsed and died during lessons.
+
+542
+00:29:21,460 --> 00:29:24,300
+A mother took the bread from her offspring to feed her husband.
+
+543
+00:29:24,300 --> 00:29:28,340
+She could, she said, always have more kids, but she could only ever have one husband.
+
+544
+00:29:28,340 --> 00:29:31,780
+A couple put their children in a deep hole and left them there in order to not watch
+
+545
+00:29:31,780 --> 00:29:32,780
+them die.
+
+546
+00:29:32,780 --> 00:29:36,460
+A father strangled his own children rather than watch them perish from hunger.
+
+547
+00:29:36,460 --> 00:29:40,100
+Communities that had once been kind and welcoming became mistrustful and violent.
+
+548
+00:29:40,100 --> 00:29:44,940
+Lynch mobs tortured people, and in the end, most horrifically of all, people began to
+
+549
+00:29:44,940 --> 00:29:46,060
+eat each other.
+
+550
+00:29:46,060 --> 00:29:47,060
+How could this have happened?
+
+551
+00:29:47,060 --> 00:29:50,480
+The moral side of communism purports to care for the well-being of the poor.
+
+552
+00:29:50,480 --> 00:29:53,620
+So what could be the rationale for the communist holocaust of the Ukrainian people?
+
+553
+00:29:53,620 --> 00:29:55,900
+Well, let me take you through it step by step.
+
+554
+00:29:55,900 --> 00:29:59,700
+There's a utopianism implicit in communist thought that goes a little something like
+
+555
+00:29:59,700 --> 00:30:00,700
+this.
+
+556
+00:30:00,700 --> 00:30:03,720
+If you could just get the damn bourgeoisie to stop oppressing the proletariat, the utopian
+
+557
+00:30:03,720 --> 00:30:06,700
+society would be ushered in and all people would live in paradise.
+
+558
+00:30:06,700 --> 00:30:11,420
+So the bourgeoisie is not only guilty of oppressing the proletariat, but is also guilty of preventing
+
+559
+00:30:11,420 --> 00:30:13,140
+the utopia from coming about.
+
+560
+00:30:13,140 --> 00:30:16,900
+And that's a pretty great rationalization for any sort of punishments communism may
+
+561
+00:30:16,900 --> 00:30:18,220
+afflict upon them.
+
+562
+00:30:18,220 --> 00:30:21,700
+And then you remember that the bourgeoisie also refers to people at the top of the hierarchies
+
+563
+00:30:21,700 --> 00:30:22,700
+of power.
+
+564
+00:30:22,700 --> 00:30:25,680
+And then you remember that communism operates under the principle that all hierarchies of
+
+565
+00:30:25,720 --> 00:30:27,800
+hierarchies of power, even when they're not.
+
+566
+00:30:27,800 --> 00:30:31,520
+And then you realize that, in Russia, the people at the top of, say, the hierarchy of
+
+567
+00:30:31,520 --> 00:30:35,540
+merit in regards to farming were extremely poor families that had just managed to pull
+
+568
+00:30:35,540 --> 00:30:39,840
+themselves up out of serfdom during the collapse of Russian feudalism due to them being the
+
+569
+00:30:39,840 --> 00:30:41,960
+most competent farmers in the nation.
+
+570
+00:30:41,960 --> 00:30:46,660
+And then communism, with its obsession with upending hierarchies, comes along and slaughters
+
+571
+00:30:46,660 --> 00:30:50,480
+all of those people, causing a widespread famine because there's no one left who knows
+
+572
+00:30:50,480 --> 00:30:51,940
+how to grow any food.
+
+573
+00:30:51,940 --> 00:30:56,300
+Is this a case of the communists truly loving the poor and having good intentions, but their
+
+574
+00:30:56,300 --> 00:30:59,980
+theory being so fundamentally flawed that it killed a lot of people?
+
+575
+00:30:59,980 --> 00:31:01,740
+No, I don't think so.
+
+576
+00:31:01,740 --> 00:31:04,740
+And this is where we finally come all the way back to communism's hidden desire to
+
+577
+00:31:04,740 --> 00:31:09,040
+kill all their bosses, when socialism simply wants to strip them of their status.
+
+578
+00:31:09,040 --> 00:31:13,140
+In 1937, George Orwell wrote the book The Road to Wigan Pier.
+
+579
+00:31:13,140 --> 00:31:17,580
+It's one of his lesser known works, up against titans like Animal Farm in 1984, but it's
+
+580
+00:31:17,580 --> 00:31:19,080
+still a very important book.
+
+581
+00:31:19,080 --> 00:31:23,240
+In it, Orwell describes his own real life travels through the slums, ghettos, and mining
+
+582
+00:31:23,240 --> 00:31:27,180
+towns of the UK, and paints a picture of desperate, grinding poverty.
+
+583
+00:31:27,180 --> 00:31:30,400
+And really, you'd have to be a sociopath to not feel something for the people he encountered
+
+584
+00:31:30,400 --> 00:31:31,580
+on his travels.
+
+585
+00:31:31,580 --> 00:31:36,360
+It made sense that, at least for a short time after those trips, Orwell himself began to
+
+586
+00:31:36,360 --> 00:31:38,200
+advocate for Marxist theories.
+
+587
+00:31:38,200 --> 00:31:40,960
+However, this advocacy was short lived.
+
+588
+00:31:40,960 --> 00:31:44,800
+And The Road to Wigan Pier ends with probably the most accurate view into the mind of a
+
+589
+00:31:44,800 --> 00:31:46,960
+communist, though he uses the term socialist.
+
+590
+00:31:46,960 --> 00:31:50,720
+From a thinker who briefly scared with the idea himself out of compassion for the poor,
+
+591
+00:31:50,720 --> 00:31:52,020
+but later rejected it.
+
+592
+00:31:52,020 --> 00:31:53,020
+Orwell wrote,
+
+593
+00:31:53,020 --> 00:31:56,880
+It may be said that even if the theoretical, book-trained socialist is not a working man
+
+594
+00:31:56,880 --> 00:32:00,720
+himself, at least he is actuated by a love of the working class.
+
+595
+00:32:00,720 --> 00:32:05,800
+He is endeavoring to shed his bourgeois status and fight on the side of the proletariat.
+
+596
+00:32:05,800 --> 00:32:08,040
+That obviously must be his motive.
+
+597
+00:32:08,040 --> 00:32:09,480
+But is it?
+
+598
+00:32:09,480 --> 00:32:14,120
+Sometimes I look at a socialist, the intellectual, tract-writing type of socialist.
+
+599
+00:32:14,120 --> 00:32:19,780
+With his pullover, his fuzzy hair, and his Marxist quotation, and wonder what the devil
+
+600
+00:32:19,780 --> 00:32:24,380
+his motive really is, it's often difficult to believe that it is a love of anybody, especially
+
+601
+00:32:24,380 --> 00:32:28,300
+of the working class, from whom he is of all people the furthest removed.
+
+602
+00:32:28,300 --> 00:32:32,480
+The underlying motive of many socialists, I believe, is simply a hypertrophied sense
+
+603
+00:32:32,480 --> 00:32:33,480
+of order.
+
+604
+00:32:33,480 --> 00:32:37,920
+The present state of affairs offends them not because it causes misery, still less because
+
+605
+00:32:37,920 --> 00:32:41,280
+it makes freedom impossible, but because it is untidy.
+
+606
+00:32:41,280 --> 00:32:44,840
+Poverty and, what is more, the habits of mind created by poverty, are something to
+
+607
+00:32:44,840 --> 00:32:50,120
+be abolished from above, by violence if necessary, perhaps even preferably by violence.
+
+608
+00:32:50,120 --> 00:32:54,820
+Hence the socialist's worship of great men, an appetite for dictatorships, fascist or
+
+609
+00:32:54,820 --> 00:32:55,820
+communist.
+
+610
+00:32:55,820 --> 00:32:58,840
+The truth is that, to many people calling themselves socialists, revolution does not
+
+611
+00:32:58,840 --> 00:33:02,640
+mean a movement of the masses whichwith they hope to associate themselves.
+
+612
+00:33:02,640 --> 00:33:07,880
+It means a set of reforms which we, the clever ones, are going to impose upon them, the lower
+
+613
+00:33:07,880 --> 00:33:08,880
+order.
+
+614
+00:33:08,880 --> 00:33:12,160
+On the other hand, it would be a mistake to regard the book-trained socialist as a
+
+615
+00:33:12,160 --> 00:33:15,040
+bloodless creature entirely incapable of emotion.
+
+616
+00:33:15,040 --> 00:33:19,120
+Though seldom giving much evidence of affection for the exploited, he is perfectly capable
+
+617
+00:33:19,120 --> 00:33:24,440
+of displaying a hatred, a sort of queer, theoretical hatred, against the exploiters.
+
+618
+00:33:24,440 --> 00:33:27,760
+Hence the grand old socialist sport of denouncing the bourgeoisie.
+
+619
+00:33:27,760 --> 00:33:32,320
+It is strange how easily almost any socialist writer can lash himself into frenzies of rage
+
+620
+00:33:32,320 --> 00:33:37,640
+against the class to which, by birth or adoption, he himself invariably belongs.
+
+621
+00:33:37,640 --> 00:33:41,520
+Now to anybody who spends any amount of time on the internet, and especially on Twitter,
+
+622
+00:33:41,520 --> 00:33:45,600
+and especially on the Twitter feeds of anybody with a verified blue checkmark, the person
+
+623
+00:33:45,600 --> 00:33:50,880
+Orwell describes has to sound extremely familiar, from fashion and fanaticism to interest and
+
+624
+00:33:50,880 --> 00:33:51,880
+ideas.
+
+625
+00:33:51,880 --> 00:33:55,280
+He describes a man-child, somebody who lives in the lap of luxury and has never felt true
+
+626
+00:33:55,280 --> 00:33:58,920
+suffering, somebody who dresses themselves up in a specific way to show their status
+
+627
+00:33:58,920 --> 00:34:01,960
+but spends so much time bad-mouthing that status.
+
+628
+00:34:01,960 --> 00:34:06,560
+He describes their fake rage against the oppressors, while not a peep comes from their mouths about
+
+629
+00:34:06,560 --> 00:34:07,560
+the oppressed.
+
+630
+00:34:07,560 --> 00:34:12,120
+These qualities all have their modern versions, from hipster game journalists, to rainbow
+
+631
+00:34:12,120 --> 00:34:15,400
+haired shetwinks, to verified twitterinos.
+
+632
+00:34:15,400 --> 00:34:19,580
+People who spend more time fake raging at whomever they perceive to be the latest oppressor
+
+633
+00:34:19,580 --> 00:34:23,920
+of the day for the benefit of their own social status than they do on actual activism for
+
+634
+00:34:23,920 --> 00:34:24,920
+the sake of the poor.
+
+635
+00:34:24,920 --> 00:34:29,520
+And it becomes very clear exactly what type of people communists, and socialists too,
+
+636
+00:34:29,520 --> 00:34:30,800
+are deep in their core.
+
+637
+00:34:30,800 --> 00:34:34,280
+They do not love the poor, they simply hate the rich.
+
+638
+00:34:34,280 --> 00:34:38,780
+So let's say a person like this comes along in states to use some rubbish like, hierarchies
+
+639
+00:34:38,780 --> 00:34:42,380
+of power function by privileging the powerful and marginalizing the powerless.
+
+640
+00:34:42,380 --> 00:34:46,500
+By the communists' own logic, the claim can be made that because communism privileges
+
+641
+00:34:46,500 --> 00:34:53,040
+hierarchies of power over hierarchies of merit, that under communism, merit is now the marginalized
+
+642
+00:34:53,040 --> 00:34:54,040
+quality.
+
+643
+00:34:54,040 --> 00:34:58,560
+I think this is why communists hate the rich, because even in the most opportunistic, unregulated
+
+644
+00:34:58,560 --> 00:35:02,880
+of capitalist societies, there will always be at least some people who manage to get
+
+645
+00:35:02,880 --> 00:35:04,680
+rich based off their own merits.
+
+646
+00:35:04,680 --> 00:35:08,480
+And that group will never ever contain the personality types that lead one to accept
+
+647
+00:35:08,480 --> 00:35:10,260
+the philosophy of communism.
+
+648
+00:35:10,260 --> 00:35:13,920
+From this point of view, the communist looks like a jealous, irrational child, determined
+
+649
+00:35:13,920 --> 00:35:16,980
+to tear down everything solely because he wasn't the one that built it.
+
+650
+00:35:16,980 --> 00:35:19,640
+But of course, the communists would never actually admit that to you.
+
+651
+00:35:19,640 --> 00:35:21,720
+They probably wouldn't even admit it to themselves.
+
+652
+00:35:21,720 --> 00:35:26,320
+If you were to ask the communist why he thought in these terms, his answer would be predictable.
+
+653
+00:35:26,320 --> 00:35:29,340
+I care about the poor, and therefore I am a good person.
+
+654
+00:35:29,340 --> 00:35:30,720
+And always in that order.
+
+655
+00:35:30,720 --> 00:35:34,420
+Not I am a good person and therefore I care about the poor, but I care about the poor
+
+656
+00:35:34,420 --> 00:35:36,340
+and therefore I am a good person.
+
+657
+00:35:36,340 --> 00:35:40,660
+Well then, if you were smart, or even better if you felt like trolling him, you would ask
+
+658
+00:35:40,660 --> 00:35:45,400
+the communist, well, when you say you're a good person, that's a position you're
+
+659
+00:35:45,400 --> 00:35:46,400
+privileging.
+
+660
+00:35:46,400 --> 00:35:47,980
+What about the ways in which you're an evil person?
+
+661
+00:35:47,980 --> 00:35:50,020
+Aren't those ways being marginalized?
+
+662
+00:35:50,020 --> 00:35:52,560
+And that sounds kind of funny, but there is truth to it.
+
+663
+00:35:52,560 --> 00:35:54,820
+We all have good and evil inside of us.
+
+664
+00:35:54,820 --> 00:35:56,060
+None of us are perfectly moral.
+
+665
+00:35:56,060 --> 00:35:58,940
+And it's actually important that we recognize this fact.
+
+666
+00:35:58,940 --> 00:36:02,340
+Because if we're cognizant of our capacity to hurt other people, then we can control
+
+667
+00:36:02,340 --> 00:36:03,340
+it.
+
+668
+00:36:03,340 --> 00:36:04,340
+We can make decisions with forethought.
+
+669
+00:36:04,340 --> 00:36:07,820
+But if a person were to truly believe that they were perfectly moral in everything, then
+
+670
+00:36:07,820 --> 00:36:10,980
+what reason would they have to be careful in their dealings with other people?
+
+671
+00:36:10,980 --> 00:36:11,980
+They wouldn't have one.
+
+672
+00:36:11,980 --> 00:36:15,660
+They would simply charge ahead, thinking that because they are perfectly moral, their innate
+
+673
+00:36:15,660 --> 00:36:18,500
+innocuous quality makes charging ahead perfectly safe.
+
+674
+00:36:18,500 --> 00:36:21,720
+And they'd leave a wake of destruction behind them, because they would be fool enough to
+
+675
+00:36:21,720 --> 00:36:23,380
+not admit their own failings.
+
+676
+00:36:23,380 --> 00:36:27,460
+In fact, let's say a perfectly moral person exists.
+
+677
+00:36:27,460 --> 00:36:30,280
+And somehow this person was a communist.
+
+678
+00:36:30,280 --> 00:36:31,380
+Best possible scenario.
+
+679
+00:36:31,380 --> 00:36:35,500
+And let's say we as a society give that person the political power needed to make
+
+680
+00:36:35,500 --> 00:36:37,560
+communism unfold in the real world.
+
+681
+00:36:37,560 --> 00:36:41,700
+And as communism unfolds, and begins to fail because that is what it will always do, and
+
+682
+00:36:41,700 --> 00:36:46,300
+people begin to die as a result of this, what would a perfectly moral communist do?
+
+683
+00:36:46,300 --> 00:36:47,960
+They would stop communism.
+
+684
+00:36:47,960 --> 00:36:48,960
+At least for a little while.
+
+685
+00:36:48,960 --> 00:36:51,820
+At least to ask the question, what's going wrong?
+
+686
+00:36:51,820 --> 00:36:53,140
+Why are people dying?
+
+687
+00:36:53,140 --> 00:36:54,540
+How do we fix this scenario?
+
+688
+00:36:54,540 --> 00:36:58,860
+They would not charge forward and kill tens of millions of people like every communist
+
+689
+00:36:58,860 --> 00:37:00,780
+leader in the history of humanity has done.
+
+690
+00:37:00,780 --> 00:37:05,060
+This is why you can never trust the moron that says true communism has never been tried,
+
+691
+00:37:05,060 --> 00:37:07,140
+or actual socialism has never existed.
+
+692
+00:37:07,140 --> 00:37:11,300
+The implication is that everyone who's tried it were all morally deficient, but that they,
+
+693
+00:37:11,300 --> 00:37:15,380
+the speaker, somehow have the inhuman morality to make communism work.
+
+694
+00:37:15,380 --> 00:37:16,380
+But they don't.
+
+695
+00:37:16,380 --> 00:37:20,240
+They're human, with failings, and would be corrupted by the absolute power necessary
+
+696
+00:37:20,240 --> 00:37:21,460
+to make communism work.
+
+697
+00:37:21,460 --> 00:37:22,620
+Just like you or I would.
+
+698
+00:37:22,620 --> 00:37:24,520
+But they think they wouldn't be corrupted.
+
+699
+00:37:24,520 --> 00:37:27,780
+And they would hold that belief right up to the revolution that finally deposes them and
+
+700
+00:37:27,780 --> 00:37:29,280
+puts them to the sword.
+
+701
+00:37:29,280 --> 00:37:32,280
+Such is the nature of the person that believes in communism.
+
+702
+00:37:32,280 --> 00:37:35,860
+This conversation has taken us far beyond the bounds of communism as an economic system,
+
+703
+00:37:35,860 --> 00:37:37,340
+and for that I apologize.
+
+704
+00:37:37,340 --> 00:37:40,820
+But the failings of communism are so supreme that they cannot be discussed in an economic
+
+705
+00:37:40,820 --> 00:37:41,820
+vacuum.
+
+706
+00:37:41,820 --> 00:37:46,180
+Suffice it to say, communism fails as an economic system for the same reasons that socialism
+
+707
+00:37:46,180 --> 00:37:47,180
+did.
+
+708
+00:37:47,180 --> 00:37:51,220
+It fails to provide for its massive in-group, it fails to account for political excess,
+
+709
+00:37:51,220 --> 00:37:54,940
+and it operates on the hatred of the rich rather than the love of the poor.
+
+710
+00:37:54,940 --> 00:37:55,940
+On capitalism.
+
+711
+00:37:55,940 --> 00:37:58,860
+Finally, we're here to talk about capitalism.
+
+712
+00:37:58,860 --> 00:38:01,820
+I have no clue how long this video is at this point.
+
+713
+00:38:01,820 --> 00:38:05,540
+It's probably pretty long, but hopefully I have done an interesting enough of a job
+
+714
+00:38:05,540 --> 00:38:08,980
+at laying a groundwork for why capitalism just works.
+
+715
+00:38:08,980 --> 00:38:11,820
+Now there's obviously parts of capitalism that don't just work.
+
+716
+00:38:11,820 --> 00:38:15,780
+I mentioned them earlier regarding child labour, a lack of workers' rights, and the horrible
+
+717
+00:38:15,780 --> 00:38:18,180
+conditions of the industrial-era factories.
+
+718
+00:38:18,180 --> 00:38:22,260
+Those horrors make me fully understand why Marx, and other thinkers of his time, sought
+
+719
+00:38:22,260 --> 00:38:24,780
+desperately for an alternative to capitalism.
+
+720
+00:38:24,780 --> 00:38:28,940
+But those conditions don't exist in functioning western capitalist democracies, at least not
+
+721
+00:38:28,940 --> 00:38:32,740
+often, and I don't think that any reasonable person nowadays would object to government
+
+722
+00:38:32,740 --> 00:38:35,220
+intervention if something like that started to come back.
+
+723
+00:38:35,220 --> 00:38:40,900
+In essence, a communist idea of what capitalism is is about 150 years out of date.
+
+724
+00:38:40,900 --> 00:38:44,520
+The factories that Marx railed against, they don't really exist anymore.
+
+725
+00:38:44,520 --> 00:38:49,320
+We have child labour laws now, and minimum wage laws, and maximum work laws.
+
+726
+00:38:49,320 --> 00:38:52,880
+All reasonable restrictions that prevent an immoral employer from working their employees
+
+727
+00:38:52,880 --> 00:38:53,880
+to death.
+
+728
+00:38:53,880 --> 00:38:57,000
+Remember when I said that we can judge an economic system to be successful based on
+
+729
+00:38:57,000 --> 00:39:00,000
+its providing for its in-group, while not harming its out-group?
+
+730
+00:39:00,000 --> 00:39:05,900
+Well, industrial-era capitalism did fail that test, but modern, moderate regulated capitalism
+
+731
+00:39:05,900 --> 00:39:06,900
+does not.
+
+732
+00:39:06,900 --> 00:39:08,040
+But why does capitalism work?
+
+733
+00:39:08,040 --> 00:39:09,560
+That's a bit more complicated.
+
+734
+00:39:09,560 --> 00:39:13,360
+Unlike the five other economic systems, capitalism accounts for personal liberty.
+
+735
+00:39:13,360 --> 00:39:17,420
+It allows all people, including the working class, to have the choice to do whatever they
+
+736
+00:39:17,420 --> 00:39:20,260
+like with their lives as long as they're able to do it themselves.
+
+737
+00:39:20,260 --> 00:39:24,200
+Of course, there are still poor people, and starving people, and homeless people in this
+
+738
+00:39:24,200 --> 00:39:25,200
+system.
+
+739
+00:39:25,200 --> 00:39:26,200
+Capitalism isn't perfect.
+
+740
+00:39:26,200 --> 00:39:29,880
+But within properly regulated capitalism, poor people at least have an opportunity to
+
+741
+00:39:29,880 --> 00:39:31,120
+get ahead in the game.
+
+742
+00:39:31,120 --> 00:39:35,760
+For example, things like student loans exist in capitalism, where a poor person can get
+
+743
+00:39:35,760 --> 00:39:40,040
+a loan to go to school in a useful field, get a well-paying job, and then repay their
+
+744
+00:39:40,040 --> 00:39:42,100
+loans and join the middle class.
+
+745
+00:39:42,100 --> 00:39:46,300
+This is possible even in the USA, where the capitalist system lacks some of the more reasonable
+
+746
+00:39:46,300 --> 00:39:47,300
+regulations.
+
+747
+00:39:47,300 --> 00:39:51,000
+It simply requires that a poor person go to school for something useful, and not feminist
+
+748
+00:39:51,000 --> 00:39:52,660
+dance therapy.
+
+749
+00:39:52,660 --> 00:39:56,700
+Capitalism is inherently a hierarchy of merit, where people will rise and fall within a marketplace
+
+750
+00:39:56,700 --> 00:39:58,580
+based on three factors.
+
+751
+00:39:58,580 --> 00:40:01,020
+One, how much effort they put into it.
+
+752
+00:40:01,020 --> 00:40:03,580
+Two, how much of that effort becomes victories.
+
+753
+00:40:03,580 --> 00:40:07,560
+And three, how much they are able to learn from the effort if that effort becomes defeats.
+
+754
+00:40:07,560 --> 00:40:10,800
+It is competitive, yes, and competition requires losers.
+
+755
+00:40:10,800 --> 00:40:15,360
+And some people may lose many, many times, for reasons that are truly not their fault.
+
+756
+00:40:15,360 --> 00:40:18,760
+Capitalism doesn't account for long streaks of bad luck, or well-meaning people who just
+
+757
+00:40:18,760 --> 00:40:19,760
+can't get a break.
+
+758
+00:40:19,760 --> 00:40:22,200
+But that is what reasonable regulation is for.
+
+759
+00:40:22,200 --> 00:40:26,080
+And just so we're clear, the reason hierarchies of merit exist in the first place is due to
+
+760
+00:40:26,080 --> 00:40:29,020
+a mathematical idea known as the Pareto Principle.
+
+761
+00:40:29,020 --> 00:40:33,260
+The principle states that, over a long period of time, roughly 80% of the effects of a given
+
+762
+00:40:33,260 --> 00:40:36,520
+situation come from roughly 20% of the causes.
+
+763
+00:40:36,520 --> 00:40:41,720
+Delafrido Pareto, the father of the principle, had a hobby of growing green peas, and noticed
+
+764
+00:40:41,720 --> 00:40:46,440
+that as he planted and replanted his crops over the years, approximately 80% of his harvest
+
+765
+00:40:46,440 --> 00:40:50,520
+came from only 20% of last year's peas, and the rest of the peas only produced just enough
+
+766
+00:40:50,520 --> 00:40:52,940
+to survive one more season, or nothing at all.
+
+767
+00:40:52,940 --> 00:40:57,600
+The Pareto Principle has been accurately applied to many situations across many species, from
+
+768
+00:40:57,600 --> 00:40:59,600
+plants and animals to human behaviour.
+
+769
+00:40:59,600 --> 00:41:02,880
+It's what the libertarians would refer to as the exceptional individual, where a small
+
+770
+00:41:02,880 --> 00:41:06,480
+class of hyper-capable people do the vast majority of society's work, and therefore
+
+771
+00:41:06,480 --> 00:41:08,320
+deserve to eat the majority of the rewards.
+
+772
+00:41:08,320 --> 00:41:12,400
+I don't entirely agree with the libertarian interpretation of the Pareto Principle.
+
+773
+00:41:12,400 --> 00:41:16,400
+But at the very least, I know that libertarians understand the principle better than the communists,
+
+774
+00:41:16,400 --> 00:41:19,280
+mainly because the communists would never be able to grow peas in the first place.
+
+775
+00:41:19,280 --> 00:41:23,040
+A great way to explain why western capitalist democracies function so well is to look at
+
+776
+00:41:23,040 --> 00:41:25,520
+both the needs of the individual and the needs of the state.
+
+777
+00:41:25,520 --> 00:41:28,880
+In, say, a communist system, the needs of the state directly oppose the needs of the
+
+778
+00:41:28,880 --> 00:41:29,880
+individual.
+
+779
+00:41:30,880 --> 00:41:34,900
+Where the individual need to benefit from his work, and the state need to collectivize
+
+780
+00:41:34,900 --> 00:41:37,960
+and redistribute all work, naturally oppose each other.
+
+781
+00:41:37,960 --> 00:41:42,260
+Using the same type of comparison, fascist economics allowed for success or failure based
+
+782
+00:41:42,260 --> 00:41:47,120
+on merit, but only made it a matter of social collective interest when failure occurred.
+
+783
+00:41:47,120 --> 00:41:52,140
+In other words, fascism did not reward success, but it did punish failure, for the reason
+
+784
+00:41:52,140 --> 00:41:56,020
+of sabotaging the state's economy and wasting the people's resources.
+
+785
+00:41:56,020 --> 00:41:59,080
+Western liberal capitalist democracies generally don't do this.
+
+786
+00:41:59,280 --> 00:42:02,080
+In fact, when they function correctly, they do the opposite.
+
+787
+00:42:02,080 --> 00:42:06,360
+We consider it a matter of social collective interest only when an economic endeavor succeeds.
+
+788
+00:42:06,360 --> 00:42:10,680
+In other words, we reward success, but we do not punish failure, because we understand
+
+789
+00:42:10,680 --> 00:42:13,540
+that failure in economics is punishment enough all on its own.
+
+790
+00:42:13,540 --> 00:42:17,200
+Just like with communism, fascism pits the economic forces of the state and the people
+
+791
+00:42:17,200 --> 00:42:18,520
+directly against each other.
+
+792
+00:42:18,520 --> 00:42:22,080
+But within capitalism, the needs of the individual and the needs of the state are aligned.
+
+793
+00:42:22,080 --> 00:42:26,040
+It's in the best interest of the individual to benefit from his work, for obvious reasons.
+
+794
+00:42:26,040 --> 00:42:28,880
+But it's also in the best interest of the state that the individual benefit from his
+
+795
+00:42:28,880 --> 00:42:32,160
+work, due to the wider benefits of trade with other individuals.
+
+796
+00:42:32,160 --> 00:42:33,160
+Still don't get it?
+
+797
+00:42:33,160 --> 00:42:34,160
+Here's a scenario that might help.
+
+798
+00:42:34,160 --> 00:42:36,560
+Let's say you have a carpenter, and he makes chairs.
+
+799
+00:42:36,560 --> 00:42:39,440
+The chairs he makes have a market value of $10 per chair.
+
+800
+00:42:39,440 --> 00:42:41,040
+He can sell them for $10.
+
+801
+00:42:41,040 --> 00:42:43,200
+And let's say you have a baker, and he bakes bread.
+
+802
+00:42:43,200 --> 00:42:46,920
+The loaves of bread he bakes have a market value of $10 per loaf of bread.
+
+803
+00:42:46,920 --> 00:42:49,100
+I know, we're just using hypothetical numbers here.
+
+804
+00:42:49,100 --> 00:42:53,720
+At first glance, it might seem like one loaf of bread is equal in value to one chair, and
+
+805
+00:42:53,720 --> 00:42:55,600
+to the marketplace at large, that's true.
+
+806
+00:42:55,600 --> 00:42:58,360
+But it's not true to the carpenter or the baker.
+
+807
+00:42:58,360 --> 00:43:03,120
+The carpenter has so many chairs, and he makes them so easily, they're not worth $10 to him
+
+808
+00:43:03,120 --> 00:43:04,120
+personally.
+
+809
+00:43:04,120 --> 00:43:07,640
+He's probably not going to go out and spend 10 of his own dollars on a chair when he can
+
+810
+00:43:07,640 --> 00:43:08,640
+make his own.
+
+811
+00:43:08,640 --> 00:43:09,760
+And the same goes for the baker.
+
+812
+00:43:09,760 --> 00:43:12,560
+His bread isn't worth $10 to him either.
+
+813
+00:43:12,560 --> 00:43:16,120
+So if the baker and the carpenter were to come together and decide to trade one loaf
+
+814
+00:43:16,120 --> 00:43:21,320
+of bread for one chair, even though both objects are worth the same amount of money, each person
+
+815
+00:43:21,320 --> 00:43:25,200
+values the other object more, because it's something they don't have and can't easily
+
+816
+00:43:25,200 --> 00:43:26,400
+make themselves.
+
+817
+00:43:26,400 --> 00:43:31,600
+It was a completely fair trade, $10 for $10, but the baker and the carpenter each got something
+
+818
+00:43:31,600 --> 00:43:34,480
+of higher value to themselves in the trading.
+
+819
+00:43:34,480 --> 00:43:39,280
+Everyone walks away happier, but more importantly, everyone walks away with more value than they
+
+820
+00:43:39,280 --> 00:43:40,280
+had before.
+
+821
+00:43:40,280 --> 00:43:42,400
+And by the way, that's the point of money, socialists.
+
+822
+00:43:42,400 --> 00:43:44,060
+Money has no power in itself.
+
+823
+00:43:44,060 --> 00:43:48,120
+It's simply a way of easily facilitating a barter system, where all individuals in a given
+
+824
+00:43:48,120 --> 00:43:52,440
+market value everyone else's goods more than their own, and are all willing to trade in
+
+825
+00:43:52,440 --> 00:43:56,000
+such a manner that everyone ends up with more personal value than what they started with.
+
+826
+00:43:56,000 --> 00:43:59,760
+Of course, there will be people that exploit the system, people who steal or sell fake
+
+827
+00:43:59,760 --> 00:44:02,160
+goods that aren't worth their price, and so on.
+
+828
+00:44:02,160 --> 00:44:06,760
+But the combination of an intelligent, well-educated population, market forces that allow quality
+
+829
+00:44:06,760 --> 00:44:10,880
+to naturally dominate over time, and in the most extreme cases, government regulation,
+
+830
+00:44:10,880 --> 00:44:13,800
+can adequately tackle the problem of economic exploitation.
+
+831
+00:44:13,800 --> 00:44:17,600
+This example also illustrates the value of specialization, a concept that the anarchists
+
+832
+00:44:17,600 --> 00:44:18,880
+can't seem to wrap their head around.
+
+833
+00:44:18,880 --> 00:44:23,600
+A carpenter can, over time, learn to build better quality chairs more quickly and cheaply
+
+834
+00:44:23,600 --> 00:44:25,240
+if he keeps practicing his craft.
+
+835
+00:44:25,240 --> 00:44:28,480
+A baker can learn to bake better quality bread for the same reason.
+
+836
+00:44:28,480 --> 00:44:32,240
+But if everyone had to learn every single skill, then nobody would produce anything
+
+837
+00:44:32,240 --> 00:44:33,560
+of exceptional quality.
+
+838
+00:44:33,560 --> 00:44:37,280
+Tell me, anarchists, how many part-time doctors does it take to cure cancer?
+
+839
+00:44:37,280 --> 00:44:41,000
+And I know that arguing from results is kind of a no-no, but let me indulge myself a little
+
+840
+00:44:41,000 --> 00:44:42,000
+bit here.
+
+841
+00:44:42,000 --> 00:44:46,200
+If capitalism is so flawed and weak and awful, why hasn't it been crushed yet?
+
+842
+00:44:46,200 --> 00:44:50,520
+Why do things held in community always fall apart in comparison to things held privately?
+
+843
+00:44:50,520 --> 00:44:54,920
+If these systems actually worked and didn't run counter to human nature, why do people
+
+844
+00:44:54,920 --> 00:44:57,900
+still not put their garbage in public garbage cans?
+
+845
+00:44:57,900 --> 00:45:01,760
+Why do parks need public works departments to regularly clean and maintain them?
+
+846
+00:45:01,760 --> 00:45:05,900
+Or on a larger scale, why didn't the Soviet Union outlast the United States?
+
+847
+00:45:05,900 --> 00:45:10,320
+Why has prosperity worldwide only improved under capitalism in the long term?
+
+848
+00:45:10,320 --> 00:45:11,920
+Why hasn't this stuff worked?
+
+849
+00:45:11,920 --> 00:45:14,960
+Oh, and the answer is not because it's never been tried.
+
+850
+00:45:14,960 --> 00:45:16,640
+It's clearly been tried.
+
+851
+00:45:16,640 --> 00:45:18,300
+You just don't like the results.
+
+852
+00:45:18,300 --> 00:45:22,020
+Believe it or not, sometimes the stated outcome on a theory does not line up with the actual
+
+853
+00:45:22,020 --> 00:45:23,600
+outcome of the practice.
+
+854
+00:45:23,600 --> 00:45:27,760
+In fact, if you are a communist, you should probably be happy that you live in a capitalist
+
+855
+00:45:27,760 --> 00:45:31,280
+society because if you really want to, you can get together your commune, you can go
+
+856
+00:45:31,280 --> 00:45:35,960
+off into the woods and live terrible, pathetic, dreary, collectivized lives.
+
+857
+00:45:35,960 --> 00:45:37,560
+Why don't more communists do this?
+
+858
+00:45:37,560 --> 00:45:40,320
+I presume it's because they want to drag the rest of us down with them.
+
+859
+00:45:40,320 --> 00:45:43,460
+And believe it or not, there's even a moral case for capitalism.
+
+860
+00:45:43,460 --> 00:45:47,260
+For all you moralists and spiritualists out there, aside from inheriting money, which
+
+861
+00:45:47,260 --> 00:45:51,380
+is its own separate conversation, or you finding a lucky twenty dollar bill on the sidewalk
+
+862
+00:45:51,380 --> 00:45:55,880
+or something, people generally only manage to get their hands on money by somehow contributing
+
+863
+00:45:55,880 --> 00:45:56,880
+to society.
+
+864
+00:45:56,880 --> 00:46:01,180
+You make something you sell or you go to a job where you perform valuable labor or you
+
+865
+00:46:01,180 --> 00:46:03,220
+donate to my Patreon.
+
+866
+00:46:03,220 --> 00:46:06,200
+At some point you have interacted in society in a meaningful way.
+
+867
+00:46:06,200 --> 00:46:09,900
+You have provided enough value to somebody else that somebody else was willing to pay
+
+868
+00:46:09,900 --> 00:46:11,460
+you money for that value.
+
+869
+00:46:11,460 --> 00:46:14,420
+So you take your money down to the grocery store and you ask the clerk there for some
+
+870
+00:46:14,420 --> 00:46:15,420
+food.
+
+871
+00:46:15,420 --> 00:46:19,460
+And the clerk asks you, well, did you contribute to society in a meaningful way today?
+
+872
+00:46:19,460 --> 00:46:20,840
+And you say, yes I did.
+
+873
+00:46:20,840 --> 00:46:22,220
+And the clerk says, well, how do I know?
+
+874
+00:46:22,220 --> 00:46:23,500
+How do I know you're not just lying?
+
+875
+00:46:23,500 --> 00:46:27,940
+And you say, well, I provided value to another person and he gave me this money in return.
+
+876
+00:46:27,940 --> 00:46:29,580
+And the clerk says, okay, that's great.
+
+877
+00:46:29,580 --> 00:46:31,740
+And then he takes your money and then you get your groceries.
+
+878
+00:46:31,740 --> 00:46:35,180
+That's the underlying conversation that happens when you go shopping for groceries.
+
+879
+00:46:35,180 --> 00:46:38,660
+And the money that you give the clerk eventually makes its way back to him in the form of wages
+
+880
+00:46:38,660 --> 00:46:40,860
+for his labor and the cycle continues.
+
+881
+00:46:40,860 --> 00:46:45,540
+In this instance, possession of money can be seen as proof of contribution to society,
+
+882
+00:46:45,540 --> 00:46:47,180
+which does have moral implications.
+
+883
+00:46:47,180 --> 00:46:50,260
+I know this isn't perfect because there are certainly jobs that should be getting paid
+
+884
+00:46:50,260 --> 00:46:52,940
+more for moral reasons that currently aren't.
+
+885
+00:46:52,940 --> 00:46:53,940
+But we're getting there.
+
+886
+00:46:53,940 --> 00:46:56,000
+No, really, we're getting there.
+
+887
+00:46:56,000 --> 00:46:58,740
+Capitalism is the reason we're living in the age of technology.
+
+888
+00:46:58,740 --> 00:47:02,300
+Capitalism is the reason there have been massive quality of life increases worldwide in the
+
+889
+00:47:02,300 --> 00:47:03,900
+past hundred years.
+
+890
+00:47:03,900 --> 00:47:07,340
+Capitalism is the reason that when the United Nations stated their intent to cut world poverty
+
+891
+00:47:07,340 --> 00:47:11,420
+in half by 2015, they managed to hit that mark in 2011.
+
+892
+00:47:11,420 --> 00:47:15,580
+Capitalism is not just the mindless pursuit of wealth until the entire system destroys
+
+893
+00:47:15,580 --> 00:47:16,580
+itself.
+
+894
+00:47:16,580 --> 00:47:20,460
+At least, not if it's properly regulated with the interest of the individual at heart.
+
+895
+00:47:20,460 --> 00:47:24,140
+Capitalism is a system where people can act freely in accordance with their own desires.
+
+896
+00:47:24,140 --> 00:47:27,800
+And if the fruits of the work they perform in the service of their desires has some worth
+
+897
+00:47:27,800 --> 00:47:32,500
+to their fellow man, capitalism allows them to survive and thrive off of those fruits.
+
+898
+00:47:32,500 --> 00:47:34,660
+But of course, capitalism isn't perfect either.
+
+899
+00:47:34,660 --> 00:47:36,700
+There's still a lot of people out there who fall through the cracks.
+
+900
+00:47:36,700 --> 00:47:40,900
+But a well-regulated, but not state-controlled capitalist economy, interfered with by the
+
+901
+00:47:40,900 --> 00:47:43,820
+government not for the benefit of the state or the collective, but for the benefit of
+
+902
+00:47:43,820 --> 00:47:48,060
+the individual, and only interfered with so that they may freely contribute value to one
+
+903
+00:47:48,060 --> 00:47:52,180
+another, will have the tools that we need not to help the poor, but to allow the poor
+
+904
+00:47:52,180 --> 00:47:53,180
+to help themselves.
+
+905
+00:47:53,180 --> 00:47:57,900
+And let me corrupt the Winston Churchill quote here a little bit for my own ends.
+
+906
+00:47:57,900 --> 00:48:01,900
+Capitalism is the worst form of economics, except for all those other forms that have
+
+907
+00:48:01,900 --> 00:48:06,580
+been tried from time to time.
+
+908
+00:48:06,580 --> 00:48:08,620
+Thank you guys for listening to this one.
+
+909
+00:48:08,620 --> 00:48:12,340
+As I'm currently recording this, the audio file is an hour and a half long.
+
+910
+00:48:12,340 --> 00:48:13,840
+It's going to be quite the editing job.
+
+911
+00:48:13,840 --> 00:48:16,340
+Thank you to everybody who supports my work on Patreon.
+
+912
+00:48:16,340 --> 00:48:20,460
+Thank you to everyone who tunes in, or even better, who subscribes to my Twitch stream,
+
+913
+00:48:20,460 --> 00:48:22,560
+which I do generally about four times a week.
+
+914
+00:48:22,560 --> 00:48:26,540
+Thanks to everyone who is in the Discord and being enthusiastic and asking me about where
+
+915
+00:48:26,540 --> 00:48:27,540
+the video is.
+
+916
+00:48:27,540 --> 00:48:28,980
+I know, it took me a long time.
+
+917
+00:48:28,980 --> 00:48:31,820
+I'm hoping to get this up on November 30th.
+
+918
+00:48:31,820 --> 00:48:34,140
+I'm going to work very hard to try to make that to be the case.
+
+919
+00:48:34,140 --> 00:48:38,340
+If you enjoyed the video, please consider subscribing because I do upload this content
+
+920
+00:48:38,340 --> 00:48:39,340
+at least semi-regularly.
+
+921
+00:48:39,340 --> 00:48:44,020
+And if you believe that in this capitalist system of ours, my passion project here has
+
+922
+00:48:44,020 --> 00:48:47,900
+provided you with enough value to warrant giving me some money for, please consider
+
+923
+00:48:47,900 --> 00:48:51,340
+heading over to patreon.com slash shortfatotaku.
+
+924
+00:48:51,340 --> 00:49:16,140
+Thanks for listening, guys.
+
+925
+00:49:16,140 --> 00:49:38,660
+See you next time.
+

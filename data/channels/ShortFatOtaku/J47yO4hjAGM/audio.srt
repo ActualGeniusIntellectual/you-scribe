@@ -1,0 +1,860 @@
+1
+00:00:00,000 --> 00:00:08,240
+good morning my friends it's about uh it's about 9 30 in the morning here on august 22nd 2019
+
+2
+00:00:08,800 --> 00:00:14,480
+and some of you might recognize this ratty old couch um well only if you watch the gaming streams
+
+3
+00:00:14,480 --> 00:00:18,320
+anyway because this is the coach we sit on every single day when we do them but i thought i'd talk
+
+4
+00:00:18,320 --> 00:00:23,280
+to you guys about where i've been what i've been doing why there hasn't been an sfo video in in
+
+5
+00:00:23,280 --> 00:00:28,800
+basically a month there was the downvote video and then there was yesterday's jumping with scrump
+
+6
+00:00:28,800 --> 00:00:33,840
+and that's it now on the one hand i haven't just been vacationing i haven't been you know you know
+
+7
+00:00:33,840 --> 00:00:39,520
+being lazy or anything i've actually been doing a lot of behind the scenes stuff and it's stuff
+
+8
+00:00:39,520 --> 00:00:45,200
+that people might not necessarily um notice or even care about on first glance anyway
+
+9
+00:00:45,200 --> 00:00:51,920
+for example i decided to pick up um a new tv on prime day recently and what ended up happening
+
+10
+00:00:51,920 --> 00:00:56,400
+there's there's the green wall by the way just for those of you who care yeah this is our green
+
+11
+00:00:56,400 --> 00:01:03,280
+screen studio but what ended up happening was um to integrate this thing into the game boomer setup
+
+12
+00:01:03,280 --> 00:01:09,760
+for for my streams on twitch um it actually took a lot more work than i initially thought
+
+13
+00:01:10,320 --> 00:01:14,800
+mainly because i have a really jury-rigged system like if you if you watch the streams if you've
+
+14
+00:01:14,800 --> 00:01:20,400
+seen them before if you check them out or whatever um you'll know that it's it's not just a regular
+
+15
+00:01:20,400 --> 00:01:26,080
+face cam or a regular mic setup we do have something that's actually relatively unique
+
+16
+00:01:26,080 --> 00:01:32,960
+and relatively hard to maintain and i've kind of jury-rigged the whole thing so this is a storage
+
+17
+00:01:32,960 --> 00:01:40,400
+slash crawl space behind the green screen studio um and this is where i keep the now three computers
+
+18
+00:01:40,960 --> 00:01:46,640
+that run game boomers when i'm streaming um so this is this is the the gaming pc if we're playing
+
+19
+00:01:46,640 --> 00:01:53,120
+a pc game it plays on this the one in the back there um that's the show pc so the show pc runs
+
+20
+00:01:53,120 --> 00:01:59,760
+off that the one in the middle um that's actually an older pc it doesn't really need to be that good
+
+21
+00:01:59,760 --> 00:02:05,680
+because all it does is it handles the guest calls so for example if you if you donate a hundred
+
+22
+00:02:05,680 --> 00:02:11,200
+dollars to the channel you choose a game you come on a discord call and i put the calls on its own
+
+23
+00:02:11,200 --> 00:02:16,800
+pc because this thing it's a good pc but it's notoriously unstable i think i need to get a new
+
+24
+00:02:16,800 --> 00:02:21,440
+one at some point and before the guest calls would actually run off this when the game crashed we
+
+25
+00:02:21,440 --> 00:02:26,640
+would lose the guest so the easiest way to do it was to just add this older pc that we had kicking
+
+26
+00:02:26,640 --> 00:02:31,280
+around um i might upgrade that in the future too but it's not bad it's like you know it's like a
+
+27
+00:02:31,280 --> 00:02:38,160
+four-year-old pc but anyway to put this into the setup as well as the tv i had to basically rewire
+
+28
+00:02:38,160 --> 00:02:42,560
+everything and there's a lot of i don't know if you can tell back there there's a lot of wires i
+
+29
+00:02:42,560 --> 00:02:46,560
+might actually have to like make a vlog of how i do game boomers at some point because some people
+
+30
+00:02:46,560 --> 00:02:56,560
+have shown an interest yeah a lot of wires there's a like a 16 input hdmi hub back there
+
+31
+00:02:56,560 --> 00:03:02,160
+there's an hdcp stripper back there basically i've had to really figure out how to do all this stuff
+
+32
+00:03:02,160 --> 00:03:08,560
+um and there was a lot of work that i i had basically just been putting off and as soon as i
+
+33
+00:03:08,560 --> 00:03:15,440
+got the new tv as well as a new computer freed up in the house that i could use um i basically
+
+34
+00:03:15,440 --> 00:03:19,120
+said you know what now is the time to do all the work i'll do it all at once at the same time i
+
+35
+00:03:19,120 --> 00:03:25,760
+had to like run new electrical and i had to run some piping so so basically all the host stuff
+
+36
+00:03:25,760 --> 00:03:31,120
+i just took like a week and did that that was at the same time that i was framing all my artwork
+
+37
+00:03:31,120 --> 00:03:36,720
+by the way and you know what turned out pretty good but i'm also very aware that game boomers
+
+38
+00:03:36,720 --> 00:03:42,320
+just isn't as popular as sfo the twitch streams might see 30 people they might see 40 they might
+
+39
+00:03:42,320 --> 00:03:49,200
+see 20 you know they don't get the four or five figure views that that i get here on sfo i do wish
+
+40
+00:03:49,200 --> 00:03:53,760
+it was as popular yeah please feel free to check it out if you like but i also understand the
+
+41
+00:03:53,760 --> 00:03:59,280
+reality of the situation so i have been doing some other things as well for example i've been
+
+42
+00:03:59,280 --> 00:04:05,040
+dealing with some artists who are going to be making new sfo artwork for the various videos
+
+43
+00:04:05,040 --> 00:04:09,360
+and the various video series that i have planned for the main channel at the same time i've also
+
+44
+00:04:09,360 --> 00:04:15,440
+been getting some art done for my my uh my my grab bag channel on my anything goes channel
+
+45
+00:04:15,440 --> 00:04:20,560
+called the dev kit and what i've been doing on that channel is i've been recording a lot of
+
+46
+00:04:20,560 --> 00:04:28,160
+unboxings i have some relatively unique hardware like the nintendo 64 hdmi mod or stuff like the
+
+47
+00:04:28,160 --> 00:04:36,960
+super nt the mega sg i recorded an unboxing of that 64 inch uh tv as well as some rather weird
+
+48
+00:04:36,960 --> 00:04:43,120
+settings it has so if you actually happen to have that model of tv or any any similar tv by lg you
+
+49
+00:04:43,120 --> 00:04:46,960
+know how to set up a few things that might be hidden away in the menu i'm going to be recording
+
+50
+00:04:46,960 --> 00:04:53,120
+this soon this is uh this is a gamecube that i've i've pulled apart because this fan is look look
+
+51
+00:04:53,120 --> 00:04:59,520
+at that it's completely broken the fan's just gone man so i'm going to show how to replace a fan in a
+
+52
+00:04:59,520 --> 00:05:03,280
+gamecube if you happen to have um have to have an old gamecube kicking around it's not working
+
+53
+00:05:03,280 --> 00:05:07,920
+anymore i know that this is not strictly the politics sfo stuff that you guys subbed for
+
+54
+00:05:08,640 --> 00:05:14,320
+which is why i'm not putting it strictly on sfo i'm putting on the dev kit but i do want to try
+
+55
+00:05:14,320 --> 00:05:19,600
+my hand at doing something more techy more hands-on you know and hopefully it'll be
+
+56
+00:05:20,240 --> 00:05:23,760
+interesting enough and i have i have enough technological oddities around the house that i
+
+57
+00:05:23,760 --> 00:05:29,200
+think i can at least captivate your attention a little bit the dev kit is where all of the old
+
+58
+00:05:29,200 --> 00:05:34,640
+anime reviews from like 10 years ago went uh they're over there however youtube won't let
+
+59
+00:05:34,640 --> 00:05:40,400
+some of them go up there because of copyright issues and etc so every single old anime review
+
+60
+00:05:40,400 --> 00:05:44,880
+is up on the dev kit bit shoot channel and if there's ever any new anime reviews to be made
+
+61
+00:05:44,880 --> 00:05:50,480
+they'll probably go on the dev kit if there's ever any new unboxings or or hardware oddities
+
+62
+00:05:50,480 --> 00:05:57,120
+they'll go on the dev kit if maybe maybe i might even make that like the the sfo update channel in
+
+63
+00:05:57,120 --> 00:06:02,000
+a sense too where like if you want to know where i've been what i've been doing my side projects
+
+64
+00:06:02,000 --> 00:06:08,480
+some behind the scenes stuff some vlogs i can put those up there as well another project i did i've
+
+65
+00:06:08,480 --> 00:06:12,640
+filmed all the videos but i haven't released them yet and yeah they'll be up on the dev kit as well
+
+66
+00:06:12,640 --> 00:06:18,160
+because it's not political um there was an office nearby where they threw out something like five or
+
+67
+00:06:18,160 --> 00:06:23,280
+six computers they just dumped them on the side of the road so i i loaded them up i brought them
+
+68
+00:06:23,280 --> 00:06:28,640
+back to the house and i noticed that like i mean i don't need them all my computers are better but
+
+69
+00:06:28,640 --> 00:06:33,120
+they're still in good working order they're like three years old five years old they're not really
+
+70
+00:06:33,120 --> 00:06:38,640
+bad computers in a sense um and they still work i guess it was just office boomers throwing shit
+
+71
+00:06:38,640 --> 00:06:44,240
+away that they don't actually understand so what i did was i shot a video series and that'll be
+
+72
+00:06:44,240 --> 00:06:49,840
+coming out on the dev kit probably in in the coming month um where i repaired them i took
+
+73
+00:06:49,840 --> 00:06:55,280
+these broken computers repaired them put them in working order and once i had them all fixed up i
+
+74
+00:06:55,280 --> 00:07:00,080
+i actually raffled them off on my discord so there's like a few people who were students who
+
+75
+00:07:00,080 --> 00:07:04,080
+were going to school who had no money who couldn't afford a pc so i said here's what we'll do i'll
+
+76
+00:07:04,080 --> 00:07:08,960
+mail these pcs off to to the neediest people in the discord no offense but by needy or anything
+
+77
+00:07:08,960 --> 00:07:12,000
+guys but you know what i mean though guys i wanted to give them away to somebody who who couldn't
+
+78
+00:07:12,000 --> 00:07:17,360
+afford them but anyway they covered the shipping i repaired them i made a short video series out
+
+79
+00:07:17,360 --> 00:07:23,200
+of it and then i i mailed them off and it was um it was fun it was interesting i got to help a
+
+80
+00:07:23,200 --> 00:07:28,640
+few people but that took up a few days of my schedule in general though i will say uh join
+
+81
+00:07:28,640 --> 00:07:34,400
+the discord guys there's actually quite a lot of of community interaction in there um i am in there
+
+82
+00:07:34,400 --> 00:07:39,120
+sometimes not all the time because you know i'm i am busy too but i try to be in there as much as
+
+83
+00:07:39,120 --> 00:07:44,320
+i can it's also a good way to uh to be alerted as to when the next stream or the next video is coming
+
+84
+00:07:44,320 --> 00:07:50,000
+out for any of my projects whether that's sfo game boomers or dev kit they all get alerted there
+
+85
+00:07:50,000 --> 00:07:54,960
+so it's a it's a good place to hang out and honestly i i really like my community everyone
+
+86
+00:07:54,960 --> 00:08:01,120
+who's in there is um i wouldn't necessarily say wholesome but i would say good people
+
+87
+00:08:01,760 --> 00:08:08,080
+so basically what i've been doing is a lot of it has just been side projects and and organizational
+
+88
+00:08:08,080 --> 00:08:14,880
+stuff and irl stuff that i've just let get away from me frankly i'm not exactly proud to say it
+
+89
+00:08:14,880 --> 00:08:20,480
+but a lot of it has just um been stuff that's needed doing or stuff project that i've wanted
+
+90
+00:08:20,480 --> 00:08:26,640
+to do that i've put off for like a year and and i'm finally just doing them oh there's something
+
+91
+00:08:26,640 --> 00:08:31,360
+else too let me let me get this off the tripod my garden has been going wild dude look at all
+
+92
+00:08:31,360 --> 00:08:36,960
+those cucumbers here we are we're at the second floor window and uh look at that man i know i
+
+93
+00:08:36,960 --> 00:08:42,400
+showed you a video of it like a month ago um but it's really improved since then dude
+
+94
+00:08:43,680 --> 00:08:46,800
+oh yeah it turns out that those peppers they're actually jalapeno peppers i thought they were
+
+95
+00:08:46,800 --> 00:08:53,120
+green peppers oops they were mislabeled at the store the plant but anyway there's a kale there
+
+96
+00:08:53,120 --> 00:08:57,920
+there's some there's some gigantic tomato bushes at this point not even plants just bushes there's
+
+97
+00:08:57,920 --> 00:09:02,240
+like a hundred tomatoes in there the cucumbers are growing up the deck because there's just so much
+
+98
+00:09:02,240 --> 00:09:08,160
+of them it's a there's kale yeah there's there's peppers and there's there's like a a tiny basil
+
+99
+00:09:08,160 --> 00:09:14,720
+plant there's naomi's naomi's poor basil plant that didn't really take off but yeah man the garden's
+
+100
+00:09:14,720 --> 00:09:18,560
+been going great and i've been spending a lot of time doing this there's also been another
+
+101
+00:09:18,560 --> 00:09:24,880
+situation developing in that ever since e3 basically which was the electronics gaming
+
+102
+00:09:24,880 --> 00:09:32,320
+expo uh the start of june um i haven't been properly cataloging all the information sources
+
+103
+00:09:32,320 --> 00:09:36,640
+that i've been getting in through through dms and emails and facebook messages and through
+
+104
+00:09:36,640 --> 00:09:42,240
+just finding stuff on my own and i'll i'll get into why that is in a little bit but basically
+
+105
+00:09:42,240 --> 00:09:49,600
+it had built up to the point that i had nothing organized i had like one text file that was
+
+106
+00:09:49,600 --> 00:09:56,160
+something like 10 000 lines long with a bunch of unrelated yet still useful links and information
+
+107
+00:09:57,280 --> 00:10:03,680
+and it was my fault for letting it get that bad but i had to before i could make any videos at all
+
+108
+00:10:03,680 --> 00:10:09,120
+i had to sit down and basically go through each link one by one and divide them up into
+
+109
+00:10:10,720 --> 00:10:18,320
+basically into into scripts and into topics so i've done that now here's here's a picture
+
+110
+00:10:18,320 --> 00:10:26,960
+there's probably about 200 300 video topics right here and that took a long time like it took maybe
+
+111
+00:10:28,160 --> 00:10:34,080
+geez it probably took at least a week or two to do part of it was the fact that i let it get built
+
+112
+00:10:34,080 --> 00:10:40,160
+up in my head honestly there was so much and that i and i kept adding to it every day because people
+
+113
+00:10:40,160 --> 00:10:44,640
+kept sending me stuff every day i do appreciate it but it was my fault that i didn't get on top of it
+
+114
+00:10:45,280 --> 00:10:51,040
+um and then part of it was that opening this many links on a computer often bombs a computer so i
+
+115
+00:10:51,040 --> 00:10:55,600
+gotta like cut it out piecemeal and then in between doing everything else it just got to a point where
+
+116
+00:10:56,320 --> 00:11:01,200
+it um it became like one of those almost insurmountable tasks where the more you
+
+117
+00:11:01,200 --> 00:11:05,600
+avoid it the bigger it gets but the more you avoid it the more you want to avoid it
+
+118
+00:11:06,720 --> 00:11:11,360
+so eventually i just had to knuckle down and do it and you know eventually i did and now i can
+
+119
+00:11:11,360 --> 00:11:17,040
+actually make videos again because i actually have things ready to go i have scripts partially
+
+120
+00:11:17,040 --> 00:11:22,240
+written i have sources laid out i can actually make sfo videos again properly oh and while i've
+
+121
+00:11:22,240 --> 00:11:27,600
+been doing all this i've also been losing weight again i got back on the wagon and it honestly
+
+122
+00:11:27,600 --> 00:11:39,120
+feels pretty good at the start of the month i was 221.2 pounds now i am 209.8 it's not a major
+
+123
+00:11:39,120 --> 00:11:44,640
+victory but it is a victory and hopefully by i can reach my my goal by the end of the year of
+
+124
+00:11:44,640 --> 00:11:50,080
+getting to my goal weight i had set that as a new year's resolution the year is what two-thirds over
+
+125
+00:11:50,080 --> 00:11:57,440
+and i haven't really made any serious progress but i'm gonna do it that's enough screwing around
+
+126
+00:11:57,440 --> 00:12:05,680
+i'm gonna do it i'm gonna do all this stuff i've had so many projects fall apart i've i've missed
+
+127
+00:12:05,680 --> 00:12:11,920
+game boomer streams i've i haven't uploaded to sfo much recently this is what i want to do with
+
+128
+00:12:11,920 --> 00:12:17,440
+my life it is it is my dream and this community these people that you are my friends in a sense
+
+129
+00:12:18,560 --> 00:12:24,400
+and i've been irresponsible and i've let it kind of fall apart and there's no one to blame but
+
+130
+00:12:24,400 --> 00:12:32,080
+myself for this year's e3 i did overrun game boomers what a lot of of streamers do they
+
+131
+00:12:32,080 --> 00:12:38,080
+stream the entire uh the entire conference so they'll watch it they'll react to it i did it
+
+132
+00:12:38,080 --> 00:12:42,400
+with a bit more flair i think because we we had a couch and there was three of us you know
+
+133
+00:12:42,400 --> 00:12:47,040
+watching these conferences and having a good laugh at them and they really did pay off you know we
+
+134
+00:12:47,040 --> 00:12:52,160
+we capped out at about 210 viewers that's as high as i've ever gone on game boomers there's
+
+135
+00:12:52,160 --> 00:12:59,040
+a handful of names that i first noticed in the twitch chat during e3 they are now regular viewers
+
+136
+00:12:59,040 --> 00:13:02,720
+and i see them all the time on twitch whenever i go to stream and that and that's a that's
+
+137
+00:13:02,720 --> 00:13:06,880
+a great feeling you know things have in fact worked out in a sense but the amount of work
+
+138
+00:13:06,880 --> 00:13:12,240
+that e3 took was was pretty colossal i know i gained about 10 pounds just over that week
+
+139
+00:13:12,240 --> 00:13:17,760
+because i wasn't eating properly i wasn't doing any kind of cleaning or proper cooking in the
+
+140
+00:13:17,760 --> 00:13:24,560
+house um i wasn't doing anything any of my old good habits that had kind of got me through the spring
+
+141
+00:13:25,200 --> 00:13:30,320
+i basically let everything fall apart to do e3 and then i didn't really recover from that
+
+142
+00:13:30,320 --> 00:13:37,600
+basically until now at least on at least in some senses like just in terms of general house cleanup
+
+143
+00:13:37,600 --> 00:13:42,160
+i found myself without any time because i had to catch up with with game boomers with my own
+
+144
+00:13:42,160 --> 00:13:49,040
+health with sfo with with everything and i you know i didn't i just didn't have any time anymore
+
+145
+00:13:49,040 --> 00:13:52,560
+i honestly don't know how the bigger streamers do it maybe they're just better at this than i am
+
+146
+00:13:52,560 --> 00:13:59,600
+and by the time i did get everything you know good again in terms of my own personal habits in terms
+
+147
+00:13:59,600 --> 00:14:07,440
+of my workflow in terms of keeping things clean and eating right and and and being productive
+
+148
+00:14:07,440 --> 00:14:13,200
+again when i finally got everything back together um it was prime day frankly it took me that long
+
+149
+00:14:13,840 --> 00:14:18,800
+and then i got the tv and then i had to do all of that all of that like uh almost construction
+
+150
+00:14:18,800 --> 00:14:24,640
+style work and all that rewiring so that's you know as soon as i had my energy back and i was
+
+151
+00:14:24,640 --> 00:14:30,880
+good to go again um i had a massive project in front of me that wasn't sfo so that's basically
+
+152
+00:14:30,880 --> 00:14:37,200
+basically where i've been i've been doing a lot of things but it just hasn't been stuff that you
+
+153
+00:14:37,200 --> 00:14:42,240
+guys have been able to see yet it's almost entirely been behind the scenes or or projects
+
+154
+00:14:42,240 --> 00:14:48,320
+that i've shot that i haven't yet released and i am sorry about not not keeping you uh in the loop
+
+155
+00:14:48,400 --> 00:14:52,080
+there are some people in discord who were quite angry with me who said that i should have i should
+
+156
+00:14:52,080 --> 00:14:56,720
+have told them sooner what i was doing that i wasn't just vanishing on them like like like
+
+157
+00:14:56,720 --> 00:15:02,320
+spoonie or something but but that i was actually working because i was so yeah if you're in the
+
+158
+00:15:02,320 --> 00:15:08,160
+discord and you're watching this i will definitely try to to keep you more updated on what i've been
+
+159
+00:15:08,160 --> 00:15:11,920
+doing if i've been away for a while even if i just go on a vacation like if i leave for three or four
+
+160
+00:15:11,920 --> 00:15:16,560
+days and just go travel somewhere i'll at least let you know that i'm doing that i'm not just gonna
+
+161
+00:15:17,120 --> 00:15:22,960
+stay silent anymore and i don't know i don't want to get too much into the personal details of some
+
+162
+00:15:22,960 --> 00:15:29,360
+things but like my girlfriend naomi has been having a rough time with some stuff my roommate
+
+163
+00:15:29,360 --> 00:15:35,360
+dave he's been having a rough time with some stuff there's like work-related stress there's school
+
+164
+00:15:35,360 --> 00:15:44,240
+stuff there's there's health problems cropping up now um then with me i'm i'm fine in that sense but
+
+165
+00:15:44,240 --> 00:15:49,120
+it's the two closest people to me are having some serious difficulties in their lives right now
+
+166
+00:15:50,800 --> 00:15:54,720
+and sometimes i'm taking care of them as much as i'm taking care of myself or the channel
+
+167
+00:15:56,000 --> 00:15:57,840
+that there are days when it feels like i
+
+168
+00:16:00,400 --> 00:16:02,640
+i have a lot on my shoulders even though
+
+169
+00:16:04,560 --> 00:16:09,440
+i don't know sometimes it feels like i it shouldn't be that much or i shouldn't have
+
+170
+00:16:09,440 --> 00:16:14,160
+this much of a problem with it but there are days when it feels like i'm i'm carrying everything
+
+171
+00:16:15,040 --> 00:16:20,000
+doing these youtube channels these projects doing doing game boomers and and doing short parataku
+
+172
+00:16:20,880 --> 00:16:28,400
+it's my dream job it's my dream job and it's my passion but there are also people around me who
+
+173
+00:16:29,040 --> 00:16:35,600
+it seems like on some level they they they need me because i don't want to my own horn i don't
+
+174
+00:16:35,600 --> 00:16:40,640
+want to sound egotistical but i am more stable than them and they do have serious problems um
+
+175
+00:16:41,280 --> 00:16:44,960
+i don't want to toot my own horn or anything but but it does sometimes feel like
+
+176
+00:16:46,480 --> 00:16:54,080
+i'm i'm their rock in a sense and i'm happy to do it but there are days when it gets to you
+
+177
+00:16:54,080 --> 00:17:00,480
+i think if anybody's had to care for anybody else whether you're whether you have a family
+
+178
+00:17:00,480 --> 00:17:04,080
+or whether you're taking care of your parents or or whatever it is that you're doing
+
+179
+00:17:04,720 --> 00:17:08,160
+i think you i think you know what i'm talking about there are days when it gets to you there
+
+180
+00:17:08,160 --> 00:17:13,280
+are days when you it feels like you can't do everything or that you're letting or that no
+
+181
+00:17:13,280 --> 00:17:17,600
+matter what you do or that no matter what you prioritize you're letting somebody somewhere down
+
+182
+00:17:18,560 --> 00:17:25,040
+or that all the things that that have to be done there's just too many you know and from e3 until
+
+183
+00:17:25,040 --> 00:17:30,960
+prime day i mean from e3 until now but but to a greater extent from e3 until prime day it felt
+
+184
+00:17:30,960 --> 00:17:36,560
+like i was putting out a lot of fires all the time and not really getting ahead anyway i didn't
+
+185
+00:17:36,560 --> 00:17:40,640
+mean for this to to be this serious i didn't want to get you guys down or anything i just wanted to
+
+186
+00:17:40,640 --> 00:17:46,240
+explain to you what i've been doing and also to let you know that i will in fact be back
+
+187
+00:17:47,280 --> 00:17:53,200
+i have a new sfo video planned for tomorrow all of the behind the scenes work is finally done
+
+188
+00:17:53,200 --> 00:17:58,400
+i'm good to go you're gonna see videos again if you're one of the people who watches game boomers
+
+189
+00:17:58,400 --> 00:18:04,560
+you're gonna see streams again and if if any of my my unboxings or my vlogs or my technological
+
+190
+00:18:04,560 --> 00:18:10,080
+content or any of my other side projects sound interesting to you head over to my youtube
+
+191
+00:18:10,080 --> 00:18:15,200
+channel called the dev kit and check that out that that's going to be my anything goes channel
+
+192
+00:18:15,200 --> 00:18:20,800
+so if you are a supporter of me and of sfo and you're really only here for the political content
+
+193
+00:18:20,800 --> 00:18:25,200
+i understand why most of this video didn't really appeal to you because it's me explaining stuff
+
+194
+00:18:25,200 --> 00:18:30,720
+that's for the most part not related to the political content um if you do care about me
+
+195
+00:18:30,720 --> 00:18:39,600
+though as as a person or if you care about my side projects then well then that's what's been going
+
+196
+00:18:39,600 --> 00:18:44,800
+on and if you care to check out my side projects i would be very grateful because i put it just
+
+197
+00:18:44,800 --> 00:18:51,440
+as much work into them as i do into sfo um i stream pretty much six nights a week now
+
+198
+00:18:51,520 --> 00:18:59,680
+at twitch.tv slash game boomers the stream archive goes up at youtube.com slash game boomers
+
+199
+00:18:59,680 --> 00:19:05,760
+and as for that anything goes channel the the dev kit i'm actually considering starting to do stream
+
+200
+00:19:05,760 --> 00:19:10,800
+super cuts on that channel as well so if you can't actually sit down and watch multiple hours of
+
+201
+00:19:10,800 --> 00:19:17,040
+stream a day you can at least see like the highlights of of some of the games but that's
+
+202
+00:19:17,040 --> 00:19:21,840
+a project that i'll be working on maybe maybe when the fall rolls around well if you've made
+
+203
+00:19:21,840 --> 00:19:27,200
+to the end of this video thank you very much for sticking with me i do have to slightly disappoint
+
+204
+00:19:27,200 --> 00:19:34,000
+you by saying that this update video is in fact today's video on the sfo channel but you know what
+
+205
+00:19:34,000 --> 00:19:42,000
+i am back i am ready i have new videos coming you will see a new sfo video tomorrow a new proper one
+
+206
+00:19:42,000 --> 00:19:48,160
+tomorrow however right now as this video is playing for you immediately assuming that you're
+
+207
+00:19:48,160 --> 00:19:54,320
+watching it while it's uh it's coming out i'm gonna be streaming this on game boomers at twitch.tv
+
+208
+00:19:54,320 --> 00:20:01,600
+slash game boomers life is strange too this thing comes out at 12 noon today and man am i gonna be
+
+209
+00:20:01,600 --> 00:20:07,840
+ready for it i love making fun of this sjw piece of crap i know that you guys love it whenever we
+
+210
+00:20:07,840 --> 00:20:13,680
+do this game it's always hilarious so we're going to be doing that right now in fact if you
+
+211
+00:20:13,680 --> 00:20:18,720
+bop over to the twitch channel you'll probably see a screen something like this i mean probably lower
+
+212
+00:20:18,720 --> 00:20:23,600
+in timer that by the time you see it but you'll probably see a screen something like this because
+
+213
+00:20:23,600 --> 00:20:29,120
+we're going to be going live soon please consider swinging by and checking us out i will see you
+
+214
+00:20:29,120 --> 00:20:38,400
+there shortly i love you
+
+215
+00:20:59,120 --> 00:21:08,400
+so
+

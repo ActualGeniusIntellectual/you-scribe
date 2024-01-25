@@ -1,0 +1,896 @@
+1
+00:00:00,000 --> 00:00:04,600
+Hello my friends, before we get into it, I want to thank everyone who subbed recently.
+
+2
+00:00:04,600 --> 00:00:08,800
+Thanks to my previous Learn to Code video, this channel went through some pretty amazing
+
+3
+00:00:08,800 --> 00:00:11,440
+growth this past week, and it's all thanks to you.
+
+4
+00:00:11,440 --> 00:00:15,560
+I figure it's a good idea to make a follow-up video, not just to take advantage of the situation,
+
+5
+00:00:15,560 --> 00:00:16,560
+although there is that.
+
+6
+00:00:16,560 --> 00:00:20,880
+But also because, like my Mega Kids follow-up yesterday, a lot of new developments have
+
+7
+00:00:20,880 --> 00:00:22,360
+happened on the topic.
+
+8
+00:00:22,360 --> 00:00:23,360
+Like this!
+
+9
+00:00:23,360 --> 00:00:25,640
+This was posted only a couple hours before recording this video.
+
+10
+00:00:25,640 --> 00:00:29,440
+Vice Media to reorganize lay off 10% of staff.
+
+11
+00:00:29,440 --> 00:00:33,880
+You know, that exclusive tag right in the headline really makes me feel like the author
+
+12
+00:00:33,880 --> 00:00:39,040
+of the article is hoping and praying that these layoffs are exclusive to Vice and won't
+
+13
+00:00:39,040 --> 00:00:40,520
+be coming to his outlet too.
+
+14
+00:00:40,520 --> 00:00:46,200
+The cuts, which will impact around 250 people, are part of new CEO Nancy DeBuck's strategic
+
+15
+00:00:46,200 --> 00:00:49,040
+plan to tighten spending and achieve profitability.
+
+16
+00:00:49,040 --> 00:00:51,300
+Oh, so Vice wasn't profitable?
+
+17
+00:00:51,300 --> 00:00:54,120
+Who could have known with such quality reporting as this?
+
+18
+00:00:54,400 --> 00:00:59,640
+Vice Media is planning a reorganization that will include laying off about 10% of its workforce,
+
+19
+00:00:59,640 --> 00:01:04,980
+as the once high-flying startup looks to rein in an unwieldy business that grew quickly
+
+20
+00:01:04,980 --> 00:01:06,880
+during the height of the digital boom.
+
+21
+00:01:06,880 --> 00:01:10,860
+Well, digital markets are still growing, I'd say even still booming.
+
+22
+00:01:10,860 --> 00:01:15,360
+So I don't think Vice's problem is the market, I think Vice's problem is Vice.
+
+23
+00:01:15,360 --> 00:01:19,800
+One of the new CEO's first projects was setting a plan that would bring order to the chaos
+
+24
+00:01:19,800 --> 00:01:24,220
+that was created during the years when Vice transformed from a Montreal punk magazine
+
+25
+00:01:24,220 --> 00:01:25,880
+to a global media organization.
+
+26
+00:01:25,880 --> 00:01:30,640
+Yeah, I know about Third Wave Feminism's obsession with the zine format, it really
+
+27
+00:01:30,640 --> 00:01:33,240
+does sound like Vice was doomed from the start.
+
+28
+00:01:33,240 --> 00:01:34,940
+But today, it's Vice.
+
+29
+00:01:34,940 --> 00:01:37,720
+Just like how it was Buzzfeed and HuffPo last week.
+
+30
+00:01:37,720 --> 00:01:42,360
+And the brainlets over at Vice are having the same dumb reactions as the brainlets over
+
+31
+00:01:42,360 --> 00:01:43,960
+at Buzzfeed and HuffPo.
+
+32
+00:01:43,960 --> 00:01:49,760
+Here's Vice's social editor with, I cannot emphasize this enough, unionize your workplace.
+
+33
+00:01:49,800 --> 00:01:54,800
+Followed up with, just to clarify, I don't know anything about myself yet, but appreciate
+
+34
+00:01:54,800 --> 00:01:56,000
+everyone reaching out.
+
+35
+00:01:56,000 --> 00:02:00,000
+Well, with a statement like that, if you weren't on the chopping block before, you are now.
+
+36
+00:02:00,000 --> 00:02:04,460
+I'm not anti-union by any stretch of the imagination, but I do recognize that unions
+
+37
+00:02:04,460 --> 00:02:09,600
+are going to cause more trouble, not less, in a failing business or disappearing market.
+
+38
+00:02:09,600 --> 00:02:12,680
+These people don't get that, because their worldview is simplistic.
+
+39
+00:02:12,680 --> 00:02:16,960
+Their bosses have a sum of money characterized as a lot, and they should be forced to fork
+
+40
+00:02:16,960 --> 00:02:19,120
+it over in exchange for subpar writing.
+
+41
+00:02:19,120 --> 00:02:20,120
+And that's that.
+
+42
+00:02:20,120 --> 00:02:24,200
+Anonymous trolls tweeting in glee about Vice layoffs are absolute cowards.
+
+43
+00:02:24,200 --> 00:02:26,360
+And I'm not just talking about alt-right idiots.
+
+44
+00:02:26,360 --> 00:02:29,900
+Your problems with this company and its executives should not be directed at low-level workers
+
+45
+00:02:29,900 --> 00:02:31,000
+just trying to make a living.
+
+46
+00:02:31,000 --> 00:02:32,600
+Oh, is that the new standard?
+
+47
+00:02:32,600 --> 00:02:36,640
+That we shouldn't be laughing at people who get shit-canned after years of not only
+
+48
+00:02:36,640 --> 00:02:40,920
+doing their jobs poorly, but using their positions to laugh at people themselves?
+
+49
+00:02:40,920 --> 00:02:43,040
+Not just laugh, but harass people?
+
+50
+00:02:43,040 --> 00:02:45,800
+Not just harass people, but attempt to get them fucking fired?
+
+51
+00:02:45,800 --> 00:02:47,880
+They are workers who do not deserve this cruelty.
+
+52
+00:02:47,880 --> 00:02:50,160
+No, on some level this is the bed they made.
+
+53
+00:02:50,160 --> 00:02:52,620
+I just want this point to be crystal clear.
+
+54
+00:02:52,620 --> 00:02:56,960
+The journalists who, for the past decade, have weaponized their platforms in attempts
+
+55
+00:02:56,960 --> 00:03:01,040
+to get others removed from their careers, projects, and positions for their political
+
+56
+00:03:01,040 --> 00:03:05,920
+beliefs, are now calling foul because the average person, the pleb, is having a chuckle
+
+57
+00:03:05,920 --> 00:03:09,960
+at them losing their jobs due to their political beliefs not being profitable.
+
+58
+00:03:09,960 --> 00:03:11,280
+I'm okay with this.
+
+59
+00:03:11,280 --> 00:03:15,960
+Here's a ridiculous conspiracy theory as to what Learn to Code actually means.
+
+60
+00:03:15,960 --> 00:03:20,360
+The trolls are using Learn to Code as an outer narrative, a collectively agreed-upon
+
+61
+00:03:20,360 --> 00:03:25,280
+bad-faith argument that is internally understood as such, to provide cover for their true agenda.
+
+62
+00:03:25,280 --> 00:03:30,200
+No, no, the truth is you're all unlikeable assholes and people enjoy laughing at you
+
+63
+00:03:30,200 --> 00:03:31,200
+when you fail.
+
+64
+00:03:31,200 --> 00:03:35,080
+The everyman is always going to rejoice when the bully finally gets his comeuppance.
+
+65
+00:03:35,080 --> 00:03:39,280
+Zoe Beery at Study Hall asked me why Learn to Code is such an effective meme.
+
+66
+00:03:39,280 --> 00:03:43,800
+It's an ingenious cover story of highlighting journalistic softness with Learn to Code,
+
+67
+00:03:43,800 --> 00:03:45,800
+then expected cruelty underneath.
+
+68
+00:03:45,800 --> 00:03:49,800
+They kind of beta tested this with a thing called the NPC meme that didn't catch on
+
+69
+00:03:49,800 --> 00:03:51,880
+because it only made sense to gamers.
+
+70
+00:03:51,880 --> 00:03:56,620
+They realized picking on journalists who recently lost their jobs, while knowing full well some
+
+71
+00:03:56,620 --> 00:04:00,040
+of them are sending threats alongside it, has been an effective trolling strategy to
+
+72
+00:04:00,040 --> 00:04:01,800
+make them feel twice the pain.
+
+73
+00:04:01,800 --> 00:04:03,000
+Send threats.
+
+74
+00:04:03,000 --> 00:04:06,720
+Send a pointless Learn to Code campaign on top as a cover story.
+
+75
+00:04:06,720 --> 00:04:09,240
+Point to the cover story to make journalists appear soft.
+
+76
+00:04:09,240 --> 00:04:13,440
+Well, let me state right now, if you're actually sending threats to journalists, don't
+
+77
+00:04:13,440 --> 00:04:14,440
+do that.
+
+78
+00:04:14,440 --> 00:04:16,860
+If you're trying to laugh at them, it's not okay to threaten them.
+
+79
+00:04:16,860 --> 00:04:20,340
+But I have a feeling that the journalists actually are soft, to the point that they're
+
+80
+00:04:20,340 --> 00:04:23,160
+taking things that are clearly not threatening as threats.
+
+81
+00:04:23,160 --> 00:04:24,800
+Here's an example.
+
+82
+00:04:24,800 --> 00:04:28,000
+Parker Malloy here is actually taking this as a threat.
+
+83
+00:04:28,000 --> 00:04:30,360
+It's threatening imagery, to use her own words.
+
+84
+00:04:30,360 --> 00:04:34,680
+You would have to be a soft lefty journo to actually feel threatened by this.
+
+85
+00:04:34,680 --> 00:04:38,440
+You can taunt journalists with Learn to Code all you want, but you can't run from the
+
+86
+00:04:38,440 --> 00:04:42,360
+fact that if you switch jobs for six months, the journalist would be better coders than
+
+87
+00:04:42,360 --> 00:04:43,360
+you would be at journalism.
+
+88
+00:04:43,600 --> 00:04:45,440
+I don't know about this one, Caitlin.
+
+89
+00:04:45,440 --> 00:04:48,720
+Coders might have an advantage in journalism because they will have learned the difference
+
+90
+00:04:48,720 --> 00:04:52,560
+between true and false from day one, while a lot of journalists going into code still
+
+91
+00:04:52,560 --> 00:04:53,620
+haven't figured it out.
+
+92
+00:04:53,620 --> 00:04:58,060
+To all journalists being marauded, hold the line, don't give an inch to these trolls.
+
+93
+00:04:58,060 --> 00:05:01,480
+Learn to Code is a threat to silence journalists via violence.
+
+94
+00:05:01,480 --> 00:05:02,480
+Really?
+
+95
+00:05:02,480 --> 00:05:03,480
+Violence?
+
+96
+00:05:03,480 --> 00:05:06,340
+When journos are spoon fed back their own narrative.
+
+97
+00:05:06,340 --> 00:05:10,380
+Were journalists themselves being violent when they told minors to Learn to Code?
+
+98
+00:05:10,380 --> 00:05:14,900
+Was CNN being violent when it published an article stating that they had the docs of
+
+99
+00:05:14,900 --> 00:05:19,240
+reddit user Han asshole solo and that they would publish it if he didn't delete and
+
+100
+00:05:19,240 --> 00:05:23,100
+apologize for this gif of Trump disrespecting CNN?
+
+101
+00:05:23,100 --> 00:05:27,640
+It's almost like these elitist fucks feel like they should have the monopoly on violence
+
+102
+00:05:27,640 --> 00:05:28,860
+and not the state.
+
+103
+00:05:28,860 --> 00:05:34,300
+The twitter account NazisNotWelcome decided to tweet out, we will not tolerate your fascist
+
+104
+00:05:34,300 --> 00:05:35,940
+attacks on the press.
+
+105
+00:05:35,940 --> 00:05:36,940
+Not for a minute.
+
+106
+00:05:36,940 --> 00:05:39,180
+Stop attacking journalists immediately.
+
+107
+00:05:39,180 --> 00:05:44,820
+Yep, making fun of shitty people losing their jobs after years of hurling abuse is fascism
+
+108
+00:05:44,820 --> 00:05:45,820
+now.
+
+109
+00:05:45,820 --> 00:05:49,900
+I am not surprised that an antifa commie, somebody who wants everyone and everything
+
+110
+00:05:49,900 --> 00:05:54,220
+to be equalized and redistributed, would take great offense at the laughter of the common
+
+111
+00:05:54,220 --> 00:05:56,980
+people finding joy in a tyrant's fall.
+
+112
+00:05:56,980 --> 00:06:01,860
+In any case, the Learn to Code meme took off hard, despite the best efforts of the radical
+
+113
+00:06:01,860 --> 00:06:06,500
+left, so twitter staff decided to make the phrase Learn to Code hate speech.
+
+114
+00:06:06,500 --> 00:06:07,500
+Yes?
+
+115
+00:06:07,500 --> 00:06:08,500
+Really?
+
+116
+00:06:08,820 --> 00:06:13,340
+I am told by a person in the know that tweeting Learn to Code at any recently laid off journalist
+
+117
+00:06:13,340 --> 00:06:17,900
+will be treated as abusive behavior and is a violation of twitter's terms of service.
+
+118
+00:06:17,900 --> 00:06:21,220
+I swear to god, lefty journals are made of fucking Play-Doh.
+
+119
+00:06:21,220 --> 00:06:26,180
+Of course, even twitter realized how retarded that sounds because they issued a clarification.
+
+120
+00:06:26,180 --> 00:06:28,700
+It's more nuanced than what you reported.
+
+121
+00:06:28,700 --> 00:06:33,540
+Twitter is responding to a targeted harassment campaign against specific individuals, a policy
+
+122
+00:06:33,540 --> 00:06:35,460
+that's long been against twitter rules.
+
+123
+00:06:35,460 --> 00:06:37,980
+Oh, okay, okay, I get it.
+
+124
+00:06:37,980 --> 00:06:41,700
+Fine, a targeted harassment campaign against specific individuals.
+
+125
+00:06:41,700 --> 00:06:46,240
+Like all the SJWs threatening and doxing the MAGA kids from Covington Catholic High School
+
+126
+00:06:46,240 --> 00:06:47,680
+last week, right?
+
+127
+00:06:47,680 --> 00:06:51,540
+That seems to be a targeted harassment campaign against specific individuals.
+
+128
+00:06:51,540 --> 00:06:53,540
+When are they getting their bans, Jack?
+
+129
+00:06:53,540 --> 00:06:55,960
+Or is that one just not important enough?
+
+130
+00:06:55,960 --> 00:07:00,540
+Does that have to go on the back burner because latte-sipping communist activists, calling
+
+131
+00:07:00,540 --> 00:07:03,780
+themselves journalists, are taking some flak on the internet?
+
+132
+00:07:03,780 --> 00:07:07,580
+Twitter meltdowns are fun and all, but let's turn our attention to the core of the matter.
+
+133
+00:07:07,580 --> 00:07:12,180
+Yes, Vice's CEO has stated that the layoffs will touch all departments at every level,
+
+134
+00:07:12,180 --> 00:07:14,520
+which means saying goodbye to some colleagues.
+
+135
+00:07:14,520 --> 00:07:16,420
+But who exactly is going to get fired?
+
+136
+00:07:16,420 --> 00:07:17,980
+As of this recording, I don't know.
+
+137
+00:07:17,980 --> 00:07:20,980
+Maybe by the time the video is out, names will be floating around.
+
+138
+00:07:20,980 --> 00:07:22,340
+But let me make a prediction.
+
+139
+00:07:22,340 --> 00:07:27,500
+I think Vice is going to follow the lead of Buzzfeed and lay off primarily people of color
+
+140
+00:07:27,500 --> 00:07:29,500
+and LGBT employees.
+
+141
+00:07:29,500 --> 00:07:31,660
+Huh, funny how that works.
+
+142
+00:07:31,660 --> 00:07:37,160
+Among these minority, ethnic, and LGBTQ former staff are some well-known figures within Asian
+
+143
+00:07:37,740 --> 00:07:38,740
+American communities.
+
+144
+00:07:38,740 --> 00:07:44,240
+These writers and producers have frequently created content on race, culture, mental health,
+
+145
+00:07:44,240 --> 00:07:46,720
+and issues facing the LGBTQ community.
+
+146
+00:07:46,720 --> 00:07:49,260
+Well, maybe that's why they were laid off.
+
+147
+00:07:49,260 --> 00:07:54,200
+Their work was overwhelmingly devoid of value and was the exact type of thing that Buzzfeed
+
+148
+00:07:54,200 --> 00:07:55,960
+was crumbling under the weight of.
+
+149
+00:07:55,960 --> 00:07:59,680
+Maybe it's because they were diversity hires with lesser qualifications, experience, or
+
+150
+00:07:59,680 --> 00:08:04,280
+quality, and when it came time to trim the fat, the least talented people had to go regardless
+
+151
+00:08:04,280 --> 00:08:05,420
+of skin color.
+
+152
+00:08:05,420 --> 00:08:09,380
+Maybe it's because Buzzfeed decided to let go of the people producing the most politically
+
+153
+00:08:09,380 --> 00:08:15,100
+agitating content, the blame-white-men-for-everything garbage, and it just happened to be that minorities
+
+154
+00:08:15,100 --> 00:08:16,720
+were putting out most of that junk.
+
+155
+00:08:16,720 --> 00:08:21,780
+In other words, if you're not hired for your competence, expect to get fired for your
+
+156
+00:08:21,780 --> 00:08:23,060
+incompetence.
+
+157
+00:08:23,060 --> 00:08:26,860
+These people talk about racism and sexism as if they're moral paragons.
+
+158
+00:08:26,860 --> 00:08:31,180
+The honest truth is, they've simply substituted one form of bigotry for another.
+
+159
+00:08:31,180 --> 00:08:33,900
+They still have a very robust in-group preference.
+
+160
+00:08:33,900 --> 00:08:39,940
+The difference is, their in-group is not my race or my nationality, it's fellow journalists
+
+161
+00:08:39,940 --> 00:08:41,500
+and fellow radical lefties.
+
+162
+00:08:41,500 --> 00:08:45,820
+It's not even the working class or the poor as they like to claim it is.
+
+163
+00:08:45,820 --> 00:08:49,940
+Their reactions to workers affected by America's dying industries proves that.
+
+164
+00:08:49,940 --> 00:08:52,020
+When it was coal miners, it was learn to code.
+
+165
+00:08:52,020 --> 00:08:55,740
+When it was journalists, capitalism is evil and democracy is crumbling.
+
+166
+00:08:55,740 --> 00:08:58,460
+It's not hard to figure out who they actually care for.
+
+167
+00:08:58,460 --> 00:09:01,460
+There's still one final lingering question, though.
+
+168
+00:09:01,460 --> 00:09:03,220
+Why is this all happening now?
+
+169
+00:09:03,220 --> 00:09:07,020
+Why are all these people getting laid off within days of each other from a bunch of
+
+170
+00:09:07,020 --> 00:09:08,500
+different progressive outlets?
+
+171
+00:09:08,500 --> 00:09:14,140
+Well, back in March of 2016, the Countering Foreign Propaganda and Disinformation Act
+
+172
+00:09:14,140 --> 00:09:15,140
+was written.
+
+173
+00:09:15,140 --> 00:09:20,540
+It hit the table in May 2016, made it through the House vote on December 2nd, 2016, and
+
+174
+00:09:20,540 --> 00:09:22,660
+the Senate vote on December 8th.
+
+175
+00:09:22,660 --> 00:09:28,140
+President Obama signed it into law on December 23rd as a part of 2017's National Defense
+
+176
+00:09:28,140 --> 00:09:29,660
+Authorization Act.
+
+177
+00:09:29,660 --> 00:09:36,440
+The Countering Foreign Propaganda and Disinformation Act set aside $160 million for use in countering
+
+178
+00:09:36,440 --> 00:09:37,780
+foreign propaganda.
+
+179
+00:09:37,780 --> 00:09:41,620
+Ron Portman, one of the senators that helped write the act, stated that,
+
+180
+00:09:41,620 --> 00:09:46,320
+Our enemies are using foreign propaganda and disinformation against us and our allies.
+
+181
+00:09:46,320 --> 00:09:50,080
+And so far the U.S. government has been asleep at the wheel, but today the United States
+
+182
+00:09:50,080 --> 00:09:55,640
+has taken a critical step towards confronting the extensive and destabilizing foreign propaganda
+
+183
+00:09:55,640 --> 00:10:00,520
+and disinformation operations being waged against us by our enemies overseas.
+
+184
+00:10:00,520 --> 00:10:02,880
+The Act outlines two priorities.
+
+185
+00:10:02,880 --> 00:10:07,240
+The first is countering foreign propaganda, and it explicitly names Russia and China,
+
+186
+00:10:07,240 --> 00:10:11,160
+as well as various non-state actors, as the Act's targets.
+
+187
+00:10:11,160 --> 00:10:16,880
+The second priority, though, establishes a fund to help train local journalists and provides
+
+188
+00:10:16,880 --> 00:10:23,960
+grants and contracts to non-government organizations, civil society organizations, think tanks,
+
+189
+00:10:23,960 --> 00:10:30,560
+private sector companies, media organizations, and other experts outside the U.S. government
+
+190
+00:10:30,560 --> 00:10:36,480
+with experience in identifying and analyzing the latest trends in foreign government disinformation
+
+191
+00:10:36,480 --> 00:10:37,480
+techniques.
+
+192
+00:10:37,480 --> 00:10:42,180
+The Act expired exactly two years later, December 23rd, 2018.
+
+193
+00:10:42,180 --> 00:10:47,160
+Within a month of that date, multiple radical progressive news organizations, from BuzzFeed
+
+194
+00:10:47,160 --> 00:10:53,320
+to HuffPo to Vice, began implementing layoffs and cutbacks, citing a lack of funding and
+
+195
+00:10:53,320 --> 00:10:55,440
+a need to downsize as the reasoning.
+
+196
+00:10:55,440 --> 00:10:57,280
+Yeah, you heard all of that right.
+
+197
+00:10:57,280 --> 00:11:01,580
+I think what happened here, and this is just my guess, is that the Obama administration
+
+198
+00:11:01,580 --> 00:11:06,560
+decided to empower radical progressives within the media in order to push a cultural, social,
+
+199
+00:11:06,560 --> 00:11:11,440
+and political narrative, with the now overused excuse of Russian interference.
+
+200
+00:11:11,440 --> 00:11:15,880
+And when the money finally ran out, those same activists that were brought on to turn
+
+201
+00:11:15,880 --> 00:11:21,120
+the media into an absolute nightmare circus of incompetence and mouth-frothing ignorance
+
+202
+00:11:21,120 --> 00:11:24,360
+back in 2016 were finally shown the door.
+
+203
+00:11:24,360 --> 00:11:29,120
+Let's hope that this event finally signals the death of the media's cult-like behavior
+
+204
+00:11:29,120 --> 00:11:33,480
+now that all of these laughing stocks have been cast out into the streets, into the cold,
+
+205
+00:11:33,480 --> 00:11:37,160
+harsh reality that the people they claim to advocate for know all too well.
+
+206
+00:11:37,160 --> 00:11:39,000
+But hey, it's not all bad.
+
+207
+00:11:39,000 --> 00:11:42,880
+You people think there's a massive gender and race disparity in tech, right?
+
+208
+00:11:42,880 --> 00:11:45,560
+Well, now's your chance to correct it.
+
+209
+00:11:45,560 --> 00:11:46,680
+Learn to code.
+
+210
+00:11:46,680 --> 00:11:50,280
+Let's say you spent 30 years making a solid middle class living in a paper mill in northern
+
+211
+00:11:50,320 --> 00:11:51,520
+New Hampshire.
+
+212
+00:11:51,520 --> 00:11:54,920
+Then one day the mill shuts down, sold for scrap to China.
+
+213
+00:11:54,920 --> 00:11:55,920
+Happened a lot.
+
+214
+00:11:55,920 --> 00:11:56,920
+But no problem.
+
+215
+00:11:56,920 --> 00:11:57,920
+Just learn to code.
+
+216
+00:11:57,920 --> 00:11:59,240
+Everyone in Brooklyn's doing it.
+
+217
+00:11:59,240 --> 00:12:03,940
+Well, coding was never a real solution to any of this, obviously, but it had the effect
+
+218
+00:12:03,940 --> 00:12:08,080
+of making journalists feel even more self-satisfied, and of course that was the point.
+
+219
+00:12:08,080 --> 00:12:10,320
+It's always the point, actually.
+
+220
+00:12:10,320 --> 00:12:12,280
+Fast forward to this month.
+
+221
+00:12:12,280 --> 00:12:15,640
+Someone on Twitter came up with a pretty brilliant piece of advice for all those laid-off journalists
+
+222
+00:12:15,640 --> 00:12:18,280
+trying to figure out what to do with their lives.
+
+223
+00:12:18,280 --> 00:12:20,160
+Learn to code.
+
+224
+00:12:20,160 --> 00:12:20,480
+Perfect.
+

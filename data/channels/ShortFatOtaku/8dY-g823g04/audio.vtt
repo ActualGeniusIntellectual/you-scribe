@@ -1,0 +1,1073 @@
+WEBVTT
+
+00:00.000 --> 00:04.880
+On January 4th, 2018, the Federal Communications Commission, or FCC,
+
+00:04.880 --> 00:09.840
+released its final net neutrality repeal order. This capped off months of discussion on the topic
+
+00:09.840 --> 00:15.520
+of net neutrality, which had previously come to a head on December 14th, 2017. But even before that,
+
+00:15.520 --> 00:18.560
+net neutrality had been floating around the political discourse for several years,
+
+00:18.560 --> 00:24.080
+in one form or another. What exactly is net neutrality? Well, here's Wikipedia's definition.
+
+00:24.080 --> 00:27.920
+Net neutrality is the principle that internet service providers must treat all data on the
+
+00:27.920 --> 00:33.840
+internet the same, and not discriminate or charge differently by user, content, website, platform,
+
+00:33.840 --> 00:38.320
+application, type of attached equipment, or method of communication. For instance,
+
+00:38.320 --> 00:42.560
+under these principles, internet service providers are unable to intentionally block,
+
+00:42.560 --> 00:47.600
+slow down, or charge money for specific websites and online content. That sounds like a reasonable
+
+00:47.600 --> 00:52.480
+description of net neutrality to me, and at first glance it would seem unthinkable that somebody
+
+00:52.480 --> 00:56.800
+would oppose these principles. In fact, if you were to take a good hard look at the history of
+
+00:56.800 --> 01:01.360
+ISP behaviors and FCC actions against these behaviors since the beginning of the publicly
+
+01:01.360 --> 01:06.720
+available internet in the mid 1990s, it's not hard to see why so many people are supporters of net
+
+01:06.720 --> 01:13.120
+neutrality. In 1996, Congress passed the Telecommunications Act. In section 230, titled
+
+01:13.120 --> 01:16.960
+Protection for Private Blocking and Screening of Offensive Material, the legal status of the
+
+01:16.960 --> 01:21.040
+internet is brought up, with Congress taking an entirely hands-off approach regarding the
+
+01:21.040 --> 01:25.440
+regulation of the internet. A myriad of private lawsuits involving internet and tech companies
+
+01:25.440 --> 01:29.680
+began to build up, and when it became clear that the Telecommunications Act was providing no help,
+
+01:29.680 --> 01:34.560
+the FCC decided to commission a study of the internet in 1998. This study, titled the Cable
+
+01:34.560 --> 01:40.080
+Modem Order, released in 2002. In section 3, a basic framework for the regulation of the internet
+
+01:40.080 --> 01:45.120
+was introduced, alongside a criticism of Congress and its 1996 Telecommunications Act for not
+
+01:45.120 --> 01:49.440
+properly handling the issue. The Communications Act does not clearly indicate how cable modem
+
+01:49.440 --> 01:53.200
+service should be classified or regulated. The relevant statutory provisions do not yield
+
+01:53.200 --> 01:57.520
+easy or obvious answers to the questions at hand, and the case law interpreting those provisions is
+
+01:57.520 --> 02:01.840
+extensive and complex. The technologies and business models used to provide cable modem
+
+02:01.840 --> 02:06.480
+service are also complex and are still evolving. As the Supreme Court recently observed in its
+
+02:06.480 --> 02:10.240
+connection with the Commission's interpretation of the Poll Attachment Act and its application
+
+02:10.240 --> 02:15.680
+to cable modem service, the subject matter here is technical, complex, and dynamic. And as a general
+
+02:15.680 --> 02:20.800
+rule, agencies have the authority to fill gaps where statutes are silent. As a follow-up to this,
+
+02:20.800 --> 02:26.320
+in 2005, the FCC released the Internet Policy Statement. Section 2 of this statement reads
+
+02:26.320 --> 02:31.440
+as follows. The Communications Act, passed in 1934, charges the Commission with regulating
+
+02:31.440 --> 02:36.560
+interstate and foreign commerce in communication by wire and radio. The Communications Act regulates
+
+02:36.560 --> 02:41.680
+telecommunications carriers as common carriers under Title II. Information service providers,
+
+02:41.680 --> 02:46.400
+by contrast, are not subject to mandatory common carrier regulation under Title II. The Commission,
+
+02:46.480 --> 02:51.680
+however, has jurisdiction to impose additional regulatory obligations under its Title I
+
+02:51.680 --> 02:56.240
+ancillary jurisdiction to regulate interstate and foreign communications. As a result,
+
+02:56.240 --> 03:00.240
+the Commission has jurisdiction necessary to ensure that providers of telecommunications
+
+03:00.240 --> 03:05.840
+for Internet access or Internet Protocol-enabled, IP-enabled services are operated in a neutral
+
+03:05.840 --> 03:10.720
+manner. Moreover, to ensure that broadband networks are widely deployed, open, affordable,
+
+03:10.720 --> 03:15.120
+and accessible to all consumers, the Commission adopts the following principles. To encourage
+
+03:15.120 --> 03:18.960
+broadband deployment and preserve and promote the open and interconnected nature of the public
+
+03:18.960 --> 03:23.040
+Internet, consumers are entitled to access the lawful Internet content of their choice.
+
+03:23.040 --> 03:27.280
+Consumers are entitled to run applications and use services of their choice, subject to the needs
+
+03:27.280 --> 03:31.200
+of law enforcement. Consumers are entitled to connect their choice of legal devices that do not
+
+03:31.200 --> 03:36.480
+harm the network. And consumers are entitled to competition among network providers, application
+
+03:36.480 --> 03:41.280
+and service providers, and content providers. This is all nicely summed up in Section III.
+
+03:41.280 --> 03:46.240
+The Commission has a duty to preserve and promote the vibrant and open character of the Internet
+
+03:46.240 --> 03:50.480
+as the telecommunications marketplace enters the broadband age. And just so we're clear,
+
+03:50.480 --> 03:55.680
+services classified under Title I are information services and subject to regulation by the Federal
+
+03:55.680 --> 04:01.280
+Trade Commission or FTC, while services classified under Title II are telecommunications services
+
+04:01.280 --> 04:06.720
+or common carriers and instead subject to FCC regulation. Title III refers to the regulation
+
+04:06.720 --> 04:11.440
+of signals to Earth-orbiting satellites, and Titles IV through VI discuss implementation of
+
+04:11.440 --> 04:16.160
+the law and special case scenarios. Title I information services are lightly regulated,
+
+04:16.160 --> 04:21.200
+while Title II common carriers are heavily regulated. A common carrier refers to a service
+
+04:21.200 --> 04:24.560
+provider to the general public without discrimination for the greater public good,
+
+04:24.560 --> 04:29.280
+in contrast with private carriers which have more freedom regarding who they serve and for what
+
+04:29.280 --> 04:35.360
+price. In 2010, during a lawsuit between Comcast and the FCC, the judge ruled that the FCC had
+
+04:35.360 --> 04:39.120
+overstepped its bounds in attempting to regulate Comcast's shitty business practices, because
+
+04:39.120 --> 04:45.200
+Internet Service Providers, or ISPs, were regulated by the FTC under Title I, not the FCC under Title
+
+04:45.200 --> 04:50.160
+II. In response, the FCC released the Open Internet Order, and while it can be somewhat
+
+04:50.160 --> 04:54.160
+technical, a basic layman's description is provided in the preamble. To provide greater
+
+04:54.160 --> 04:58.240
+clarity and certainty regarding the continued freedom and openness of the Internet, we adopt
+
+04:58.240 --> 05:02.800
+three basic rules that are grounded in broadly accepted Internet norms, as well as our own prior
+
+05:02.800 --> 05:08.320
+decisions. 1. Transparency. Fixed and mobile broadband providers must disclose the network
+
+05:08.320 --> 05:12.800
+management practices, performance characteristics, and terms and conditions of their broadband
+
+05:12.800 --> 05:18.880
+services. 2. No blocking. Fixed broadband providers may not block lawful content, applications,
+
+05:18.880 --> 05:24.560
+services, or non-harmful devices. Mobile broadband providers may not block lawful websites or block
+
+05:24.560 --> 05:29.760
+applications that compete with their voice or video telephony services. 3. No unreasonable
+
+05:29.760 --> 05:34.160
+discrimination. Fixed broadband providers may not unreasonably discriminate in transmitting
+
+05:34.160 --> 05:38.720
+lawful network traffic. We believe these rules, applied with the contemporary principle of
+
+05:38.720 --> 05:43.200
+reasonable network management, will empower and protect consumers and innovators, while helping
+
+05:43.200 --> 05:47.520
+ensure that the Internet continues to flourish with robust private investment and rapid innovation
+
+05:47.520 --> 05:53.120
+at both the core and the edge of the network. Soon after, Verizon sued the FCC under the same logic
+
+05:53.120 --> 05:57.440
+that they didn't have the right to regulate ISPs under Title II, as ISPs were designated Title I
+
+05:57.440 --> 06:01.600
+information services and not Title II common carriers. The judge would eventually rule in
+
+06:01.600 --> 06:07.040
+2014 that while the court agreed that ISPs needed to be regulated in the manner that the FCC
+
+06:07.040 --> 06:12.960
+described, the FCC still didn't have the authority to do so, which would lead, in 2015, to the FCC
+
+06:12.960 --> 06:18.560
+reclassifying ISPs as common carriers under Title II with the support of President Obama. In 2015,
+
+06:18.560 --> 06:23.200
+the FCC released the Net Neutrality Order outlining three specific practices that ISPs
+
+06:23.200 --> 06:27.840
+would need to follow going forward. 1. No blocking. A person engaged in the provision
+
+06:27.840 --> 06:32.400
+of broadband Internet access service, insofar as such a person is so engaged, shall not block
+
+06:32.400 --> 06:37.120
+lawful content, applications, services, or non-harmful devices subject to reasonable
+
+06:37.120 --> 06:41.760
+network management. 2. No throttling. A person engaged in the provision of broadband Internet
+
+06:41.760 --> 06:46.080
+access service, insofar as such a person is so engaged, shall not impair or degrade lawful
+
+06:46.080 --> 06:50.560
+Internet traffic on the basis of Internet content, application, or service, or use of a non-harmful
+
+06:50.560 --> 06:55.920
+device subject to reasonable network management. 3. No paid prioritization. A person engaged in
+
+06:55.920 --> 06:59.920
+the provision of broadband Internet access service, insofar as such a person is so engaged,
+
+06:59.920 --> 07:04.560
+shall not engage in paid prioritization. The logic of the first rule is self-evident. People
+
+07:04.560 --> 07:08.960
+expect to be able to access the whole Internet when they pay their ISP for Internet access.
+
+07:08.960 --> 07:14.240
+Rules 2 and 3 are built on the premise of Rule 1, that an extreme amount of throttling or paid
+
+07:14.240 --> 07:19.200
+prioritization would in practice violate Rule 1, and so to avoid a slippery slope situation,
+
+07:19.200 --> 07:23.200
+they simply axe those possibilities. And most recently in the timeline of events,
+
+07:23.200 --> 07:29.600
+in 2017, the FCC's current chairman, Ajit Pai, released an order putting ISPs back under Title
+
+07:29.600 --> 07:34.080
+1 as information services and out from under Title 2 as common carriers, effectively reversing
+
+07:34.080 --> 07:38.640
+the 2015 net neutrality order. And it's this action that has made the Internet lose its
+
+07:38.640 --> 07:42.640
+collective fucking minds. Now, a lot of net neutrality opponents make the argument that
+
+07:42.640 --> 07:48.240
+the Internet was just fine before 2015, and that 2017's repeal is not going to bring humanity back
+
+07:48.240 --> 07:52.240
+into the Dark Ages. And that argument does have some weight to it. I'm sure we can all remember
+
+07:52.240 --> 07:57.680
+the Internet pre-2015, and it was basically the same thing as it was after 2015. But at the same
+
+07:57.680 --> 08:03.360
+time, the pre-2015 Internet wasn't a paradise either. In 2014, The Huffington Post released
+
+08:03.360 --> 08:08.000
+an article titled Net Blocking, a Problem in Need of a Solution. And in this article is a timeline
+
+08:08.000 --> 08:13.280
+of the many instances of ISPs not only blocking, throttling, or offering paid prioritization,
+
+08:13.280 --> 08:18.080
+but refusing to tell their customers about it. In 2005, a local Madison River ISP blocked
+
+08:18.080 --> 08:22.640
+the VoIP service Vonage, Comcast blocked all peer-to-peer applications, and Telus blocked
+
+08:22.640 --> 08:27.520
+access to 766 individual websites that exposed political opinions that the management of Telus
+
+08:27.520 --> 08:32.720
+personally disagreed with, including a website supporting a labor strike against Telus. In 2007,
+
+08:32.720 --> 08:37.680
+AT&T forced Apple to block all VoIP applications on the iPhone, wanting people to use their phone
+
+08:37.680 --> 08:42.640
+services instead. In 2010, Windstream Communications began redirecting Google searches into their own
+
+08:42.640 --> 08:48.160
+proprietary search engine. In 2011, Metro PC's blockstreaming video from all sources except
+
+08:48.160 --> 08:55.920
+YouTube. The ISP's Cavalier, Cogent, Frontier, Fuse, DirectPC, RCN, and WideOpenWest were found
+
+08:55.920 --> 09:01.120
+to be redirecting search queries through the proprietary search engine Paxfire. And AT&T,
+
+09:01.120 --> 09:06.080
+Sprint, and Verizon blocked access to Google Wallet in favor of their own online payment
+
+09:06.080 --> 09:12.560
+service, unfortunately named ISIS. In 2012, Verizon blocked free tethering applications
+
+09:12.560 --> 09:17.840
+in favor of its own $20 tethering service. And AT&T blocked access to FaceTime unless
+
+09:17.840 --> 09:22.800
+customers subscribed to a specific, more expensive payment plan. Oh yeah, and in 2013,
+
+09:22.800 --> 09:27.520
+Verizon explicitly admitted in court that the only reason they weren't just charging a whole
+
+09:27.520 --> 09:32.400
+whack of money for piecemeal, downgraded internet services is due to the FCC's attempts to regulate
+
+09:32.400 --> 09:36.400
+it. Admittedly, some of these instances are from the mobile services of these companies,
+
+09:36.400 --> 09:41.680
+and not their ISP division. However, even as their shitty internet practices were regulated from 2015
+
+09:41.680 --> 09:47.280
+to 2017, their shitty mobile practices continued to degrade in quality. In this time, Verizon
+
+09:47.280 --> 09:51.680
+prevented third-party SIM cards from working, they blocked the Pay with PayPal app, the Whitepages
+
+09:51.680 --> 09:56.720
+free caller ID app, and all Radio FM apps. T-Mobile throttled speed on all unlimited plans,
+
+09:56.720 --> 10:01.600
+and a formal investigation into AT&T's business practices began. You would be a fool to think
+
+10:01.600 --> 10:05.280
+that these companies wouldn't do the same thing with their internet services if they could.
+
+10:05.280 --> 10:10.800
+So this is, as far as I can tell, the bulk of the pro-net neutrality argument. ISPs have a history
+
+10:10.800 --> 10:14.960
+of duplicitous business practices, and the FCC has been attempting to rein them in at every turn.
+
+10:14.960 --> 10:19.760
+The net neutrality principles of no blocking, no throttling, and no paid prioritization are
+
+10:19.760 --> 10:24.000
+ultimately in the public good, because they ensure that everyone gets access to the same internet.
+
+10:24.000 --> 10:28.000
+Net neutrality proponents often explain these principles with the highway analogy.
+
+10:28.000 --> 10:32.480
+With speed bumps in the slow lane, and fast lanes open only for those who can afford to pay.
+
+10:32.480 --> 10:36.320
+But let's give the devil his due here, let's take a look at what the opponents of net neutrality
+
+10:36.320 --> 10:41.200
+have to say. Well, first of all, the phrase opponents of net neutrality doesn't necessarily
+
+10:41.200 --> 10:45.680
+work in this context. There are a lot of people who are pro-net neutrality's principles,
+
+10:45.680 --> 10:51.120
+and still believe that a JIT Pai's action to return ISPs to their pre-2015 Title I state was
+
+10:51.120 --> 10:54.880
+ultimately a good thing. These people still believe in the values of net neutrality,
+
+10:54.880 --> 11:00.720
+but ultimately believe that FTC regulation under Title I, and not FCC regulation under Title II,
+
+11:00.720 --> 11:05.520
+is the best way to get us there. Unfortunately, both the mainstream media and the new internet
+
+11:05.520 --> 11:09.760
+media, in a rare instance of cooperation between the two, has tarred and feathered anybody who
+
+11:09.760 --> 11:14.880
+dislikes Title II regulation of ISPs as an anti-net neutrality totalitarian dictator that simply wants
+
+11:14.880 --> 11:18.560
+to regulate the free and open internet into non-existence. While the actual situation is
+
+11:18.560 --> 11:22.800
+more nuanced than that. So let's take a look at the point of view of the Title I proponents.
+
+11:22.800 --> 11:26.800
+You know that long list in the Huffington Post listing the various misdeeds of the ISPs?
+
+11:26.800 --> 11:32.080
+Well, all of those cases prior to 2015 were actually successfully resolved using Title I
+
+11:32.080 --> 11:36.800
+regulation, and almost all of them in favour of the consumer. Title I seemed to be working
+
+11:36.800 --> 11:41.280
+just fine. Sure, the ISPs were trying some shady shit, but they weren't really getting away with
+
+11:41.280 --> 11:46.480
+it. And if the Title II argument is that Title II classification would prevent ISPs from even trying
+
+11:46.480 --> 11:50.560
+the shady shit in the first place, well that's a pretty slippery slope to go down. I don't know
+
+11:50.560 --> 11:56.080
+about you, but insofar as government regulation is concerned in general, I would rather governments
+
+11:56.080 --> 12:02.000
+create a blacklist of grossly unethical practices, instead of a whitelist of pre-approved practices.
+
+12:02.000 --> 12:05.680
+Additionally, Title II proponents seem to believe that paid prioritization is a taboo,
+
+12:05.680 --> 12:10.880
+that all packets of data must be treated equally. But why? I mean, loading an email or a Reddit
+
+12:10.880 --> 12:15.840
+thread certainly doesn't require the same latency as playing video games online or watching Netflix
+
+12:15.840 --> 12:20.800
+or streaming to your audience. In any other industry, prioritizing resources based on need
+
+12:20.800 --> 12:25.120
+is a no-brainer. And then there's that famous Portugal internet package image, where Title II
+
+12:25.120 --> 12:29.440
+proponents say that this excessive bundling with restrictive data caps is where American ISPs will
+
+12:29.440 --> 12:34.560
+end up without regulation. Well, notwithstanding the fact that this Portuguese plan doesn't block
+
+12:34.560 --> 12:39.360
+access to specific types of content if you don't buy their specialized plans, but instead offers
+
+12:39.360 --> 12:43.040
+a faster connection for those types while still maintaining a basic minimum access that is
+
+12:43.040 --> 12:47.600
+reasonable, why do you think that this would happen? It didn't happen before 2015, when ISPs
+
+12:47.600 --> 12:51.920
+were under Title I. And do you think that an ISP would actually survive in the marketplace if it
+
+12:51.920 --> 12:56.240
+attempted to do this sort of thing? Its competitors would eat it alive. So with Title I out of the
+
+12:56.240 --> 13:01.440
+way, let's talk about the actual opponents of net neutrality. Not people who want FDC regulation
+
+13:01.440 --> 13:06.080
+under Title I. You know, the people who believe that a fully deregulated internet where ISPs can
+
+13:06.080 --> 13:10.000
+just do whatever the fuck the market will let them get away with is the best possible way forward.
+
+13:10.000 --> 13:14.800
+What's their reasoning? Well, a big one is that net neutrality stifles investment in innovation.
+
+13:14.800 --> 13:19.840
+This is a common free market capitalist argument that excessive taxation, strict adherence to
+
+13:19.840 --> 13:24.400
+regulation, and large amounts of red tape all contribute to diminished returns on investments,
+
+13:24.400 --> 13:28.480
+and that eventually it becomes a net loss for a company to invest in its own business.
+
+13:28.480 --> 13:32.960
+Mark Anderson, the inventor of the world's first web browser software, said in an interview with
+
+13:32.960 --> 13:37.680
+the Washington Post that, I think that a pure net neutrality view is difficult to sustain if you
+
+13:37.680 --> 13:41.040
+also want to have continued investment in broadband networks. If you're a large
+
+13:41.040 --> 13:45.280
+telecommunications company right now, you're spending on the order of 20 billion dollars
+
+13:45.280 --> 13:49.120
+a year on capital expenditure. You need to know how you're going to get a return on that investment.
+
+13:49.120 --> 13:53.120
+If you have these pure net neutrality rules where you can never charge a company like Netflix
+
+13:53.120 --> 13:56.640
+anything, you're not ever going to get a return on continued network investment, which means you'll
+
+13:56.640 --> 14:00.400
+stop investing in the network. And I would not want to be sitting here 10 or 20 years from now
+
+14:00.400 --> 14:04.960
+with the same broadband speeds we're getting today. Additionally, the ability for new competitors to
+
+14:04.960 --> 14:09.360
+enter the market also becomes non-existent under net neutrality. The same costs that restrict
+
+14:09.360 --> 14:13.040
+larger ISP's ability to invest in their own business prevent smaller competitors from
+
+14:13.040 --> 14:17.440
+springing up at all. They simply don't have the ability to start up a new business. In reality,
+
+14:17.440 --> 14:22.560
+net neutrality can actually promote monopolies and pricing cabals within the ISP market by making the
+
+14:22.560 --> 14:27.040
+cost of new competitors entering the market prohibitively high. The honest reality is,
+
+14:27.040 --> 14:30.880
+the physical infrastructure of the internet requires a lot of money to build and maintain,
+
+14:30.880 --> 14:35.280
+and somebody has to foot the bill for that. We've got four choices as to who. The ISP's,
+
+14:35.280 --> 14:39.520
+the consumer's, the content provider's, or the government. Having the government foot the bill
+
+14:39.520 --> 14:44.000
+would effectively nationalize the internet, and I don't think anybody wants that. Under Title II
+
+14:44.000 --> 14:49.120
+regulation, the ISP's are forced to foot the bill themselves. Net neutrality demands that all users,
+
+14:49.120 --> 14:53.280
+both the consumer and the content provider's, pay the same rate no matter how much data they
+
+14:53.280 --> 14:57.600
+actually use. If consumers foot the bill, that means changing the internet package to something
+
+14:57.600 --> 15:02.800
+more like mobile packages, with data caps and speed regulations, and even at their worst,
+
+15:02.800 --> 15:07.600
+content regulations. It's obvious that consumers don't want this, hell, I don't want this,
+
+15:07.600 --> 15:12.320
+but it's not inherently unfair. Imagine if electricity companies did away with the
+
+15:12.320 --> 15:15.840
+electricity meters on the side of everyone's houses and just charged us all a flat fee.
+
+15:15.840 --> 15:19.600
+Well hey, that sounds good, right? Maybe in the short term it would be, at least for us.
+
+15:19.600 --> 15:24.560
+But eventually, the cost of providing simplistic on-off, unmeasured access to everybody would
+
+15:24.560 --> 15:28.400
+become so high that either the system would collapse, or the electricity companies would
+
+15:28.400 --> 15:33.280
+massively jack everyone's prices up regardless of usage just to cover their expenses. But what
+
+15:33.280 --> 15:37.200
+about that fourth option? Charging the content providers for the bandwidth that their consumers
+
+15:37.200 --> 15:42.160
+demand. I mean, sites like YouTube, Facebook, Twitter, and Netflix all gobble up way more
+
+15:42.160 --> 15:47.200
+bandwidth than email servers or personal websites or blogs. If we don't want to pass the cost onto
+
+15:47.200 --> 15:52.240
+the customers, and passing the cost onto the ISP's is untenable in the long term, why don't these
+
+15:52.240 --> 15:56.320
+large tech companies pay their way? Why don't they invest in the infrastructure that makes
+
+15:56.320 --> 16:01.040
+their businesses viable in the first place? Maybe this is why every single time the topic
+
+16:01.040 --> 16:05.680
+of net neutrality comes up, every single tech giant speaks out in favor of it. Maybe it's
+
+16:05.680 --> 16:10.640
+because one of the more viable alternatives to a pure net neutrality is one that allows the ISPs
+
+16:10.640 --> 16:15.280
+to recoup their investment costs, but places the burden of cost on these tech giants instead of on
+
+16:15.280 --> 16:20.000
+the consumers. I mean, these companies certainly are not pro-net neutrality out of some ideological
+
+16:20.000 --> 16:23.920
+stance regarding the free and open nature of the internet. All the big social network platforms
+
+16:23.920 --> 16:27.840
+are just fine with regulating the internet as long as they are the ones doing the regulating.
+
+16:27.840 --> 16:31.920
+We already know from Project Veritas that YouTube manipulates search algorithms so that
+
+16:31.920 --> 16:36.720
+pre-approved curated content reaches the front page, the trending list, and so on. We already
+
+16:36.720 --> 16:41.120
+know the debacle that YouTube's yellow monetization sign limited state bullshit has become. We
+
+16:41.120 --> 16:45.840
+already know that Google uses its power to quash ideas it doesn't like. Here's some excerpts from
+
+16:45.840 --> 16:50.320
+an article of the same name. The Google salespeople were encouraging Forbes to add Google Plus's
+
+16:50.320 --> 16:54.480
+social buttons to articles on the site alongside the Facebook light button and the Reddit share
+
+16:54.480 --> 16:58.880
+button. They said it was important to do so because the Plus recommendations would be a
+
+16:58.880 --> 17:03.520
+factor in search results, a crucial source of traffic to publishers. This sounded like a news
+
+17:03.520 --> 17:08.320
+story to me. Google's dominance in search and news gave it tremendous power over publishers.
+
+17:08.320 --> 17:13.360
+By tying search results to the use of Google Plus, Google was using that muscle to force people to
+
+17:13.360 --> 17:17.840
+promote its social network. I asked the Google people if I understood correctly. If a publisher
+
+17:17.840 --> 17:22.960
+didn't want a plus one button on the page, its search results would suffer? The answer was yes.
+
+17:22.960 --> 17:27.200
+With that, I published a story headlined stick Google Plus buttons on your pages or your surf
+
+17:27.200 --> 17:31.520
+traffic suffers that included bits of conversation from the meeting. Google promptly flipped out.
+
+17:31.520 --> 17:35.520
+They never challenged the accuracy of the reporting. Instead, a Google spokesperson told
+
+17:35.520 --> 17:39.200
+me that I needed to unpublish the story because the meeting had been confidential and that the
+
+17:39.200 --> 17:43.280
+information discussed there had been subject to a non-disclosure agreement between Google and Forbes.
+
+17:43.360 --> 17:47.280
+I had signed no such agreement, hadn't been told the meeting was confidential, and I had identified
+
+17:47.280 --> 17:52.160
+myself as a journalist. It escalated quickly from there. I was told by my higher-ups at Forbes that
+
+17:52.160 --> 17:56.000
+Google representatives called them saying that the article was problematic and had to come down.
+
+17:56.000 --> 17:59.840
+The implication was that it might have consequences for Forbes, a troubling possibility
+
+17:59.840 --> 18:04.000
+given how much traffic came through Google searches and Google News. We already know that
+
+18:04.000 --> 18:07.920
+Google AdSense has threatened to remove all ad revenue from and disable the account of
+
+18:07.920 --> 18:12.800
+thelibertyconservative.com if they do not censor their content to Google standards. We already know
+
+18:12.800 --> 18:17.200
+that YouTube has demonetized all content on its platform regarding the Mandalay Bay shooting,
+
+18:17.200 --> 18:21.440
+even content where their ad revenue was meant to go to charity, with the official response of
+
+18:21.440 --> 18:26.080
+no matter the intent, our policy is to not run ads on videos about tragedies. Except when Jimmy
+
+18:26.080 --> 18:30.720
+Kimmel's video on that same shooting has ads on it. And though this is anecdotal and entirely my
+
+18:30.720 --> 18:35.120
+own subjective experience, I've noticed that YouTube is far more likely to approve a request
+
+18:35.120 --> 18:40.400
+to remove the limited monetization state if the video in question has non-skippable ads enabled.
+
+18:40.400 --> 18:44.240
+I might do a full video on YouTube's shitty practices sometime, there's actually some depth
+
+18:44.240 --> 18:49.680
+to the topic. We already know Facebook and Twitter are both extremely one-sided in who they ban,
+
+18:49.680 --> 18:53.760
+what content they allow, what content they promote, and which creators they curate. And
+
+18:53.760 --> 18:58.080
+what I stated would happen in one of my previous videos, the balkanization of technology, is coming
+
+18:58.080 --> 19:02.320
+to pass. Free speech alternatives to the big names and internet services are cropping up,
+
+19:02.320 --> 19:06.880
+they're fighting an uphill battle to be sure, but people are honestly just tired of being censored
+
+19:06.880 --> 19:11.200
+by the Reddits and Twitters and Facebooks of the world. So yeah, any time a big tech
+
+19:11.200 --> 19:15.520
+giant makes a post about net neutrality, just tell them to fuck off. They don't want net neutrality,
+
+19:15.520 --> 19:20.320
+they want to hold the reins instead of the government or the ISPs. And maybe, just maybe
+
+19:20.320 --> 19:25.200
+there's another reason why. Maybe it's because under Title I, the FTC has the jurisdiction to
+
+19:25.200 --> 19:30.400
+enforce antitrust and other anti-monopoly laws on these tech giants, not just the ISPs but the
+
+19:30.400 --> 19:34.240
+Twitters and YouTubes and Facebooks of the world. Yeah, that would be a pretty big reason for these
+
+19:34.240 --> 19:38.960
+companies to fear Title I regulation, wouldn't it? Can the case be made that Apple or Google
+
+19:38.960 --> 19:43.200
+or Facebook hold monopolies in their specific markets? Maybe. And there's other arguments as
+
+19:43.200 --> 19:49.360
+well. Let's take a look at Marsh v. Alabama, a 1946 U.S. Supreme Court case. In the case,
+
+19:49.360 --> 19:53.360
+the town of Chickasaw was entirely privately owned by the Gulf Shipbuilding Corporation.
+
+19:53.360 --> 19:57.040
+Though all buildings and roads within the town were company-owned, the roads connected to the
+
+19:57.040 --> 20:02.000
+state-owned highway and allowed non-employees to pass through the town and use civil services.
+
+20:02.000 --> 20:07.120
+Ms. Marsh, a Jehovah's Witness, attempted to distribute religious material on the sidewalk
+
+20:07.120 --> 20:11.280
+in Chickasaw and was arrested on the grounds that because the entire town was privately owned,
+
+20:11.280 --> 20:15.360
+free speech rights did not apply. The case went to the Supreme Court, where it was ruled that because
+
+20:15.360 --> 20:20.000
+the Gulf Shipbuilding Corporation held an absolute monopoly on what was colloquially referred to as
+
+20:20.000 --> 20:25.040
+the town square, that it in function took the role of a municipality. The claim of private property
+
+20:25.040 --> 20:29.280
+was rejected on the grounds that the Gulf Shipbuilding Corporation had provided access
+
+20:29.280 --> 20:33.840
+to the town and its infrastructure to any passerby in the past like a municipality would,
+
+20:33.840 --> 20:36.960
+and as a municipality they were bound to uphold the constitution.
+
+20:36.960 --> 20:43.280
+In 1996, the Marsh v. Alabama case was raised during the Cyber Promotions v. America Online
+
+20:43.280 --> 20:48.160
+case. Cyber Promotions wanted to send spam email to all email addresses that ended in
+
+20:48.160 --> 20:53.680
+at AOL.com. America Online decided to block all emails from Cyber Promotions at the ISP level.
+
+20:53.680 --> 20:57.520
+Cyber Promotions argued that Marsh v. Alabama set a precedent that private property,
+
+20:57.520 --> 21:01.680
+if sufficiently opened up to the public to the point that a monopoly on communication existed,
+
+21:01.680 --> 21:06.400
+must allow for free speech under the previous town square principle. The court disagreed,
+
+21:06.400 --> 21:10.960
+because AOL servers were only open to the public insofar as they were AOL customers,
+
+21:10.960 --> 21:14.400
+and this decision paved the way for the legality of the spam filter.
+
+21:14.400 --> 21:18.800
+But can that same case be made for Facebook or Twitter? Sure, these services are only available
+
+21:18.800 --> 21:23.360
+to people if they log into their accounts, but unlike AOL servers, it costs nothing to
+
+21:23.360 --> 21:28.320
+create these accounts. Unlike Netflix, which is a paid service, Facebook, Twitter, Reddit,
+
+21:28.320 --> 21:33.120
+and YouTube are all caught in the Marsh v. Alabama bind. They're all private entities that hold an
+
+21:33.120 --> 21:37.120
+absolute monopoly on free speech within their jurisdiction, and they're entirely open to the
+
+21:37.120 --> 21:41.440
+public, just like Chickasaw was. Maybe the way forward for net neutrality's principles isn't
+
+21:41.440 --> 21:46.240
+Title II. Maybe it's recognizing the internet as a town square and forcing all of its constituent
+
+21:46.240 --> 21:51.200
+parts, not just one slice of them, to conform to constitutional law. Of course, if you were to talk
+
+21:51.200 --> 21:55.360
+to any Title II diehard about any point I've brought up in this video, even the pro-net
+
+21:55.360 --> 21:58.800
+neutrality points that are anti-Title II, they would treat you like the neo-Nazi,
+
+21:58.800 --> 22:02.960
+Trump-supporting piece of bigoted capitalist scum that you obviously are. Oh yeah, guys,
+
+22:02.960 --> 22:07.680
+net neutrality is a race issue, right? Communities of color disproportionately affected? Even if the
+
+22:07.680 --> 22:12.480
+only change to the internet under Title I is that ISPs offer people even better internet if they can
+
+22:12.480 --> 22:16.640
+afford it? Well, of course. Internet communism demands that everyone has dial-up in order to
+
+22:16.640 --> 22:21.840
+avoid inequality. The repeal of net neutrality is an attack on the LGBTQ community? Don't worry,
+
+22:21.840 --> 22:27.600
+guys, you can still access Grindr on your mobile plan. Docs, Ajit Pai's kids? Yeah, sure, why the
+
+22:27.600 --> 22:32.800
+fuck not? I wonder if all these people who are irrationally pro-Title II net neutrality remember
+
+22:32.800 --> 22:37.280
+SOPA and PIPA. Yeah, yeah, remember that shit? Remember when the government tried to regulate
+
+22:37.280 --> 22:41.360
+the internet and everyone lost their minds over it? Remember the outcry against the NSA? What
+
+22:41.360 --> 22:45.520
+happened that made you guys suddenly beg and kick and scream for government regulation of the
+
+22:45.520 --> 22:48.720
+internet? And you know, now that we're on the topic of going completely off the rails into
+
+22:48.720 --> 22:52.640
+insanity land, I'd like to present you with a crackpot conspiracy theory and let you make up
+
+22:52.640 --> 22:57.120
+your own mind about it. Title II regulation allows the government to force ISPs into obtaining
+
+22:57.120 --> 23:02.560
+broadcasting licenses, like with radio and TV. Obama pushes for this classification in 2015,
+
+23:02.560 --> 23:06.480
+along with other SOPA and PIPA provisions that were rejected by the electorate. This package
+
+23:06.480 --> 23:11.200
+of shit is rebranded as net neutrality, and ISPs get placed under the Title II umbrella.
+
+23:11.200 --> 23:17.680
+On December 23rd, 2016, Obama signs the 2017 National Defense Authorization Act into law.
+
+23:17.680 --> 23:21.440
+As a bundle, this act also contains the Countering Information Warfare Act,
+
+23:21.440 --> 23:25.280
+introduced by Congress on May 10th, 2016. Let's take a peek at it.
+
+23:25.280 --> 23:28.560
+The Secretary of State, in coordination with the Secretary of Defense and the heads of other
+
+23:28.560 --> 23:32.720
+relevant federal departments and agencies, shall establish within the Department of State a Global
+
+23:32.720 --> 23:38.000
+Engagement Center, in this section referred to as The Center. The purpose of The Center
+
+23:38.000 --> 23:43.040
+shall be to analyze relevant information, data, analysis, and analytics from United States
+
+23:43.040 --> 23:48.000
+government agencies, United States allies and partner nations, think tanks, academic
+
+23:48.000 --> 23:54.320
+institutions, civil society groups, and other non-governmental organizations, in order to lead,
+
+23:54.320 --> 23:58.560
+synchronize, and coordinate efforts of the federal government to recognize, understand,
+
+23:58.560 --> 24:04.400
+expose, and counter foreign state and non-state propaganda and disinformation efforts aimed at
+
+24:04.400 --> 24:07.920
+undermining United States national security interests. The legislation declares that the
+
+24:07.920 --> 24:12.720
+head of The Center will be housed within the White House instead of being independent like most other
+
+24:12.720 --> 24:16.720
+centers created in this way, that the head will answer directly to the president, and that The
+
+24:16.720 --> 24:21.760
+Center will allow the president to use whole-of-government approaches to combat what it labels
+
+24:21.760 --> 24:27.520
+as basically fake news. Maybe this is a bit of a stretch, but just think about it for a minute.
+
+24:27.520 --> 24:32.880
+ISPs are required to have broadcast licenses under Title II. ISPs become legally required to take
+
+24:32.880 --> 24:39.600
+down whatever the Global Engagement Center, or The Center, deems as state or non-state propaganda,
+
+24:39.600 --> 24:44.400
+meaning not just Russian or Chinese propaganda efforts, but your posts to The Donald, the
+
+24:44.400 --> 24:50.560
+Breitbart articles you read, the 4chan boards you lurk. If the ISP refuses to do so, the FCC revokes
+
+24:50.560 --> 24:54.240
+their broadcasting license. And around the same time all this stuff is being pushed through
+
+24:54.240 --> 24:59.120
+Congress, social media companies start revving up their internal policing like Twitter partnering
+
+24:59.120 --> 25:05.120
+with Crash Override, or the Google Ideas team being full of SJWs, and others, and these groups
+
+25:05.120 --> 25:09.120
+are getting played under this legislation as well. The Center can declare those groups as
+
+25:09.120 --> 25:13.680
+third-party fact-checkers because business considers them to be, and The Center can use
+
+25:13.680 --> 25:18.560
+their standards to force ISPs under Title II to remove content and restrict access based on the
+
+25:18.560 --> 25:23.520
+individual being a propagandist. And over the past five years, the internet-using public has largely
+
+25:23.520 --> 25:28.320
+become acclimatized to this idea. We find social media platforms having third-party fact-checking
+
+25:28.320 --> 25:33.360
+teams, fake news combatants, and hate speech provisions as silly, but not silly enough for
+
+25:33.360 --> 25:38.480
+a large-scale boycott. The idea of regulating the internet has shifted from unpopular to necessary,
+
+25:38.480 --> 25:43.120
+SOPA to net neutrality. And just like I said in a previous video, the free speech problem,
+
+25:43.120 --> 25:47.680
+blocking hate speech is now considered a more primary right than allowing free speech. To make
+
+25:47.680 --> 25:51.760
+this go fully into tinfoil hat territory, let me present one more quote from this piece of
+
+25:51.760 --> 25:56.480
+legislation. The Center shall terminate on the date that is eight years after the date of the
+
+25:56.480 --> 26:03.360
+enactment of this act. Obama thought Hillary would win, so much so that he entrusted her
+
+26:03.360 --> 26:07.520
+upcoming presidency with the power to declare anything on the internet or in the media as fake
+
+26:07.520 --> 26:12.800
+news, and not only censor it, but revoke internet access to both individuals and organizations,
+
+26:12.800 --> 26:17.920
+because The Center is legally obligated to listen to the radical left-leaning fact-checking teams
+
+26:17.920 --> 26:22.720
+within tech giants that label anything against their views as fascism and nazism. And they can
+
+26:22.720 --> 26:27.760
+do all of this without a court order. Now I know this is all just tinfoil hat conspiracy theory,
+
+26:27.760 --> 26:31.120
+but there's just enough actual legislation to make you think about it for a minute.
+
+26:31.120 --> 26:36.400
+And on this issue, I am actually glad Donald Trump won the election. Under his direction,
+
+26:36.400 --> 26:42.240
+Ajit Pai has reclassified ISPs as Title I, and the only mention of fake news from his administration
+
+26:42.240 --> 26:46.400
+has been him shitposting about it on Twitter. Ultimately, I believe that the internet does
+
+26:46.400 --> 26:51.280
+need some common-sense regulation, but I don't think that Title II is the way to go. Personally,
+
+26:51.280 --> 26:55.440
+I believe that two of the three net neutrality principles are ultimately good for consumers
+
+26:55.920 --> 27:00.640
+— no blocking and no throttling — while the third, no paid prioritization, is probably bad
+
+27:00.640 --> 27:04.240
+for consumers in the long run. I personally like the idea of being able to pay more for
+
+27:04.240 --> 27:08.960
+hyperfast internet or specialized usage packages that provide good specific benefits while still
+
+27:08.960 --> 27:13.840
+maintaining a solid minimum level of quality. And hey, while I was recording this script,
+
+27:13.840 --> 27:17.360
+it came out that the US Senate is trying a last-ditch attempt to keep the Title II
+
+27:17.360 --> 27:21.520
+regulation on the books. Though of course, the media bills this not as Title II but as net
+
+27:21.520 --> 27:26.160
+neutrality, I guess you can see what side they've chosen. In any case, it's not over yet, but I hope
+
+27:26.160 --> 27:30.320
+I've done an accurate enough job at presenting the case for Title II regulation, Title I regulation,
+
+27:30.320 --> 27:34.800
+and no regulation at all, and I recommend you all come to your own conclusions. I just personally
+
+27:34.800 --> 27:37.840
+think that none of these options are going to be good enough for the health of the internet.
+
+27:37.840 --> 27:40.160
+Not in the long term. We need something new.
+

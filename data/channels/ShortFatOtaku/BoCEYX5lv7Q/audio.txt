@@ -1,0 +1,192 @@
+YouTube's had a lot of problems with children, hasn't it?
+Elsagate?
+The whole child actor thing?
+Removing comments and metrics for videos with kids in them?
+It's almost like YouTube's an incompetent company that has no idea how to actually run
+itself.
+But, for once, the COPPA situation is actually not YouTube's fault.
+I released a podcast with Scrump on this topic if you want to listen to it, because in it
+we go over the particulars, but the basic idea is, in 1998, Bill Clinton signed into
+law the Children's Online Privacy Protection Act, intended to provide protections for people
+under 13 years old.
+It placed additional responsibilities on websites regarding their dealings with children, it
+prevented those sites from collecting certain types of data from children, and it regulated
+the contents of a website's privacy policy.
+COPPA came about in response to the actions of a website called Kidscom.
+That's kidscom.com, because boomers.
+Kidscom was launched in 1995 as a virtual world where users could navigate the earth,
+play games, and chat with others.
+It was no Google Maps, but it was probably the best you were going to get back in 95.
+However, Kidscom did, in fact, collect data from its users.
+Yes, this garbage was happening back then, too, and COPPA was put forward as a regulatory
+response.
+COPPA's had multiple high-profile enforcements before YouTube.
+The once-big blogging site Zanga, as well as the infamous Bonsai Buddy, both had to
+pay fines for COPPA violations, regarding their data-harvesting practices.
+More recently, TikTok got slammed with a $5.7 million dollar fine in February of this year,
+which they responded to by partitioning the app into TikTok and TikTok Kids.
+Which brings us to YouTube.
+Back in September, YouTube was fined $170 million dollars due to widespread COPPA violations
+on the site, including data collection of minors for use in their targeted ad algorithms.
+In response, YouTube determined that by January 1st, 2020, all content creators will have
+to designate whether every single video they've uploaded is kid-friendly or not, by checking
+a box during the upload process.
+Content creators can also set their entire channel to be kid-friendly or not in their
+channel settings.
+YouTube has already confirmed that in order to be compliant with COPPA, videos marked
+as kid-friendly will have no notifications, no comments, will not be searchable on the
+main YouTube platform, will not be suggested or recommended, and will make 60-90% less
+revenue due to a lack of targeted ads.
+All of these features require data collection to implement.
+And if no data collection is allowed, these videos can't participate in those features.
+The only feature listed that doesn't necessarily require data collection is the comments.
+And YouTube has been disabling comments on all videos with kids in them, as a matter
+of course, in the name of protecting children.
+As I mentioned in that Dumping with Scrump earlier, I have a source that I can't reveal
+who stated that YouTube's long-term plan is to eventually split the platform into YouTube
+and YouTube Kids, much like TikTok did, where YouTube Kids will contain only those videos
+marked as kid-friendly, and most people are hoping that that will allow the bulk of YouTube
+to continue on as over 13-oriented content.
+Except it still might not.
+And here's where we get to the heart of the matter.
+There's a lot of YouTubers out there who are way bigger than me talking about this
+issue right now.
+And I think that most of them don't actually have the situation right.
+They recognize it serious, yeah, but they don't recognize it as a full-on game changer,
+but rather just another dumb YouTube event where the platform is made incrementally shittier
+yet again.
+But no, this isn't minor.
+This is a game changer.
+This is not just rolling your eyes at a false D&CA claim, and then filling out the same
+meaningless form three times over the course of three months, until the false claimant
+drops it because no one's actually going to bring you to court over this unless they're
+retarded.
+No, no, no, no, no.
+This is not just another layer of the YouTube bureaucratic nightmare.
+This is entirely different.
+Here's the full text of COPPA, and I'd like to read a few choice bits from it.
+The regulations issued under the subsection shall A, require that any website directed
+to children that collects personal information from children provide clear, prominent, understandable
+notice of the information collection and use practices of the website operator through
+the website.
+B, maintain verifiable parental consent for the collection, use, or disclosure of personal
+information for children who are under the age of 13.
+And B, require that the commercial website operator concerned establish and maintain
+reasonable procedures to ensure the confidentiality, security, accuracy, and integrity of personal
+information collected from children through the website.
+And here's what COPPA defines as a website targeted to children.
+A commercial website that is, one, targeted to children, obviously, two, directed to children
+by reason of the subject matter, visual content, age of the models, language, characters, tone,
+message, or any other similar characteristic of the website.
+Or three, used by a commercial website operator to knowingly collect information from children.
+The biggest problem here is section two, because that's actually quite vague.
+But thankfully the FTC has provided a handy dandy guidebook on what exactly qualifies
+as kid targeted content.
+The subject matter that is appealing to children, example, kids jokes, music, kids games, video
+or computer games, children's TV shows or children's TV stars, cartoon characters, sports, stories,
+toys, children's books, fantasy, children's arts and crafts, pets, products primarily
+purchased or consumed by kids like snack food or cereal.
+You can tell this legislation was made by boomers who don't understand that the primary
+audience for things like video games, comics, and Marvel movies is no longer kids but 30
+year old soy boys.
+Plus, there's also a lot of adults who are interested in things like sports.
+There's a lot of adults who eat cereal or snack foods.
+Just because something appeals to some children doesn't mean that it also doesn't appeal
+to some adults.
+Language of the website, such as language that is simple enough to be understandable
+to children 12 and under.
+Short, colorful descriptions.
+Slang and pop culture phrases.
+Example, a kid's site may be identified by such language as kids only.
+Fun.
+Free stuff.
+Whatever.
+Cool.
+Duh.
+Games.
+Ask your parents.
+Etc.
+You know, they really haven't updated this since Bill Clinton actually signed COPPA into
+force have they?
+Whether the website uses visual content appealing to children, animated characters, bold or
+fast moving graphics, or bright and vibrant colors.
+These things are not specifically child oriented.
+These things are meant to catch anyone's eye.
+Use of host characters.
+In a character property, use offline, on television, in movies, or comics or books.
+This is the absolute dumbing down of everything.
+If you're recognizable, you're for kids now, I guess.
+Audio content appealing to children.
+Example, simple or popular tunes or songs.
+Cartoon voices.
+Childlike noises and sound effects.
+So anything fun.
+Anything goofy.
+You guys know that morning zoo style radio shows use the same goofy songs and sound effects
+as kids shows.
+And those are absolutely not made for children, right FTC?
+This is the ultimate problem with COPPA.
+The FTC is the final arbiter of what will be considered kid targeted content.
+Of course, you can still mark your videos as for adults, but this is not the same situation
+as say, marking a video as fair use and working through a claim.
+YouTube's not the judge this time, nor is there a claimant you can appeal to.
+This is the FTC.
+Here's an example of what I mean.
+Let's say that you have a YouTube channel and you upload a let's play of a Mario game,
+and you've got curses and adult jokes in it because you're an adult oriented let's
+play channel on YouTube even though you're playing Nintendo games.
+And so you're going to mark this video as adult oriented.
+You would be insane not to.
+Choosing it kid oriented would not only be inaccurate, but it would also tank your search
+ability and your income.
+However, the FTC is actually going to examine your video to see if it's kid friendly or
+not, and if by their determination it's not, they'll fine you.
+And this is all happening at the same time as YouTube's looking at your videos and changing
+your manual selection on whether or not it's for kids if they disagree with your assessment.
+A lot of YouTubers right now are viewing that potential fine part of this discussion a lot
+less seriously than they should.
+I think the general idea everyone has is that it's just a threat, and most people will squeak
+by undetected.
+But you know what?
+I watched the FTC's public Q&A on this topic.
+No, they confirmed.
+They will be coming for YouTubers who mislabel their videos by their estimation.
+Is it safe to say if YouTube is informing channel creators that they need to be COPPA
+compliant, they go through the training, moving forward, content creators are more at risk
+than the actual platform at being fined?
+Content creators are always at risk of being fined because they're the con- and channel
+owners because there we have a situation where we have a website or an online service that
+is directed to children.
+So there in the general audience platform, we still have this knowledge requirement that
+we have to prove up.
+So there is, I think in theory as well as practically speaking, generally a higher risk
+for channel owners and content creators who after all are creating this content and know
+intimately whether or not it's directed to children or not.
+Because if a video is labeled for adults, and the FTC thinks it should be labeled for
+kids, in their eyes that video will be harvesting data from children, therefore it will be a
+finable COPPA violation.
+And to go back to our example, we all know that they're going to see the fact that
+it's Mario on screen with an eye-catching thumbnail, it's about video games and it's
+got bright colors, so it has to be for kids common sense be damned.
+I don't think they're able to find YouTubers based outside of the US.
+Foreign Sites is listed as an exception in the COPPA compliance guidebook, and maybe
+that'll also cover foreign YouTubers, even though YouTube itself is based in the States.
+And therefore I still have to tag my videos as adult content, even if people like me can't
+be touched by the FTC because I'm not an American.
+And there's a very good chance that YouTube is entering into an era where all American
+content creators need to make explicitly adult content with not even a whiff of color or
+vibrancy or anything else that might attract the eye of a child or face a stiff fine.
+The FTC is currently taking public feedback on the upcoming implementation of COPPA as
+it pertains to YouTube, and they'll be doing so until December 9th, 2019.
+I'll leave a link in the description if you want to go there and tell them why this
+is an exceptionally bad idea on their part.
+I don't usually ask you to do this, you know this, but please consider sharing this
+video around to everyone you can, along with that feedback link, as well as engaging with
+this video through likes and comments so that it gets upranked in YouTube's algorithm.
+People need to see this shit before it's too late.
+Thank you very much, I love you.
+There will be consequences for content creators who mis-designate, including being kicked
+off the YouTube platform.
+So if content creators are not sincere or forthcoming with YouTube and designating content
+as being directed to children, there will be consequences for them.
+We also think that YouTube has strong incentives to police its platform.

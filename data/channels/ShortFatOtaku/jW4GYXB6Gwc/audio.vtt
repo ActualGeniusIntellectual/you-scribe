@@ -1,0 +1,758 @@
+WEBVTT
+
+00:00.000 --> 00:03.760
+I've been thinking about the phrase, the perfect is the enemy of the good.
+
+00:03.760 --> 00:09.640
+The basic idea behind the saying is that while the perfect may be perfect, it's also unchanging
+
+00:09.640 --> 00:10.920
+and stagnant.
+
+00:10.920 --> 00:15.340
+While the good is good enough, you're not perfect but you're improving every day,
+
+00:15.340 --> 00:16.740
+and therefore you're getting better.
+
+00:16.740 --> 00:21.060
+This idea makes sense if you understand that human beings can't actually ever obtain
+
+00:21.060 --> 00:22.060
+the perfect.
+
+00:22.060 --> 00:26.380
+This idea has been expressed many times in many different ways, unrelated to Voltaire's
+
+00:26.380 --> 00:27.980
+own formulation of it.
+
+00:27.980 --> 00:32.080
+Several Greek philosophers talked about the golden mean, which is the idea that any virtuous
+
+00:32.080 --> 00:37.020
+quality taken to excess is no longer virtuous, and that moderation is what gives a thing
+
+00:37.020 --> 00:38.020
+its virtue.
+
+00:38.020 --> 00:40.540
+A commonly cited example is the virtue of courage.
+
+00:40.540 --> 00:45.400
+A deficiency of courage is cowardice, but an excess of courage is recklessness.
+
+00:45.400 --> 00:49.540
+In computer programming there's a similar saying, premature optimization is the root
+
+00:49.540 --> 00:50.780
+of all evil.
+
+00:50.780 --> 00:55.140
+Consider the possibility that it will take you three hours to program a task into a computer.
+
+00:55.140 --> 00:59.840
+However, it will take you six hours to program a tool that will automate that task repeatedly.
+
+00:59.840 --> 01:04.780
+If the task had to be done 10,000 times, it makes complete sense to spend the extra time
+
+01:04.780 --> 01:08.500
+making the tool and then simply have it run while you do something else.
+
+01:08.500 --> 01:12.020
+However, if you only have to run the task once, you might as well just manually program
+
+01:12.020 --> 01:15.220
+it for three hours rather than making an automated tool for six.
+
+01:15.220 --> 01:16.960
+There's a similar problem in space flight.
+
+01:16.960 --> 01:20.700
+If human beings wanted to reach another star system, would we launch a ship right now with
+
+01:20.700 --> 01:24.980
+our current technology, going as fast as we can make it, with a bunch of frozen embryos
+
+01:24.980 --> 01:29.140
+and a computer system designed to manage a colony and basically grow those embryos into
+
+01:29.140 --> 01:30.140
+humans?
+
+01:30.140 --> 01:32.980
+Or do we wait 100 years when maybe the ships are faster and the computers would be much
+
+01:32.980 --> 01:33.980
+more sophisticated?
+
+01:33.980 --> 01:38.460
+Sure, we could begin the task right now, but it would seem like adding that 100 years of
+
+01:38.460 --> 01:43.420
+prep time would, in the long run, save us a lot more than 100 years of work in actually
+
+01:43.420 --> 01:44.660
+completing the task.
+
+01:44.660 --> 01:47.980
+Or consider you're playing a video game and you have to fight a really hard boss.
+
+01:47.980 --> 01:50.420
+Maybe you can run in and destroy the boss right now.
+
+01:50.420 --> 01:53.280
+You need to go and grind levels or collect materials or something.
+
+01:53.280 --> 01:57.180
+And maybe at some point you over-prepare so that extra time is kind of wasted, at least
+
+01:57.180 --> 01:58.980
+in terms of that specific boss fight.
+
+01:58.980 --> 02:03.380
+The point is, you can definitely draw a parabolic arc between the amount of investment made
+
+02:03.380 --> 02:04.380
+and a payoff.
+
+02:04.380 --> 02:07.740
+On the one hand, you have the complete and total failure of the Enterprise because you
+
+02:07.740 --> 02:08.820
+failed to prepare.
+
+02:08.820 --> 02:12.380
+On the other end, you have so much time wasted in preparation that it doesn't matter that
+
+02:12.380 --> 02:13.520
+you actually won.
+
+02:13.520 --> 02:15.580
+You have a victory, but it's become inefficient.
+
+02:15.580 --> 02:19.660
+This is also, by the way, the same argument that you can make for lowering taxes actually
+
+02:19.660 --> 02:21.400
+increasing tax revenue.
+
+02:21.400 --> 02:26.020
+For example, if something is taxed at 100%, well in that case, maybe a large chunk of
+
+02:26.020 --> 02:30.860
+the population can't afford to buy that thing regularly, and so sales of it go down,
+
+02:30.860 --> 02:32.140
+and so tax revenue goes down.
+
+02:32.140 --> 02:35.660
+But let's say you tax it at 20%, suddenly, sales are up.
+
+02:35.660 --> 02:40.180
+And as long as sales go up by more than 5 times, which is a definite possibility, then
+
+02:40.180 --> 02:42.180
+the government actually collects more tax.
+
+02:42.180 --> 02:46.820
+Because even though they're only getting 20% as opposed to 100, that's 80% less tax
+
+02:46.820 --> 02:49.940
+the consumer has to pay, which means that they can afford to buy more.
+
+02:49.940 --> 02:52.880
+So on that same arc, there's definitely two extremes.
+
+02:52.880 --> 02:55.820
+On the one hand, there's no taxes and the government ceases to function.
+
+02:55.820 --> 03:00.060
+On the other hand, things are taxed too much and economic activity slows down because people
+
+03:00.060 --> 03:01.060
+just can't afford it.
+
+03:01.060 --> 03:04.380
+And in the middle, there's that sweet spot where taxes are low enough that people are
+
+03:04.380 --> 03:08.420
+buying a lot, and yet they're still high enough that all of those individual purchases
+
+03:08.420 --> 03:12.260
+that wouldn't have existed if they were too high are generating even more taxes for
+
+03:12.260 --> 03:13.260
+the government.
+
+03:13.260 --> 03:15.500
+This is also known as the Pareto Principle.
+
+03:15.500 --> 03:20.540
+Alfredo Pareto was an Italian economist, and one of his hobbies was growing beans.
+
+03:20.540 --> 03:25.380
+He realized that no matter how many beans he planted, it was 20% of them that actually
+
+03:25.380 --> 03:30.780
+produced usable crop, and the other 80% produced either no crop or only enough crop to replant
+
+03:30.780 --> 03:31.980
+and not enough to eat.
+
+03:31.980 --> 03:38.020
+And then of that top 20%, another 20% produced an even more disproportionate amount of harvestable
+
+03:38.020 --> 03:39.020
+beans.
+
+03:39.020 --> 03:40.180
+And this doesn't just apply to crops.
+
+03:40.180 --> 03:43.260
+It applies to the population of cities as compared to the countryside.
+
+03:43.260 --> 03:46.060
+It applies to the distribution of matter in our solar system.
+
+03:46.060 --> 03:47.780
+It applies to income inequality.
+
+03:47.780 --> 03:51.980
+It's also mapped out by the Fibonacci sequence, which is basically a series of numbers where
+
+03:51.980 --> 03:54.660
+each entry is the sum of the previous two entries.
+
+03:54.660 --> 03:59.320
+Mapping this out into a spiral pattern creates that weird overlay you often see on top of
+
+03:59.320 --> 04:02.820
+artwork and photos, meant to describe something aesthetically pleasing.
+
+04:02.820 --> 04:05.180
+It's also what you see when you cut a banana in half.
+
+04:05.180 --> 04:07.880
+It's also the pattern in which your hair naturally grows.
+
+04:07.880 --> 04:10.780
+If you shave your head and look at the crown, you'll see it spiraling outward.
+
+04:10.780 --> 04:14.020
+It also describes the movement of flowers as they grow and twist.
+
+04:14.020 --> 04:21.540
+In short, this idea, this natural inequality, seems to be baked into nature in everything.
+
+04:21.540 --> 04:22.780
+In biology?
+
+04:22.780 --> 04:23.780
+In physics?
+
+04:23.780 --> 04:24.780
+In sociology?
+
+04:24.780 --> 04:28.780
+It's something that, on some fundamental level, we can't escape, and it does cause
+
+04:28.780 --> 04:29.780
+us serious problems.
+
+04:29.780 --> 04:34.220
+If a society becomes too unequal, then for all those masses of people who are stuck with
+
+04:34.220 --> 04:36.840
+literally nothing, they have nothing to lose.
+
+04:36.840 --> 04:42.400
+And to them, destroying everything might be a better shot at getting ahead than working
+
+04:42.400 --> 04:43.400
+hard.
+
+04:43.400 --> 04:45.140
+And that is something that we do have to avoid.
+
+04:45.140 --> 04:51.760
+So yes, all of these various principles and ideas, they do describe the 99% and 1% divide.
+
+04:51.760 --> 04:59.660
+They also describe the idea that 1% of the 1% hold 99% of the 1% wealth, as well as 1%
+
+04:59.660 --> 05:05.560
+of the 1% of the 1%, holding 99% of the 1% of the 1% wealth.
+
+05:05.560 --> 05:11.360
+It's not just that the 1% are this monolithic class of hyper-rich people, it in fact keeps
+
+05:11.360 --> 05:12.360
+going upward.
+
+05:12.360 --> 05:16.040
+However, what this view of economics fundamentally lacks is time.
+
+05:16.040 --> 05:21.420
+For example, half of all American citizens, roughly half I think, have a very high chance
+
+05:21.420 --> 05:24.880
+of entering the top 10% for at least part of their life.
+
+05:24.880 --> 05:30.800
+40% of all middle class people in the United States will be in the 1%, at least for one
+
+05:30.800 --> 05:31.800
+year.
+
+05:31.800 --> 05:36.680
+The 1% is not this unchanging class of bankers and fat cats, it constantly churns, people
+
+05:36.680 --> 05:38.440
+drop in and out of it all the time.
+
+05:38.440 --> 05:43.760
+And when you add time to the equation, you realize that not only does the Pareto Principle,
+
+05:43.760 --> 05:48.040
+or the Fibonacci Sequence, or anything else that describes the fundamental inequality
+
+05:48.040 --> 05:53.520
+baked into existence, not only do those things describe classes, they also describe you at
+
+05:53.520 --> 05:55.160
+different stages of your life.
+
+05:55.160 --> 05:58.680
+There will likely be times where you have nothing, and then there will likely be times
+
+05:58.680 --> 06:01.280
+where you are wildly successful in at least one thing.
+
+06:01.280 --> 06:05.560
+But how does all this relate to the idea of the perfect being the enemy of the good?
+
+06:05.560 --> 06:10.120
+Well within the Fibonacci Sequence, the perfect is infinite, and as we all know, no mathematic
+
+06:10.120 --> 06:12.020
+sequence ever reaches infinity.
+
+06:12.020 --> 06:16.100
+At the end of the day, achieving absolute perfection is impossible, and therefore at
+
+06:16.100 --> 06:21.320
+some point, increasing effort results in diminishing returns, and continued activity becomes more
+
+06:21.320 --> 06:22.560
+and more inefficient.
+
+06:22.560 --> 06:26.880
+This is described by another old proverb, the journey is more important than the destination.
+
+06:26.880 --> 06:31.600
+If the destination is perfection, and the journey is being good, then it doesn't actually
+
+06:31.600 --> 06:35.720
+matter that you will never reach perfection, because as you continue on the journey, you
+
+06:35.720 --> 06:37.800
+will get better at whatever it is you're doing.
+
+06:37.800 --> 06:42.160
+This even applies to me, it's better for me to do one video a day, even if some of
+
+06:42.160 --> 06:46.060
+the videos are kind of bad, because I get better at my craft by doing them.
+
+06:46.060 --> 06:50.400
+If I spend months and months and months working on the perfect video, it's never going to
+
+06:50.400 --> 06:53.760
+be perfect, and those months were spent with no content.
+
+06:53.800 --> 06:57.320
+Sometimes yes, you do have to set aside time and make a big project, that happens, but
+
+06:57.320 --> 07:01.320
+rather than focus on making something truly superb, it's better to constantly try and
+
+07:01.320 --> 07:04.200
+fail and improve, because that leads to mastery.
+
+07:04.200 --> 07:07.240
+In the realm of politics, this is the utopian's fatal flaw.
+
+07:07.240 --> 07:10.540
+Anyone who believes that they can create the perfect world, whether they're religious
+
+07:10.540 --> 07:15.180
+and looking to heaven, whether they're communists or socialists, and looking to build the perfectly
+
+07:15.180 --> 07:19.240
+equal world where no one suffers, whether they're fascists or Nazis, and they want
+
+07:19.240 --> 07:23.660
+the perfectly ordered state, they're all committing what is called the Nirvana Fallacy.
+
+07:23.660 --> 07:28.120
+They create a false dichotomy that presents one option that is clearly more advantageous
+
+07:28.120 --> 07:29.120
+than the other option.
+
+07:29.120 --> 07:33.320
+However, the problem is that the more advantageous option is technically impossible.
+
+07:33.320 --> 07:37.460
+This is what you get, for example, when a communist says that their theoretical idea
+
+07:37.460 --> 07:42.260
+of what communism is, or should be, is better than the capitalism that we have on the ground
+
+07:42.260 --> 07:43.980
+today in the real world.
+
+07:43.980 --> 07:47.840
+Well sure, anything that you theorize is certainly going to be better than reality, but that
+
+07:47.840 --> 07:49.540
+doesn't mean that the theory works.
+
+07:49.540 --> 07:55.080
+It's fundamentally a choice between one realistic achievable possibility and one unrealistic
+
+07:55.080 --> 07:58.680
+unachievable possibility that could in some way be better.
+
+07:58.680 --> 08:02.140
+The ideal is always going to look better than the situation you find yourself in, but that
+
+08:02.140 --> 08:04.940
+doesn't mean that the ideal is realistic or achievable.
+
+08:04.940 --> 08:08.940
+Again to go back to computer programming, they have another phrase, worse is better,
+
+08:08.940 --> 08:12.400
+where basically the idea is, it doesn't matter if your software is technically better
+
+08:12.400 --> 08:16.300
+than other software, if it's not easy to use, it's not going to catch on.
+
+08:16.300 --> 08:20.060
+Sometimes things are better because they have less functions and therefore they're
+
+08:20.060 --> 08:21.060
+more streamlined.
+
+08:21.060 --> 08:24.760
+But what happens when some kind of extremist, whether they're a communist or a fascist
+
+08:24.760 --> 08:28.980
+or a religious zealot, or any other kind of extremist that could exist, what happens when
+
+08:28.980 --> 08:32.080
+they get caught up in this, when they abandon the good for the perfect?
+
+08:32.080 --> 08:36.460
+They ignore the tangibly good humble things they could do around them to make things a
+
+08:36.460 --> 08:40.480
+little bit better, and instead aim directly for the top, the perfect, the ideal.
+
+08:40.480 --> 08:44.140
+Well firstly, things have to be purified, that's the source of the purity spiral.
+
+08:44.140 --> 08:49.740
+Anyone and anything that is not in a line with perfection itself must be disposed of.
+
+08:49.740 --> 08:54.180
+Thankfully online that's just deplatforming and de-personing, but in real life it's consistently
+
+08:54.180 --> 08:55.560
+led to mass killings.
+
+08:55.560 --> 08:59.580
+Once they've created this hypothetical pure space that will never actually exist, they
+
+08:59.580 --> 09:04.300
+then expand the space outward to encompass all of reality, so that not only does the
+
+09:04.300 --> 09:08.100
+utopia exist, but nothing other than the utopia exists.
+
+09:08.100 --> 09:12.020
+This is why, for example, in the political doctrine of fascism, Mussolini writes that
+
+09:12.020 --> 09:15.940
+everything must be within the state, nothing must be outside the state, and nothing must
+
+09:15.940 --> 09:16.940
+be against the state.
+
+09:16.940 --> 09:21.300
+It's also why the communists claim that communism will never work and will never be
+
+09:21.300 --> 09:24.740
+true or real unless the entire world is communist.
+
+09:24.740 --> 09:29.340
+But perfection itself is also stagnant and unchanging, therefore it must always have
+
+09:29.340 --> 09:32.260
+been, and it must always continue to be.
+
+09:32.260 --> 09:36.860
+So any of these people, rather than admitting that they changed, they erase history.
+
+09:36.860 --> 09:41.340
+This is why you see a lot of people, for example, disavowing their old edgy pasts, whether it's
+
+09:41.340 --> 09:45.340
+Eddie Murphy saying that it was a different time when he made those gay jokes, or any
+
+09:45.340 --> 09:49.900
+of those people that I mentioned in my Who I Miss video, people that I used to know,
+
+09:49.900 --> 09:55.240
+or at least used to look up to, content creators, animators, artists, YouTubers, who ten years
+
+09:55.240 --> 09:59.180
+ago would make edgy jokes and now do nothing but virtue signal on Twitter.
+
+09:59.180 --> 10:05.260
+It's why you get both ISIS and other Islamic groups, destroying both secular artwork and
+
+10:05.260 --> 10:09.540
+the religious figures from other faiths, because only those things that are Islamic must be
+
+10:09.540 --> 10:10.660
+allowed to exist.
+
+10:10.660 --> 10:14.740
+It's why you get the radical left wanting to destroy statues of confederate generals,
+
+10:14.740 --> 10:17.620
+or change the names of universities or other institutions.
+
+10:17.620 --> 10:22.880
+David King, in his book The Commissar Vanishes, talked about how the Soviets did this as well.
+
+10:22.880 --> 10:27.440
+Photos of Stalin and those around him were routinely doctored after the fact to remove
+
+10:27.440 --> 10:30.940
+people who had fallen from power, as if they never existed at all.
+
+10:30.940 --> 10:33.960
+And of course, with the Nazis, we know where this ultimately led.
+
+10:33.960 --> 10:38.880
+The ethnic cleansing of the Jewish population was actually considered to be a cleansing.
+
+10:38.880 --> 10:42.100
+It was, in their eyes, making Germany clean.
+
+10:42.100 --> 10:45.800
+And the line of logic, should the Nazis had been allowed to exist for longer than say
+
+10:45.800 --> 10:52.320
+12 years, would have gone from Jews can't exist in Germany, to Jews don't exist in Germany,
+
+10:52.320 --> 10:54.480
+to Jews never existed at all.
+
+10:54.480 --> 10:57.040
+And of course, I would be remiss in not bringing this up.
+
+10:57.040 --> 11:01.640
+It's also how you get that crazy We Was Kangs logic, where you get those absolute brainlets
+
+11:01.640 --> 11:06.960
+out there who think that the Vikings and the Celts were black for some reason.
+
+11:06.960 --> 11:11.220
+If you're siding with the perfect over the good, then regardless of your political persuasion,
+
+11:11.220 --> 11:14.280
+you will inevitably find yourself trying to rewrite the past.
+
+11:14.280 --> 11:18.680
+The past is problematic and it must be erased, which is what makes it all the more scary
+
+11:18.680 --> 11:23.760
+when you hear, for example, Britain's Supreme Court claim that Parliament was not prorogued.
+
+11:23.760 --> 11:30.440
+The decision to advise Her Majesty to prorogue Parliament was unlawful because it had the
+
+11:30.440 --> 11:37.080
+effect of frustrating or preventing the ability of Parliament to carry out its constitutional
+
+11:37.080 --> 11:41.000
+functions without reasonable justification.
+
+11:41.000 --> 11:45.640
+This court has already concluded that the Prime Minister's advice to Her Majesty was
+
+11:45.640 --> 11:49.680
+unlawful, void and of no effect.
+
+11:49.680 --> 11:56.720
+This means that the order in council to which it led was also unlawful, void and of no effect
+
+11:56.720 --> 11:59.200
+and should be quashed.
+
+11:59.200 --> 12:03.520
+This means that when the Royal Commissioners walked into the House of Lords, it was as
+
+12:03.520 --> 12:07.680
+if they had walked in with a blank sheet of paper.
+
+12:07.680 --> 12:12.660
+The prorogation was also void and of no effect.
+
+12:12.660 --> 12:15.100
+Parliament has not been prorogued.
+
+12:15.100 --> 12:19.240
+It is one thing for the Supreme Court to disagree with the prorogation of Parliament, for them
+
+12:19.240 --> 12:24.980
+to use whatever powers they have to re-open Parliament and to end it being prorogued.
+
+12:24.980 --> 12:29.340
+It's another thing entirely for them to say it was never prorogued in the first place.
+
+12:29.340 --> 12:34.660
+Or, on the other side of the pond, consider Nancy Pelosi saying that Trump was not acquitted,
+
+12:34.660 --> 12:36.420
+even though he obviously was.
+
+12:36.420 --> 12:39.700
+Besides here, but he was acquitted, his poll ratings are high.
+
+12:39.700 --> 12:40.700
+There was no equipment.
+
+12:40.700 --> 12:41.700
+By the Senate.
+
+12:41.700 --> 12:44.580
+You can't have an acquittal unless you have a trial, and you can't have a trial and have
+
+12:44.580 --> 12:49.420
+witnesses and documents, so he can say he's acquitted and the headlines can say acquitted,
+
+12:49.420 --> 12:53.260
+but he's impeached forever, branded with that and not vindicated.
+
+12:53.540 --> 12:58.900
+Yes, Trump was impeached, and yes, he was acquitted, but the past must be rewritten.
+
+12:58.900 --> 13:00.560
+Reality itself must be denied.
+
+13:00.560 --> 13:03.560
+That was, in fact, the core of the issue in the UK and the US.
+
+13:03.560 --> 13:07.920
+A second referendum was desired on Brexit so that it could overwrite the first and pretend
+
+13:07.920 --> 13:09.140
+like it never happened.
+
+13:09.140 --> 13:13.400
+Trump's impeachment went forward rather than simply trying to oust him in 2020 using the
+
+13:13.400 --> 13:18.800
+democratic process, because his presidency, his candidacy, his victory must be erased.
+
+13:18.840 --> 13:23.960
+In both of these situations, rather than the left dealing with reality as it is and devising
+
+13:23.960 --> 13:28.680
+a better plan for them to move forward, which would be, by the way, pursuing the good, instead
+
+13:28.680 --> 13:32.520
+they have to cancel out everything that's happened, which is, fundamentally, pursuing
+
+13:32.520 --> 13:33.520
+the perfect.
+
+13:33.520 --> 13:38.120
+The perfect is the enemy of the good, because the perfect is the domain only of the ideologue.
+
+13:38.120 --> 13:42.580
+The grounded, rational person will still have an ideal, but will understand that he will
+
+13:42.580 --> 13:43.580
+never reach it.
+
+13:43.580 --> 13:47.620
+That's not an excuse not to try to reach it, though, because in the trying you become better
+
+13:47.620 --> 13:49.020
+and better over time.
+
+13:49.020 --> 13:53.780
+Yes, on some level you have to accept that the world has fundamental inequality in it,
+
+13:53.780 --> 13:56.260
+and that it's not going away no matter how hard you try.
+
+13:56.260 --> 13:59.940
+However, that doesn't mean that everything's lost, because the timeline of your life also
+
+13:59.940 --> 14:01.740
+has fundamental inequality in it.
+
+14:01.740 --> 14:06.380
+A 40-year-old certainly is not the same person, nor is he in the same place, as he was when
+
+14:06.380 --> 14:08.880
+he was 30, or 20, or 10.
+
+14:08.880 --> 14:14.060
+The good allows for incremental improvements over time, but the perfect is perfect, and
+
+14:14.060 --> 14:17.020
+you are not perfect, nor will you ever be.
+
+14:17.020 --> 14:19.700
+So if you're smart, you won't be a perfectionist.
+
+14:19.700 --> 14:22.600
+You'll pursue incremental improvement over the ideal.
+
+14:22.600 --> 14:25.560
+You'll value being better for the benefits it brings you.
+
+14:25.560 --> 14:30.020
+Benefits that perfection can't provide, because perfection assumes you already have them.
+
+14:30.020 --> 14:33.860
+And if you don't have them, well then you're not perfect, and you need to be purged.
+
+14:33.860 --> 14:36.620
+Anyway, that's my thoughts for today.
+
+14:36.620 --> 14:39.580
+Don't aim to be the best person you could possibly be.
+
+14:39.580 --> 14:41.220
+Just aim to be better than you were yesterday.
+
+14:41.220 --> 14:42.220
+You'll get there eventually.
+
+14:42.220 --> 14:43.220
+Thanks for listening, my friends.
+
+14:43.220 --> 14:44.220
+I love you.
+

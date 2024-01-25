@@ -1,0 +1,457 @@
+So, while everyone's attention was turned towards VidCon this past weekend, and the
+absolute shitshow that erupted there, something else was happening at about the same time.
+Something that I personally believe to be equally as important to the conversation of
+free speech, fair use, and ethical conduct as Sargon getting called a garbage human for
+simply sitting quietly at Anita Sarkeesian's panel and listening to her talk.
+This is actually the sort of thing I expected all of the usual skeptical suspects to cover,
+and to my surprise, I don't think anyone's talked about it yet.
+I'm not blaming them, of course, they were busy.
+But this is pretty important, so I guess it's left up to me.
+Let's discuss the curious case of Alex Maurer.
+Star Maser DSP is an arcade-style spacecraft shoot-'em-up that recalls the glory days
+of games like Gradius, Phalanx, and Zero Wing.
+Being a 2016 indie game, it's got that hyper-smooth pixel style that seems to be trending right
+now.
+It raised $200,000 on Kickstarter, and was first pushed to the forefront of people's
+attention when the early access demo hit Steam in August of 2016.
+I haven't played it myself, and I'm not a super-huge fan of the genre, but from the
+gameplay videos I can find, it looks to be a polished, lovingly-made, serviceable entry
+into the shmup genre.
+Maybe a bit repetitive, but that's more of a failing of the genre rather than Star
+Maser DSP itself.
+For a while, all was well and good with Star Maser DSP.
+And then suddenly, people from all across the internet began getting hit with copyright
+strikes for their reviews and let's plays of the game.
+And not from Imago Softworks, the indie dev that created Star Maser DSP, but rather Alex
+Maurer, the composer of the game's music and sound effects.
+Alex Maurer, before this incident, had made a name for herself as a composer.
+She'd worked on games like Death Road to Canada, Spy Hunter, Need for Speed, Serious Sam, and
+Penny Arcade's On the Rain Slick Precipice of Darkness.
+She'd also worked on multiple short films as well.
+And according to her Wikipedia page, she'd actually released an album designed to be
+played on NES, using an NES cartridge.
+Cool.
+Maurer was contracted to do the soundtrack for Star Maser, in which she was paid monthly
+until the work was completed.
+However, due to reasons that have understandably been kept private, Maurer was released from
+her contract with Imago Softworks before the work was complete.
+Due to non-disclosure agreements and the general state of the game's industry, I don't think
+we'll ever find out exactly why Maurer was let go.
+But I think we can extrapolate from what I'm about to show you in this video a pretty accurate
+picture of the situation.
+Maurer claims that the contract she signed was legally binding to a game called Star
+Maser, not Star Maser DSP, and that because she was let go before she completed the work,
+all of the music and sound effects in Star Maser DSP are her own intellectual property,
+and that it is her right to levy a copyright strike against any YouTuber or streamer that
+plays Star Maser DSP on their shows.
+However, if we take a peek at Maurer's contract, which has actually made the rounds on the
+internet, we can see that the contract specifically states that her position is work-for-hire,
+meaning that any content she creates under this contract is explicitly owned by Imago
+Softworks, not Maurer personally.
+Furthermore, Imago Softworks' position on this contract is that it covers both Star
+Maser and all related Star Maser products, like Star Maser DSP.
+Maurer's counter position is that, because she was released from the contract early,
+without completion of said contract, that those stipulations are null and void, that
+the music is owned by her.
+And using that line of reasoning, Maurer began issuing copyright strikes to YouTubers and
+streamers playing Star Maser DSP on their channels and shows.
+Her logic was that because the music in the game was her intellectual property, and that
+because the content creators in question failed to obtain permission from her personally,
+her only legal recourse of action to protect her intellectual property was to use the Digital
+Millennium Copyright Act, or the DMCA.
+Maurer began to file false DMCA claims to what would ultimately be over 100 YouTube
+channels and just as many, if not more, Twitch streams using each service's auto-claim process.
+And we all know how unforgiving this shit can be at times.
+Content ID is bad enough, where Scattershot matches auto-claim videos, even when the holder
+of the copyright doesn't want them to be claimed.
+But on both of these platforms, somebody like Maurer can show up, file a claim, and it just
+goes through.
+Nobody at Twitch or YouTube actually looks at the claim, it's all automated, it just
+goes through without a hitch, and it's on the channels involved to actually appeal them.
+And these strikes are no laughing matter for anybody who seriously values their channel.
+They constitute legal action that the platform must act upon in one way or another, and many
+channels have vanished, never to return, due to both valid and invalid DMCA notices.
+Many of the larger names that we all know and love, including Nintendo, Sega, Sony,
+Konami, and so on, have automated strikes issued in their name.
+I think every YouTuber, both large and small, has a story that they can tell about the DMCA,
+but I'll just stick to my own personal one, just to give you a sense of scale.
+Check this out, my gaming channel gets almost no traffic, I've got about 20 Twitch stream
+regulars, whom I all appreciate very much, and just as many views per Let's Play episode
+on YouTube on average.
+Do you really think that somebody over at Nintendo of Japan is issuing Japanese language
+copyright strikes on my 10 view Breath of the Wild Let's Play parts?
+If so, I would absolutely hate to be the dude doing that job, but I'm pretty sure this
+is all automated, with computers mass blanketing strikes wherever matches take them.
+Over the course of the past week, as all of this was unfolding, I actually emailed Mauer
+myself, to ask her exactly what was going on, but she didn't reply to me, probably
+because I'm a 500 sub pleb.
+However, a larger YouTuber by the name of Sid Alpha, who had also been watching the
+drama unfold, did in fact get a reply from her.
+Let's read it.
+The fact that Temi Noko, one of the YouTubers hit by Mauer's DMCA clams, is directing
+her complaints to me instead of the developer is a problem.
+This seems to be a general response of those who were hit with DMCA strikes.
+I did suggest to some who complained to me that I would reverse their DMCA strikes if
+they were willing to redirect their complaints to the developer.
+No one was willing to do so, and I no longer want to offer anyone the possibility of having
+their DMCA strikes reversed.
+Wow.
+So this is what this sounds like to me.
+Mauer, it sounds like you're pissed from being let go from Imajos Softworks.
+It sounds like you believe you should still have that job and be paid the remaining money
+from finishing the contract out.
+And it sounds like, rather than keep your dispute between you and Imajos, you would
+rather press-gang YouTubers into fighting for you in the court of public opinion, by
+filing DMCA notifications against their videos, and then telling them to redirect their complaints
+to Imajos.
+Except Imajos didn't file the notification.
+You did.
+That's your name there on the strike.
+Nobody else's.
+Let's be charitable towards your interpretation of events, Alex.
+Let's assume that Imajos Softworks let you go for a completely bullshit reason.
+Let's assume that you're entirely innocent, and that you should have been able to complete
+your work and get paid as promised.
+Let's even assume that Imajos Softworks' actions towards you were illegal.
+Why do you think that gives you the right to start issuing notifications against uninvolved
+third parties?
+What did you expect would happen here?
+Did you expect streamers and let's players to just give in and go fight Imajos on your
+behalf?
+Did you want to frame this as a David and Goliath situation?
+A poor video games composer versus the big bad company?
+Forming her out into the street with little recourse?
+Or maybe, did you want this to become a grassroots thing where mobs of people show up at Imagoza's
+digital doorstep to fight for your cause?
+Well, there's no fucking chance of that happening now, and then after you've threatened
+their channels with copyright strikes.
+Channels which, for some of these people, are their livelihoods.
+You know what might have worked?
+Alerting the games press.
+Yeah, Kotaku and Polygon and the others are absolute shit-suckers.
+But you're an indie woman apparently getting trampled by a company.
+They'd lap that shit up.
+They'd signal boost it among their crowd.
+And you may have actually ended up with some support.
+Or maybe contacting the YouTubers and streamers playing Star Mazer DSP without a DMCA claim
+and informing them of the situation and asking them to help raise awareness.
+Even a GoFundMe for your legal action would have probably worked.
+All of these options were available to you, but you chose to pursue legal action against
+uninvolved individuals.
+I'd ask you why, but I think I have a pretty reasonable assumption here.
+You don't really have a leg to stand on regarding your claims, and you know it.
+There are legal consequences to filing a false DMCA claim.
+Mauer lives in the USA, as do many of the people she's filed against, making the legalities
+of the situation a bit more straightforward.
+And I doubt she has the army of lawyers that a major game dev would use to stall countersuits
+until they fizzle out.
+If the use of content is covered by fair use laws, a DMCA claim is considered to be false.
+And even if the use of content is not covered by fair use laws, a contract that Mauer signed
+states that she does not actually own the content.
+And a DMCA claim filed for content one doesn't own is also considered to be false.
+Abuse of the DMCA does have legal consequences.
+If Mauer's interpretation of the contract is upheld over the course of any legal battle
+she undertakes with Imago Softworks, many of these strikes and claims will also be upheld
+as legitimate.
+But if Mauer's interpretation is not upheld, she has opened the door wide for many content
+creators to set precedents regarding copyright law as it pertains to streams and let's plays,
+as well as absolutely destroying herself financially and legally.
+Either way, I think she's already destroyed herself professionally.
+Despite her impressive body of work, I don't think anybody would ever dare hire her again.
+However, as the week went on, rather than back down, apologize, delete Facebook, lawyer
+up and hit the gym, Mauer decided instead to double down.
+She began filing DMCAs against people who had done videos on Duck Game and Death Road
+to Canada, games unrelated to the Imago debacle but ones that she did work on, as well as
+sending a cease and desist to Turner Broadcasting due to their own involvement in Duck Game.
+Holy shit.
+Let's see what she actually has to say about it.
+I don't have to give anyone permission to have my music be in their videos.
+I told people to contact Imagos because Imagos is responsible for releasing a game that violated
+copyright.
+Also, I don't think that video recording yourself playing video games is a realistic job.
+Creating video games is, and it is a very risky business to be in.
+This is a continuation of her previous stance regarding her owning the rights to Starmazer
+DSP's soundtrack, not Imagos.
+But it's also a rebuke that many content creators face by a lot of less than charitable individuals.
+That it's not a real job.
+A job is what pays the bills.
+Period.
+Alex, did you know that at one time, being involved in television wasn't considered
+a job?
+Or being involved in radio?
+Did you know that at one time, people stood around in a field to watch very basic airplanes
+fly about 40 or 50 feet, say to themselves, golly gee, isn't that something, but never
+once considered that a multi-billion dollar industry would spring up from that innovation?
+Every single time there's a new invention or new medium, there will be people who may
+think that it's a novelty, but does not actually consist of any real work beyond hobbyism.
+Let me repeat, Alex, streaming and let's playing is not a real job to you.
+Likely because you're 34 years old, and grew up in an environment where such a thing
+was unthinkable.
+Thankfully for the rest of us, we've moved beyond that.
+And as a quick aside, TotalBiscuit got involved in all this bullshit too, quipping that, for
+this not being a real job, it sure as hell can afford the lawyers that Alex's real
+job seemingly can't.
+I love you bro.
+TB decided to reach out to YouTube Gaming and Twitch using the clout of his own channel,
+in order to help expedite some of the counterclaims filed by smaller channels against Maurer's
+bullshit.
+Additionally, a GoFundMe was set up to help pay for legal expenses against Maurer, which
+hit $10,000 in under 24 hours.
+It's still going by the way, so please go donate if you can.
+At the time of recording this video, they need another 2,000 American, and I have confidence
+that we can scrape it together.
+Additionally, even though it's been a very long time since August 2014, the internet
+still has no tolerance for unethical practices, and I'm personally absolutely proud of you
+guys for that.
+Here's Maurer addressing TemiNeko, the content creator she mentioned earlier as being one
+of the ones she refused to back down on.
+Thanks for helping me get death threats for doing nothing wrong.
+These death threats are coming from people who have my address.
+They are literally ruining my livelihood, as in whether or not I'm alive.
+Happy?
+Now of course, I don't think anybody should be sending actual fucking threats to anybody.
+And man, if you're doing this sort of thing for the lulz or whatever, please stop.
+But doesn't this whole thing sound familiar to any of you who went through gamergate?
+Didn't Brianna Wu, Nita Sarkeesian, Zoe Quinn, and many others start complaining about this
+type of shit as soon as they started getting seriously criticized for their unethical practices?
+Maybe the call of victim bucks was just too seducing for Maurer to ignore.
+But unlike the aforementioned fraudsters, there's probably not going to be much money
+for Maurer in all of it.
+She's destroyed absolutely everything around her to the point that even the SJW Gaming
+cabal seems to be reluctant to get involved.
+Over time, Maurer's comments on the topic began to become more and more deranged.
+Fucking playing video games is not a job!
+If there was a way to DMCA punch you in the face through my computer screen, I would.
+You and your fucking friends do not have the right to post videos with my music.
+The DMCA system exists so I can say no when the creepy fucking people like you are trying
+to fuck my music.
+Fuck you.
+This sounds like a 50-50 mix of a grumpy old father who doesn't approve of his kid's
+career choice and a whining child who's throwing a tantrum when things don't go her way.
+Another YouTuber by the name of Musical Anti-Hero managed to get a hold of Alex Maurer and conduct
+an interview regarding this whole Star Mazer DSP debacle.
+There was honestly nothing too special about it.
+Musical Anti-Hero brought up the same points that many others brought up regarding the
+use of DMCA, YouTubing being a legitimate source of income, and so on.
+Maurer, of course, restated her positions.
+But the video Musical Anti-Hero did on the interview was, you guessed it, hit with a
+copyright claim by Alex Maurer.
+The video itself had none of Maurer's content, and none of Imajos' content in it.
+It was entirely Musical Anti-Hero's content.
+What was Maurer's twisted reasoning this time?
+He used an old photograph from before my gender transition in his video.
+It's an extremely sensitive issue for trans people.
+I asked him to take it down and he said he would.
+Over 12 hours later it was still up, so I decided to report it.
+The photo came from my camera and I technically owned the copyright.
+Are you fucking kidding me?
+I don't care that Alex Maurer turned out to be trans.
+She apparently goes by Niki Maurer sometimes, but still seems to use Alex.
+It's a gender neutral name anyway, and it's ultimately a non-issue.
+And I understand why it may be sensitive to have pre-transition photos thrown about
+when you're trans, even though Maurer uploaded said photo herself.
+And I'm not even interested in arguing her trans status, even though transtrenders are
+absolutely a thing, gender questioning and confused individuals are absolutely a thing,
+and just blatantly faking trans status for SJW support is absolutely a thing.
+But an individual's face is not automatically protected by copyright.
+That is not a right that you intrinsically have simply for owning your own face.
+And showing a pre-transition photo is clearly not justification for abuse of the DMCA.
+It's about at this point in the story that Imogos just got fucking fed up with the whole
+thing.
+Imogos began to move forward with legal action against Maurer, stating in a Twitter PM that
+"...we have become represented by Leonard French in this case and we intend to litigate.
+We are seeking absolutely no damages in this action, only a court-ordered establishment
+of our queer defined rights chain and subsequently the place in that chain for YouTubers who
+have been affected."
+Leonard French, the attorney hired by Imogos, as well as the one behind the GoFundMe intended
+to help protect content creators affected by Maurer, released this statement on behalf
+of Don Thacker of Imogos.
+"...it is with a heavy heart that I announce that we have a plan to help the community
+and Imogos through the legal gauntlet that Alex Maurer has set for us.
+We feel it is our duty and responsibility to do what we can to mitigate the damage Alex
+has caused."
+Don's journey with Alex began seven years ago when he met her at PAX East after asking
+her to work on one of his films.
+They quickly became friends.
+Her talent and skill as a musician and artist was readily apparent.
+Don and Alex worked on several titles together over the years.
+In 2015, Don saw the opportunity to create Starmazer, a dream he had since he was nine
+years old.
+Don asked Alex to create the music and sound effects assets for the game.
+The Kickstarter, the development, the team, it was all a dream come true.
+But then Alex's behavior began to change.
+Slowly at first, it had become what you have seen publicly recently.
+Don tried to keep the matter as quiet as possible out of respect for Alex and in the hope that
+the situation would be resolved peacefully, amicably, and to the benefit of everyone.
+Unfortunately, the copyright system in the United States has allowed her to assert rights
+that she does not actually own, and her assertion of those rights has caused Imigos and Don
+to lose credibility with many of the people and companies that they do business with.
+This has resulted in Imigos and Don losing developers, financial support, potential and
+existing film clients, and that has further caused them all a great deal of stress.
+Alex has recently become very public about the matter.
+We have decided to pursue court action solely to educate Imigos' rights and to clear up
+any dispute with Alex.
+This is all in the hopes that the developers, including Don, can continue with their first
+left, development of the game.
+It is and always has been my understanding that Imigos owns valid copyrights in all their
+works from which Alex has issued takedowns.
+It is also my understanding and position that Alex has no right to issue takedowns for Imigos'
+and related content.
+Imigos and Don have engaged me to pursue these legal rights as reasonably and appropriately
+as possible.
+It is our primary goal to establish Imigos' rights and the community's rights to publish
+Star Mazer and Star Mazer DSP content.
+Meanwhile, Maura continued her long descent off the deep end.
+I just expect former clients to not disclose copies of paper containing my contact info,
+redacted social security number, and signature.
+For all I know, you creepy fucking scumbags might photoshop my signature from the document
+into other things, to sign me up for shit like credit cards or god knows what the fuck.
+Go ahead.
+I dare you to fucking do that and see how long Don Thacker remains out of jail.
+Oh, and if you could all stop threatening my life now that would be good.
+For all I know, someone is going to be standing outside of my house waiting for me.
+I may as well go buy a gun for protection.
+Let's see your doxxing.
+Uh, that's 1x love.
+Fucking faces, meet me outside of my house with all that shit now.
+I guess that's a part of the job description for YouTuber now?
+Death threats and meeting people outside their doxxed fucking houses?
+There's a lot to reply here, but I'll just say one thing.
+There is no job description for YouTuber, it's apparently not a real job.
+Sid Alpha, the original YouTuber that actually managed to get a reply from Maura back when
+this all started, was soon sent another message from her, that simply stated, I want to literally
+kill you.
+In a short span of time, she went from being apparently fearful of her life from death
+threats, to issuing one herself.
+Sid Alpha's reply was only, oh, do you?
+Maura quickly replied again with, never ask for my comment again.
+You are a cyberbully, 100,000%.
+And you are transphobic, seriously.
+You think your fucking cisgender world is all that exists?
+You think I don't own a photograph of myself?
+Then you're a fucking robot.
+I want to kill myself, but I have to kill you first.
+It's here that we've hit the rock bottom of the situation, and also where Maura herself
+has hit rock bottom in her personal life.
+What comes next is entirely my own speculation, but I think this is what happened.
+Alex Maura's mental health has been on a slow decline for a while now.
+I think this decline caused her to lose her job with Imogos, which most likely contributed
+to Maura's furthering instability due to her close friendship with Don Thacker, the
+man who had befriended her nearly a decade ago and brought her on as both a colleague
+and pal.
+This was likely extremely personal for Maura.
+It wasn't about the YouTubers, and it wasn't about Imogos, it was most likely about Don.
+It could have been a betrayal of friendship on the job.
+It could have been romantic in nature.
+It could have been just the slow decline of an individual due to other unrelated mental
+problems that was compounded first by the firing, and second by the massive internet
+backlash.
+Who knows?
+I don't think any of us ever will.
+But this all smacks of a personal dispute that exploded wildly into the realm of DMCAs
+and SJW bullshit.
+And yes, I do say SJW bullshit for a reason.
+Alex Maurer followed a tried and true formula that Gamergate knows well.
+You start with unethical practices.
+Add in a spice of accused privilege and power for your opponent.
+When things hit the court of public opinion, cry harassment to all your detractors.
+When things get worse, claim bigotry by any possible metric you can.
+In this case, transphobia.
+Overblow any death threats, insults, and harassment you may receive, and begin issuing similar
+death threats, insults, and harassment yourself.
+There's one big difference, though.
+At the end of this formula, all the big SJW names, the Zoe's, the Anita's, they get
+money, prestige, and protection.
+Instead, Maurer got isolation, legal repercussions, and eventually a complete mental breakdown
+causing her to seek the help that she so obviously needs.
+Leonard French, Imogosa's lawyer, posted a video on Maurer's final collapse.
+Eventually became actual threats of imminent bodily injury or harm.
+At one point, I was threatened with having my windows broken, my building set on fire.
+There were some colorful ones in there that I'll leave out because I don't want to encourage
+it.
+There was, of course, this ever-present image of a knife to her neck, and she said that
+that wasn't a suicide threat, it was something else.
+Literally, she said something else.
+Okay.
+Whatever that is.
+I have been searching and investigating and doing a lot, a lot of back behind-the-scenes
+efforts to try and find Alec's help, and the long and the short of it is that we were able
+to get Alec's some help, not me alone.
+It was an effort of a lot of people, including people I didn't expect, so thank you for all
+of you who came together to help an obviously suffering individual in her time of need.
+The DMCA claims have been redacted.
+Alex is receiving some form of help, which has been kept confidential.
+And yes, the legal action is still going forward.
+I think it's important to really split this into two discussions here.
+Alex Maurer has abused the DMCA, has hurt a lot of people, and must face whatever appropriate
+punishment is deemed necessary for that.
+Imogosa's rights need to be protected, as do the rights of the continent creators dragged
+into this unwillingly.
+At the same time, Alex Maurer is clearly suffering.
+She did all of this of her own volition, but guys, it's not worth her life or her health.
+She's still a person who needs help.
+Her actions, and her punishment for those actions, and her issues and the potential
+for her recovery are two different things.
+I want to make one thing absolutely clear.
+It is my opinion that the curious case of Alex Maurer ended on a good note because despite
+her self-claimed status as a trans woman in the gaming industry, Alex Maurer had no institutional
+support from the usual anti-Gamergate suspects.
+No Journos.
+No Gamergazi.
+No feminist frequency.
+No crash override.
+Nothing from the usual suspects on Twitter or YouTube.
+I'm sure she, at one time, positioned herself as the next Zoe Quinn, at least in her head,
+but thankfully that didn't manifest in reality.
+When the support wasn't there from the SJW clique, the only option left was to seek
+professional help.
+Which really makes me think, how many others that Gamergate knows so well are in the same
+boat?
+What if there's a nugget of goodness in people like Zoe and Anita and Brianna and
+so many others, covered up by years of bad habits, of corruption, of self-destructive
+tendencies, of social justice inculcation?
+SJWs and feminist YouTubers are, slowly but surely, starting to come around, not becoming
+anti-SJW or anti-feminist zealots, but at least beginning to use their critical thought
+processes more actively, and getting punished by the clique for it.
+Laci Green is a great recent example of this.
+She's nowhere near to being an anti-feminist as far as I can tell, but just talking to
+the antis has caused her own group to excommunicate her.
+It's my opinion that the hardcore strands of social justice indoctrinate in the way
+that an extremist intolerant religion does, and when the ideology is threatened, the natural
+reaction is to go deeper and deeper down the rabbit hole.
+I don't know if Alex is actually trans, and that her transness brought her into social
+justice, which inevitably led her into the sorry mental state she found herself in, or
+if her claims of being trans were a side effect of an already fragile mental state to begin
+with.
+Here's what I do think, though.
+Alex Maurer's claims of transphobia near the endpoint, as a person who already had
+emotional or mental issues, showed that those issues were rapidly compounded by exposure
+to extremist social justice views.
+Like any religion, like any cult, the SJW mindset needs only a small opening to turn
+your average person with a bit of depression into an emotional wreck, self-destructing
+constantly and taking everything down with them.
+I think this is what happened to Alex Maurer.
+And I think, if people like Zoe and Anita and Brianna didn't have the massive amount
+of wealth, connections, and privilege that they do, it would be happening to them too.
+But in the end, it was a good thing that Alex Maurer didn't have them, because her lack
+of them is what allowed her to get the help that she needs.
+At least, regarding that, I'm very happy for.
+But please, stop selling Chiptune albums for a thousand bucks, Alex.
+Thanks for watching, guys.
+This is the second Indefensible in a week, and I'm happy to say that I'm back to
+doing this stuff full-time.
+It won't always be Indefensibles, it might be political stuff in the style of my Trouble
+with Trudeau video, but I plan to keep this channel updated regularly from now on.
+Thanks to all of you supporters on the SFO Patreon who motivate me to keep doing this
+stuff, even when I thought that I couldn't do it myself and had nothing of value to contribute
+to the community.
+And, just as a treat, this video should be releasing on the morning of July 1st, 2017,
+the 150th anniversary of Canada's founding.
+To celebrate both Canada Day and Alex Maurer's hopefully impending recovery, my friends and
+I are going to be streaming Death Road to Canada over at twitch.tv slash sharpadotaku,
+one of Alex Maurer's games.
+Please don't DM CAS.
+The stream should be going right when this video goes live, so come say hi, I'd love
+to chat with you.
+Alright guys, I love you.
+See you next time.

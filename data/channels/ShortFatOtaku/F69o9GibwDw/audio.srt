@@ -1,0 +1,1112 @@
+1
+00:00:00,000 --> 00:00:04,560
+You know, I've had this video in me for a while, and I'm actually pretty happy that
+
+2
+00:00:04,560 --> 00:00:11,760
+I decided to record it after yesterday's Vampire the Masquerade stream over on ArchWarhammer's
+
+3
+00:00:11,760 --> 00:00:16,880
+channel, which by the way, you should go watch if you haven't already. Arch is DMing, it's me,
+
+4
+00:00:16,880 --> 00:00:23,760
+Sargon, Rags, and Uzulu playing in a Vampire the Masquerade game. Oh, also Kyle's there too,
+
+5
+00:00:23,760 --> 00:00:27,440
+he's a new guy. But we're playing Vampire the Masquerade, a tabletop game, we're playing it
+
+6
+00:00:27,440 --> 00:00:32,880
+online, and it's a lot of fun, it's called In the Claws of the Eagle. In any case, during one of
+
+7
+00:00:32,880 --> 00:00:38,160
+these streams, which by the way happen every Wednesday at 2.30pm EST, we were looking through
+
+8
+00:00:38,160 --> 00:00:41,840
+the Vampire the Masquerade rulebook, the most recent one, the one that we're using for the game,
+
+9
+00:00:41,840 --> 00:00:46,640
+and we found this passage, advice for considerate play. I'm not going to read it all because it's
+
+10
+00:00:46,640 --> 00:00:50,080
+huge, but here's a few choice quotes. One of the best things about role-playing is that you can
+
+11
+00:00:50,080 --> 00:00:54,960
+play someone different from yourself. No gender, ethnicity, sexual preference, disability, class,
+
+12
+00:00:54,960 --> 00:01:00,480
+or position in society is off limits, but remember that this freedom comes with a responsibility
+
+13
+00:01:00,480 --> 00:01:05,680
+to your fellow players. For instance, your table may include people who identify as trans, and
+
+14
+00:01:05,680 --> 00:01:10,000
+whether they plan to transition or not, they will probably not feel comfortable if you portray the
+
+15
+00:01:10,000 --> 00:01:15,120
+trans experience as a simple preference or a condition to be cured, or if you just assume
+
+16
+00:01:15,120 --> 00:01:20,720
+that all of their characters are also trans. Always respect your players' identities. Vampire
+
+17
+00:01:20,720 --> 00:01:27,280
+the Masquerade is not a fascist-friendly game. If you are a neo-nazi, alt-writer, or whatever it is
+
+18
+00:01:27,280 --> 00:01:32,160
+you're calling yourself nowadays, we urge you to put this book down and call someone who you trust
+
+19
+00:01:32,160 --> 00:01:38,080
+to talk about where you went wrong in your life. That said, Kindred culture is inherently monstrous.
+
+20
+00:01:38,080 --> 00:01:42,480
+Part of the political horror of Vampire the Masquerade is surviving in a culture that
+
+21
+00:01:42,480 --> 00:01:48,560
+worships the bad old ways. Large parts of Kindred society, especially the Camarilla and the Sabbat,
+
+22
+00:01:48,560 --> 00:01:53,600
+adhere to cults of tradition, ascribe to the idea of humiliating their enemies with overwhelming
+
+23
+00:01:53,600 --> 00:01:58,560
+wealth and force, and praise religious fundamentalism or even pre-modern ideas.
+
+24
+00:01:58,560 --> 00:02:02,960
+Even so, it's pretty easy to steer the game away from totalitarian perspectives.
+
+25
+00:02:02,960 --> 00:02:07,600
+Emphasize the differences between individual vampires. Tell stories about infighting,
+
+26
+00:02:07,600 --> 00:02:12,800
+surprising kindness, and new ideas. Play as thin-bloods, katif, or anarchs.
+
+27
+00:02:12,800 --> 00:02:18,000
+Portray Kindred society in all of its malicious and fascist glory, but let the player characters
+
+28
+00:02:18,000 --> 00:02:23,200
+oppose the system. What if someone wants to play a fascist, though? Or the storyteller wants
+
+29
+00:02:23,200 --> 00:02:28,480
+fascist NPCs? There are plenty of those throughout the world of darkness. Monsters with pretty faces.
+
+30
+00:02:28,480 --> 00:02:33,760
+They can be a tragic villain, or a former friend who fell. They might be the Brugge neo-nazi,
+
+31
+00:02:33,760 --> 00:02:38,960
+the far-right Ventrue billionaire, or the semester eugenicist. Whatever face they present,
+
+32
+00:02:38,960 --> 00:02:42,400
+the player characters should be given the satisfaction of redeeming or destroying them
+
+33
+00:02:42,400 --> 00:02:47,040
+eventually. After all, the player characters are something unique and special,
+
+34
+00:02:47,040 --> 00:02:50,720
+something fascists cannot abide. Well, thankfully, in Arch's campaign,
+
+35
+00:02:50,720 --> 00:02:55,200
+we're all playing a bunch of Nazis fighting against Russian communists during World War II.
+
+36
+00:02:55,200 --> 00:02:59,120
+We're German soldiers on the Eastern Front who also happen to be vampires. And the campaign
+
+37
+00:02:59,120 --> 00:03:03,360
+is set largely outside of the influence of the Camarilla, because the Nazis have always had this
+
+38
+00:03:03,360 --> 00:03:06,640
+weird thing going on with the occult. You must remember Indiana Jones, right, where they go
+
+39
+00:03:06,640 --> 00:03:10,400
+looking for artifacts and stuff to try and help the war effort. We're kind of playing those type
+
+40
+00:03:10,400 --> 00:03:16,240
+of Nazis. So there's basically like a paranormal research unit that the player characters are
+
+41
+00:03:16,240 --> 00:03:21,520
+attached to, and it's honestly a lot of really goofy, schlocky fun. Like Sargon is literally
+
+42
+00:03:21,520 --> 00:03:27,200
+the villain from Raiders of the Lost Ark. Rags is playing as a gangrel who can shapeshift into
+
+43
+00:03:27,200 --> 00:03:32,880
+a walrus. I'm playing as the obligatory 1000-year-old vampire loli. In whose lieu is
+
+44
+00:03:32,880 --> 00:03:38,800
+Jurgen Panzersen, which is just a Nazi retelling of Jordan Peterson. He even has a best-selling
+
+45
+00:03:38,800 --> 00:03:44,240
+book, 12 Rules for Reich. But my point is, Vampire the Masquerade, when it was originally conceived,
+
+46
+00:03:44,240 --> 00:03:49,120
+didn't used to be this. The point of the game, and in fact it even says it in the rule book
+
+47
+00:03:49,120 --> 00:03:54,560
+elsewhere, the point of the game is that there are no heroes in vampire society. At some point,
+
+48
+00:03:54,560 --> 00:03:59,440
+every single character you encounter has to take blood from somebody. And they might have these
+
+49
+00:03:59,440 --> 00:04:04,880
+societies or these traditions or these methods by which they hold themselves together, but deep
+
+50
+00:04:04,880 --> 00:04:09,680
+down they're all in some way monstrous. And in fact that's often the objection to running vampire
+
+51
+00:04:09,680 --> 00:04:14,160
+campaigns, is that there's no heroes. You can't play a heroic character. And this passage actually
+
+52
+00:04:14,160 --> 00:04:20,160
+talks about character archetypes that make complete sense in the vampire lore. The Brugge Neo-Nazi,
+
+53
+00:04:20,160 --> 00:04:24,400
+the far-right Ventrue billionaire. You don't need to know the specifics of those clans to
+
+54
+00:04:24,400 --> 00:04:28,320
+understand what kind of characters they are, and they actually make complete sense within the lore.
+
+55
+00:04:28,320 --> 00:04:33,520
+But because I guess everything is run by social justice nowadays, we need a page in the rule book
+
+56
+00:04:33,520 --> 00:04:37,760
+saying, yeah we might have put the stats in the book for some reason, but you shouldn't play as
+
+57
+00:04:37,760 --> 00:04:43,360
+this. Don't. Don't do it. The tabletop situation needs to be a friendly and open and welcoming
+
+58
+00:04:43,360 --> 00:04:49,040
+space. I mean, at least according to the BBC. No offense, but Dungeon and Dragons isn't just for
+
+59
+00:04:49,040 --> 00:04:54,080
+nerds anymore. Not just for a bunch of beardy boys in the basement. It's for everybody and anybody.
+
+60
+00:04:54,080 --> 00:04:58,960
+It's so social, the most social game you have to play in fact. All you need is a few friends and a
+
+61
+00:04:58,960 --> 00:05:04,160
+dungeon master or game master to kind of run the game and tell you your story. It's this wonderful
+
+62
+00:05:04,160 --> 00:05:08,560
+escapism from real life, like acting or writing, but you're doing it as a group. And it can be
+
+63
+00:05:08,560 --> 00:05:13,840
+really good for people with anxiety, socializing issues, mobility issues, to kind of play somebody
+
+64
+00:05:13,840 --> 00:05:19,200
+else and experiment with their personality. It's got its problems, like most games to be honest,
+
+65
+00:05:19,200 --> 00:05:24,480
+with diversity and inclusion, but there's groups out there working on it, there's teams out there
+
+66
+00:05:24,480 --> 00:05:28,320
+working on it, and like even the creators are working on it. Okay, okay, okay. I guess it's
+
+67
+00:05:28,320 --> 00:05:32,480
+friendly and opening and welcome to everyone unless you have a beard, all right? It's not
+
+68
+00:05:32,480 --> 00:05:36,880
+just Vampire that has this problem though, obviously. Call of Cthulhu shows we need to
+
+69
+00:05:36,880 --> 00:05:42,720
+move past H.P. Lovecraft once and for all. Aside from his history of racism, Lovecraft's ideas are
+
+70
+00:05:42,720 --> 00:05:47,040
+so saturated they're no longer interesting fodder for horror games. I think we're all set on
+
+71
+00:05:47,040 --> 00:05:52,080
+Lovecraft games for a while, though let me just say I'm not talking about Lovecraft's racism,
+
+72
+00:05:52,080 --> 00:05:57,520
+which let's be honest, is real bad. The dude was racist. Games really need to fall out of love with
+
+73
+00:05:57,520 --> 00:06:02,640
+Lovecraft. I'm not keen on mincing words on this one. H.P. Lovecraft was a racist. Cthulhu game
+
+74
+00:06:02,640 --> 00:06:08,560
+creators acknowledge that Lovecraft was a racist. And you know what? By modern standards, Lovecraft
+
+75
+00:06:08,560 --> 00:06:12,080
+probably was. I haven't looked into it, so I don't know if he is or not, but let's just assume that
+
+76
+00:06:12,080 --> 00:06:16,480
+by modern standards he is. You still can't hold him to those modern standards though, can you?
+
+77
+00:06:16,480 --> 00:06:21,360
+Because he didn't exist in modern society. He didn't live in modern culture. I mean, if you
+
+78
+00:06:21,360 --> 00:06:26,400
+can have cultural relativism for all of these backwards ass religions that come in and destroy
+
+79
+00:06:26,400 --> 00:06:30,800
+western civilization simply on the grounds of it's their culture, then surely you can have
+
+80
+00:06:30,800 --> 00:06:36,160
+temporal cultural relativism, right? I mean, why not? Here, if there actually happens to be any
+
+81
+00:06:36,160 --> 00:06:39,920
+kind of social justice-y tags listening to this, I'm gonna blow your mind right now, alright?
+
+82
+00:06:39,920 --> 00:06:44,960
+You cannot judge somebody for living up to your present ideals if they existed in the past,
+
+83
+00:06:44,960 --> 00:06:50,640
+and here's why. Political advancement is exactly like scientific advancement or technological
+
+84
+00:06:50,640 --> 00:06:56,720
+advancement. You have to think about things for a while and iterate on ideas. You have to discover
+
+85
+00:06:56,720 --> 00:07:00,400
+things and create things. You have to invent things. Believe it or not, there was once a
+
+86
+00:07:00,400 --> 00:07:05,840
+point in human history where every single person did not know that people of a different race from
+
+87
+00:07:05,840 --> 00:07:10,560
+them were also humans, and that's something that we had to figure out. And it's actually not fair
+
+88
+00:07:10,560 --> 00:07:14,400
+to judge people in the past who thought that way by modern standards. I mean, would you do it for
+
+89
+00:07:14,400 --> 00:07:18,480
+technology? Would you consider the medieval peasant to be morally deficient because he has
+
+90
+00:07:18,480 --> 00:07:23,440
+no idea what a computer is? Well, no, obviously not. Well, the same goes with political or
+
+91
+00:07:23,440 --> 00:07:27,600
+philosophical discoveries. It's easy for you to think of all the liberal norms we take for
+
+92
+00:07:27,600 --> 00:07:31,680
+granted today as being universal, but they're not universal. We had to discover that shit,
+
+93
+00:07:31,680 --> 00:07:36,560
+and yet here we are. While developing Fate of Cthulhu, we were obligated to reflect on the
+
+94
+00:07:36,560 --> 00:07:40,960
+problematic roots of the source material. We tackle that on page six. The mythos is definitely
+
+95
+00:07:40,960 --> 00:07:46,560
+worth exploring. It's also worth re-examining. Ah, yes, of course. Make money off of this extremely
+
+96
+00:07:46,560 --> 00:07:51,120
+profitable available IP, but also make sure to lecture to your audience about how problematic
+
+97
+00:07:51,120 --> 00:07:55,280
+the IP actually is and how bad it is that they want to enjoy it. All right, let's see what it
+
+98
+00:07:55,280 --> 00:08:00,640
+says. Fate of Cthulhu is a game that deals with many hard topics, including mental health,
+
+99
+00:08:00,640 --> 00:08:04,320
+systemic abuses of power, and the deaths of huge portions of the human species.
+
+100
+00:08:04,320 --> 00:08:08,560
+Make sure all the players are aware of these things and give enthusiastic consent before
+
+101
+00:08:08,560 --> 00:08:14,080
+they begin playing. Also, H.P. Lovecraft was a racist and anti-Semite. There, we said it.
+
+102
+00:08:14,080 --> 00:08:18,160
+You know, I don't buy a game, whether it's a video game or a tabletop game or whatever it is.
+
+103
+00:08:18,160 --> 00:08:22,960
+I don't plunk money down on this shit to be virtue signaled at and to be talked down to by
+
+104
+00:08:22,960 --> 00:08:28,080
+people who have no idea what they're actually saying. We are in a strange universe where the
+
+105
+00:08:28,080 --> 00:08:33,520
+radical left has gone so crazy that they've looped back around and basically become the new Jack
+
+106
+00:08:33,520 --> 00:08:37,280
+Chick. If some of you guys are too young to remember him, well, he made these really terrible
+
+107
+00:08:37,280 --> 00:08:42,480
+Christian comics talking about the dangers of Satanism and D&D. But today tabletop isn't
+
+108
+00:08:42,480 --> 00:08:48,000
+demonic. It's just problematic. As a quick side note, what's really funny is that in our
+
+109
+00:08:48,000 --> 00:08:54,320
+very obviously Nazi vampire game over on Archer's channel, we discovered all of this stuff in the
+
+110
+00:08:54,320 --> 00:08:58,880
+vampire rulebook weeks before it went viral, but it did go viral. It went viral a couple of days
+
+111
+00:08:58,880 --> 00:09:03,360
+ago. If you thought the fate of Cthulhu entry complaining about Lovecraft was cringe, I present
+
+112
+00:09:03,360 --> 00:09:07,760
+to you Vampire the Masquerade. No fascists. If you're a fascist, you're not welcome to play this
+
+113
+00:09:07,760 --> 00:09:12,480
+game. It's against the rules. If you're reading this and thinking you just call everyone you
+
+114
+00:09:12,480 --> 00:09:20,560
+disagree with a fascist, then you're probably a fascist. Oops, I guess we broke the rule.
+
+115
+00:09:20,560 --> 00:09:24,640
+I do hope our examination of these passages on stream a few weeks ago somehow contributed to
+
+116
+00:09:24,640 --> 00:09:29,600
+this going viral. Or maybe it's our stream itself because, you know, we generally get between 500
+
+117
+00:09:29,600 --> 00:09:34,400
+and 1000 people watching the Vampire the Masquerade sessions every week. And that actually
+
+118
+00:09:34,400 --> 00:09:39,040
+puts us in the realm of one of the more popular vampire streams on the entire internet. For
+
+119
+00:09:39,040 --> 00:09:44,720
+example, you've got Seattle by Night, which is a Vampire the Masquerade campaign run by Penny
+
+120
+00:09:44,720 --> 00:09:49,920
+Arcade. And Penny Arcade's a big deal. You know, they run PAX. They invented the idea of the modern
+
+121
+00:09:49,920 --> 00:09:55,520
+webcomic. They were one of the first real content creators on the internet. They run their Vampire
+
+122
+00:09:55,520 --> 00:09:59,360
+the Masquerade campaign on their Twitch channel. They get less viewers than us, both in terms of
+
+123
+00:09:59,360 --> 00:10:03,840
+live viewers and viewers after the fact. Their chat room, as you can probably see,
+
+124
+00:10:03,840 --> 00:10:08,800
+is a lot less rowdy, is a lot less engaged. It has a lot less activity. I don't want to knock
+
+125
+00:10:08,800 --> 00:10:12,960
+these guys because I actually remember reading Penny Arcade quite a bit back in the day when
+
+126
+00:10:12,960 --> 00:10:19,120
+they still had their edge. And PAX is certainly a success in its own right. But it seems like
+
+127
+00:10:19,120 --> 00:10:24,000
+the more popular option is a bunch of shitlords on the internet just playing it on Roll20. You've
+
+128
+00:10:24,000 --> 00:10:29,200
+also got Geek and Sundry's Vampire the Masquerade campaign. This is, if you don't know,
+
+129
+00:10:29,200 --> 00:10:33,760
+Felicia Day's channel, basically. I mean, it's not just her. There's a whole group of them, but it's
+
+130
+00:10:33,760 --> 00:10:40,400
+most well known for Felicia Day's involvement. And they have, you know, over 2 million subscribers,
+
+131
+00:10:40,400 --> 00:10:44,640
+half a million followers on Twitch. They have the official endorsement of World of Darkness,
+
+132
+00:10:44,640 --> 00:10:48,720
+you know, the people who create Vampire the Masquerade. And yet their campaign doesn't
+
+133
+00:10:48,720 --> 00:10:55,280
+really seem to be that much popular than ours. It is. Our streams tend to get between 10 and 20k
+
+134
+00:10:55,280 --> 00:11:02,800
+viewers after the fact. Theirs get between 80 and say 50 after the fact. So they're definitely more
+
+135
+00:11:02,800 --> 00:11:09,120
+popular than us, but not by a huge amount, despite having all of this backing. And I think it's
+
+136
+00:11:09,120 --> 00:11:13,680
+primarily because, you know, these guys and also the Penny Arcade guys, you know, they're playing
+
+137
+00:11:13,680 --> 00:11:19,360
+very tame campaigns. You know, they're quite afraid to be a little bit edgy, even though it's
+
+138
+00:11:20,160 --> 00:11:26,560
+literally a game about vampires being edgy. Like this is, if there was going to be a tabletop game
+
+139
+00:11:26,560 --> 00:11:30,960
+where edginess is the norm, it's supposed to be Vampire the Masquerade. By the way,
+
+140
+00:11:30,960 --> 00:11:36,320
+I discovered those games because of this Twitter account, Vancouver by Night. This is another
+
+141
+00:11:36,320 --> 00:11:40,080
+Vampire the Masquerade campaign apparently happening in Vancouver. It seems like a lot of
+
+142
+00:11:40,080 --> 00:11:45,600
+the campaigns just have like the name of their city and then by night. I think that's because
+
+143
+00:11:45,600 --> 00:11:50,080
+the official Vampire the Masquerade rulebook literally says, if you can't figure out a setting,
+
+144
+00:11:50,080 --> 00:11:54,880
+just set it in your hometown and just, you know, play, you know, just play places that,
+
+145
+00:11:54,880 --> 00:11:58,480
+you know, basically. And it's like, well, that's, I guess, but it's not really that fun.
+
+146
+00:11:58,480 --> 00:12:02,240
+This group says that they added games to the list and it's like, if there are any other games
+
+147
+00:12:02,240 --> 00:12:09,120
+represented that, you know, let me know. Hashtag Vammily. I applied our game to be on this list.
+
+148
+00:12:09,120 --> 00:12:13,520
+And they were just like, do you have a link to the Twitch? And shortly after this,
+
+149
+00:12:13,520 --> 00:12:18,800
+they stopped replying to me because I think they figured out exactly what kind of game we were
+
+150
+00:12:18,800 --> 00:12:26,000
+playing. Literally role playing as Nazis, you guys, literally. However, it was through this
+
+151
+00:12:26,000 --> 00:12:31,040
+list that I realized most people who play Vampire the Masquerade, especially online, they're,
+
+152
+00:12:31,040 --> 00:12:36,160
+they're social justice warriors themselves. And I don't mean just the big ones like Penny Arcade or
+
+153
+00:12:36,160 --> 00:12:41,840
+Felicia Day with Geek and Sundry. Ah, yes. The old chestnut of version five, not being a true
+
+154
+00:12:41,840 --> 00:12:46,480
+Vampire the Masquerade game because it doesn't cover bad things argument. Yes. One can play a
+
+155
+00:12:46,480 --> 00:12:52,320
+nasty piece of shit in their game. Does that mean we welcome actual fascists, racists and sexist
+
+156
+00:12:52,320 --> 00:12:58,880
+people? Fuck no. It's the whole Bruja being Nazis shit again. And no point in either text is said
+
+157
+00:12:58,880 --> 00:13:03,280
+that it's okay for these groups of people to exist in the real world, but it does acknowledge their
+
+158
+00:13:03,280 --> 00:13:08,240
+existence. If anything, I admire the writer's wording for actually mocking these scumbags.
+
+159
+00:13:08,240 --> 00:13:14,480
+The World of Darkness is more than the all nasty shit that end with ists. The World of Darkness is
+
+160
+00:13:14,480 --> 00:13:19,040
+the battle with oneself as a vampire coming to terms with your condition. It is not a game of
+
+161
+00:13:19,040 --> 00:13:25,280
+how to be offensive and insensitive. Of course, these things can be explored in the games if done
+
+162
+00:13:25,280 --> 00:13:30,240
+properly. They already exist to a very mild extent in the game's canon. But if you really think that
+
+163
+00:13:30,240 --> 00:13:34,320
+anything goes because it's the World of Darkness, piss off. We don't want you in our games.
+
+164
+00:13:34,320 --> 00:13:39,280
+All right, so vampires, no problem. Blood sucking creatures of the night. Okay.
+
+165
+00:13:39,920 --> 00:13:44,720
+Literally cursed by the devil and turned away from all that is good and holy in the world.
+
+166
+00:13:45,280 --> 00:13:52,880
+Completely fine. But don't you dare be a fucking racist. And this isn't me advocating for racism.
+
+167
+00:13:52,880 --> 00:13:58,960
+This is me advocating for common sense. It's me advocating for racism's rightful spot
+
+168
+00:13:58,960 --> 00:14:03,760
+in the hierarchy of evil things. So you want to put racism in your fantasy game.
+
+169
+00:14:03,760 --> 00:14:07,920
+A DM's guide to implementing real world racism analogies into fictional worlds
+
+170
+00:14:07,920 --> 00:14:13,600
+by white people. Me for white people. You all. Step one, don't. There's absolutely no reason for
+
+171
+00:14:13,600 --> 00:14:18,880
+it. Realism? Bullshit. There are elves and dragons and magic. Grittiness? There's plenty of other
+
+172
+00:14:18,880 --> 00:14:24,240
+stuff and tropes to use that don't perpetuate harmful like that. Harmful like that? Creating
+
+173
+00:14:24,240 --> 00:14:28,960
+conflict? Again, plenty of other options that don't rely on IRL racism. The only people who
+
+174
+00:14:28,960 --> 00:14:33,760
+should use themes like these in their games are the ones actually affected by it. As a trans
+
+175
+00:14:33,760 --> 00:14:38,960
+person, it can feel super fucking cathartic and awesome to combat and smash transphobic bullshit
+
+176
+00:14:38,960 --> 00:14:44,640
+in game. That's because we decide to handle the topic. On the other hand, when a cis person
+
+177
+00:14:44,640 --> 00:14:49,520
+decides to put transphobia in their game, or a white person with racism, they just end up
+
+178
+00:14:49,520 --> 00:14:54,720
+perpetuating the same harmful shittiness that we try to escape from when playing D&D. So if
+
+179
+00:14:54,720 --> 00:14:58,800
+you're a white DM, unless you have a person of color in your group and they specifically ask you
+
+180
+00:14:58,800 --> 00:15:03,760
+to put something like this in your game so they can handle it, don't. Okay, so by that logic,
+
+181
+00:15:03,760 --> 00:15:08,960
+since we've all been branded as alt-right neo-Nazis and we're playing original Nazis in
+
+182
+00:15:08,960 --> 00:15:14,960
+our campaign, it's fine, right? I mean, personally, as a Nazi person, it can feel super fucking
+
+183
+00:15:14,960 --> 00:15:21,920
+cathartic and awesome to combat and smash Russian communism bullshit in game. It's the same logic.
+
+184
+00:15:22,800 --> 00:15:28,080
+It's also, by the way, why the logic is stupid. You are not your character. You know, if you're
+
+185
+00:15:28,080 --> 00:15:32,400
+playing an orc barbarian in D&D, you're not actually an orc barbarian in real life.
+
+186
+00:15:33,600 --> 00:15:38,960
+If you're playing a racist character, you're not actually a racist in real life. I was never a fat
+
+187
+00:15:38,960 --> 00:15:44,640
+black monk, nor was I ever a loli vampire Nazi. Just because something is portrayed in a fictional
+
+188
+00:15:44,640 --> 00:15:50,480
+setting doesn't mean that the creator of the fictional setting actually exposes that ideology.
+
+189
+00:15:50,480 --> 00:15:54,960
+It's just a game. And I'll say it's just a game to you types in the same way that I would say it to
+
+190
+00:15:54,960 --> 00:15:59,680
+both Anita Sarkeesian and Jack Thompson when it comes to video games. It's just a fucking game.
+
+191
+00:15:59,680 --> 00:16:06,960
+By the way, for some people, Vampire the Masquerade didn't go far enough in its rebuke of Nazism.
+
+192
+00:16:07,520 --> 00:16:12,880
+If you aren't hiring experts, you'll end up with coded Nazi language and harmful messages in your
+
+193
+00:16:12,880 --> 00:16:17,920
+vammily Vampire the Masquerade games. Please, this isn't something you can just wing,
+
+194
+00:16:17,920 --> 00:16:21,920
+not with the status of our fandom. There's plenty of people with amazing qualifications that will
+
+195
+00:16:21,920 --> 00:16:26,080
+have a serious critical look at your creations and help you make sure your mechanics,
+
+196
+00:16:26,080 --> 00:16:30,320
+narratives, and systems aren't accidentally condoning Nazi ideals
+
+197
+00:16:30,320 --> 00:16:35,600
+or putting authoritarian regimes on a pedestal. You can't afford to act like a dude in a garage
+
+198
+00:16:35,600 --> 00:16:41,360
+doing a niche product. You're using a multi-million dollar worth IP that's known for having welcomed
+
+199
+00:16:41,360 --> 00:16:47,200
+Nazis because they're clients. You need to take active measures, else your neutrality will kill
+
+200
+00:16:47,200 --> 00:16:51,840
+us. I'm even going to need to add that your spoken messages and written credos in the vammily
+
+201
+00:16:51,840 --> 00:16:56,400
+need to be followed by actual action, especially when you don't apologize to victims of your
+
+202
+00:16:56,400 --> 00:17:00,640
+abuser staff. Your disclaimer means nothing if you still support them and promote them.
+
+203
+00:17:00,640 --> 00:17:05,760
+I must insist, Vampire the Masquerade and World of Darkness aren't a couple of dudes in a garage
+
+204
+00:17:05,760 --> 00:17:12,000
+anymore. You have a duty, as content creators, to educate yourself and not be a bigot, not doxxing
+
+205
+00:17:12,000 --> 00:17:17,200
+minors, have meaningful and well-designed representation, not put in pet play for shock
+
+206
+00:17:17,200 --> 00:17:23,680
+and edge value, be mature, but real maturity isn't that. Yes, your NPCs and your society is
+
+207
+00:17:23,680 --> 00:17:29,360
+a clusterfuck of leeches with all of the ism behaviors, but you need to show it as a problem,
+
+208
+00:17:29,360 --> 00:17:33,520
+not as something to glorify. I mean, the whole point is to play as somebody that you're not,
+
+209
+00:17:33,520 --> 00:17:39,280
+right? Like, I'm not Mario. I'm not Link. Whenever I play those games, I don't believe myself to be
+
+210
+00:17:39,280 --> 00:17:43,920
+them. You're taking on a role. It's a role-playing game. The whole point is that you take on a role
+
+211
+00:17:43,920 --> 00:17:48,720
+that you're not. I think the biggest problem I have with it, though, is that yes, Vampire
+
+212
+00:17:48,720 --> 00:17:52,240
+the Masquerade was meant to be like the edgy tabletop, you know, because Dungeons and Dragons
+
+213
+00:17:52,240 --> 00:17:56,960
+wasn't really that edgy. Maybe first edition was with all the crazy illustrations in the rule book,
+
+214
+00:17:56,960 --> 00:18:02,320
+but in general, Vampire the Masquerade was like, if you want to be an edgy teen goth shithead,
+
+215
+00:18:02,320 --> 00:18:06,320
+here's the game for you. It's all about being creatures of the night and having like inner
+
+216
+00:18:06,320 --> 00:18:11,200
+turmoil and drama and all this BS, but to suddenly turn around and say that you can no longer
+
+217
+00:18:11,200 --> 00:18:15,600
+be edgy in a property designed for edginess just seems to be counterproductive to me.
+
+218
+00:18:15,600 --> 00:18:20,560
+You know, if you were ever going to play ridiculous Nazi vampires, Vampire the Masquerade
+
+219
+00:18:20,560 --> 00:18:25,280
+would be the game to play it in. And then I'm reminded of the film genre Nazi-sploitation,
+
+220
+00:18:25,280 --> 00:18:29,040
+which I think peaked in the in the 70s or something. And the whole point of that genre of
+
+221
+00:18:29,040 --> 00:18:36,160
+film was that you would basically portray the Nazis in the most schlocky, hilarious and goofy,
+
+222
+00:18:36,160 --> 00:18:42,480
+but equally also insane and nightmarish fashion that you possibly could. It was equal parts
+
+223
+00:18:42,480 --> 00:18:48,560
+horror and hilarity. And you know, Vampire the Masquerade has a lot in common, tonally,
+
+224
+00:18:48,560 --> 00:18:52,640
+at least with Nazi-sploitation. Like if you were to go back and play the computer game that made
+
+225
+00:18:52,640 --> 00:18:57,520
+the series well known, Vampire the Masquerade Bloodlines, you'll pretty quickly notice that
+
+226
+00:18:57,520 --> 00:19:03,040
+it is also full of some pretty goofy nonsense. It is a serious game with amazing music,
+
+227
+00:19:03,040 --> 00:19:09,120
+a tabletop accurate level up system and a really engaging story. But it also has quirky characters,
+
+228
+00:19:09,120 --> 00:19:14,160
+goofy side quests, and it's generally not afraid to make fun of itself. It does seem to be the
+
+229
+00:19:14,160 --> 00:19:20,080
+sense of humor that that marries Vampire the Masquerade and Nazi-sploitation so well together.
+
+230
+00:19:20,080 --> 00:19:25,120
+They're both internally very serious, but the real world people who engage with them often do so
+
+231
+00:19:25,120 --> 00:19:30,000
+just for fun. And half of the enjoyment comes from taking the piss out of it. But most importantly
+
+232
+00:19:30,000 --> 00:19:36,240
+of all, nobody thought that Nazi-sploitation portrayed the Nazis in a positive light.
+
+233
+00:19:36,240 --> 00:19:41,280
+And honestly, in my opinion, those movies are great. Not because they're like, they're actually
+
+234
+00:19:41,280 --> 00:19:46,320
+like Hitler's true vision of fascism or something, you know, far from it, but it's because it
+
+235
+00:19:46,320 --> 00:19:52,720
+basically parodies the Nazis and it turns them into a joke, which is fundamentally what they are.
+
+236
+00:19:52,720 --> 00:19:57,360
+And if you want to know how you combat Nazis, like the real neo-Nazis that do exist, a few of
+
+237
+00:19:57,360 --> 00:20:01,920
+them that are still kicking around nowadays, is you turn them into a joke. You laugh at them.
+
+238
+00:20:01,920 --> 00:20:06,160
+They don't hold political power anywhere. No one actually cares about their ideas.
+
+239
+00:20:06,160 --> 00:20:11,840
+They're a bunch of fucking losers. And bringing up like the great Nazi scare as if they're somehow
+
+240
+00:20:11,840 --> 00:20:14,720
+relevant, it seems like you're making them a bigger problem than they actually are.
+
+241
+00:20:15,440 --> 00:20:19,920
+And you know what? That gives them power. Especially if you take people who
+
+242
+00:20:19,920 --> 00:20:25,120
+make jokes about Nazis, like say, Dankula and his saluting pug, you take them and make them
+
+243
+00:20:25,120 --> 00:20:30,640
+fucking criminals for joking about it. Like whose honor are you defending when you do that?
+
+244
+00:20:30,640 --> 00:20:34,960
+When you say no fascists are allowed to play Vampire the Masquerade, you can't depict Nazis
+
+245
+00:20:34,960 --> 00:20:40,240
+in this game. You know, are you defending Hitler's honor? You know, do not be a liberal iconoclast
+
+246
+00:20:40,240 --> 00:20:46,000
+against the sacred Nazi cow. But you know what? It's completely okay because Arch had us all fill
+
+247
+00:20:46,000 --> 00:20:52,720
+out this handy dandy RPG consent form when we first started playing Vampire the Masquerade.
+
+248
+00:20:52,720 --> 00:20:56,720
+All right. And this thing, this thing is just great. You know, you can absolutely put in all
+
+249
+00:20:56,720 --> 00:21:00,080
+the things that trigger you. So you don't even have to be exposed to them. So you can go on
+
+250
+00:21:00,080 --> 00:21:03,360
+living in your hug box for the rest of your life. And you know, there's actually some really good
+
+251
+00:21:03,360 --> 00:21:07,760
+stuff here. All right. Let's look over it. Right. So for example, we have the GM name. That would be
+
+252
+00:21:08,720 --> 00:21:12,880
+Arch. That's him. The planned game theme would obviously be Nazis.
+
+253
+00:21:12,880 --> 00:21:19,760
+Nazi. Mark the color that best illustrate your comfort level with the following plot or story
+
+254
+00:21:19,760 --> 00:21:26,480
+elements. Green. Enthusiastic consent. Bring it on. Yellow. Okay if veiled or off stage.
+
+255
+00:21:26,480 --> 00:21:32,720
+Might be okay on stage, but requires discussion ahead of time. Uncertain. Red. Hard line. Do not
+
+256
+00:21:32,720 --> 00:21:39,120
+include. Okay. Well, let's let's go through this. All right. So horror. Bugs. They're kind of icky,
+
+257
+00:21:39,120 --> 00:21:44,400
+so no. All right. Blood. Well, it's a vampire game, I understand, but still no blood in this
+
+258
+00:21:44,400 --> 00:21:49,680
+game. All right. All right. Demons. Well, you know, after the new Doom trailer, I'm kind of
+
+259
+00:21:49,680 --> 00:21:53,520
+triggered by them. So no thanks. Eyeballs. No, I mean, absolutely not. I keep my eyes closed all
+
+260
+00:21:53,520 --> 00:21:59,200
+the time. Gore. No, of course not. Harm to animals. No, because I'm a vegan, obviously.
+
+261
+00:21:59,200 --> 00:22:07,520
+Harm to children. Yes, because I'm also a pedosexual. Okay. Rats. Hmm. You know,
+
+262
+00:22:07,680 --> 00:22:12,400
+I don't know about that one. Spider. Spiders. Yes. Yes. Obviously. And thankfully they include
+
+263
+00:22:12,400 --> 00:22:19,200
+these extra lines to write other things in. So for example, I want no. Trump. Because Trump is
+
+264
+00:22:19,200 --> 00:22:26,960
+the most horrible thing of all. Romance. Fade to black. Explicit between PCs and NPCs between PCs
+
+265
+00:22:26,960 --> 00:22:32,960
+and the same with sex. Well, you know what? I identify as an incel. So all of this triggers me
+
+266
+00:22:32,960 --> 00:22:37,680
+and I want no sex in my game whatsoever. Mental and physical health. Okay,
+
+267
+00:22:37,680 --> 00:22:41,920
+hold on a minute. Cancer, claustrophobia, freezing death, gaslighting, genocide, heat stroke,
+
+268
+00:22:41,920 --> 00:22:47,120
+natural disasters, paralysis or restraint, police, pregnancy, miscarriage or abortion,
+
+269
+00:22:47,120 --> 00:22:52,480
+self-harm, severe weather, sexual starvation, terrorism, torture, and thirst. Let's add to this
+
+270
+00:22:53,520 --> 00:22:59,040
+just harm. Okay. I don't want any harm of any kind in my vampire game.
+
+271
+00:22:59,040 --> 00:23:07,280
+And hopefully if I do not consent to any of these things, then what that means is that my character
+
+272
+00:23:07,280 --> 00:23:12,400
+will never take damage and never die. I think that's a good idea. There's no top topics just
+
+273
+00:23:12,400 --> 00:23:20,880
+because I am being triggered to all hell right now. I do not want any vampires in my vampire
+
+274
+00:23:20,880 --> 00:23:25,840
+game. All right. Because they trigger me. They're just something about them. They're kind of creepy,
+
+275
+00:23:25,840 --> 00:23:32,880
+you know? So there we go. We are now playing the perfect Vampire the Masquerade game as the
+
+276
+00:23:32,880 --> 00:23:40,560
+developers of the game intended it to be played. Everything is safe. Everything is wholesome and
+
+277
+00:23:40,560 --> 00:23:46,160
+accepting and open and no one can feel triggered about anything. And you know what?
+
+278
+00:23:46,160 --> 00:23:48,560
+Everything's completely fine.
+

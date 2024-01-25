@@ -1,0 +1,357 @@
+On January 4th, 2018, the Federal Communications Commission, or FCC,
+released its final net neutrality repeal order. This capped off months of discussion on the topic
+of net neutrality, which had previously come to a head on December 14th, 2017. But even before that,
+net neutrality had been floating around the political discourse for several years,
+in one form or another. What exactly is net neutrality? Well, here's Wikipedia's definition.
+Net neutrality is the principle that internet service providers must treat all data on the
+internet the same, and not discriminate or charge differently by user, content, website, platform,
+application, type of attached equipment, or method of communication. For instance,
+under these principles, internet service providers are unable to intentionally block,
+slow down, or charge money for specific websites and online content. That sounds like a reasonable
+description of net neutrality to me, and at first glance it would seem unthinkable that somebody
+would oppose these principles. In fact, if you were to take a good hard look at the history of
+ISP behaviors and FCC actions against these behaviors since the beginning of the publicly
+available internet in the mid 1990s, it's not hard to see why so many people are supporters of net
+neutrality. In 1996, Congress passed the Telecommunications Act. In section 230, titled
+Protection for Private Blocking and Screening of Offensive Material, the legal status of the
+internet is brought up, with Congress taking an entirely hands-off approach regarding the
+regulation of the internet. A myriad of private lawsuits involving internet and tech companies
+began to build up, and when it became clear that the Telecommunications Act was providing no help,
+the FCC decided to commission a study of the internet in 1998. This study, titled the Cable
+Modem Order, released in 2002. In section 3, a basic framework for the regulation of the internet
+was introduced, alongside a criticism of Congress and its 1996 Telecommunications Act for not
+properly handling the issue. The Communications Act does not clearly indicate how cable modem
+service should be classified or regulated. The relevant statutory provisions do not yield
+easy or obvious answers to the questions at hand, and the case law interpreting those provisions is
+extensive and complex. The technologies and business models used to provide cable modem
+service are also complex and are still evolving. As the Supreme Court recently observed in its
+connection with the Commission's interpretation of the Poll Attachment Act and its application
+to cable modem service, the subject matter here is technical, complex, and dynamic. And as a general
+rule, agencies have the authority to fill gaps where statutes are silent. As a follow-up to this,
+in 2005, the FCC released the Internet Policy Statement. Section 2 of this statement reads
+as follows. The Communications Act, passed in 1934, charges the Commission with regulating
+interstate and foreign commerce in communication by wire and radio. The Communications Act regulates
+telecommunications carriers as common carriers under Title II. Information service providers,
+by contrast, are not subject to mandatory common carrier regulation under Title II. The Commission,
+however, has jurisdiction to impose additional regulatory obligations under its Title I
+ancillary jurisdiction to regulate interstate and foreign communications. As a result,
+the Commission has jurisdiction necessary to ensure that providers of telecommunications
+for Internet access or Internet Protocol-enabled, IP-enabled services are operated in a neutral
+manner. Moreover, to ensure that broadband networks are widely deployed, open, affordable,
+and accessible to all consumers, the Commission adopts the following principles. To encourage
+broadband deployment and preserve and promote the open and interconnected nature of the public
+Internet, consumers are entitled to access the lawful Internet content of their choice.
+Consumers are entitled to run applications and use services of their choice, subject to the needs
+of law enforcement. Consumers are entitled to connect their choice of legal devices that do not
+harm the network. And consumers are entitled to competition among network providers, application
+and service providers, and content providers. This is all nicely summed up in Section III.
+The Commission has a duty to preserve and promote the vibrant and open character of the Internet
+as the telecommunications marketplace enters the broadband age. And just so we're clear,
+services classified under Title I are information services and subject to regulation by the Federal
+Trade Commission or FTC, while services classified under Title II are telecommunications services
+or common carriers and instead subject to FCC regulation. Title III refers to the regulation
+of signals to Earth-orbiting satellites, and Titles IV through VI discuss implementation of
+the law and special case scenarios. Title I information services are lightly regulated,
+while Title II common carriers are heavily regulated. A common carrier refers to a service
+provider to the general public without discrimination for the greater public good,
+in contrast with private carriers which have more freedom regarding who they serve and for what
+price. In 2010, during a lawsuit between Comcast and the FCC, the judge ruled that the FCC had
+overstepped its bounds in attempting to regulate Comcast's shitty business practices, because
+Internet Service Providers, or ISPs, were regulated by the FTC under Title I, not the FCC under Title
+II. In response, the FCC released the Open Internet Order, and while it can be somewhat
+technical, a basic layman's description is provided in the preamble. To provide greater
+clarity and certainty regarding the continued freedom and openness of the Internet, we adopt
+three basic rules that are grounded in broadly accepted Internet norms, as well as our own prior
+decisions. 1. Transparency. Fixed and mobile broadband providers must disclose the network
+management practices, performance characteristics, and terms and conditions of their broadband
+services. 2. No blocking. Fixed broadband providers may not block lawful content, applications,
+services, or non-harmful devices. Mobile broadband providers may not block lawful websites or block
+applications that compete with their voice or video telephony services. 3. No unreasonable
+discrimination. Fixed broadband providers may not unreasonably discriminate in transmitting
+lawful network traffic. We believe these rules, applied with the contemporary principle of
+reasonable network management, will empower and protect consumers and innovators, while helping
+ensure that the Internet continues to flourish with robust private investment and rapid innovation
+at both the core and the edge of the network. Soon after, Verizon sued the FCC under the same logic
+that they didn't have the right to regulate ISPs under Title II, as ISPs were designated Title I
+information services and not Title II common carriers. The judge would eventually rule in
+2014 that while the court agreed that ISPs needed to be regulated in the manner that the FCC
+described, the FCC still didn't have the authority to do so, which would lead, in 2015, to the FCC
+reclassifying ISPs as common carriers under Title II with the support of President Obama. In 2015,
+the FCC released the Net Neutrality Order outlining three specific practices that ISPs
+would need to follow going forward. 1. No blocking. A person engaged in the provision
+of broadband Internet access service, insofar as such a person is so engaged, shall not block
+lawful content, applications, services, or non-harmful devices subject to reasonable
+network management. 2. No throttling. A person engaged in the provision of broadband Internet
+access service, insofar as such a person is so engaged, shall not impair or degrade lawful
+Internet traffic on the basis of Internet content, application, or service, or use of a non-harmful
+device subject to reasonable network management. 3. No paid prioritization. A person engaged in
+the provision of broadband Internet access service, insofar as such a person is so engaged,
+shall not engage in paid prioritization. The logic of the first rule is self-evident. People
+expect to be able to access the whole Internet when they pay their ISP for Internet access.
+Rules 2 and 3 are built on the premise of Rule 1, that an extreme amount of throttling or paid
+prioritization would in practice violate Rule 1, and so to avoid a slippery slope situation,
+they simply axe those possibilities. And most recently in the timeline of events,
+in 2017, the FCC's current chairman, Ajit Pai, released an order putting ISPs back under Title
+1 as information services and out from under Title 2 as common carriers, effectively reversing
+the 2015 net neutrality order. And it's this action that has made the Internet lose its
+collective fucking minds. Now, a lot of net neutrality opponents make the argument that
+the Internet was just fine before 2015, and that 2017's repeal is not going to bring humanity back
+into the Dark Ages. And that argument does have some weight to it. I'm sure we can all remember
+the Internet pre-2015, and it was basically the same thing as it was after 2015. But at the same
+time, the pre-2015 Internet wasn't a paradise either. In 2014, The Huffington Post released
+an article titled Net Blocking, a Problem in Need of a Solution. And in this article is a timeline
+of the many instances of ISPs not only blocking, throttling, or offering paid prioritization,
+but refusing to tell their customers about it. In 2005, a local Madison River ISP blocked
+the VoIP service Vonage, Comcast blocked all peer-to-peer applications, and Telus blocked
+access to 766 individual websites that exposed political opinions that the management of Telus
+personally disagreed with, including a website supporting a labor strike against Telus. In 2007,
+AT&T forced Apple to block all VoIP applications on the iPhone, wanting people to use their phone
+services instead. In 2010, Windstream Communications began redirecting Google searches into their own
+proprietary search engine. In 2011, Metro PC's blockstreaming video from all sources except
+YouTube. The ISP's Cavalier, Cogent, Frontier, Fuse, DirectPC, RCN, and WideOpenWest were found
+to be redirecting search queries through the proprietary search engine Paxfire. And AT&T,
+Sprint, and Verizon blocked access to Google Wallet in favor of their own online payment
+service, unfortunately named ISIS. In 2012, Verizon blocked free tethering applications
+in favor of its own $20 tethering service. And AT&T blocked access to FaceTime unless
+customers subscribed to a specific, more expensive payment plan. Oh yeah, and in 2013,
+Verizon explicitly admitted in court that the only reason they weren't just charging a whole
+whack of money for piecemeal, downgraded internet services is due to the FCC's attempts to regulate
+it. Admittedly, some of these instances are from the mobile services of these companies,
+and not their ISP division. However, even as their shitty internet practices were regulated from 2015
+to 2017, their shitty mobile practices continued to degrade in quality. In this time, Verizon
+prevented third-party SIM cards from working, they blocked the Pay with PayPal app, the Whitepages
+free caller ID app, and all Radio FM apps. T-Mobile throttled speed on all unlimited plans,
+and a formal investigation into AT&T's business practices began. You would be a fool to think
+that these companies wouldn't do the same thing with their internet services if they could.
+So this is, as far as I can tell, the bulk of the pro-net neutrality argument. ISPs have a history
+of duplicitous business practices, and the FCC has been attempting to rein them in at every turn.
+The net neutrality principles of no blocking, no throttling, and no paid prioritization are
+ultimately in the public good, because they ensure that everyone gets access to the same internet.
+Net neutrality proponents often explain these principles with the highway analogy.
+With speed bumps in the slow lane, and fast lanes open only for those who can afford to pay.
+But let's give the devil his due here, let's take a look at what the opponents of net neutrality
+have to say. Well, first of all, the phrase opponents of net neutrality doesn't necessarily
+work in this context. There are a lot of people who are pro-net neutrality's principles,
+and still believe that a JIT Pai's action to return ISPs to their pre-2015 Title I state was
+ultimately a good thing. These people still believe in the values of net neutrality,
+but ultimately believe that FTC regulation under Title I, and not FCC regulation under Title II,
+is the best way to get us there. Unfortunately, both the mainstream media and the new internet
+media, in a rare instance of cooperation between the two, has tarred and feathered anybody who
+dislikes Title II regulation of ISPs as an anti-net neutrality totalitarian dictator that simply wants
+to regulate the free and open internet into non-existence. While the actual situation is
+more nuanced than that. So let's take a look at the point of view of the Title I proponents.
+You know that long list in the Huffington Post listing the various misdeeds of the ISPs?
+Well, all of those cases prior to 2015 were actually successfully resolved using Title I
+regulation, and almost all of them in favour of the consumer. Title I seemed to be working
+just fine. Sure, the ISPs were trying some shady shit, but they weren't really getting away with
+it. And if the Title II argument is that Title II classification would prevent ISPs from even trying
+the shady shit in the first place, well that's a pretty slippery slope to go down. I don't know
+about you, but insofar as government regulation is concerned in general, I would rather governments
+create a blacklist of grossly unethical practices, instead of a whitelist of pre-approved practices.
+Additionally, Title II proponents seem to believe that paid prioritization is a taboo,
+that all packets of data must be treated equally. But why? I mean, loading an email or a Reddit
+thread certainly doesn't require the same latency as playing video games online or watching Netflix
+or streaming to your audience. In any other industry, prioritizing resources based on need
+is a no-brainer. And then there's that famous Portugal internet package image, where Title II
+proponents say that this excessive bundling with restrictive data caps is where American ISPs will
+end up without regulation. Well, notwithstanding the fact that this Portuguese plan doesn't block
+access to specific types of content if you don't buy their specialized plans, but instead offers
+a faster connection for those types while still maintaining a basic minimum access that is
+reasonable, why do you think that this would happen? It didn't happen before 2015, when ISPs
+were under Title I. And do you think that an ISP would actually survive in the marketplace if it
+attempted to do this sort of thing? Its competitors would eat it alive. So with Title I out of the
+way, let's talk about the actual opponents of net neutrality. Not people who want FDC regulation
+under Title I. You know, the people who believe that a fully deregulated internet where ISPs can
+just do whatever the fuck the market will let them get away with is the best possible way forward.
+What's their reasoning? Well, a big one is that net neutrality stifles investment in innovation.
+This is a common free market capitalist argument that excessive taxation, strict adherence to
+regulation, and large amounts of red tape all contribute to diminished returns on investments,
+and that eventually it becomes a net loss for a company to invest in its own business.
+Mark Anderson, the inventor of the world's first web browser software, said in an interview with
+the Washington Post that, I think that a pure net neutrality view is difficult to sustain if you
+also want to have continued investment in broadband networks. If you're a large
+telecommunications company right now, you're spending on the order of 20 billion dollars
+a year on capital expenditure. You need to know how you're going to get a return on that investment.
+If you have these pure net neutrality rules where you can never charge a company like Netflix
+anything, you're not ever going to get a return on continued network investment, which means you'll
+stop investing in the network. And I would not want to be sitting here 10 or 20 years from now
+with the same broadband speeds we're getting today. Additionally, the ability for new competitors to
+enter the market also becomes non-existent under net neutrality. The same costs that restrict
+larger ISP's ability to invest in their own business prevent smaller competitors from
+springing up at all. They simply don't have the ability to start up a new business. In reality,
+net neutrality can actually promote monopolies and pricing cabals within the ISP market by making the
+cost of new competitors entering the market prohibitively high. The honest reality is,
+the physical infrastructure of the internet requires a lot of money to build and maintain,
+and somebody has to foot the bill for that. We've got four choices as to who. The ISP's,
+the consumer's, the content provider's, or the government. Having the government foot the bill
+would effectively nationalize the internet, and I don't think anybody wants that. Under Title II
+regulation, the ISP's are forced to foot the bill themselves. Net neutrality demands that all users,
+both the consumer and the content provider's, pay the same rate no matter how much data they
+actually use. If consumers foot the bill, that means changing the internet package to something
+more like mobile packages, with data caps and speed regulations, and even at their worst,
+content regulations. It's obvious that consumers don't want this, hell, I don't want this,
+but it's not inherently unfair. Imagine if electricity companies did away with the
+electricity meters on the side of everyone's houses and just charged us all a flat fee.
+Well hey, that sounds good, right? Maybe in the short term it would be, at least for us.
+But eventually, the cost of providing simplistic on-off, unmeasured access to everybody would
+become so high that either the system would collapse, or the electricity companies would
+massively jack everyone's prices up regardless of usage just to cover their expenses. But what
+about that fourth option? Charging the content providers for the bandwidth that their consumers
+demand. I mean, sites like YouTube, Facebook, Twitter, and Netflix all gobble up way more
+bandwidth than email servers or personal websites or blogs. If we don't want to pass the cost onto
+the customers, and passing the cost onto the ISP's is untenable in the long term, why don't these
+large tech companies pay their way? Why don't they invest in the infrastructure that makes
+their businesses viable in the first place? Maybe this is why every single time the topic
+of net neutrality comes up, every single tech giant speaks out in favor of it. Maybe it's
+because one of the more viable alternatives to a pure net neutrality is one that allows the ISPs
+to recoup their investment costs, but places the burden of cost on these tech giants instead of on
+the consumers. I mean, these companies certainly are not pro-net neutrality out of some ideological
+stance regarding the free and open nature of the internet. All the big social network platforms
+are just fine with regulating the internet as long as they are the ones doing the regulating.
+We already know from Project Veritas that YouTube manipulates search algorithms so that
+pre-approved curated content reaches the front page, the trending list, and so on. We already
+know the debacle that YouTube's yellow monetization sign limited state bullshit has become. We
+already know that Google uses its power to quash ideas it doesn't like. Here's some excerpts from
+an article of the same name. The Google salespeople were encouraging Forbes to add Google Plus's
+social buttons to articles on the site alongside the Facebook light button and the Reddit share
+button. They said it was important to do so because the Plus recommendations would be a
+factor in search results, a crucial source of traffic to publishers. This sounded like a news
+story to me. Google's dominance in search and news gave it tremendous power over publishers.
+By tying search results to the use of Google Plus, Google was using that muscle to force people to
+promote its social network. I asked the Google people if I understood correctly. If a publisher
+didn't want a plus one button on the page, its search results would suffer? The answer was yes.
+With that, I published a story headlined stick Google Plus buttons on your pages or your surf
+traffic suffers that included bits of conversation from the meeting. Google promptly flipped out.
+They never challenged the accuracy of the reporting. Instead, a Google spokesperson told
+me that I needed to unpublish the story because the meeting had been confidential and that the
+information discussed there had been subject to a non-disclosure agreement between Google and Forbes.
+I had signed no such agreement, hadn't been told the meeting was confidential, and I had identified
+myself as a journalist. It escalated quickly from there. I was told by my higher-ups at Forbes that
+Google representatives called them saying that the article was problematic and had to come down.
+The implication was that it might have consequences for Forbes, a troubling possibility
+given how much traffic came through Google searches and Google News. We already know that
+Google AdSense has threatened to remove all ad revenue from and disable the account of
+thelibertyconservative.com if they do not censor their content to Google standards. We already know
+that YouTube has demonetized all content on its platform regarding the Mandalay Bay shooting,
+even content where their ad revenue was meant to go to charity, with the official response of
+no matter the intent, our policy is to not run ads on videos about tragedies. Except when Jimmy
+Kimmel's video on that same shooting has ads on it. And though this is anecdotal and entirely my
+own subjective experience, I've noticed that YouTube is far more likely to approve a request
+to remove the limited monetization state if the video in question has non-skippable ads enabled.
+I might do a full video on YouTube's shitty practices sometime, there's actually some depth
+to the topic. We already know Facebook and Twitter are both extremely one-sided in who they ban,
+what content they allow, what content they promote, and which creators they curate. And
+what I stated would happen in one of my previous videos, the balkanization of technology, is coming
+to pass. Free speech alternatives to the big names and internet services are cropping up,
+they're fighting an uphill battle to be sure, but people are honestly just tired of being censored
+by the Reddits and Twitters and Facebooks of the world. So yeah, any time a big tech
+giant makes a post about net neutrality, just tell them to fuck off. They don't want net neutrality,
+they want to hold the reins instead of the government or the ISPs. And maybe, just maybe
+there's another reason why. Maybe it's because under Title I, the FTC has the jurisdiction to
+enforce antitrust and other anti-monopoly laws on these tech giants, not just the ISPs but the
+Twitters and YouTubes and Facebooks of the world. Yeah, that would be a pretty big reason for these
+companies to fear Title I regulation, wouldn't it? Can the case be made that Apple or Google
+or Facebook hold monopolies in their specific markets? Maybe. And there's other arguments as
+well. Let's take a look at Marsh v. Alabama, a 1946 U.S. Supreme Court case. In the case,
+the town of Chickasaw was entirely privately owned by the Gulf Shipbuilding Corporation.
+Though all buildings and roads within the town were company-owned, the roads connected to the
+state-owned highway and allowed non-employees to pass through the town and use civil services.
+Ms. Marsh, a Jehovah's Witness, attempted to distribute religious material on the sidewalk
+in Chickasaw and was arrested on the grounds that because the entire town was privately owned,
+free speech rights did not apply. The case went to the Supreme Court, where it was ruled that because
+the Gulf Shipbuilding Corporation held an absolute monopoly on what was colloquially referred to as
+the town square, that it in function took the role of a municipality. The claim of private property
+was rejected on the grounds that the Gulf Shipbuilding Corporation had provided access
+to the town and its infrastructure to any passerby in the past like a municipality would,
+and as a municipality they were bound to uphold the constitution.
+In 1996, the Marsh v. Alabama case was raised during the Cyber Promotions v. America Online
+case. Cyber Promotions wanted to send spam email to all email addresses that ended in
+at AOL.com. America Online decided to block all emails from Cyber Promotions at the ISP level.
+Cyber Promotions argued that Marsh v. Alabama set a precedent that private property,
+if sufficiently opened up to the public to the point that a monopoly on communication existed,
+must allow for free speech under the previous town square principle. The court disagreed,
+because AOL servers were only open to the public insofar as they were AOL customers,
+and this decision paved the way for the legality of the spam filter.
+But can that same case be made for Facebook or Twitter? Sure, these services are only available
+to people if they log into their accounts, but unlike AOL servers, it costs nothing to
+create these accounts. Unlike Netflix, which is a paid service, Facebook, Twitter, Reddit,
+and YouTube are all caught in the Marsh v. Alabama bind. They're all private entities that hold an
+absolute monopoly on free speech within their jurisdiction, and they're entirely open to the
+public, just like Chickasaw was. Maybe the way forward for net neutrality's principles isn't
+Title II. Maybe it's recognizing the internet as a town square and forcing all of its constituent
+parts, not just one slice of them, to conform to constitutional law. Of course, if you were to talk
+to any Title II diehard about any point I've brought up in this video, even the pro-net
+neutrality points that are anti-Title II, they would treat you like the neo-Nazi,
+Trump-supporting piece of bigoted capitalist scum that you obviously are. Oh yeah, guys,
+net neutrality is a race issue, right? Communities of color disproportionately affected? Even if the
+only change to the internet under Title I is that ISPs offer people even better internet if they can
+afford it? Well, of course. Internet communism demands that everyone has dial-up in order to
+avoid inequality. The repeal of net neutrality is an attack on the LGBTQ community? Don't worry,
+guys, you can still access Grindr on your mobile plan. Docs, Ajit Pai's kids? Yeah, sure, why the
+fuck not? I wonder if all these people who are irrationally pro-Title II net neutrality remember
+SOPA and PIPA. Yeah, yeah, remember that shit? Remember when the government tried to regulate
+the internet and everyone lost their minds over it? Remember the outcry against the NSA? What
+happened that made you guys suddenly beg and kick and scream for government regulation of the
+internet? And you know, now that we're on the topic of going completely off the rails into
+insanity land, I'd like to present you with a crackpot conspiracy theory and let you make up
+your own mind about it. Title II regulation allows the government to force ISPs into obtaining
+broadcasting licenses, like with radio and TV. Obama pushes for this classification in 2015,
+along with other SOPA and PIPA provisions that were rejected by the electorate. This package
+of shit is rebranded as net neutrality, and ISPs get placed under the Title II umbrella.
+On December 23rd, 2016, Obama signs the 2017 National Defense Authorization Act into law.
+As a bundle, this act also contains the Countering Information Warfare Act,
+introduced by Congress on May 10th, 2016. Let's take a peek at it.
+The Secretary of State, in coordination with the Secretary of Defense and the heads of other
+relevant federal departments and agencies, shall establish within the Department of State a Global
+Engagement Center, in this section referred to as The Center. The purpose of The Center
+shall be to analyze relevant information, data, analysis, and analytics from United States
+government agencies, United States allies and partner nations, think tanks, academic
+institutions, civil society groups, and other non-governmental organizations, in order to lead,
+synchronize, and coordinate efforts of the federal government to recognize, understand,
+expose, and counter foreign state and non-state propaganda and disinformation efforts aimed at
+undermining United States national security interests. The legislation declares that the
+head of The Center will be housed within the White House instead of being independent like most other
+centers created in this way, that the head will answer directly to the president, and that The
+Center will allow the president to use whole-of-government approaches to combat what it labels
+as basically fake news. Maybe this is a bit of a stretch, but just think about it for a minute.
+ISPs are required to have broadcast licenses under Title II. ISPs become legally required to take
+down whatever the Global Engagement Center, or The Center, deems as state or non-state propaganda,
+meaning not just Russian or Chinese propaganda efforts, but your posts to The Donald, the
+Breitbart articles you read, the 4chan boards you lurk. If the ISP refuses to do so, the FCC revokes
+their broadcasting license. And around the same time all this stuff is being pushed through
+Congress, social media companies start revving up their internal policing like Twitter partnering
+with Crash Override, or the Google Ideas team being full of SJWs, and others, and these groups
+are getting played under this legislation as well. The Center can declare those groups as
+third-party fact-checkers because business considers them to be, and The Center can use
+their standards to force ISPs under Title II to remove content and restrict access based on the
+individual being a propagandist. And over the past five years, the internet-using public has largely
+become acclimatized to this idea. We find social media platforms having third-party fact-checking
+teams, fake news combatants, and hate speech provisions as silly, but not silly enough for
+a large-scale boycott. The idea of regulating the internet has shifted from unpopular to necessary,
+SOPA to net neutrality. And just like I said in a previous video, the free speech problem,
+blocking hate speech is now considered a more primary right than allowing free speech. To make
+this go fully into tinfoil hat territory, let me present one more quote from this piece of
+legislation. The Center shall terminate on the date that is eight years after the date of the
+enactment of this act. Obama thought Hillary would win, so much so that he entrusted her
+upcoming presidency with the power to declare anything on the internet or in the media as fake
+news, and not only censor it, but revoke internet access to both individuals and organizations,
+because The Center is legally obligated to listen to the radical left-leaning fact-checking teams
+within tech giants that label anything against their views as fascism and nazism. And they can
+do all of this without a court order. Now I know this is all just tinfoil hat conspiracy theory,
+but there's just enough actual legislation to make you think about it for a minute.
+And on this issue, I am actually glad Donald Trump won the election. Under his direction,
+Ajit Pai has reclassified ISPs as Title I, and the only mention of fake news from his administration
+has been him shitposting about it on Twitter. Ultimately, I believe that the internet does
+need some common-sense regulation, but I don't think that Title II is the way to go. Personally,
+I believe that two of the three net neutrality principles are ultimately good for consumers
+— no blocking and no throttling — while the third, no paid prioritization, is probably bad
+for consumers in the long run. I personally like the idea of being able to pay more for
+hyperfast internet or specialized usage packages that provide good specific benefits while still
+maintaining a solid minimum level of quality. And hey, while I was recording this script,
+it came out that the US Senate is trying a last-ditch attempt to keep the Title II
+regulation on the books. Though of course, the media bills this not as Title II but as net
+neutrality, I guess you can see what side they've chosen. In any case, it's not over yet, but I hope
+I've done an accurate enough job at presenting the case for Title II regulation, Title I regulation,
+and no regulation at all, and I recommend you all come to your own conclusions. I just personally
+think that none of these options are going to be good enough for the health of the internet.
+Not in the long term. We need something new.

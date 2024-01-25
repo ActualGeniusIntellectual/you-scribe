@@ -1,0 +1,1304 @@
+WEBVTT
+
+00:00.000 --> 00:02.820
+Hey guys, Dev here, doing another update vlog for you.
+
+00:02.820 --> 00:06.680
+It's March 1st, and I'm gonna go over some changes happening to the channel right now.
+
+00:06.680 --> 00:11.800
+I'm sure some of you have noticed that there is now a Patreon link on the end slates of
+
+00:11.800 --> 00:12.800
+our Let's Plays.
+
+00:12.800 --> 00:15.600
+Yes, we've given in to the dark side and started up a Patreon.
+
+00:15.600 --> 00:19.300
+For those of you who don't know, Patreon is a service where you can incrementally pay
+
+00:19.300 --> 00:21.820
+your favourite internet content producers.
+
+00:21.820 --> 00:23.720
+It's sort of become a big thing recently.
+
+00:23.720 --> 00:28.920
+A lot of mid-sized video producers like TheSpoonieOne and such are using it.
+
+00:28.920 --> 00:34.600
+It also became a big thing negatively because in Gamergate people discovered that developers
+
+00:34.600 --> 00:37.680
+and journalists were donating to each other's Patreons.
+
+00:37.680 --> 00:40.640
+And I'm sure we'll have a whole Indiefensible video coming up on that soon.
+
+00:40.640 --> 00:44.040
+Patreon is different from something like Indiegogo or Kickstarter.
+
+00:44.040 --> 00:50.420
+Indiegogo, Kickstarter, GoFundMe, those type of things, they're to fund a single project.
+
+00:50.420 --> 00:58.640
+You know, um, just a famous and controversial example was Anita Sarkeesian getting a boatload
+
+00:58.640 --> 01:00.160
+of money to do videos.
+
+01:00.160 --> 01:05.680
+Now I'm not here to discuss Anita Sarkeesian at all, that's a topic for another video.
+
+01:05.680 --> 01:13.520
+But basically, her campaign was set up like you give her a total sum of money, she creates
+
+01:13.520 --> 01:15.400
+a video series.
+
+01:15.400 --> 01:19.880
+And that model works for a Kickstarter or for an Indiegogo.
+
+01:19.880 --> 01:20.880
+But Patreon's different.
+
+01:20.880 --> 01:28.560
+Patreon is an ongoing payment where as people produce the content, you pay them in pieces.
+
+01:28.560 --> 01:34.000
+So you know, for example, I think Spoonie's Patreon is set up so that every time he releases
+
+01:34.000 --> 01:37.040
+a new review, you're supposed to pay him money.
+
+01:37.040 --> 01:39.560
+And that exchange happens automatically.
+
+01:39.560 --> 01:44.800
+He puts up a video, he tells Patreon, they withdraw from the account.
+
+01:44.800 --> 01:47.560
+Other people's Patreons are set up monthly.
+
+01:47.560 --> 01:49.000
+And there has been abuse with this.
+
+01:49.000 --> 01:53.980
+Again, in Gamergate, people have discovered that, you know, there are people like Indie
+
+01:53.980 --> 01:58.980
+game developers who are just breaking in money through Patreon monthly on a monthly
+
+01:58.980 --> 02:00.500
+basis for doing nothing.
+
+02:00.500 --> 02:05.140
+And we're not going to be like that because I think anyone who's watched our channel for
+
+02:05.140 --> 02:09.100
+any amount of time knows we put out two videos a day.
+
+02:09.100 --> 02:16.220
+So our Patreon is going to be a monthly contribution so that you, if you're so inclined, and we
+
+02:16.220 --> 02:20.940
+would be very grateful if you were, decide to give us money through Patreon every month
+
+02:20.940 --> 02:26.740
+you'd pay so much, we would put that towards the show.
+
+02:26.740 --> 02:30.660
+And it makes sense for us because we put out so many videos.
+
+02:30.660 --> 02:34.220
+The idea of having you pay for every video is kind of absurd.
+
+02:34.220 --> 02:39.180
+And Patreon even suggests that people who put out consistent content like us go buy
+
+02:39.180 --> 02:40.180
+a monthly plan.
+
+02:40.180 --> 02:41.180
+So that's what we're going to do.
+
+02:41.180 --> 02:45.520
+Lord Cat has done some talking about Patreon recently, where he mentioned that a lot of
+
+02:45.520 --> 02:53.040
+people who do Patreons set their goals for individual contributors.
+
+02:53.040 --> 02:55.080
+They set them kind of stupidly.
+
+02:55.080 --> 02:56.080
+And here's what I'll mean.
+
+02:56.080 --> 03:00.760
+Like, say you're, I'm just going to use the gamer game example again, because it's what's
+
+03:00.760 --> 03:02.200
+on my brain right now.
+
+03:02.200 --> 03:05.200
+Say you're an Indie developer, and you have a Patreon.
+
+03:05.200 --> 03:10.480
+And one of the goals is, okay, if you donate $50 every month, I'll make you an Indie game.
+
+03:10.480 --> 03:12.200
+Okay, great.
+
+03:12.200 --> 03:15.000
+So let's say I'm going to invest in that person.
+
+03:15.000 --> 03:20.120
+I invest 50 bucks for one month, I get my Indie game.
+
+03:20.120 --> 03:24.480
+And what is my incentive to keep giving $50 every month?
+
+03:24.480 --> 03:28.680
+That was a one time reward for a monthly contribution.
+
+03:28.680 --> 03:33.520
+One time rewards work for things like Kickstarter, wherein you're backing an entire project,
+
+03:33.520 --> 03:38.200
+and you get a reward from the project, along with the project itself, but it doesn't work
+
+03:38.200 --> 03:43.520
+for an ongoing payment like Patreon, which is why we've actually kind of, over here we've
+
+03:43.520 --> 03:47.280
+kind of gone back and forth with the idea of should we do a Kickstarter or something
+
+03:47.280 --> 03:51.740
+like that versus should we do a Patreon, we ultimately decided to go with Patreon because
+
+03:51.740 --> 03:57.120
+we're not funding a new project per se, you know, our channels already going, the channel
+
+03:57.120 --> 03:59.480
+would continue to go.
+
+03:59.480 --> 04:04.220
+Even without the money, though, it would probably go worse, but it would continue to go.
+
+04:04.220 --> 04:08.760
+It's not it's not like with a Kickstarter where if a Kickstarter fails a project stops,
+
+04:08.760 --> 04:13.320
+our channel, even if even if this Patreon idea completely falls apart on us, we're still
+
+04:13.320 --> 04:15.300
+going to keep making stuff on our channel.
+
+04:15.300 --> 04:19.640
+So here's how our Patreon is going to work.
+
+04:19.640 --> 04:24.200
+We're coming up with a mechanism that will allow people to view the daily videos, which
+
+04:24.200 --> 04:26.700
+is the Let's Play stuff earlier.
+
+04:26.700 --> 04:30.640
+So if you were to contribute not a large amount, probably some small amount, like 10 bucks
+
+04:30.640 --> 04:37.600
+or something a month, you could see the videos during that month, probably about a week ahead
+
+04:37.600 --> 04:39.600
+of schedule, a week earlier than everyone else.
+
+04:39.600 --> 04:43.680
+And that probably sounds pretty weak, admittedly.
+
+04:43.680 --> 04:51.960
+But here's the thing, every other good alternative we thought of would have been one time, one
+
+04:51.960 --> 04:54.780
+time rewards, which don't fit with a Patreon.
+
+04:54.780 --> 04:59.760
+Like if you wanted, okay, if you wanted to donate, say 50 bucks a month, and we do an
+
+04:59.760 --> 05:04.560
+anime review for you, okay, after we after you do your review, you know, why would you
+
+05:04.560 --> 05:08.960
+keep donating $50 you know, it's kind of ridiculous.
+
+05:08.960 --> 05:15.880
+We do have a separate system set up, where if you want to donate a DVD copy of an anime,
+
+05:15.880 --> 05:18.080
+then we will do a review of that for you.
+
+05:18.080 --> 05:19.800
+And that that's outside of Patreon.
+
+05:19.800 --> 05:22.600
+But that is really the only goal we've thought of.
+
+05:22.600 --> 05:27.600
+And because we don't expect to get much, admittedly much money from this.
+
+05:27.600 --> 05:30.380
+So it's a small goal for a small Patreon.
+
+05:30.380 --> 05:32.940
+I think it fits.
+
+05:32.940 --> 05:36.380
+It is something that is ongoing and somewhat substantive.
+
+05:36.380 --> 05:40.500
+So you would get your $10 worth at least if you like our stuff and want to see it sooner.
+
+05:40.500 --> 05:45.020
+And I will promise you that whenever we get money from Patreon and decide to spend that
+
+05:45.020 --> 05:48.180
+money on something, it will be towards the show.
+
+05:48.180 --> 05:55.380
+We do plan to buy new equipment, to buy some hardware, maybe to buy games or anime to use
+
+05:55.380 --> 06:01.140
+on the show, props, lighting, you know, costumes.
+
+06:01.140 --> 06:06.600
+And any time we buy something with your money, we will publicly post the receipt so you can
+
+06:06.600 --> 06:08.340
+see exactly where it's going.
+
+06:08.340 --> 06:10.440
+There will be more details in the Patreon to come.
+
+06:10.440 --> 06:15.740
+We're hoping to have it set up by April so that April is when the monthly rewards will
+
+06:15.740 --> 06:16.980
+start rolling out.
+
+06:16.980 --> 06:18.040
+So in one month.
+
+06:18.040 --> 06:21.880
+And with any luck we'll get enough money out of it that we could expand the program, maybe
+
+06:21.880 --> 06:23.680
+offer some different rewards.
+
+06:23.680 --> 06:28.800
+We do also want to have total sum rewards where if we manage to get, say, X amount of
+
+06:28.800 --> 06:32.800
+dollars in total, we could do a certain project.
+
+06:32.800 --> 06:37.920
+I know our ultimate goal for this channel is the following.
+
+06:37.920 --> 06:41.960
+Two Let's Play videos daily.
+
+06:41.960 --> 06:46.900
+One indefensible gamergate video weekly.
+
+06:46.900 --> 06:50.720
+Two anime reviews monthly.
+
+06:50.720 --> 06:54.280
+And then on top of all that, really anything else that we could throw in.
+
+06:54.280 --> 06:57.800
+Like if you wanted to do, if you wanted to like go see a movie and do a vlog about it,
+
+06:57.800 --> 06:58.800
+we could do that.
+
+06:58.800 --> 07:04.840
+If I wanted to finally pick up the slack on doing the Pokemon retrospective, I definitely
+
+07:04.840 --> 07:06.040
+want to do that.
+
+07:06.040 --> 07:10.440
+And I mean, we're going to try to do that whether we get paid from you guys or not.
+
+07:10.440 --> 07:11.440
+This is no pressure.
+
+07:11.440 --> 07:12.440
+We're going to try.
+
+07:12.440 --> 07:15.340
+We've been trying for a while.
+
+07:15.340 --> 07:16.480
+But the money would help.
+
+07:16.480 --> 07:18.760
+We could buy things that were missing and so on and so forth.
+
+07:18.760 --> 07:22.040
+But I mean, don't, of course, don't feel obligated.
+
+07:22.040 --> 07:23.040
+Don't feel obligated.
+
+07:23.040 --> 07:25.120
+We're a fucking tiny internet show.
+
+07:25.120 --> 07:27.240
+But it would help us with those goals.
+
+07:27.240 --> 07:29.200
+It would be appreciated.
+
+07:29.200 --> 07:33.260
+You would get at least the meager rewards that we could offer and it would all go towards
+
+07:33.260 --> 07:35.020
+the show and you'd see proof of that.
+
+07:35.020 --> 07:39.560
+Now on the topic of the end slate, when we put the Patreon link into the end slate, we
+
+07:39.560 --> 07:40.880
+took out the BlipTV link.
+
+07:40.880 --> 07:43.760
+And I'm going to go over just what's going on there.
+
+07:43.760 --> 07:50.640
+I'm sure a lot of you already know this, but basically BlipTV is closing its doors.
+
+07:50.640 --> 07:59.760
+And there was a time in which, this was back in 2009, 2008, when actually YouTube didn't
+
+07:59.760 --> 08:01.680
+make YouTubers any money.
+
+08:01.680 --> 08:04.240
+The money was on BlipTV.
+
+08:04.240 --> 08:10.360
+And if you could get on BlipTV and then even better get on a conglomerate site, the big
+
+08:10.360 --> 08:16.680
+one back then was that guy with the glasses, you could actually make serious internet money.
+
+08:16.680 --> 08:22.440
+Because YouTube back then, in 2009, was considered just a place to kind of build an audience
+
+08:22.440 --> 08:24.200
+but not really make money off the audience.
+
+08:24.200 --> 08:29.760
+You had to build a YouTube audience, then get accepted on BlipTV.
+
+08:29.760 --> 08:33.520
+Even better, get accepted on one of these sites, because Blip paid out significantly
+
+08:33.520 --> 08:35.280
+more than YouTube.
+
+08:35.280 --> 08:36.400
+And we got lucky.
+
+08:36.400 --> 08:41.400
+You know, right during Blip's heyday, August 2009, we got on BlipTV and we started posting
+
+08:41.400 --> 08:46.360
+our anime reviews on BlipTV and they started actually getting decent hits and getting money.
+
+08:46.360 --> 08:51.720
+And for a good while there, we actually had a bigger following on Blip than we did on
+
+08:51.720 --> 08:52.720
+YouTube.
+
+08:52.720 --> 08:57.720
+But then I think in like 2012 or something, Maker, the YouTube studio, the network, bought
+
+08:57.720 --> 09:00.080
+Blip and it's kind of gone downhill since then.
+
+09:00.080 --> 09:07.960
+They started purging people from Blip so that content producers were kicked off, usually
+
+09:07.960 --> 09:11.720
+because they didn't meet Blip's standards of quality.
+
+09:11.720 --> 09:13.880
+Luckily, we stayed on.
+
+09:13.880 --> 09:14.880
+I don't know how.
+
+09:14.880 --> 09:18.880
+I mean, there are people there who I think were better than us that got the boot and
+
+09:18.880 --> 09:19.880
+we didn't.
+
+09:19.880 --> 09:25.280
+And everybody has seen this coming for about a year now because there's been every, between
+
+09:25.280 --> 09:29.520
+six and nine months, there's been new cuts of people saying, okay, we're going to tighten
+
+09:29.520 --> 09:33.320
+the rules some more, kick more people out, tighten the rules again, kick more people
+
+09:33.320 --> 09:34.320
+out.
+
+09:34.320 --> 09:39.280
+We've survived each purge from Blip, but it's not the site that it used to be.
+
+09:39.280 --> 09:44.320
+It's pretty obvious that when Maker bought Blip, they just kind of wanted the exclusive
+
+09:44.320 --> 09:46.140
+talent that was signed to Blip.
+
+09:46.140 --> 09:49.160
+There were some contributors on Blip TV that were only on Blip TV.
+
+09:49.160 --> 09:54.480
+They had like contracts with Blip that made them exclusive and Maker wanted them.
+
+09:54.480 --> 09:56.680
+Maker wanted them on their network, so they bought Blip to get them.
+
+09:56.680 --> 10:02.080
+And then after that, Maker really didn't care what happened to Blip.
+
+10:02.080 --> 10:06.440
+So the Blip surge has gone down.
+
+10:06.440 --> 10:12.240
+The money is back on YouTube again and Blip is ultimately closing its doors and becoming
+
+10:12.240 --> 10:13.240
+Maker TV.
+
+10:13.240 --> 10:15.720
+And it will be a Maker only service.
+
+10:15.720 --> 10:21.000
+And even then, not for everybody on Maker, only for like the privileged few that the
+
+10:21.000 --> 10:24.980
+top of Maker will be, will have their videos hosted on Maker TV.
+
+10:24.980 --> 10:26.760
+So I mean, we are leaving Blip.
+
+10:26.760 --> 10:28.000
+It's not really a priority for us anymore.
+
+10:28.000 --> 10:32.900
+It's not a priority for anybody anymore, but it's not really a big deal because Blip's prominence
+
+10:32.900 --> 10:33.900
+has faded.
+
+10:33.900 --> 10:37.720
+I mean, we'll still upload to Blip like when it's convenient.
+
+10:37.720 --> 10:42.160
+I mean, if, for example, no one in the house is using the internet and we got a couple
+
+10:42.160 --> 10:45.400
+episodes that we haven't uploaded to Blip yet, we can put out and just slap them up
+
+10:45.400 --> 10:48.280
+there, get maybe two bucks off them before the service closes.
+
+10:48.280 --> 10:50.460
+It's not a big deal, but it's no longer a priority.
+
+10:50.460 --> 10:56.240
+But the reason I bring up Blip is to bring up Maker because I do want to talk about YouTube
+
+10:56.240 --> 11:01.020
+MCNs, multi-channel networks, because we have joined one, in fact.
+
+11:01.020 --> 11:05.840
+We haven't made any cash on our YouTube channel in about six months.
+
+11:05.840 --> 11:08.440
+And for the longest time, the money that we got was from Blip.
+
+11:08.440 --> 11:12.320
+In fact, during the heyday of Blip, we were getting about a hundred bucks a month.
+
+11:12.320 --> 11:17.640
+Nothing you can live off of, but it paid for props, it paid for anime, it paid for lighting
+
+11:17.640 --> 11:19.360
+equipment.
+
+11:19.360 --> 11:21.260
+It paid for pretty much everything that the show has right now.
+
+11:21.260 --> 11:22.520
+Was that a hundred bucks a month?
+
+11:22.520 --> 11:29.200
+So recently we kind of had the one-two punch of coming to grips with the fact that we weren't
+
+11:29.200 --> 11:33.960
+having any copyright problems with YouTube, but we were placed in a non-trusted state
+
+11:33.960 --> 11:39.440
+where we had to prove that we could monetize every video, even if it would, like, normally
+
+11:39.440 --> 11:44.560
+YouTube will allow you to monetize and then let people claim against it.
+
+11:44.560 --> 11:49.180
+We got put into a state where we could not monetize without proving it first.
+
+11:49.180 --> 11:52.880
+So because of that, we haven't made any money on YouTube recently.
+
+11:52.880 --> 11:58.320
+So there was the one-two punch of recognizing that situation as being something we could
+
+11:58.320 --> 12:06.600
+no longer handle by ourselves, coupled with the fact that our revenue on Blip between
+
+12:06.600 --> 12:13.120
+December and January dropped from about seventy-five bucks to two bucks.
+
+12:13.120 --> 12:18.680
+The fact that Blip is now finally just giving out its last breath, and we realized we had
+
+12:18.680 --> 12:21.160
+to, you know, rectify the situation somehow.
+
+12:21.160 --> 12:25.800
+Camera's first thought, because she handled most of the multi-channel network stuff that
+
+12:25.800 --> 12:27.060
+we ended up doing.
+
+12:27.060 --> 12:28.940
+Her first thought was to look into joining Maker.
+
+12:28.940 --> 12:30.540
+I mean, it made sense.
+
+12:30.540 --> 12:34.260
+We were on Blip TV, we had been kept on through multiple purges.
+
+12:34.260 --> 12:37.100
+Maker was turning Blip TV into a Maker-only service.
+
+12:37.100 --> 12:42.500
+You know, why not try to get on Maker and be like, hey, can we still use Blip after
+
+12:42.500 --> 12:43.500
+the doors close?
+
+12:43.500 --> 12:46.640
+And that was a good idea.
+
+12:46.640 --> 12:49.220
+And then, like, somebody from Maker said, yeah, you could do that.
+
+12:49.220 --> 12:53.740
+Somebody else from Maker said, well, we have to talk about this first, like, I don't know.
+
+12:53.740 --> 12:56.140
+And they kind of gave us the runaround.
+
+12:56.180 --> 12:59.420
+We did get a yes, we did get a no, we did get a lot of maybes.
+
+12:59.420 --> 13:03.020
+But it was always a, hold on, we'll get back to you, you know, we'll look over the contract
+
+13:03.020 --> 13:06.020
+and we'll see if we can fit it in, and we'll do this and that.
+
+13:06.020 --> 13:11.380
+And, you know, as we were waiting for them to make up their minds and to finally come
+
+13:11.380 --> 13:17.140
+to a decision, because we did hear pretty much every answer under the sun from them,
+
+13:17.140 --> 13:20.540
+we sort of realized that, yeah, Blip doesn't matter anymore.
+
+13:21.300 --> 13:25.460
+You know, like, assume that we went with Maker and they said, yes, you can stay on Blip.
+
+13:25.460 --> 13:28.020
+What will we actually get out of that?
+
+13:28.020 --> 13:30.780
+I mean, like I said, Blip is not the place that it used to be.
+
+13:30.780 --> 13:33.420
+There was actually a point in time, like I said before, that we actually had a bigger
+
+13:33.420 --> 13:35.380
+following on Blip than YouTube.
+
+13:35.380 --> 13:40.500
+There was actually a point in time when people visited the Blip main page, the Blip portal,
+
+13:40.500 --> 13:42.260
+and discovered new shows.
+
+13:42.260 --> 13:44.860
+And people actually got discovered through Blip.
+
+13:44.860 --> 13:48.460
+At this point, the main page hasn't been updated in like eight months.
+
+13:48.460 --> 13:56.540
+Our knee-jerk desire to go with Maker, to stay on Blip, was kind of rooted in more of
+
+13:56.540 --> 14:02.060
+like a nostalgia and kind of like a past way of thinking where Blip was actually prominent
+
+14:02.060 --> 14:03.700
+and now it's not.
+
+14:03.700 --> 14:07.740
+And as they were kind of hemming and hawing over there, we realized that, yeah, it's not
+
+14:07.740 --> 14:08.740
+prominent anymore.
+
+14:08.740 --> 14:15.500
+And as soon as Blip was taken out of the equation, we didn't have any specific reason to go with
+
+14:15.500 --> 14:16.500
+Maker.
+
+14:16.540 --> 14:21.620
+No offense to them, they'll do fine without us.
+
+14:21.620 --> 14:28.900
+But with Blip out of the picture, the only thing that we needed from an MCN was to solve
+
+14:28.900 --> 14:33.380
+our non-trusted state problem, and any MCN can do that.
+
+14:33.380 --> 14:37.460
+So at that point, we began looking into other networks.
+
+14:37.460 --> 14:41.620
+Heard of Fullscreen, I've heard many terrible things about Fullscreen.
+
+14:41.620 --> 14:44.500
+We all unanimously said no to that.
+
+14:44.500 --> 14:48.500
+The same with Curse the Lesso, definitely the same with Machinima.
+
+14:48.500 --> 14:52.460
+I've heard stories of people signing up with Machinima and then losing their channels,
+
+14:52.460 --> 14:54.500
+like Machinima now owns your brand.
+
+14:54.500 --> 14:59.260
+And then we started looking at Screenwave Media, and actually when the three of us sat
+
+14:59.260 --> 15:02.760
+down to kind of cast our votes, camera wanted to join Screenwave Media.
+
+15:02.760 --> 15:06.520
+It does have some decently big names on it, it also has a few of our internet friends
+
+15:06.520 --> 15:12.180
+on it as well, and something that Camera Lady liked was that it had its own proprietary
+
+15:12.180 --> 15:13.180
+media player.
+
+15:13.180 --> 15:19.300
+Macau Maker has Blip, Screenwave the network has Screenwave the player.
+
+15:19.300 --> 15:23.780
+Now I want to point this out because this is how we're different from a lot of other
+
+15:23.780 --> 15:24.780
+YouTubers.
+
+15:24.780 --> 15:28.780
+We don't like having all of our eggs in one basket, we liked uploading to YouTube and
+
+15:28.780 --> 15:33.940
+to Blip, so that if one channel got fried, the other one would still exist.
+
+15:33.940 --> 15:36.220
+It's always good to have a backup.
+
+15:36.220 --> 15:40.660
+You don't want to completely depend on YouTube, even during this era of YouTube dominance,
+
+15:40.660 --> 15:42.500
+you don't want to completely depend on it, in my opinion.
+
+15:42.500 --> 15:47.660
+And I mean, when we started our channel, YouTube was kind of the place to be to see our content,
+
+15:47.660 --> 15:49.600
+and Blip was the backup.
+
+15:49.600 --> 15:54.740
+And then as time went on, Blip became the main place to see our content, and YouTube
+
+15:54.740 --> 15:58.720
+was our backup, because that's just where the numbers and the money were at the time.
+
+15:58.720 --> 16:02.980
+Camera really wanted Screenwave, because Screenwave has that player.
+
+16:02.980 --> 16:07.860
+But then Dave and I both told her, you know, if you want to diversify, not have all your
+
+16:07.860 --> 16:10.700
+eggs in one basket, this isn't the way to do it.
+
+16:10.700 --> 16:16.460
+You know, Screenwave, for as cool as I'm sure they are, if we did that, we would have
+
+16:16.460 --> 16:21.700
+our stuff on Screenwave, the media player, and then our stuff on YouTube through Screenwave.
+
+16:21.700 --> 16:23.660
+Like, you're not diversifying there.
+
+16:23.660 --> 16:27.900
+And ultimately we decided to go with the Freedom Network.
+
+16:27.900 --> 16:37.900
+Freedom is not as big as the big three of Machinima, Fullscreen, and Maker.
+
+16:37.900 --> 16:39.620
+It's kind of structured a little bit differently.
+
+16:39.820 --> 16:44.580
+Freedom is like an overarching network that supports a bunch of smaller networks, all
+
+16:44.580 --> 16:49.580
+with their own contracts, and their own rules, and their own leaders, but still ultimately
+
+16:49.580 --> 16:53.360
+financially backed by Freedom, at least this is how I think it works.
+
+16:53.360 --> 16:59.380
+And the group we ended up joining was called Creator, and Creator is run by Queenie from
+
+16:59.380 --> 17:00.380
+Gamergate.
+
+17:00.380 --> 17:09.180
+And I mean, as soon as we joined Creator and Freedom, I don't exactly know how to parse
+
+17:09.180 --> 17:10.180
+the two terms.
+
+17:10.180 --> 17:13.220
+We're with both of them, but one's a subset of the other.
+
+17:13.220 --> 17:17.540
+But as soon as we joined them, our copyright issues were resolved on YouTube, which is
+
+17:17.540 --> 17:18.540
+great.
+
+17:18.540 --> 17:21.300
+That's pretty much the one thing we wanted out of a network, and we got it.
+
+17:21.300 --> 17:24.740
+And we do, of course, trust her because she's from Gamergate.
+
+17:24.740 --> 17:30.640
+And I think what was most important to me personally is that it was not a lock-in contract.
+
+17:30.640 --> 17:36.680
+We can leave their network anytime we want, given them 30 days notice.
+
+17:36.680 --> 17:40.240
+It's not like with Maker, where Maker wanted you to stay for two years and then have an
+
+17:40.240 --> 17:43.020
+auto-renew contract that you had to fight your way out of.
+
+17:43.020 --> 17:47.560
+Because really, we're new to the multi-channel network thing.
+
+17:47.560 --> 17:51.080
+We're just sort of experimenting with it right now.
+
+17:51.080 --> 17:56.560
+This is no offense to Queenie or Creators if she's watching this, but we don't quite
+
+17:56.560 --> 17:59.480
+know how this will play out.
+
+17:59.480 --> 18:04.260
+We're just sort of taking it one step at a time and kind of exploring the possibilities.
+
+18:04.260 --> 18:10.560
+So it being a first network, it being a trial run for us, and kind of just getting used
+
+18:10.560 --> 18:13.960
+to the idea, it is nice that we can leave.
+
+18:13.960 --> 18:18.460
+We just sort of want to try this out and see how it goes, and not be with a gigantic penalty
+
+18:18.460 --> 18:21.960
+if we decide that MCNs just aren't our thing, or whatever.
+
+18:21.960 --> 18:22.960
+You know?
+
+18:22.960 --> 18:25.980
+Basically, it's our first try and we're going it slow.
+
+18:25.980 --> 18:28.860
+And I don't think that should reflect poorly on them at all.
+
+18:28.860 --> 18:32.660
+If anything, it should reflect poorly on us, because we have no fucking clue what we're
+
+18:32.660 --> 18:33.660
+doing.
+
+18:34.060 --> 18:36.420
+What can freedom or creator have to do with the show?
+
+18:36.420 --> 18:37.420
+Nothing.
+
+18:37.420 --> 18:39.900
+You're still going to get the content at the same times.
+
+18:39.900 --> 18:42.820
+They're just going to give us a hand with some copyright issues, give us a hand with
+
+18:42.820 --> 18:50.140
+some search engine optimization stuff, and then we'll kind of see how we like the partnership
+
+18:50.140 --> 18:51.140
+and then go from there.
+
+18:51.140 --> 18:54.140
+So that's really where we stand right now.
+
+18:54.140 --> 18:58.620
+Starting a Patreon, it's got shit rewards, because we're a small channel.
+
+18:58.620 --> 19:01.900
+If you want to help out, that's great.
+
+19:01.900 --> 19:06.780
+We'll expand things as we go, we'll figure out how it works as we go, and we will prove
+
+19:06.780 --> 19:08.780
+to you that your money is not being wasted.
+
+19:08.780 --> 19:10.380
+BlipTV is closing.
+
+19:10.380 --> 19:14.460
+It makes absolutely no difference to anybody at this point, because BlipTV is archaic and
+
+19:14.460 --> 19:15.740
+it's going to be gone.
+
+19:15.740 --> 19:19.780
+It's a ghost town, and when it becomes Maker TV, it will be even more of a ghost town.
+
+19:19.780 --> 19:20.940
+And the market will adjust.
+
+19:20.940 --> 19:24.380
+Someone else will show up with a new video carrier and everyone's going to flock to it
+
+19:24.380 --> 19:25.420
+and it's going to be great.
+
+19:25.420 --> 19:28.180
+Maybe Daily Motion's going to rise to prominence again.
+
+19:28.180 --> 19:33.100
+Maybe Lord Cat's new video startup I hear he's doing will actually become a big thing.
+
+19:33.100 --> 19:34.100
+Who knows?
+
+19:34.100 --> 19:37.060
+Maybe Vimeo will start allowing ads, though I doubt that'll happen.
+
+19:37.060 --> 19:41.620
+However, BlipTV closing means that we join the Freedom multichannel network under Queenie's
+
+19:41.620 --> 19:45.980
+creators subnetwork within Freedom.
+
+19:45.980 --> 19:49.340
+They've helped us a lot, even though it's only been like a week and they're great, and
+
+19:49.340 --> 19:53.500
+it's not going to impede the actual progress of our show, which is what you guys care about
+
+19:53.500 --> 19:54.500
+the most.
+
+19:54.500 --> 19:58.460
+I do want to talk a bit about the schedule of those video game episodes.
+
+19:58.460 --> 20:01.980
+I'm sure you all have noticed, it's taken us a while to get through games, and part
+
+20:01.980 --> 20:06.300
+of that is just due to Dave not playing them very well.
+
+20:06.300 --> 20:10.780
+However, a lot of that is because we just have too much on our plate, and we had this
+
+20:10.780 --> 20:16.220
+problem a year ago, where a year ago we were posting, we had like six games on the go,
+
+20:16.220 --> 20:21.360
+and we posted one part of a game on Monday, one part of the second game on Tuesday, one
+
+20:21.360 --> 20:26.240
+part of the third game on Wednesday, and Thursday, Friday, Saturday, then back to Monday
+
+20:26.240 --> 20:29.920
+we post the second part of the first game, and then on Tuesday we post the second part
+
+20:29.920 --> 20:30.920
+of the second game.
+
+20:30.920 --> 20:33.240
+And we realized really quickly that was kind of ridiculous.
+
+20:33.240 --> 20:38.880
+You know, it shouldn't take three months to get through a game, but it did for us because
+
+20:38.880 --> 20:41.000
+we were posting one part a week.
+
+20:41.000 --> 20:47.760
+So when the summer came along, the summer of 2014, we started posting two videos a day
+
+20:47.760 --> 20:50.360
+and we started posting them in large blocks, and we started getting through games that
+
+20:50.360 --> 20:51.360
+way.
+
+20:51.360 --> 20:56.220
+But then we basically, we just took on too many games, we started too many games.
+
+20:56.220 --> 20:59.720
+Games that we intended to finish, because like, there are certain games that we're obviously
+
+20:59.720 --> 21:00.720
+not going to finish.
+
+21:00.720 --> 21:05.080
+Like, we're not going to play like a Mario Party to completion to get 100% in that game,
+
+21:05.080 --> 21:06.080
+that's ridiculous.
+
+21:06.080 --> 21:09.360
+But there are games that we do at least want to beat, if not 100%.
+
+21:09.360 --> 21:10.880
+Our internal schedule works like this.
+
+21:10.880 --> 21:16.440
+We have a rotation of six games, well five games now, because we just finished Sonic
+
+21:16.440 --> 21:17.440
+and Knuckles.
+
+21:17.620 --> 21:24.360
+Rogue Legacy, then Super Mario Sunshine, then our Pokemon Soul Silver Ballock run, then
+
+21:24.360 --> 21:29.600
+Muramasa the Demon Blade, then Snatcher, and then Sonic and Knuckles.
+
+21:29.600 --> 21:33.280
+Now that we just finished Sonic and Knuckles, there's only five games in the rotation.
+
+21:33.280 --> 21:39.040
+And basically what we would do is, either camera lady or myself, since I do some editing
+
+21:39.040 --> 21:43.220
+now, we would edit up a session of, say, Rogue Legacy.
+
+21:43.220 --> 21:45.220
+That would go out.
+
+21:45.220 --> 21:49.900
+The accompanying Rogue Legacy would be a session of Super Mario Sunshine.
+
+21:49.900 --> 21:52.140
+So that would go out.
+
+21:52.140 --> 21:56.540
+Whichever one of those sessions ended first on the release schedule, on the YouTube upload
+
+21:56.540 --> 22:04.000
+schedule, in that slot would be the session of Pokemon Soul Silver.
+
+22:04.000 --> 22:10.160
+And then whatever session ended next, whether that be Sunshine or Soul Silver, then taking
+
+22:10.160 --> 22:13.660
+that spot would be Muramasa.
+
+22:13.660 --> 22:18.560
+Then whatever session ended next, it would be Snatcher, and then Sonic, and then back
+
+22:18.560 --> 22:20.360
+to Rogue Legacy.
+
+22:20.360 --> 22:22.840
+Additionally, we have special games.
+
+22:22.840 --> 22:28.040
+Skyward Sword is one of those special games, Mario Kart, Smash, anything that requires
+
+22:28.040 --> 22:34.440
+people more than Dave or I would consider a special game, because Dave and I can film
+
+22:34.440 --> 22:35.440
+this anytime we want.
+
+22:35.440 --> 22:36.440
+We live together.
+
+22:36.440 --> 22:38.440
+We can do it every day of the week if we want.
+
+22:38.440 --> 22:43.040
+Getting other people's kind of a task sometimes, and that's not a slight to them, it's just
+
+22:43.040 --> 22:45.340
+people have lives.
+
+22:45.340 --> 22:51.580
+So whenever we get something from them, we put it up either as soon as possible, or if
+
+22:51.580 --> 22:54.180
+it's a holiday show, whenever appropriate.
+
+22:54.180 --> 23:00.220
+So these two factors combined, the abundance of special games we have on the go, and the
+
+23:00.220 --> 23:06.780
+random availability of the people involved in them, along with six full-time games, we
+
+23:06.780 --> 23:11.740
+were posting twice a day, and we were rotating session to session, not game to game, one
+
+23:11.740 --> 23:17.360
+at a time, it was still taking a full month to get back to the next session.
+
+23:17.360 --> 23:23.400
+We started posting the first session of Rogue Legacy at the beginning of January, the second
+
+23:23.400 --> 23:26.160
+session came out near the end of January.
+
+23:26.160 --> 23:30.280
+That's still a bit too inconsistent for my taste, and I'm sure for some of the viewer
+
+23:30.280 --> 23:31.280
+tastes as well.
+
+23:31.280 --> 23:32.280
+I'm just assuming.
+
+23:32.280 --> 23:37.720
+I mean, I wouldn't want to shoot myself in the foot here, but I wouldn't want to watch
+
+23:37.720 --> 23:41.720
+a channel that kept rotating large numbers of games and only getting back to the games
+
+23:41.720 --> 23:44.160
+that I liked every once in a while.
+
+23:44.160 --> 23:45.640
+So here's what we've decided to do.
+
+23:45.640 --> 23:49.580
+The special games will stay the same as they always were.
+
+23:49.580 --> 23:52.720
+Whenever they're available, they're available, and that's just how it has to be, because
+
+23:52.720 --> 23:55.180
+it involves people other than myself or Dave.
+
+23:55.180 --> 24:01.620
+The main games, those five in the rotation now that Sonic's done, we're not starting
+
+24:01.620 --> 24:06.560
+any new games until that's cut down to at least two, preferably one.
+
+24:06.560 --> 24:12.960
+You know, at the time of filming this, we've completed about two-thirds of Mario Sunshine,
+
+24:12.960 --> 24:16.800
+though it hasn't come out yet, but we've completed about two-thirds.
+
+24:16.800 --> 24:21.800
+Muramasa is nearly complete, Snatcher is done, it just has to come out, we have to wait for
+
+24:21.800 --> 24:26.440
+the schedule to get to it, but we've finished Snatcher.
+
+24:26.440 --> 24:32.120
+The two big ones left are Pokemon Soul Silver, which we're just barely halfway through at
+
+24:32.120 --> 24:37.500
+this point, and Rogue Legacy, which we're also just barely halfway through at this point.
+
+24:37.500 --> 24:42.840
+So before we start any new projects, we're going to start completing some of these games.
+
+24:42.840 --> 24:47.440
+And when we get to a point where we only have, say, Rogue Legacy and Pokemon Soul Silver,
+
+24:47.440 --> 24:53.120
+because those are two just giant beasts of a game, at that point, maybe we'll start bringing
+
+24:53.120 --> 24:54.120
+in new games.
+
+24:54.120 --> 24:58.120
+Because, I mean, I want to start the next Banjo, I also want to start the next Sonic
+
+24:58.120 --> 25:00.060
+and kind of get that series back underway.
+
+25:00.060 --> 25:04.860
+I know Dave really wants to play Charles Barkley again, and so do I, and we have begun
+
+25:04.860 --> 25:09.360
+filming a completely new game unrelated to any old series, but again, we're not going
+
+25:09.360 --> 25:14.500
+to release it until we free up some time with the schedule, because it's kind of getting
+
+25:14.500 --> 25:16.060
+ridiculous at this point.
+
+25:16.060 --> 25:21.260
+So throughout the month of March, we're going to really try and get this stuff done, so
+
+25:21.260 --> 25:24.900
+hopefully there'll be space for new games very soon.
+
+25:24.900 --> 25:28.340
+And I mean, if he wants to play something, all you have to do is ask, you can't promise
+
+25:28.340 --> 25:31.620
+when we'll get around to it, but if we have a copy of it, sure, we'll play it.
+
+25:31.620 --> 25:37.740
+The gift rule still applies, where if somebody decides to send us a game, or maybe send us
+
+25:37.740 --> 25:45.020
+money with the express note attached saying, buy this game with this money, I guess, then
+
+25:45.020 --> 25:48.660
+we will put that request at the head of the line.
+
+25:48.660 --> 25:53.940
+We will say, you know what, you just gave us something, we're going to do this for you.
+
+25:53.940 --> 25:57.700
+You know, because you're being generous, we're going to give you what you want.
+
+25:57.700 --> 26:01.060
+You give us an anime, we'll give you a review, it'll be the next thing we do.
+
+26:01.060 --> 26:05.420
+You give us a video game, we'll give you a let's play, it'll be the next thing we play.
+
+26:05.420 --> 26:10.060
+We've always wanted to reward fans that have decided to give us something, admittedly there
+
+26:10.060 --> 26:15.500
+haven't been many over the years, but there have been some, for example, Bible Black happened
+
+26:15.500 --> 26:18.780
+because we actually got the DVDs for Bible Black from somebody.
+
+26:18.780 --> 26:25.140
+So yeah, we did several riffs of that monstrosity because of fans.
+
+26:25.140 --> 26:29.180
+And that's our upcoming schedule, you know, whether you donate or not, whether the money
+
+26:29.180 --> 26:35.140
+works out or not, whether the freedom network works out or not, we are going to try our
+
+26:35.140 --> 26:42.980
+very hardest for two video game shows a day, one gamergate video a week, two anime reviews
+
+26:42.980 --> 26:43.980
+a month.
+
+26:43.980 --> 26:48.620
+I can't guarantee anything, but we are going to try.
+
+26:48.620 --> 26:53.980
+And again, no obligation, but the higher that Patreon number goes, the more likely we'll
+
+26:53.980 --> 26:55.300
+get it done.
+
+26:55.300 --> 27:01.620
+And that's not blackmailer me trying to be a money-grubbing jerk, that's just an economic
+
+27:01.620 --> 27:02.620
+fact.
+
+27:02.620 --> 27:05.100
+That's just how it is, you know.
+
+27:05.100 --> 27:10.660
+The show has grown, and it's grown to the point that either it needs to start funding
+
+27:10.660 --> 27:16.620
+itself again after BlipTV goes under, or we need to basically cut it out.
+
+27:16.620 --> 27:21.340
+And to all of us here, cutting it out is not an option, we love doing this.
+
+27:21.340 --> 27:27.500
+So if you're still with me, thanks for listening, and let's hope the coming months work out,
+
+27:27.500 --> 27:29.420
+in all these endeavours.
+
+27:29.420 --> 27:31.740
+Endeavours.
+

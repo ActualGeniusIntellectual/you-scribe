@@ -1,0 +1,772 @@
+1
+00:00:00,000 --> 00:00:01,880
+Hey guys, Dev here.
+
+2
+00:00:01,880 --> 00:00:04,640
+Stick around to the end of the video because I have some announcements to make, if you
+
+3
+00:00:04,640 --> 00:00:05,640
+don't mind.
+
+4
+00:00:05,640 --> 00:00:10,120
+I'm sure at this point, everyone knows who George Floyd is.
+
+5
+00:00:10,120 --> 00:00:12,000
+Very quickly, in case you don't.
+
+6
+00:00:12,000 --> 00:00:19,560
+On May 25th, 2020, George Floyd was killed by Derek Chauvin, a Minneapolis police officer.
+
+7
+00:00:19,560 --> 00:00:25,560
+During Floyd's arrest, Chauvin put his knee on Floyd's neck for 8 minutes and 46 seconds.
+
+8
+00:00:25,560 --> 00:00:27,840
+A video of the killing went viral.
+
+9
+00:00:27,840 --> 00:00:32,380
+And in it, if you have the stomach to do so, you can actually watch George Floyd die.
+
+10
+00:00:32,380 --> 00:00:36,840
+The Minneapolis Police Department's first move was to cover it up, as most American
+
+11
+00:00:36,840 --> 00:00:38,120
+PDs do, generally.
+
+12
+00:00:38,120 --> 00:00:41,060
+Here's a statement regarding the official autopsy.
+
+13
+00:00:41,060 --> 00:00:46,160
+The autopsy revealed no physical findings that support a diagnosis of traumatic asphyxia
+
+14
+00:00:46,160 --> 00:00:47,640
+or strangulation.
+
+15
+00:00:47,640 --> 00:00:52,600
+Mr. Floyd had underlying health conditions, including coronary artery disease and hypertensive
+
+16
+00:00:52,600 --> 00:00:53,600
+heart disease.
+
+17
+00:00:53,780 --> 00:00:58,960
+The combined effects of Mr. Floyd being restrained by the police, his underlying health conditions,
+
+18
+00:00:58,960 --> 00:01:03,820
+and any potential intoxicants in his system likely contributed to his death.
+
+19
+00:01:03,820 --> 00:01:08,520
+This was the Police Department's attempt to basically wave away the blame, and it was
+
+20
+00:01:08,520 --> 00:01:09,840
+quickly dropped.
+
+21
+00:01:09,840 --> 00:01:12,740
+Especially when a second coroner's opinion came out.
+
+22
+00:01:12,740 --> 00:01:13,860
+Cause of death.
+
+23
+00:01:13,860 --> 00:01:19,760
+Cardiopulmonary arrest complicating law enforcement subdual, restraint and neck compression.
+
+24
+00:01:19,760 --> 00:01:20,760
+Manner of death.
+
+25
+00:01:20,760 --> 00:01:21,760
+Homicide.
+
+26
+00:01:21,760 --> 00:01:23,280
+How injury occurred.
+
+27
+00:01:23,280 --> 00:01:28,160
+Decedent experienced a cardiopulmonary arrest while being restrained by law enforcement
+
+28
+00:01:28,160 --> 00:01:29,420
+officers.
+
+29
+00:01:29,420 --> 00:01:31,020
+Other significant conditions.
+
+30
+00:01:31,020 --> 00:01:34,280
+Ardeosclerotic and hypertensive heart disease.
+
+31
+00:01:34,280 --> 00:01:36,080
+Fentanyl intoxication.
+
+32
+00:01:36,080 --> 00:01:38,240
+Recent methamphetamine use.
+
+33
+00:01:38,240 --> 00:01:42,660
+I recall a few weeks ago, the common consensus was that the American people were being gaslit
+
+34
+00:01:42,660 --> 00:01:46,440
+by the Minneapolis Police Department, as well as those media outlets that were publishing
+
+35
+00:01:46,440 --> 00:01:53,280
+their propaganda, which said stuff like, any potential toxicants in his system likely
+
+36
+00:01:53,280 --> 00:01:58,940
+contributed to his death, but it turns out, no, he had actually recently used meth.
+
+37
+00:01:58,940 --> 00:02:01,260
+And man, it always ends up being this way, doesn't it?
+
+38
+00:02:01,260 --> 00:02:05,460
+How many times have we seen now, where a police officer kills somebody, usually, but not always
+
+39
+00:02:05,460 --> 00:02:06,460
+a black person.
+
+40
+00:02:06,460 --> 00:02:10,600
+The community is outraged, there's peaceful protests, there's riots, but then as the
+
+41
+00:02:10,600 --> 00:02:15,040
+wheels of justice continue to move, they discover that the victim was not just an innocent boy
+
+42
+00:02:15,040 --> 00:02:19,000
+going to college, but he may have actually done something wrong.
+
+43
+00:02:19,000 --> 00:02:21,120
+So let's examine the possibility.
+
+44
+00:02:21,120 --> 00:02:23,880
+Does George Floyd fall into that category?
+
+45
+00:02:23,880 --> 00:02:27,920
+According to court records in Houston, which is where George Floyd used to live, he was
+
+46
+00:02:27,920 --> 00:02:29,820
+arrested seven times.
+
+47
+00:02:29,820 --> 00:02:31,460
+Drug possession in 1997.
+
+48
+00:02:31,460 --> 00:02:33,660
+Two counts of theft in 1998.
+
+49
+00:02:33,660 --> 00:02:38,080
+Failure to identify, which you have to do as a fugitive, obviously, in 2001.
+
+50
+00:02:38,080 --> 00:02:40,000
+Drug possession, 2002.
+
+51
+00:02:40,000 --> 00:02:41,540
+Trespassing, 2003.
+
+52
+00:02:41,540 --> 00:02:43,540
+Drug possession, 2004.
+
+53
+00:02:43,540 --> 00:02:45,260
+Weapon, 2005.
+
+54
+00:02:45,260 --> 00:02:48,300
+Aggravated robbery with a deadly weapon, 2007.
+
+55
+00:02:48,300 --> 00:02:50,660
+That last charge is the most interesting.
+
+56
+00:02:50,660 --> 00:02:51,660
+Here's the story.
+
+57
+00:02:51,660 --> 00:02:57,840
+George Floyd and five other people arrived at the house of Araceli Henriquez and Angel
+
+58
+00:02:57,840 --> 00:03:00,540
+Negrete, as well as their young toddler.
+
+59
+00:03:00,540 --> 00:03:04,980
+One of them, it's not clear if it was George Floyd or somebody else, was dressed in a blue
+
+60
+00:03:04,980 --> 00:03:07,720
+uniform and said they were with the water department.
+
+61
+00:03:07,720 --> 00:03:11,400
+When Henriquez opened the door, the man forced himself into the house.
+
+62
+00:03:11,400 --> 00:03:15,960
+At the same time, five other men arrived in a black Ford Explorer.
+
+63
+00:03:15,960 --> 00:03:21,440
+The largest of the six, presumably George Floyd because George Floyd is 6'7", placed
+
+64
+00:03:21,440 --> 00:03:26,160
+a pistol against Henriquez's abdomen and forced her into the living room area of the
+
+65
+00:03:26,160 --> 00:03:27,160
+residence.
+
+66
+00:03:27,160 --> 00:03:32,240
+This large suspect proceeded to search the residence while another armed suspect guarded
+
+67
+00:03:32,240 --> 00:03:36,240
+Henriquez, who was struck in the head after she tried to scream for help.
+
+68
+00:03:36,240 --> 00:03:40,800
+As the six suspects looked through the residence, they demanded to know where drugs and money
+
+69
+00:03:40,800 --> 00:03:44,160
+were, and Henriquez told them there were no such things in the residence.
+
+70
+00:03:44,160 --> 00:03:48,040
+The suspects then took some jewelry along with a cell phone before they fled the scene
+
+71
+00:03:48,040 --> 00:03:50,020
+in their black Ford Explorer.
+
+72
+00:03:50,020 --> 00:03:55,140
+Three months later, the black Ford Explorer was found, and George Floyd was the driver.
+
+73
+00:03:55,140 --> 00:03:57,540
+George Floyd pled guilty in 2009.
+
+74
+00:03:57,540 --> 00:04:02,240
+He was sentenced to five years in prison, and he got out on parole in 2013.
+
+75
+00:04:02,240 --> 00:04:05,900
+After getting out of jail, George Floyd turned his life around, at least for a little bit.
+
+76
+00:04:05,900 --> 00:04:08,400
+Multiple articles have been written about the subject.
+
+77
+00:04:08,400 --> 00:04:11,520
+After jail, he moved to Minneapolis, hoping to start a new life.
+
+78
+00:04:11,520 --> 00:04:16,280
+He left at least one child behind in order to do so, but fine, he moves on with his life.
+
+79
+00:04:16,280 --> 00:04:17,280
+He gets married.
+
+80
+00:04:17,280 --> 00:04:18,440
+He has more kids.
+
+81
+00:04:18,440 --> 00:04:20,920
+He becomes a mentor of other young people in his community.
+
+82
+00:04:20,920 --> 00:04:22,160
+He works with his church.
+
+83
+00:04:22,160 --> 00:04:25,920
+He helped his mother exercise and recuperate after she had a stroke.
+
+84
+00:04:25,920 --> 00:04:28,880
+He worked as a truck driver, a bouncer, and a security guard.
+
+85
+00:04:28,880 --> 00:04:33,240
+A few months before his death, he lost his job as the bouncer of a bar because of the
+
+86
+00:04:33,240 --> 00:04:38,280
+whole coronavirus thing, and he in fact contracted coronavirus himself and later recovered.
+
+87
+00:04:38,280 --> 00:04:46,320
+George Floyd's crime was trying to pass off a counterfeit $20 bill at a Cup Foods location.
+
+88
+00:04:46,320 --> 00:04:51,040
+According to an interview with the owner of that Cup Foods location on The Cut, the owner
+
+89
+00:04:51,040 --> 00:04:55,460
+knew Floyd, calling him a big teddy bear who would come to the location a few times a week
+
+90
+00:04:55,460 --> 00:04:58,760
+to pay his cell phone bill, and said that they always got along.
+
+91
+00:04:58,760 --> 00:05:01,040
+However, the owner wasn't there that night.
+
+92
+00:05:01,040 --> 00:05:02,260
+Other employees were.
+
+93
+00:05:02,260 --> 00:05:06,400
+And according to testimony from those two employees published on the Washington Post,
+
+94
+00:05:06,400 --> 00:05:10,040
+when they realized that George Floyd had used a counterfeit $20 to buy cigarettes, and that
+
+95
+00:05:10,040 --> 00:05:13,520
+he was still sitting in his vehicle across the street, they went to confront him.
+
+96
+00:05:13,520 --> 00:05:18,760
+Not only did Floyd refuse to return the cigarettes, he apparently seemed awfully drunk and not
+
+97
+00:05:18,760 --> 00:05:20,360
+in control of himself.
+
+98
+00:05:20,360 --> 00:05:24,980
+When the police finally arrived, George Floyd struggled with them as they pulled him out
+
+99
+00:05:24,980 --> 00:05:25,980
+of his car.
+
+100
+00:05:25,980 --> 00:05:29,780
+And although he was quite calm while sitting on the street talking to the officers, when
+
+101
+00:05:29,780 --> 00:05:33,480
+they decided to put him in their police car, he again resisted, which is what led to the
+
+102
+00:05:33,480 --> 00:05:35,640
+8 minutes and 46 seconds.
+
+103
+00:05:35,640 --> 00:05:42,840
+So we're talking about a man who has an extensive criminal history, who seems to have tried
+
+104
+00:05:42,840 --> 00:05:48,640
+multiple times to turn his life around, doing legitimate good in the process, but who continued
+
+105
+00:05:48,640 --> 00:05:54,040
+to commit petty theft and various other minor crimes up until his death at the hands of
+
+106
+00:05:54,040 --> 00:05:55,440
+the police officers.
+
+107
+00:05:55,820 --> 00:06:01,220
+George Floyd wasn't a saint, despite the deification he's currently receiving by a lot of progressives
+
+108
+00:06:01,220 --> 00:06:02,220
+right now.
+
+109
+00:06:02,220 --> 00:06:03,980
+But I want to make it absolutely clear.
+
+110
+00:06:03,980 --> 00:06:08,040
+It doesn't matter what George Floyd's crimes actually were.
+
+111
+00:06:08,040 --> 00:06:10,620
+He should not have been killed in the street.
+
+112
+00:06:10,620 --> 00:06:12,900
+This guy could have been a serial killer.
+
+113
+00:06:12,900 --> 00:06:15,020
+He could have been a child molester.
+
+114
+00:06:15,020 --> 00:06:16,340
+It doesn't matter.
+
+115
+00:06:16,340 --> 00:06:21,080
+It doesn't matter what his crimes were, whether large or small, because now he will never
+
+116
+00:06:21,080 --> 00:06:22,980
+be brought to justice for them.
+
+117
+00:06:23,120 --> 00:06:27,680
+Unless a suspect is actively resisting arrest, like if he has a gun and he was pointing at
+
+118
+00:06:27,680 --> 00:06:32,680
+a police officer and the cop had to shoot him or be shot, and then the suspect got killed,
+
+119
+00:06:32,680 --> 00:06:35,080
+it's regrettable, but fine.
+
+120
+00:06:35,080 --> 00:06:36,480
+That's not this case.
+
+121
+00:06:36,480 --> 00:06:38,320
+There were four officers there.
+
+122
+00:06:38,320 --> 00:06:39,700
+They had him arrested.
+
+123
+00:06:39,700 --> 00:06:41,480
+They had him restrained.
+
+124
+00:06:41,480 --> 00:06:45,600
+There were other things they could have done aside from fucking murder him.
+
+125
+00:06:45,600 --> 00:06:50,720
+Regardless of his crimes, what should have happened to George Floyd was that he be detained,
+
+126
+00:06:50,780 --> 00:06:56,300
+read his rights, arrested, brought in, provided legal counsel, and be allowed to live to see
+
+127
+00:06:56,300 --> 00:06:57,940
+his day in court.
+
+128
+00:06:57,940 --> 00:07:03,060
+And the fact that he is dead at the hands of the police is a miscarriage of justice.
+
+129
+00:07:03,060 --> 00:07:07,900
+George Floyd may not have been innocent, but he certainly didn't deserve to die.
+
+130
+00:07:10,300 --> 00:07:15,340
+Whew, that was a, that was a rough video to make, and actually based on the script that
+
+131
+00:07:15,340 --> 00:07:18,260
+I had written and the amount of evidence that I had up, I actually thought it'd be longer
+
+132
+00:07:18,260 --> 00:07:19,260
+than that.
+
+133
+00:07:19,640 --> 00:07:24,360
+Hope you don't mind me filling out the rest of the video with an announcement.
+
+134
+00:07:24,360 --> 00:07:27,480
+I know that I've been away from the SFO channel for a while.
+
+135
+00:07:27,480 --> 00:07:32,260
+The political videos have been kind of dry for the past two weeks, but I'm now back to
+
+136
+00:07:32,260 --> 00:07:33,260
+doing it.
+
+137
+00:07:33,260 --> 00:07:36,920
+The story as to why I was gone is probably just pretty boring to you guys.
+
+138
+00:07:36,920 --> 00:07:40,400
+If you've heard me talk on Discord or on my gaming stream or whatever, you've probably
+
+139
+00:07:40,400 --> 00:07:47,880
+heard it already, but basically it was a combination of being completely inundated with almost
+
+140
+00:07:47,940 --> 00:07:49,500
+too much information.
+
+141
+00:07:49,500 --> 00:07:54,100
+When you have hundreds of links or thousands of links and they have to be catalogued and
+
+142
+00:07:54,100 --> 00:07:58,500
+then turned into a workable script, you get a lot of projects that end up being started
+
+143
+00:07:58,500 --> 00:08:00,060
+but not finished.
+
+144
+00:08:00,060 --> 00:08:02,380
+And that has been a consistent problem with my workflow.
+
+145
+00:08:02,380 --> 00:08:09,300
+I have three or four videos related to the current riot situation, but every day there's
+
+146
+00:08:09,300 --> 00:08:14,140
+like, there's more sources, there's more news, and the videos become too big.
+
+147
+00:08:14,140 --> 00:08:19,880
+And I basically need to get a handle on actually nailing something down and getting it out
+
+148
+00:08:19,880 --> 00:08:22,280
+and basically putting my own perfectionism aside.
+
+149
+00:08:22,280 --> 00:08:25,120
+And I know that I've talked about this before and so have other creators, but the worst
+
+150
+00:08:25,120 --> 00:08:28,840
+part about it is that when you skip a few days trying to make the video good, there's
+
+151
+00:08:28,840 --> 00:08:32,440
+like pressure on you to make an even better video, which then leads to more time, which
+
+152
+00:08:32,440 --> 00:08:36,280
+then leads to more time before the video comes out, which then leads to it even being later,
+
+153
+00:08:36,280 --> 00:08:42,180
+and it becomes this snowballing nightmare of me being gone for two weeks and organizing
+
+154
+00:08:42,180 --> 00:08:45,920
+a dozen video topics and not actually doing any of them.
+
+155
+00:08:45,920 --> 00:08:50,200
+So basically my solution to this was to just be like, you know what, fuck it.
+
+156
+00:08:50,200 --> 00:08:54,160
+I'm doing a small video just to talk about something, just to get myself back in front
+
+157
+00:08:54,160 --> 00:08:59,320
+of the mic again, and then that wipes out one topic and basically gets me started again.
+
+158
+00:08:59,320 --> 00:09:03,720
+So this tiny video will hopefully lead to more videos in the coming days.
+
+159
+00:09:03,720 --> 00:09:06,840
+This probably just sounds dumb to you and I would completely understand it if you viewed
+
+160
+00:09:06,840 --> 00:09:11,120
+it that way, because frankly it sounds kind of dumb to me, but basically sometimes things
+
+161
+00:09:11,120 --> 00:09:15,120
+get away from me and I don't want to put out a lackluster product, so I just keep working
+
+162
+00:09:15,120 --> 00:09:17,840
+at stuff and then it just turns into a giant nightmare.
+
+163
+00:09:17,840 --> 00:09:22,620
+And ironically enough, the solution seems to be doing something that I hate to do, which
+
+164
+00:09:22,620 --> 00:09:28,220
+is put out a short video that is hyper-focused on one thing, in this case it was just George
+
+165
+00:09:28,220 --> 00:09:32,500
+Floyd's record, and allowing that to snowball me in a positive direction instead of a negative
+
+166
+00:09:32,500 --> 00:09:33,500
+one.
+
+167
+00:09:33,500 --> 00:09:35,380
+In any case, I've got an announcement to make.
+
+168
+00:09:35,380 --> 00:09:37,860
+I now have a P.O. box.
+
+169
+00:09:37,860 --> 00:09:44,340
+People have been asking for a while now, hey Dev, where or how can I mail you things?
+
+170
+00:09:44,340 --> 00:09:50,860
+And for a while I actually had my address up on a video, I've now since taken down the
+
+171
+00:09:50,860 --> 00:09:56,580
+video, ever since my local Antifa goons have been trying to find out where I live, I said
+
+172
+00:09:56,580 --> 00:10:01,360
+you know what, maybe I should take down that video that has my address in it, but basically
+
+173
+00:10:01,360 --> 00:10:02,700
+I now have a P.O. box.
+
+174
+00:10:02,700 --> 00:10:07,140
+If you want to mail me stuff, you can do so at the address on the screen.
+
+175
+00:10:07,140 --> 00:10:09,940
+I'll check it probably once a week or once every two weeks or something, I don't expect
+
+176
+00:10:09,940 --> 00:10:13,240
+to be flooded with mail or anything, but if you want to mail me something and you want
+
+177
+00:10:13,240 --> 00:10:16,540
+me to unbox it on the Weekly Sip, I can do that.
+
+178
+00:10:16,540 --> 00:10:19,900
+If you want me to just have something that you for some reason really just want me to
+
+179
+00:10:19,900 --> 00:10:20,900
+have, that's fine.
+
+180
+00:10:20,900 --> 00:10:24,840
+If you want to send me games to play on Game Boomers, sure, if it's like a physical game
+
+181
+00:10:24,840 --> 00:10:29,540
+I'll put it at the start of the pile for us to play new games with.
+
+182
+00:10:29,540 --> 00:10:33,400
+Maybe books that I can read or do reviews of, I'm down with that too.
+
+183
+00:10:33,400 --> 00:10:38,540
+Please don't mail me poison or glitter bombs or other bad things, okay?
+
+184
+00:10:38,540 --> 00:10:41,220
+I'd rather not die.
+
+185
+00:10:41,220 --> 00:10:47,700
+I mean, maybe that's an unreasonable request, but basically don't mail me stuff that'll
+
+186
+00:10:47,700 --> 00:10:52,640
+be a big mess or that'll actually be damaging to me or somebody, or that'll get me like,
+
+187
+00:10:52,640 --> 00:10:55,460
+I don't know, put on a watch list, I'm not sure.
+
+188
+00:10:55,460 --> 00:10:58,500
+But basically don't do that, okay, if you don't mind.
+
+189
+00:10:58,500 --> 00:11:02,800
+So thanks very much for continuing to support me and sticking with me, and I'll see you
+
+190
+00:11:02,800 --> 00:11:06,320
+guys in the next video, which will hopefully be tomorrow.
+
+191
+00:11:06,320 --> 00:11:08,540
+And hopefully it'll be a lot longer than this one.
+
+192
+00:11:08,540 --> 00:11:10,640
+Alright, I'm outta here.
+
+193
+00:11:10,640 --> 00:11:11,140
+I love you.
+

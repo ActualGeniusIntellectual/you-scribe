@@ -1,0 +1,164 @@
+Hey guys, Dev here.
+I hope everyone is having a great time at this year's Game Developer Conference.
+I know Gamergate did, at least with the GDC hashtags.
+And because we over at the Sharp Play Otaku channel are opportunistic twats, I'd like
+to talk to you about something related to the GDC.
+Namely, the International Game Developers Association.
+Here is a brief history taken from the IGDA's own website.
+The IGDA was initially established in 1994 by Ernest Adams as the CGDA, the Computer
+Game Developers Association.
+Its main reason for being was to give game developers a unified voice in the wake of
+the video game debates happening in the American Congress that same year.
+In the Escapist's article on the subject, titled Let's Get Together, Adams describes
+the founding in greater detail.
+According to his own words, Adams went to the CGDC board and asked them to let him create
+the CGDA as a department of the conference itself, an association within the business.
+The CGDC he's referring to is the Computer Game Developer Conference, which would later
+become today's GDC.
+The IGDA began as a division of the GDC, back when the GDC was his own company.
+In 1995, the IGDA's predecessor became an independent organization, even though its
+members and staff were still the members and staff of the GDC.
+Adams says the IGDA's primary function was, and is, to support the careers and interests
+of developers as individuals, not companies.
+Which is a fine goal, but I'm not convinced the IGDA actually has game developers' best
+interests at heart.
+Around the same time as the IGDA's birth, the CGDC was sold to UBM, and became the GDC
+we know and love today.
+UBM is the parent company of Indie Games Fest, which I've already talked about at length
+in another video, and Gamasutra, one of the corrupt publications that Gamergate is boycotting.
+Officially, the IGDA did become its own separate entity from the GDC, or any other UBM-owned
+properties, but on paper it didn't quite work that way.
+The IGDA employed CMP for operations and management services up until 2004, CMP being what UBM
+called itself before a name change.
+Even after 2004, there continues to be significant crossover between the two organizations.
+Now let's take a step back and look at the whole picture.
+The IGDA is an association that brings developers together to have a unified political voice,
+to have them collaborate and push each other's work, and to stand up for their own collective
+interests.
+It's almost like a union, however not really, although an anonymous indie dev who spoke
+to us expressed the hope that it one day would grow into a full-fledged union for game devs,
+but more on that later.
+Now, the IGDA sprung up from the same roots as the GDC, and was owned for a time by UBM,
+and still has significant membership and staff crossover.
+This is what is known as, in other industries, creating a cabal.
+Suppose you were a small developer starting out.
+Do you want to have a fair shot at your game winning in the IGF?
+Do you want to have your work covered by Gamasutra?
+Do you want to show off your game at GDC?
+Well, if so, you're going to have to join this developers association, which claims
+to speak for your rights, but is financially and socially intertwined with the parent company
+of all these other events and outlets.
+The IGDA and UBM have essentially created a gateway to enter the gaming industry.
+The message they've sent to indie devs is clear.
+If you want to be a part of this industry, fall in line with us.
+It's blatantly unethical for award shows, journalism publications, and public conferences
+to have these ties with a union-like association that claims to represent the interests of
+its members in an unbiased manner.
+Not only is there no guarantee that the association won't pander to the interests of its corporate
+buddies rather than its members, there is also the obvious avenues for favoritism towards
+members over non-members at these supposedly fair events.
+This would be like if you worked in a factory, and the union that represents you was originally
+owned by the same parent company as the factory, and the union's staff were all the same
+people that ran the factory.
+Do you think you would be fairly represented in a dispute?
+And we can't forget the whole blockbot debacle.
+People opposed to gamer gits investigations into their unethical practices, and who wanted
+to push a narrative of harassment over the truth of corruption, created a blockbot.
+The public face of what would become known as the GG autoblocker was Randy Harper, but
+its creation involved a lot of people.
+GG autoblocker, when used, would automatically block a list of users on Twitter who were
+determined to have been pro-gamergate and therefore anti-corruption.
+However, GG autoblocker only became relevant when the IGDA began using it, and in doing
+so, began to block indie devs who had spoken out against corruption, including its own members.
+The IGDA publicly endorsed the blockbot, even as its own Puerto Rico chairman, Roberto Rosario,
+was blocked by it for his objection to Jordy Tate's comment that all gamergaters be sent
+to Nazi gas chambers.
+In retaliation, the Puerto Rico chapter of the IGDA was closed.
+The shitstorm that descended upon the IGDA by its own blocked members was colossal.
+What didn't help is that the list that the GG autoblocker used was distinctly called
+the blacklist, and that companies colluding to blacklist individuals from the industry
+is illegal under US law.
+The IGDA quickly backpedaled, with the current chair, Kate Edwards, saying that the blacklist
+bot was a third-party tool, that they weren't involved in its construction, and that the
+IGDA will stop using it.
+Except that none of it was true.
+One day before Edwards' denial of involvement on Twitter, Donna Prior said that a bunch
+of people had their fingers in the blacklist bot, with WIG taking the major load of work.
+WIG is the IGDA's women's games group, and Donna Prior works for the IGDA in several
+capacities.
+And despite what they've said, the IGDA still uses it.
+Camera ladies never spoke to Kate Edwards before, and yet here she is, blocked.
+Not only does the IGDA endorse the blacklist bot, it's no third-party tool.
+It was created by a division of the IGDA to block its own members who speak out about
+corruption, and they continue to use it to this day despite the lies they told to get
+indie devs off their back.
+Now here's where things begin to get really interesting.
+A number of indie devs have actually been willing to speak with camera lady on this
+topic.
+Some were entirely okay with going public, while others wanted their names censored out
+of fear of reprisal from the IGDA.
+Pixelmetal, the dev of the indie game Sombrero, said that most indies are wary of pissing
+off the IGDA, due to the collaborations and promotions the IGDA provides.
+Many people simply aren't willing to talk about the IGDA, the IGF, GDC, or Gamasutra
+due to the Cabal's influence.
+Another person camera lady spoke to about the IGDA and its unethical links to UBM's
+properties, who never specified about whether or not he wanted to remain anonymous, so we've
+erred on the side of caution and censored him just in case, said Silverstring, Lego
+Butts, Ismail, Shafer.
+All their relationships and collaboration.
+Quinn got caught out by being a manipulative asshole.
+But as a game dev, it became apparent that there was a definite web of cool kids.
+Many with no actual game dev skills, just loudly supporting causes.
+They trick new game devs into thinking they're the top, but they're simply the loudest.
+The real game devs are mostly too busy working.
+The anonymous indie dev from earlier, who hoped the IGDA would eventually reform and
+become a full-fledged union, has a different opinion on the IGDA than everyone else.
+Thus far, evidence points towards UBM and the IGDA working together to create a gateway
+into the gaming industry, with the IGDA acting as UBM's enforcement arm to keep questioning
+developers in line.
+However, this individual paints a different light.
+They say that the IGDA doesn't act as UBM's muscle, but rather it is intimidated itself
+by UBM, just as much as individual developers are.
+The IGDA itself is a very fickle organization that tends to go whichever way the wind is
+blowing.
+Right now, UBM asserts the most pressure, so it sides with them.
+However, the potential is there for the IGDA to become an ally of ethics in our industry
+if UBM's stranglehold on them is broken.
+Now this analysis of events is just as plausible as the more commonly held viewpoint that the
+IGDA is complicit in the suppression of developers.
+But at this point, the question must be asked.
+If the IGDA is not the tool that UBM uses to enforce order on developers, then what
+is?
+The autonomous dev says that UBM directly strongarms devs who step out of line with
+general social engineering, but also GDC access, gamasutra coverage, and the IGF, making the
+IGF significantly more corrupt than we first thought back during the Phil Fish investigation.
+And there are ongoing investigations into the IGF's conduct, but they deserve their
+own video.
+I'll end it off with a message to any and all developers of any size who are listening.
+Two narratives have been presented here.
+The first is that the IGDA is the hammer that UBM wields against you.
+The second is that the IGDA is kept down by the cabal just as much as you.
+Only you know which is the truth, and I encourage you to speak out.
+But regardless of which is true, is this the game dev that you dreamed about joining as
+a kid?
+Did you lie awake at night, thinking not about how awesome your game idea was, but about
+how best to pander to self-important personalities who hold sway in your industry?
+Did you enter the IGF, only to be told that your game was good and too bad it's not
+going to win, or that somebody's boyfriend was going to win and that was that?
+Do you actually want a game developer's union willing to stand for your interests?
+You have to speak out.
+This is as much our fight as it is yours now.
+If what's happened to Mark Kern recently is any indication, the cabal is beginning
+to turn on game devs who speak out against corruption.
+It's not just gamers they're gunning for now, you are their next target.
+When gamers contradicted their narrative, we repainted harassers, misogynists, and terrorists,
+all for doing some computer chair investigation.
+What do you think they're going to do to you, game devs, with your actual insider knowledge
+on how they're gaming the system to their advantage?
+I know you love this industry, but unless you speak out about the corruption you've
+seen, there's not going to be an industry left to love.
+You're actually not even nominated for anything, we want you to hand the awards to other people.
+Great, I said, and then I immediately set to work planning my revenge video where I
+discredited the awards and exposed all the conspiracies that caused me not to win.
+I decided tonight I will not be making any jokes about gamergate.
+All of tonight's gamergate jokes will be made by this sock puppet.
